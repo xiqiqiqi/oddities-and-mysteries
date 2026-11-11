@@ -1,0 +1,47 @@
+channel: tales
+type: event
+slug: yogtze
+title_zh: 六个字母
+title_en: Six Letters
+era: "1984"
+era_en: "1984"
+region: 德国，北莱茵-威斯特法伦，哈根附近
+region_en: "Near Hagen, North Rhine-Westphalia, Germany"
+coords: [51.34, 7.48]
+tags:
+  - YOGTZE
+  - 京特·施托尔
+  - 德国
+  - 悬案
+  - A45
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · YOGTZE case"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/YOGTZE_case
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 案件经过、纸条、调查与 2025 年结论
+  - id: S2
+    title: "The True Crime Database · YOGTZE Case"
+    publisher: The True Crime Database
+    url: https://www.thetruecrimedatabase.com/case_file/the-yogtze-case/
+    year: "2019"
+    license: 版权归 The True Crime Database；仅作事实参考
+    usage: 时间线、酒馆与车祸现场细节、2025 年警方通报
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面夜间公路与事故车场景复原、纸条与时间线示意；不是历史照片
+cover: ../../../assets/covers/yogtze.jpg
+related:
+  - dyatlov-pass
+  - tennessee-williams
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: sailing-stones
+title_zh: 石头自己走了
+title_en: The Stones That Walk
+era: "1915–2014（研究；2014 年观测到移动机制）"
+era_en: "studied 1915–2014; mechanism observed in 2014"
+region: 美国，加州，死亡谷，赛马场盐湖
+region_en: "Racetrack Playa, Death Valley, California, USA"
+coords: [36.681, -117.562]
+tags:
+  - 会走路的石头
+  - 死亡谷
+  - 赛马场盐湖
+  - 冰筏
+  - 自然怪象
+collections:
+  - natural-oddities
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Sailing stones"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Sailing_stones
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 现象、研究历史、2014 年观测与机制
+  - id: S2
+    title: "National Park Service · Death Valley National Park / Racetrack Playa"
+    publisher: National Park Service
+    url: https://www.nps.gov/deva/
+    year: "2026"
+    license: NPS 网站使用条款
+    usage: 地点与保护信息；具体页面待补
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与冰筏机制示意图；不是历史照片
+cover: ../../../assets/covers/sailing-stones.jpg
+related:
+  - fish-rain
+  - hessdalen-lights
+status: review
+featured: false
+translation_status: translated

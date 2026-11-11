@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Selma: Lake Seljord, the sightings, the 1880 event, and the coat of arms</title>
+  <desc id="desc">A schematic map of Lake Seljord with the sighting points, panels on the sightings and on the golden lindworm of the municipal coat of arms.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">SELMA · LAKE SELJORD, NORWAY</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SIGHTINGS / 1880 / THE COAT OF ARMS</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+
+    <!-- mountains -->
+    <g fill="#DCCFB8" stroke="#B8A582" stroke-width="1">
+      <path d="M70 300 L112 205 L154 300 Z"/>
+      <path d="M118 315 L162 225 L206 315 Z"/>
+      <path d="M330 296 L372 208 L414 296 Z"/>
+      <path d="M382 308 L420 232 L458 308 Z"/>
+    </g>
+
+    <!-- lake -->
+    <path d="M245 132 C 268 134 290 152 286 182 C 282 210 298 226 294 256 C 290 286 274 296 280 322 C 286 348 268 368 248 370 C 226 372 214 350 220 326 C 226 302 208 288 211 258 C 214 228 202 206 208 180 C 214 154 223 130 245 132 Z" fill="#7FA3B8" stroke="#3E5A7A" stroke-width="1.5"/>
+
+    <!-- village -->
+    <g fill="#8C7A52">
+      <rect x="178" y="344" width="14" height="10"/>
+      <rect x="196" y="350" width="16" height="9"/>
+      <rect x="168" y="354" width="14" height="8"/>
+    </g>
+
+    <!-- north arrow -->
+    <path d="M85 148 V 128" stroke="#4A4030" stroke-width="1.5"/>
+    <path d="M85 126 L80 136 H90 Z" fill="#4A4030"/>
+    <text x="85" y="120" font-family="Georgia, serif" font-size="9" fill="#4A4030" text-anchor="middle">N</text>
+
+    <!-- lake label -->
+    <text x="252" y="250" transform="rotate(-90 252 250)" font-family="Georgia, serif" font-size="9" fill="#F3EEE4" text-anchor="middle" letter-spacing="1">SELJORDSVATNET / 塞尔约德湖</text>
+
+    <!-- sighting 1750s -->
+    <circle cx="250" cy="160" r="4" fill="#B44A32"/>
+    <path d="M254 162 L 300 160" stroke="#B44A32" stroke-width="1"/>
+    <text x="306" y="163" font-family="Georgia, serif" font-size="8" fill="#1D1A17">1750s / 最早的记录</text>
+
+    <!-- sighting 1880 -->
+    <circle cx="288" cy="300" r="4" fill="#B44A32"/>
+    <path d="M291 303 L 308 322" stroke="#B44A32" stroke-width="1"/>
+    <text x="314" y="327" font-family="Georgia, serif" font-size="8" fill="#1D1A17">1880 / 比约恩与母亲</text>
+
+    <!-- village label -->
+    <text x="100" y="368" font-family="Georgia, serif" font-size="8" fill="#1D1A17">SELJORD / 塞尔约德</text>
+    <path d="M205 364 L 212 356" stroke="#1D1A17" stroke-width="1"/>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SIGHTINGS / 目击</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">1750s: first reports / 最早的记录</text>
+      <text x="520" y="184">a long dark serpent with humps</text>
+      <text x="520" y="200">细长、深色，背上有隆起</text>
+      <text x="520" y="220">1880: Bjørn Bjørge and his mother</text>
+      <text x="520" y="238">用船桨把它砍成两段</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE COAT OF ARMS / 纹章</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">a golden lindworm / 金色的林德虫</text>
+      <text x="520" y="330">a wingless dragon of Nordic legend</text>
+      <text x="520" y="346">北欧传说中的无翼龙</text>
+      <text x="520" y="366">a symbol, not a sighting record</text>
+      <text x="520" y="382">是象征，不是目击记录</text>
+    </g>
+
+    <!-- shield -->
+    <path d="M752 280 H812 V326 Q782 356 752 326 Z" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.5"/>
+    <path d="M764 334 C 770 306 778 340 788 310 C 794 294 800 330 806 310" fill="none" stroke="#C9A227" stroke-width="3"/>
+    <circle cx="764" cy="334" r="2.5" fill="#C9A227"/>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Lake Seljord is about 14 km long and more than 150 m deep.</text>
+    <text x="60" y="470">塞尔约德湖长约十四公里，最深处超过一百五十米。</text>
+    <text x="60" y="494" fill="#B44A32">Selma has never left a photograph, a bone, or a specimen. / 塞尔玛从未留下照片、骨骼或标本。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

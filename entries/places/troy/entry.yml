@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: troy
+title_zh: 特洛伊的九层
+title_en: The Nine Cities of Troy
+era: "约公元前 3000 年–公元 500 年"
+era_en: "c. 3000 BCE–500 CE"
+region: 土耳其，恰纳卡莱，希沙利克
+region_en: "Hisarlik, Çanakkale, Turkey"
+coords: [39.957, 26.239]
+tags:
+  - 特洛伊
+  - 希沙利克
+  - 施里曼
+  - 荷马
+  - 考古
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "UNESCO · Archaeological Site of Troy"
+    publisher: UNESCO World Heritage Centre
+    url: https://whc.unesco.org/en/list/849/
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 世界遗产信息、遗址范围与历史地位
+  - id: S2
+    title: "Wikipedia · Troy"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Troy
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 九层城址、施里曼发掘、特洛伊战争争论与宝藏流转
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面土丘与城墙场景复原、九层城址剖面示意；不是现场照片
+cover: ../../../assets/covers/troy.jpg
+related:
+  - mohenjo-daro
+  - angkor-wat
+status: review
+featured: false
+translation_status: translated

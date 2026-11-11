@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: alien-autopsy
+title_zh: 外星人解剖录像
+title_en: The Alien Autopsy Tape
+era: "1995"
+era_en: "1995"
+region: 英国，伦敦（故事背景为美国罗斯威尔）
+region_en: "London, United Kingdom (set in Roswell, USA)"
+coords: [33.394, -104.523]
+tags:
+  - 外星人解剖
+  - 罗斯威尔
+  - 骗局
+  - 1995
+  - 电视
+collections: []
+credibility: hoax
+sources:
+  - id: S1
+    title: "Wikipedia · Alien autopsy"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Alien_autopsy
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1995 年录像、播出、2006 年承认与后续影响
+  - id: S2
+    title: "Hoaxes.org · Alien Autopsy (1995)"
+    publisher: Hoaxes.org
+    url: https://hoaxes.org/archive/permalink/alien_autopsy/
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 桑蒂利的说法、胶片来源与骗局细节
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面黑白解剖室复原与录像流转示意；不是历史影像
+cover: ../../../assets/covers/alien-autopsy.jpg
+related:
+  - piltdown-man
+  - crystal-skulls
+status: review
+featured: false
+translation_status: translated

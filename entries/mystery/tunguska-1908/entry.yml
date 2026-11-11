@@ -1,0 +1,83 @@
+channel: mystery
+type: event
+slug: tunguska-1908
+title_zh: 那天早上，天空裂开了
+title_en: That Morning, the Sky Split Open
+era: "1908"
+era_en: "1908"
+region: 西伯利亚，俄罗斯
+region_en: "Siberia, Russia"
+coords: [60.55, 101.57]
+tags:
+  - 通古斯
+  - 空爆
+  - 天外来客
+  - 西伯利亚
+  - "1908"
+collections:
+  - celestial-visitors
+credibility: disputed
+sources:
+  - id: S1
+    title: "NASA History · 115 Years Ago: The Tunguska Asteroid Impact Event"
+    publisher: John Uri / NASA
+    url: https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/
+    year: "2023"
+    license: NASA 媒体使用指南
+    usage: 事件经过、目击者描述、库利克考察、两张历史照片
+  - id: S2
+    title: "NASA Science · Tunguska Revisited"
+    publisher: NASA
+    url: https://www.nasa.gov/solar-system/tunguska-revisited-111-year-old-mystery-impact-inspires-new-more-optimistic-asteroid-predictions/
+    year: "2019"
+    license: NASA 媒体使用指南
+    usage: 破坏面积、照片说明、空爆背景
+  - id: S3
+    title: "Wikipedia · Tunguska event"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Tunguska_event
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 坐标、爆炸当量、八千万棵树、气压记录、欧洲夜空
+  - id: S4
+    title: "Encyclopaedia Britannica · Tunguska event"
+    publisher: Britannica editors
+    url: https://www.britannica.com/event/Tunguska-event
+    year: "2026"
+    license: 版权归 Britannica，仅作参考
+    usage: 事实交叉核对；未复制原文
+  - id: S5
+    title: 通古斯爆炸范围图、空爆示意、当量对比、时间线
+    publisher: 稀奇奇编辑部
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 原创地图、图表与版面
+  - id: S6
+    title: 历史照片：倒伏森林
+    publisher: Leonid Kulik / 苏联科学院考察队，经 NASA History 转载
+    url: https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/
+    year: "1920s"
+    license: 原始照片在俄罗斯属公有领域；NASA 内容按 NASA 媒体使用指南
+    usage: 正文历史照片
+  - id: S7
+    title: 历史照片：“电线杆树”
+    publisher: Leonid Kulik / 苏联科学院考察队，经 NASA History 转载
+    url: https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/
+    year: "1929"
+    license: 原始照片在俄罗斯属公有领域；NASA 内容按 NASA 媒体使用指南
+    usage: 正文历史照片
+  - id: S8
+    title: 场景复原插图：头图、鄂温克营地、库利克考察、航拍倒伏区
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 氛围复原与版面图像，不作为历史证据
+cover: ../../../assets/covers/tunguska-1908.jpg
+related:
+  - hope-diamond
+  - mary-celeste
+status: review
+featured: true
+translation_status: translated

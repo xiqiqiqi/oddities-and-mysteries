@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: fuchun-mountain
+title_zh: 烧成两段的画
+title_en: The Painting Cut in Two
+era: "约 1350 年（元代）"
+era_en: "c. 1350 (Yuan dynasty)"
+region: 中国，浙江，富春江；分藏杭州与台北
+region_en: "Fuchun River, Zhejiang, China; split between Hangzhou and Taipei"
+coords: [29.9, 119.7]
+tags:
+  - 富春山居图
+  - 黄公望
+  - 元代
+  - 山水画
+  - 火烧
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "浙江省文化广电和旅游厅 · 传世名画《富春山居图·剩山图》在浙江展出"
+    publisher: 浙江省文化广电和旅游厅
+    url: http://wwj.zj.gov.cn/col/col1639083/art/2025/art_286f1c9bdfcb4f1e859828c95ed0b2c3.html
+    year: "2025"
+    license: 版权所有；仅作事实参考
+    usage: 原卷长度、火烧分段、两段收藏地与尺寸
+  - id: S2
+    title: "Wikipedia · 富春山居图"
+    publisher: Wikipedia contributors
+    url: https://zh.wikipedia.org/wiki/富春山居图
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 黄公望生平、创作年代、流传与 2011 年合璧
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面山水长卷场景复原、火烧与分藏示意；不是原作照片
+cover: ../../../assets/covers/fuchun-mountain.jpg
+related:
+  - sword-of-goujian
+  - dead-sea-scrolls
+status: review
+featured: false
+translation_status: translated

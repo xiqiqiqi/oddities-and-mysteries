@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Alex Mitchell: the living room, the television and the heart</title>
+  <desc id="desc">A 1970s living room with a television and sofa, an ECG trace ending in a flatline, and panels on the events of 24 March 1975 and the physiology of laughter.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">ALEX MITCHELL · 笑死的人</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">24 MARCH 1975 / THE GOODIES / 25 MINUTES</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE LIVING ROOM / 客厅示意</text>
+
+    <!-- television -->
+    <rect x="110" y="190" width="140" height="100" fill="#6B4A32" stroke="#4A4030" stroke-width="1.2"/>
+    <rect x="120" y="202" width="120" height="68" fill="#A8C4D8"/>
+    <g stroke="#4A4030" stroke-width="1.5">
+      <line x1="140" y1="190" x2="126" y2="168"/>
+      <line x1="220" y1="190" x2="234" y2="168"/>
+    </g>
+    <circle cx="128" cy="280" r="2.5" fill="#D8CCB6"/>
+    <circle cx="140" cy="280" r="2.5" fill="#D8CCB6"/>
+
+    <!-- armchair -->
+    <rect x="310" y="255" width="80" height="55" fill="#8C7A52" stroke="#6B4A32" stroke-width="1"/>
+    <rect x="300" y="295" width="100" height="30" fill="#A08A5A" stroke="#6B4A32" stroke-width="1"/>
+    <rect x="296" y="280" width="10" height="35" fill="#6B4A32"/>
+    <rect x="394" y="280" width="10" height="35" fill="#6B4A32"/>
+    <line x1="310" y1="325" x2="310" y2="334" stroke="#6B4A32" stroke-width="2"/>
+    <line x1="390" y1="325" x2="390" y2="334" stroke="#6B4A32" stroke-width="2"/>
+
+    <!-- ECG -->
+    <path d="M80 350 L 128 350 L 134 332 L 140 366 L 146 350 L 200 350 L 206 332 L 212 366 L 218 350 L 268 350 L 274 332 L 280 366 L 286 350 L 330 350 L 336 332 L 342 366 L 348 350 L 380 350 L 450 350" fill="none" stroke="#B44A32" stroke-width="1.6"/>
+    <circle cx="450" cy="350" r="2.5" fill="#B44A32"/>
+
+    <text x="80" y="368" font-family="Georgia, serif" font-size="8" fill="#1D1A17">25 MINUTES OF LAUGHTER / 笑了二十五分钟</text>
+    <text x="300" y="368" font-family="Georgia, serif" font-size="8" fill="#B44A32">HEART FAILURE / 心力衰竭</text>
+    <text x="80" y="382" font-family="Georgia, serif" font-size="8" fill="#6B6256">the television was still on / 电视还在放</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE EVENTS / 经过</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">24 March 1975 / 1975 年 3 月 24 日</text>
+      <text x="520" y="186">King's Lynn, Norfolk / 诺福克，金斯林</text>
+      <text x="520" y="206">The Goodies / 《The Goodies》</text>
+      <text x="520" y="226">“Kung Fu Kapers” / 《Kung Fu Kapers》</text>
+      <text x="520" y="242">25 minutes, then collapse / 二十五分钟后倒下</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE BODY / 身体</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">laughter raises heart rate / 笑使心率上升</text>
+      <text x="520" y="330">the diaphragm contracts / 横膈膜快速收缩</text>
+      <text x="520" y="348">blood pressure changes / 血压变化</text>
+      <text x="520" y="366">arrhythmia risk / 心律失常风险</text>
+      <text x="520" y="382">heart failure on the record / 死亡记录：心力衰竭</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The joke was not the cause; it was the last thing that happened.</text>
+    <text x="60" y="470">笑话不是死因，它只是最后发生的事。</text>
+    <text x="60" y="494" fill="#B44A32">A rare death, but a real one: heart failure after prolonged laughter. / 罕见的死亡，但真实发生过：长时间大笑后心力衰竭。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Atlantis: the ringed city, Plato's account and the search</title>
+  <desc id="desc">A plan of the ringed city of Atlantis with concentric rings of land and water, and panels on Plato's text and the search for the island.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">ATLANTIS · 消失的岛</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">PLATO / 9600 BCE / THE RINGS</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE RINGED CITY / 环形城示意</text>
+
+    <!-- rings -->
+    <circle cx="255" cy="250" r="105" fill="#A8C4D8"/>
+    <circle cx="255" cy="250" r="90" fill="#C9B799"/>
+    <circle cx="255" cy="250" r="75" fill="#A8C4D8"/>
+    <circle cx="255" cy="250" r="60" fill="#C9B799"/>
+    <circle cx="255" cy="250" r="45" fill="#A8C4D8"/>
+    <circle cx="255" cy="250" r="30" fill="#C9B799"/>
+
+    <!-- canal -->
+    <rect x="255" y="244" width="110" height="12" fill="#A8C4D8"/>
+
+    <!-- temple -->
+    <rect x="244" y="240" width="22" height="20" fill="#8C5A3A"/>
+    <path d="M270 250 L 360 250" stroke="#6B6256" stroke-width="0.8" fill="none"/>
+    <text x="368" y="244" font-family="Georgia, serif" font-size="7" fill="#4A4030">TEMPLE</text>
+    <text x="368" y="254" font-family="Georgia, serif" font-size="7" fill="#4A4030">神庙</text>
+
+    <!-- labels -->
+    <path d="M180 180 L 210 210" stroke="#6B6256" stroke-width="0.8" fill="none"/>
+    <text x="80" y="176" font-family="Georgia, serif" font-size="8" fill="#1D1A17">THE RINGS / 环</text>
+    <text x="80" y="190" font-family="Georgia, serif" font-size="7" fill="#6B6256">land and water / 陆地与海水</text>
+
+    <path d="M150 328 L 180 318" stroke="#6B6256" stroke-width="0.8" fill="none"/>
+    <text x="80" y="328" font-family="Georgia, serif" font-size="8" fill="#1D1A17">THE SEA / 海</text>
+
+    <text x="80" y="372" font-family="Georgia, serif" font-size="8" fill="#B44A32">no confirmed site / 没有确认的遗址</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE TEXT / 文本</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">Timaeus and Critias / 《蒂迈欧篇》《克里提亚斯篇》</text>
+      <text x="520" y="186">c. 360 BCE / 约公元前 360 年</text>
+      <text x="520" y="206">Solon and the Egyptian priest / 梭伦与埃及祭司</text>
+      <text x="520" y="226">9,000 years before Solon / 梭伦之前九千年</text>
+      <text x="520" y="242">sank in one day and night / 一夜之间沉没</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SEARCH / 寻找</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Donnelly, 1882 / 唐纳利，1882</text>
+      <text x="520" y="330">Santorini and Thera / 圣托里尼与锡拉</text>
+      <text x="520" y="348">Atlantic, Canaries, Azores / 大西洋、加那利、亚速尔</text>
+      <text x="520" y="366">no archaeological evidence / 没有考古证据</text>
+      <text x="520" y="382">read as allegory / 多被视为寓言</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A philosophical allegory that later readers turned into a map.</text>
+    <text x="60" y="470">一个哲学寓言，后来的人把它读成了地图。</text>
+    <text x="60" y="494" fill="#B44A32">No site, inscription or city matching Plato has been found. / 没有找到与柏拉图描述相符的遗址、铭文或城市。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

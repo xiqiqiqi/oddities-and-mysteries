@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: phoenix-mountain-ufo
+title_zh: 山上的白东西
+title_en: The White Thing on the Mountain
+era: "1994 年"
+era_en: "1994"
+region: 中国，黑龙江，五常
+region_en: "Wuchang, Heilongjiang, China"
+coords: [44.60, 127.90]
+tags:
+  - 凤凰山
+  - 孟照国
+  - 第三类接触
+  - 黑龙江
+  - 红旗林场
+  - 1994
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "CCTV《走近科学》· 第三类接触（下）"
+    publisher: 中央电视台
+    url: http://sports.cctv.com/program/zoujinkexue/topic/science/C14443/20050728/101508.shtml
+    year: "2005"
+    license: 版权归中央电视台；仅作事实参考
+    usage: 1994 年 6 月 4–9 日经过、7 月 16 日自述、调查与心理学解释
+  - id: S2
+    title: "CCTV · 中国 UFO 悬案调查"
+    publisher: 中央电视台
+    url: https://www.cntv.cn/program/zoujinkexue/topic/science/C14443/02/index.shtml
+    year: "2005"
+    license: 版权归中央电视台；仅作事实参考
+    usage: 节目背景、凤凰山 UFO 事件的公开报道
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面凤凰山南坡白色物体场景复原、时间线与调查示意；不是现场照片
+cover: ../../../assets/covers/phoenix-mountain-ufo.jpg
+related:
+  - us-uap-report
+  - hudson-valley-ufo
+status: review
+featured: false
+translation_status: translated

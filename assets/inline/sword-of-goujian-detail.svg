@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Structure and inscription of the Sword of Goujian</title>
+  <desc id="desc">A schematic of the bronze sword with its diamond pattern, guard inlay, handle, and eight-character inscription.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">SWORD OF GOUJIAN · DETAIL</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">BRONZE / 5TH CENTURY BCE / SCHEMATIC</text>
+
+  <g>
+    <path d="M120 230 L 560 218 L 600 226 L 600 244 L 560 252 L 120 240 Z" fill="#C9A96A" stroke="#6B4A32" stroke-width="2"/>
+    <path d="M120 230 L 560 218 L 560 252 L 120 240 Z" fill="none" stroke="#D8C9AE" stroke-width="1" opacity=".6"/>
+    <g fill="#6B4A32" opacity=".55">
+      <path d="M180 232 L 196 226 L 204 236 L 188 242 Z"/>
+      <path d="M210 231 L 226 225 L 234 235 L 218 241 Z"/>
+      <path d="M240 230 L 256 224 L 264 234 L 248 240 Z"/>
+      <path d="M270 229 L 286 223 L 294 233 L 278 239 Z"/>
+      <path d="M300 228 L 316 222 L 324 232 L 308 238 Z"/>
+      <path d="M330 227 L 346 221 L 354 231 L 338 237 Z"/>
+      <path d="M360 226 L 376 220 L 384 230 L 368 236 Z"/>
+      <path d="M390 225 L 406 219 L 414 229 L 398 235 Z"/>
+      <path d="M420 224 L 436 218 L 444 228 L 428 234 Z"/>
+      <path d="M450 223 L 466 217 L 474 227 L 458 233 Z"/>
+      <path d="M480 222 L 496 216 L 504 226 L 488 232 Z"/>
+      <path d="M510 221 L 526 215 L 534 225 L 518 231 Z"/>
+    </g>
+    <rect x="600" y="218" width="30" height="34" fill="#8C7A52" stroke="#6B4A32" stroke-width="2"/>
+    <circle cx="606" cy="228" r="3" fill="#6FA8C8"/>
+    <circle cx="618" cy="230" r="3" fill="#6FA8C8"/>
+    <circle cx="606" cy="242" r="3" fill="#4F6B3A"/>
+    <circle cx="618" cy="244" r="3" fill="#6FA8C8"/>
+    <rect x="630" y="224" width="120" height="22" fill="#4A3B2A" stroke="#6B4A32" stroke-width="2"/>
+    <g stroke="#8C7A52" stroke-width="2">
+      <path d="M642 224 L 642 246 M654 224 L 654 246 M666 224 L 666 246 M678 224 L 678 246 M690 224 L 690 246 M702 224 L 702 246 M714 224 L 714 246 M726 224 L 726 246"/>
+    </g>
+    <rect x="750" y="220" width="18" height="30" fill="#8C7A52" stroke="#6B4A32" stroke-width="2"/>
+    <rect x="768" y="224" width="10" height="22" fill="#4A3B2A" stroke="#6B4A32" stroke-width="2"/>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#1D1A17">
+    <text x="120" y="286">BLADE / 剑身</text>
+    <text x="600" y="286">GUARD / 剑格</text>
+    <text x="710" y="286">HANDLE / 剑柄</text>
+  </g>
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="120" y="306">diamond pattern / 菱形暗纹</text>
+    <text x="600" y="306">blue glass + turquoise / 蓝色琉璃与绿松石</text>
+    <text x="680" y="330">length approx. 55.6 cm / 全长约 55.6 厘米</text>
+  </g>
+
+  <g>
+    <rect x="560" y="370" width="260" height="96" fill="#EFE6D6" stroke="#6B4A32" stroke-width="1.5"/>
+    <text x="578" y="394" font-family="Georgia, serif" font-size="10" fill="#6B6256">INSCRIPTION / 铭文</text>
+    <text x="578" y="420" font-family="Georgia, serif" font-size="18" fill="#1D1A17">越王勾践</text>
+    <text x="578" y="446" font-family="Georgia, serif" font-size="18" fill="#1D1A17">自作用剑</text>
+    <text x="700" y="420" font-family="Georgia, serif" font-size="9" fill="#6B6256">“King Goujian of Yue</text>
+    <text x="700" y="434" font-family="Georgia, serif" font-size="9" fill="#6B6256">made this sword for</text>
+    <text x="700" y="448" font-family="Georgia, serif" font-size="9" fill="#6B6256">his own use.”</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="378">Bronze, high tin content; the scabbard limited corrosion.</text>
+    <text x="60" y="396">青铜，含锡量较高；剑鞘减少了腐蚀。</text>
+    <text x="60" y="420">“Never rusted” is an exaggeration; some corrosion remains.</text>
+    <text x="60" y="438">“千年不锈”是夸张说法；剑身仍有腐蚀。</text>
+    <text x="60" y="470">Excavated in 1965, Jiangling, Hubei.</text>
+    <text x="60" y="488">1965 年出土于湖北江陵。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

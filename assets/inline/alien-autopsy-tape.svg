@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The 1995 alien autopsy tape: the claim, the image, and the admission</title>
+  <desc id="desc">A schematic film frame showing a covered body, a table, and figures in protective suits, with a timeline from the London press conference to the 2006 admission that the footage was staged.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">ALIEN AUTOPSY · 1995</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">THE TAPE / THE CLAIM / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="460" height="280" fill="#EFE6D6"/>
+
+    <!-- film frame -->
+    <rect x="80" y="120" width="300" height="14" fill="#3F2E1E"/>
+    <rect x="80" y="330" width="300" height="14" fill="#3F2E1E"/>
+    <g fill="#F3EEE4">
+      <rect x="88" y="124" width="8" height="6"/>
+      <rect x="108" y="124" width="8" height="6"/>
+      <rect x="128" y="124" width="8" height="6"/>
+      <rect x="148" y="124" width="8" height="6"/>
+      <rect x="168" y="124" width="8" height="6"/>
+      <rect x="188" y="124" width="8" height="6"/>
+      <rect x="208" y="124" width="8" height="6"/>
+      <rect x="228" y="124" width="8" height="6"/>
+      <rect x="248" y="124" width="8" height="6"/>
+      <rect x="268" y="124" width="8" height="6"/>
+      <rect x="288" y="124" width="8" height="6"/>
+      <rect x="308" y="124" width="8" height="6"/>
+      <rect x="328" y="124" width="8" height="6"/>
+      <rect x="348" y="124" width="8" height="6"/>
+      <rect x="88" y="334" width="8" height="6"/>
+      <rect x="108" y="334" width="8" height="6"/>
+      <rect x="128" y="334" width="8" height="6"/>
+      <rect x="148" y="334" width="8" height="6"/>
+      <rect x="168" y="334" width="8" height="6"/>
+      <rect x="188" y="334" width="8" height="6"/>
+      <rect x="208" y="334" width="8" height="6"/>
+      <rect x="228" y="334" width="8" height="6"/>
+      <rect x="248" y="334" width="8" height="6"/>
+      <rect x="268" y="334" width="8" height="6"/>
+      <rect x="288" y="334" width="8" height="6"/>
+      <rect x="308" y="334" width="8" height="6"/>
+      <rect x="328" y="334" width="8" height="6"/>
+      <rect x="348" y="334" width="8" height="6"/>
+    </g>
+
+    <rect x="80" y="134" width="300" height="196" fill="#C9C4B8" stroke="#3F2E1E" stroke-width="1"/>
+    <rect x="150" y="268" width="170" height="10" fill="#8C7A52"/>
+    <rect x="150" y="278" width="6" height="26" fill="#8C7A52"/>
+    <rect x="314" y="278" width="6" height="26" fill="#8C7A52"/>
+    <path d="M170 268 C 190 240, 240 238, 268 252 L 300 268 Z" fill="#F3EEE4" stroke="#6B4A32" stroke-width="1"/>
+    <g fill="#6B6256">
+      <circle cx="110" cy="210" r="10"/>
+      <rect x="102" y="220" width="16" height="40" rx="4"/>
+      <circle cx="340" cy="205" r="10"/>
+      <rect x="332" y="215" width="16" height="40" rx="4"/>
+      <circle cx="330" cy="270" r="9"/>
+      <rect x="323" y="279" width="14" height="34" rx="4"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17">
+      <text x="80" y="360">claimed: 1947 / 声称：1947</text>
+      <text x="240" y="360" fill="#B44A32">shot: 1995 / 实拍：1995</text>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17">
+      <text x="80" y="380">figures in suits / 防护服人员</text>
+      <text x="250" y="380">covered body / 盖住的尸体</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="550" y="112" width="290" height="280" fill="#EFE6D6"/>
+    <text x="570" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">HOW IT TRAVELLED / 流传路径</text>
+
+    <path d="M586 160 V 360" stroke="#1D1A17" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="586" cy="170" r="4"/>
+      <circle cx="586" cy="215" r="4"/>
+      <circle cx="586" cy="260" r="4"/>
+      <circle cx="586" cy="305" r="4"/>
+      <circle cx="586" cy="350" r="4"/>
+    </g>
+
+    <g font-family="Georgia, serif">
+      <text x="600" y="168" font-size="8" fill="#1D1A17">MAY 1995</text>
+      <text x="600" y="180" font-size="8" fill="#6B6256">London press conference / 伦敦记者会</text>
+
+      <text x="600" y="213" font-size="8" fill="#1D1A17">1995</text>
+      <text x="600" y="225" font-size="8" fill="#6B6256">Fox broadcast / 美国电视播出</text>
+
+      <text x="600" y="258" font-size="8" fill="#1D1A17">2006</text>
+      <text x="600" y="270" font-size="8" fill="#6B6256">admission: reconstruction / 承认补拍</text>
+
+      <text x="600" y="303" font-size="8" fill="#1D1A17">TODAY</text>
+      <text x="600" y="315" font-size="8" fill="#6B6256">still online / 仍在网上</text>
+    </g>
+
+    <text x="570" y="382" font-family="Georgia, serif" font-size="8" fill="#B44A32">the “original film” was never verified / “原始胶片”从未被验证</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The tape was presented as a 1947 record of the Roswell autopsy.</text>
+    <text x="60" y="470">录像被说成是 1947 年罗斯威尔解剖的记录。</text>
+    <text x="60" y="494" fill="#B44A32">In 2006 the distributor admitted it was staged in 1995. / 2006 年，发行人承认录像是 1995 年补拍的。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

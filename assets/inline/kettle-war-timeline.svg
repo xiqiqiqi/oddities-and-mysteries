@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of the Kettle War</title>
+  <desc id="desc">A five-step schematic: the Austrian demand, the ship Louis, one Dutch shot, the kettle, and the 1785 treaty.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE KETTLE WAR · 1784</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SCHELDT ESTUARY / SCHEMATIC TIMELINE</text>
+
+  <path d="M70 270 H830" stroke="#1D1A17" stroke-width="2"/>
+  <path d="M830 270 L 816 262 M830 270 L 816 278" stroke="#1D1A17" stroke-width="2" fill="none"/>
+
+  <g>
+    <circle cx="130" cy="270" r="10" fill="#B44A32"/>
+    <path d="M112 228 L 148 228 L 148 248 L 112 248 Z" fill="none" stroke="#1D1A17" stroke-width="2"/>
+    <path d="M118 234 H 142 M118 239 H 138" stroke="#1D1A17" stroke-width="1"/>
+    <text x="96" y="306" font-family="Georgia, serif" font-size="11" fill="#1D1A17">AUSTRIA DEMANDS</text>
+    <text x="96" y="322" font-family="Georgia, serif" font-size="10" fill="#6B6256">奥地利要求通航</text>
+  </g>
+
+  <g>
+    <circle cx="300" cy="270" r="10" fill="#1D1A17"/>
+    <path d="M270 250 L 330 250 L 322 262 L 278 262 Z" fill="#1D1A17"/>
+    <path d="M300 250 L 300 218 L 312 226 L 300 234" fill="#1D1A17"/>
+    <text x="258" y="306" font-family="Georgia, serif" font-size="11" fill="#1D1A17">LOUIS SAILS IN</text>
+    <text x="270" y="322" font-family="Georgia, serif" font-size="10" fill="#6B6256">路易号驶入河口</text>
+  </g>
+
+  <g>
+    <circle cx="470" cy="270" r="10" fill="#D99A2B"/>
+    <path d="M440 250 L 500 250 L 492 262 L 448 262 Z" fill="#1D1A17"/>
+    <path d="M500 256 L 512 252" stroke="#B44A32" stroke-width="3"/>
+    <circle cx="518" cy="250" r="6" fill="none" stroke="#B44A32" stroke-width="1.5"/>
+    <text x="430" y="306" font-family="Georgia, serif" font-size="11" fill="#1D1A17">ONE SHOT</text>
+    <text x="442" y="322" font-family="Georgia, serif" font-size="10" fill="#6B6256">荷兰战舰开炮</text>
+  </g>
+
+  <g>
+    <circle cx="640" cy="270" r="10" fill="#1D1A17"/>
+    <path d="M618 230 L 646 230 L 640 248 L 624 248 Z" fill="none" stroke="#B44A32" stroke-width="2"/>
+    <path d="M646 238 C 654 234, 654 244, 648 242" fill="none" stroke="#B44A32" stroke-width="2"/>
+    <circle cx="632" cy="238" r="1.5" fill="#B44A32"/>
+    <text x="602" y="306" font-family="Georgia, serif" font-size="11" fill="#1D1A17">KETTLE HIT</text>
+    <text x="614" y="322" font-family="Georgia, serif" font-size="10" fill="#6B6256">炮弹打中水壶</text>
+  </g>
+
+  <g>
+    <circle cx="800" cy="270" r="10" fill="#1D1A17"/>
+    <path d="M776 230 L 824 230 L 824 252 L 776 252 Z" fill="none" stroke="#1D1A17" stroke-width="2"/>
+    <path d="M784 238 H 814 M784 244 H 806" stroke="#1D1A17" stroke-width="1"/>
+    <text x="748" y="306" font-family="Georgia, serif" font-size="11" fill="#1D1A17">1785 TREATY</text>
+    <text x="756" y="322" font-family="Georgia, serif" font-size="10" fill="#6B6256">枫丹白露条约</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="11" fill="#6B6256">
+    <text x="60" y="386">No battle. No casualties. The “war” produced one cannon shot and a pierced kettle.</text>
+    <text x="60" y="406">没有战役，没有伤亡；这场“战争”留下的是一发炮弹和一只被击穿的水壶。</text>
+    <rect x="60" y="432" width="780" height="1" fill="#1D1A17" opacity=".2"/>
+    <text x="60" y="458">The kettle detail comes from later accounts; the diplomatic outcome is documented.</text>
+    <text x="60" y="478">水壶细节来自后世记述；外交结果有档案记录。</text>
+    <text x="60" y="504">Graphic: XIQIQI · CC BY-SA 4.0</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

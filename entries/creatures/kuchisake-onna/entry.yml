@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: kuchisake-onna
+title_zh: 戴口罩的女人
+title_en: The Woman Behind the Mask
+era: "1979 年集中传播"
+era_en: "widely circulated in 1979"
+region: 日本，各地
+region_en: "Japan, nationwide"
+coords: [36.2, 138.25]
+tags:
+  - 裂口女
+  - 日本都市传说
+  - 1979
+  - 口罩
+  - 剪刀
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Kuchisake-onna"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Kuchisake-onna
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 传说内容、1979 年传播、变体与解释
+  - id: S2
+    title: "Wikipedia · Japanese urban legends"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Japanese_urban_legends
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 日本都市传说的传播环境与校园背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与传说问答结构示意；不是历史照片
+cover: ../../../assets/covers/kuchisake-onna.jpg
+related:
+  - spring-heeled-jack
+  - loch-ness
+status: review
+featured: false
+translation_status: translated

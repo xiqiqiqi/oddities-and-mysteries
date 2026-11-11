@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: herculaneum
+title_zh: 泥下的图书馆
+title_en: The Library Buried in Mud
+era: "公元 79 年"
+era_en: "79 CE"
+region: 意大利，埃尔科拉诺
+region_en: "Ercolano, Italy"
+coords: [40.806, 14.348]
+tags:
+  - 赫库兰尼姆
+  - 维苏威
+  - 纸莎草别墅
+  - 罗马
+  - 火山
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Herculaneum"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Herculaneum
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 城市历史、79 年喷发、发掘与保存状况
+  - id: S2
+    title: "Wikipedia · Villa of the Papyri"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Villa_of_the_Papyri
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 纸莎草别墅、碳化卷轴与阅读尝试
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与遗址剖面示意；不是现场照片
+cover: ../../../assets/covers/herculaneum.jpg
+related:
+  - jiaohe
+  - gobekli-tepe
+status: review
+featured: false
+translation_status: translated

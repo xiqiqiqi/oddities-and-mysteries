@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Dead Sea Scrolls: Qumran, the caves, the manuscripts, and the forgeries</title>
+  <desc id="desc">A schematic map of Qumran and the Dead Sea with eleven cave sites, a list of the main manuscript groups, and a note on the 2020 forgery findings.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">DEAD SEA SCROLLS · QUMRAN</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">CAVES / MANUSCRIPTS / FORGERIES</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#E2DCC8"/>
+
+    <!-- Dead Sea -->
+    <path d="M390 130 C 380 180, 375 230, 380 280 C 385 330, 370 360, 365 392 L 430 392 C 435 350, 445 310, 440 270 C 435 220, 430 170, 435 130 Z" fill="#C9DEE6" stroke="#6FA8C8" stroke-width="1.5"/>
+
+    <!-- caves -->
+    <g fill="#3F2E1E">
+      <circle cx="220" cy="210" r="3"/>
+      <circle cx="235" cy="205" r="3"/>
+      <circle cx="250" cy="212" r="3"/>
+      <circle cx="265" cy="208" r="3"/>
+      <circle cx="280" cy="214" r="3"/>
+      <circle cx="295" cy="210" r="3"/>
+      <circle cx="310" cy="216" r="3"/>
+      <circle cx="325" cy="212" r="3"/>
+      <circle cx="340" cy="218" r="3"/>
+      <circle cx="355" cy="214" r="3"/>
+      <circle cx="370" cy="220" r="3"/>
+    </g>
+
+    <!-- Qumran building -->
+    <rect x="264" y="244" width="18" height="14" fill="#D9C6A5" stroke="#6B4A32" stroke-width="1.2"/>
+    <rect x="270" y="250" width="6" height="8" fill="#6B4A32"/>
+
+    <g font-family="Georgia, serif" fill="#1D1A17">
+      <text x="160" y="250" font-size="9">QUMRAN / 昆兰</text>
+      <text x="396" y="258" font-size="8" fill="#3E5A5A">DEAD SEA</text>
+      <text x="396" y="270" font-size="8" fill="#3E5A5A">死海</text>
+      <text x="90" y="340" font-size="9" fill="#6B6256">JUDEAN DESERT / 犹地亚沙漠</text>
+      <text x="200" y="180" font-size="8">11 caves / 11 座洞穴</text>
+    </g>
+    <path d="M250 184 L 258 204" stroke="#1D1A17" stroke-width="1"/>
+
+    <path d="M440 136 L 446 152 L 440 148 L 434 152 Z" fill="#4A4030"/>
+    <text x="436" y="132" font-family="Georgia, serif" font-size="8" fill="#4A4030">N</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">WHAT WAS FOUND / 发现了什么</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">~900 manuscripts / 约 900 份手稿</text>
+      <text x="520" y="184">11 caves, 1947–1956 / 11 座洞穴，1947–1956</text>
+      <text x="520" y="202">Hebrew Bible (except Esther)</text>
+      <text x="520" y="215">希伯来圣经（除《以斯帖记》）</text>
+      <text x="520" y="233">Community Rule · War Scroll · Copper Scroll</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">REAL OR FAKE / 真与假</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">1947–1956: caves excavated / 洞穴出土</text>
+      <text x="520" y="334">after 2002: market fragments / 市场残片</text>
+    </g>
+    <text x="520" y="358" font-family="Georgia, serif" font-size="8" fill="#B44A32">2020: 16 Museum of the Bible fragments</text>
+    <text x="520" y="370" font-family="Georgia, serif" font-size="8" fill="#B44A32">2020：圣经博物馆 16 份残片全为赝品</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The scrolls are about a thousand years older than the oldest surviving Hebrew Bible texts.</text>
+    <text x="60" y="470">这些卷轴比现存最古老的希伯来圣经抄本早约一千年。</text>
+    <text x="60" y="494" fill="#B44A32">Fragments that appeared after 2002 are treated as suspect until proven. / 2002 年后出现的残片，在证实之前都应视为可疑。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

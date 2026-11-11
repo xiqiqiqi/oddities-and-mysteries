@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Annabelle: the rag doll, the glass case, and the films</title>
+  <desc id="desc">A schematic of the Raggedy Ann doll inside its glass case, with panels on the 1968 case and on the film adaptations.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">ANNABELLE · THE DOLL IN THE CASE</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">1968 / THE WARRENS / THE FILMS</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE CASE / 展柜示意</text>
+
+    <!-- glass case -->
+    <rect x="140" y="145" width="200" height="205" fill="#F7F1E4" stroke="#6B4A32" stroke-width="1.2"/>
+    <text x="300" y="162" font-family="Georgia, serif" font-size="8" fill="#4A4030">glass case / 玻璃柜</text>
+
+    <!-- warning sign -->
+    <rect x="150" y="145" width="66" height="17" fill="#B44A32"/>
+    <text x="183" y="157" font-family="Georgia, serif" font-size="7" fill="#F7F1E4" text-anchor="middle">DO NOT OPEN</text>
+
+    <!-- hair -->
+    <g stroke="#B44A32" stroke-width="2">
+      <path d="M214 195 L 208 178 M220 186 L 216 170 M230 182 L 228 166 M240 180 V 163 M250 182 L 252 166 M260 186 L 264 170 M266 195 L 272 178"/>
+    </g>
+    <circle cx="240" cy="205" r="22" fill="#F7F1E4" stroke="#6B4A32" stroke-width="1.2"/>
+
+    <!-- face -->
+    <circle cx="232" cy="202" r="2" fill="#1D1A17"/>
+    <circle cx="248" cy="202" r="2" fill="#1D1A17"/>
+    <path d="M230 214 Q240 220 250 214" stroke="#1D1A17" stroke-width="1" fill="none" stroke-dasharray="2 1"/>
+    <circle cx="240" cy="209" r="2" fill="#B44A32"/>
+
+    <!-- dress -->
+    <path d="M218 228 H262 L274 300 H206 Z" fill="#D89A9A" stroke="#6B4A32" stroke-width="1.2"/>
+    <g stroke="#F7F1E4" stroke-width="1">
+      <path d="M224 228 L 214 300"/>
+      <path d="M240 228 V 300"/>
+      <path d="M256 228 L 266 300"/>
+      <path d="M209 254 H271"/>
+      <path d="M207 278 H273"/>
+    </g>
+
+    <!-- arms -->
+    <path d="M218 236 L 198 276 M262 236 L 282 276" stroke="#F7F1E4" stroke-width="8"/>
+    <path d="M218 236 L 198 276 M262 236 L 282 276" stroke="#6B4A32" stroke-width="1" fill="none"/>
+
+    <!-- shoes -->
+    <ellipse cx="224" cy="308" rx="10" ry="5" fill="#6B4A32"/>
+    <ellipse cx="256" cy="308" rx="10" ry="5" fill="#6B4A32"/>
+
+    <text x="92" y="196" font-family="Georgia, serif" font-size="8" fill="#1D1A17">Raggedy Ann / 布娃娃</text>
+    <path d="M164 193 L 214 197" stroke="#1D1A17" stroke-width="1"/>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE CASE / 事件</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">1968, Connecticut / 1968 年，康涅狄格</text>
+      <text x="520" y="186">two roommates, a doll</text>
+      <text x="520" y="202">两个室友，一个布娃娃</text>
+      <text x="520" y="222">notes: “Help us” / 纸条：“Help us”</text>
+      <text x="520" y="240">the Warrens called in / 沃伦夫妇介入</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE FILMS / 电影</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">2013: The Conjuring / 《招魂》</text>
+      <text x="520" y="330">2014: Annabelle / 《安娜贝尔》</text>
+      <text x="520" y="350">porcelain doll on screen</text>
+      <text x="520" y="366">电影里是瓷娃娃，真娃娃是布做的</text>
+      <text x="520" y="382">the films are fiction / 电影是虚构的</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The real Annabelle is a Raggedy Ann doll, not a porcelain one.</text>
+    <text x="60" y="470">真正的安娜贝尔是 Raggedy Ann 布娃娃，不是电影里的瓷娃娃。</text>
+    <text x="60" y="494" fill="#B44A32">No police or medical record exists; the possession claim comes from the Warrens. / 没有警方或医学记录，“附身”说法来自沃伦夫妇。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

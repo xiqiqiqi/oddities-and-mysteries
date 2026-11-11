@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Ball lightning and proposed mechanisms</title>
+  <desc id="desc">A schematic of ball lightning below a storm cloud, with three proposed mechanisms.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="58" font-family="Georgia, serif" font-size="26" fill="#1D1A17">BALL LIGHTNING</text>
+  <text x="60" y="82" font-family="Georgia, serif" font-size="12" fill="#6B6256">SCHEMATIC / NOT TO SCALE</text>
+  <path d="M120 160 C 150 110, 220 120, 250 150 C 290 110, 370 110, 410 150 C 460 105, 550 115, 580 155 C 640 120, 720 140, 750 180 L 750 215 L 120 215 Z" fill="#3A342E" opacity=".85"/>
+  <line x1="80" y1="420" x2="820" y2="420" stroke="#1D1A17" opacity=".35"/>
+  <circle cx="450" cy="300" r="58" fill="#6FA8C8" opacity=".18"/>
+  <circle cx="450" cy="300" r="38" fill="#9ED8F0" opacity=".35"/>
+  <circle cx="450" cy="300" r="22" fill="#EAF8FF"/>
+  <g font-family="Georgia, serif" fill="#1D1A17" font-size="14">
+    <text x="120" y="145" fill="#F3EEE4">STORM CLOUD / 雷暴云</text>
+    <text x="515" y="290">BALL LIGHTNING / 球状闪电</text>
+    <text x="515" y="310" fill="#6B6256">1–10 s · 10–40 cm</text>
+  </g>
+  <g font-family="Georgia, serif" font-size="12" fill="#1D1A17">
+    <text x="60" y="465" font-weight="bold">PROPOSED MECHANISMS / 可能机制</text>
+    <rect x="60" y="478" width="220" height="28" fill="none" stroke="#1D1A17" opacity=".35"/>
+    <text x="72" y="497">PLASMA / 等离子体</text>
+    <rect x="300" y="478" width="270" height="28" fill="none" stroke="#1D1A17" opacity=".35"/>
+    <text x="312" y="497">SOIL NANOPARTICLES / 土壤纳米颗粒</text>
+    <rect x="590" y="478" width="250" height="28" fill="none" stroke="#1D1A17" opacity=".35"/>
+    <text x="602" y="497">MICROWAVE CAVITY / 微波腔</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

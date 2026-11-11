@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Winchester Mystery House: four phases of an endless remodel</title>
+  <desc id="desc">Four schematic cards showing the phases of construction from the 1886 farmhouse to the slowdown after the 1906 earthquake, with panels on the size of the house and on the medium legend.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE WINCHESTER MYSTERY HOUSE · 1886–1922</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SAN JOSE / AN ENDLESS REMODEL / THE LEGEND</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">FOUR PHASES / 四个阶段（示意）</text>
+
+    <!-- card 1 -->
+    <rect x="85" y="152" width="170" height="98" fill="#F7F1E4" stroke="#B8A582" stroke-width="1"/>
+    <text x="100" y="172" font-family="Georgia, serif" font-size="10" fill="#1D1A17">1886</text>
+    <rect x="188" y="182" width="42" height="30" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1"/>
+    <text x="100" y="205" font-family="Georgia, serif" font-size="8" fill="#4A4030">buys a farmhouse</text>
+    <text x="100" y="220" font-family="Georgia, serif" font-size="8" fill="#4A4030">买下两层农舍</text>
+
+    <!-- card 2 -->
+    <rect x="265" y="152" width="170" height="98" fill="#F7F1E4" stroke="#B8A582" stroke-width="1"/>
+    <text x="280" y="172" font-family="Georgia, serif" font-size="10" fill="#1D1A17">1886–1900</text>
+    <g fill="#D8CCB6" stroke="#6B4A32" stroke-width="1">
+      <rect x="368" y="182" width="30" height="30"/>
+      <rect x="396" y="190" width="24" height="22"/>
+      <rect x="382" y="176" width="16" height="16"/>
+    </g>
+    <text x="280" y="205" font-family="Georgia, serif" font-size="8" fill="#4A4030">wings and towers</text>
+    <text x="280" y="220" font-family="Georgia, serif" font-size="8" fill="#4A4030">加建侧翼与塔楼</text>
+
+    <!-- card 3 -->
+    <rect x="85" y="262" width="170" height="98" fill="#F7F1E4" stroke="#B8A582" stroke-width="1"/>
+    <text x="100" y="282" font-family="Georgia, serif" font-size="10" fill="#1D1A17">1900–1906</text>
+    <text x="188" y="300" font-family="Georgia, serif" font-size="18" fill="#6B4A32">160</text>
+    <text x="100" y="315" font-family="Georgia, serif" font-size="8" fill="#4A4030">about 160 rooms</text>
+    <text x="100" y="330" font-family="Georgia, serif" font-size="8" fill="#4A4030">房间增至约一百六十个</text>
+
+    <!-- card 4 -->
+    <rect x="265" y="262" width="170" height="98" fill="#F7F1E4" stroke="#B8A582" stroke-width="1"/>
+    <text x="280" y="282" font-family="Georgia, serif" font-size="10" fill="#1D1A17">AFTER 1906</text>
+    <rect x="380" y="288" width="32" height="24" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1"/><path d="M396 288 L 390 298 L 400 302 L 392 312" stroke="#B44A32" stroke-width="1.5" fill="none"/>
+    <text x="280" y="315" font-family="Georgia, serif" font-size="8" fill="#4A4030">quake damage, work slows</text>
+    <text x="280" y="330" font-family="Georgia, serif" font-size="8" fill="#4A4030">地震后部分房间封闭</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE HOUSE / 房子</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">about 160 rooms / 约一百六十个房间</text>
+      <text x="520" y="186">2,000 doors / 两千扇门</text>
+      <text x="520" y="204">10,000 windows / 一万扇窗</text>
+      <text x="520" y="224">47 staircases, 47 fireplaces</text>
+      <text x="520" y="240">四十七座楼梯，四十七个壁炉</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE LEGEND / 传说</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">a medium's warning / 灵媒的警告</text>
+      <text x="520" y="330">the house must never be finished</text>
+      <text x="520" y="346">房子永远不能完工，锤子不能停</text>
+      <text x="520" y="366">no contemporary evidence</text>
+      <text x="520" y="382">没有当时的文献支持</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Sarah Winchester kept building from 1886 until her death in 1922.</text>
+    <text x="60" y="470">从 1886 年到 1922 年，莎拉·温彻斯特一直在改建这栋房子。</text>
+    <text x="60" y="494" fill="#B44A32">The medium and curse stories come from later tours, not from Sarah. / 灵媒与诅咒的故事来自后来的导览，不是莎拉本人。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

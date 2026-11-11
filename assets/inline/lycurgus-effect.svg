@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Lycurgus Cup: reflected green, transmitted red, and the nanoparticle effect</title>
+  <desc id="desc">Two views of the same glass cup, green in reflected light and red in transmitted light, with a diagram of gold and silver nanoparticles letting red through and scattering green.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">LYCURGUS CUP · DICHROIC GLASS</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">REFLECTED / TRANSMITTED / NANOPARTICLES</text>
+
+  <g>
+    <rect x="60" y="112" width="460" height="280" fill="#EFE6D6"/>
+    <text x="185" y="140" font-family="Georgia, serif" font-size="9" fill="#6B6256">same glass / 同一块玻璃</text>
+
+    <!-- green cup -->
+    <path d="M105 190 Q 105 292 155 292 Q 205 292 205 190 Z" fill="#7A8C4A" stroke="#4A5A2A" stroke-width="1.5"/>
+    <g fill="none" stroke="#4A5A2A" stroke-width="1.5">
+      <path d="M118 200 Q 130 230 118 270 M140 196 Q 150 230 140 282 M162 198 Q 170 230 162 284 M184 196 Q 192 230 184 276"/>
+    </g>
+    <g fill="#4A5A2A">
+      <path d="M118 220 Q 108 214 112 208 Q 120 210 118 220 Z"/>
+      <path d="M140 240 Q 150 234 154 240 Q 146 246 140 240 Z"/>
+      <path d="M162 230 Q 172 224 176 230 Q 168 236 162 230 Z"/>
+      <path d="M184 250 Q 194 244 198 250 Q 190 256 184 250 Z"/>
+    </g>
+    <rect x="145" y="292" width="20" height="20" fill="#7A8C4A" stroke="#4A5A2A" stroke-width="1.5"/>
+    <ellipse cx="155" cy="316" rx="36" ry="7" fill="#7A8C4A" stroke="#4A5A2A" stroke-width="1.5"/>
+
+    <!-- red cup -->
+    <path d="M305 190 Q 305 292 355 292 Q 405 292 405 190 Z" fill="#B44A32" stroke="#6B2A1E" stroke-width="1.5"/>
+    <g fill="none" stroke="#6B2A1E" stroke-width="1.5">
+      <path d="M318 200 Q 330 230 318 270 M340 196 Q 350 230 340 282 M362 198 Q 370 230 362 284 M384 196 Q 392 230 384 276"/>
+    </g>
+    <g fill="#6B2A1E">
+      <path d="M318 220 Q 308 214 312 208 Q 320 210 318 220 Z"/>
+      <path d="M340 240 Q 350 234 354 240 Q 346 246 340 240 Z"/>
+      <path d="M362 230 Q 372 224 376 230 Q 368 236 362 230 Z"/>
+      <path d="M384 250 Q 394 244 398 250 Q 390 256 384 250 Z"/>
+    </g>
+    <rect x="345" y="292" width="20" height="20" fill="#B44A32" stroke="#6B2A1E" stroke-width="1.5"/>
+    <ellipse cx="355" cy="316" rx="36" ry="7" fill="#B44A32" stroke="#6B2A1E" stroke-width="1.5"/>
+
+    <!-- lamp -->
+    <circle cx="355" cy="150" r="10" fill="#E8C25A" stroke="#8C6A2B" stroke-width="1"/>
+    <g stroke="#E8C25A" stroke-width="1.5">
+      <path d="M355 132 V 124 M355 168 V 176 M337 150 H 329 M373 150 H 381"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="9" fill="#1D1A17">
+      <text x="96" y="352">reflected light / 反射光</text>
+      <text x="128" y="368" fill="#4A5A2A">green / 绿色</text>
+      <text x="300" y="352">transmitted light / 透射光</text>
+      <text x="348" y="368" fill="#B44A32">red / 红色</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="550" y="112" width="290" height="280" fill="#EFE6D6"/>
+    <text x="570" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">WHY / 为什么</text>
+
+    <rect x="570" y="180" width="250" height="70" fill="#E8DCC4" stroke="#8C7A52" stroke-width="1.2"/>
+    <g fill="#D99A2B">
+      <circle cx="600" cy="200" r="3"/>
+      <circle cx="625" cy="225" r="3"/>
+      <circle cx="650" cy="195" r="3"/>
+      <circle cx="680" cy="230" r="3"/>
+      <circle cx="710" cy="200" r="3"/>
+      <circle cx="740" cy="225" r="3"/>
+      <circle cx="770" cy="195" r="3"/>
+      <circle cx="800" cy="230" r="3"/>
+    </g>
+    <g fill="#9AA6A8">
+      <circle cx="612" cy="232" r="2.5"/>
+      <circle cx="638" cy="205" r="2.5"/>
+      <circle cx="665" cy="218" r="2.5"/>
+      <circle cx="695" cy="198" r="2.5"/>
+      <circle cx="725" cy="235" r="2.5"/>
+      <circle cx="760" cy="210" r="2.5"/>
+    </g>
+
+    <path d="M550 215 H 830" stroke="#E8C25A" stroke-width="3"/>
+    <path d="M550 215 H 830" stroke="#B44A32" stroke-width="1.5"/>
+    <path d="M760 250 L 770 264" stroke="#4A7A3A" stroke-width="2"/>
+    <path d="M770 264 L 780 272" stroke="#4A7A3A" stroke-width="1.5"/>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#4A4030">
+      <text x="640" y="170">red passes / 红光透过</text>
+      <text x="680" y="278">green scattered / 绿光被散射</text>
+      <text x="570" y="298">gold + silver nanoparticles</text>
+      <text x="570" y="312">金、银纳米颗粒，约 50 纳米</text>
+    </g>
+    <path d="M700 174 L 700 212" stroke="#4A4030" stroke-width="1"/>
+
+    <text x="570" y="350" font-family="Georgia, serif" font-size="8" fill="#B44A32">the Roman recipe is unknown / 罗马配方已失传</text>
+    <text x="570" y="370" font-family="Georgia, serif" font-size="8" fill="#6B6256">size and spacing set the colour</text>
+    <text x="570" y="382" font-family="Georgia, serif" font-size="8" fill="#6B6256">颗粒大小与间距决定颜色</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The cup looks green in reflected light and red in transmitted light.</text>
+    <text x="60" y="470">反射光下是绿色，透射光下是红色。</text>
+    <text x="60" y="494" fill="#B44A32">The effect comes from gold and silver nanoparticles in the glass. / 效果来自玻璃里的金、银纳米颗粒。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

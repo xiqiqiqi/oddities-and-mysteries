@@ -1,0 +1,55 @@
+channel: mystery
+type: phenomenon
+slug: bridgewater-triangle
+title_zh: 三角里的沼泽
+title_en: The Swamp in the Triangle
+era: "1983 年命名"
+era_en: "Named in 1983"
+region: 美国，马萨诸塞，布里奇沃特
+region_en: "Bridgewater, Massachusetts, USA"
+coords: [41.95, -71.03]
+tags:
+  - 布里奇沃特三角
+  - 霍科莫克沼泽
+  - 马萨诸塞
+  - 大脚怪
+  - 黑色巨犬
+  - 不明飞行物
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Bridgewater Triangle"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Bridgewater_Triangle
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 200 平方英里范围、霍科莫克沼泽、1983 年科尔曼命名
+  - id: S2
+    title: "The Bridgewater Triangle · About"
+    publisher: The Bridgewater Triangle Documentary
+    url: https://thebridgewatertriangledocumentary.com/about-the-bridgewater-triangle/
+    year: "2026"
+    license: 版权归纪录片方；仅作事实参考
+    usage: 科尔曼 1983 年《神秘的美国》、2013 年纪录片、三角范围
+  - id: S3
+    title: "Bridgewater Public Library · Legends of Bridgewater"
+    publisher: Bridgewater Public Library
+    url: https://bridgewaterpubliclibrary.org/sites/bridgewaterpubliclibrary.org/files/attachments/04_TriangleCollection_001-merged-compressed.pdf
+    year: "2026"
+    license: 版权归 Bridgewater Public Library；仅作事实参考
+    usage: 1979 年 3 月 23 日公路交叉口上空目击、地方报纸记录
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面霍科莫克沼泽黄昏场景复原、三角范围与事件时间线；不是现场照片
+cover: ../../../assets/covers/bridgewater-triangle.jpg
+related:
+  - hoia-baciu
+  - mothman
+status: review
+featured: false
+translation_status: translated

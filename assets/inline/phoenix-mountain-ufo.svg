@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Phoenix Mountain case: the white object, the 1994 timeline and the investigation</title>
+  <desc id="desc">A dark forested mountain slope at dusk with a white oval object, a small figure 150 metres away, and panels on the 1994 timeline and the investigation.</desc>
+  <defs>
+    <linearGradient id="phoenix-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2E3440"/>
+      <stop offset="0.6" stop-color="#4A5A70"/>
+      <stop offset="1" stop-color="#8A9A90"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE WHITE THING ON THE MOUNTAIN · 山上的白东西</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">PHOENIX MOUNTAIN / HEILONGJIANG / JUNE–JULY 1994</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE SOUTH SLOPE / 南坡示意</text>
+
+    <!-- scene -->
+    <rect x="72" y="150" width="396" height="190" fill="url(#phoenix-sky)"/>
+    <!-- mountain -->
+    <path d="M72 340 L 140 300 L 200 280 L 270 240 L 340 220 L 468 250 L 468 340 Z" fill="#2E3A2E"/>
+    <path d="M72 340 L 140 300 L 200 280 L 270 240 L 340 220 L 468 250 L 468 340 Z" fill="none" stroke="#4A5A4A" stroke-width="1"/>
+    <!-- trees -->
+    <g fill="#1D2A1D">
+      <path d="M100 320 L 108 286 L 116 320 Z"/>
+      <path d="M120 328 L 128 290 L 136 328 Z"/>
+      <path d="M150 316 L 158 280 L 166 316 Z"/>
+      <path d="M180 308 L 188 270 L 196 308 Z"/>
+      <path d="M390 300 L 398 262 L 406 300 Z"/>
+      <path d="M418 296 L 426 258 L 434 296 Z"/>
+      <path d="M440 300 L 448 264 L 456 300 Z"/>
+    </g>
+    <!-- white object -->
+    <ellipse cx="330" cy="228" rx="34" ry="12" fill="#F3EEE4" stroke="#C9BFA8" stroke-width="1"/>
+    <ellipse cx="330" cy="224" rx="26" ry="7" fill="#FFFFFF" opacity="0.7"/>
+    <!-- figure -->
+    <circle cx="170" cy="302" r="3" fill="#E8C96A"/>
+    <path d="M170 305 L 170 316 M 170 308 L 164 312 M 170 308 L 176 312 M 170 316 L 166 322 M 170 316 L 174 322" stroke="#E8C96A" stroke-width="1.2"/>
+    <!-- sight line -->
+    <line x1="174" y1="300" x2="296" y2="234" stroke="#E8C96A" stroke-width="0.8" stroke-dasharray="3 3"/>
+    <text x="198" y="264" font-family="Georgia, serif" font-size="7.5" fill="#E8C96A">150 M / 150 米</text>
+    <line x1="336" y1="208" x2="360" y2="190" stroke="#F3EEE4" stroke-width="0.8"/>
+    <text x="364" y="188" font-family="Georgia, serif" font-size="7.5" fill="#F3EEE4">WHITE OBJECT / 白色物体</text>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">HONGQI FOREST FARM / 红旗林场</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">herb pickers, June 1994 / 1994 年 6 月，采菜人</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE TIMELINE / 时间线</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">4–6 June · sightings / 连续目击</text>
+      <text x="520" y="186">7 June · electric shock / 被电击</text>
+      <text x="520" y="206">9 June · he collapses / 突然倒下</text>
+      <text x="520" y="226">16 July · the account / 自述被带入</text>
+      <text x="520" y="242">16 July · comet hits Jupiter / 彗星撞木星</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE INVESTIGATION / 调查</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Oct 1994 · team visits / 调查组进山</text>
+      <text x="520" y="330">radiation measured, normal / 辐射测量正常</text>
+      <text x="520" y="348">no object, debris or photo / 没有物体、残骸或照片</text>
+      <text x="520" y="366">psychologists: confabulation / 心理学家：虚构记忆</text>
+      <text x="520" y="382">no lie detector for this / 对这类见证人不用测谎</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A complete story is not proof.</text>
+    <text x="60" y="470">故事完整，不等于发生过。</text>
+    <text x="60" y="494" fill="#B44A32">The account is detailed; the evidence is missing. / 自述很细，证据没有。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

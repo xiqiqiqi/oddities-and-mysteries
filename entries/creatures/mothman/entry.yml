@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: mothman
+title_zh: 红眼睛的翅膀
+title_en: The Wings with Red Eyes
+era: "1966–1967"
+era_en: "1966–1967"
+region: 美国，西弗吉尼亚，普莱森特角
+region_en: "Point Pleasant, West Virginia, USA"
+coords: [38.84, -82.14]
+tags:
+  - 天蛾人
+  - 普莱森特角
+  - 银桥
+  - 都市传说
+  - 红眼
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Mothman"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Mothman
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1966–1967 年目击、描述、传播与解释
+  - id: S2
+    title: "Wikipedia · Silver Bridge"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Silver_Bridge
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1967 年银桥坍塌与后续关联
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与目击时间线；不是历史照片
+cover: ../../../assets/covers/mothman.jpg
+related:
+  - spring-heeled-jack
+  - loch-ness
+status: review
+featured: false
+translation_status: translated

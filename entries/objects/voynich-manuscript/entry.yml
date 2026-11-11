@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: voynich-manuscript
+title_zh: 读不懂的手稿
+title_en: The Manuscript No One Can Read
+era: "15 世纪初"
+era_en: "early 15th century"
+region: 欧洲；现藏耶鲁大学
+region_en: "Europe; now at Yale University"
+coords: null
+tags:
+  - 伏尼契手稿
+  - 未知文字
+  - 密码
+  - 中世纪
+  - 耶鲁
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Voynich manuscript"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Voynich_manuscript
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 碳定年、内容结构、收藏史与主要解读尝试
+  - id: S2
+    title: "Wikipedia · Beinecke Rare Book & Manuscript Library"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Beinecke_Rare_Book_%26_Manuscript_Library
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 现藏机构与手稿编号背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与手稿结构示意；不是手稿影印
+cover: ../../../assets/covers/voynich-manuscript.jpg
+related:
+  - crystal-skulls
+  - iron-pillar-delhi
+status: review
+featured: false
+translation_status: translated

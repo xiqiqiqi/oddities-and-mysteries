@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: dragon
+title_zh: 两种龙
+title_en: Two Kinds of Dragon
+era: "古代起"
+era_en: "Since antiquity"
+region: 中国 / 欧洲
+region_en: "China / Europe"
+coords: [39.916, 116.397]
+tags:
+  - 龙
+  - 中国龙
+  - 西方龙
+  - 传说
+  - 恐龙
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Dragon"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Dragon
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 各地龙传说、中国龙与西方龙的差异、恐龙与“龙骨”
+  - id: S2
+    title: "Britannica · Dragon"
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/topic/dragon-mythology
+    year: "2026"
+    license: 版权归 Britannica；仅作事实参考
+    usage: 西方龙的形象、圣乔治与中世纪传统
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面中国龙与西方龙场景复原、形象对照示意；不是文物照片
+cover: ../../../assets/covers/dragon.jpg
+related:
+  - kelpie
+  - mongolian-death-worm
+status: review
+featured: false
+translation_status: translated

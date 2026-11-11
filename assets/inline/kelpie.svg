@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The kelpie: a black horse at the edge of a Scottish loch</title>
+  <desc id="desc">A lochside scene with a black horse standing in the water, and panels on the legend of the kelpie and its warning function.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">KELPIE · SCOTTISH FOLKLORE</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">WATER HORSE / WARNING / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#DCE6E8"/>
+
+    <!-- hills -->
+    <path d="M60 250 Q 140 180 230 230 Q 300 190 380 235 Q 440 210 480 240 V 280 H 60 Z" fill="#8C9A8C"/>
+    <path d="M60 270 Q 120 230 200 260 Q 290 235 360 265 Q 430 245 480 270 V 290 H 60 Z" fill="#6E7E72"/>
+
+    <!-- loch -->
+    <rect x="60" y="280" width="420" height="80" fill="#6F8A9A"/>
+    <g stroke="#9FB8C4" stroke-width="1">
+      <path d="M80 300 H 130 M160 312 H 220 M300 304 H 350 M380 320 H 440"/>
+    </g>
+
+    <!-- reeds -->
+    <g stroke="#4A5A3A" stroke-width="1.5">
+      <path d="M90 280 V 250 M96 280 V 256 M102 280 V 246"/>
+      <path d="M430 280 V 252 M436 280 V 258 M442 280 V 248"/>
+    </g>
+
+    <!-- horse -->
+    <g fill="#1D1A17">
+      <path d="M178 250 Q 178 228 210 226 Q 246 224 256 244 Q 260 262 240 268 L 200 270 Q 180 268 178 250 Z"/>
+      <path d="M244 242 L 266 204 L 280 208 L 262 252 Z"/>
+      <path d="M264 208 Q 278 194 292 198 L 302 204 Q 298 216 284 218 L 270 214 Z"/>
+      <path d="M274 196 L 278 186 L 282 196 Z"/>
+      <path d="M284 194 L 288 184 L 292 194 Z"/>
+      <path d="M236 266 L 232 300 L 240 300 L 246 268 Z"/>
+      <path d="M250 266 L 254 300 L 262 300 L 258 268 Z"/>
+      <path d="M194 266 L 188 300 L 196 300 L 204 268 Z"/>
+      <path d="M208 266 L 206 300 L 214 300 L 218 268 Z"/>
+      <path d="M180 244 Q 168 250 164 268 L 170 270 Q 176 254 184 250 Z"/>
+    </g>
+    <g stroke="#1D1A17" stroke-width="2" fill="none">
+      <path d="M272 202 Q 260 218 250 244 M276 206 Q 264 222 254 246 M268 198 Q 258 210 252 228"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17">
+      <text x="90" y="330">loch / 湖</text>
+      <text x="310" y="200">black horse / 黑马</text>
+      <text x="90" y="378" fill="#B44A32">no rider returns / 骑者不归</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE STORY / 故事</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="168">a horse at the water's edge / 水边的马</text>
+      <text x="520" y="192">sticky skin / 皮会粘住骑者</text>
+      <text x="520" y="216">drags the rider under / 把骑者拖入水底</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE WARNING / 警示</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">deep, cold water / 水又深又冷</text>
+      <text x="520" y="334">mud and reeds / 泥沼与水草</text>
+    </g>
+    <text x="520" y="362" font-family="Georgia, serif" font-size="8" fill="#B44A32">a story to keep children away</text>
+    <text x="520" y="374" font-family="Georgia, serif" font-size="8" fill="#B44A32">让孩子远离深水的故事</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The kelpie is a water horse of Scottish folklore.</text>
+    <text x="60" y="470">凯尔派是苏格兰民间传说中的水马。</text>
+    <text x="60" y="494" fill="#B44A32">It lures riders onto its back and carries them into the loch. / 它引诱人骑上背，再把人带进湖里。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

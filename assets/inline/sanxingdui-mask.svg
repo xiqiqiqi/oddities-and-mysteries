@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Sanxingdui mask with protruding eyes: dimensions and features</title>
+  <desc id="desc">A front-view schematic of the bronze mask with large ears, cylindrical protruding eyes, and a wide mouth, with dimension lines and panels on the find and the interpretation.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">SANXINGDUI MASK · LATE SHANG</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">66 × 138 CM / 16 CM EYES / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+
+    <!-- ears -->
+    <path d="M170 210 L 120 180 L 138 250 L 170 270 Z" fill="#8C7A52" stroke="#4A4030" stroke-width="1.5"/>
+    <path d="M370 210 L 420 180 L 402 250 L 370 270 Z" fill="#8C7A52" stroke="#4A4030" stroke-width="1.5"/>
+
+    <!-- face -->
+    <path d="M170 190 Q 270 160 370 190 L 350 330 Q 270 360 190 330 Z" fill="#9A8A64" stroke="#4A4030" stroke-width="1.5"/>
+
+    <!-- eyebrows -->
+    <path d="M190 215 Q 230 195 265 215" fill="none" stroke="#4A4030" stroke-width="4"/>
+    <path d="M275 215 Q 310 195 350 215" fill="none" stroke="#4A4030" stroke-width="4"/>
+
+    <!-- eyes: protruding cylinders seen from the front -->
+    <g>
+      <circle cx="225" cy="240" r="22" fill="#8C7A52" stroke="#4A4030" stroke-width="2"/>
+      <circle cx="225" cy="240" r="13" fill="#E2DCC8" stroke="#4A4030" stroke-width="1.5"/>
+      <circle cx="225" cy="240" r="6" fill="#1D1A17"/>
+      <path d="M210 254 Q 225 264 240 252" fill="none" stroke="#4A4030" stroke-width="1"/>
+
+      <circle cx="315" cy="240" r="22" fill="#8C7A52" stroke="#4A4030" stroke-width="2"/>
+      <circle cx="315" cy="240" r="13" fill="#E2DCC8" stroke="#4A4030" stroke-width="1.5"/>
+      <circle cx="315" cy="240" r="6" fill="#1D1A17"/>
+      <path d="M300 254 Q 315 264 330 252" fill="none" stroke="#4A4030" stroke-width="1"/>
+    </g>
+
+    <!-- nose -->
+    <path d="M262 250 L 270 300 L 258 310 L 250 300 Z" fill="#8C7A52" stroke="#4A4030" stroke-width="1.5"/>
+
+    <!-- mouth -->
+    <path d="M220 325 Q 270 338 320 325" fill="none" stroke="#4A4030" stroke-width="3"/>
+
+    <!-- dimensions -->
+    <g stroke="#B44A32" stroke-width="1">
+      <path d="M120 356 H 420"/>
+      <path d="M120 350 V 362 M420 350 V 362"/>
+      <path d="M440 180 V 340"/>
+      <path d="M434 180 H 446 M434 340 H 446"/>
+    </g>
+    <text x="250" y="372" font-family="Georgia, serif" font-size="8" fill="#B44A32">138 cm</text>
+    <text x="448" y="264" font-family="Georgia, serif" font-size="8" fill="#B44A32">66 cm</text>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17">
+      <text x="80" y="230">ear / 大耳</text>
+      <text x="330" y="200">eye / 纵目</text>
+      <text x="330" y="338">mouth / 宽嘴</text>
+      <text x="250" y="388" fill="#B44A32">eyes project 16 cm / 眼球前凸 16 厘米</text>
+    </g>
+    <g stroke="#1D1A17" stroke-width="1">
+      <path d="M336 204 L 330 222"/>
+      <path d="M336 334 L 322 328"/>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE FIND / 出土</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">1986, pit 2, Guanghan</text>
+      <text x="520" y="179">1986 年，广汉二号祭祀坑</text>
+      <text x="520" y="201">late Shang, c. 1131–1012 BCE</text>
+      <text x="520" y="214">商代晚期</text>
+      <text x="520" y="236">Sanxingdui Museum / 三星堆博物馆</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE FACE / 形象</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">protruding eyes / 纵目</text>
+      <text x="520" y="334">large ears / 大耳</text>
+      <text x="520" y="356">possibly Cancong, a Shu king / 可能是蜀王蚕丛</text>
+    </g>
+    <text x="520" y="380" font-family="Georgia, serif" font-size="8" fill="#B44A32">not an alien / 不是外星人</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The mask is 66 cm high and 138 cm wide.</text>
+    <text x="60" y="470">面具高 66 厘米，宽 138 厘米。</text>
+    <text x="60" y="494" fill="#B44A32">Its eyes project about 16 cm forward. / 眼球向前凸出约 16 厘米。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

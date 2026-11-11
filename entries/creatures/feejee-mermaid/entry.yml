@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: feejee-mermaid
+title_zh: 鱼尾上的猴子
+title_en: The Monkey with a Fish Tail
+era: "1842"
+era_en: "1842"
+region: 美国，纽约
+region_en: "New York, United States"
+coords: [40.711, -74.006]
+tags:
+  - 斐济美人鱼
+  - 巴纳姆
+  - 骗局
+  - 美人鱼
+  - 纽约
+collections: []
+credibility: hoax
+sources:
+  - id: S1
+    title: "Wikipedia · Feejee mermaid"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Feejee_mermaid
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 巴纳姆的展出、金博尔的收藏、制作与流传
+  - id: S2
+    title: "Hoaxes.org · The Feejee Mermaid (1842)"
+    publisher: Hoaxes.org
+    url: https://hoaxes.org/archive/permalink/the_feejee_mermaid/
+    year: "2026"
+    license: 版权归 Hoaxes.org；仅作事实参考
+    usage: 展览宣传、报纸报道与哈佛皮博迪博物馆的藏品
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面展览场景复原、标本结构与传播路径示意；不是文物照片
+cover: ../../../assets/covers/feejee-mermaid.jpg
+related:
+  - piltdown-man
+  - loch-ness
+status: review
+featured: false
+translation_status: translated

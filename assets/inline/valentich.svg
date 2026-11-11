@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Valentich: the route, the radio, and the search over Bass Strait</title>
+  <desc id="desc">A schematic map of Bass Strait from Melbourne to King Island with the last known position and search area, plus panels on the radio exchanges and the search.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">VALENTICH · BASS STRAIT, 1978</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">A CESSNA 182 / SEVEN MINUTES OF RADIO / NO WRECKAGE</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <rect x="70" y="130" width="400" height="252" fill="#DCE6E8"/>
+
+    <!-- mainland -->
+    <path d="M70 130 H470 V178 C 430 190 395 172 360 186 C 320 200 285 182 250 192 C 210 204 160 188 120 198 C 100 203 85 196 70 200 Z" fill="#D8CCB6" stroke="#B8A582" stroke-width="1.2"/>
+
+    <!-- King Island -->
+    <path d="M240 330 Q270 316 300 330 Q270 344 240 330 Z" fill="#D8CCB6" stroke="#B8A582" stroke-width="1.2"/>
+
+    <!-- route -->
+    <path d="M150 170 L280 330" stroke="#B44A32" stroke-width="1.5" stroke-dasharray="5 3"/>
+
+    <!-- search area -->
+    <ellipse cx="250" cy="280" rx="75" ry="55" fill="none" stroke="#B44A32" stroke-width="1" stroke-dasharray="4 3"/>
+
+    <!-- points -->
+    <circle cx="150" cy="170" r="4" fill="#1D1A17"/>
+    <circle cx="235" cy="196" r="3.5" fill="#1D1A17"/>
+    <circle cx="240" cy="272" r="4.5" fill="#B44A32"/>
+
+    <text x="88" y="152" font-family="Georgia, serif" font-size="8" fill="#1D1A17">MELBOURNE / 墨尔本</text>
+    <text x="245" y="212" font-family="Georgia, serif" font-size="8" fill="#1D1A17">CAPE OTWAY / 奥特韦角</text>
+    <text x="310" y="334" font-family="Georgia, serif" font-size="8" fill="#1D1A17">KING ISLAND / 国王岛</text>
+    <text x="85" y="255" font-family="Georgia, serif" font-size="8" fill="#B44A32">LAST CONTACT / 最后位置</text>
+    <path d="M215 258 L 236 270" stroke="#B44A32" stroke-width="1"/>
+    <text x="330" y="300" font-family="Georgia, serif" font-size="8" fill="#B44A32">SEARCH AREA / 搜索区</text>
+    <path d="M326 296 L 306 286" stroke="#B44A32" stroke-width="1"/>
+    <text x="85" y="325" font-family="Georgia, serif" font-size="8" fill="#3E5A7A">BASS STRAIT / 巴斯海峡</text>
+
+    <!-- north arrow -->
+    <path d="M450 155 V 136" stroke="#4A4030" stroke-width="1.5"/>
+    <path d="M450 134 L445 144 H455 Z" fill="#4A4030"/>
+    <text x="450" y="128" font-family="Georgia, serif" font-size="8" fill="#4A4030" text-anchor="middle">N</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="150" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE RADIO / 无线电</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">19:06 — any traffic at 4,500 ft?</text>
+      <text x="520" y="182">询问 4500 英尺有无已知飞机</text>
+      <text x="520" y="202">19:07 — four lights, overhead</text>
+      <text x="520" y="218">四盏灯，从头顶一千英尺掠过</text>
+      <text x="520" y="238">19:09 — “It's not an aircraft.”</text>
+      <text x="520" y="254">然后：金属刮擦声，静默</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="272" width="340" height="120" fill="#EFE6D6"/>
+    <text x="520" y="300" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SEARCH / 搜救</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="324">P-3 Orion + 8 civilian aircraft</text>
+      <text x="520" y="340">一架 P-3 与八架民用飞机</text>
+      <text x="520" y="360">1,000 sq mi, four days / 一千多平方英里，四天</text>
+      <text x="520" y="378">no wreckage, no body / 没有残骸，没有遗体</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Valentich filed a 125-nautical-mile flight plan to King Island.</text>
+    <text x="60" y="470">他申报的航线是飞越巴斯海峡，前往国王岛，125 海里。</text>
+    <text x="60" y="494" fill="#B44A32">The official investigation found no cause and presumed him dead. / 官方调查未能确定原因，推定他已死亡。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

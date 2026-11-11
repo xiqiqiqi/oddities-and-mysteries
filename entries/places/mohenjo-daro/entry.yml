@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: mohenjo-daro
+title_zh: 死者之丘
+title_en: The Mound of the Dead
+era: "约公元前 2500 年"
+era_en: "c. 2500 BCE"
+region: 巴基斯坦，信德省，印度河
+region_en: "Sindh, Pakistan, on the Indus"
+coords: [27.329, 68.138]
+tags:
+  - 摩亨佐达罗
+  - 印度河流域文明
+  - 考古
+  - 城市
+  - 死丘
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Mohenjo-daro"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Mohenjo-daro
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 城市年代、布局、大浴池、废弃与发掘
+  - id: S2
+    title: "UNESCO · Archaeological Ruins at Moenjodaro"
+    publisher: UNESCO World Heritage Centre
+    url: https://whc.unesco.org/en/list/138/
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 世界遗产信息、土砖建筑与保护状况
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面城市复原与街区、排水系统示意；不是航拍照片
+cover: ../../../assets/covers/mohenjo-daro.jpg
+related:
+  - gobekli-tepe
+  - angkor-wat
+status: review
+featured: false
+translation_status: translated

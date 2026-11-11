@@ -1,0 +1,54 @@
+channel: objects
+type: object
+slug: shroud-of-turin
+title_zh: 裹尸布上的脸
+title_en: The Face on the Shroud
+era: "1354 年起有记载"
+era_en: "Documented since 1354"
+region: 意大利，都灵
+region_en: "Turin, Italy"
+coords: [45.073, 7.686]
+tags:
+  - 都灵裹尸布
+  - 都灵
+  - 碳十四
+  - 宗教
+  - 图像
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Shroud of Turin"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Shroud_of_Turin
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 尺寸、历史、火灾、碳十四测年与争论
+  - id: S2
+    title: "Shroud.com · The Shroud of Turin Website"
+    publisher: STURP / Shroud.com
+    year: "2026"
+    url: https://www.shroud.com/
+    license: 版权归 Shroud.com；仅作事实参考
+    usage: 图像研究、织物与痕迹资料
+  - id: S3
+    title: "Skeptic · Unraveling the Myths Surrounding the Shroud of Turin"
+    publisher: Skeptic Magazine
+    url: https://www.skeptic.com/article/shroud-of-turin-authenticity-examined/
+    year: "2026"
+    license: 版权归 Skeptic；仅作事实参考
+    usage: 1988 年测年结果与质疑意见
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面教堂展陈场景复原、布面与时间线示意；不是文物照片
+cover: ../../../assets/covers/shroud-of-turin.jpg
+related:
+  - tutankhamun-mask
+  - dead-sea-scrolls
+status: review
+featured: false
+translation_status: translated

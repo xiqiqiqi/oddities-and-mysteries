@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Gospel of Jesus's Wife: the fragment, the text and the provenance</title>
+  <desc id="desc">A papyrus fragment with lines of Coptic-style text and two highlighted phrases, with panels on the text and on the owner and the forgery investigation.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE WIFE OF JESUS · 耶稣的妻子</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">THE FRAGMENT / THE TESTS / THE OWNER</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE FRAGMENT / 残片示意</text>
+
+    <!-- papyrus -->
+    <path d="M95 180 L 285 170 L 300 205 L 292 300 L 275 320 L 105 312 L 88 285 Z" fill="#D8C8A0" stroke="#A08A5A" stroke-width="1.2"/>
+    <g stroke="#4A4030" stroke-width="1.2" opacity="0.8">
+      <path d="M112 202 L 268 196"/>
+      <path d="M112 222 L 250 217"/>
+      <path d="M112 242 L 276 237"/>
+      <path d="M112 262 L 240 258"/>
+      <path d="M112 282 L 262 278"/>
+      <path d="M112 300 L 232 297"/>
+    </g>
+    <path d="M112 222 L 250 217" stroke="#B44A32" stroke-width="2.2"/>
+    <path d="M112 282 L 262 278" stroke="#B44A32" stroke-width="2.2"/>
+
+    <!-- callouts -->
+    <path d="M250 217 L 318 190" stroke="#B44A32" stroke-width="0.8" fill="none"/>
+    <text x="322" y="186" font-family="Georgia, serif" font-size="8" fill="#B44A32">“MY WIFE”</text>
+    <text x="322" y="196" font-family="Georgia, serif" font-size="8" fill="#B44A32">“我的妻子”</text>
+
+    <path d="M262 278 L 304 298" stroke="#B44A32" stroke-width="0.8" fill="none"/>
+    <text x="310" y="296" font-family="Georgia, serif" font-size="7.5" fill="#B44A32">“SHE CAN BE MY DISCIPLE”</text>
+    <text x="310" y="306" font-family="Georgia, serif" font-size="7.5" fill="#B44A32">“她能够成为门徒”</text>
+
+    <text x="88" y="344" font-family="Georgia, serif" font-size="8" fill="#6B6256">about 8 cm × 4 cm / 约 8 厘米 × 4 厘米</text>
+    <text x="88" y="360" font-family="Georgia, serif" font-size="8" fill="#6B6256">Coptic text, a few lines / 科普特文，几行字</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE TEXT / 文本</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">presented in Rome, 2012 / 2012 年在罗马发表</text>
+      <text x="520" y="186">Karen King, Harvard / 卡伦·金，哈佛</text>
+      <text x="520" y="206">“my wife” / “我的妻子”</text>
+      <text x="520" y="226">Mary, a disciple / 玛丽，一位门徒</text>
+      <text x="520" y="238">second-century style / 二世纪文本风格</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE OWNER / 物主</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">2014: lab tests / 2014：实验室检测</text>
+      <text x="520" y="330">2016: The Atlantic / 2016：《大西洋月刊》</text>
+      <text x="520" y="348">Walter Fritz, the owner / 物主沃尔特·弗里茨</text>
+      <text x="520" y="366">King: likely a forgery / 金：很可能是伪造</text>
+      <text x="520" y="382">Harvard: very much in doubt / 哈佛：非常可疑</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A scrap of papyrus touched an argument that never ended.</text>
+    <text x="60" y="470">一片纸莎草，碰到了一场没有结束的争论。</text>
+    <text x="60" y="494" fill="#B44A32">Even if genuine, it would be a later discussion, not a record of Jesus's life. / 即使是真的，它也是后来的讨论，不是耶稣生平的记录。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

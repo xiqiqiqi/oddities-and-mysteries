@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The each-uisge: the water horse, the rider and the loch</title>
+  <desc id="desc">A black water horse with a rider entering a dark Highland loch at dusk, with panels on the creature and the warning.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">EACH-UISGE · 湖里的马</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SCOTTISH HIGHLANDS / THE LOCH / THE STICKY SKIN</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE LOCH AT DUSK / 黄昏的湖</text>
+
+    <!-- night scene -->
+    <rect x="72" y="150" width="396" height="190" fill="#2E3440"/>
+    <circle cx="410" cy="180" r="16" fill="#F3EEE4"/>
+    <path d="M72 270 C 140 250 200 262 260 256 C 330 248 400 260 468 250 L468 300 L72 300 Z" fill="#3A4A3A"/>
+    <g fill="#F3EEE4">
+      <circle cx="110" cy="168" r="1"/><circle cx="170" cy="180" r="1"/><circle cx="230" cy="164" r="1"/><circle cx="290" cy="178" r="1"/><circle cx="350" cy="166" r="1"/>
+    </g>
+
+    <!-- water -->
+    <rect x="72" y="286" width="396" height="54" fill="#4A5A6A"/>
+    <g stroke="#7FA8C4" stroke-width="1" fill="none">
+      <path d="M80 302 Q 110 296 140 302 T 200 302 T 260 302 T 320 302 T 380 302 T 440 302"/>
+      <path d="M80 318 Q 110 312 140 318 T 200 318 T 260 318 T 320 318 T 380 318 T 440 318"/>
+      <path d="M80 334 Q 110 328 140 334 T 200 334 T 260 334 T 320 334 T 380 334 T 440 334"/>
+    </g>
+
+    <!-- horse and rider -->
+    <ellipse cx="245" cy="258" rx="56" ry="25" fill="#1D1A17"/>
+    <path d="M290 250 L 316 214 L 334 220 L 308 260 Z" fill="#1D1A17"/>
+    <ellipse cx="332" cy="210" rx="17" ry="9" fill="#1D1A17" transform="rotate(-20 332 210)"/>
+    <path d="M322 202 L 318 192 L 328 200 Z" fill="#1D1A17"/>
+    <circle cx="338" cy="208" r="1.7" fill="#B44A32"/>
+    <path d="M198 252 C 182 258 176 272 182 284" stroke="#1D1A17" stroke-width="6" fill="none"/>
+    <g stroke="#1D1A17" stroke-width="7" stroke-linecap="round">
+      <line x1="216" y1="278" x2="212" y2="302"/>
+      <line x1="238" y1="280" x2="236" y2="306"/>
+      <line x1="266" y1="280" x2="268" y2="306"/>
+      <line x1="284" y1="276" x2="288" y2="300"/>
+    </g>
+    <g stroke="#A8C4D8" stroke-width="1.2" fill="none">
+      <ellipse cx="212" cy="302" rx="12" ry="3"/>
+      <ellipse cx="236" cy="306" rx="12" ry="3"/>
+      <ellipse cx="268" cy="306" rx="12" ry="3"/>
+      <ellipse cx="288" cy="300" rx="12" ry="3"/>
+    </g>
+    <!-- rider -->
+    <circle cx="242" cy="218" r="8" fill="#D8CCB6"/>
+    <path d="M234 228 L 250 228 L 254 250 L 230 250 Z" fill="#8C5A3A"/>
+    <line x1="234" y1="238" x2="222" y2="246" stroke="#D8CCB6" stroke-width="2.5"/>
+    <line x1="250" y1="238" x2="260" y2="246" stroke="#D8CCB6" stroke-width="2.5"/>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">THE LOCH / 湖</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">it runs into the water / 它跑进水里</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE WATER HORSE / 水马</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">a horse, or a man / 一匹马，或一个男人</text>
+      <text x="520" y="186">lochs and sea lochs / 湖泊与海湖</text>
+      <text x="520" y="206">sticky skin, magical bridle / 粘皮与魔法缰绳</text>
+      <text x="520" y="226">drags the rider under / 把骑手拖下水</text>
+      <text x="520" y="242">more vicious than the kelpie / 比凯尔派更凶</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE WARNING / 警告</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">don't ride an unknown horse / 不要骑不认识的马</text>
+      <text x="520" y="330">don't go to the loch at dusk / 黄昏不要去湖边</text>
+      <text x="520" y="348">cut the clothes, jump free / 割掉衣服，跳下来</text>
+      <text x="520" y="366">or speak its name / 或者喊出它的名字</text>
+      <text x="520" y="382">no physical evidence / 没有实物证据</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A horse that takes you where the water is.</text>
+    <text x="60" y="470">一匹把你带进水里的马。</text>
+    <text x="60" y="494" fill="#B44A32">The each-uisge is Scottish folklore, not a documented animal. / 埃赫乌什克是苏格兰民俗，不是有记录的动物。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

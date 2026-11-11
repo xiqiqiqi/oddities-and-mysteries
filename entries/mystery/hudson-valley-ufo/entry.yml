@@ -1,0 +1,47 @@
+channel: mystery
+type: phenomenon
+slug: hudson-valley-ufo
+title_zh: V 形的天空
+title_en: The V in the Sky
+era: "1982–1986"
+era_en: "1982–1986"
+region: 美国，纽约，哈德逊河谷
+region_en: "Hudson Valley, New York, USA"
+coords: [41.4, -73.9]
+tags:
+  - 哈德逊河谷
+  - UFO
+  - V 形飞行器
+  - 纽约
+  - 1980 年代
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Hudson Valley UFO"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Hudson_Valley_UFO
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1982–1986 年目击、V 形飞行器、目击者与解释
+  - id: S2
+    title: "Skeptoid · The Hudson Valley UFO Mystery"
+    publisher: Skeptoid
+    url: https://skeptoid.com/episodes/4598
+    year: "2017"
+    license: 版权归 Skeptoid；仅作事实参考
+    usage: 小型飞机编队等 skeptical 解释与目击背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面夜空 V 形灯光场景复原、目击时间线与解释分层；不是现场照片
+cover: ../../../assets/covers/hudson-valley-ufo.jpg
+related:
+  - varginha-ufo
+  - paulding-light
+status: review
+featured: false
+translation_status: translated

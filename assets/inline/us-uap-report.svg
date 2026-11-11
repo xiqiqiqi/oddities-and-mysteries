@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The UAP report: 144 reports, 18 unusual cases and one balloon</title>
+  <desc id="desc">A grid of 144 dots representing the reports, with 18 marked as unusual and one marked as an identified balloon, and panels on the numbers and later totals.</desc>
+  <defs>
+    <pattern id="uap-grid" width="15" height="15" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="2.2" fill="#8A9A90"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE REPORT WITHOUT A CONCLUSION · 没有结论的报告</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">ODNI / 25 JUNE 2021 / 144 REPORTS</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE 144 / 144 起报告</text>
+
+    <!-- dot grid -->
+    <rect x="120" y="180" width="180" height="180" fill="url(#uap-grid)"/>
+    <!-- 18 unusual -->
+    <g fill="#C9A94A">
+      <circle cx="139" cy="199" r="4"/><circle cx="199" cy="214" r="4"/><circle cx="259" cy="199" r="4"/>
+      <circle cx="169" cy="229" r="4"/><circle cx="229" cy="244" r="4"/><circle cx="289" cy="229" r="4"/>
+      <circle cx="139" cy="259" r="4"/><circle cx="199" cy="274" r="4"/><circle cx="259" cy="259" r="4"/>
+      <circle cx="169" cy="289" r="4"/><circle cx="229" cy="304" r="4"/><circle cx="289" cy="289" r="4"/>
+      <circle cx="139" cy="319" r="4"/><circle cx="199" cy="334" r="4"/><circle cx="259" cy="319" r="4"/>
+      <circle cx="169" cy="349" r="4"/><circle cx="229" cy="349" r="4"/><circle cx="289" cy="349" r="4"/>
+    </g>
+    <!-- one identified -->
+    <circle cx="289" cy="334" r="5.5" fill="#B44A32" stroke="#F3EEE4" stroke-width="1.2"/>
+
+    <line x1="300" y1="200" x2="330" y2="188" stroke="#C9A94A" stroke-width="0.8"/>
+    <text x="334" y="186" font-family="Georgia, serif" font-size="7.5" fill="#4A4030">18 unusual / 18 起异常</text>
+    <line x1="306" y1="334" x2="336" y2="330" stroke="#B44A32" stroke-width="0.8"/>
+    <text x="340" y="328" font-family="Georgia, serif" font-size="7.5" fill="#B44A32">one balloon / 一只气球</text>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">2004–2021 / MOSTLY NAVY AVIATORS</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">80 tracked by multiple sensors / 80 起多传感器记录</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE NUMBERS / 数字</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">144 reports / 144 起报告</text>
+      <text x="520" y="186">80 with multiple sensors / 80 起多传感器</text>
+      <text x="520" y="206">18 unusual, in 21 reports / 18 起异常，21 份报告</text>
+      <text x="520" y="226">1 identified, a balloon / 1 起确认，气球</text>
+      <text x="520" y="242">143 unresolved / 143 起未解决</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">AFTER 2021 / 后来</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">2022 · AARO is created / 成立 AARO</text>
+      <text x="520" y="330">2023 · 801 reports in total / 累计 801 起</text>
+      <text x="520" y="348">2024 · 757 new reports / 新收 757 起</text>
+      <text x="520" y="366">21 still need analysis / 21 起仍需分析</text>
+      <text x="520" y="382">most are balloons, birds, drones / 多为气球、鸟、无人机</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The numbers rose. The answers did not.</text>
+    <text x="60" y="470">数字在涨，答案没有涨。</text>
+    <text x="60" y="494" fill="#B44A32">One balloon was identified. The rest lacked data. / 一起气球被确认，其余是数据不足。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

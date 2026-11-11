@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: atlantis
+title_zh: 消失的岛
+title_en: The Island That Sank
+era: "约公元前 360 年（记载）"
+era_en: "c. 360 BCE (account)"
+region: 大西洋（据柏拉图）
+region_en: "Atlantic Ocean (according to Plato)"
+coords: null
+tags:
+  - 亚特兰蒂斯
+  - 柏拉图
+  - 大西洲
+  - 圣托里尼
+  - 失落文明
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Atlantis"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Atlantis
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 柏拉图文本、9,000 年说法、后世解释与考古证据
+  - id: S2
+    title: "Britannica · Atlantis"
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/topic/Atlantis-legend
+    year: "2026"
+    license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    usage: 对话录背景、哲学寓意与主要假说
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面沉没城市场景复原、环形城示意与时间线；不是考古照片
+cover: ../../../assets/covers/atlantis.jpg
+related:
+  - hollow-earth
+  - piri-reis-map
+status: review
+featured: false
+translation_status: translated

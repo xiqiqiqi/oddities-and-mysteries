@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Cross-section of a seafloor brine pool</title>
+  <desc id="desc">A schematic of a brine pool filling a seafloor depression, with a density interface, mineral rim, and rim organisms.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">BRINE POOL · CROSS-SECTION</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SEAFLOOR DEPRESSION / SCHEMATIC</text>
+
+  <rect x="60" y="104" width="780" height="330" fill="#0F1C26"/>
+  <g stroke="#F3EEE4" stroke-width="1" opacity=".12">
+    <path d="M60 160 H840"/>
+    <path d="M60 210 H840"/>
+    <path d="M60 260 H840"/>
+  </g>
+  <text x="76" y="128" font-family="Georgia, serif" font-size="10" fill="#D8D0C4" opacity=".7">SEAWATER / 海水</text>
+
+  <path d="M60 300 C 150 300, 210 380, 300 404 C 400 430, 500 430, 600 404 C 690 380, 750 300, 840 300 L 840 434 L 60 434 Z" fill="#1B2A33" stroke="#8FA0B0" stroke-width="1.5"/>
+
+  <path d="M235 360 C 330 382, 550 382, 645 360 C 635 392, 540 410, 440 410 C 340 410, 245 392, 235 360 Z" fill="#24424F"/>
+  <path d="M235 360 C 330 382, 550 382, 645 360" fill="none" stroke="#6FA8C8" stroke-width="3"/>
+  <path d="M235 366 C 330 388, 550 388, 645 366" fill="none" stroke="#6FA8C8" stroke-width="1.2" opacity=".5"/>
+
+  <path d="M225 358 L 245 355 L 252 370 L 232 376 Z" fill="#D8C9AE"/>
+  <path d="M635 355 L 655 358 L 648 374 L 630 370 Z" fill="#D8C9AE"/>
+
+  <text x="350" y="340" font-family="Georgia, serif" font-size="11" fill="#9FD4FF">DENSITY INTERFACE / 密度界面</text>
+  <text x="382" y="390" font-family="Georgia, serif" font-size="11" fill="#9FD4FF">BRINE / 高盐卤水</text>
+  <text x="382" y="407" font-family="Georgia, serif" font-size="10" fill="#D8D0C4">denser, often anoxic, methane-rich</text>
+  <text x="140" y="382" font-family="Georgia, serif" font-size="11" fill="#D8C9AE">MINERAL RIM / 矿物边缘</text>
+  <text x="140" y="330" font-family="Georgia, serif" font-size="10" fill="#D99A2B">RIM LIFE / 边缘生物</text>
+
+  <g stroke="#D99A2B" stroke-width="1.5" fill="none">
+    <path d="M258 348 C 250 336, 258 328, 266 336"/>
+    <path d="M246 354 C 238 342, 246 334, 254 342"/>
+    <path d="M622 348 C 630 336, 638 342, 632 352"/>
+    <path d="M634 354 C 642 342, 650 348, 644 358"/>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="11" fill="#6B6256">
+    <text x="60" y="460">Brine forms where salt dissolves and dense water collects in a depression.</text>
+    <text x="60" y="478">盐层溶解后，重盐水积在海底洼地，形成“湖”。</text>
+    <text x="60" y="500">Not to scale / 非精确比例 · Graphic: XIQIQI · CC BY-SA 4.0</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Queen Mary: from ocean liner to troopship to hotel</title>
+  <desc id="desc">A five-stage timeline from the 1936 maiden voyage through the war, the Curacoa collision and John Pedder's death to the Long Beach hotel, with panels on the ship and the ghost stories.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE QUEEN MARY · THE HOTEL AT SEA</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">CUNARD / THE WAR / LONG BEACH</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="132" font-family="Georgia, serif" font-size="8" fill="#6B6256">FIVE STAGES / 五个阶段</text>
+
+    <path d="M95 160 V 340" stroke="#8C7A52" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="95" cy="160" r="3.5"/>
+      <circle cx="95" cy="205" r="3.5"/>
+      <circle cx="95" cy="250" r="3.5"/>
+      <circle cx="95" cy="295" r="3.5"/>
+      <circle cx="95" cy="340" r="3.5"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="9" fill="#1D1A17">
+      <text x="115" y="160">1936 · MAIDEN VOYAGE / 首航</text>
+      <text x="115" y="205">1939–45 · TROOPSHIP / 运兵船</text>
+      <text x="115" y="250">1942 · CURACOA / 库拉索号</text>
+      <text x="115" y="295">1966 · DOOR 13 / 13 号水密门</text>
+      <text x="115" y="340">1967 · LONG BEACH / 长滩</text>
+    </g>
+    <g font-family="Georgia, serif" font-size="8" fill="#4A4030">
+      <text x="115" y="175">卡纳德邮轮，跨大西洋航线</text>
+      <text x="115" y="220">“灰幽灵”，一趟一万五千人</text>
+      <text x="115" y="265">碰撞，巡洋舰沉没，数百人死亡</text>
+      <text x="115" y="310">约翰·佩德，十八岁，被门夹住</text>
+      <text x="115" y="355">旅馆、博物馆与鬼故事</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SHIP / 船</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">over 300 m long / 三百多米长</text>
+      <text x="520" y="186">three funnels / 三个烟囱</text>
+      <text x="520" y="204">Art Deco interiors / 装饰艺术内饰</text>
+      <text x="520" y="222">Cunard Line / 卡纳德公司</text>
+      <text x="520" y="240">retired in 1967 / 1967 年退役</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE GHOSTS / 鬼故事</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Shaft Alley / 轴巷</text>
+      <text x="520" y="330">cabin B340 / B340 舱房</text>
+      <text x="520" y="348">the swimming pool / 游泳池</text>
+      <text x="520" y="366">no verifiable evidence</text>
+      <text x="520" y="382">没有可验证的证据</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The Queen Mary has been moored at Long Beach since 1967.</text>
+    <text x="60" y="470">玛丽女王号从 1967 年起停泊在长滩。</text>
+    <text x="60" y="494" fill="#B44A32">John Pedder's death was real; the hauntings have no hard evidence. / 佩德之死是真的，闹鬼没有硬证据。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

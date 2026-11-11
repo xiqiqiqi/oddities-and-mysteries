@@ -1,0 +1,47 @@
+channel: mystery
+type: phenomenon
+slug: varginha-ufo
+title_zh: 墙边的生物
+title_en: The Creature by the Wall
+era: "1996"
+era_en: "1996"
+region: 巴西，米纳斯吉拉斯，瓦尔任阿
+region_en: "Varginha, Minas Gerais, Brazil"
+coords: [-21.55, -45.43]
+tags:
+  - 瓦尔任阿
+  - 巴西
+  - UFO
+  - 1996
+  - 外星人
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Varginha UFO incident"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Varginha_UFO_incident
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1996 年 1 月 20 日目击、三名目击者、军方与医院传闻
+  - id: S2
+    title: "Arquivo Nacional · Os ETS de Varginha"
+    publisher: Brazilian National Archive
+    url: https://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0462/BR_DFANBSB_ARX_0_0_0462_d0001de0001.pdf
+    year: "1996"
+    license: 巴西国家档案馆公开文件；仅作事实参考
+    usage: 当时的报道、救援与军方行动记录
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面雨夜街区与生物场景复原、事件时间线与传闻分层；不是现场照片
+cover: ../../../assets/covers/varginha-ufo.jpg
+related:
+  - paulding-light
+  - hessdalen-lights
+status: review
+featured: false
+translation_status: translated

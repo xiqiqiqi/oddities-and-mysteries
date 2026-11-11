@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Guiyang air-train event: damage bands, the factory and the downburst</title>
+  <desc id="desc">A schematic plan of the Duxi forest with several separate damage bands, the vehicle factory nearby, and a downburst fanning out from a thunderstorm, with panels on the event and the explanation.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE GUIYANG “AIR TRAIN” · 1994</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">DUXI FOREST / THE FACTORY / THE DOWNBURST</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">PLAN / 平面示意</text>
+
+    <!-- forest -->
+    <rect x="80" y="180" width="280" height="160" fill="#DCE6D2" stroke="#8C9A7A" stroke-width="1"/>
+
+    <!-- damage bands -->
+    <g fill="#C9B799" opacity="0.9">
+      <path d="M90 200 L 130 200 L 210 330 L 170 330 Z"/>
+      <path d="M180 195 L 215 195 L 280 315 L 245 320 Z"/>
+      <path d="M250 190 L 280 190 L 330 300 L 300 305 Z"/>
+      <path d="M120 260 L 150 260 L 200 340 L 170 340 Z"/>
+    </g>
+
+    <!-- trees -->
+    <g stroke="#6B7A5A" stroke-width="0.8" opacity="0.7">
+      <path d="M100 250 L 104 240 L 108 250 M100 270 L 104 260 L 108 270"/>
+      <path d="M140 220 L 144 210 L 148 220 M140 240 L 144 230 L 148 240"/>
+      <path d="M300 220 L 304 210 L 308 220 M300 240 L 304 230 L 308 240"/>
+      <path d="M210 280 L 214 270 L 218 280"/>
+    </g>
+
+    <!-- factory -->
+    <rect x="375" y="245" width="85" height="90" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.2"/>
+    <path d="M375 245 L 395 230 L 415 245 L 435 230 L 460 245" fill="none" stroke="#B44A32" stroke-width="1.2"/>
+    <text x="380" y="300" font-family="Georgia, serif" font-size="7" fill="#4A4030">FACTORY</text>
+    <text x="386" y="311" font-family="Georgia, serif" font-size="7" fill="#4A4030">车辆厂</text>
+
+    <!-- downburst -->
+    <path d="M235 145 L 180 230 M 245 145 L 245 235 M 255 145 L 300 230" stroke="#6B7A8A" stroke-width="1.5" stroke-dasharray="4 2"/>
+    <path d="M170 235 L 180 225 L 190 237 M 235 240 L 245 230 L 255 240 M 290 235 L 300 225 L 310 237" stroke="#6B7A8A" stroke-width="1.5" fill="none"/>
+    <text x="190" y="140" font-family="Georgia, serif" font-size="8" fill="#1D1A17">DOWNBURST / 下击暴流</text>
+
+    <text x="85" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">DAMAGE BANDS / 破坏带</text>
+    <text x="85" y="374" font-family="Georgia, serif" font-size="8" fill="#4A4030">四片互不相连的倒伏区</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE EVENT / 事件</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">30 Nov 1994, c. 3 am / 1994 年 11 月 30 日凌晨</text>
+      <text x="520" y="186">400 mu of pine destroyed / 四百亩松林</text>
+      <text x="520" y="204">trees snapped at the trunk / 树木拦腰折断</text>
+      <text x="520" y="222">greenhouse untouched / 大棚完好</text>
+      <text x="520" y="240">factory roofs torn off / 厂房屋顶被掀</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE EXPLANATION / 解释</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">downburst or landspout</text>
+      <text x="520" y="328">下击暴流或陆龙卷</text>
+      <text x="520" y="348">Ouyang Ziyuan's view / 欧阳自远的判断</text>
+      <text x="520" y="366">no UFO evidence / UFO 说法没有物证</text>
+      <text x="520" y="382">the forest grew back / 松林已重新长起</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The Duxi forest and the Dulaying factory were damaged on the same night.</text>
+    <text x="60" y="470">都溪林场与都拉营车辆厂在同一个夜晚受损。</text>
+    <text x="60" y="494" fill="#B44A32">A downburst is the best-supported explanation; no UFO debris was found. / 下击暴流是最有依据的解释，没有发现 UFO 残片。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

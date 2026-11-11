@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: brine-pools
+title_zh: 海底的湖泊
+title_en: Lakes at the Bottom of the Sea
+era: "古代形成；20 世纪起被调查"
+era_en: "ancient formations; studied since the 20th century"
+region: 红海，亚特兰蒂斯 II 海渊
+region_en: "Atlantis II Deep, Red Sea"
+coords: [21.35, 38.05]
+tags:
+  - 海底盐水池
+  - 红海
+  - 深海
+  - 极端微生物
+  - 盐度
+collections:
+  - natural-oddities
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Brine pool"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Brine_pool
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 形成机制、分布、物理特征与生物环境
+  - id: S2
+    title: "Wikipedia · Atlantis II Deep"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Atlantis_II_Deep
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 红海深部盐水池、热液与沉积背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与海底盆地剖面示意；不是现场照片
+cover: ../../../assets/covers/brine-pools.jpg
+related:
+  - blood-falls
+  - bloop
+status: review
+featured: false
+translation_status: translated

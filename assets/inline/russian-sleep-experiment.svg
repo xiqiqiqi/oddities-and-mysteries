@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Russian Sleep Experiment: the sealed room, the thirty days and the record</title>
+  <desc id="desc">A sealed institutional room with five beds, a gas vent and a microphone, a thirty-day timeline, and panels on the story and its internet origin.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE SLEEP EXPERIMENT · 不睡的实验</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">USSR / 30 DAYS / A CREEPYPASTA</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE SEALED ROOM / 密闭房间示意</text>
+
+    <!-- room -->
+    <rect x="80" y="160" width="380" height="150" fill="#4A5A4A" stroke="#2E3A2E" stroke-width="1.5"/>
+    <rect x="92" y="180" width="52" height="110" fill="#6B7A5A" stroke="#2E3A2E" stroke-width="1.2"/>
+    <circle cx="118" cy="214" r="9" fill="#2E3440"/>
+    <rect x="140" y="300" width="310" height="4" fill="#2E3A2E"/>
+
+    <!-- beds -->
+    <g fill="#C9B799" stroke="#2E3A2E" stroke-width="1">
+      <rect x="160" y="268" width="38" height="18"/><rect x="214" y="268" width="38" height="18"/>
+      <rect x="268" y="268" width="38" height="18"/><rect x="322" y="268" width="38" height="18"/>
+      <rect x="376" y="268" width="38" height="18"/>
+    </g>
+    <g fill="#E8DCC4">
+      <rect x="164" y="271" width="10" height="8"/><rect x="218" y="271" width="10" height="8"/>
+      <rect x="272" y="271" width="10" height="8"/><rect x="326" y="271" width="10" height="8"/>
+      <rect x="380" y="271" width="10" height="8"/>
+    </g>
+
+    <!-- vent and mic -->
+    <rect x="400" y="170" width="40" height="10" fill="#8C9A7A"/>
+    <g stroke="#4A4030" stroke-width="0.8">
+      <line x1="404" y1="172" x2="404" y2="178"/><line x1="410" y1="172" x2="410" y2="178"/>
+      <line x1="416" y1="172" x2="416" y2="178"/><line x1="422" y1="172" x2="422" y2="178"/>
+      <line x1="428" y1="172" x2="428" y2="178"/><line x1="434" y1="172" x2="434" y2="178"/>
+    </g>
+    <line x1="300" y1="160" x2="300" y2="206" stroke="#4A4030" stroke-width="1.2"/>
+    <circle cx="300" cy="210" r="4" fill="#4A4030"/>
+
+    <!-- timeline -->
+    <line x1="90" y1="350" x2="450" y2="350" stroke="#8C7A52" stroke-width="1.2"/>
+    <g fill="#B44A32">
+      <circle cx="110" cy="350" r="3"/><circle cx="180" cy="350" r="3"/><circle cx="250" cy="350" r="3"/>
+      <circle cx="320" cy="350" r="3"/><circle cx="420" cy="350" r="3"/>
+    </g>
+    <g font-family="Georgia, serif" font-size="7" fill="#1D1A17">
+      <text x="94" y="366">DAY 1 / 第 1 天</text>
+      <text x="164" y="366">DAY 6 / 尖叫</text>
+      <text x="232" y="366">DAY 10 / 死亡</text>
+      <text x="296" y="366">DAY 15 / 自伤</text>
+      <text x="392" y="366">DAY 30 / 开门</text>
+    </g>
+    <text x="80" y="382" font-family="Georgia, serif" font-size="8" fill="#6B6256">five prisoners, one sealed room, no sleep / 五名囚犯，一间密室，不许睡觉</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE STORY / 故事</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">five political prisoners / 五名政治犯</text>
+      <text x="520" y="186">a gas that keeps them awake / 让人不睡的气体</text>
+      <text x="520" y="206">thirty days, then release / 三十天后释放</text>
+      <text x="520" y="226">screaming, death, self-harm / 尖叫、死亡、自伤</text>
+      <text x="520" y="242">four come out, changed / 四个人出来，已经变了</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE RECORD / 记录</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">internet, c. 2009–2010 / 网络，约 2009–2010</text>
+      <text x="520" y="330">Creepypasta Wiki / Creepypasta Wiki</text>
+      <text x="520" y="348">no archive, no Soviet file / 没有档案，没有苏联文件</text>
+      <text x="520" y="366">Randy Gardner, 1964: 264 hours / 兰迪·加德纳，1964：264 小时</text>
+      <text x="520" y="382">fiction, not history / 是小说，不是历史</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A room that only exists in a story.</text>
+    <text x="60" y="470">一间只存在于故事里的房间。</text>
+    <text x="60" y="494" fill="#B44A32">The “experiment” is a creepypasta; real sleep deprivation is different. / “实验”是网络恐怖故事；真实的睡眠剥夺并不是这样。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

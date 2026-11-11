@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Dover Demon sightings of 1977 and the sketch</title>
+  <desc id="desc">A schematic map of Farm Street in Dover with three sighting points on 21 and 22 April 1977, a front-view sketch of the creature, and possible explanations.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">DOVER DEMON · 1977</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SIGHTINGS / SKETCH / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+
+    <!-- roads -->
+    <g stroke="#B8A582" stroke-width="6">
+      <path d="M60 260 H 480"/>
+      <path d="M280 112 V 392"/>
+      <path d="M60 350 L 280 260"/>
+    </g>
+    <g stroke="#F3EEE4" stroke-width="1.5" stroke-dasharray="8 8">
+      <path d="M60 260 H 480"/>
+      <path d="M280 112 V 392"/>
+    </g>
+
+    <!-- car -->
+    <g fill="#6B6256">
+      <rect x="100" y="250" width="28" height="12" rx="3"/>
+      <circle cx="108" cy="264" r="3"/>
+      <circle cx="122" cy="264" r="3"/>
+    </g>
+
+    <!-- sightings -->
+    <g fill="#B44A32">
+      <circle cx="200" cy="250" r="5"/>
+      <circle cx="330" cy="290" r="5"/>
+      <circle cx="370" cy="235" r="5"/>
+    </g>
+
+    <g font-family="Georgia, serif" fill="#1D1A17">
+      <text x="90" y="246" font-size="8">FARM STREET / 农场街</text>
+      <text x="160" y="234" font-size="8">21 APR / 4 月 21 日</text>
+      <text x="320" y="310" font-size="8">22 APR / 4 月 22 日</text>
+      <text x="90" y="370" font-size="9" fill="#6B6256">DOVER / 多佛</text>
+    </g>
+
+    <circle cx="90" cy="382" r="4" fill="#B44A32"/>
+    <text x="102" y="385" font-family="Georgia, serif" font-size="8" fill="#6B6256">sighting / 目击</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SKETCH / 素描</text>
+
+    <!-- creature -->
+    <g>
+      <ellipse cx="585" cy="175" rx="22" ry="26" fill="#6B6256"/>
+      <circle cx="577" cy="170" r="4" fill="#E8A23A"/>
+      <circle cx="593" cy="170" r="4" fill="#E8A23A"/>
+      <path d="M582 198 V 214" stroke="#6B6256" stroke-width="5"/>
+      <ellipse cx="585" cy="226" rx="12" ry="18" fill="#6B6256"/>
+      <path d="M578 214 L 566 250 M592 214 L 604 250 M576 242 L 568 272 M594 242 L 602 272" stroke="#6B6256" stroke-width="3" fill="none"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#4A4030">
+      <text x="620" y="158">watermelon head / 西瓜头</text>
+      <text x="620" y="178">orange eyes / 橙眼</text>
+      <text x="620" y="238">spindly limbs / 细长四肢</text>
+    </g>
+    <g stroke="#1D1A17" stroke-width="1">
+      <path d="M618 154 L 600 162"/>
+      <path d="M618 174 L 598 172"/>
+      <path d="M618 234 L 600 230"/>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">EXPLANATIONS / 解释</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">moose calf / 驼鹿幼崽</text>
+      <text x="520" y="334">foal or large dog / 小马或大狗</text>
+      <text x="520" y="356">hoax / 恶作剧</text>
+    </g>
+    <text x="520" y="380" font-family="Georgia, serif" font-size="8" fill="#B44A32">no photograph or physical evidence / 没有照片或实物证据</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Three teenagers reported the creature over two nights.</text>
+    <text x="60" y="470">三个少年在两个晚上报告了这种生物。</text>
+    <text x="60" y="494" fill="#B44A32">One of them drew it and swore it was what he saw. / 其中一人画下了它，并发誓自己看到了。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

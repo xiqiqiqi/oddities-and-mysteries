@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: beast-of-bray-road
+title_zh: 路边的狼人
+title_en: The Werewolf by the Road
+era: "1936；1989–1992"
+era_en: "1936; 1989–1992"
+region: 美国，威斯康星，埃尔克霍恩
+region_en: "Elkhorn, Wisconsin, United States"
+coords: [42.673, -88.545]
+tags:
+  - 布雷路野兽
+  - 狼人
+  - 威斯康星
+  - 未确认生物
+  - 1990 年代
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Beast of Bray Road"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Beast_of_Bray_Road
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 目击史、描述、调查与解释
+  - id: S2
+    title: "Linda S. Godfrey · The Beast of Bray Road: Tailing Wisconsin's Werewolf"
+    publisher: Prairie Oak Press
+    url: https://en.wikipedia.org/wiki/Linda_Godfrey
+    year: "2003"
+    license: 版权所有；仅作事实参考
+    usage: 1990 年代目击记录与当地采访
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面乡间公路与狼人场景复原、目击时间线示意；不是目击照片
+cover: ../../../assets/covers/beast-of-bray-road.jpg
+related:
+  - mothman
+  - owlman
+status: review
+featured: false
+translation_status: translated

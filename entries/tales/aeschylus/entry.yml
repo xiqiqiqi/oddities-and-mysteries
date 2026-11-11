@@ -1,0 +1,47 @@
+channel: tales
+type: person
+slug: aeschylus
+title_zh: 诗人与乌龟
+title_en: The Poet and the Tortoise
+era: "约公元前 456 年"
+era_en: "c. 456 BCE"
+region: 意大利，西西里，杰拉
+region_en: "Gela, Sicily, Italy"
+coords: [37.07, 14.25]
+tags:
+  - 埃斯库罗斯
+  - 古希腊
+  - 悲剧
+  - 乌龟
+  - 传说
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Aeschylus"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Aeschylus
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 生平、作品、死亡地点与古代记载
+  - id: S2
+    title: "Valerius Maximus · Memorable Doings and Sayings, Book IX"
+    publisher: Loeb Classical Library
+    url: https://www.loebclassics.com/view/valerius_maximus-memorable_doings_sayings/2000/pb_LCL493.375.xml
+    year: "2000"
+    license: 版权所有；仅作事实参考
+    usage: 乌龟砸中头部故事的古代文本
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与故事流传示意；不是历史画作
+cover: ../../../assets/covers/aeschylus.jpg
+related:
+  - dancing-plague
+  - kettle-war
+status: review
+featured: false
+translation_status: translated

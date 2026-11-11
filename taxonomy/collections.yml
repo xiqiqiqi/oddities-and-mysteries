@@ -1,0 +1,58 @@
+# 专题词典
+# 专题可以跨频道，门户负责跨站专题页，频道站显示相关入口。
+
+- id: celestial-visitors
+  zh: 天外来客
+  en: Celestial Visitors
+  channels: [mystery]
+  description_zh: 火球、陨石、空中爆炸和来自天上的东西。
+- id: mysterious-explosions
+  zh: 离奇爆炸
+  en: Mysterious Explosions
+  channels: [mystery, tales]
+  description_zh: 没有坑、没有火源，或者规模远超常理的爆炸。
+- id: strange-sounds
+  zh: 奇怪的声音
+  en: Strange Sounds
+  channels: [mystery]
+  description_zh: 低频嗡鸣、深海怪声、只有部分人能听见的声音。
+- id: strange-lights
+  zh: 神秘光象
+  en: Strange Lights
+  channels: [mystery]
+  description_zh: 山谷光球、鬼火、球状闪电和夜空中的不明发光体。
+- id: natural-oddities
+  zh: 自然怪象
+  en: Natural Oddities
+  channels: [mystery]
+  description_zh: 会走路的石头、天上掉鱼、血瀑布，以及其他不像自然却真实发生的现象。
+- id: ghost-ships
+  zh: 幽灵船
+  en: Ghost Ships
+  channels: [tales]
+  description_zh: 被发现的空船、失踪的船员和没有答案的航海日志。
+- id: cursed-jewels
+  zh: 诅咒与宝石
+  en: Cursed Jewels
+  channels: [objects]
+  description_zh: 被传说缠绕的宝石、首饰和收藏品。
+- id: lost-civilizations
+  zh: 失落文明
+  en: Lost Civilizations
+  channels: [places]
+  description_zh: 消失的城市、沉没的大陆和被遗忘的文明。
+- id: ancient-megaliths
+  zh: 古代巨石
+  en: Ancient Megaliths
+  channels: [places]
+  description_zh: 巨石阵、石圈、神庙和史前大型建筑。
+- id: lake-monsters
+  zh: 水怪
+  en: Lake Monsters
+  channels: [creatures]
+  description_zh: 湖面下的长颈、背鳍和无法确认的目击。
+- id: hoaxes-and-forgeries
+  zh: 骗局与伪造
+  en: Hoaxes & Forgeries
+  channels: [tales, objects]
+  description_zh: 精心设计的骗局、伪造的遗物和媒体制造的怪物。

@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: puca
+title_zh: 黑马
+title_en: The Black Horse
+era: "古代起"
+era_en: "Ancient–present"
+region: 爱尔兰
+region_en: "Ireland"
+coords: null
+tags:
+  - 普卡
+  - 爱尔兰
+  - 变形精怪
+  - 黑马
+  - 萨温节
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Púca"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/P%C3%BAca
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 变形形态、布莱恩·博鲁传说、萨温节与 Puck 的词源
+  - id: S2
+    title: "Atlas Obscura · The Púca Is Ireland's Supernatural Pastoral Trickster"
+    publisher: Atlas Obscura
+    url: https://www.atlasobscura.com/articles/monster-mythology-puca
+    year: "2026"
+    license: 版权归 Atlas Obscura；仅作事实参考
+    usage: 黑马形象、骑乘传说与布莱恩·博鲁的缰绳
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面月夜黑马场景复原、变形形态与传说要素示意；不是现场照片
+cover: ../../../assets/covers/puca.jpg
+related:
+  - kelpie
+  - bloody-mary
+status: review
+featured: false
+translation_status: translated

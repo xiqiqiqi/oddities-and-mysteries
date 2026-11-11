@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of the 1518 dancing plague</title>
+  <desc id="desc">A schematic timeline from one woman dancing to crowds, the city hiring musicians, and the eventual ban and pilgrimage.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">STRASBOURG · JULY 1518</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">DANCING PLAGUE / SCHEMATIC TIMELINE</text>
+
+  <path d="M80 290 H820" stroke="#1D1A17" stroke-width="2"/>
+  <path d="M820 290 L 806 282 M820 290 L 806 298" stroke="#1D1A17" stroke-width="2" fill="none"/>
+
+  <g>
+    <circle cx="130" cy="290" r="11" fill="#B44A32"/>
+    <circle cx="130" cy="250" r="8" fill="none" stroke="#1D1A17" stroke-width="2"/>
+    <path d="M130 258 L 130 278 M118 268 L 142 264 M120 292 L 130 278 L 142 292" stroke="#1D1A17" stroke-width="2" fill="none"/>
+    <text x="86" y="330" font-family="Georgia, serif" font-size="12" fill="#1D1A17">ONE WOMAN</text>
+    <text x="96" y="347" font-family="Georgia, serif" font-size="10" fill="#6B6256">一名妇女</text>
+  </g>
+
+  <g>
+    <circle cx="310" cy="290" r="11" fill="#B44A32"/>
+    <g fill="#1D1A17">
+      <circle cx="292" cy="248" r="5"/>
+      <circle cx="310" cy="240" r="5"/>
+      <circle cx="328" cy="248" r="5"/>
+      <circle cx="300" cy="264" r="5"/>
+      <circle cx="320" cy="264" r="5"/>
+    </g>
+    <text x="270" y="330" font-family="Georgia, serif" font-size="12" fill="#1D1A17">DOZENS</text>
+    <text x="280" y="347" font-family="Georgia, serif" font-size="10" fill="#6B6256">数十人</text>
+  </g>
+
+  <g>
+    <circle cx="490" cy="290" r="11" fill="#B44A32"/>
+    <g fill="#1D1A17">
+      <circle cx="462" cy="244" r="4"/>
+      <circle cx="478" cy="236" r="4"/>
+      <circle cx="494" cy="232" r="4"/>
+      <circle cx="510" cy="236" r="4"/>
+      <circle cx="526" cy="244" r="4"/>
+      <circle cx="470" cy="258" r="4"/>
+      <circle cx="486" cy="252" r="4"/>
+      <circle cx="502" cy="252" r="4"/>
+      <circle cx="518" cy="258" r="4"/>
+    </g>
+    <text x="450" y="330" font-family="Georgia, serif" font-size="12" fill="#1D1A17">HUNDREDS</text>
+    <text x="460" y="347" font-family="Georgia, serif" font-size="10" fill="#6B6256">数百人</text>
+  </g>
+
+  <g>
+    <circle cx="650" cy="290" r="11" fill="#D99A2B"/>
+    <g stroke="#1D1A17" stroke-width="2" fill="none">
+      <path d="M632 252 L 632 272 M640 248 L 640 272 M648 252 L 648 272"/>
+      <path d="M628 272 H 652"/>
+      <path d="M660 258 L 668 248 M668 258 L 676 248"/>
+    </g>
+    <text x="610" y="328" font-family="Georgia, serif" font-size="12" fill="#1D1A17">MUSICIANS</text>
+    <text x="610" y="344" font-family="Georgia, serif" font-size="12" fill="#1D1A17">&amp; STAGE</text>
+    <text x="610" y="361" font-family="Georgia, serif" font-size="10" fill="#6B6256">请乐师、搭台</text>
+  </g>
+
+  <g>
+    <circle cx="790" cy="290" r="11" fill="#1D1A17"/>
+    <path d="M776 250 L 804 250 L 804 268 L 776 268 Z" fill="none" stroke="#1D1A17" stroke-width="2"/>
+    <path d="M790 250 L 790 238" stroke="#1D1A17" stroke-width="2"/>
+    <path d="M790 238 L 800 244 L 790 250" fill="#1D1A17"/>
+    <text x="748" y="328" font-family="Georgia, serif" font-size="12" fill="#1D1A17">BAN &amp;</text>
+    <text x="748" y="344" font-family="Georgia, serif" font-size="12" fill="#1D1A17">PILGRIMAGE</text>
+    <text x="748" y="361" font-family="Georgia, serif" font-size="10" fill="#6B6256">禁乐、朝圣</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="11" fill="#6B6256">
+    <text x="60" y="410">Chronicle numbers vary. Deaths are reported, but not reliably counted.</text>
+    <text x="60" y="430">编年史给出的数字并不一致；有人力竭而死，但死亡人数无法可靠统计。</text>
+    <rect x="60" y="452" width="780" height="1" fill="#1D1A17" opacity=".2"/>
+    <text x="60" y="478">Possible explanations / 可能解释</text>
+    <text x="60" y="497">mass psychogenic illness · ergot poisoning · cult of St Vitus</text>
+    <text x="60" y="514" fill="#B44A32">集体癔症 · 麦角中毒 · 圣维特崇拜</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: alex-mitchell
+title_zh: 笑死的人
+title_en: He Died Laughing
+era: "1975"
+era_en: "1975"
+region: 英国，诺福克，金斯林
+region_en: "King's Lynn, Norfolk, England"
+coords: [52.752, 0.397]
+tags:
+  - 亚历克斯·米切尔
+  - 笑死
+  - The Goodies
+  - 1975
+  - 心脏
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · The Goodies"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/The_Goodies
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 《Kung Fu Kapers》剧集与 1975 年 3 月 24 日米切尔笑死事件
+  - id: S2
+    title: "Strange History · Death by Laughter"
+    publisher: Strange History
+    url: http://www.strangehistory.net/2011/12/20/death-by-laughter/
+    year: "2011"
+    license: 版权归 Strange History；仅作事实参考
+    usage: 米切尔的身份、25 分钟大笑、遗孀证词与死亡经过
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面 1970 年代客厅场景复原、事件时间线与笑声生理示意；不是现场照片
+cover: ../../../assets/covers/alex-mitchell.jpg
+related:
+  - black-dahlia
+  - heavens-gate
+status: review
+featured: false
+translation_status: translated

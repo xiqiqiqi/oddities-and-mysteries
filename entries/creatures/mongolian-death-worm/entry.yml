@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: mongolian-death-worm
+title_zh: 戈壁滩下的电虫
+title_en: The Worm Beneath the Gobi
+era: 传说
+era_en: "Folklore"
+region: 蒙古，南戈壁
+region_en: "South Gobi, Mongolia"
+coords: [43.0, 104.0]
+tags:
+  - 蒙古死亡蠕虫
+  - 戈壁
+  - 未确认生物
+  - 传说
+  - 沙蟒
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Mongolian death worm"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Mongolian_death_worm
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 名称、外形描述、目击传说、探险与解释
+  - id: S2
+    title: "Wikipedia · Eryx tataricus"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Eryx_tataricus
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 沙蟒的分布、外形与习性
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与传说分布、证据对照示意；不是目击照片
+cover: ../../../assets/covers/mongolian-death-worm.jpg
+related:
+  - loch-ness
+  - mothman
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Hollow Earth: concentric shells, polar openings and the scientific rebuttal</title>
+  <desc id="desc">A cross-section of a hollow Earth with concentric shells, polar openings and an inner sun, with panels on the historical believers and on the scientific evidence.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">HOLLOW EARTH · 地球里面</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">HALLEY 1692 / SYMMES 1818 / TEED 1869</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">CROSS-SECTION / 剖面示意</text>
+
+    <!-- shells -->
+    <circle cx="255" cy="250" r="95" fill="none" stroke="#8C7A52" stroke-width="8"/>
+    <circle cx="255" cy="250" r="66" fill="none" stroke="#A08A5A" stroke-width="4"/>
+    <circle cx="255" cy="250" r="40" fill="none" stroke="#B9A98C" stroke-width="2.5"/>
+
+    <!-- polar openings -->
+    <rect x="236" y="143" width="38" height="16" fill="#EFE6D6"/>
+    <rect x="236" y="341" width="38" height="16" fill="#EFE6D6"/>
+    <path d="M255 142 L 255 132 M 250 137 L 255 130 L 260 137" stroke="#B44A32" stroke-width="1.2" fill="none"/>
+    <path d="M255 358 L 255 368 M 250 363 L 255 370 L 260 363" stroke="#B44A32" stroke-width="1.2" fill="none"/>
+
+    <!-- inner sun -->
+    <circle cx="255" cy="250" r="11" fill="#D2691E"/>
+    <g stroke="#D2691E" stroke-width="1.2">
+      <line x1="255" y1="232" x2="255" y2="226"/>
+      <line x1="255" y1="268" x2="255" y2="274"/>
+      <line x1="237" y1="250" x2="231" y2="250"/>
+      <line x1="273" y1="250" x2="279" y2="250"/>
+    </g>
+
+    <!-- labels -->
+    <path d="M180 160 L 240 150" stroke="#6B6256" stroke-width="0.8" fill="none"/>
+    <text x="80" y="158" font-family="Georgia, serif" font-size="8" fill="#1D1A17">POLAR OPENING / 极地入口</text>
+    <text x="80" y="172" font-family="Georgia, serif" font-size="7" fill="#6B6256">Symmes, 1818 / 西姆斯，1818</text>
+
+    <path d="M182 330 L 246 258" stroke="#6B6256" stroke-width="0.8" fill="none"/>
+    <text x="80" y="328" font-family="Georgia, serif" font-size="8" fill="#1D1A17">INNER SUN / 内部太阳</text>
+    <text x="80" y="342" font-family="Georgia, serif" font-size="7" fill="#6B6256">Teed, 1869 / 泰德，1869</text>
+
+    <text x="80" y="372" font-family="Georgia, serif" font-size="8" fill="#6B6256">concentric shells / 同心球壳</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE BELIEVERS / 提出者</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">Halley, 1692 / 哈雷，1692</text>
+      <text x="520" y="186">Symmes, 1818 / 西姆斯，1818</text>
+      <text x="520" y="206">Teed, 1869 / 泰德，1869</text>
+      <text x="520" y="226">Koreshan Unity, 1897 / 科雷尚团结会，1897</text>
+      <text x="520" y="242">the Byrd legend / 伯德传说</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE EVIDENCE / 证据</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Bouguer and Hutton, 18th c. / 布格与赫顿，18 世纪</text>
+      <text x="520" y="330">seismic waves / 地震波</text>
+      <text x="520" y="348">satellites, 1957 / 卫星，1957</text>
+      <text x="520" y="366">Kola borehole, 12,262 m / 科拉超深井，12,262 米</text>
+      <text x="520" y="382">no openings at the poles / 两极没有洞口</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The interior is heavy, solid and mapped by seismic waves.</text>
+    <text x="60" y="470">地球内部很重、很实，地震波已经把它画了出来。</text>
+    <text x="60" y="494" fill="#B44A32">No hollow-Earth claim has survived gravity, seismology or satellite observation. / 空心地球说法没有经受住重力、地震学或卫星观测。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

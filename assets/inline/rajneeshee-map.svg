@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The 1984 Rajneeshee salmonella attack in The Dalles</title>
+  <desc id="desc">A schematic map of The Dalles with the Columbia River, ten contaminated restaurant sites, and the Rajneeshee commune nearby, with the plan and the public health outcome.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE DALLES · 1984</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SALAD BARS / SALMONELLA / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+
+    <!-- river -->
+    <rect x="60" y="112" width="420" height="34" fill="#C9DEE6"/>
+    <text x="80" y="133" font-family="Georgia, serif" font-size="8" fill="#3E5A5A">COLUMBIA RIVER / 哥伦比亚河</text>
+
+    <!-- streets -->
+    <g stroke="#B8A582" stroke-width="3">
+      <path d="M100 200 H 450"/>
+      <path d="M100 250 H 450"/>
+      <path d="M100 300 H 450"/>
+      <path d="M150 160 V 340"/>
+      <path d="M230 160 V 340"/>
+      <path d="M310 160 V 340"/>
+      <path d="M390 160 V 340"/>
+    </g>
+
+    <!-- town label -->
+    <text x="300" y="180" font-family="Georgia, serif" font-size="9" fill="#1D1A17">THE DALLES / 达尔斯</text>
+
+    <!-- restaurants -->
+    <g fill="#B44A32">
+      <circle cx="120" cy="210" r="4"/>
+      <circle cx="170" cy="230" r="4"/>
+      <circle cx="205" cy="265" r="4"/>
+      <circle cx="250" cy="215" r="4"/>
+      <circle cx="285" cy="240" r="4"/>
+      <circle cx="330" cy="270" r="4"/>
+      <circle cx="360" cy="210" r="4"/>
+      <circle cx="410" cy="235" r="4"/>
+      <circle cx="420" cy="290" r="4"/>
+      <circle cx="180" cy="315" r="4"/>
+    </g>
+
+    <!-- commune -->
+    <g fill="#8C7A52">
+      <rect x="90" y="330" width="12" height="10"/>
+      <rect x="106" y="334" width="10" height="8"/>
+      <rect x="120" y="328" width="14" height="12"/>
+    </g>
+    <path d="M130 336 C 160 330, 170 300, 200 295" fill="none" stroke="#8C7A52" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">RAJNEESHPURAM / 拉杰尼希普兰</text>
+
+    <circle cx="300" cy="368" r="4" fill="#B44A32"/>
+    <text x="312" y="366" font-family="Georgia, serif" font-size="8" fill="#6B6256">contaminated salad bar</text>
+    <text x="312" y="378" font-family="Georgia, serif" font-size="8" fill="#6B6256">被投毒的沙拉吧</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE PLAN / 计划</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="168">make voters sick / 让选民病倒</text>
+      <text x="520" y="192">lower turnout / 降低投票率</text>
+      <text x="520" y="216">win the county election / 赢得县选举</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE RESULT / 结果</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">751 infected / 751 人感染</text>
+      <text x="520" y="334">45 hospitalized / 45 人住院</text>
+      <text x="520" y="356">no deaths / 无人死亡</text>
+    </g>
+    <text x="520" y="380" font-family="Georgia, serif" font-size="8" fill="#B44A32">first confirmed bioterror attack in the U.S.</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Salad bars at ten restaurants were contaminated with Salmonella.</text>
+    <text x="60" y="470">十家餐厅的沙拉吧被撒了沙门氏菌。</text>
+    <text x="60" y="494" fill="#B44A32">The motive was local election turnout. / 动机是地方选举的投票率。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

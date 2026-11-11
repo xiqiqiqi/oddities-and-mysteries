@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Cecil Hotel: façade, cases and timeline</title>
+  <desc id="desc">A simple façade of the fourteen-storey Cecil Hotel on Main Street with markers for the Black Dahlia, Richard Ramirez and Elisa Lam, with panels on the cases and the building.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE CECIL HOTEL · 主街上的旅馆</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">1924 / MAIN STREET / 2021</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE FAÇADE / 立面示意</text>
+
+    <!-- building -->
+    <rect x="195" y="162" width="150" height="188" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.4"/>
+    <rect x="205" y="145" width="130" height="17" fill="#8C5A3A"/>
+    <text x="238" y="157" font-family="Georgia, serif" font-size="9" fill="#F3EEE4">CECIL</text>
+
+    <!-- windows -->
+    <g fill="#F3EEE4" stroke="#8C7A52" stroke-width="0.6">
+      <rect x="208" y="180" width="14" height="12"/><rect x="232" y="180" width="14" height="12"/><rect x="256" y="180" width="14" height="12"/><rect x="280" y="180" width="14" height="12"/><rect x="304" y="180" width="14" height="12"/><rect x="326" y="180" width="10" height="12"/>
+      <rect x="208" y="204" width="14" height="12"/><rect x="232" y="204" width="14" height="12"/><rect x="256" y="204" width="14" height="12"/><rect x="280" y="204" width="14" height="12"/><rect x="304" y="204" width="14" height="12"/><rect x="326" y="204" width="10" height="12"/>
+      <rect x="208" y="228" width="14" height="12"/><rect x="232" y="228" width="14" height="12"/><rect x="256" y="228" width="14" height="12"/><rect x="280" y="228" width="14" height="12"/><rect x="304" y="228" width="14" height="12"/><rect x="326" y="228" width="10" height="12"/>
+      <rect x="208" y="252" width="14" height="12"/><rect x="232" y="252" width="14" height="12"/><rect x="256" y="252" width="14" height="12"/><rect x="280" y="252" width="14" height="12"/><rect x="304" y="252" width="14" height="12"/><rect x="326" y="252" width="10" height="12"/>
+      <rect x="208" y="276" width="14" height="12"/><rect x="232" y="276" width="14" height="12"/><rect x="256" y="276" width="14" height="12"/><rect x="280" y="276" width="14" height="12"/><rect x="304" y="276" width="14" height="12"/><rect x="326" y="276" width="10" height="12"/>
+      <rect x="208" y="300" width="14" height="12"/><rect x="232" y="300" width="14" height="12"/><rect x="280" y="300" width="14" height="12"/><rect x="304" y="300" width="14" height="12"/><rect x="326" y="300" width="10" height="12"/>
+    </g>
+    <rect x="252" y="316" width="36" height="34" fill="#8C5A3A"/>
+    <text x="259" y="337" font-family="Georgia, serif" font-size="7" fill="#F3EEE4">ENTRY</text>
+
+    <!-- street -->
+    <line x1="80" y1="350" x2="460" y2="350" stroke="#8C7A52" stroke-width="1"/>
+    <text x="80" y="366" font-family="Georgia, serif" font-size="8" fill="#6B6256">MAIN STREET / 主街</text>
+    <text x="300" y="366" font-family="Georgia, serif" font-size="8" fill="#6B6256">2021: housing / 住房</text>
+
+    <!-- markers -->
+    <circle cx="195" cy="234" r="3" fill="#B44A32"/>
+    <path d="M192 234 L 150 234" stroke="#B44A32" stroke-width="0.8"/>
+    <text x="80" y="228" font-family="Georgia, serif" font-size="8" fill="#B44A32">1947 / BLACK DAHLIA</text>
+    <text x="80" y="238" font-family="Georgia, serif" font-size="8" fill="#B44A32">黑色大丽花</text>
+
+    <circle cx="345" cy="258" r="3" fill="#B44A32"/>
+    <path d="M348 258 L 380 258" stroke="#B44A32" stroke-width="0.8"/>
+    <text x="384" y="252" font-family="Georgia, serif" font-size="8" fill="#B44A32">1985</text>
+    <text x="384" y="262" font-family="Georgia, serif" font-size="8" fill="#B44A32">RAMIREZ</text>
+
+    <circle cx="345" cy="306" r="3" fill="#B44A32"/>
+    <path d="M348 306 L 380 306" stroke="#B44A32" stroke-width="0.8"/>
+    <text x="384" y="300" font-family="Georgia, serif" font-size="8" fill="#B44A32">2013</text>
+    <text x="384" y="310" font-family="Georgia, serif" font-size="8" fill="#B44A32">ELISA LAM</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE CASES / 案件</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">1947: the Black Dahlia / 黑色大丽花</text>
+      <text x="520" y="186">1964: Goldie Osgood / 戈尔迪·奥斯古德</text>
+      <text x="520" y="206">1985: Richard Ramirez / 理查德·拉米雷斯</text>
+      <text x="520" y="226">1991: Jack Unterweger / 杰克·翁特韦格</text>
+      <text x="520" y="242">2013: Elisa Lam / 蓝可儿</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE BUILDING / 建筑</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">opened 1924 / 1924 年开业</text>
+      <text x="520" y="330">fourteen storeys / 十四层</text>
+      <text x="520" y="348">marble lobby / 大理石大堂</text>
+      <text x="520" y="366">Skid Row decline / 主街贫民区</text>
+      <text x="520" y="382">2021: 600 units / 2021：600 间住房</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A hotel is not cursed; it is a building where many things happened.</text>
+    <text x="60" y="470">旅馆不是被诅咒的，它只是发生过很多事。</text>
+    <text x="60" y="494" fill="#B44A32">The murders and deaths are documented; the ghosts are not. / 谋杀与死亡有记录，鬼没有。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

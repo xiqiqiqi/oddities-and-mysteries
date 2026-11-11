@@ -1,0 +1,47 @@
+channel: tales
+type: event
+slug: valentich
+title_zh: 那不是飞机
+title_en: It's Not an Aircraft
+era: "1978"
+era_en: "1978"
+region: 澳大利亚，巴斯海峡
+region_en: "Bass Strait, Australia"
+coords: [-39.4, 143.75]
+tags:
+  - 弗雷德里克·瓦伦蒂奇
+  - 巴斯海峡
+  - 塞斯纳
+  - UFO
+  - 失踪
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Disappearance of Frederick Valentich"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 飞行计划、无线电通话、搜救、官方调查与各种解释
+  - id: S2
+    title: "Skeptical Inquirer · The Valentich Disappearance: Another UFO Cold Case Solved"
+    publisher: Committee for Skeptical Inquiry
+    url: https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/
+    year: "2013"
+    license: 版权归 Skeptical Inquirer；仅作事实参考
+    usage: 空间迷向、金星与心宿二等解释
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面夜间座舱场景复原、飞行路线与无线电时间线示意；不是历史照片
+cover: ../../../assets/covers/valentich.jpg
+related:
+  - foo-fighters
+  - shag-harbour
+status: review
+featured: false
+translation_status: translated

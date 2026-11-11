@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The three levels of the Ħal Saflieni Hypogeum</title>
+  <desc id="desc">A schematic section of the underground complex, showing a vertical shaft, three levels of chambers, and red ochre spirals.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">ĦAL SAFLIENI · THREE LEVELS</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">UNDERGROUND COMPLEX / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="540" height="330" fill="#D9C6A5" opacity=".45"/>
+    <path d="M60 160 H 600" stroke="#6B4A32" stroke-width="2"/>
+    <text x="76" y="150" font-family="Georgia, serif" font-size="10" fill="#6B6256">GROUND LEVEL / 地面</text>
+
+    <rect x="170" y="160" width="34" height="250" fill="#EFE6D6" stroke="#6B4A32" stroke-width="2"/>
+    <g stroke="#6B4A32" stroke-width="1.5">
+      <path d="M174 190 H 200 M174 210 H 200 M174 230 H 200 M174 250 H 200 M174 270 H 200 M174 290 H 200 M174 310 H 200 M174 330 H 200 M174 350 H 200 M174 370 H 200 M174 390 H 200"/>
+    </g>
+    <text x="132" y="432" font-family="Georgia, serif" font-size="10" fill="#6B6256">SHAFT / 竖井</text>
+
+    <g fill="#EFE6D6" stroke="#6B4A32" stroke-width="2">
+      <rect x="240" y="185" width="150" height="58" rx="14"/>
+      <rect x="310" y="265" width="150" height="58" rx="14"/>
+      <rect x="240" y="345" width="150" height="58" rx="14"/>
+    </g>
+    <g stroke="#6B4A32" stroke-width="2" fill="none">
+      <path d="M204 214 H 240"/>
+      <path d="M204 294 H 310"/>
+      <path d="M204 374 H 240"/>
+    </g>
+
+    <g fill="none" stroke="#B44A32" stroke-width="2">
+      <path d="M282 214 a6 6 0 1 1 12 0 a12 12 0 1 1 -24 0 a18 18 0 1 1 36 0"/>
+      <path d="M352 294 a6 6 0 1 1 12 0 a12 12 0 1 1 -24 0 a18 18 0 1 1 36 0"/>
+      <path d="M282 374 a6 6 0 1 1 12 0 a12 12 0 1 1 -24 0 a18 18 0 1 1 36 0"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="10" fill="#1D1A17">
+      <text x="80" y="210">UPPER / 上层</text>
+      <text x="80" y="290">MIDDLE / 中层</text>
+      <text x="80" y="370">LOWER / 下层</text>
+    </g>
+
+    <path d="M470 214 L 456 214" stroke="#B44A32" stroke-width="1.5"/>
+    <text x="476" y="210" font-family="Georgia, serif" font-size="10" fill="#B44A32">RED OCHRE / 红色赭石</text>
+    <text x="476" y="224" font-family="Georgia, serif" font-size="10" fill="#B44A32">spirals / 螺旋</text>
+  </g>
+
+  <g>
+    <rect x="630" y="112" width="210" height="330" fill="#EFE6D6" stroke="#1D1A17" stroke-opacity=".15"/>
+    <text x="650" y="140" font-family="Georgia, serif" font-size="11" fill="#1D1A17">KEY FACTS / 关键信息</text>
+    <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+      <text x="650" y="172">• c. 4000–2500 BCE</text>
+      <text x="662" y="186">约公元前 4000–2500 年</text>
+      <text x="650" y="212">• carved into limestone</text>
+      <text x="662" y="226">凿入石灰岩</text>
+      <text x="650" y="252">• necropolis + ritual use</text>
+      <text x="662" y="266">墓地与仪式空间</text>
+      <text x="650" y="292">• thousands of burials</text>
+      <text x="662" y="306">数千具遗骸</text>
+      <text x="650" y="332">• red ochre spirals</text>
+      <text x="662" y="346">红色赭石螺旋</text>
+      <text x="650" y="372">• UNESCO, 1980</text>
+      <text x="662" y="386">1980 年列入世界遗产</text>
+      <text x="650" y="412">• limited visitors</text>
+      <text x="662" y="426">参观人数受限</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="476">Discovered in 1902 during building work. / 1902 年施工时发现。</text>
+    <text x="60" y="500" fill="#B44A32">The “Sleeping Lady” figurine is now in Valletta. / “沉睡的女人”现存瓦莱塔。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

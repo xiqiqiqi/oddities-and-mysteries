@@ -1,0 +1,167 @@
+# 标签起步词典
+# 标签用于跨频道关联；新增标签请先查重。
+
+- id: celestial-visitors
+  zh: 天外来客
+  en: Celestial Visitors
+  channel: mystery
+- id: airburst
+  zh: 空爆
+  en: Airburst
+  channel: mystery
+- id: ball-lightning
+  zh: 球状闪电
+  en: Ball Lightning
+  channel: mystery
+- id: ghost-signal
+  zh: 幽灵信号
+  en: Ghost Signal
+  channel: mystery
+- id: time-anomaly
+  zh: 时间异常
+  en: Time Anomaly
+  channel: mystery
+- id: deep-sea-sound
+  zh: 深海怪声
+  en: Deep-sea Sound
+  channel: mystery
+- id: tunguska
+  zh: 通古斯
+  en: Tunguska
+  channel: mystery
+- id: bermuda-triangle
+  zh: 百慕大
+  en: Bermuda Triangle
+  channel: mystery
+
+- id: disappearance
+  zh: 失踪
+  en: Disappearance
+  channel: tales
+- id: ghost-ship
+  zh: 幽灵船
+  en: Ghost Ship
+  channel: tales
+- id: hoax
+  zh: 骗局
+  en: Hoax
+  channel: tales
+- id: forgery
+  zh: 伪造
+  en: Forgery
+  channel: tales
+- id: urban-legend
+  zh: 都市传说
+  en: Urban Legend
+  channel: tales
+- id: strange-death
+  zh: 离奇死亡
+  en: Strange Death
+  channel: tales
+- id: mary-celeste
+  zh: 玛丽·塞莱斯特
+  en: Mary Celeste
+  channel: tales
+- id: dyatlov-pass
+  zh: 迪亚特洛夫事件
+  en: Dyatlov Pass
+  channel: tales
+
+- id: curse
+  zh: 诅咒
+  en: Curse
+  channel: objects
+- id: diamond
+  zh: 钻石
+  en: Diamond
+  channel: objects
+- id: relic
+  zh: 遗物
+  en: Relic
+  channel: objects
+- id: sacred-object
+  zh: 圣物
+  en: Sacred Object
+  channel: objects
+- id: ancient-technology
+  zh: 古代科技
+  en: Ancient Technology
+  channel: objects
+- id: stolen-treasure
+  zh: 失窃珍宝
+  en: Stolen Treasure
+  channel: objects
+- id: hope-diamond
+  zh: 希望钻石
+  en: Hope Diamond
+  channel: objects
+- id: antikythera
+  zh: 安提基特拉机械
+  en: Antikythera Mechanism
+  channel: objects
+
+- id: lost-civilization
+  zh: 失落文明
+  en: Lost Civilization
+  channel: places
+- id: ruin
+  zh: 遗迹
+  en: Ruin
+  channel: places
+- id: megalith
+  zh: 巨石
+  en: Megalith
+  channel: places
+- id: underground-city
+  zh: 地下城
+  en: Underground City
+  channel: places
+- id: ghost-town
+  zh: 鬼城
+  en: Ghost Town
+  channel: places
+- id: sunken-city
+  zh: 沉没城市
+  en: Sunken City
+  channel: places
+- id: gobekli-tepe
+  zh: 哥贝克力石阵
+  en: Göbekli Tepe
+  channel: places
+- id: atlantis
+  zh: 亚特兰蒂斯
+  en: Atlantis
+  channel: places
+
+- id: lake-monster
+  zh: 水怪
+  en: Lake Monster
+  channel: creatures
+- id: wild-man
+  zh: 野人
+  en: Wild Man
+  channel: creatures
+- id: sea-serpent
+  zh: 海怪
+  en: Sea Serpent
+  channel: creatures
+- id: mythic-beast
+  zh: 神话生物
+  en: Mythic Beast
+  channel: creatures
+- id: urban-creature
+  zh: 都市怪物
+  en: Urban Creature
+  channel: creatures
+- id: loch-ness
+  zh: 尼斯湖水怪
+  en: Loch Ness Monster
+  channel: creatures
+- id: bigfoot
+  zh: 大脚怪
+  en: Bigfoot
+  channel: creatures
+- id: chupacabra
+  zh: 卓柏卡布拉
+  en: Chupacabra
+  channel: creatures

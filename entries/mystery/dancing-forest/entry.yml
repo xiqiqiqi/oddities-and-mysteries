@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: dancing-forest
+title_zh: 会跳舞的松树
+title_en: The Dancing Pines
+era: "1961 年栽种"
+era_en: "planted in 1961"
+region: 俄罗斯，库尔斯沙嘴
+region_en: "Curonian Spit, Kaliningrad Oblast, Russia"
+coords: [55.16, 20.86]
+tags:
+  - 跳舞森林
+  - 库尔斯沙嘴
+  - 松树
+  - 扭曲生长
+  - 自然保护区
+collections:
+  - natural-oddities
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Dancing Forest"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Dancing_Forest
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 位置、栽种时间、树木形态与常见解释
+  - id: S2
+    title: "Wikipedia · Curonian Spit"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Curonian_Spit
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 沙嘴地形、风沙环境与世界遗产背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与树干弯曲形态示意；不是现场照片
+cover: ../../../assets/covers/dancing-forest.jpg
+related:
+  - fairy-circles
+  - sailing-stones
+status: review
+featured: false
+translation_status: translated

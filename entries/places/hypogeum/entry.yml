@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: hypogeum
+title_zh: 地下的三层神庙
+title_en: The Temple Beneath the Ground
+era: "约公元前 4000–2500 年"
+era_en: "about 4000–2500 BCE"
+region: 马耳他，保拉
+region_en: "Paola, Malta"
+coords: [35.869, 14.506]
+tags:
+  - 哈尔萨夫利恩
+  - 地下神庙
+  - 马耳他
+  - 新石器时代
+  - 世界遗产
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Ħal Saflieni Hypogeum"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/%C4%A6al_Saflieni_Hypogeum
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 发现、结构、年代、壁画、发现物与保护
+  - id: S2
+    title: "Wikipedia · Paola, Malta"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Paola,_Malta
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 所在地与城市背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与三层结构示意；不是现场照片
+cover: ../../../assets/covers/hypogeum.jpg
+related:
+  - gobekli-tepe
+  - lalibela
+status: review
+featured: false
+translation_status: translated

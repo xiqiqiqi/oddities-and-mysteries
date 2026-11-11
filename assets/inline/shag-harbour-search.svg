@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The search area off Shag Harbour, 1967</title>
+  <desc id="desc">A schematic coastline of Shag Harbour with the descent path, entry point, foam patch, and search arcs.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">SHAG HARBOUR · 4 OCTOBER 1967</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SIGHTING / SEARCH AREA / SCHEMATIC</text>
+
+  <path d="M60 430 C 150 410, 180 380, 240 370 S 320 390, 380 360 S 430 300, 470 290 S 520 310, 560 280" fill="none" stroke="#1D1A17" stroke-width="3"/>
+  <path d="M60 430 C 150 410, 180 380, 240 370 S 320 390, 380 360 S 430 300, 470 290 S 520 310, 560 280 L 560 470 L 60 470 Z" fill="#D8C9AE" opacity=".55"/>
+  <text x="120" y="450" font-family="Georgia, serif" font-size="12" fill="#6B6256">NOVA SCOTIA COAST / 海岸线</text>
+
+  <rect x="560" y="110" width="280" height="330" fill="#6FA8C8" opacity=".16"/>
+  <g stroke="#1D1A17" stroke-width="1" opacity=".18">
+    <path d="M560 190 H840"/>
+    <path d="M560 280 H840"/>
+    <path d="M560 370 H840"/>
+    <path d="M640 110 V440"/>
+    <path d="M720 110 V440"/>
+    <path d="M800 110 V440"/>
+  </g>
+  <text x="580" y="132" font-family="Georgia, serif" font-size="11" fill="#6B6256">ATLANTIC / 大西洋</text>
+
+  <g>
+    <circle cx="560" cy="280" r="7" fill="#1D1A17"/>
+    <text x="470" y="270" font-family="Georgia, serif" font-size="11" fill="#1D1A17">SHAG HARBOUR</text>
+    <text x="492" y="303" font-family="Georgia, serif" font-size="10" fill="#6B6256">沙格港</text>
+  </g>
+
+  <g stroke="#D99A2B" stroke-width="3" fill="none">
+    <path d="M680 150 L 600 240 L 566 272"/>
+  </g>
+  <g fill="#D99A2B">
+    <circle cx="680" cy="150" r="6"/>
+    <circle cx="640" cy="195" r="6"/>
+    <circle cx="600" cy="240" r="6"/>
+    <circle cx="566" cy="272" r="6"/>
+  </g>
+  <text x="648" y="142" font-family="Georgia, serif" font-size="11" fill="#B44A32">DESCENT / 下降方向</text>
+
+  <g stroke="#B44A32" fill="none" stroke-width="1.5" opacity=".7">
+    <circle cx="566" cy="278" r="26"/>
+    <circle cx="566" cy="278" r="52" stroke-dasharray="5 6"/>
+    <circle cx="566" cy="278" r="82" stroke-dasharray="3 8"/>
+  </g>
+  <text x="600" y="330" font-family="Georgia, serif" font-size="11" fill="#B44A32">YELLOW FOAM / 黄色泡沫</text>
+  <text x="600" y="347" font-family="Georgia, serif" font-size="10" fill="#6B6256">SEARCH TO 03:00 / 搜索至凌晨三点</text>
+
+  <g font-family="Georgia, serif" font-size="11" fill="#6B6256">
+    <path d="M60 470 H840" stroke="#1D1A17" stroke-opacity=".25"/>
+    <text x="60" y="497">Not to scale / 非精确比例</text>
+    <text x="600" y="497">Graphic: XIQIQI · CC BY-SA 4.0</text>
+  </g>
+</svg>

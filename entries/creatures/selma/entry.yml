@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: selma
+title_zh: 湖里的蛇
+title_en: The Serpent in the Lake
+era: "1750 年代起"
+era_en: "Since the 1750s"
+region: 挪威，泰勒马克，塞尔约德
+region_en: "Seljord, Telemark, Norway"
+coords: [59.48, 8.63]
+tags:
+  - 塞尔玛
+  - 塞尔约德
+  - 挪威
+  - 湖怪
+  - 水蛇
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Selma (lake monster)"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Selma_(lake_monster)
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 目击史、1880 年事件、地方纹章与解释
+  - id: S2
+    title: "Seljord kommune · Seljordsvatnet"
+    publisher: Seljord Municipality
+    url: https://www.seljord.kommune.no/
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 湖泊、地方传说与旅游信息
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面湖泊与水蛇场景复原、目击与地方纹章示意；不是目击照片
+cover: ../../../assets/covers/selma.jpg
+related:
+  - loch-ness
+  - cadborosaurus
+status: review
+featured: false
+translation_status: translated

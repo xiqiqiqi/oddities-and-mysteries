@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: diamond-necklace-affair
+title_zh: 王后的项链
+title_en: The Queen's Necklace
+era: "1785"
+era_en: "1785"
+region: 法国，巴黎
+region_en: "Paris, France"
+coords: [48.857, 2.352]
+tags:
+  - 项链事件
+  - 玛丽·安托瓦内特
+  - 罗昂枢机
+  - 让娜·德·拉莫特
+  - 法国大革命
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "History Today · The Affair of the Diamond Necklace"
+    publisher: History Today
+    url: https://www.historytoday.com/archive/months-past/affair-diamond-necklace
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 事件经过、主要人物与审判结果
+  - id: S2
+    title: "World History Encyclopedia · The Affair of the Diamond Necklace"
+    publisher: World History Encyclopedia
+    url: https://www.worldhistory.org/article/1970/the-affair-of-the-diamond-necklace/
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 项链来源、伪造信件、午夜会面与后续影响
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面宫廷珠宝与人物场景复原、事件关系示意；不是历史照片
+cover: ../../../assets/covers/diamond-necklace-affair.jpg
+related:
+  - hope-diamond
+  - black-princes-ruby
+status: review
+featured: false
+translation_status: translated

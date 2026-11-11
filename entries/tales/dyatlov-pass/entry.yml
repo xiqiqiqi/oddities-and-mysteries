@@ -1,0 +1,47 @@
+channel: tales
+type: phenomenon
+slug: dyatlov-pass
+title_zh: 帐篷从里面割开
+title_en: The Tent Cut From Inside
+era: "1959 年 2 月"
+era_en: "February 1959"
+region: 俄罗斯，北乌拉尔，霍拉特-萨赫尔山
+region_en: "Kholat Syakhl, northern Ural Mountains, Russia"
+coords: [61.75, 59.45]
+tags:
+  - 迪亚特洛夫事件
+  - 乌拉尔山
+  - 1959
+  - 雪崩
+  - 未解
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Dyatlov Pass incident"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Dyatlov_Pass_incident
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 事件经过、搜索记录、伤情与主要解释
+  - id: S2
+    title: "Wikipedia · Kholat Syakhl"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Kholat_Syakhl
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 事发地点、地形与气候背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与事件地点示意；不是历史照片
+cover: ../../../assets/covers/dyatlov-pass.jpg
+related:
+  - mary-celeste
+  - shag-harbour
+status: review
+featured: false
+translation_status: translated

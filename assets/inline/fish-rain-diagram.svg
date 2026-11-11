@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">How fish rain can happen</title>
+  <desc id="desc">A schematic of a waterspout lifting small fish from shallow water and dropping them downwind.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="58" font-family="Georgia, serif" font-size="26" fill="#1D1A17">RAIN OF FISH</text>
+  <text x="60" y="82" font-family="Georgia, serif" font-size="12" fill="#6B6256">WATERSPOUT / SCHEMATIC</text>
+  <path d="M100 180 C 150 130, 240 135, 280 170 C 330 130, 420 135, 460 175 L 460 205 L 100 205 Z" fill="#3A342E" opacity=".8"/>
+  <path d="M300 205 C 290 260, 270 320, 250 380 C 240 410, 260 435, 300 440 C 340 435, 360 410, 350 380 C 330 320, 320 260, 310 205 Z" fill="#6FA8C8" opacity=".35"/>
+  <path d="M120 440 C 220 420, 320 450, 420 435 C 520 420, 620 450, 780 430" fill="none" stroke="#1D1A17" opacity=".35"/>
+  <rect x="80" y="430" width="740" height="12" fill="#6FA8C8" opacity=".45"/>
+  <g fill="#2A251F">
+    <path d="M245 300 l 18 -8 l -4 8 l 4 8 l -18 -8 z"/>
+    <path d="M280 270 l 18 -8 l -4 8 l 4 8 l -18 -8 z"/>
+    <path d="M300 335 l 18 -8 l -4 8 l 4 8 l -18 -8 z"/>
+  </g>
+  <g font-family="Georgia, serif" fill="#1D1A17" font-size="14">
+    <text x="100" y="160">STORM CLOUD / 雷暴云</text>
+    <text x="380" y="250">WATERSPOUT / 水龙卷</text>
+    <text x="380" y="270" fill="#6B6256">lifts small fish / 卷起小鱼</text>
+    <text x="520" y="360">FALL DOWNWIND / 在下风处落下</text>
+    <text x="100" y="475" fill="#6B6256">Shallow water + strong updraft + wind = fish on the street.</text>
+  </g>
+  <g stroke="#B44A32" fill="none" stroke-width="2" stroke-dasharray="7 6">
+    <path d="M360 300 C 450 280, 520 300, 610 340"/>
+    <path d="M390 330 C 470 320, 530 335, 600 365"/>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

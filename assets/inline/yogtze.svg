@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">YOGTZE: the note, the night, and the 2025 conclusion</title>
+  <desc id="desc">A schematic of the handwritten YOGTZE note and a timeline of Stoll's movements on the night of 25 October 1984, with panels on the crash scene and the 2025 investigation.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">YOGTZE · A45, 1984</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SIX LETTERS / ONE NIGHT / FORTY YEARS</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="85" y="140" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE NOTE / 纸条</text>
+
+    <!-- note card -->
+    <rect x="85" y="150" width="180" height="110" fill="#F7F1E4" stroke="#B8A582" stroke-width="1.2"/>
+    <text x="175" y="216" font-family="Georgia, serif" font-size="30" fill="#1D1A17" text-anchor="middle" letter-spacing="3">YOGTZE</text>
+    <path d="M100 232 L 250 178" stroke="#B44A32" stroke-width="2"/>
+
+    <text x="85" y="285" font-family="Georgia, serif" font-size="8" fill="#4A4030">the note was thrown away / 纸条被妻子扔掉</text>
+    <text x="85" y="300" font-family="Georgia, serif" font-size="8" fill="#4A4030">only a copy from memory survives / 只留下凭记忆的副本</text>
+
+    <!-- timeline -->
+    <path d="M300 170 V 320" stroke="#8C7A52" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="300" cy="170" r="3.5"/>
+      <circle cx="300" cy="220" r="3.5"/>
+      <circle cx="300" cy="270" r="3.5"/>
+      <circle cx="300" cy="320" r="3.5"/>
+    </g>
+    <g font-family="Georgia, serif" font-size="9" fill="#1D1A17">
+      <text x="315" y="170">22:55 · AT HOME / 家中</text>
+      <text x="315" y="220">23:20 · THE PUB / 酒馆</text>
+      <text x="315" y="270">01:00 · HAIGERSEELBACH</text>
+      <text x="315" y="320">03:00 · A45 HAGEN-SÜD</text>
+    </g>
+    <g font-family="Georgia, serif" font-size="8" fill="#4A4030">
+      <text x="315" y="184">写下六个字母，划掉</text>
+      <text x="315" y="234">摔下椅子，短暂失去意识</text>
+      <text x="315" y="284">对老妇人说：今晚会有可怕的事</text>
+      <text x="315" y="334">车撞进沟里，送医途中死亡</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SCENE / 现场</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">a car in a ditch near Hagen-Süd</text>
+      <text x="520" y="182">车撞进哈根南出口旁的沟里</text>
+      <text x="520" y="202">found naked, severely injured</text>
+      <text x="520" y="218">没穿衣服，重伤</text>
+      <text x="520" y="238">“four men ran away” / 他说四个男人跑了</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">2025 / 结论</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">3 April 2025 · Hagen / 2025 年 4 月 3 日</text>
+      <text x="520" y="332">a single-car accident / 单车事故</text>
+      <text x="520" y="352">no third party, no other DNA / 没有外部干预</text>
+      <text x="520" y="372">YOGTZE is still unexplained / 六个字母仍无解</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Stoll was 34 and had been out of work in 1984.</text>
+    <text x="60" y="470">1984 年，施托尔三十四岁，已经失业。</text>
+    <text x="60" y="494" fill="#B44A32">The case was closed as an accident in 2025; the word was never explained. / 2025 年案件以事故结案，那个词始终没有解开。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

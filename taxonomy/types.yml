@@ -1,0 +1,31 @@
+# 内容形态词典
+# type 不决定站点，只用于筛选、标签和相关推荐。
+
+- id: event
+  zh: 事件
+  en: Event
+  description_zh: 发生过的事、事故、爆炸、失踪、集体现象。
+- id: phenomenon
+  zh: 现象
+  en: Phenomenon
+  description_zh: 天象、怪声、光球、无法归入单一事件的异常现象。
+- id: object
+  zh: 物品
+  en: Object
+  description_zh: 具体的物件、宝物、遗物、机械、艺术品。
+- id: place
+  zh: 地点
+  en: Place
+  description_zh: 城市、遗迹、地下空间、岛屿、自然地貌。
+- id: person
+  zh: 人物
+  en: Person
+  description_zh: 与奇闻相关的具体人物，但不做人物传记站。
+- id: creature
+  zh: 生物
+  en: Creature
+  description_zh: 未被确认的动物、神话生物、都市怪物。
+- id: story
+  zh: 故事
+  en: Story
+  description_zh: 传说、口述史、都市传说、文学母题。

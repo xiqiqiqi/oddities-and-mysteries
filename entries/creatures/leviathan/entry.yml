@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: leviathan
+title_zh: 海里的巨兽
+title_en: The Beast in the Sea
+era: "古代"
+era_en: "Ancient"
+region: 中东，黎凡特
+region_en: "The Levant, Middle East"
+coords: [33.5, 35.5]
+tags:
+  - 利维坦
+  - 海怪
+  - 约伯记
+  - 乌加里特
+  - 霍布斯
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Leviathan"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Leviathan
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 《约伯记》描述、乌加里特洛坦、霍布斯与后世文化
+  - id: S2
+    title: "Britannica · Leviathan"
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/topic/Leviathan-monster
+    year: "2026"
+    license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    usage: 古代近东海怪传统与文本解释
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面海兽场景复原、文本对照与形象演变示意；不是文物照片
+cover: ../../../assets/covers/leviathan.jpg
+related:
+  - dragon
+  - kelpie
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: lalibela
+title_zh: 岩石里的教堂
+title_en: Churches Carved from Rock
+era: "约 12–13 世纪"
+era_en: "about the 12th–13th century"
+region: 埃塞俄比亚，拉利贝拉
+region_en: "Lalibela, Ethiopia"
+coords: [12.031, 39.041]
+tags:
+  - 拉利贝拉
+  - 岩石教堂
+  - 埃塞俄比亚
+  - 扎格维王朝
+  - 世界遗产
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Lalibela"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Lalibela
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 城市、宗教背景与朝圣传统
+  - id: S2
+    title: "Wikipedia · Rock-hewn Churches of Lalibela"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Rock-hewn_Churches_of_Lalibela
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 十一座教堂、建造方式、年代与保护状况
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与教堂剖面示意；不是现场照片
+cover: ../../../assets/covers/lalibela.jpg
+related:
+  - gobekli-tepe
+  - jiaohe
+status: review
+featured: false
+translation_status: translated

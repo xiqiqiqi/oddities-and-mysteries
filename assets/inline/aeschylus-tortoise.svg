@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The death of Aeschylus: the tortoise story and its sources</title>
+  <desc id="desc">A schematic of an eagle carrying a tortoise, dropping it on a bald head mistaken for a rock, with the ancient sources and the known facts of Aeschylus's death.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">AESCHYLUS · c. 456 BCE</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">THE TORTOISE STORY / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="460" height="280" fill="#EFE6D6"/>
+
+    <!-- eagle -->
+    <g fill="#4A4030">
+      <path d="M120 165 Q 140 150 160 165 Q 150 160 140 168 Q 130 160 120 165 Z"/>
+      <path d="M120 165 Q 108 150 98 158 Q 110 162 120 165 Z"/>
+      <path d="M160 165 Q 172 150 182 158 Q 170 162 160 165 Z"/>
+    </g>
+
+    <!-- tortoise -->
+    <g fill="#8C7A52" stroke="#4A4030" stroke-width="1">
+      <ellipse cx="188" cy="206" rx="16" ry="9"/>
+      <circle cx="206" cy="208" r="4"/>
+      <path d="M176 214 V 220 M198 214 V 220" stroke="#4A4030" stroke-width="2"/>
+    </g>
+
+    <!-- fall line -->
+    <path d="M196 218 L 288 262" stroke="#B44A32" stroke-width="1.5" stroke-dasharray="5 4"/>
+
+    <!-- impact -->
+    <g stroke="#B44A32" stroke-width="2">
+      <path d="M300 258 V 248 M300 266 V 276 M288 262 H 278 M312 262 H 322 M292 254 L 285 247 M308 270 L 315 277"/>
+    </g>
+
+    <!-- head -->
+    <circle cx="300" cy="286" r="18" fill="#E0B040" stroke="#6B4A32" stroke-width="1.5"/>
+    <path d="M288 280 Q 294 272 304 274" fill="none" stroke="#F3EEE4" stroke-width="2"/>
+    <path d="M282 304 Q 300 320 318 304" fill="none" stroke="#6B4A32" stroke-width="1.5"/>
+
+    <g font-family="Georgia, serif" font-size="9" fill="#1D1A17">
+      <text x="80" y="150">eagle / 鹰</text>
+      <text x="215" y="196">tortoise / 乌龟</text>
+      <text x="80" y="300">bald head / 秃头</text>
+      <text x="340" y="250">impact / 撞击</text>
+    </g>
+    <path d="M128 154 L 138 162" stroke="#1D1A17" stroke-width="1"/>
+    <path d="M214 200 L 200 204" stroke="#1D1A17" stroke-width="1"/>
+    <path d="M148 296 L 282 286" stroke="#1D1A17" stroke-width="1"/>
+    <path d="M340 254 L 314 260" stroke="#1D1A17" stroke-width="1"/>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="9" fill="#B44A32">the eagle mistook the head for a rock / 鹰把头当成了石头</text>
+  </g>
+
+  <g>
+    <rect x="550" y="112" width="290" height="280" fill="#EFE6D6"/>
+    <text x="570" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SOURCES / 记载</text>
+
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="570" y="170">Valerius Maximus, 1st c. CE</text>
+      <text x="570" y="183">瓦莱里乌斯·马克西穆斯，1 世纪</text>
+      <text x="570" y="207">Pliny the Elder, 1st c. CE</text>
+      <text x="570" y="220">老普林尼，1 世纪</text>
+      <text x="570" y="244">Aelian, 2nd–3rd c. CE</text>
+      <text x="570" y="257">埃利安，2–3 世纪</text>
+    </g>
+
+    <text x="570" y="285" font-family="Georgia, serif" font-size="8" fill="#B44A32">no contemporary account / 没有同时代记载</text>
+
+    <text x="570" y="315" font-family="Georgia, serif" font-size="10" fill="#1D1A17">WHAT WE KNOW / 已知</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="570" y="338">died at Gela, Sicily</text>
+      <text x="570" y="351">死于西西里杰拉</text>
+      <text x="570" y="368">cause of death unknown / 死因不明</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The story appears in Roman writers, centuries after his death.</text>
+    <text x="60" y="470">这个故事出现在他死后几百年的罗马作家笔下。</text>
+    <text x="60" y="494" fill="#B44A32">Eagles do drop tortoises onto rocks, but the rest is unlikely. / 鹰确实会把乌龟摔在石头上，但其余部分不太可能。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

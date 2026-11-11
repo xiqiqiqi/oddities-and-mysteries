@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The canals of Mars: Schiaparelli, Lowell and Mariner 4</title>
+  <desc id="desc">A Lowell-style map of Mars covered with straight canals, with panels on the mistranslation of canali and on the observations that ended the canal theory.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE CANALS OF MARS · 火星运河</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SCHIAPARELLI 1877 / LOWELL 1894 / MARINER 4 1965</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">A MAP, NOT A PHOTOGRAPH / 一张地图，不是照片</text>
+
+    <defs>
+      <clipPath id="marsclip">
+        <circle cx="255" cy="252" r="96"/>
+      </clipPath>
+    </defs>
+
+    <!-- Mars disc -->
+    <circle cx="255" cy="252" r="96" fill="#C98B62" stroke="#8C5A3A" stroke-width="1.2"/>
+    <g fill="#8C5A3A" opacity="0.55">
+      <ellipse cx="215" cy="205" rx="34" ry="16"/>
+      <ellipse cx="300" cy="230" rx="26" ry="12"/>
+      <ellipse cx="225" cy="290" rx="38" ry="18"/>
+      <ellipse cx="292" cy="310" rx="22" ry="10"/>
+      <ellipse cx="180" cy="255" rx="16" ry="28"/>
+    </g>
+
+    <!-- canals, clipped to the disc -->
+    <g stroke="#5A3A28" stroke-width="1.1" opacity="0.85" clip-path="url(#marsclip)">
+      <path d="M170 190 L 340 320"/>
+      <path d="M180 320 L 330 185"/>
+      <path d="M160 250 L 350 250"/>
+      <path d="M255 158 L 255 346"/>
+      <path d="M190 178 L 320 330"/>
+      <path d="M320 178 L 190 330"/>
+      <path d="M175 215 L 338 290"/>
+      <path d="M175 290 L 338 215"/>
+    </g>
+    <g fill="#5A3A28">
+      <circle cx="255" cy="252" r="4"/>
+      <circle cx="215" cy="205" r="2.5"/>
+      <circle cx="300" cy="230" r="2.5"/>
+      <circle cx="225" cy="290" r="2.5"/>
+      <circle cx="292" cy="310" r="2.5"/>
+    </g>
+
+    <text x="80" y="372" font-family="Georgia, serif" font-size="8" fill="#1D1A17">Lowell drew hundreds of canals / 洛厄尔画出了几百条运河</text>
+    <text x="80" y="384" font-family="Georgia, serif" font-size="8" fill="#6B6256">Mariner 4, 1965: craters, no canals / 水手 4 号：只有环形山，没有运河</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE WORD / 那个词</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">canali means channels / canali 是“水道”</text>
+      <text x="520" y="186">translated as “canals” / 被译成“运河”</text>
+      <text x="520" y="206">Lowell: hundreds of canals / 洛厄尔：几百条运河</text>
+      <text x="520" y="226">water from the poles / 从极地引水</text>
+      <text x="520" y="242">a dying civilisation / 一个正在死去的文明</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE END / 终结</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Barnard saw none / 巴纳德一条也没看见</text>
+      <text x="520" y="330">Wallace, 1907 / 华莱士，1907</text>
+      <text x="520" y="348">Mariner 4, 21 photos / 水手 4 号，21 张照片</text>
+      <text x="520" y="366">Mariner 9 maps, 1971 / 水手 9 号全球地图，1971</text>
+      <text x="520" y="382">an optical illusion / 一种视觉错觉</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A mistranslation and an optical illusion made a planet of canals.</text>
+    <text x="60" y="470">一个误译，加上一种视觉错觉，造出了一颗有运河的星球。</text>
+    <text x="60" y="494" fill="#B44A32">Mariner 4 photographed craters in 1965; Mariner 9 mapped the planet in 1971. / 水手 4 号在 1965 年拍到环形山，水手 9 号在 1971 年画出全球地图。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

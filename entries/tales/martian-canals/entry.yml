@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: martian-canals
+title_zh: 火星上的运河
+title_en: The Canals of Mars
+era: "1877–1971"
+era_en: "1877–1971"
+region: 火星
+region_en: "Mars"
+coords: null
+tags:
+  - 火星运河
+  - 斯基亚帕雷利
+  - 洛厄尔
+  - 天文学史
+  - 视觉错觉
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Martian canals"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Martian_canals
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 斯基亚帕雷利、洛厄尔、反对者与探测器结果
+  - id: S2
+    title: "NASA · Triumph of Mariner 4"
+    publisher: NASA Science
+    url: https://science.nasa.gov/mars/triumph-of-mariner-4/
+    year: "2026"
+    license: 版权归 NASA；仅作事实参考
+    usage: canali 的误译、水手 4 号照片与运河说的终结
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面火星观测场景复原、运河图与时间线；不是历史照片
+cover: ../../../assets/covers/martian-canals.jpg
+related:
+  - alien-autopsy
+  - balloon-hoax
+status: review
+featured: false
+translation_status: translated

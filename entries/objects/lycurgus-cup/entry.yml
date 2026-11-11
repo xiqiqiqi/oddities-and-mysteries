@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: lycurgus-cup
+title_zh: 会变色的玻璃杯
+title_en: The Cup That Changes Colour
+era: "4 世纪"
+era_en: "4th century CE"
+region: 英国，伦敦（大英博物馆）
+region_en: "London, United Kingdom (British Museum)"
+coords: [51.519, -0.127]
+tags:
+  - 莱库古杯
+  - 变色玻璃
+  - 纳米颗粒
+  - 古罗马
+  - 大英博物馆
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Lycurgus Cup"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Lycurgus_Cup
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 尺寸、年代、材质、变色原理与收藏信息
+  - id: S2
+    title: "The British Museum · The Lycurgus Cup"
+    publisher: The British Museum
+    url: https://www.britishmuseum.org/collection/object/H_1958-1202-1
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 器物描述、纹饰、入藏时间与展示位置
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面玻璃杯特写与变色原理示意；不是文物照片
+cover: ../../../assets/covers/lycurgus-cup.jpg
+related:
+  - crystal-skulls
+  - iron-pillar-delhi
+status: review
+featured: false
+translation_status: translated

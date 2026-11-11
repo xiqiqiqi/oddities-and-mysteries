@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: draco
+title_zh: 被斗篷闷死的人
+title_en: Suffocated by Cloaks
+era: "约公元前 620 年"
+era_en: "c. 620 BCE"
+region: 古希腊，雅典 / 埃伊纳
+region_en: "Athens and Aegina, ancient Greece"
+coords: [37.97, 23.73]
+tags:
+  - 德拉古
+  - 雅典
+  - 严刑峻法
+  - 斗篷
+  - 古希腊
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Draco (lawgiver)"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Draco_(lawgiver)
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 公元前 621 年法典、严苛刑罚、埃伊纳剧院之死与史料争议
+  - id: S2
+    title: "Britannica · Draco"
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/biography/Draco
+    year: "2026"
+    license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    usage: 德拉古的身份、法典背景与“draconian”一词
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面雅典剧院与斗篷场景复原、法典与死亡时间线；不是现场照片
+cover: ../../../assets/covers/draco.jpg
+related:
+  - atlantis
+  - heavens-gate
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Busby's chair: the cursed chair, the museum and the record</title>
+  <desc id="desc">An oak chair hanging high on a museum wall behind a red rope barrier, with panels on the curse and the historical record.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">BUSBY'S CHAIR · 死人的椅子</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">1702 / THIRSK MUSEUM / DO NOT SIT</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE MUSEUM WALL / 展墙示意</text>
+
+    <!-- wall -->
+    <rect x="72" y="150" width="396" height="190" fill="#D8CCB6"/>
+    <line x1="72" y1="170" x2="468" y2="170" stroke="#B9A98C" stroke-width="1"/>
+    <line x1="72" y1="320" x2="468" y2="320" stroke="#B9A98C" stroke-width="1"/>
+
+    <!-- hook and rope -->
+    <circle cx="260" cy="160" r="3" fill="#4A4030"/>
+    <line x1="260" y1="163" x2="260" y2="185" stroke="#4A4030" stroke-width="1.5"/>
+
+    <!-- chair -->
+    <rect x="215" y="185" width="90" height="105" fill="#8C5A3A" stroke="#4A4030" stroke-width="1.5"/>
+    <path d="M218 192 Q 260 178 302 192 L 302 202 L 218 202 Z" fill="#6B4A32"/>
+    <g stroke="#6B4A32" stroke-width="4">
+      <line x1="232" y1="205" x2="232" y2="286"/>
+      <line x1="250" y1="205" x2="250" y2="286"/>
+      <line x1="268" y1="205" x2="268" y2="286"/>
+      <line x1="286" y1="205" x2="286" y2="286"/>
+    </g>
+    <line x1="222" y1="248" x2="298" y2="248" stroke="#6B4A32" stroke-width="5"/>
+    <rect x="200" y="286" width="120" height="6" fill="#8C5A3A" stroke="#4A4030" stroke-width="1"/>
+    <rect x="205" y="292" width="110" height="12" fill="#6B4A32" stroke="#4A4030" stroke-width="1"/>
+    <g stroke="#4A4030" stroke-width="5">
+      <line x1="212" y1="304" x2="210" y2="335"/>
+      <line x1="308" y1="304" x2="310" y2="335"/>
+    </g>
+
+    <!-- barrier -->
+    <rect x="100" y="300" width="6" height="40" fill="#4A4030"/>
+    <rect x="430" y="300" width="6" height="40" fill="#4A4030"/>
+    <path d="M106 310 Q 268 332 430 310" fill="none" stroke="#B44A32" stroke-width="2"/>
+
+    <!-- plaque -->
+    <rect x="340" y="230" width="70" height="36" fill="#F3EEE4" stroke="#8C7A52" stroke-width="1"/>
+    <text x="346" y="244" font-family="Georgia, serif" font-size="6" fill="#1D1A17">DO NOT SIT</text>
+    <text x="346" y="254" font-family="Georgia, serif" font-size="6" fill="#1D1A17">请勿入座</text>
+    <text x="346" y="262" font-family="Georgia, serif" font-size="5" fill="#6B6256">THIRSK MUSEUM</text>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">HUNG ON THE WALL / 挂在墙上</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">donated in 1978, too high to sit / 1978 年捐赠，高到没人能坐</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE CURSE / 诅咒</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">Thomas Busby, 1702 / 托马斯·巴斯比，1702</text>
+      <text x="520" y="186">murdered his father-in-law / 谋杀岳父</text>
+      <text x="520" y="206">cursed the oak chair / 诅咒那把橡木椅子</text>
+      <text x="520" y="226">a soldier, an RAF pilot / 一名士兵，一名飞行员</text>
+      <text x="520" y="242">the stories grew / 故事越传越多</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE RECORD / 记录</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">the murder is documented / 谋杀有记录</text>
+      <text x="520" y="330">the curse is not / 诅咒没有</text>
+      <text x="520" y="348">Thirsk Museum, 1978 / 瑟斯克博物馆，1978</text>
+      <text x="520" y="366">hung high, never sat on / 挂得很高，无人能坐</text>
+      <text x="520" y="382">folklore, not evidence / 是民俗，不是证据</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A chair that is famous for the people who did not sit in it.</text>
+    <text x="60" y="470">一把因为“没人敢坐”而出名的椅子。</text>
+    <text x="60" y="494" fill="#B44A32">The 1702 murder is history; the curse is a later story. / 1702 年的谋杀是历史，诅咒是后来的故事。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

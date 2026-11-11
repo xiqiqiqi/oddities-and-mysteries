@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">How crystal skulls were identified as modern</title>
+  <desc id="desc">A schematic showing the claim of ancient origin, microscope evidence of rotary tools and silicon carbide, and the conclusion of nineteenth-century European manufacture.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">CRYSTAL SKULLS · EXAMINATION</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">FROM ANCIENT RELIC TO MODERN OBJECT / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="230" height="250" fill="#EFE6D6" stroke="#1D1A17" stroke-opacity=".2"/>
+    <path d="M120 300 C 110 270, 118 230, 142 210 C 152 200, 168 196, 178 196 C 188 196, 204 200, 214 210 C 238 230, 246 270, 236 300 Z" fill="none" stroke="#1D1A17" stroke-width="2"/>
+    <ellipse cx="158" cy="242" rx="14" ry="16" fill="#1D1A17" opacity=".65"/>
+    <ellipse cx="204" cy="242" rx="14" ry="16" fill="#1D1A17" opacity=".65"/>
+    <path d="M170 272 L 190 272 L 180 282 Z" fill="#1D1A17" opacity=".55"/>
+    <path d="M156 294 L 200 294" stroke="#1D1A17" stroke-width="2"/>
+    <text x="80" y="140" font-family="Georgia, serif" font-size="12" fill="#1D1A17">CLAIM</text>
+    <text x="80" y="160" font-family="Georgia, serif" font-size="10" fill="#6B6256">Maya / Aztec relic</text>
+    <text x="80" y="178" font-family="Georgia, serif" font-size="10" fill="#6B6256">玛雅 / 阿兹特克遗物</text>
+    <text x="80" y="342" font-family="Georgia, serif" font-size="10" fill="#6B6256">ANCIENT / 古代</text>
+  </g>
+
+  <path d="M300 238 H 352" stroke="#1D1A17" stroke-width="2" stroke-dasharray="5 4"/>
+  <path d="M352 238 L 342 232 M352 238 L 342 244" stroke="#1D1A17" stroke-width="2" fill="none"/>
+
+  <g>
+    <rect x="364" y="112" width="230" height="250" fill="#EFE6D6" stroke="#1D1A17" stroke-opacity=".2"/>
+    <circle cx="446" cy="244" r="52" fill="#DCE6E8" stroke="#1D1A17" stroke-width="2"/>
+    <circle cx="478" cy="278" r="8" fill="#F3EEE4" stroke="#1D1A17" stroke-width="2"/>
+    <path d="M486 282 L 508 304" stroke="#1D1A17" stroke-width="3"/>
+    <g stroke="#B44A32" stroke-width="1.5" opacity=".8">
+      <path d="M414 224 C 432 218, 450 218, 468 224"/>
+      <path d="M410 236 C 430 230, 452 230, 472 236"/>
+      <path d="M408 248 C 430 242, 454 242, 476 248"/>
+      <path d="M410 260 C 432 254, 454 254, 474 260"/>
+    </g>
+    <text x="384" y="136" font-family="Georgia, serif" font-size="12" fill="#1D1A17">MICROSCOPE</text>
+    <text x="384" y="154" font-family="Georgia, serif" font-size="10" fill="#6B6256">rotary tool marks</text>
+    <text x="384" y="172" font-family="Georgia, serif" font-size="10" fill="#6B6256">旋转工具痕迹</text>
+    <text x="384" y="330" font-family="Georgia, serif" font-size="10" fill="#B44A32">+ silicon carbide / 碳化硅磨料</text>
+  </g>
+
+  <path d="M602 238 H 654" stroke="#1D1A17" stroke-width="2" stroke-dasharray="5 4"/>
+  <path d="M654 238 L 644 232 M654 238 L 644 244" stroke="#1D1A17" stroke-width="2" fill="none"/>
+
+  <g>
+    <rect x="666" y="112" width="174" height="250" fill="#1D1A17"/>
+    <text x="686" y="146" font-family="Georgia, serif" font-size="12" fill="#D99A2B">CONCLUSION</text>
+    <text x="686" y="182" font-family="Georgia, serif" font-size="16" fill="#F3EEE4">19TH CENTURY</text>
+    <text x="686" y="204" font-family="Georgia, serif" font-size="10" fill="#D8D0C4">十九世纪</text>
+    <text x="686" y="238" font-family="Georgia, serif" font-size="13" fill="#F3EEE4">EUROPEAN</text>
+    <text x="686" y="258" font-family="Georgia, serif" font-size="13" fill="#F3EEE4">WORKSHOP</text>
+    <text x="686" y="280" font-family="Georgia, serif" font-size="10" fill="#D8D0C4">欧洲作坊制造</text>
+    <text x="686" y="318" font-family="Georgia, serif" font-size="10" fill="#D99A2B">MUSEUM LABEL</text>
+    <text x="686" y="336" font-family="Georgia, serif" font-size="10" fill="#D8D0C4">博物馆标签</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="11" fill="#6B6256">
+    <text x="60" y="410">Ancient Mesoamericans did carve crystal — but the surviving objects are small.</text>
+    <text x="60" y="430">古代中美洲人确实雕刻水晶，但留存下来的是珠、耳饰等小件。</text>
+    <text x="60" y="460">No large crystal skull has come from a recorded ancient tomb or temple.</text>
+    <text x="60" y="480">没有大型水晶头骨出自有记录的古代墓葬或神庙。</text>
+    <text x="60" y="506">Graphic: XIQIQI · CC BY-SA 4.0</text>
+  </g>
+</svg>

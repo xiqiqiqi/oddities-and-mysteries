@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Structure of a gold-thread jade burial suit</title>
+  <desc id="desc">An exploded schematic of the jade suit's components and a detail of jade plaques linked with gold wire.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">JADE BURIAL SUIT · STRUCTURE</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">WESTERN HAN / MANCHENG / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="360" height="300" fill="#EFE6D6" stroke="#1D1A17" stroke-opacity=".15"/>
+    <g fill="#6F8F6A" stroke="#3E4A3A" stroke-width="1.5">
+      <ellipse cx="160" cy="150" rx="34" ry="24"/>
+      <ellipse cx="160" cy="200" rx="28" ry="22"/>
+      <path d="M110 235 H 210 L 220 300 H 100 Z"/>
+      <path d="M100 245 L 75 300 L 90 310 L 108 270 Z"/>
+      <path d="M220 245 L 245 300 L 230 310 L 212 270 Z"/>
+      <path d="M115 300 H 145 V 355 H 115 Z"/>
+      <path d="M175 300 H 205 V 355 H 175 Z"/>
+      <path d="M112 355 H 148 L 145 382 H 115 Z"/>
+      <path d="M172 355 H 208 L 205 382 H 175 Z"/>
+    </g>
+    <g font-family="Georgia, serif" font-size="9" fill="#1D1A17">
+      <text x="200" y="152">HEAD / 头罩</text>
+      <text x="200" y="202">FACE / 脸盖</text>
+      <text x="235" y="270">TORSO / 上衣</text>
+      <text x="66" y="320">SLEEVE</text>
+      <text x="66" y="332">袖子</text>
+      <text x="215" y="320">GLOVE</text>
+      <text x="215" y="332">手套</text>
+      <text x="230" y="380">SHOE / 鞋</text>
+    </g>
+    <text x="80" y="402" font-family="Georgia, serif" font-size="10" fill="#6B6256">Exploded view / 分件示意</text>
+  </g>
+
+  <g>
+    <rect x="450" y="112" width="390" height="300" fill="#EFE6D6" stroke="#1D1A17" stroke-opacity=".15"/>
+    <text x="474" y="140" font-family="Georgia, serif" font-size="11" fill="#1D1A17">DETAIL / 细部</text>
+    <g fill="#6F8F6A" stroke="#3E4A3A" stroke-width="1.5">
+      <rect x="500" y="175" width="70" height="55" rx="3"/>
+      <rect x="580" y="170" width="80" height="60" rx="3"/>
+      <rect x="510" y="245" width="90" height="65" rx="3"/>
+      <rect x="610" y="245" width="75" height="70" rx="3"/>
+    </g>
+    <g fill="#D99A2B">
+      <circle cx="500" cy="190" r="2.5"/><circle cx="500" cy="205" r="2.5"/><circle cx="500" cy="220" r="2.5"/>
+      <circle cx="530" cy="175" r="2.5"/><circle cx="550" cy="175" r="2.5"/><circle cx="570" cy="175" r="2.5"/>
+      <circle cx="580" cy="190" r="2.5"/><circle cx="600" cy="190" r="2.5"/><circle cx="620" cy="190" r="2.5"/>
+      <circle cx="660" cy="180" r="2.5"/><circle cx="660" cy="200" r="2.5"/>
+      <circle cx="510" cy="260" r="2.5"/><circle cx="510" cy="280" r="2.5"/>
+      <circle cx="600" cy="250" r="2.5"/><circle cx="600" cy="270" r="2.5"/>
+      <circle cx="610" cy="260" r="2.5"/><circle cx="630" cy="260" r="2.5"/>
+    </g>
+    <g stroke="#D99A2B" stroke-width="1.5" fill="none">
+      <path d="M500 190 C 510 185, 520 185, 530 175"/>
+      <path d="M500 205 C 520 200, 540 195, 550 175"/>
+      <path d="M580 190 C 590 185, 600 185, 610 190"/>
+      <path d="M620 190 C 630 185, 645 180, 660 180"/>
+      <path d="M510 260 C 525 255, 540 250, 550 245"/>
+      <path d="M600 250 C 610 245, 620 250, 630 260"/>
+      <path d="M610 260 C 620 265, 630 270, 640 280"/>
+    </g>
+    <path d="M510 310 L 502 328" stroke="#B44A32" stroke-width="1.5" fill="none"/>
+    <text x="474" y="338" font-family="Georgia, serif" font-size="9" fill="#B44A32">jade plaque / 玉片</text>
+    <path d="M660 180 L 700 180" stroke="#D99A2B" stroke-width="1.5"/>
+    <text x="706" y="184" font-family="Georgia, serif" font-size="9" fill="#6B6256">gold wire</text>
+    <text x="706" y="196" font-family="Georgia, serif" font-size="9" fill="#6B6256">金丝</text>
+
+    <text x="474" y="360" font-family="Georgia, serif" font-size="11" fill="#1D1A17">2,000+ plaques · about 1 kg gold wire</text>
+    <text x="474" y="378" font-family="Georgia, serif" font-size="10" fill="#6B6256">两千多片玉 · 约一公斤金丝</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Only emperors and high nobles could use gold thread.</text>
+    <text x="60" y="470">只有皇帝和高级贵族可以使用金缕。</text>
+    <text x="60" y="494" fill="#B44A32">The body still decayed; the suit did not preserve it. / 尸体仍然腐烂，玉衣并未保鲜。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

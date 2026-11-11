@@ -1,0 +1,54 @@
+channel: places
+type: place
+slug: sanxingdui
+title_zh: 青铜面具
+title_en: The Bronze Masks
+era: "约公元前 12 世纪–前 11 世纪"
+era_en: "c. 12th–11th century BCE"
+region: 中国，四川，广汉
+region_en: "Guanghan, Sichuan, China"
+coords: [31.00, 104.20]
+tags:
+  - 三星堆
+  - 古蜀
+  - 青铜面具
+  - 金面具
+  - 考古
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Sanxingdui"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Sanxingdui
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1929 年发现、1986 年祭祀坑、青铜面具与古蜀文明
+  - id: S2
+    title: "Britannica · Sanxingdui"
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/place/Sanxingdui
+    year: "2026"
+    license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    usage: 遗址年代、古蜀文化与出土器物
+  - id: S3
+    title: "人民周刊 · 三星堆新发现"
+    publisher: 人民日报社
+    url: http://paper.people.com.cn/rmzk/html/2021-11/02/content_25886767.htm
+    year: "2021"
+    license: 版权归人民周刊；仅作事实参考
+    usage: 2021 年金面具、3 号坑与 4 号坑的新发现
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面祭祀坑与青铜面具场景复原、面具特征与时间线；不是文物照片
+cover: ../../../assets/covers/sanxingdui.jpg
+related:
+  - gobekli-tepe
+  - he-shi-bi
+status: review
+featured: false
+translation_status: translated

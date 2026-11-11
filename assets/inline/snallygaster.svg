@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Snallygaster: a newspaper page, a monster woodcut, and a hoax</title>
+  <desc id="desc">A schematic front page of the Middletown Valley Register with a masthead, headline, woodcut of a winged one-eyed monster and columns, stamped as a hoax, with panels on the story and the truth.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE SNALLYGASTER · MARYLAND, 1909</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">A SMALL PAPER / A WINGED BEAST / A HOAX</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">FRONT PAGE / 头版示意</text>
+
+    <!-- page -->
+    <rect x="100" y="145" width="250" height="215" fill="#F7F1E4" stroke="#B8A582" stroke-width="1"/>
+    <rect x="110" y="153" width="230" height="14" fill="#E4D8C2" stroke="#B8A582" stroke-width="0.8"/>
+    <rect x="110" y="175" width="210" height="8" fill="#8C7A52" opacity="0.55"/>
+    <rect x="110" y="187" width="160" height="6" fill="#8C7A52" opacity="0.35"/>
+
+    <!-- woodcut -->
+    <rect x="110" y="202" width="108" height="100" fill="#EFE6D6" stroke="#6B4A32" stroke-width="1"/>
+    <ellipse cx="164" cy="252" rx="16" ry="12" fill="#4A4030"/>
+    <circle cx="164" cy="248" r="6" fill="#F7F1E4" stroke="#4A4030" stroke-width="1"/>
+    <circle cx="164" cy="248" r="2.5" fill="#1D1A17"/>
+    <path d="M148 245 L 118 228 L 138 254 L 118 268 L 150 258" fill="#4A4030"/>
+    <path d="M180 245 L 210 228 L 190 254 L 210 268 L 178 258" fill="#4A4030"/>
+    <path d="M164 264 L 168 284 L 160 284 Z" fill="#4A4030"/>
+
+    <!-- columns -->
+    <g fill="#8C7A52" opacity="0.45">
+      <rect x="230" y="204" width="108" height="4"/>
+      <rect x="230" y="214" width="108" height="4"/>
+      <rect x="230" y="224" width="108" height="4"/>
+      <rect x="230" y="234" width="108" height="4"/>
+      <rect x="230" y="244" width="108" height="4"/>
+      <rect x="230" y="254" width="108" height="4"/>
+      <rect x="230" y="264" width="108" height="4"/>
+      <rect x="230" y="274" width="108" height="4"/>
+      <rect x="230" y="284" width="108" height="4"/>
+    </g>
+
+    <!-- hoax stamp -->
+    <g transform="rotate(-12 245 320)">
+      <rect x="200" y="306" width="90" height="28" fill="none" stroke="#B44A32" stroke-width="2"/>
+      <text x="245" y="327" font-family="Georgia, serif" font-size="14" fill="#B44A32" text-anchor="middle" letter-spacing="2">HOAX</text>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17">
+      <text x="360" y="163">MASTHEAD / 报头</text>
+      <text x="110" y="318">WOODCUT / 木刻</text>
+      <text x="358" y="250">COLUMNS / 正文</text>
+    </g>
+    <path d="M358 166 L 342 166" stroke="#1D1A17" stroke-width="1"/><path d="M356 253 L 340 253" stroke="#1D1A17" stroke-width="1"/>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE STORY / 报道</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">February 1909 / 1909 年 2 月</text>
+      <text x="520" y="186">one eye, wings, steel claws</text>
+      <text x="520" y="202">独眼、翅膀、钢爪</text>
+      <text x="520" y="222">livestock and children taken / 抓牲畜与小孩</text>
+      <text x="520" y="240">Smithsonian, Roosevelt / 史密森尼与罗斯福</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE TRUTH / 真相</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">editor Rhoderick, reporter Wolfe</text>
+      <text x="520" y="328">编辑罗德里克与记者沃尔夫</text>
+      <text x="520" y="348">borrowed from the Jersey Devil</text>
+      <text x="520" y="364">借用了泽西恶魔的配方</text>
+      <text x="520" y="382">a hoax to sell papers / 为卖报纸编的骗局</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The Middletown Valley Register ran the series for several weeks.</text>
+    <text x="60" y="470">米德尔敦谷地报的系列报道持续了几个星期。</text>
+    <text x="60" y="494" fill="#B44A32">The paper later admitted the stories were invented to increase circulation. / 报社后来承认，故事是为了提高发行量编的。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

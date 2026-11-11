@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Hudson Valley: the V-shaped craft, the parkway and the explanations</title>
+  <desc id="desc">A huge V-shaped craft with rows of lights over a dark parkway with a car, and panels on the sightings and explanations.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">HUDSON VALLEY · V 形的天空</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">NEW YORK / 1982–1986 / THE BLACK TRIANGLE</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE PARKWAY AT NIGHT / 夜间公路示意</text>
+
+    <!-- night scene -->
+    <rect x="72" y="150" width="396" height="190" fill="#2E3440"/>
+    <g fill="#F3EEE4">
+      <circle cx="110" cy="168" r="1"/><circle cx="160" cy="180" r="1"/><circle cx="220" cy="164" r="1"/>
+      <circle cx="280" cy="178" r="1"/><circle cx="350" cy="166" r="1"/><circle cx="420" cy="180" r="1"/>
+    </g>
+    <circle cx="430" cy="176" r="14" fill="#F3EEE4" opacity="0.8"/>
+
+    <!-- craft -->
+    <path d="M150 208 L 300 258 L 450 208 L 440 224 L 300 274 L 160 224 Z" fill="#3A4A5A" stroke="#A8C4D8" stroke-width="1"/>
+    <g fill="#F3EEE4">
+      <circle cx="180" cy="216" r="2"/><circle cx="212" cy="226" r="2"/><circle cx="244" cy="236" r="2"/><circle cx="276" cy="246" r="2"/>
+      <circle cx="420" cy="216" r="2"/><circle cx="388" cy="226" r="2"/><circle cx="356" cy="236" r="2"/><circle cx="324" cy="246" r="2"/>
+    </g>
+    <circle cx="300" cy="258" r="2.5" fill="#B44A32"/>
+
+    <!-- ground and road -->
+    <path d="M72 300 C 140 288 200 296 260 290 C 330 284 400 294 468 286 L468 340 L72 340 Z" fill="#2E3A2E"/>
+    <rect x="72" y="316" width="396" height="24" fill="#4A4A4A"/>
+    <g stroke="#E8DCC4" stroke-width="1.5" stroke-dasharray="8 8">
+      <line x1="80" y1="328" x2="460" y2="328"/>
+    </g>
+
+    <!-- car -->
+    <path d="M180 310 L 196 296 L 246 296 L 262 310 Z" fill="#8C5A3A"/>
+    <rect x="176" y="308" width="92" height="14" fill="#8C5A3A"/>
+    <circle cx="192" cy="322" r="6" fill="#1D1A17"/>
+    <circle cx="252" cy="322" r="6" fill="#1D1A17"/>
+    <circle cx="268" cy="316" r="2" fill="#E8C96A"/>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">TACONIC PARKWAY / 塔科尼克公园大道</text>
+    <text x="300" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">silent, low, football-field size / 无声、低空、足球场大小</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SIGHTINGS / 目击</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">1982–1986 / 1982–1986</text>
+      <text x="520" y="186">Westchester and Connecticut / 威斯特彻斯特与康涅狄格</text>
+      <text x="520" y="206">hundreds of witnesses / 数百名目击者</text>
+      <text x="520" y="226">police, pilots, families / 警察、飞行员、家庭</text>
+      <text x="520" y="242">a V or boomerang / V 形或回旋镖形</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE EXPLANATIONS / 解释</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">light aircraft in formation / 轻型飞机编队</text>
+      <text x="520" y="330">flares or an airship / 照明弹或飞艇</text>
+      <text x="520" y="348">a hoax / 恶作剧</text>
+      <text x="520" y="366">no conclusive photo or radar / 没有确凿照片或雷达</text>
+      <text x="520" y="382">still disputed / 仍有争议</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A shape in the sky that hundreds of people saw and no one could catch.</text>
+    <text x="60" y="470">一个几百人都看见、却没人能抓住的天空形状。</text>
+    <text x="60" y="494" fill="#B44A32">The witnesses are real; the craft is unidentified. / 目击者是真的，飞行器仍未确认。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Ourang Medan: the distress call, the rescue, and the missing records</title>
+  <desc id="desc">A timeline from the 1947 distress call to the 1948 newspaper story, with panels on the signal and the doubts about the ship's existence.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">OURANG MEDAN · 1947</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">DISTRESS / RESCUE / DOUBT</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="142" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE STORY / 经过</text>
+
+    <path d="M120 164 V 330" stroke="#1D1A17" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="120" cy="175" r="4"/>
+      <circle cx="120" cy="220" r="4"/>
+      <circle cx="120" cy="265" r="4"/>
+      <circle cx="120" cy="310" r="4"/>
+    </g>
+
+    <g font-family="Georgia, serif">
+      <text x="138" y="173" font-size="8" fill="#1D1A17">1947</text>
+      <text x="138" y="185" font-size="8" fill="#6B6256">distress call / 求救电报</text>
+
+      <text x="138" y="218" font-size="8" fill="#1D1A17">SAME DAY</text>
+      <text x="138" y="230" font-size="8" fill="#6B6256">Silver Star arrives / 银星号抵达</text>
+
+      <text x="138" y="263" font-size="8" fill="#1D1A17">SAME DAY</text>
+      <text x="138" y="275" font-size="8" fill="#6B6256">fire and sinking / 起火沉没</text>
+
+      <text x="138" y="308" font-size="8" fill="#1D1A17">1948</text>
+      <text x="138" y="320" font-size="8" fill="#6B6256">first newspaper story / 首次报纸报道</text>
+    </g>
+
+    <!-- ship -->
+    <g fill="none" stroke="#4A4030" stroke-width="1.5">
+      <path d="M340 250 L 430 250 L 415 270 L 352 270 Z"/>
+      <path d="M380 250 V 210 M380 210 L 410 225"/>
+      <path d="M360 250 V 232"/>
+    </g>
+    <text x="356" y="288" font-family="Georgia, serif" font-size="8" fill="#6B6256">freighter / 货船</text>
+
+    <text x="80" y="366" font-family="Georgia, serif" font-size="8" fill="#B44A32">no registration record / 没有登记记录</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SIGNAL / 电报</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">All officers dead... / 军官都死了</text>
+      <text x="520" y="188">probably whole crew dead</text>
+      <text x="520" y="201">可能全船死亡</text>
+      <text x="520" y="226" fill="#B44A32">“I die.” / “我死了。”</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE PROBLEM / 问题</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">not in Lloyd's Register / 劳氏登记里没有</text>
+      <text x="520" y="334">no wreck found / 没有残骸</text>
+      <text x="520" y="356">rescue ship's log silent / 救援船日志无记录</text>
+    </g>
+    <text x="520" y="380" font-family="Georgia, serif" font-size="8" fill="#B44A32">a legend, not a verified wreck / 传说，不是已证实海难</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The story says a Dutch freighter sent a distress call in the Strait of Malacca.</text>
+    <text x="60" y="470">故事说一艘荷兰货船在马六甲海峡发出求救电报。</text>
+    <text x="60" y="494" fill="#B44A32">Rescuers found the crew dead, then the ship caught fire. / 救援者发现船员全死，随后船起火。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

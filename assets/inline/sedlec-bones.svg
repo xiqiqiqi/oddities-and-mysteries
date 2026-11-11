@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Sedlec Ossuary: the chapel, the bone chandelier, and the skull pyramids</title>
+  <desc id="desc">A schematic interior of the Sedlec chapel with a chandelier made of bones, garlands along the arches, and pyramids of skulls, with the numbers and the 1870 arrangement.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">SEDLEC OSSUARY · KUTNÁ HORA</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">BONES / 1870 / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+
+    <!-- arches -->
+    <g fill="none" stroke="#8C7A52" stroke-width="10">
+      <path d="M100 360 V 230 Q 100 170 160 170 Q 220 170 220 230 V 360"/>
+      <path d="M260 360 V 230 Q 260 170 320 170 Q 380 170 380 230 V 360"/>
+    </g>
+    <g fill="none" stroke="#6B4A32" stroke-width="1.5">
+      <path d="M100 360 V 230 Q 100 170 160 170 Q 220 170 220 230 V 360"/>
+      <path d="M260 360 V 230 Q 260 170 320 170 Q 380 170 380 230 V 360"/>
+    </g>
+
+    <!-- garlands -->
+    <g fill="#D9C6A5" stroke="#6B4A32" stroke-width="0.8">
+      <circle cx="110" cy="220" r="4"/>
+      <circle cx="120" cy="200" r="4"/>
+      <circle cx="135" cy="184" r="4"/>
+      <circle cx="155" cy="176" r="4"/>
+      <circle cx="175" cy="180" r="4"/>
+      <circle cx="192" cy="194" r="4"/>
+      <circle cx="205" cy="212" r="4"/>
+      <circle cx="270" cy="220" r="4"/>
+      <circle cx="280" cy="200" r="4"/>
+      <circle cx="295" cy="184" r="4"/>
+      <circle cx="315" cy="176" r="4"/>
+      <circle cx="335" cy="180" r="4"/>
+      <circle cx="352" cy="194" r="4"/>
+      <circle cx="365" cy="212" r="4"/>
+    </g>
+
+    <!-- chandelier -->
+    <path d="M240 130 V 180" stroke="#6B4A32" stroke-width="2"/>
+    <g stroke="#6B4A32" stroke-width="2">
+      <path d="M240 190 L 196 212 M240 190 L 284 212 M240 200 L 206 240 M240 200 L 274 240"/>
+    </g>
+    <g fill="#D9C6A5" stroke="#6B4A32" stroke-width="1">
+      <circle cx="240" cy="190" r="10"/>
+      <circle cx="196" cy="212" r="7"/>
+      <circle cx="284" cy="212" r="7"/>
+      <circle cx="206" cy="240" r="7"/>
+      <circle cx="274" cy="240" r="7"/>
+    </g>
+    <g fill="#6B4A32">
+      <circle cx="237" cy="188" r="1.5"/>
+      <circle cx="243" cy="188" r="1.5"/>
+    </g>
+
+    <!-- skull pyramids -->
+    <g fill="#D9C6A5" stroke="#6B4A32" stroke-width="0.8">
+      <circle cx="120" cy="330" r="5"/>
+      <circle cx="132" cy="330" r="5"/>
+      <circle cx="144" cy="330" r="5"/>
+      <circle cx="156" cy="330" r="5"/>
+      <circle cx="126" cy="320" r="5"/>
+      <circle cx="138" cy="320" r="5"/>
+      <circle cx="150" cy="320" r="5"/>
+      <circle cx="132" cy="310" r="5"/>
+      <circle cx="144" cy="310" r="5"/>
+      <circle cx="138" cy="300" r="5"/>
+
+      <circle cx="352" cy="330" r="5"/>
+      <circle cx="364" cy="330" r="5"/>
+      <circle cx="376" cy="330" r="5"/>
+      <circle cx="388" cy="330" r="5"/>
+      <circle cx="358" cy="320" r="5"/>
+      <circle cx="370" cy="320" r="5"/>
+      <circle cx="382" cy="320" r="5"/>
+      <circle cx="364" cy="310" r="5"/>
+      <circle cx="376" cy="310" r="5"/>
+      <circle cx="370" cy="300" r="5"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17">
+      <text x="80" y="160">chandelier / 吊灯</text>
+      <text x="80" y="364">skull pyramids / 颅骨堆</text>
+      <text x="300" y="150">bone garlands / 骨花环</text>
+    </g>
+    <path d="M160 164 L 224 186" stroke="#1D1A17" stroke-width="1"/>
+    <path d="M160 360 L 140 336" stroke="#1D1A17" stroke-width="1"/>
+    <path d="M300 154 L 270 180" stroke="#1D1A17" stroke-width="1"/>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE NUMBERS / 数字</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="168">40,000–70,000 skeletons</text>
+      <text x="520" y="181">四万到七万具遗骨</text>
+      <text x="520" y="205">1870: arranged by František Rint</text>
+      <text x="520" y="218">1870 年：弗朗蒂谢克·林特整理</text>
+      <text x="520" y="238">UNESCO 1995 / 1995 年世界遗产</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE DISPLAY / 装饰</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">chandelier: at least one of every bone</text>
+      <text x="520" y="325">吊灯：至少含每类骨头一块</text>
+      <text x="520" y="347">Schwarzenberg coat of arms</text>
+      <text x="520" y="360">施瓦岑贝格家族徽章</text>
+      <text x="520" y="380" fill="#B44A32">monstrances and garlands / 圣物匣与花环</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The ossuary holds the bones of roughly 40,000 to 70,000 people.</text>
+    <text x="60" y="470">藏骨堂存放着约四万到七万人的遗骨。</text>
+    <text x="60" y="494" fill="#B44A32">In 1870 František Rint arranged them into decorations. / 1870 年，弗朗蒂谢克·林特把它们整理成装饰。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

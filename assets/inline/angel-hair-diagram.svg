@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The angel hair reports of 1954</title>
+  <desc id="desc">A three-panel schematic: an object in the sky, white threads falling and catching on a tree, and a sample that dries and disappears, with possible explanations.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">ANGEL HAIR · FLORENCE 1954</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">REPORTED SEQUENCE / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="240" height="230" fill="#DCE6E8"/>
+    <path d="M110 250 C 150 238, 190 238, 230 250" fill="none" stroke="#6B6256" stroke-width="2"/>
+    <ellipse cx="170" cy="190" rx="46" ry="12" fill="#1D1A17" opacity=".75"/>
+    <ellipse cx="170" cy="184" rx="28" ry="6" fill="#D99A2B" opacity=".7"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="12" fill="#1D1A17">1 · OBJECT</text>
+    <text x="80" y="154" font-family="Georgia, serif" font-size="10" fill="#6B6256">有人看见天空中的物体</text>
+  </g>
+
+  <g>
+    <rect x="330" y="112" width="240" height="230" fill="#DCE6E8"/>
+    <path d="M390 330 L 390 230 M390 260 L 360 230 M390 280 L 420 250" fill="none" stroke="#6B4A32" stroke-width="5" stroke-linecap="round"/>
+    <g stroke="#F3EEE4" stroke-width="1" opacity=".9" fill="none">
+      <path d="M340 300 C 370 280, 410 300, 440 270"/>
+      <path d="M350 320 C 400 290, 430 320, 470 285"/>
+      <path d="M370 250 C 400 235, 430 250, 455 230"/>
+      <path d="M355 270 L 345 245"/>
+      <path d="M430 300 L 448 278"/>
+    </g>
+    <text x="350" y="136" font-family="Georgia, serif" font-size="12" fill="#1D1A17">2 · THREADS</text>
+    <text x="350" y="154" font-family="Georgia, serif" font-size="10" fill="#6B6256">白丝落下，挂在树枝上</text>
+  </g>
+
+  <g>
+    <rect x="600" y="112" width="240" height="230" fill="#DCE6E8"/>
+    <path d="M680 300 L 680 230 L 760 230 L 760 300 Z" fill="none" stroke="#1D1A17" stroke-width="2"/>
+    <path d="M660 216 L 680 230 M780 216 L 760 230" stroke="#1D1A17" stroke-width="2"/>
+    <g stroke="#B44A32" stroke-width="1.4" fill="none" stroke-dasharray="3 5">
+      <path d="M700 260 C 712 246, 724 252, 730 264"/>
+      <path d="M704 274 C 716 262, 730 268, 736 280"/>
+    </g>
+    <text x="620" y="136" font-family="Georgia, serif" font-size="12" fill="#1D1A17">3 · SAMPLE</text>
+    <text x="620" y="154" font-family="Georgia, serif" font-size="10" fill="#6B6256">样本变干、碎裂、消失</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="11" fill="#6B6256">
+    <text x="60" y="388">POSSIBLE EXPLANATIONS / 可能解释</text>
+    <text x="60" y="414">• spider silk / 蜘蛛丝</text>
+    <text x="60" y="436">• balloon or aircraft debris / 气球或飞行器碎片</text>
+    <text x="60" y="458">• industrial fibres / 工业纤维</text>
+    <text x="60" y="480">• unknown / 不明</text>
+    <text x="450" y="414">No sample survived intact.</text>
+    <text x="450" y="436">没有样本被完整保存下来。</text>
+    <text x="450" y="470" fill="#B44A32">The link to the object is unverified.</text>
+    <text x="450" y="490" fill="#B44A32">物体与白丝是否有关，未证实。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

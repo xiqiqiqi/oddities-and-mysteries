@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: great-zimbabwe
+title_zh: 石头的都城
+title_en: The City of Stone
+era: "约 1100–1450 年"
+era_en: "c. 1100–1450 CE"
+region: 津巴布韦，马斯温戈
+region_en: "Masvingo, Zimbabwe"
+coords: [-20.267, 30.933]
+tags:
+  - 大津巴布韦
+  - 绍纳
+  - 石头城
+  - 津巴布韦
+  - 考古
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "UNESCO · Great Zimbabwe National Monument"
+    publisher: UNESCO World Heritage Centre
+    url: https://whc.unesco.org/en/list/364/
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 世界遗产信息、年代、建筑与保护状况
+  - id: S2
+    title: "Wikipedia · Great Zimbabwe"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Great_Zimbabwe
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 建造者、三处建筑群、贸易与殖民时期解释争议
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面石头城场景复原与建筑群、贸易示意；不是现场照片
+cover: ../../../assets/covers/great-zimbabwe.jpg
+related:
+  - angkor-wat
+  - mohenjo-daro
+status: review
+featured: false
+translation_status: translated

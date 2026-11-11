@@ -1,0 +1,69 @@
+# 稀奇奇频道词典
+# 频道决定条目进入哪个站点；type 只作为筛选属性。
+
+- id: mystery
+  zh: 未解之谜
+  en: Mysteries
+  annotation_zh: 匪夷所思
+  annotation_en: Beyond Belief
+  domain: mysteries.xiqiqi.com
+  repo: mysteries
+  status: launch
+  description_zh: 天外来客、自然怪象、深海怪声、时间异常。
+  description_en: Visitors from the sky, strange natural phenomena, deep-sea sounds, and time anomalies.
+
+- id: tales
+  zh: 离奇故事
+  en: Strange Tales
+  annotation_zh: 千奇百怪
+  annotation_en: A Thousand Oddities
+  domain: tales.xiqiqi.com
+  repo: tales
+  status: launch
+  description_zh: 失踪悬案、骗局伪造、离奇死亡、幽灵船、都市传说。
+  description_en: Disappearances, hoaxes, strange deaths, ghost ships, and urban legends.
+
+- id: objects
+  zh: 奇物
+  en: Objects
+  annotation_zh: 奇珍异宝
+  annotation_en: Rare Treasures
+  domain: objects.xiqiqi.com
+  repo: objects
+  status: launch
+  description_zh: 诅咒之物、宗教圣物、古代遗物、超前科技、失窃珍宝。
+  description_en: Cursed objects, sacred relics, ancient artifacts, out-of-place technology, and stolen treasures.
+
+- id: places
+  zh: 奇境
+  en: Places
+  annotation_zh: 别有洞天
+  annotation_en: Hidden Worlds
+  domain: places.xiqiqi.com
+  repo: places
+  status: launch
+  description_zh: 失落文明、古代遗迹、地下空间、鬼城废墟、诅咒之地。
+  description_en: Lost civilizations, ancient ruins, underground spaces, ghost towns, and cursed landscapes.
+
+- id: creatures
+  zh: 奇兽
+  en: Creatures
+  annotation_zh: 珍禽异兽
+  annotation_en: Rare Beasts
+  domain: creatures.xiqiqi.com
+  repo: creatures
+  status: launch
+  description_zh: 水怪、野人、海怪、神话生物、都市怪物。
+  description_en: Lake monsters, wild men, sea serpents, mythic beasts, and urban creatures.
+
+# 第 6 个频道：等内容超过 50 条再启动
+- id: hoaxes
+  zh: 骗局档案
+  en: Hoaxes
+  annotation_zh: 以假乱真
+  annotation_en: Truth in Disguise
+  domain: hoaxes.xiqiqi.com
+  repo: hoaxes
+  status: future
+  description_zh: 伪造、骗局、误认、媒体炒作和精心设计的恶作剧。
+  description_en: Forgeries, hoaxes, misidentifications, media panics, and elaborate pranks.

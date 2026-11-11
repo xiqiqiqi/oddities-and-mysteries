@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: washington-merry-go-round
+title_zh: 雷达上的华盛顿
+title_en: Washington on Radar
+era: "1952 年 7 月"
+era_en: "July 1952"
+region: 美国，华盛顿特区
+region_en: "Washington, D.C., United States"
+coords: [38.851, -77.04]
+tags:
+  - 华盛顿旋转木马
+  - UFO
+  - 雷达
+  - 温度逆温
+  - 冷战
+collections:
+  - strange-lights
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · 1952 Washington, D.C. UFO incident"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/1952_Washington,_D.C._UFO_incident
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 雷达接触、拦截过程、官方记者会与解释
+  - id: S2
+    title: "Wikipedia · Robertson Panel"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Robertson_Panel
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1953 年罗伯逊小组与后来的去神秘化政策
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与雷达回波示意；不是历史照片
+cover: ../../../assets/covers/washington-merry-go-round.jpg
+related:
+  - phoenix-lights
+  - shag-harbour
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: black-princes-ruby
+title_zh: 王冠上的尖晶石
+title_en: The Ruby That Wasn't
+era: "14 世纪"
+era_en: "14th century"
+region: 英国，伦敦
+region_en: "London, United Kingdom"
+coords: [51.508, -0.076]
+tags:
+  - 黑王子红宝石
+  - 尖晶石
+  - 英国王冠
+  - 宝石
+  - 阿金库尔
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Black Prince's Ruby"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Black_Prince%27s_Ruby
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 宝石重量、形制、钻孔、历任持有者与王冠位置
+  - id: S2
+    title: "Royal Collection Trust · The Imperial State Crown"
+    publisher: Royal Collection Trust
+    url: https://www.rct.uk/collection/31701/the-imperial-state-crown
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 帝国王冠的形制、宝石位置与 1367 年纳赫拉战役来历
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面宝石特写与红宝石、尖晶石对比示意；不是文物照片
+cover: ../../../assets/covers/black-princes-ruby.jpg
+related:
+  - hope-diamond
+  - jade-burial-suit
+status: review
+featured: false
+translation_status: translated

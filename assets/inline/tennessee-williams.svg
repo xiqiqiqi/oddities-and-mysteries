@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Tennessee Williams: the hotel room, the eye-drop bottle, and the bottle cap</title>
+  <desc id="desc">A schematic hotel room desk with a typewriter, papers, an eye-drop bottle and its cap, and panels on the cause of death and his habit.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">TENNESSEE WILLIAMS · 1983</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">HOTEL ELYSÉE / BOTTLE CAP / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+
+    <!-- window -->
+    <rect x="80" y="130" width="120" height="100" fill="#DCE6E8" stroke="#8C7A52" stroke-width="2"/>
+    <path d="M140 130 V 230 M80 180 H 200" stroke="#8C7A52" stroke-width="1"/>
+    <g fill="#6B6256">
+      <rect x="80" y="130" width="12" height="100"/>
+      <rect x="188" y="130" width="12" height="100"/>
+    </g>
+
+    <!-- desk -->
+    <rect x="100" y="250" width="340" height="14" fill="#6B4A32" stroke="#4A4030" stroke-width="1"/>
+    <rect x="110" y="264" width="10" height="80" fill="#6B4A32"/>
+    <rect x="420" y="264" width="10" height="80" fill="#6B4A32"/>
+
+    <!-- typewriter -->
+    <rect x="150" y="214" width="80" height="34" fill="#4A5A4A" stroke="#1D1A17" stroke-width="1.5"/>
+    <rect x="158" y="222" width="64" height="10" fill="#D8CCB6"/>
+    <g fill="#1D1A17">
+      <circle cx="164" cy="240" r="2"/>
+      <circle cx="176" cy="240" r="2"/>
+      <circle cx="188" cy="240" r="2"/>
+      <circle cx="200" cy="240" r="2"/>
+      <circle cx="212" cy="240" r="2"/>
+    </g>
+
+    <!-- papers -->
+    <g fill="#F7F1E4" stroke="#B8A582" stroke-width="1">
+      <rect x="260" y="238" width="50" height="8"/>
+      <rect x="268" y="230" width="50" height="8"/>
+      <rect x="276" y="222" width="50" height="8"/>
+    </g>
+
+    <!-- eye-drop bottle and cap -->
+    <rect x="360" y="218" width="14" height="28" rx="2" fill="#DCE6E8" stroke="#4A6B7A" stroke-width="1.5"/>
+    <rect x="364" y="210" width="6" height="8" fill="#B44A32"/>
+    <circle cx="392" cy="244" r="4" fill="#B44A32"/>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17">
+      <text x="120" y="310">desk / 书桌</text>
+      <text x="238" y="206">typewriter / 打字机</text>
+      <text x="350" y="204">eye-drop bottle / 眼药水瓶</text>
+      <text x="404" y="232">cap / 瓶盖</text>
+    </g>
+    <g stroke="#1D1A17" stroke-width="1">
+      <path d="M236 210 L 228 222"/>
+      <path d="M350 208 L 358 218"/>
+      <path d="M402 236 L 396 242"/>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE CAUSE / 死因</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="168">asphyxiation / 窒息</text>
+      <text x="520" y="192">plastic bottle cap / 塑料瓶盖</text>
+      <text x="520" y="216">eye-drop bottle / 眼药水瓶</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE HABIT / 习惯</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">cap held between front teeth</text>
+      <text x="520" y="325">瓶盖咬在门牙之间</text>
+      <text x="520" y="347">hands free to squeeze / 腾出手挤瓶子</text>
+    </g>
+    <text x="520" y="380" font-family="Georgia, serif" font-size="8" fill="#B44A32">no witnesses / 没有目击者</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Williams was found dead in his Hotel Elysée suite on 25 February 1983.</text>
+    <text x="60" y="470">1983 年 2 月 25 日，威廉斯被发现死在爱丽舍酒店套房。</text>
+    <text x="60" y="494" fill="#B44A32">The medical examiner said he choked on a plastic bottle cap. / 法医说他因塑料瓶盖窒息。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

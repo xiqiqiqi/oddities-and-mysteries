@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: werewolf
+title_zh: 披着狼皮的人
+title_en: The Man in the Wolf Skin
+era: "16–17 世纪"
+era_en: "16th–17th centuries"
+region: 德国，贝德堡
+region_en: "Bedburg, Germany"
+coords: [51.00, 6.56]
+tags:
+  - 狼人
+  - 贝德堡
+  - 彼得·斯通普
+  - 猎巫
+  - 传说
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Werewolf"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Werewolf
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 古代起源、欧洲审判、医学解释与满月传说
+  - id: S2
+    title: "USURJ · Monstrous Lessons: Peter Stumpp, the Werewolf of Bedburg"
+    publisher: University of Saskatchewan Undergraduate Research Journal
+    url: https://usurj.journalsdev.usask.ca/article/download/723/442
+    year: "2026"
+    license: 版权归 USURJ；仅作事实参考
+    usage: 1589 年贝德堡审判、供词、处决与印刷传播
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面 1589 年贝德堡审判场景复原、时间线与传说要素示意；不是历史照片
+cover: ../../../assets/covers/werewolf.jpg
+related:
+  - beast-of-bray-road
+  - kelpie
+status: review
+featured: false
+translation_status: translated

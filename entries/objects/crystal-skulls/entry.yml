@@ -1,0 +1,48 @@
+channel: objects
+type: object
+slug: crystal-skulls
+title_zh: 水晶头骨的谎言
+title_en: The Crystal Skull Hoax
+era: "19 世纪制造；20 世纪被说成古代遗物"
+era_en: "made in the 19th century; presented as ancient in the 20th"
+region: 中美洲与欧洲博物馆
+region_en: "Mesoamerica and European museums"
+coords: null
+tags:
+  - 水晶头骨
+  - 玛雅
+  - 阿兹特克
+  - 伪造
+  - 博物馆
+collections:
+  - hoaxes-and-forgeries
+credibility: hoax
+sources:
+  - id: S1
+    title: "Wikipedia · Crystal skull"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Crystal_skull
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 著名头骨、来源争议、现代工具痕迹与鉴定结论
+  - id: S2
+    title: "Wikipedia · Lubaantun"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Lubaantun
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 米切尔-赫奇斯头骨所谓发现地的考古背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与鉴定要点示意；不是文物照片
+cover: ../../../assets/covers/crystal-skulls.jpg
+related:
+  - hope-diamond
+  - angel-hair
+status: review
+featured: false
+translation_status: translated

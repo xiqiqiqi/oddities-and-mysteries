@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: curse-of-tutankhamun
+title_zh: 法老的诅咒
+title_en: The Pharaoh's Curse
+era: "1922"
+era_en: "1922"
+region: 埃及，卢克索，帝王谷
+region_en: "Valley of the Kings, Luxor, Egypt"
+coords: [25.740, 32.602]
+tags:
+  - 图坦卡蒙
+  - 诅咒
+  - 卡纳冯
+  - 霍华德·卡特
+  - 帝王谷
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Curse of the pharaohs"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Curse_of_the_pharaohs
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 陵墓发现、卡纳冯之死、所谓诅咒铭文与死亡名单
+  - id: S2
+    title: "Weird Science History · The Mummy's Curse That Missed Its Main Target"
+    publisher: Weird Science History
+    url: https://www.weirdsciencehistory.com/articles/the-mummys-curse-that-missed-its-main-target
+    year: "2026"
+    license: 版权归 Weird Science History；仅作事实参考
+    usage: 卡纳冯死亡的医学细节与报纸传播
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面陵墓入口场景复原、时间线与死亡示意；不是现场照片
+cover: ../../../assets/covers/curse-of-tutankhamun.jpg
+related:
+  - tutankhamun-mask
+  - hope-diamond
+status: review
+featured: false
+translation_status: translated

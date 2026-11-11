@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: us-uap-report
+title_zh: 没有结论的报告
+title_en: The Report Without a Conclusion
+era: "2021 年起"
+era_en: "From 2021"
+region: 美国，华盛顿
+region_en: "Washington, D.C., USA"
+coords: [38.895, -77.036]
+tags:
+  - UAP
+  - 五角大楼
+  - 不明空中现象
+  - 国家情报总监办公室
+  - AARO
+  - 飞行安全
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "ODNI · Preliminary Assessment: Unidentified Aerial Phenomena"
+    publisher: Office of the Director of National Intelligence
+    url: https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf
+    year: "2021"
+    license: 美国政府公开文件；仅作事实参考
+    usage: 144 起报告、80 起多传感器、18 起异常机动、一起气球解释
+  - id: S2
+    title: "AARO · All-domain Anomaly Resolution Office"
+    publisher: U.S. Department of Defense
+    url: https://www.aaro.mil/
+    year: "2026"
+    license: 美国政府公开资料；仅作事实参考
+    usage: 2022 年成立、后续年度报告与案件分类
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面简报室场景复原、144 起报告与后续统计示意；不是现场照片
+cover: ../../../assets/covers/us-uap-report.jpg
+related:
+  - foo-fighters
+  - hudson-valley-ufo
+status: review
+featured: false
+translation_status: translated

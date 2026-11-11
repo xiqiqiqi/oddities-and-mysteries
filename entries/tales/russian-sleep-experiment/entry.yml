@@ -1,0 +1,54 @@
+channel: tales
+type: story
+slug: russian-sleep-experiment
+title_zh: 不睡的实验
+title_en: The Sleep Experiment
+era: "1940 年代（故事设定）"
+era_en: "1940s (in the story)"
+region: 苏联（故事设定）
+region_en: "Soviet Union (in the story)"
+coords: null
+tags:
+  - 俄罗斯睡眠实验
+  - 都市传说
+  - 网络恐怖
+  - 睡眠剥夺
+  - creepypasta
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Know Your Meme · Russian Sleep Experiment"
+    publisher: Know Your Meme
+    url: https://knowyourmeme.com/memes/russian-sleep-experiment
+    year: "2026"
+    license: 版权归 Know Your Meme；仅作事实参考
+    usage: 故事的早期传播、版本与网络迷因背景
+  - id: S2
+    title: "Creepypasta Wiki · The Russian Sleep Experiment"
+    publisher: Fandom
+    url: https://creepypasta.fandom.com/wiki/The_Russian_Sleep_Experiment
+    year: "2026"
+    license: CC BY-SA（Fandom 社区内容）；仅作文本参考
+    usage: 故事原文与常见版本
+  - id: S3
+    title: "Wikipedia · Creepypasta"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Creepypasta
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 网络恐怖文学的传播背景与“档案体”特征
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面苏联实验室场景复原、故事结构与传播时间线；不是历史照片
+cover: ../../../assets/covers/russian-sleep-experiment.jpg
+related:
+  - dyatlov-pass
+  - heavens-gate
+status: review
+featured: false
+translation_status: translated

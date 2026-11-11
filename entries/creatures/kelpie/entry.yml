@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: kelpie
+title_zh: 水里的马
+title_en: The Horse in the Water
+era: 民间传说
+era_en: "Folklore"
+region: 英国，苏格兰
+region_en: "Scotland, United Kingdom"
+coords: [56.5, -4.5]
+tags:
+  - 凯尔派
+  - 苏格兰
+  - 水马
+  - 民间传说
+  - 湖
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Dictionaries of the Scots Language · Kelpie"
+    publisher: Scottish Language Dictionaries
+    url: https://www.dsl.ac.uk/entry/snd/kelpie
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 凯尔派的词义、形态与民间说法
+  - id: S2
+    title: "Wikipedia · Kelpie"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Kelpie
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 传说分布、each-uisge 变体与故事类型
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面湖边黑马场景复原、传说要素示意；不是目击照片
+cover: ../../../assets/covers/kelpie.jpg
+related:
+  - loch-ness
+  - spring-heeled-jack
+status: review
+featured: false
+translation_status: translated

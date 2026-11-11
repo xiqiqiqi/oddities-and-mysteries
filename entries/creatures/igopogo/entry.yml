@@ -1,0 +1,48 @@
+channel: creatures
+type: creature
+slug: igopogo
+title_zh: 湖面的驼峰
+title_en: The Hump on the Lake
+era: "1860 年代起"
+era_en: "From the 1860s"
+region: 加拿大，安大略，西姆科湖
+region_en: "Lake Simcoe, Ontario, Canada"
+coords: [44.35, -79.37]
+tags:
+  - 伊戈波戈
+  - 西姆科湖
+  - 湖怪
+  - 安大略
+  - 肯彭费尔特·凯利
+  - 报纸档案
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Simcoe County Archives · Simcoe County Cryptids"
+    publisher: Simcoe County Archives
+    url: https://simcoe.ca/simcoe-county-archives-blog/simcoe-county-cryptids/
+    year: "2026"
+    license: 版权归 Simcoe County；仅作事实参考
+    usage: 1860 年代起的报纸记录、1963 年杰克逊角目击、鲟鱼解释
+  - id: S2
+    title: "Wikipedia · Igopogo"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Igopogo
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 名称来源、肯彭费尔特·凯利与比弗顿贝西、目击描述
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面西姆科湖晨雾场景复原、报纸时间线与鲟鱼对照；不是现场照片
+cover: ../../../assets/covers/igopogo.jpg
+related:
+  - loch-ness
+  - cadborosaurus
+status: review
+featured: false
+translation_status: translated

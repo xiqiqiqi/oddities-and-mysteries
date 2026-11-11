@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Aksum: the standing stelae, the fallen great stele and the empire</title>
+  <desc id="desc">A landscape with tall carved granite stelae, one fallen, and panels on the Aksumite Empire and its legacy.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">AKSUM · 直立的石碑</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">ETHIOPIA / 4TH CENTURY / UNESCO 1980</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE STELAE FIELD / 石碑群示意</text>
+
+    <!-- sky and ground -->
+    <rect x="72" y="150" width="396" height="170" fill="#E8DCC4"/>
+    <circle cx="420" cy="180" r="18" fill="#E8C96A" opacity="0.8"/>
+    <path d="M72 320 L 468 320 L 468 340 L 72 340 Z" fill="#C9B799"/>
+
+    <!-- tall stele -->
+    <path d="M238 320 L 238 170 Q 238 152 258 152 Q 278 152 278 170 L 278 320 Z" fill="#B9A98C" stroke="#6B4A32" stroke-width="1.4"/>
+    <g stroke="#8C7A52" stroke-width="0.7">
+      <line x1="244" y1="180" x2="272" y2="180"/>
+      <line x1="244" y1="200" x2="272" y2="200"/>
+      <line x1="244" y1="220" x2="272" y2="220"/>
+      <line x1="244" y1="240" x2="272" y2="240"/>
+      <line x1="244" y1="260" x2="272" y2="260"/>
+    </g>
+    <rect x="250" y="286" width="16" height="34" fill="#6B4A32"/>
+
+    <!-- medium stele -->
+    <path d="M178 320 L 178 220 Q 178 206 194 206 Q 210 206 210 220 L 210 320 Z" fill="#C9B799" stroke="#6B4A32" stroke-width="1.2"/>
+    <g stroke="#8C7A52" stroke-width="0.6">
+      <line x1="183" y1="230" x2="205" y2="230"/>
+      <line x1="183" y1="248" x2="205" y2="248"/>
+      <line x1="183" y1="266" x2="205" y2="266"/>
+    </g>
+    <rect x="188" y="294" width="12" height="26" fill="#6B4A32"/>
+
+    <!-- fallen stele -->
+    <g transform="rotate(-8 380 326)">
+      <rect x="320" y="314" width="120" height="24" rx="4" fill="#B9A98C" stroke="#6B4A32" stroke-width="1.2"/>
+      <line x1="380" y1="314" x2="380" y2="338" stroke="#8C7A52" stroke-width="1"/>
+      <line x1="400" y1="314" x2="400" y2="338" stroke="#8C7A52" stroke-width="1"/>
+    </g>
+
+    <!-- labels -->
+    <path d="M282 190 L 310 184" stroke="#6B6256" stroke-width="0.8" fill="none"/>
+    <text x="314" y="180" font-family="Georgia, serif" font-size="8" fill="#1D1A17">24 m / 24 米</text>
+    <text x="314" y="190" font-family="Georgia, serif" font-size="7" fill="#6B6256">King Ezana's stele / 以扎纳石碑</text>
+
+    <path d="M330 350 L 360 336" stroke="#6B6256" stroke-width="0.8" fill="none"/>
+    <text x="300" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">33 m, fallen / 33 米，倒塌</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">cut from granite, raised with ropes / 整块花岗岩，用绳索立起</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE EMPIRE / 帝国</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">1st–7th century CE / 公元 1–7 世纪</text>
+      <text x="520" y="186">Red Sea trade / 红海贸易</text>
+      <text x="520" y="206">its own coins and script / 自己的钱币与文字</text>
+      <text x="520" y="226">Ezana, Christian c. 330 / 以扎纳，约 330 年皈依</text>
+      <text x="520" y="242">one of the first Christian states / 最早以基督教为国教的国家之一</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE LEGACY / 遗产</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">UNESCO World Heritage, 1980 / 1980 年世界遗产</text>
+      <text x="520" y="330">the Ark chapel / 约柜礼拜堂</text>
+      <text x="520" y="348">the Queen of Sheba / 示巴女王</text>
+      <text x="520" y="366">one obelisk returned in 2005 / 2005 年一根石碑归还</text>
+      <text x="520" y="382">the stelae still stand / 石碑仍然立着</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A trade empire that marked its dead with granite towers.</text>
+    <text x="60" y="470">一个用花岗岩高塔标记死者的贸易帝国。</text>
+    <text x="60" y="494" fill="#B44A32">The stelae are archaeology; the Ark claim is unverified tradition. / 石碑是考古，约柜说法是无法验证的传统。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

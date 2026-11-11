@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="通古斯爆炸中心示意图">
+  <rect width="800" height="600" fill="#F3EEE4"/>
+  <g stroke="#1D1A17" stroke-opacity=".08" stroke-width="1">
+    <path d="M0 100 H800 M0 200 H800 M0 300 H800 M0 400 H800 M0 500 H800"/>
+    <path d="M100 0 V600 M200 0 V600 M300 0 V600 M400 0 V600 M500 0 V600 M600 0 V600 M700 0 V600"/>
+  </g>
+
+  <path d="M0 430 C120 400 190 450 270 420 C350 390 430 440 520 410 C610 380 700 420 800 390" fill="none" stroke="#3E5548" stroke-width="2.4" stroke-opacity=".7"/>
+  <path d="M0 468 C110 440 200 486 290 454 C380 422 470 470 560 438 C650 406 730 446 800 420" fill="none" stroke="#3E5548" stroke-width="1.2" stroke-opacity=".35" stroke-dasharray="4 8"/>
+
+  <g transform="translate(450 300)">
+    <ellipse rx="230" ry="120" fill="#1D1A17" fill-opacity=".07" transform="rotate(38)"/>
+    <ellipse rx="230" ry="120" fill="#1D1A17" fill-opacity=".07" transform="rotate(-38)"/>
+    <circle r="212" fill="none" stroke="#B44A32" stroke-width="1.4" stroke-dasharray="6 8"/>
+    <circle r="92" fill="none" stroke="#D99A2B" stroke-width="1.6"/>
+    <circle r="9" fill="#B44A32"/>
+    <circle r="18" fill="none" stroke="#1D1A17" stroke-width="1.4"/>
+    <path d="M-30 0 H30 M0 -30 V30" stroke="#1D1A17" stroke-width="1" stroke-opacity=".5"/>
+  </g>
+
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" fill="#1D1A17">
+    <text x="450" y="288" font-size="15" text-anchor="middle">爆炸中心</text>
+    <text x="450" y="312" font-size="11" text-anchor="middle" fill="#6B6256">60.55°N, 101.57°E</text>
+    <text x="450" y="170" font-size="12" text-anchor="middle" fill="#B44A32">可见倒伏区 · 约 35 km</text>
+    <text x="450" y="228" font-size="11" text-anchor="middle" fill="#D99A2B">强毁区 · 约 15 km</text>
+  </g>
+
+  <g transform="translate(118 470)">
+    <rect x="-7" y="-7" width="14" height="14" fill="#1D1A17"/>
+    <text x="18" y="-2" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="13" fill="#1D1A17">瓦纳瓦拉</text>
+    <text x="18" y="16" font-family="'SFMono-Regular',Consolas,monospace" font-size="10" fill="#6B6256">65 km</text>
+  </g>
+  <path d="M132 462 L330 350" stroke="#1D1A17" stroke-width="1" stroke-dasharray="4 6" stroke-opacity=".5"/>
+
+  <g transform="translate(700 78)">
+    <path d="M0 34 L0 -22" stroke="#1D1A17" stroke-width="1.4"/>
+    <path d="M0 -22 L-7 -8 L0 -12 L7 -8 Z" fill="#1D1A17"/>
+    <text x="0" y="52" font-family="Georgia,serif" font-size="12" text-anchor="middle" fill="#1D1A17">N</text>
+  </g>
+
+  <g transform="translate(92 540)">
+    <path d="M0 0 H100" stroke="#1D1A17" stroke-width="2"/>
+    <path d="M0 -5 V5 M50 -4 V4 M100 -5 V5" stroke="#1D1A17" stroke-width="1"/>
+    <text x="0" y="22" font-family="'SFMono-Regular',Consolas,monospace" font-size="10" fill="#6B6256">0</text>
+    <text x="46" y="22" font-family="'SFMono-Regular',Consolas,monospace" font-size="10" fill="#6B6256">25 km</text>
+    <text x="92" y="22" font-family="'SFMono-Regular',Consolas,monospace" font-size="10" fill="#6B6256">50 km</text>
+  </g>
+
+  <text x="40" y="54" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="13" fill="#6B6256">通古斯爆炸 · 破坏范围示意</text>
+  <text x="40" y="76" font-family="'SFMono-Regular',Consolas,monospace" font-size="10" fill="#6B6256">1908.06.30 / SIBERIA</text>
+  <rect x="24" y="24" width="752" height="552" fill="none" stroke="#1D1A17" stroke-opacity=".18"/>
+</svg>

@@ -1,0 +1,55 @@
+channel: places
+type: place
+slug: trans-allegheny-asylum
+title_zh: 山上的病房
+title_en: The Wards on the Hill
+era: "1864–1994"
+era_en: "1864–1994"
+region: 美国，西弗吉尼亚，韦斯顿
+region_en: "Weston, West Virginia, USA"
+coords: [39.038, -80.467]
+tags:
+  - 特兰西瓦尼亚精神病院
+  - 柯克布莱德
+  - 西弗吉尼亚
+  - 废弃建筑
+  - 闹鬼
+  - 精神病院
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Trans-Allegheny Lunatic Asylum · Explore Our History"
+    publisher: Trans-Allegheny Lunatic Asylum
+    url: https://trans-alleghenylunaticasylum.com/explore-our-history/
+    year: "2026"
+    license: 版权归 Trans-Allegheny Lunatic Asylum；仅作事实参考
+    usage: 1858 年动工、柯克布莱德平面、建筑师理查德·安德鲁斯、建筑规模
+  - id: S2
+    title: "Trans-Allegheny Lunatic Asylum · The Civil War"
+    publisher: Trans-Allegheny Lunatic Asylum
+    url: https://trans-alleghenylunaticasylum.com/the-civil-war/
+    year: "2026"
+    license: 版权归 Trans-Allegheny Lunatic Asylum；仅作事实参考
+    usage: 内战期间 Camp Tyler、南翼营房与地基马厩、1862–1863 年南军袭扰
+  - id: S3
+    title: "Wikipedia · Trans-Allegheny Lunatic Asylum"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Trans-Allegheny_Lunatic_Asylum
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1864 年收治、1913 年改名、1950 年代超员、1994 年关闭
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面哥特式病院黄昏场景复原、柯克布莱德平面与年代线；不是现场照片
+cover: ../../../assets/covers/trans-allegheny-asylum.jpg
+related:
+  - eastern-state-penitentiary
+  - hoia-baciu
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The burial of Herculaneum</title>
+  <desc id="desc">A stratigraphic section: the sea on the left, the Villa of the Papyri and the boathouses buried under ash, pumice, and pyroclastic mud, with the scroll room enlarged.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">HERCULANEUM · BURIED</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">79 CE / STRATIGRAPHIC SECTION / SCHEMATIC</text>
+
+  <g>
+    <!-- sky -->
+    <rect x="60" y="112" width="780" height="53" fill="#DCE6E8"/>
+
+    <!-- sea -->
+    <rect x="60" y="165" width="130" height="85" fill="#DCE6E8"/>
+    <rect x="60" y="250" width="130" height="162" fill="#C9DEE6"/>
+    <path d="M60 250 H 190" stroke="#6FA8C8" stroke-width="3"/>
+    <text x="72" y="272" font-family="Georgia, serif" font-size="9" fill="#4A6B7A">SEA / 海</text>
+
+    <!-- volcanic layers above the old ground surface -->
+    <rect x="190" y="165" width="650" height="42" fill="#CDBB94"/>
+    <rect x="190" y="207" width="650" height="43" fill="#AF9A6E"/>
+    <path d="M190 250 H 840" stroke="#6B4A32" stroke-width="1.5"/>
+    <text x="200" y="190" font-family="Georgia, serif" font-size="9" fill="#4A4030">ash + pumice / 火山灰与浮石</text>
+    <text x="200" y="232" font-family="Georgia, serif" font-size="9" fill="#3F3626">pyroclastic flow + mud / 火山碎屑流与泥浆</text>
+    <text x="200" y="158" font-family="Georgia, serif" font-size="9" fill="#6B6256">modern ground / 今天的地面</text>
+
+    <!-- buried ground and bedrock -->
+    <rect x="190" y="250" width="650" height="92" fill="#D8CCB6"/>
+    <rect x="190" y="342" width="650" height="70" fill="#C2B49C"/>
+    <g stroke="#A89880" stroke-width="1" opacity=".8">
+      <path d="M210 400 L 224 386 M250 408 L 264 394 M300 400 L 314 386 M350 408 L 364 394 M400 400 L 414 386 M450 408 L 464 394 M500 400 L 514 386 M550 408 L 564 394 M600 400 L 614 386 M650 408 L 664 394 M700 400 L 714 386 M750 408 L 764 394 M800 400 L 814 386"/>
+    </g>
+    <rect x="196" y="394" width="74" height="13" fill="#C2B49C"/>
+    <text x="200" y="404" font-family="Georgia, serif" font-size="9" fill="#6B6256">bedrock / 基岩</text>
+
+    <!-- depth bracket -->
+    <path d="M816 165 V 250 M812 168 L 816 165 L 820 168 M812 247 L 816 250 L 820 247" fill="none" stroke="#6B6256" stroke-width="1"/>
+    <text x="808" y="200" text-anchor="end" font-family="Georgia, serif" font-size="9" fill="#4A4030">15–25 m</text>
+    <text x="808" y="213" text-anchor="end" font-family="Georgia, serif" font-size="9" fill="#4A4030">地下十几米</text>
+
+    <!-- Vesuvius -->
+    <path d="M720 165 L 760 120 L 800 165 Z" fill="#8C7A52" stroke="#6B4A32" stroke-width="1.5"/>
+    <path d="M753 127 L 761 124 L 767 130" fill="none" stroke="#B44A32" stroke-width="2"/>
+    <text x="714" y="160" text-anchor="end" font-family="Georgia, serif" font-size="9" fill="#6B6256">VESUVIUS / 维苏威</text>
+
+    <!-- boathouses -->
+    <g>
+      <rect x="200" y="262" width="112" height="80" fill="#E6D8BC" stroke="#6B4A32" stroke-width="1.5"/>
+      <g fill="#8C7A52" fill-opacity=".35" stroke="#6B4A32" stroke-width="1">
+        <path d="M208 338 V 306 A 9 9 0 0 1 226 306 V 338 Z"/>
+        <path d="M234 338 V 306 A 9 9 0 0 1 252 306 V 338 Z"/>
+        <path d="M260 338 V 306 A 9 9 0 0 1 278 306 V 338 Z"/>
+        <path d="M286 338 V 306 A 9 9 0 0 1 304 306 V 338 Z"/>
+      </g>
+      <g fill="#B44A32">
+        <circle cx="215" cy="332" r="1.6"/><circle cx="221" cy="329" r="1.6"/>
+        <circle cx="241" cy="332" r="1.6"/><circle cx="247" cy="329" r="1.6"/>
+        <circle cx="267" cy="332" r="1.6"/><circle cx="273" cy="329" r="1.6"/>
+        <circle cx="293" cy="332" r="1.6"/><circle cx="299" cy="329" r="1.6"/>
+      </g>
+      <text x="200" y="358" font-family="Georgia, serif" font-size="9" fill="#1D1A17">BOATHOUSES / 船库</text>
+      <text x="200" y="371" font-family="Georgia, serif" font-size="9" fill="#6B6256">about 300 skeletons</text>
+      <text x="200" y="383" font-family="Georgia, serif" font-size="9" fill="#6B6256">约 300 具遗骸</text>
+    </g>
+
+    <!-- villa -->
+    <g>
+      <rect x="340" y="262" width="180" height="80" fill="#EFE6D6" stroke="#6B4A32" stroke-width="1.5"/>
+      <path d="M340 298 H 520 M390 262 V 342 M430 298 V 342 M470 298 V 342" stroke="#6B4A32" stroke-width="1" fill="none"/>
+      <rect x="430" y="298" width="40" height="44" fill="#E6D8BC" stroke="#6B4A32" stroke-width="1"/>
+      <g fill="#6B4A32">
+        <rect x="436" y="306" width="4" height="12" rx="2"/>
+        <rect x="445" y="306" width="4" height="12" rx="2"/>
+        <rect x="454" y="306" width="4" height="12" rx="2"/>
+        <rect x="436" y="322" width="4" height="12" rx="2"/>
+        <rect x="445" y="322" width="4" height="12" rx="2"/>
+        <rect x="454" y="322" width="4" height="12" rx="2"/>
+      </g>
+      <text x="340" y="358" font-family="Georgia, serif" font-size="9" fill="#1D1A17">VILLA OF THE PAPYRI / 纸莎草别墅</text>
+      <text x="340" y="371" font-family="Georgia, serif" font-size="9" fill="#6B6256">the scroll room / 藏书室</text>
+    </g>
+
+    <!-- scroll callout -->
+    <path d="M520 320 L 566 320 L 566 288 L 610 288" fill="none" stroke="#B44A32" stroke-width="1"/>
+    <g>
+      <rect x="610" y="256" width="196" height="68" fill="#EFE6D6" stroke="#6B4A32" stroke-width="1.5"/>
+      <g fill="#6B4A32">
+        <rect x="624" y="272" width="9" height="34" rx="4.5"/>
+        <rect x="641" y="272" width="9" height="34" rx="4.5"/>
+        <rect x="658" y="272" width="9" height="34" rx="4.5"/>
+        <rect x="675" y="272" width="9" height="34" rx="4.5"/>
+      </g>
+      <g font-family="Georgia, serif" font-size="9" fill="#1D1A17">
+        <text x="696" y="280">~1,800 scrolls</text>
+        <text x="696" y="293">约 1,800 卷</text>
+      </g>
+      <text x="696" y="309" font-family="Georgia, serif" font-size="9" fill="#B44A32">carbonized / 已碳化</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The town was sealed by volcanic material, preserving wood, food, and papyri.</text>
+    <text x="60" y="470">火山物质封住了城市，木头、食物和纸草得以保存。</text>
+    <text x="60" y="494" fill="#B44A32">UNESCO World Heritage, 1997. / 1997 年列入世界遗产。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

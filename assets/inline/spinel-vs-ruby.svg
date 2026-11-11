@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Ruby and spinel, and the travels of the Black Prince's Ruby</title>
+  <desc id="desc">A comparison of ruby and spinel crystals with hardness and density, and a timeline of the stone from the Battle of Nájera in 1367 to the Tower of London.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">RUBY vs SPINEL</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">CRYSTAL STRUCTURE / ONE STONE'S TRAVELS</text>
+
+  <g>
+    <rect x="60" y="112" width="360" height="280" fill="#EFE6D6"/>
+    <text x="80" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">TWO MINERALS / 两种矿物</text>
+
+    <!-- ruby crystal -->
+    <path d="M110 185 L140 168 L170 185 L170 278 L140 298 L110 278 Z" fill="#B44A32" stroke="#6B3A26" stroke-width="1.5"/>
+    <path d="M110 185 L140 200 L170 185 M140 200 V 298" fill="none" stroke="#6B3A26" stroke-width="1" opacity=".7"/>
+    <text x="80" y="158" font-family="Georgia, serif" font-size="11" fill="#1D1A17">RUBY / 红宝石</text>
+    <text x="80" y="320" font-family="Georgia, serif" font-size="9" fill="#4A4030">hardness 9 / 硬度 9</text>
+    <text x="80" y="334" font-family="Georgia, serif" font-size="9" fill="#4A4030">density 4.0 / 密度 4.0</text>
+    <text x="80" y="348" font-family="Georgia, serif" font-size="8" fill="#6B6256">corundum · Al₂O₃</text>
+
+    <!-- spinel crystal -->
+    <path d="M280 190 L315 158 L350 190 L315 288 Z" fill="#B44A32" stroke="#6B3A26" stroke-width="1.5"/>
+    <path d="M280 190 H 350 M315 158 V 288" fill="none" stroke="#6B3A26" stroke-width="1" opacity=".7"/>
+    <text x="250" y="158" font-family="Georgia, serif" font-size="11" fill="#1D1A17">SPINEL / 尖晶石</text>
+    <text x="250" y="320" font-family="Georgia, serif" font-size="9" fill="#4A4030">hardness 8 / 硬度 8</text>
+    <text x="250" y="334" font-family="Georgia, serif" font-size="9" fill="#4A4030">density 3.6 / 密度 3.6</text>
+    <text x="250" y="348" font-family="Georgia, serif" font-size="8" fill="#6B6256">MgAl₂O₄</text>
+
+    <text x="80" y="366" font-family="Georgia, serif" font-size="9" fill="#B44A32">same colour, different mineral / 颜色相同，矿物不同</text>
+  </g>
+
+  <g>
+    <rect x="450" y="112" width="390" height="280" fill="#EFE6D6"/>
+    <text x="470" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE STONE / 这颗石头</text>
+
+    <!-- stone icon -->
+    <circle cx="796" cy="144" r="12" fill="#B44A32" stroke="#6B3A26" stroke-width="1.2"/>
+    <circle cx="801" cy="144" r="3" fill="#EFE6D6" stroke="#6B3A26" stroke-width=".8"/>
+
+    <path d="M486 158 V 368" stroke="#1D1A17" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="486" cy="168" r="4"/>
+      <circle cx="486" cy="206" r="4"/>
+      <circle cx="486" cy="244" r="4"/>
+      <circle cx="486" cy="282" r="4"/>
+      <circle cx="486" cy="320" r="4"/>
+      <circle cx="486" cy="358" r="4"/>
+    </g>
+
+    <g font-family="Georgia, serif">
+      <text x="500" y="166" font-size="9" fill="#1D1A17">1367</text>
+      <text x="500" y="178" font-size="8" fill="#6B6256">Nájera / 纳赫拉战役；佩德罗送给黑王子</text>
+
+      <text x="500" y="204" font-size="9" fill="#1D1A17">1415</text>
+      <text x="500" y="216" font-size="8" fill="#6B6256">Agincourt / 阿金库尔；传说亨利五世佩戴</text>
+
+      <text x="500" y="242" font-size="9" fill="#1D1A17">1649</text>
+      <text x="500" y="254" font-size="8" fill="#6B6256">Civil War / 内战；王冠珠宝被变卖，石头失踪</text>
+
+      <text x="500" y="280" font-size="9" fill="#1D1A17">1660</text>
+      <text x="500" y="292" font-size="8" fill="#6B6256">Restoration / 王政复辟；石头回到王冠</text>
+
+      <text x="500" y="318" font-size="9" fill="#1D1A17">170 carats</text>
+      <text x="500" y="330" font-size="8" fill="#6B6256">set in the Imperial State Crown / 镶入帝国王冠</text>
+
+      <text x="500" y="356" font-size="9" fill="#1D1A17">Today / 今天</text>
+      <text x="500" y="368" font-size="8" fill="#6B6256">Tower of London / 伦敦塔</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Ruby is corundum; spinel is a different mineral with a similar colour.</text>
+    <text x="60" y="470">红宝石是刚玉，尖晶石是另一种矿物，颜色相近。</text>
+    <text x="60" y="494" fill="#B44A32">A hole was drilled through the stone; a small ruby was later set into it. / 石头上有一个钻孔，后来被一颗小红宝石塞住。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

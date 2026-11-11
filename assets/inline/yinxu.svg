@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Yinxu: the oracle bone, the divination pits and the Shang</title>
+  <desc id="desc">A large oracle bone with drilled pits, heat cracks and inscriptions, with panels on the discovery at Anyang and the Shang dynasty.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">YINXU · 刻字的骨头</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">ANYANG / 1899 / ORACLE BONES</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE ORACLE BONE / 甲骨示意</text>
+
+    <!-- bone -->
+    <path d="M176 196 Q 176 162 218 160 L 302 160 Q 344 162 344 196 L 334 296 Q 326 330 292 332 L 228 332 Q 190 328 184 294 Z" fill="#E8DCC4" stroke="#8C7A52" stroke-width="1.5"/>
+
+    <!-- pits and cracks -->
+    <g fill="#B9A98C" stroke="#6B4A32" stroke-width="0.8">
+      <circle cx="220" cy="200" r="4"/><circle cx="220" cy="230" r="4"/><circle cx="220" cy="260" r="4"/><circle cx="220" cy="290" r="4"/>
+      <circle cx="300" cy="200" r="4"/><circle cx="300" cy="230" r="4"/><circle cx="300" cy="260" r="4"/><circle cx="300" cy="290" r="4"/>
+    </g>
+    <g stroke="#6B4A32" stroke-width="1" fill="none">
+      <path d="M220 196 L 214 186 L 220 178"/>
+      <path d="M220 226 L 212 216 L 218 208"/>
+      <path d="M220 256 L 214 246 L 220 238"/>
+      <path d="M220 286 L 212 276 L 218 268"/>
+      <path d="M300 196 L 306 186 L 300 178"/>
+      <path d="M300 226 L 308 216 L 302 208"/>
+      <path d="M300 256 L 306 246 L 300 238"/>
+      <path d="M300 286 L 308 276 L 302 268"/>
+    </g>
+
+    <!-- inscriptions -->
+    <g stroke="#4A4030" stroke-width="1.2">
+      <line x1="198" y1="190" x2="198" y2="204"/><line x1="204" y1="196" x2="212" y2="196"/>
+      <line x1="198" y1="220" x2="198" y2="234"/><line x1="204" y1="226" x2="212" y2="226"/>
+      <line x1="198" y1="250" x2="198" y2="264"/><line x1="204" y1="256" x2="212" y2="256"/>
+      <line x1="322" y1="190" x2="322" y2="204"/><line x1="316" y1="196" x2="308" y2="196"/>
+      <line x1="322" y1="220" x2="322" y2="234"/><line x1="316" y1="226" x2="308" y2="226"/>
+      <line x1="322" y1="250" x2="322" y2="264"/><line x1="316" y1="256" x2="308" y2="256"/>
+    </g>
+
+    <text x="80" y="160" font-family="Georgia, serif" font-size="8" fill="#1D1A17">ORACLE BONE / 甲骨</text>
+    <text x="80" y="350" font-family="Georgia, serif" font-size="8" fill="#1D1A17">DRILL · HEAT · READ THE CRACK</text>
+    <text x="80" y="362" font-family="Georgia, serif" font-size="8" fill="#1D1A17">钻孔 · 灼烧 · 看裂纹</text>
+    <text x="80" y="378" font-family="Georgia, serif" font-size="8" fill="#6B6256">160,000+ bones found at Yinxu / 殷墟出土十六万片以上</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE DISCOVERY / 发现</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">1899: Wang Yirong / 1899：王懿荣</text>
+      <text x="520" y="186">“dragon bones” in medicine / 中药里的“龙骨”</text>
+      <text x="520" y="206">Xiaotun, Anyang / 安阳小屯</text>
+      <text x="520" y="226">excavations from 1928 / 1928 年开始发掘</text>
+      <text x="520" y="242">writing, not cracks / 是字，不是裂纹</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SHANG / 商</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">late Shang capital / 商代晚期都城</text>
+      <text x="520" y="330">Fu Hao's tomb, 1976 / 妇好墓，1976</text>
+      <text x="520" y="348">a queen and a general / 一位王后，也是一位将军</text>
+      <text x="520" y="366">the king list confirmed / 商王名单得到印证</text>
+      <text x="520" y="382">UNESCO World Heritage, 2006 / 2006 年世界遗产</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Bones used to ask questions, now read as history.</text>
+    <text x="60" y="470">本来用来问神的骨头，现在被当作历史来读。</text>
+    <text x="60" y="494" fill="#B44A32">The oracle bones are archaeology; the Shang king list is confirmed by them. / 甲骨是考古实物，商王名单因此得到印证。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of the Beast of Gévaudan</title>
+  <desc id="desc">A schematic map of the Gévaudan region with attack sites, a wolf-like head silhouette, and a timeline from the first attacks in 1764 to the killing of the beast in 1767.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">BEAST OF GÉVAUDAN · 1764–1767</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">ATTACKS / HUNTS / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="410" height="250" fill="#DCE6D8"/>
+
+    <!-- region outline -->
+    <path d="M95 210 L 110 160 L 190 130 L 300 138 L 405 160 L 435 230 L 415 310 L 330 340 L 220 336 L 130 300 Z" fill="#E6D8BC" stroke="#8C7A52" stroke-width="1.5"/>
+
+    <!-- river -->
+    <path d="M120 290 C 180 262, 214 250, 250 202 S 330 172, 382 182" fill="none" stroke="#6FA8C8" stroke-width="2"/>
+
+    <!-- villages -->
+    <g fill="#4F6B3A">
+      <rect x="148" y="208" width="5" height="5"/>
+      <rect x="213" y="168" width="5" height="5"/>
+      <rect x="298" y="288" width="5" height="5"/>
+      <rect x="358" y="238" width="5" height="5"/>
+      <rect x="248" y="298" width="5" height="5"/>
+    </g>
+
+    <!-- attack sites -->
+    <g fill="#B44A32">
+      <circle cx="170" cy="240" r="3"/>
+      <circle cx="200" cy="220" r="3"/>
+      <circle cx="230" cy="252" r="3"/>
+      <circle cx="270" cy="230" r="3"/>
+      <circle cx="300" cy="250" r="3"/>
+      <circle cx="320" cy="200" r="3"/>
+      <circle cx="350" cy="280" r="3"/>
+      <circle cx="380" cy="212" r="3"/>
+      <circle cx="150" cy="270" r="3"/>
+      <circle cx="280" cy="302" r="3"/>
+      <circle cx="210" cy="292" r="3"/>
+      <circle cx="340" cy="322" r="3"/>
+    </g>
+
+    <text x="138" y="168" font-family="Georgia, serif" font-size="12" fill="#1D1A17">GÉVAUDAN / 热沃当</text>
+
+    <circle cx="80" cy="348" r="3" fill="#B44A32"/>
+    <text x="92" y="351" font-family="Georgia, serif" font-size="9" fill="#6B6256">attack sites, 1764–1767 / 袭击地点</text>
+  </g>
+
+  <text x="60" y="382" font-family="Georgia, serif" font-size="10" fill="#6B6256">Hills, forest, and scattered villages / 山地、森林与分散的村庄</text>
+
+  <g>
+    <!-- wolf-like head, profile facing left -->
+    <path d="M600 215 L 612 196 L 650 182 L 668 172 L 674 142 L 692 164 L 704 162 L 714 138 L 728 166 L 748 180 L 756 205 L 748 232 L 726 250 L 690 254 L 660 246 L 636 238 L 618 228 Z" fill="#8C4A32" stroke="#6B3A26" stroke-width="1"/>
+    <circle cx="664" cy="192" r="2.5" fill="#F3EEE4"/>
+    <path d="M600 215 L 614 221" stroke="#6B3A26" stroke-width="1.5" fill="none"/>
+    <text x="600" y="278" font-family="Georgia, serif" font-size="10" fill="#6B6256">wolf-like beast / 狼形野兽</text>
+    <text x="600" y="292" font-family="Georgia, serif" font-size="10" fill="#6B6256">reddish fur, large size</text>
+    <text x="600" y="306" font-family="Georgia, serif" font-size="10" fill="#6B6256">红棕色毛，体型较大</text>
+  </g>
+
+  <g>
+    <path d="M120 415 H 810" stroke="#1D1A17" stroke-width="2"/>
+    <path d="M810 415 L 796 407 M810 415 L 796 423" stroke="#1D1A17" stroke-width="2" fill="none"/>
+    <g fill="#B44A32">
+      <circle cx="200" cy="415" r="8"/>
+      <circle cx="380" cy="415" r="8"/>
+      <circle cx="560" cy="415" r="8"/>
+      <circle cx="720" cy="415" r="8"/>
+    </g>
+    <g font-family="Georgia, serif" font-size="10" fill="#1D1A17">
+      <text x="150" y="447">1764</text>
+      <text x="140" y="462" fill="#6B6256">first attacks / 最初袭击</text>
+      <text x="330" y="447">1765</text>
+      <text x="310" y="462" fill="#6B6256">Antoine kills a wolf / 安托万猎狼</text>
+      <text x="500" y="447">1765–1767</text>
+      <text x="500" y="462" fill="#6B6256">attacks continue / 袭击继续</text>
+      <text x="670" y="447">JUN 1767</text>
+      <text x="660" y="462" fill="#6B6256">Chastel kills it / 沙斯特尔猎杀</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="490">Estimated deaths: 60 to more than 100. / 死亡人数估计：六十到一百多。</text>
+    <text x="60" y="508" fill="#B44A32">Identity disputed: wolf, hybrid, trained animal, or legend. / 身份有争议：狼、杂交犬、训练过的动物或传说。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

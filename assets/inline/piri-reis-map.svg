@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Piri Reis map: the fragment, the claim and the rebuttal</title>
+  <desc id="desc">A schematic old chart showing Europe, Africa, the Atlantic, South America and a debated southern landmass, with panels on the map and on the Antarctica claim.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE PIRI REIS MAP · 地图上的南极洲</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">1513 / TOPKAPI / THE ANTARCTICA CLAIM</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE FRAGMENT / 残片示意</text>
+
+    <!-- parchment -->
+    <path d="M88 166 L 452 158 L 460 330 L 100 342 L 82 280 Z" fill="#D8C8A0" stroke="#A08A5A" stroke-width="1.2"/>
+
+    <!-- Europe and Africa -->
+    <path d="M392 180 C 376 196 372 220 380 240 C 384 258 378 276 366 292 C 356 306 350 320 352 330 L 420 326 C 416 300 424 278 432 258 C 440 238 438 214 430 196 Z" fill="#C9B799" stroke="#8C7A52" stroke-width="1"/>
+    <text x="390" y="206" font-family="Georgia, serif" font-size="7" fill="#4A4030">EUROPE</text>
+    <text x="386" y="216" font-family="Georgia, serif" font-size="7" fill="#4A4030">欧洲</text>
+    <text x="380" y="300" font-family="Georgia, serif" font-size="7" fill="#4A4030">AFRICA</text>
+    <text x="382" y="310" font-family="Georgia, serif" font-size="7" fill="#4A4030">非洲</text>
+
+    <!-- South America -->
+    <path d="M170 200 C 150 220 150 250 160 274 C 168 296 178 314 190 330 L 224 330 C 214 306 210 282 214 258 C 218 234 212 214 200 200 Z" fill="#C9B799" stroke="#8C7A52" stroke-width="1"/>
+    <text x="156" y="248" font-family="Georgia, serif" font-size="7" fill="#4A4030">SOUTH</text>
+    <text x="156" y="258" font-family="Georgia, serif" font-size="7" fill="#4A4030">AMERICA</text>
+    <text x="162" y="268" font-family="Georgia, serif" font-size="7" fill="#4A4030">南美洲</text>
+
+    <!-- sea lines -->
+    <g stroke="#8C7A52" stroke-width="0.6" opacity="0.5">
+      <path d="M240 190 C 270 210 280 240 270 270 C 260 300 270 320 290 335"/>
+      <path d="M300 185 C 320 220 310 260 320 300"/>
+      <path d="M340 190 C 330 230 340 270 332 320"/>
+    </g>
+
+    <!-- debated southern land -->
+    <path d="M120 318 C 180 330 260 336 340 330 L 420 326 L 430 338 C 350 344 240 344 140 338 Z" fill="#B9A98C" opacity="0.85"/>
+    <ellipse cx="270" cy="332" rx="120" ry="12" fill="none" stroke="#B44A32" stroke-width="1.4" stroke-dasharray="5 3"/>
+    <text x="200" y="356" font-family="Georgia, serif" font-size="8" fill="#B44A32">THE DEBATED LAND / 争议陆地</text>
+
+    <!-- compass -->
+    <g transform="translate(330 182)">
+      <circle cx="0" cy="0" r="10" fill="none" stroke="#8C7A52" stroke-width="0.6" opacity="0.7"/>
+      <path d="M0 -9 L 2.5 0 L 0 9 L -2.5 0 Z" fill="#8C7A52" opacity="0.7"/>
+    </g>
+
+    <text x="80" y="374" font-family="Georgia, serif" font-size="8" fill="#6B6256">about one third of the original survives / 原图只剩约三分之一</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE MAP / 地图</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">drawn in 1513 / 1513 年绘制</text>
+      <text x="520" y="186">Piri Reis, Ottoman admiral / 皮里·雷斯，奥斯曼海军将领</text>
+      <text x="520" y="206">gazelle-skin parchment / 瞪羚皮羊皮纸</text>
+      <text x="520" y="226">found at Topkapı in 1929 / 1929 年在托普卡帕宫发现</text>
+      <text x="520" y="242">charts including Columbus / 参考了哥伦布的航海图</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE CLAIM / 争议</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Hapgood, 1966 / 哈普古德，1966</text>
+      <text x="520" y="330">an ice-free Antarctica? / 没有冰的南极洲？</text>
+      <text x="520" y="348">a lost civilisation? / 一个失落的文明？</text>
+      <text x="520" y="366">mainstream: a distorted South America / 主流：变形的南美洲</text>
+      <text x="520" y="382">Antarctica confirmed in 1820 / 南极洲 1820 年才被确认</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A real map with a claim that grew larger than the map.</text>
+    <text x="60" y="470">一张真地图，长出了一个比地图更大的说法。</text>
+    <text x="60" y="494" fill="#B44A32">The “ice-free Antarctica” reading is rejected by mainstream cartography. / 主流地图学不接受“无冰南极洲”的读法。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

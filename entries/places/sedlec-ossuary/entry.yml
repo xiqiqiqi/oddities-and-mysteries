@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: sedlec-ossuary
+title_zh: 骨头做的教堂
+title_en: The Church Made of Bones
+era: 13 世纪起；1870 年整理
+era_en: "13th century onward; arranged in 1870"
+region: 捷克，库特纳霍拉，塞德莱茨
+region_en: "Sedlec, Kutná Hora, Czech Republic"
+coords: [49.961, 15.288]
+tags:
+  - 塞德莱茨
+  - 藏骨堂
+  - 人骨
+  - 库特纳霍拉
+  - 教堂
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Sedlec Ossuary · Official site"
+    publisher: Římskokatolická farnost Kutná Hora – Sedlec
+    url: https://sedlecossuary.com/
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 教堂历史、骨骼数量、1870 年整理与参观信息
+  - id: S2
+    title: "Wikipedia · Sedlec Ossuary"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Sedlec_Ossuary
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 历史背景、装饰细节与世界遗产信息
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面教堂内部场景复原与装饰类型示意；不是现场照片
+cover: ../../../assets/covers/sedlec-ossuary.jpg
+related:
+  - hypogeum
+  - jade-burial-suit
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: island-of-the-dolls
+title_zh: 树上的娃娃
+title_en: The Dolls in the Trees
+era: "1950 年代起"
+era_en: "Since the 1950s"
+region: 墨西哥，墨西哥城，霍奇米尔科
+region_en: "Xochimilco, Mexico City, Mexico"
+coords: [19.257, -99.107]
+tags:
+  - 玩偶岛
+  - 霍奇米尔科
+  - 墨西哥城
+  - 娃娃
+  - 地方传说
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Island of the Dolls"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Island_of_the_Dolls
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 岛屿位置、桑塔纳的故事、娃娃与死亡
+  - id: S2
+    title: "Atlas Obscura · Island of the Dolls"
+    publisher: Atlas Obscura
+    url: https://www.atlasobscura.com/places/island-of-the-dolls
+    year: "2026"
+    license: 版权归 Atlas Obscura；仅作事实参考
+    usage: 岛屿现状、娃娃的来源与旅游信息
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面运河与娃娃场景复原、岛屿与时间线示意；不是现场照片
+cover: ../../../assets/covers/island-of-the-dolls.jpg
+related:
+  - sedlec-ossuary
+  - black-shuck
+status: review
+featured: false
+translation_status: translated

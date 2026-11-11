@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Kusanagi: the sealed boxes, the myth and the shrine</title>
+  <desc id="desc">Nested boxes in the inner sanctuary of Atsuta Shrine with a question mark at the centre, and panels on the myth and the reality of the unseen sword.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">KUSANAGI · 看不见的剑</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">THE SHRINE / THE SERPENT / THE BOX</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE INNER SANCTUARY / 本宫示意</text>
+
+    <!-- nested boxes -->
+    <rect x="140" y="172" width="240" height="140" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.4"/>
+    <rect x="175" y="197" width="170" height="96" fill="#C9B799" stroke="#6B4A32" stroke-width="1.2"/>
+    <rect x="215" y="222" width="90" height="50" fill="#B9A98C" stroke="#6B4A32" stroke-width="1"/>
+    <text x="254" y="253" font-family="Georgia, serif" font-size="20" fill="#4A4030">?</text>
+
+    <!-- lid lines -->
+    <g stroke="#8C7A52" stroke-width="0.8" opacity="0.7">
+      <line x1="140" y1="184" x2="380" y2="184"/>
+      <line x1="175" y1="209" x2="345" y2="209"/>
+    </g>
+
+    <text x="390" y="200" font-family="Georgia, serif" font-size="8" fill="#1D1A17">BOX</text>
+    <text x="390" y="210" font-family="Georgia, serif" font-size="8" fill="#1D1A17">箱</text>
+    <text x="390" y="230" font-family="Georgia, serif" font-size="8" fill="#B44A32">NEVER OPENED</text>
+    <text x="390" y="240" font-family="Georgia, serif" font-size="8" fill="#B44A32">从未打开</text>
+
+    <text x="80" y="340" font-family="Georgia, serif" font-size="8" fill="#1D1A17">Atsuta Shrine, Nagoya / 热田神宫，名古屋</text>
+    <text x="80" y="356" font-family="Georgia, serif" font-size="8" fill="#4A4030">the sword is a shintai / 剑是神体</text>
+    <text x="80" y="372" font-family="Georgia, serif" font-size="8" fill="#6B6256">1185: a sword enters the sea / 1185：一把剑入海</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE MYTH / 神话</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">Susanoo and Yamata no Orochi / 须佐之男与八岐大蛇</text>
+      <text x="520" y="186">a sword in the tail / 蛇尾中的剑</text>
+      <text x="520" y="206">given to Amaterasu / 献给天照大神</text>
+      <text x="520" y="226">Yamato Takeru / 日本武尊</text>
+      <text x="520" y="242">the grass-cutting name / “草薙”之名</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE REALITY / 现实</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Atsuta Shrine, Nagoya / 热田神宫，名古屋</text>
+      <text x="520" y="330">never displayed / 从不展出</text>
+      <text x="520" y="348">a shintai, not an artefact / 是神体，不是文物</text>
+      <text x="520" y="366">2019: presented in a box / 2019：装在箱中呈送</text>
+      <text x="520" y="382">no independent examination / 没有独立检验</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The most important sword in Japan is the one no one can see.</text>
+    <text x="60" y="470">日本最重要的剑，是一把没有人能看见的剑。</text>
+    <text x="60" y="494" fill="#B44A32">The Kusanagi is a religious object, not a verified museum artefact. / 草薙剑是宗教对象，不是经过验证的博物馆文物。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

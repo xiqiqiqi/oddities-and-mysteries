@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Magnetic Hill optical illusion</title>
+  <desc id="desc">A comparison of the apparent uphill slope and the real downhill slope at Magnetic Hill, with a car and a hidden horizon.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">MAGNETIC HILL · ILLUSION</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">WHAT YOU SEE / WHAT IS THERE / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="370" height="260" fill="#DCE6D8"/>
+    <text x="80" y="140" font-family="Georgia, serif" font-size="11" fill="#1D1A17">WHAT YOU SEE / 你看到的</text>
+    <path d="M80 330 L 410 250" stroke="#6B4A32" stroke-width="3"/>
+    <path d="M80 330 L 410 250 L 410 360 L 80 360 Z" fill="#D9C6A5" opacity=".5"/>
+    <g>
+      <rect x="280" y="248" width="64" height="30" rx="6" fill="#6FA8C8" stroke="#1D1A17" stroke-width="1.5"/>
+      <circle cx="292" cy="282" r="7" fill="#1D1A17"/>
+      <circle cx="332" cy="282" r="7" fill="#1D1A17"/>
+    </g>
+    <path d="M312 240 L 312 210" stroke="#B44A32" stroke-width="3"/>
+    <path d="M312 210 L 304 220 M312 210 L 320 220" stroke="#B44A32" stroke-width="3" fill="none"/>
+    <text x="250" y="202" font-family="Georgia, serif" font-size="10" fill="#B44A32">apparent uphill / 看起来上坡</text>
+    <text x="90" y="356" font-family="Georgia, serif" font-size="10" fill="#6B6256">horizon hidden / 地平线被遮挡</text>
+  </g>
+
+  <g>
+    <rect x="470" y="112" width="370" height="260" fill="#EFE6D6"/>
+    <text x="490" y="140" font-family="Georgia, serif" font-size="11" fill="#1D1A17">WHAT IS THERE / 实际坡度</text>
+    <path d="M490 250 L 820 330" stroke="#6B4A32" stroke-width="3"/>
+    <path d="M490 250 L 820 330 L 820 360 L 490 360 Z" fill="#D9C6A5" opacity=".5"/>
+    <path d="M490 250 H 820" stroke="#1D1A17" stroke-width="1.5" stroke-dasharray="6 5"/>
+    <g>
+      <rect x="690" y="276" width="64" height="30" rx="6" fill="#6FA8C8" stroke="#1D1A17" stroke-width="1.5"/>
+      <circle cx="702" cy="310" r="7" fill="#1D1A17"/>
+      <circle cx="742" cy="310" r="7" fill="#1D1A17"/>
+    </g>
+    <path d="M722 322 L 722 352" stroke="#B44A32" stroke-width="3"/>
+    <path d="M722 352 L 714 342 M722 352 L 730 342" stroke="#B44A32" stroke-width="3" fill="none"/>
+    <text x="700" y="368" font-family="Georgia, serif" font-size="10" fill="#B44A32">real downhill / 实际下坡</text>
+    <text x="560" y="238" font-family="Georgia, serif" font-size="10" fill="#6B6256">true level / 真实水平线</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="420">The car rolls downhill; the brain reads the slope as uphill because the horizon is hidden.</text>
+    <text x="60" y="438">车实际在下坡；地平线被遮挡，大脑把坡度读成了上坡。</text>
+    <text x="60" y="462">A spirit level shows the true slope. / 水平仪可以测出真实坡度。</text>
+    <text x="60" y="486" fill="#B44A32">No magnetic anomaly has been detected. / 没有检测到磁异常。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The grid, drains, and Great Bath of Mohenjo-daro</title>
+  <desc id="desc">A schematic city plan with a grid of streets, covered drains, wells, and the Great Bath, plus a section of the bath and a list of what archaeologists have not found.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">MOHENJO-DARO · c. 2500 BCE</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">STREETS / DRAINS / GREAT BATH</text>
+
+  <g>
+    <rect x="60" y="112" width="460" height="280" fill="#EFE6D6"/>
+
+    <!-- citadel -->
+    <rect x="80" y="130" width="420" height="28" fill="#D9C6A5" stroke="#8C7A52" stroke-width="1"/>
+    <text x="90" y="149" font-family="Georgia, serif" font-size="9" fill="#4A4030">citadel / 高地</text>
+
+    <!-- blocks -->
+    <g fill="#E2DCC8" stroke="#B8A582" stroke-width="1">
+      <rect x="84" y="166" width="48" height="56"/>
+      <rect x="148" y="166" width="64" height="56"/>
+      <rect x="228" y="166" width="64" height="56"/>
+      <rect x="308" y="166" width="64" height="56"/>
+      <rect x="388" y="166" width="104" height="56"/>
+
+      <rect x="84" y="236" width="48" height="56"/>
+      <rect x="148" y="236" width="64" height="56"/>
+      <rect x="228" y="236" width="64" height="56"/>
+      <rect x="308" y="236" width="64" height="56"/>
+      <rect x="388" y="236" width="104" height="56"/>
+
+      <rect x="84" y="306" width="48" height="56"/>
+      <rect x="148" y="306" width="64" height="56"/>
+      <rect x="228" y="306" width="64" height="56"/>
+      <rect x="388" y="306" width="104" height="56"/>
+    </g>
+
+    <!-- houses -->
+    <g fill="#C9B48C">
+      <rect x="92" y="176" width="14" height="12"/>
+      <rect x="110" y="176" width="14" height="12"/>
+      <rect x="156" y="176" width="18" height="12"/>
+      <rect x="180" y="176" width="18" height="12"/>
+      <rect x="236" y="176" width="18" height="12"/>
+      <rect x="260" y="176" width="18" height="12"/>
+      <rect x="316" y="176" width="18" height="12"/>
+      <rect x="340" y="176" width="18" height="12"/>
+      <rect x="396" y="176" width="18" height="12"/>
+      <rect x="420" y="176" width="18" height="12"/>
+      <rect x="444" y="176" width="18" height="12"/>
+
+      <rect x="92" y="246" width="14" height="12"/>
+      <rect x="110" y="246" width="14" height="12"/>
+      <rect x="156" y="246" width="18" height="12"/>
+      <rect x="180" y="246" width="18" height="12"/>
+      <rect x="236" y="246" width="18" height="12"/>
+      <rect x="260" y="246" width="18" height="12"/>
+      <rect x="316" y="246" width="18" height="12"/>
+      <rect x="340" y="246" width="18" height="12"/>
+      <rect x="396" y="246" width="18" height="12"/>
+      <rect x="420" y="246" width="18" height="12"/>
+      <rect x="444" y="246" width="18" height="12"/>
+
+      <rect x="92" y="316" width="14" height="12"/>
+      <rect x="110" y="316" width="14" height="12"/>
+      <rect x="156" y="316" width="18" height="12"/>
+      <rect x="180" y="316" width="18" height="12"/>
+      <rect x="236" y="316" width="18" height="12"/>
+      <rect x="260" y="316" width="18" height="12"/>
+      <rect x="396" y="316" width="18" height="12"/>
+      <rect x="420" y="316" width="18" height="12"/>
+      <rect x="444" y="316" width="18" height="12"/>
+    </g>
+
+    <!-- drains -->
+    <g stroke="#6FA8C8" stroke-width="2" stroke-dasharray="5 3">
+      <path d="M80 226 H 500"/>
+      <path d="M80 296 H 500"/>
+      <path d="M80 366 H 500"/>
+    </g>
+
+    <!-- Great Bath -->
+    <rect x="312" y="312" width="64" height="40" fill="#C9DEE6" stroke="#4A6B7A" stroke-width="1.5"/>
+    <g stroke="#4A6B7A" stroke-width="1">
+      <path d="M318 322 H 370 M318 332 H 370 M318 342 H 370"/>
+    </g>
+
+    <!-- wells -->
+    <g fill="#4A6B7A">
+      <circle cx="120" cy="288" r="2.5"/>
+      <circle cx="200" cy="288" r="2.5"/>
+      <circle cx="280" cy="288" r="2.5"/>
+      <circle cx="430" cy="288" r="2.5"/>
+      <circle cx="120" cy="358" r="2.5"/>
+      <circle cx="280" cy="358" r="2.5"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17">
+      <text x="88" y="272">covered drains / 下水道</text>
+      <text x="390" y="302">Great Bath / 大浴池</text>
+      <text x="88" y="382">wells / 水井</text>
+    </g>
+    <path d="M150 268 L 150 296" stroke="#1D1A17" stroke-width="1"/>
+    <path d="M388 300 L 376 318" stroke="#1D1A17" stroke-width="1"/>
+  </g>
+
+  <g>
+    <rect x="550" y="112" width="290" height="134" fill="#EFE6D6"/>
+    <text x="570" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE GREAT BATH / 大浴池</text>
+
+    <path d="M570 185 H 820" stroke="#8C7A52" stroke-width="1.5"/>
+    <path d="M610 185 V 215 H 760 V 185" fill="none" stroke="#4A6B7A" stroke-width="2"/>
+    <path d="M610 199 H 760" stroke="#6FA8C8" stroke-width="1.5"/>
+    <path d="M610 213 H 760" stroke="#4A4030" stroke-width="3"/>
+    <g stroke="#4A6B7A" stroke-width="1">
+      <path d="M610 215 L 620 203 M620 215 L 630 203 M630 215 L 640 203"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#4A4030">
+      <text x="640" y="230">12 × 7 m · 2.4 m deep</text>
+      <text x="640" y="242" fill="#6B6256">bitumen waterproofing / 沥青防水</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="550" y="258" width="290" height="134" fill="#EFE6D6"/>
+    <text x="570" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">WHAT IS MISSING / 缺了什么</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="570" y="312">no clear palace / 没有明显的宫殿</text>
+      <text x="570" y="332">no royal tomb / 没有王陵</text>
+      <text x="570" y="352">script undeciphered / 文字未释读</text>
+      <text x="570" y="372" fill="#B44A32">decline cause unclear / 衰落原因不明</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The streets were laid out on a grid, with covered drains beneath them.</text>
+    <text x="60" y="470">街道按网格排列，下面有加盖的下水道。</text>
+    <text x="60" y="494" fill="#B44A32">The “ancient nuclear blast” is a modern myth, not archaeology. / “古代核爆炸”是现代传说，不是考古结论。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

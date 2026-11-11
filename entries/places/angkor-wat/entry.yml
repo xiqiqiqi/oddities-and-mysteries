@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: angkor-wat
+title_zh: 丛林里的庙城
+title_en: The Temple in the Jungle
+era: "约 1113–1150 年"
+era_en: "c. 1113–1150 CE"
+region: 柬埔寨，暹粒
+region_en: "Siem Reap, Cambodia"
+coords: [13.412, 103.867]
+tags:
+  - 吴哥窟
+  - 高棉
+  - 寺庙
+  - 热带
+  - 吴哥
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Angkor Wat"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Angkor_Wat
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 建造年代、形制、浮雕、水利系统与保护状况
+  - id: S2
+    title: "APSARA National Authority · Angkor Wat"
+    publisher: APSARA National Authority (Cambodia)
+    url: https://apsaraauthority.gov.kh/2021/06/14/angkor-wat/
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 建造者、面积、宗教功能与世界遗产信息
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与寺庙布局、水利系统示意；不是航拍照片
+cover: ../../../assets/covers/angkor-wat.jpg
+related:
+  - gobekli-tepe
+  - lalibela
+status: review
+featured: false
+translation_status: translated

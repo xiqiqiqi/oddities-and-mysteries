@@ -1,0 +1,55 @@
+channel: places
+type: place
+slug: myrtles-plantation
+title_zh: 门廊上的枪声
+title_en: The Shot on the Porch
+era: "1796 年"
+era_en: "1796"
+region: 美国，路易斯安那，圣弗朗西斯维尔
+region_en: "St. Francisville, Louisiana, USA"
+coords: [30.786, -91.375]
+tags:
+  - 默特尔种植园
+  - 闹鬼
+  - 克洛伊
+  - 路易斯安那
+  - 种植园
+  - 镜子
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · The Myrtles"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/The_Myrtles
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1796 年建屋、布拉德福德与斯特林家族、1871 年温特谋杀
+  - id: S2
+    title: "The Myrtles · History & Culture"
+    publisher: The Myrtles Plantation
+    url: https://themyrtles.com/pages/history-culture
+    year: "2026"
+    license: 版权归 The Myrtles；仅作事实参考
+    usage: 庄园年表、1834 年改名、1976 年修复、1992 年照片与旅馆现状
+  - id: S3
+    title: "American Hauntings · The Myrtles Plantation: Legends, Lore and Lies"
+    publisher: American Hauntings
+    url: https://www.americanhauntingsink.com/myrtles
+    year: "2026"
+    license: 版权归 American Hauntings；仅作事实参考
+    usage: 十起谋杀说法的核查、克洛伊传说的史料缺口、黄热病死亡记录
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面庄园黄昏场景复原、家族与传说时间线；不是现场照片
+cover: ../../../assets/covers/myrtles-plantation.jpg
+related:
+  - winchester-mystery-house
+  - cecil-hotel
+status: review
+featured: false
+translation_status: translated

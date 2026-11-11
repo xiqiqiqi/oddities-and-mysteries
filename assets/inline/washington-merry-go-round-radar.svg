@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Washington radar contacts, July 1952</title>
+  <desc id="desc">A schematic radar scope with unidentified returns, and a map of Washington, Andrews Air Force Base, and the intercept course from New Castle.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">WASHINGTON · JULY 1952</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">RADAR CONTACTS / SCHEMATIC</text>
+
+  <g transform="translate(230 290)">
+    <circle r="150" fill="#1D1A17"/>
+    <g fill="none" stroke="#F3EEE4" stroke-width="1" opacity=".28">
+      <circle r="50"/>
+      <circle r="100"/>
+      <circle r="150"/>
+      <path d="M-150 0 H150"/>
+      <path d="M0 -150 V150"/>
+      <path d="M-106 -106 L106 106"/>
+      <path d="M-106 106 L106 -106"/>
+    </g>
+    <path d="M0 0 L-90 -118 A150 150 0 0 1 60 -138 Z" fill="#D99A2B" opacity=".16"/>
+    <g fill="#D99A2B">
+      <circle cx="-54" cy="-74" r="5"/>
+      <circle cx="10" cy="-102" r="5"/>
+      <circle cx="66" cy="-46" r="5"/>
+      <circle cx="92" cy="22" r="5"/>
+      <circle cx="-28" cy="54" r="5"/>
+      <circle cx="-96" cy="18" r="5"/>
+    </g>
+    <circle r="4" fill="#B44A32"/>
+    <text x="-40" y="176" font-family="Georgia, serif" font-size="11" fill="#6B6256">WASHINGTON NATIONAL / 国家机场雷达</text>
+  </g>
+
+  <g>
+    <path d="M560 150 C 610 180, 600 230, 650 250 S 730 240, 760 280 S 800 330, 840 340" fill="none" stroke="#6FA8C8" stroke-width="10" opacity=".35"/>
+    <path d="M560 150 C 610 180, 600 230, 650 250 S 730 240, 760 280 S 800 330, 840 340" fill="none" stroke="#1D1A17" stroke-width="1" opacity=".35"/>
+    <g fill="#1D1A17">
+      <rect x="612" y="214" width="26" height="26"/>
+      <path d="M625 214 L633 198 L641 214 Z"/>
+      <circle cx="742" cy="286" r="7"/>
+    </g>
+    <g font-family="Georgia, serif" font-size="12" fill="#1D1A17">
+      <text x="652" y="230">CAPITOL</text>
+      <text x="650" y="247" font-size="10" fill="#6B6256">国会大厦</text>
+      <text x="756" y="290">ANDREWS AFB</text>
+      <text x="756" y="306" font-size="10" fill="#6B6256">安德鲁斯基地</text>
+    </g>
+    <path d="M560 400 C 600 360, 640 360, 680 330" fill="none" stroke="#B44A32" stroke-width="2" stroke-dasharray="6 5"/>
+    <path d="M680 330 L 668 336 L 674 322 Z" fill="#B44A32"/>
+    <text x="500" y="425" font-family="Georgia, serif" font-size="12" fill="#B44A32">F-94 INTERCEPT / 拦截航线</text>
+    <text x="500" y="445" font-family="Georgia, serif" font-size="10" fill="#6B6256">FROM NEW CASTLE AFB, DELAWARE</text>
+    <text x="500" y="462" font-family="Georgia, serif" font-size="10" fill="#6B6256">目标在战机抵达时消失</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

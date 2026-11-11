@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: angel-hair
+title_zh: 天上落下的白丝
+title_en: The White Threads That Fell from the Sky
+era: "1954 年 10 月（意大利报告）"
+era_en: "October 1954 (Italian reports)"
+region: 意大利，佛罗伦萨
+region_en: "Florence, Italy"
+coords: [43.77, 11.25]
+tags:
+  - 天使头发
+  - 天降异物
+  - 佛罗伦萨
+  - 不明飞行物
+  - 蛛丝
+collections:
+  - celestial-visitors
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Angel hair (folklore)"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Angel_hair_(folklore)
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 现象描述、1954 年意大利报告、常见解释
+  - id: S2
+    title: "Wikipedia · Spider silk"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Spider_silk
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 蛛丝的形成、飘散与外观
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与事件经过示意；不是历史照片
+cover: ../../../assets/covers/angel-hair.jpg
+related:
+  - fish-rain
+  - ball-lightning
+status: review
+featured: false
+translation_status: translated

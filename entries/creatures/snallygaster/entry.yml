@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: snallygaster
+title_zh: 报纸养大的怪物
+title_en: The Monster the Newspapers Built
+era: "1909"
+era_en: "1909"
+region: 美国，马里兰，弗雷德里克县
+region_en: "Frederick County, Maryland, United States"
+coords: [39.414, -77.410]
+tags:
+  - 斯纳利加斯特
+  - 马里兰
+  - 报纸
+  - 骗局
+  - 民间传说
+collections: []
+credibility: hoax
+sources:
+  - id: S1
+    title: "Wikipedia · Snallygaster"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Snallygaster
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1909 年报道、报社编辑与记者、德国传说来源
+  - id: S2
+    title: "Maryland Historical Trust · The Snallygaster and the Shadows of Fear"
+    publisher: Maryland Historical Trust
+    url: https://mdhistoricaltrust.wordpress.com/2025/10/31/the-snallygaster-shadows-fear/
+    year: "2025"
+    license: 版权归 Maryland Historical Trust；仅作事实参考
+    usage: 1909 年系列报道、 Smithsonian 与罗斯福的传闻、七角星
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面 1909 年报社与夜间农场场景复原、报道传播示意；不是历史照片
+cover: ../../../assets/covers/snallygaster.jpg
+related:
+  - mothman
+  - black-eyed-children
+status: review
+featured: false
+translation_status: translated

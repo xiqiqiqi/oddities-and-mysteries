@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: bristol-hum
+title_zh: 布里斯托的嗡嗡声
+title_en: The Bristol Hum
+era: "1970 年代"
+era_en: "1970s"
+region: 英国，布里斯托
+region_en: "Bristol, England"
+coords: [51.4545, -2.5879]
+tags:
+  - 布里斯托嗡鸣
+  - 低频噪音
+  - 听觉现象
+  - 英国
+  - 1970s
+collections:
+  - strange-sounds
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Bristol Hum"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Bristol_Hum
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 目击报告、调查经过、类似现象
+  - id: S2
+    title: "BBC · Bristol Hum coverage"
+    publisher: BBC
+    url: https://www.bbc.co.uk/
+    year: "2026"
+    license: BBC 网站使用条款
+    usage: 当地报道与背景核对；具体文章待补
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与低频波形示意图；不是历史照片
+cover: ../../../assets/covers/bristol-hum.jpg
+related:
+  - hessdalen-lights
+  - wanggongchang-1626
+status: review
+featured: false
+translation_status: translated

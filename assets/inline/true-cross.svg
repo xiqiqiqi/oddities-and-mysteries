@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The True Cross: Helena's discovery, the fragments and Calvin's objection</title>
+  <desc id="desc">A five-stage timeline from Helena's pilgrimage to Calvin's treatise, with panels on the relic and on the problem of authenticity.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE TRUE CROSS · SPLINTERS OF WOOD</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">HELENA / JERUSALEM / THE FRAGMENTS</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="132" font-family="Georgia, serif" font-size="8" fill="#6B6256">FIVE STAGES / 五个阶段</text>
+
+    <path d="M95 160 V 340" stroke="#8C7A52" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="95" cy="160" r="3.5"/>
+      <circle cx="95" cy="205" r="3.5"/>
+      <circle cx="95" cy="250" r="3.5"/>
+      <circle cx="95" cy="295" r="3.5"/>
+      <circle cx="95" cy="340" r="3.5"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="9" fill="#1D1A17">
+      <text x="115" y="160">c. 326 · JERUSALEM / 耶路撒冷</text>
+      <text x="115" y="205">THE FIND / 发现</text>
+      <text x="115" y="250">THE TEST / 验证</text>
+      <text x="115" y="295">4TH C. · DISTRIBUTION / 分送</text>
+      <text x="115" y="340">1543 · CALVIN / 卡尔文</text>
+    </g>
+    <g font-family="Georgia, serif" font-size="8" fill="#4A4030">
+      <text x="115" y="180">海伦娜的朝圣，拆神庙、挖地基</text>
+      <text x="115" y="225">三块木头，一块写着“犹太人的王”</text>
+      <text x="115" y="270">触碰病人，第三块让人痊愈</text>
+      <text x="115" y="315">君士坦丁堡、罗马、耶路撒冷</text>
+      <text x="115" y="360">碎片多到可以装满一艘船</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE RELIC / 圣物</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">three crosses found / 找到三块木头</text>
+      <text x="520" y="186">Holy Sepulchre / 圣墓教堂</text>
+      <text x="520" y="204">fragments in reliquaries</text>
+      <text x="520" y="220">碎片装进金匣、银匣</text>
+      <text x="520" y="240">14 September / 光荣十字圣架节</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE PROBLEM / 问题</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">no continuous provenance</text>
+      <text x="520" y="328">没有连续的收藏记录</text>
+      <text x="520" y="348">medieval relic trade / 中世纪的圣物交易</text>
+      <text x="520" y="366">dating the wood is not enough</text>
+      <text x="520" y="382">测出木材年代也不能证明来源</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Helena's discovery is described by late fourth-century writers.</text>
+    <text x="60" y="470">海伦娜的发现，见于公元 4 世纪后期的作者。</text>
+    <text x="60" y="494" fill="#B44A32">No fragment can be independently traced to the cross of Jesus. / 没有碎片能被独立追溯到耶稣的十字架。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

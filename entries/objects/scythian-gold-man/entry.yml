@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: scythian-gold-man
+title_zh: 金人
+title_en: The Golden Man
+era: "约公元前 4 世纪"
+era_en: "c. 4th century BCE"
+region: 哈萨克斯坦，伊塞克
+region_en: "Issyk, Kazakhstan"
+coords: [43.355, 77.46]
+tags:
+  - 金人
+  - 斯基泰
+  - 伊塞克古墓
+  - 塞克人
+  - 草原考古
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Issyk kurgan"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Issyk_kurgan
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1969 年发掘、金器数量、墓葬年代与金人身份争论
+  - id: S2
+    title: "e-history.kz · Who Was the Golden Man Really?"
+    publisher: e-history.kz
+    url: https://e-history.kz/en/news/show/50001638
+    year: "2026"
+    license: 版权归 e-history.kz；仅作事实参考
+    usage: 阿基舍夫的发掘、性别争论与草原亚马逊假说
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面金人墓葬场景复原、金冠纹样与发现时间线；不是文物照片
+cover: ../../../assets/covers/scythian-gold-man.jpg
+related:
+  - tutankhamun-mask
+  - jade-burial-suit
+status: review
+featured: false
+translation_status: translated

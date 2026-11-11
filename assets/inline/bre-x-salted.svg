@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">How the Bre-X samples were salted, and the share price</title>
+  <desc id="desc">A four-step schematic of drill cores being crushed and salted with gold before assaying, and an approximate share price chart rising to a peak in 1996 and collapsing in 1997.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">BRE-X · SALTED SAMPLES</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">BUSANG / 1993–1997 / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="460" height="280" fill="#EFE6D6"/>
+    <text x="80" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">HOW THE SAMPLES WERE SALTED / 样本是怎么被掺金的</text>
+
+    <!-- step 1: core -->
+    <g fill="#C9B48C" stroke="#6B4A32" stroke-width="1.2">
+      <rect x="94" y="180" width="52" height="18" rx="3"/>
+      <path d="M94 189 H 146" stroke="#6B4A32" stroke-width="1"/>
+    </g>
+    <text x="92" y="222" font-family="Georgia, serif" font-size="9" fill="#1D1A17">drill core</text>
+    <text x="98" y="234" font-family="Georgia, serif" font-size="9" fill="#6B6256">岩芯</text>
+
+    <!-- step 2: crusher -->
+    <g>
+      <rect x="200" y="174" width="40" height="30" fill="#E2DCC8" stroke="#6B4A32" stroke-width="1.2"/>
+      <circle cx="210" cy="189" r="6" fill="#8C7A52"/>
+      <circle cx="230" cy="189" r="6" fill="#8C7A52"/>
+      <path d="M200 174 V 166 H 240 V 174" fill="none" stroke="#6B4A32" stroke-width="1.2"/>
+    </g>
+    <text x="198" y="222" font-family="Georgia, serif" font-size="9" fill="#1D1A17">crushed</text>
+    <text x="204" y="234" font-family="Georgia, serif" font-size="9" fill="#6B6256">粉碎</text>
+
+    <!-- step 3: gold added -->
+    <g fill="#D99A2B">
+      <circle cx="312" cy="180" r="2.5"/>
+      <circle cx="320" cy="188" r="2.5"/>
+      <circle cx="330" cy="178" r="2.5"/>
+      <circle cx="338" cy="190" r="2.5"/>
+      <circle cx="318" cy="198" r="2.5"/>
+      <circle cx="332" cy="202" r="2.5"/>
+    </g>
+    <path d="M306 196 C 314 188, 322 196, 330 186" fill="none" stroke="#B44A32" stroke-width="1.5" stroke-dasharray="3 2"/>
+    <text x="304" y="222" font-family="Georgia, serif" font-size="9" fill="#1D1A17">gold added</text>
+    <text x="312" y="234" font-family="Georgia, serif" font-size="9" fill="#6B6256">掺入金粒</text>
+
+    <!-- step 4: assay -->
+    <g>
+      <path d="M406 204 V 172 M406 204 H 448" fill="none" stroke="#4A4030" stroke-width="1.2"/>
+      <path d="M412 198 L 424 188 L 434 192 L 444 176" fill="none" stroke="#B44A32" stroke-width="2"/>
+    </g>
+    <text x="402" y="222" font-family="Georgia, serif" font-size="9" fill="#1D1A17">high assay</text>
+    <text x="410" y="234" font-family="Georgia, serif" font-size="9" fill="#6B6256">化验值偏高</text>
+
+    <!-- arrows -->
+    <g stroke="#8C7A52" stroke-width="1.5" fill="none">
+      <path d="M154 189 H 190 M184 184 L 190 189 L 184 194"/>
+      <path d="M246 189 H 292 M286 184 L 292 189 L 286 194"/>
+      <path d="M350 189 H 396 M390 184 L 396 189 L 390 194"/>
+    </g>
+
+    <text x="80" y="282" font-family="Georgia, serif" font-size="9" fill="#4A4030">the gold came from a wedding ring, then from local panning</text>
+    <text x="80" y="296" font-family="Georgia, serif" font-size="9" fill="#6B6256">金子先来自结婚戒指，后来从当地淘金者处购买</text>
+    <text x="80" y="340" font-family="Georgia, serif" font-size="10" fill="#B44A32">the deposit was never there / 金矿从来不存在</text>
+  </g>
+
+  <g>
+    <rect x="550" y="112" width="290" height="280" fill="#EFE6D6"/>
+    <text x="570" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">SHARE PRICE / 股价</text>
+    <text x="570" y="154" font-family="Georgia, serif" font-size="8" fill="#6B6256">approximate / 大致走势</text>
+
+    <path d="M575 300 H 815 M575 165 V 300" fill="none" stroke="#4A4030" stroke-width="1.2"/>
+    <path d="M575 298 L 635 290 L 695 252 L 755 172 L 780 178 L 795 268 L 815 296" fill="none" stroke="#B44A32" stroke-width="2"/>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#6B6256">
+      <text x="566" y="316">1993</text>
+      <text x="626" y="316">1994</text>
+      <text x="686" y="316">1995</text>
+      <text x="746" y="316">1996</text>
+      <text x="806" y="316">1997</text>
+    </g>
+    <circle cx="755" cy="172" r="4" fill="#B44A32"/>
+    <text x="690" y="166" font-family="Georgia, serif" font-size="8" fill="#B44A32">C$286 / 1996</text>
+    <text x="762" y="288" font-family="Georgia, serif" font-size="8" fill="#B44A32">1997</text>
+
+    <text x="570" y="348" font-family="Georgia, serif" font-size="9" fill="#1D1A17">market value ~C$6 billion</text>
+    <text x="570" y="362" font-family="Georgia, serif" font-size="9" fill="#6B6256">市值约 60 亿加元</text>
+    <text x="570" y="380" font-family="Georgia, serif" font-size="8" fill="#B44A32">fraud exposed / 骗局被揭穿</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The drill cores were salted with gold before they went to the lab.</text>
+    <text x="60" y="470">岩芯在送检前被人为掺进了金粒。</text>
+    <text x="60" y="494" fill="#B44A32">Freeport's own drilling and an independent review found no mineable gold. / 自由港自己的钻探和独立复核都没有发现可开采的金矿。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

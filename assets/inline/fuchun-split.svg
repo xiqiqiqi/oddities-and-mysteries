@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Dwelling in the Fuchun Mountains: the fire, the split, and the reunion</title>
+  <desc id="desc">A schematic handscroll with a burned gap in the middle, the two halves labelled with their collections, and a timeline from the Yuan dynasty to the 2011 reunion.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">DWELLING IN THE FUCHUN MOUNTAINS</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">c. 1350 / FIRE / REUNION</text>
+
+  <g>
+    <rect x="60" y="112" width="460" height="280" fill="#EFE6D6"/>
+
+    <rect x="80" y="180" width="420" height="110" fill="#F7F1E4" stroke="#8C7A52" stroke-width="1.5"/>
+
+    <!-- ink landscape -->
+    <g fill="#B8A582" opacity="0.55">
+      <path d="M100 260 L 130 210 L 160 260 Z"/>
+      <path d="M140 260 L 175 195 L 210 260 Z"/>
+      <path d="M200 260 L 230 225 L 260 260 Z"/>
+      <path d="M330 260 L 360 205 L 390 260 Z"/>
+      <path d="M370 260 L 405 220 L 440 260 Z"/>
+    </g>
+    <g stroke="#6B4A32" stroke-width="1">
+      <path d="M110 260 V 280 M118 260 V 275 M350 260 V 278 M360 260 V 272"/>
+    </g>
+    <path d="M100 265 H 470" stroke="#6FA8C8" stroke-width="1.5"/>
+    <path d="M240 268 L 256 268 L 252 274 L 244 274 Z" fill="#6B4A32"/>
+
+    <!-- burn gap -->
+    <path d="M300 180 L 312 188 L 306 200 L 316 210 L 304 222 L 314 232 L 302 244 L 312 254 L 300 266 L 308 278 L 298 290 L 306 296 L 296 290 L 302 278 L 292 266 L 302 254 L 292 244 L 300 232 L 290 222 L 300 210 L 292 200 L 298 188 Z" fill="#3F2E1E"/>
+
+    <text x="250" y="160" font-family="Georgia, serif" font-size="8" fill="#B44A32">burned in 1650 / 1650 年火烧</text>
+    <path d="M292 164 L 300 184" stroke="#B44A32" stroke-width="1"/>
+
+    <text x="88" y="314" font-family="Georgia, serif" font-size="8" fill="#1D1A17">剩山图 · 51.4 cm · 杭州</text>
+    <text x="320" y="314" font-family="Georgia, serif" font-size="8" fill="#1D1A17">无用师卷 · 636.9 cm · 台北</text>
+    <text x="88" y="342" font-family="Georgia, serif" font-size="8" fill="#6B6256">not to scale / 不按比例</text>
+  </g>
+
+  <g>
+    <rect x="540" y="112" width="300" height="280" fill="#EFE6D6"/>
+    <text x="560" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE STORY / 经过</text>
+
+    <path d="M576 160 V 330" stroke="#1D1A17" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="576" cy="170" r="4"/>
+      <circle cx="576" cy="212" r="4"/>
+      <circle cx="576" cy="254" r="4"/>
+      <circle cx="576" cy="296" r="4"/>
+    </g>
+
+    <g font-family="Georgia, serif">
+      <text x="590" y="168" font-size="8" fill="#1D1A17">c. 1350</text>
+      <text x="590" y="180" font-size="8" fill="#6B6256">painted by Huang Gongwang / 黄公望作画</text>
+
+      <text x="590" y="210" font-size="8" fill="#1D1A17">1650</text>
+      <text x="590" y="222" font-size="8" fill="#6B6256">fire; split in two / 火烧断卷</text>
+
+      <text x="590" y="252" font-size="8" fill="#1D1A17">1948</text>
+      <text x="590" y="264" font-size="8" fill="#6B6256">second half to Taiwan / 后段运台</text>
+
+      <text x="590" y="294" font-size="8" fill="#1D1A17">2011</text>
+      <text x="590" y="306" font-size="8" fill="#6B6256">reunited in Taipei / 台北合璧</text>
+    </g>
+
+    <text x="560" y="360" font-family="Georgia, serif" font-size="8" fill="#B44A32">the missing middle cannot be restored</text>
+    <text x="560" y="372" font-family="Georgia, serif" font-size="8" fill="#B44A32">缺失的中间无法复原</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The original scroll was about 7.46 metres long.</text>
+    <text x="60" y="470">原卷长约 7.46 米。</text>
+    <text x="60" y="494" fill="#B44A32">The two halves were shown together in 2011, with a gap between them. / 2011 年两段合展，中间仍有一道缝。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: phoenix-lights
+title_zh: 凤凰城那一夜
+title_en: The Night Over Phoenix
+era: "1997 年 3 月 13 日"
+era_en: "13 March 1997"
+region: 美国，亚利桑那州凤凰城
+region_en: "Phoenix, Arizona, United States"
+coords: [33.448, -112.074]
+tags:
+  - 凤凰城光点
+  - UFO
+  - 照明弹
+  - 亚利桑那
+  - 集体目击
+collections:
+  - strange-lights
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Phoenix Lights"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Phoenix_Lights
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 目击时间线、目击范围、照明弹解释
+  - id: S2
+    title: "Wikipedia · Fife Symington"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Fife_Symington
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 州长记者会与后来的目击表态
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与两段目击时间线；不是历史照片
+cover: ../../../assets/covers/phoenix-lights.jpg
+related:
+  - washington-merry-go-round
+  - shag-harbour
+status: review
+featured: false
+translation_status: translated

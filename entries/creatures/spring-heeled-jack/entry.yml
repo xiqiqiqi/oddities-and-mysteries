@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: spring-heeled-jack
+title_zh: 弹簧腿杰克
+title_en: Spring-Heeled Jack
+era: "1837–1904"
+era_en: "1837–1904"
+region: 英国，伦敦及各地
+region_en: "London and elsewhere in Britain"
+coords: [51.507, -0.128]
+tags:
+  - 弹簧腿杰克
+  - 维多利亚时代
+  - 都市传说
+  - 伦敦
+  - 怪人
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Spring-heeled Jack"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Spring-heeled_Jack
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 目击报告、1838 年市政信件、后续传说与解释
+  - id: S2
+    title: "Wikipedia · Penny dreadful"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Penny_dreadful
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 十九世纪通俗读物与弹簧腿杰克形象的大众化
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与目击地点示意；不是历史照片
+cover: ../../../assets/covers/spring-heeled-jack.jpg
+related:
+  - loch-ness
+  - angel-hair
+status: review
+featured: false
+translation_status: translated

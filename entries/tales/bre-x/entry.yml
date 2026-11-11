@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: bre-x
+title_zh: 金矿里没有金子
+title_en: The Gold Mine With No Gold
+era: "1993–1997"
+era_en: "1993–1997"
+region: 印度尼西亚，东加里曼丹，布桑
+region_en: "Busang, East Kalimantan, Indonesia"
+coords: [0.5, 116.5]
+tags:
+  - 布雷-X
+  - 金矿
+  - 诈骗
+  - 加拿大
+  - 1997
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Bre-X"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Bre-X
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 公司背景、布桑项目、股价、调查与崩盘经过
+  - id: S2
+    title: "The Independent · Bre-X: world's biggest mining scam"
+    publisher: The Independent
+    url: https://www.independent.co.uk/news/business/brex-worlds-biggest-mining-scam-1260057.html
+    year: "1997"
+    license: 版权所有；仅作事实参考
+    usage: 独立顾问报告、样本造假结论与市场反应
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面钻探营地复原与掺金流程、股价示意；不是现场照片
+cover: ../../../assets/covers/bre-x.jpg
+related:
+  - piltdown-man
+  - crystal-skulls
+status: review
+featured: false
+translation_status: translated

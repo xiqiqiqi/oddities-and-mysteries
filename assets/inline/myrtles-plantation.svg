@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Myrtles: the house, the 1871 shooting and the Chloe legend</title>
+  <desc id="desc">A white-columned Louisiana plantation house at dusk under live oaks, with panels on the family timeline, the documented murder and the Chloe legend.</desc>
+  <defs>
+    <linearGradient id="myrtles-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2E3440"/>
+      <stop offset="0.7" stop-color="#4A5A70"/>
+      <stop offset="1" stop-color="#7A8290"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE MYRTLES · 门廊上的枪声</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">1796 / ST. FRANCISVILLE, LOUISIANA / ONE DOCUMENTED MURDER</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE HOUSE AT DUSK / 黄昏宅邸示意</text>
+
+    <!-- scene -->
+    <rect x="72" y="150" width="396" height="190" fill="url(#myrtles-sky)"/>
+    <!-- ground -->
+    <rect x="72" y="306" width="396" height="34" fill="#2E3A2E"/>
+
+    <!-- live oaks -->
+    <path d="M72 306 L 72 210 Q 96 196 110 226 L 110 306 Z" fill="#22301F"/>
+    <path d="M468 306 L 468 196 Q 440 190 430 224 L 430 306 Z" fill="#22301F"/>
+    <g stroke="#8A9A7A" stroke-width="1" opacity="0.7">
+      <path d="M92 220 Q 88 250 94 282" fill="none"/>
+      <path d="M104 232 Q 100 262 106 294" fill="none"/>
+      <path d="M444 214 Q 450 246 444 280" fill="none"/>
+      <path d="M456 228 Q 462 260 456 292" fill="none"/>
+    </g>
+
+    <!-- house -->
+    <path d="M118 220 L 260 172 L 402 220 Z" fill="#3E3A34"/>
+    <rect x="124" y="220" width="272" height="86" fill="#E8DCC4"/>
+    <rect x="124" y="220" width="272" height="8" fill="#C9BFA8"/>
+    <!-- gallery roof -->
+    <rect x="116" y="232" width="288" height="5" fill="#F3EEE4"/>
+    <!-- columns -->
+    <g fill="#F3EEE4">
+      <rect x="132" y="237" width="5" height="69"/>
+      <rect x="166" y="237" width="5" height="69"/>
+      <rect x="200" y="237" width="5" height="69"/>
+      <rect x="234" y="237" width="5" height="69"/>
+      <rect x="268" y="237" width="5" height="69"/>
+      <rect x="302" y="237" width="5" height="69"/>
+      <rect x="336" y="237" width="5" height="69"/>
+      <rect x="370" y="237" width="5" height="69"/>
+    </g>
+    <!-- windows and door -->
+    <g fill="#E8C96A">
+      <rect x="146" y="252" width="12" height="22"/>
+      <rect x="180" y="252" width="12" height="22"/>
+      <rect x="214" y="252" width="12" height="22"/>
+      <rect x="282" y="252" width="12" height="22"/>
+      <rect x="316" y="252" width="12" height="22"/>
+      <rect x="350" y="252" width="12" height="22"/>
+    </g>
+    <rect x="248" y="252" width="16" height="54" fill="#4A4030"/>
+    <rect x="251" y="256" width="10" height="18" fill="#E8C96A"/>
+    <!-- railing -->
+    <line x1="126" y1="292" x2="394" y2="292" stroke="#F3EEE4" stroke-width="1.5"/>
+    <g stroke="#F3EEE4" stroke-width="0.8">
+      <line x1="140" y1="292" x2="140" y2="304"/>
+      <line x1="156" y1="292" x2="156" y2="304"/>
+      <line x1="172" y1="292" x2="172" y2="304"/>
+      <line x1="188" y1="292" x2="188" y2="304"/>
+      <line x1="204" y1="292" x2="204" y2="304"/>
+      <line x1="220" y1="292" x2="220" y2="304"/>
+      <line x1="236" y1="292" x2="236" y2="304"/>
+      <line x1="268" y1="292" x2="268" y2="304"/>
+      <line x1="284" y1="292" x2="284" y2="304"/>
+      <line x1="300" y1="292" x2="300" y2="304"/>
+      <line x1="316" y1="292" x2="316" y2="304"/>
+      <line x1="332" y1="292" x2="332" y2="304"/>
+      <line x1="348" y1="292" x2="348" y2="304"/>
+      <line x1="364" y1="292" x2="364" y2="304"/>
+      <line x1="380" y1="292" x2="380" y2="304"/>
+    </g>
+    <!-- steps -->
+    <rect x="238" y="306" width="36" height="5" fill="#C9BFA8"/>
+    <rect x="232" y="311" width="48" height="5" fill="#B9A98C"/>
+
+    <line x1="300" y1="206" x2="330" y2="258" stroke="#E8896F" stroke-width="0.8"/>
+    <text x="304" y="202" font-family="Georgia, serif" font-size="8" fill="#E8896F">THE PORCH / 门廊</text>
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">1871 / ONE SHOT / 一声枪响</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">the killer was never found / 凶手没有被找到</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE FAMILY / 家族</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">1796 · Laurel Grove / 月桂谷</text>
+      <text x="520" y="186">1817 · Sarah marries Woodruff / 萨拉出嫁</text>
+      <text x="520" y="206">1823–24 · yellow fever / 黄热病</text>
+      <text x="520" y="226">1834 · Stirling renames it / 斯特林改名</text>
+      <text x="520" y="242">1871 · Winter is shot / 温特中枪</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE LEGEND / 传说</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Chloe loses an ear / 克洛伊被割掉耳朵</text>
+      <text x="520" y="330">a green turban / 一条绿头巾</text>
+      <text x="520" y="348">an oleander cake / 夹竹桃蛋糕</text>
+      <text x="520" y="366">handprints on the mirror / 镜子上的手印</text>
+      <text x="520" y="382">no record of her / 档案里没有她</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The house has one murder. The tours have ten.</text>
+    <text x="60" y="470">档案里一起谋杀，导览里十起。</text>
+    <text x="60" y="494" fill="#B44A32">The murder is documented; Chloe is a later story. / 谋杀有记录，克洛伊是后来的故事。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

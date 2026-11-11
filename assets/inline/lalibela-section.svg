@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Section through a Lalibela rock church</title>
+  <desc id="desc">A schematic section showing a church carved downward from volcanic tuff, surrounded by a trench and linked by passages.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">LALIBELA · ROCK CHURCH</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SECTION / CARVED DOWNWARD / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="520" height="300" fill="#D9C6A5" opacity=".45"/>
+    <path d="M60 160 H 580" stroke="#6B4A32" stroke-width="2"/>
+    <path d="M230 160 L 230 360 L 430 360 L 430 160 Z" fill="#F3EEE4" stroke="#6B4A32" stroke-width="1.5"/>
+    <path d="M300 160 L 300 340 L 360 340 L 360 160 Z" fill="#B9A57A" stroke="#6B4A32" stroke-width="2"/>
+    <path d="M300 200 H 360 M300 240 H 360 M300 280 H 360" stroke="#6B4A32" stroke-width="1.5"/>
+    <path d="M230 260 L 300 260 M360 260 L 430 260" stroke="#6B4A32" stroke-width="1.5" stroke-dasharray="4 4"/>
+    <path d="M230 300 L 300 300 M360 300 L 430 300" stroke="#6B4A32" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+    <text x="76" y="150" font-family="Georgia, serif" font-size="10" fill="#6B6256">GROUND LEVEL / 地面</text>
+    <text x="230" y="384" font-family="Georgia, serif" font-size="10" fill="#6B6256">TRENCH / 沟槽</text>
+    <text x="310" y="404" font-family="Georgia, serif" font-size="10" fill="#6B6256">CHURCH / 教堂</text>
+    <text x="450" y="270" font-family="Georgia, serif" font-size="10" fill="#6B6256">PASSAGE / 通道</text>
+    <text x="76" y="440" font-family="Georgia, serif" font-size="10" fill="#6B6256">Volcanic tuff / 火山凝灰岩</text>
+  </g>
+
+  <g>
+    <rect x="610" y="112" width="230" height="300" fill="#EFE6D6" stroke="#1D1A17" stroke-opacity=".15"/>
+    <text x="632" y="140" font-family="Georgia, serif" font-size="11" fill="#1D1A17">PLAN / 平面</text>
+    <path d="M680 200 H 770 V 230 H 800 V 270 H 770 V 300 H 740 V 340 H 710 V 300 H 680 V 270 H 650 V 230 H 680 Z" fill="#B9A57A" stroke="#6B4A32" stroke-width="2"/>
+    <path d="M680 200 H 770 V 230 H 800 V 270 H 770 V 300 H 740 V 340 H 710 V 300 H 680 V 270 H 650 V 230 H 680 Z" fill="none" stroke="#6B4A32" stroke-width="1" stroke-dasharray="4 3" opacity=".6"/>
+    <text x="666" y="366" font-family="Georgia, serif" font-size="10" fill="#6B6256">cruciform / 十字形</text>
+    <text x="632" y="392" font-family="Georgia, serif" font-size="10" fill="#6B6256">Bete Giyorgis / 圣乔治教堂</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="464">Eleven churches, carved from the rock rather than built up.</text>
+    <text x="60" y="482">十一座教堂，从岩石中凿出，而不是向上砌筑。</text>
+    <text x="60" y="504" fill="#B44A32">UNESCO World Heritage, 1978. / 1978 年列入世界遗产。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

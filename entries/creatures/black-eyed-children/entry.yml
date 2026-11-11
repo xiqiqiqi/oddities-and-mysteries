@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: black-eyed-children
+title_zh: 黑眼睛的孩子
+title_en: The Black-Eyed Children
+era: "1996 年起"
+era_en: "Since 1996"
+region: 美国，德克萨斯，阿比林
+region_en: "Abilene, Texas, United States"
+coords: [32.449, -99.733]
+tags:
+  - 黑眼儿童
+  - 都市传说
+  - 德克萨斯
+  - 1996
+  - 网络传说
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Black-eyed children"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Black-eyed_children
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1996 年事件、传播过程、特征与研究意见
+  - id: S2
+    title: "World Urban Legend · Black-Eyed Kids: The Real Origin of the Urban Legend"
+    publisher: World Urban Legend
+    url: https://worldurbanlegend.com/black-eyed-kids-the-real-origin-of-the-urban-legend/
+    year: "2026"
+    license: 版权归 World Urban Legend；仅作事实参考
+    usage: 贝瑟尔的叙述、时间线与后续版本
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面夜间停车场场景复原、传说模式与传播路径示意；不是目击照片
+cover: ../../../assets/covers/black-eyed-children.jpg
+related:
+  - kuchisake-onna
+  - dover-demon
+status: review
+featured: false
+translation_status: translated

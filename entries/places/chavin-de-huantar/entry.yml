@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: chavin-de-huantar
+title_zh: 地下的神庙
+title_en: The Temple Underground
+era: "约公元前 900–200 年"
+era_en: "c. 900–200 BCE"
+region: 秘鲁，安卡什，查文德万塔尔
+region_en: "Chavín de Huántar, Áncash, Peru"
+coords: [-9.594, -77.177]
+tags:
+  - 查文
+  - 安第斯
+  - 神庙
+  - 地下通道
+  - 考古
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "UNESCO · Chavín (Archaeological Site)"
+    publisher: UNESCO World Heritage Centre
+    url: https://whc.unesco.org/en/list/330/
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 世界遗产信息、年代、建筑群与保护状况
+  - id: S2
+    title: "Wikipedia · Chavín de Huántar"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 神庙结构、地下画廊、兰松石与图像系统
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面神庙与山谷场景复原、地下画廊与声学示意；不是现场照片
+cover: ../../../assets/covers/chavin-de-huantar.jpg
+related:
+  - gobekli-tepe
+  - hypogeum
+status: review
+featured: false
+translation_status: translated

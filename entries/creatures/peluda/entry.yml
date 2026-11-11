@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: peluda
+title_zh: 毛茸茸的怪兽
+title_en: The Shaggy Beast
+era: "中世纪"
+era_en: "Medieval"
+region: 法国，萨尔泰，于讷河
+region_en: "Huisne River, Sarthe, France"
+coords: [48.19, 0.66]
+tags:
+  - 佩卢达
+  - 法国
+  - 龙
+  - 于讷河
+  - 中世纪
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Peluda"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Peluda
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 拉费尔泰-贝尔纳、于讷河、外形、洪水传说与袭击
+  - id: S2
+    title: "A Book of Creatures · Velue"
+    publisher: A Book of Creatures
+    url: https://abookofcreatures.com/tag/french-folklore/
+    year: "2026"
+    license: 版权归 A Book of Creatures；仅作事实参考
+    usage: “La Velue”名称、中世纪传说与地方版本
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面河畔怪兽场景复原、外形特征与传说要素示意；不是现场照片
+cover: ../../../assets/covers/peluda.jpg
+related:
+  - dragon
+  - mongolian-death-worm
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="通古斯空爆示意图">
+  <rect width="800" height="520" fill="#F3EEE4"/>
+  <rect x="24" y="24" width="752" height="472" fill="none" stroke="#1D1A17" stroke-opacity=".18"/>
+
+  <g stroke="#1D1A17" stroke-opacity=".1">
+    <path d="M24 120 H776 M24 220 H776 M24 320 H776 M24 420 H776"/>
+  </g>
+
+  <path d="M24 420 H776" stroke="#1D1A17" stroke-width="1.6"/>
+  <g fill="#3E5548">
+    <path d="M60 420 L60 380 L52 396 L60 388 L68 396 Z"/>
+    <path d="M96 420 L96 376 L88 394 L96 386 L104 394 Z"/>
+    <path d="M132 420 L132 384 L124 400 L132 392 L140 400 Z"/>
+    <path d="M168 420 L168 374 L160 392 L168 384 L176 392 Z"/>
+    <path d="M204 420 L204 386 L196 402 L204 394 L212 402 Z"/>
+    <path d="M240 420 L240 378 L232 396 L240 388 L248 396 Z"/>
+    <path d="M620 420 L620 382 L612 398 L620 390 L628 398 Z"/>
+    <path d="M656 420 L656 378 L648 396 L656 388 L664 396 Z"/>
+    <path d="M692 420 L692 384 L684 400 L692 392 L700 400 Z"/>
+    <path d="M728 420 L728 376 L720 394 L728 386 L736 394 Z"/>
+  </g>
+
+  <path d="M676 78 L430 240" stroke="#1D1A17" stroke-width="2" stroke-dasharray="7 7"/>
+  <path d="M676 78 L654 92 L664 86 L670 98 Z" fill="#1D1A17"/>
+
+  <circle cx="430" cy="240" r="48" fill="#D99A2B" fill-opacity=".22"/>
+  <circle cx="430" cy="240" r="26" fill="#D99A2B"/>
+  <circle cx="430" cy="240" r="12" fill="#B44A32"/>
+  <circle cx="430" cy="240" r="80" fill="none" stroke="#D99A2B" stroke-width="1.4" stroke-dasharray="5 7"/>
+  <circle cx="430" cy="240" r="132" fill="none" stroke="#B44A32" stroke-width="1.2" stroke-dasharray="3 8" opacity=".75"/>
+
+  <g stroke="#B44A32" stroke-width="1.6" fill="none">
+    <path d="M430 292 L430 360"/>
+    <path d="M414 300 L350 370"/>
+    <path d="M446 300 L510 370"/>
+    <path d="M398 288 L300 344"/>
+    <path d="M462 288 L560 344"/>
+  </g>
+  <g fill="#B44A32">
+    <path d="M430 372 L424 360 L436 360 Z"/>
+    <path d="M340 382 L348 368 L356 378 Z"/>
+    <path d="M520 382 L512 368 L504 378 Z"/>
+    <path d="M288 352 L300 346 L304 358 Z"/>
+    <path d="M572 352 L560 346 L556 358 Z"/>
+  </g>
+
+  <g font-family="'PingFang SC','Microsoft YaHei',sans-serif" fill="#1D1A17">
+    <text x="686" y="64" font-size="13">小行星进入</text>
+    <text x="686" y="84" font-size="11" fill="#6B6256">约 30° 角</text>
+    <text x="442" y="214" font-size="13" fill="#B44A32">空中解体</text>
+    <text x="442" y="232" font-size="11" fill="#6B6256">离地约 10 km</text>
+    <text x="362" y="402" font-size="12" fill="#B44A32">冲击波向下</text>
+    <text x="500" y="402" font-size="12" fill="#B44A32">树木呈放射状倒伏</text>
+    <text x="42" y="452" font-size="11" fill="#6B6256">地面</text>
+  </g>
+
+  <g stroke="#1D1A17" stroke-opacity=".35">
+    <path d="M46 240 H72 M46 226 V254"/>
+  </g>
+  <text x="42" y="224" font-family="'SFMono-Regular',Consolas,monospace" font-size="9" fill="#6B6256">10 km</text>
+</svg>

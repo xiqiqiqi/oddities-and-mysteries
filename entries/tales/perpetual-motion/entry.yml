@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: perpetual-motion
+title_zh: 转不停的轮子
+title_en: The Wheel That Would Not Stop
+era: "13 世纪–19 世纪"
+era_en: "13th–19th century"
+region: 欧洲 / 美国
+region_en: "Europe and the United States"
+coords: null
+tags:
+  - 永动机
+  - 能量守恒
+  - 贝斯勒
+  - 雷德赫弗
+  - 骗局
+collections: []
+credibility: hoax
+sources:
+  - id: S1
+    title: "Wikipedia · Perpetual motion"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Perpetual_motion
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 永动机历史、第一类与第二类永动机、热力学解释
+  - id: S2
+    title: "Britannica · Perpetual motion"
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/science/perpetual-motion
+    year: "2026"
+    license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    usage: 能量守恒、热力学定律与专利实践
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面工匠工坊场景复原、偏心轮原理图与时间线；不是历史照片
+cover: ../../../assets/covers/perpetual-motion.jpg
+related:
+  - bre-x
+  - balloon-hoax
+status: review
+featured: false
+translation_status: translated

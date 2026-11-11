@@ -1,0 +1,48 @@
+channel: objects
+type: object
+slug: hope-diamond
+title_zh: 一颗被传了三百年的厄运
+title_en: A Three-Century Curse
+era: 17 世纪
+era_en: "17th century"
+region: 印度 → 法国 → 英国 → 美国
+region_en: "India → France → Britain → United States"
+coords: [38.8913, -77.0261]
+tags:
+  - 希望钻石
+  - 钻石
+  - 诅咒
+  - 失窃珍宝
+  - 法国大革命
+collections:
+  - cursed-jewels
+credibility: folklore
+sources:
+  - id: S1
+    title: "Smithsonian National Museum of Natural History · Hope Diamond"
+    publisher: Smithsonian Institution
+    url: https://naturalhistory.si.edu/exhibits/hope-diamond
+    year: "2026"
+    license: Smithsonian 网站使用条款
+    usage: 重量、颜色、产地、收藏史、捐赠经过
+  - id: S2
+    title: "Encyclopaedia Britannica · Hope Diamond"
+    publisher: Britannica editors
+    url: https://www.britannica.com/topic/Hope-Diamond
+    year: "2026"
+    license: 版权归 Britannica，仅作参考
+    usage: 事实交叉核对；未复制原文
+  - id: S3
+    title: "Wikipedia · Hope Diamond"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Hope_Diamond
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 年代、持有人、传说来源
+cover: ../../../assets/covers/hope-diamond.jpg
+related:
+  - tunguska-1908
+  - mary-celeste
+status: review
+featured: true
+translation_status: translated

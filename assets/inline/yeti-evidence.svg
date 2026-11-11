@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The yeti legend, its evidence, and the 2017 DNA results</title>
+  <desc id="desc">A schematic map of the Himalaya with Everest and the Menlung Glacier, a list of the main evidence from 1921 to 1960, and the 2017 DNA results showing eight bears and one dog among nine samples.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">YETI · EVIDENCE</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">HIMALAYA / 1921–2017 / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+
+    <!-- mountain range -->
+    <g fill="#D8CCB6" stroke="#8C7A52" stroke-width="1.2">
+      <path d="M70 300 L 110 200 L 150 300 Z"/>
+      <path d="M120 300 L 165 170 L 210 300 Z"/>
+      <path d="M190 300 L 240 185 L 290 300 Z"/>
+      <path d="M270 300 L 330 155 L 390 300 Z"/>
+      <path d="M360 300 L 405 200 L 450 300 Z"/>
+    </g>
+    <g fill="#F3EEE4">
+      <path d="M154 190 L 165 170 L 176 190 Z"/>
+      <path d="M316 180 L 330 155 L 344 180 Z"/>
+    </g>
+
+    <!-- glacier -->
+    <path d="M226 240 L 260 230 L 274 246 L 240 256 Z" fill="#DCE6E8" stroke="#6FA8C8" stroke-width="1.2"/>
+
+    <!-- reported sites -->
+    <g fill="#B44A32">
+      <circle cx="200" cy="258" r="4"/>
+      <circle cx="270" cy="270" r="4"/>
+      <circle cx="350" cy="255" r="4"/>
+      <circle cx="305" cy="285" r="4"/>
+    </g>
+
+    <g font-family="Georgia, serif" fill="#1D1A17">
+      <text x="88" y="150" font-size="10">TIBET / 西藏</text>
+      <text x="88" y="360" font-size="10">NEPAL / 尼泊尔</text>
+      <text x="340" y="176" font-size="8">EVEREST / 珠峰</text>
+      <text x="80" y="250" font-size="8">MENLUNG GLACIER / 门隆冰川</text>
+    </g>
+    <path d="M228 246 L 240 244" stroke="#1D1A17" stroke-width="1"/>
+
+    <path d="M436 136 L 442 152 L 436 148 L 430 152 Z" fill="#4A4030"/>
+    <text x="432" y="132" font-family="Georgia, serif" font-size="8" fill="#4A4030">N</text>
+
+    <circle cx="76" cy="378" r="4" fill="#B44A32"/>
+    <text x="88" y="381" font-family="Georgia, serif" font-size="8" fill="#6B6256">reported site / 传说地点</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">EVIDENCE / 证据</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="168">1921: footprints reported / 1921：发现脚印</text>
+      <text x="520" y="190">1951: Shipton photograph / 1951：希普顿照片</text>
+      <text x="520" y="212">1960: Hillary finds no body / 1960：希拉里未找到实体</text>
+      <text x="520" y="234">monastery “scalps” = bear skin / 寺庙“头皮”= 熊皮</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">DNA 2017 / DNA 检测</text>
+
+    <g stroke="#6B4A32" stroke-width="1">
+      <rect x="520" y="304" width="22" height="22" fill="#8C5A3A"/>
+      <rect x="548" y="304" width="22" height="22" fill="#8C5A3A"/>
+      <rect x="576" y="304" width="22" height="22" fill="#8C5A3A"/>
+      <rect x="604" y="304" width="22" height="22" fill="#8C5A3A"/>
+      <rect x="632" y="304" width="22" height="22" fill="#8C5A3A"/>
+      <rect x="660" y="304" width="22" height="22" fill="#8C5A3A"/>
+      <rect x="688" y="304" width="22" height="22" fill="#8C5A3A"/>
+      <rect x="716" y="304" width="22" height="22" fill="#3F2E1E"/>
+      <rect x="744" y="304" width="22" height="22" fill="#9AA6A8"/>
+    </g>
+
+    <text x="520" y="348" font-family="Georgia, serif" font-size="9" fill="#4A4030">brown bear ×7 · black bear ×1 · dog ×1</text>
+    <text x="520" y="362" font-family="Georgia, serif" font-size="9" fill="#6B6256">棕熊 ×7 · 黑熊 ×1 · 狗 ×1</text>
+    <text x="520" y="382" font-family="Georgia, serif" font-size="8" fill="#B44A32">the biological basis is local bears / 生物学基础是当地的熊</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">No body, skeleton, or clear photograph has ever been found.</text>
+    <text x="60" y="470">从未找到雪人的尸体、骨架或清晰照片。</text>
+    <text x="60" y="494" fill="#B44A32">In 2017, eight of nine “yeti” samples were identified as bear. / 2017 年，九份“雪人”样本中有八份被鉴定为熊。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

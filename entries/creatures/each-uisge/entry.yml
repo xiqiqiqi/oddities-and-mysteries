@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: each-uisge
+title_zh: 湖里的马
+title_en: The Horse in the Loch
+era: "古代起"
+era_en: "Ancient–present"
+region: 苏格兰，高地
+region_en: "Scottish Highlands"
+coords: null
+tags:
+  - 埃赫乌什克
+  - 水马
+  - 苏格兰
+  - 凯尔派
+  - 湖
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Each-uisge"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Each-uisge
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 水马形象、与凯尔派的区别、粘皮与溺杀传说
+  - id: S2
+    title: "Spooky Isles · The Each-Uisge: Scotland's Shape-Shifting Water Monster"
+    publisher: Spooky Isles
+    url: https://www.spookyisles.com/each-uisge-water-horse-legend/
+    year: "2026"
+    license: 版权归 Spooky Isles；仅作事实参考
+    usage: 湖泊与海湖栖息地、变形为人、黄昏警告
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面黄昏湖岸水马场景复原、形态与传说要素示意；不是现场照片
+cover: ../../../assets/covers/each-uisge.jpg
+related:
+  - kelpie
+  - puca
+status: review
+featured: false
+translation_status: translated

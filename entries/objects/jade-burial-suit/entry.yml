@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: jade-burial-suit
+title_zh: 金丝编玉衣
+title_en: The Jade Suit Sewn with Gold
+era: "西汉（约公元前 2 世纪）"
+era_en: "Western Han (about the 2nd century BCE)"
+region: 中国，河北，满城
+region_en: "Mancheng, Hebei, China"
+coords: [39.0, 115.3]
+tags:
+  - 金缕玉衣
+  - 汉代
+  - 满城汉墓
+  - 玉器
+  - 丧葬
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Jade burial suit"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Jade_burial_suit
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 玉衣制度、材质、等级与历史背景
+  - id: S2
+    title: "Wikipedia · Mancheng Han tombs"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Mancheng_Han_tombs
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 满城汉墓、刘胜与窦绾玉衣的出土情况
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与玉衣结构示意；不是文物照片
+cover: ../../../assets/covers/jade-burial-suit.jpg
+related:
+  - sword-of-goujian
+  - iron-pillar-delhi
+status: review
+featured: false
+translation_status: translated

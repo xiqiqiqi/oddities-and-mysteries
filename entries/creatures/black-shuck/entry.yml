@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: black-shuck
+title_zh: 教堂里的黑狗
+title_en: The Black Dog in the Church
+era: "1577"
+era_en: "1577"
+region: 英国，萨福克，邦吉
+region_en: "Bungay, Suffolk, England"
+coords: [52.455, 1.438]
+tags:
+  - 黑夏克
+  - 黑狗
+  - 萨福克
+  - 民间传说
+  - 1577
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Black Shuck"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Black_Shuck
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1577 年邦吉与布莱斯堡事件、名称与传说流变
+  - id: S2
+    title: "Wikipedia · Black dog (folklore)"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Black_dog_(folklore)
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 东盎格利亚黑狗传说的背景与常见解释
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与事件地点、记载对照示意；不是历史画作
+cover: ../../../assets/covers/black-shuck.jpg
+related:
+  - mothman
+  - spring-heeled-jack
+status: review
+featured: false
+translation_status: translated

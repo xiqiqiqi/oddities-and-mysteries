@@ -1,0 +1,47 @@
+channel: mystery
+type: event
+slug: litvinenko
+title_zh: 一杯茶里的钋
+title_en: The Polonium in the Tea
+era: "2006"
+era_en: "2006"
+region: 英国，伦敦
+region_en: "London, United Kingdom"
+coords: [51.507, -0.128]
+tags:
+  - 利特维年科
+  - 钋-210
+  - 伦敦
+  - 2006
+  - 中毒
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Poisoning of Alexander Litvinenko"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Poisoning_of_Alexander_Litvinenko
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 时间线、毒物、嫌疑人、调查与后续
+  - id: S2
+    title: "The Litvinenko Inquiry · Report"
+    publisher: UK Government
+    url: https://www.gov.uk/government/publications/the-litvinenko-inquiry-report
+    year: "2016"
+    license: 版权所有；仅作事实参考
+    usage: 2016 年公开调查的结论与证据
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面酒店酒吧场景复原、钋-210 与时间线示意；不是现场照片
+cover: ../../../assets/covers/litvinenko.jpg
+related:
+  - dyatlov-pass
+  - tunguska-1908
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Two kinds of dragon: the Chinese long and the Western dragon</title>
+  <desc id="desc">Side-by-side schematic silhouettes of a wingless serpentine Chinese dragon and a winged fire-breathing Western dragon, with panels on the eastern and western traditions.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">TWO KINDS OF DRAGON · 两种龙</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">THE LONG / THE WESTERN DRAGON / THE SAME WORD</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">COMPARISON / 形象对照</text>
+
+    <!-- Chinese dragon: serpentine body, antlers, whiskers, two visible legs -->
+    <path d="M112 322 L 86 334 L 94 348 L 122 334 Z" fill="#B08A1E"/>
+    <path d="M112 322 C 94 294 138 290 150 262 C 162 234 196 232 210 212" fill="none" stroke="#C9A227" stroke-width="15" stroke-linecap="round"/>
+    <g fill="#C9A227" stroke="#8C6A1F" stroke-width="1">
+      <path d="M204 202 C 214 188 234 186 246 195 C 254 201 252 212 241 216 C 228 220 214 218 208 211 Z"/>
+      <ellipse cx="249" cy="205" rx="6" ry="4"/>
+    </g>
+    <path d="M214 196 C 206 180 194 175 186 179 M200 178 L 196 167" stroke="#8C6A1F" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M225 192 C 223 176 229 165 237 161 M233 167 L 241 163" stroke="#8C6A1F" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M252 205 C 262 212 266 222 259 233 M251 201 C 264 199 272 205 275 213" stroke="#8C6A1F" stroke-width="1.4" fill="none"/>
+    <circle cx="235" cy="200" r="2.3" fill="#1D1A17"/>
+    <g stroke="#8C6A1F" stroke-width="5" fill="none" stroke-linecap="round">
+      <path d="M199 220 C 195 232 190 238 184 243"/>
+      <path d="M151 266 C 146 278 140 284 134 289"/>
+    </g>
+    <g stroke="#8C6A1F" stroke-width="2" fill="none" stroke-linecap="round">
+      <path d="M184 243 L 177 249 M184 243 L 184 251 M184 243 L 191 249"/>
+      <path d="M134 289 L 127 295 M134 289 L 134 297 M134 289 L 141 295"/>
+    </g>
+    <g stroke="#8C6A1F" stroke-width="2.4" fill="none" stroke-linecap="round">
+      <path d="M156 253 L 148 241"/>
+      <path d="M180 234 L 174 222"/>
+      <path d="M204 216 L 200 205"/>
+      <path d="M128 295 L 120 285"/>
+    </g>
+    <text x="88" y="360" font-family="Georgia, serif" font-size="10" fill="#1D1A17">CHINESE LONG / 中国龙</text>
+    <text x="88" y="376" font-family="Georgia, serif" font-size="8" fill="#4A4030">serpentine, no wings / 蛇形，无翼</text>
+
+    <!-- Western dragon: winged, horned, fire-breathing -->
+    <path d="M300 276 C 288 254 302 238 326 242" fill="none" stroke="#6B4A32" stroke-width="9"/>
+    <ellipse cx="352" cy="268" rx="40" ry="23" fill="#6B4A32"/>
+    <path d="M380 258 C 390 242 394 228 400 218" stroke="#6B4A32" stroke-width="13" fill="none"/>
+    <ellipse cx="406" cy="212" rx="16" ry="10" fill="#6B4A32"/>
+    <ellipse cx="421" cy="215" rx="8" ry="5" fill="#6B4A32"/>
+    <path d="M398 202 C 392 191 388 186 381 183" stroke="#6B4A32" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M411 201 C 411 190 415 184 421 180" stroke="#6B4A32" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle cx="410" cy="210" r="2.2" fill="#F3EEE4"/>
+    <path d="M427 208 L 433 199 L 437 205 L 443 196 L 446 204 L 453 198 L 451 208 L 459 212 L 450 216 L 453 223 L 444 220 L 439 226 L 435 218 L 428 221 Z" fill="#D2691E"/>
+    <path d="M430 211 L 435 206 L 439 211 L 444 205 L 446 212 L 451 213 L 445 216 L 440 221 L 437 215 L 432 217 Z" fill="#E8B23A"/>
+    <path d="M330 250 L 296 196 L 344 222 Z" fill="#8C5A3A" stroke="#6B4A32" stroke-width="1"/>
+    <path d="M362 248 L 414 190 L 388 232 Z" fill="#8C5A3A" stroke="#6B4A32" stroke-width="1"/>
+    <path d="M315 282 C 298 300 284 306 270 304 L 256 296 L 262 306 L 254 314 Z" fill="#6B4A32"/>
+    <g stroke="#6B4A32" stroke-width="5" stroke-linecap="round">
+      <path d="M330 286 L 326 306"/>
+      <path d="M350 290 L 348 310"/>
+      <path d="M370 286 L 374 306"/>
+      <path d="M386 282 L 392 302"/>
+    </g>
+    <g stroke="#6B4A32" stroke-width="2" fill="none" stroke-linecap="round">
+      <path d="M326 306 L 320 312 M326 306 L 327 313 M326 306 L 332 311"/>
+      <path d="M348 310 L 342 316 M348 310 L 349 317 M348 310 L 354 315"/>
+      <path d="M374 306 L 368 312 M374 306 L 375 313 M374 306 L 380 311"/>
+      <path d="M392 302 L 386 308 M392 302 L 393 309 M392 302 L 398 307"/>
+    </g>
+    <text x="300" y="360" font-family="Georgia, serif" font-size="10" fill="#1D1A17">WESTERN DRAGON / 西方龙</text>
+    <text x="300" y="376" font-family="Georgia, serif" font-size="8" fill="#4A4030">wings, fire, four legs / 有翼、喷火、四足</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE EAST / 东方</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">water and rain / 水与雨</text>
+      <text x="520" y="186">no wings / 没有翅膀</text>
+      <text x="520" y="206">the emperor / 皇帝的象征</text>
+      <text x="520" y="226">auspicious / 吉祥</text>
+      <text x="520" y="240">Dragon Kings / 龙王</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE WEST / 西方</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">fire and wings / 火与翅膀</text>
+      <text x="520" y="330">gold and treasure / 金子与宝藏</text>
+      <text x="520" y="348">St George / 圣乔治屠龙</text>
+      <text x="520" y="366">Satan in Revelation / 《启示录》里的撒旦</text>
+      <text x="520" y="382">a monster to kill / 要被杀死的怪物</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The Chinese long and the Western dragon are translated by the same English word.</text>
+    <text x="60" y="470">中国龙和西方龙，在英文里都叫 dragon。</text>
+    <text x="60" y="494" fill="#B44A32">They differ in wings, element, symbolism and moral nature. / 它们在翅膀、元素、象征和善恶上都不一样。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

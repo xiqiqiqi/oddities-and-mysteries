@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: ourang-medan
+title_zh: 最后的电报
+title_en: The Last Signal
+era: "1947–1948"
+era_en: "1947–1948"
+region: 马六甲海峡
+region_en: "Strait of Malacca"
+coords: [2.0, 102.0]
+tags:
+  - 乌兰·梅丹号
+  - 幽灵船
+  - 马六甲海峡
+  - 电报
+  - 海上传说
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Skeptoid · The Death Ship SS Ourang Medan"
+    publisher: Skeptoid Media
+    url: https://skeptoid.com/episodes/4756
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 故事版本、缺乏登记记录与可能解释
+  - id: S2
+    title: "Wikipedia · SS Ourang Medan"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/SS_Ourang_Medan
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 电报内容、救援船、报道来源与质疑
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面货船与马六甲海峡场景复原、事件时间线示意；不是历史照片
+cover: ../../../assets/covers/ourang-medan.jpg
+related:
+  - mary-celeste
+  - carroll-a-deering
+status: review
+featured: false
+translation_status: translated

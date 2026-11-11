@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: iron-pillar-delhi
+title_zh: 不生锈的铁柱
+title_en: The Iron Pillar That Won't Rust
+era: "公元 4–5 世纪"
+era_en: "4th–5th century CE"
+region: 印度，德里，库特布建筑群
+region_en: "Qutb complex, Delhi, India"
+coords: [28.524, 77.185]
+tags:
+  - 德里铁柱
+  - 笈多王朝
+  - 冶金
+  - 抗腐蚀
+  - 库特布
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Iron pillar of Delhi"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Iron_pillar_of_Delhi
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 尺寸、年代、铭文、成分与抗腐蚀研究
+  - id: S2
+    title: "Wikipedia · Qutb complex"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Qutb_complex
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 铁柱所在建筑群与保护背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与保护层示意；不是文物照片
+cover: ../../../assets/covers/iron-pillar-delhi.jpg
+related:
+  - gobekli-tepe
+  - carnac-stones
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Heaven's Gate: the house, the comet and the timeline</title>
+  <desc id="desc">A night scene with a comet over a house in Rancho Santa Fe, with a timeline from the founding to the 1997 deaths, and panels on the beliefs and the record.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">HEAVEN'S GATE · 彗星后面的飞船</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">1997 / RANCHO SANTA FE / 39</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE HOUSE AND THE COMET / 住宅与彗星</text>
+
+    <!-- night scene -->
+    <rect x="72" y="150" width="396" height="118" fill="#2E3440"/>
+    <g fill="#F3EEE4">
+      <circle cx="100" cy="166" r="1"/><circle cx="140" cy="180" r="1"/><circle cx="190" cy="160" r="1"/><circle cx="240" cy="176" r="1"/><circle cx="300" cy="158" r="1"/><circle cx="340" cy="186" r="1"/><circle cx="440" cy="170" r="1"/>
+    </g>
+
+    <!-- comet -->
+    <path d="M386 174 C 350 168 310 178 280 196 L 300 204 C 330 190 360 184 386 182 Z" fill="#A8C4D8" opacity="0.55"/>
+    <circle cx="390" cy="176" r="5" fill="#F3EEE4"/>
+    <text x="404" y="168" font-family="Georgia, serif" font-size="7" fill="#D8CCB6">HALE-BOPP</text>
+    <text x="404" y="178" font-family="Georgia, serif" font-size="7" fill="#D8CCB6">海尔-波普</text>
+
+    <!-- house -->
+    <rect x="130" y="224" width="90" height="36" fill="#1D1A17"/>
+    <path d="M124 224 L 175 198 L 226 224 Z" fill="#4A4030"/>
+    <g fill="#E8C96A">
+      <rect x="142" y="234" width="10" height="10"/><rect x="164" y="234" width="10" height="10"/><rect x="186" y="234" width="10" height="10"/>
+    </g>
+    <text x="126" y="274" font-family="Georgia, serif" font-size="7" fill="#6B6256">RANCHO SANTA FE / 兰乔圣菲</text>
+
+    <!-- timeline -->
+    <line x1="100" y1="312" x2="440" y2="312" stroke="#8C7A52" stroke-width="1.2"/>
+    <g fill="#B44A32">
+      <circle cx="110" cy="312" r="3.5"/>
+      <circle cx="210" cy="312" r="3.5"/>
+      <circle cx="310" cy="312" r="3.5"/>
+      <circle cx="410" cy="312" r="3.5"/>
+    </g>
+    <g font-family="Georgia, serif" font-size="7.5" fill="#1D1A17">
+      <text x="94" y="298">1974 / FOUNDED</text>
+      <text x="94" y="307">成立</text>
+      <text x="196" y="334">1985 / NETTLES DIES</text>
+      <text x="196" y="343">内特尔斯去世</text>
+      <text x="294" y="298">1995 / HALE-BOPP</text>
+      <text x="294" y="307">海尔-波普</text>
+      <text x="386" y="334">1997 / 39 DEATHS</text>
+      <text x="386" y="343">39 人死亡</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE BELIEFS / 教义</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">the body is a vehicle / 身体是载具</text>
+      <text x="520" y="186">leave Earth for the Next Level / 离开地球，进入下一层</text>
+      <text x="520" y="206">a ship behind the comet / 彗星后面的飞船</text>
+      <text x="520" y="226">strict rules, no families / 严格戒律，不许有家庭</text>
+      <text x="520" y="242">39 people died / 39 人死亡</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE RECORD / 记录</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">founded in 1974 / 1974 年成立</text>
+      <text x="520" y="330">deaths 22–23 March 1997 / 1997 年 3 月 22–23 日死亡</text>
+      <text x="520" y="348">found on 26 March / 3 月 26 日被发现</text>
+      <text x="520" y="366">18 men, 21 women / 18 名男性，21 名女性</text>
+      <text x="520" y="382">website still online / 网站仍在</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">They waited for a ship that was never there.</text>
+    <text x="60" y="470">他们等一艘不存在的飞船。</text>
+    <text x="60" y="494" fill="#B44A32">The deaths were suicides, not an alien departure. / 那是集体自杀，不是外星接引。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

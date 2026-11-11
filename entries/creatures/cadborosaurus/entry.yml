@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: cadborosaurus
+title_zh: 海里的长脖子
+title_en: The Long Neck in the Sea
+era: "1930 年代起"
+era_en: "Since the 1930s"
+region: 加拿大，不列颠哥伦比亚，卡德伯罗湾
+region_en: "Cadboro Bay, British Columbia, Canada"
+coords: [48.46, -123.29]
+tags:
+  - 卡德伯罗龙
+  - 海蛇
+  - 不列颠哥伦比亚
+  - 未确认生物
+  - 1937
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Cadborosaurus"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Cadborosaurus
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 目击史、1937 年尸体、命名与解释
+  - id: S2
+    title: "Enigma Atlas · Cadborosaurus"
+    publisher: Enigma Atlas
+    url: https://enigmaatlas.com/cryptids/cadborosaurus
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 1937 年纳登港尸体与博物馆鉴定
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面海湾与海蛇场景复原、目击与尸体时间线示意；不是目击照片
+cover: ../../../assets/covers/cadborosaurus.jpg
+related:
+  - loch-ness
+  - kelpie
+status: review
+featured: false
+translation_status: translated

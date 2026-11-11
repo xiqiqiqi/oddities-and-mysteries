@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Peluda: the shaggy river beast, its quills and its tail</title>
+  <desc id="desc">A wingless shaggy beast with quills on its back and a spiked tail standing by the Huisne River, with panels on its appearance and the legend.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE PELUDA · 毛茸茸的怪兽</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">HUISNE RIVER / SARTHE / THE QUILLS</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE RIVERBANK / 河岸示意</text>
+
+    <!-- water -->
+    <rect x="72" y="300" width="396" height="70" fill="#A8C4D8"/>
+    <g stroke="#7FA8C4" stroke-width="1" fill="none">
+      <path d="M80 318 Q 110 312 140 318 T 200 318 T 260 318 T 320 318 T 380 318 T 440 318"/>
+      <path d="M80 334 Q 110 328 140 334 T 200 334 T 260 334 T 320 334 T 380 334 T 440 334"/>
+      <path d="M80 350 Q 110 344 140 350 T 200 350 T 260 350 T 320 350 T 380 350 T 440 350"/>
+    </g>
+
+    <!-- reeds -->
+    <g stroke="#6B7A5A" stroke-width="1.5" fill="none">
+      <path d="M100 300 L 96 270"/><path d="M108 300 L 110 265"/><path d="M116 300 L 120 275"/>
+      <path d="M430 300 L 426 270"/><path d="M438 300 L 440 265"/>
+    </g>
+
+    <!-- beast -->
+    <ellipse cx="245" cy="270" rx="65" ry="35" fill="#6B7A5A" stroke="#4A4030" stroke-width="1.5"/>
+    <path d="M295 255 L 320 205 L 340 212 L 310 272 Z" fill="#6B7A5A" stroke="#4A4030" stroke-width="1.2"/>
+    <ellipse cx="335" cy="201" rx="22" ry="12" fill="#6B7A5A" stroke="#4A4030" stroke-width="1.2" transform="rotate(-18 335 201)"/>
+    <circle cx="343" cy="198" r="1.8" fill="#B44A32"/>
+
+    <!-- shaggy back -->
+    <path d="M185 252 L 195 238 L 204 250 L 214 234 L 224 248 L 234 232 L 244 246 L 254 230 L 264 244 L 274 232 L 284 246 L 294 240 L 300 252" fill="#4A4030"/>
+
+    <!-- quills -->
+    <g stroke="#D8CCB6" stroke-width="1.6">
+      <line x1="200" y1="240" x2="194" y2="218"/><line x1="216" y1="236" x2="212" y2="212"/>
+      <line x1="232" y1="234" x2="230" y2="208"/><line x1="248" y1="232" x2="248" y2="206"/>
+      <line x1="264" y1="234" x2="268" y2="210"/><line x1="280" y1="238" x2="286" y2="216"/>
+    </g>
+
+    <!-- tail -->
+    <path d="M182 276 C 160 290 146 310 132 300" fill="none" stroke="#4A4030" stroke-width="5"/>
+    <g fill="#4A4030">
+      <path d="M132 300 L 118 292 L 128 306 Z"/>
+      <path d="M132 300 L 120 310 L 134 312 Z"/>
+      <path d="M132 300 L 126 284 L 138 292 Z"/>
+    </g>
+
+    <!-- legs -->
+    <g stroke="#4A4030" stroke-width="6" stroke-linecap="round">
+      <line x1="210" y1="296" x2="206" y2="316"/>
+      <line x1="235" y1="300" x2="233" y2="318"/>
+      <line x1="266" y1="300" x2="268" y2="318"/>
+      <line x1="286" y1="294" x2="290" y2="314"/>
+    </g>
+
+    <!-- labels -->
+    <path d="M300 186 L 272 220" stroke="#6B6256" stroke-width="0.8" fill="none"/>
+    <text x="304" y="182" font-family="Georgia, serif" font-size="8" fill="#1D1A17">QUILLS / 背刺</text>
+    <path d="M140 306 L 160 330" stroke="#6B6256" stroke-width="0.8" fill="none"/>
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">THE HUISNE / 于讷河</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">the tail is the weak point / 尾巴是弱点</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE BEAST / 外形</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">a wingless dragon / 没有翅膀的龙</text>
+      <text x="520" y="186">an ox-like body / 牛一样的身体</text>
+      <text x="520" y="206">a serpent head / 蛇一样的头</text>
+      <text x="520" y="226">shaggy back, hidden quills / 厚毛与藏着的刺</text>
+      <text x="520" y="242">a spiked tail / 带刺的尾巴</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE LEGEND / 传说</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">La Ferté-Bernard, Sarthe / 萨尔泰，拉费尔泰-贝尔纳</text>
+      <text x="520" y="330">left off Noah's Ark / 没有登上诺亚方舟</text>
+      <text x="520" y="348">floods when it enters the river / 入河则水涨</text>
+      <text x="520" y="366">killed by a trick / 被计谋杀死</text>
+      <text x="520" y="382">no physical evidence / 没有实物证据</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A local river monster with a biblical grudge.</text>
+    <text x="60" y="470">一只带着圣经式怨恨的地方河怪。</text>
+    <text x="60" y="494" fill="#B44A32">The Peluda is medieval French folklore, not a documented animal. / 佩卢达是法国中世纪传说，不是有记录的动物。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

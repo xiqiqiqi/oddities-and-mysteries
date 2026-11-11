@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Baalbek: the trilithon, the quarry blocks, and the scale</title>
+  <desc id="desc">A schematic elevation of the Temple of Jupiter podium with the three megalithic blocks, six columns and a human figure for scale, plus panels on the numbers and the open question of transport.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">BAALBEK · THE STONES</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">TRILITHON / QUARRY / ROMAN ENGINEERING</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">ELEVATION / 立面示意</text>
+
+    <!-- ground -->
+    <path d="M70 350 H470" stroke="#6B4A32" stroke-width="1.2"/>
+
+    <!-- entablature and columns -->
+    <rect x="105" y="170" width="235" height="10" fill="#C9B799" stroke="#6B4A32" stroke-width="1"/>
+    <g fill="#D8CCB6" stroke="#6B4A32" stroke-width="1">
+      <rect x="115" y="185" width="12" height="87"/>
+      <rect x="155" y="185" width="12" height="87"/>
+      <rect x="195" y="185" width="12" height="87"/>
+      <rect x="235" y="185" width="12" height="87"/>
+      <rect x="275" y="185" width="12" height="87"/>
+      <rect x="315" y="185" width="12" height="87"/>
+    </g>
+    <g fill="#C9B799" stroke="#6B4A32" stroke-width="0.8">
+      <rect x="111" y="180" width="20" height="5"/>
+      <rect x="151" y="180" width="20" height="5"/>
+      <rect x="191" y="180" width="20" height="5"/>
+      <rect x="231" y="180" width="20" height="5"/>
+      <rect x="271" y="180" width="20" height="5"/>
+      <rect x="311" y="180" width="20" height="5"/>
+    </g>
+
+    <!-- podium top course and trilithon -->
+    <rect x="90" y="272" width="315" height="13" fill="#C9B799" stroke="#6B4A32" stroke-width="1"/>
+    <rect x="90" y="285" width="105" height="60" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.2"/>
+    <rect x="195" y="285" width="105" height="60" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.2"/>
+    <rect x="300" y="285" width="105" height="60" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.2"/>
+
+    <!-- human for scale -->
+    <circle cx="432" cy="329" r="3" fill="#1D1A17"/>
+    <path d="M432 332 V 344 M432 336 L 427 340 M432 336 L 437 340 M432 344 L 428 350 M432 344 L 436 350" stroke="#1D1A17" stroke-width="1.5"/>
+    <text x="405" y="365" font-family="Georgia, serif" font-size="8" fill="#1D1A17">human / 人</text>
+
+    <text x="85" y="160" font-family="Georgia, serif" font-size="8" fill="#1D1A17">TEMPLE OF JUPITER / 朱庇特神庙</text>
+    <text x="120" y="366" font-family="Georgia, serif" font-size="8" fill="#1D1A17">TRILITHON / 三巨石</text>
+    <text x="120" y="380" font-family="Georgia, serif" font-size="8" fill="#4A4030">≈800 t each / 每块约 800 吨</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="150" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE NUMBERS / 数字</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="164">19 m long / 每块约 19 米</text>
+      <text x="520" y="181">4 m high, 3.5 m wide</text>
+      <text x="520" y="198">高 4 米，宽 3.5 米</text>
+      <text x="520" y="215">800 t each / 每块约 800 吨</text>
+      <text x="520" y="232">1,000 t pregnant stone / 孕妇石</text>
+      <text x="520" y="249">1,650 t block, found in 2014</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="272" width="340" height="120" fill="#EFE6D6"/>
+    <text x="520" y="300" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE QUESTION / 问题</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="324">no crane, no steel / 没有起重机，没有钢铁</text>
+      <text x="520" y="342">sledges, rollers, ramps / 木橇、滚轴、土坡</text>
+      <text x="520" y="360">no ancient record of the method</text>
+      <text x="520" y="378">没有古代记录；外星说法没有证据</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The trilithon blocks sit in the podium of the Temple of Jupiter.</text>
+    <text x="60" y="470">三块巨石安放在朱庇特神庙的台基里，每块约八百吨。</text>
+    <text x="60" y="494" fill="#B44A32">How they were moved is still an open engineering question. / 它们是怎么被搬上去的，至今没有定论。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

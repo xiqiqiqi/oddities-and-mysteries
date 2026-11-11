@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: squonk
+title_zh: 会哭化的怪物
+title_en: The Creature That Cried Itself Away
+era: "1910"
+era_en: "1910"
+region: 美国，宾夕法尼亚
+region_en: "Pennsylvania, United States"
+coords: [41.74, -77.90]
+tags:
+  - 斯康克
+  - 伐木工传说
+  - 宾夕法尼亚
+  - 怪物
+  - 眼泪
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Squonk"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Squonk
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 外形、哭声、被围困时化为眼泪的传说与流行文化
+  - id: S2
+    title: "OutdoorHub · Squonk: The Legend of Pennsylvania"
+    publisher: OutdoorHub
+    url: https://www.outdoorhub.com/stories/2026/02/13/squonk-legend-pennsylvania/
+    year: "2026"
+    license: 版权归 OutdoorHub；仅作事实参考
+    usage: 1910 年考克斯《伐木林里的可怕生物》与伐木营背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面森林怪物场景复原、传说要素与传播时间线；不是现场照片
+cover: ../../../assets/covers/squonk.jpg
+related:
+  - mothman
+  - black-shuck
+status: review
+featured: false
+translation_status: translated

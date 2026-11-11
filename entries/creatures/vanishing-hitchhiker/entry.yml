@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: vanishing-hitchhiker
+title_zh: 路边的搭车人
+title_en: The Hitchhiker at the Roadside
+era: "古代起"
+era_en: "Ancient–present"
+region: 全球
+region_en: "Worldwide"
+coords: null
+tags:
+  - 消失搭车人
+  - 都市传说
+  - 复活玛丽
+  - 鬼故事
+  - 公路
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Vanishing hitchhiker"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Vanishing_hitchhiker
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 传说类型、各地变体、民俗学研究与解释
+  - id: S2
+    title: "Wikipedia · Resurrection Mary"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Resurrection_Mary
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 芝加哥阿彻大道版本、墓地与 1930 年代背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面夜间公路场景复原、传说结构与变体示意；不是现场照片
+cover: ../../../assets/covers/vanishing-hitchhiker.jpg
+related:
+  - bloody-mary
+  - black-eyed-children
+status: review
+featured: false
+translation_status: translated

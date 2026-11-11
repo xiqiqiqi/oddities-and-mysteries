@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Igopogo: the hump in Lake Simcoe, the newspaper record and the sturgeon</title>
+  <desc id="desc">A calm Ontario lake at dawn with a dark neck and hump breaking the surface, rings in the water, pines on the shore, and panels on the newspaper record and the explanations.</desc>
+  <defs>
+    <linearGradient id="igopogo-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C9BFA8"/>
+      <stop offset="0.55" stop-color="#A8B4B8"/>
+      <stop offset="1" stop-color="#7A8A90"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">IGOPOGO · 湖面的驼峰</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">LAKE SIMCOE / 1860s–2005 / SIX TO FIFTEEN METRES</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE LAKE AT DAWN / 湖面晨雾示意</text>
+
+    <!-- sky and water -->
+    <rect x="72" y="150" width="396" height="190" fill="url(#igopogo-sky)"/>
+    <rect x="72" y="270" width="396" height="70" fill="#2E3A3A"/>
+    <path d="M72 270 Q 180 264 270 268 Q 370 272 468 266 L468 278 L72 278 Z" fill="#3A4A4A"/>
+
+    <!-- far shore -->
+    <path d="M72 268 L 90 258 L 108 264 L 126 254 L 146 262 L 166 256 L 184 264 L 204 258 L 224 265 L 244 260 L 264 266 L 284 260 L 304 266 L 324 258 L 344 264 L 364 258 L 384 265 L 404 260 L 424 266 L 444 260 L 468 266 L 468 272 L 72 272 Z" fill="#3A3A30"/>
+
+    <!-- pines -->
+    <g fill="#22301F">
+      <path d="M80 270 L 90 210 L 100 270 Z"/>
+      <path d="M94 270 L 106 196 L 118 270 Z"/>
+      <path d="M112 270 L 122 220 L 132 270 Z"/>
+      <path d="M420 270 L 432 202 L 444 270 Z"/>
+      <path d="M440 270 L 452 214 L 464 270 Z"/>
+    </g>
+
+    <!-- neck and hump -->
+    <path d="M246 270 L 246 228 Q 246 216 254 214 Q 262 214 262 226 L 262 248 Q 272 250 276 262 L 278 270 Z" fill="#1D1A17"/>
+    <path d="M254 214 Q 260 208 266 214 Q 270 220 266 226 L 258 226 Q 252 220 254 214 Z" fill="#1D1A17"/>
+    <circle cx="260" cy="217" r="1.2" fill="#E8C96A"/>
+
+    <!-- rings -->
+    <g fill="none" stroke="#8A9A90" stroke-width="1" opacity="0.7">
+      <ellipse cx="262" cy="272" rx="34" ry="5"/>
+      <ellipse cx="262" cy="272" rx="54" ry="8"/>
+      <ellipse cx="262" cy="272" rx="76" ry="11"/>
+    </g>
+
+    <line x1="300" y1="212" x2="276" y2="254" stroke="#E8C96A" stroke-width="0.8"/>
+    <text x="304" y="208" font-family="Georgia, serif" font-size="8" fill="#E8C96A">THE HUMP / 驼峰</text>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">KEMPENFELT BAY / 肯彭费尔特湾</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">a shallow, busy lake / 一个不深、很忙的湖</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE RECORD / 记录</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">1860s · first reports / 最早的报道</text>
+      <text x="520" y="186">1880 · circling the lake / 绕湖</text>
+      <text x="520" y="206">1882 · "captured" / 报纸标题</text>
+      <text x="520" y="226">1963 · Jackson's Point / 杰克逊角</text>
+      <text x="520" y="242">1963 · the name appears / 名字出现</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE EXPLANATIONS / 解释</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">lake sturgeon, two metres / 湖鲟，两米</text>
+      <text x="520" y="330">otters, logs, boat wakes / 水獭、木头、船浪</text>
+      <text x="520" y="348">no photo or specimen / 没有照片或标本</text>
+      <text x="520" y="366">name from Ogopogo / 名字来自奥戈波戈</text>
+      <text x="520" y="382">still sighted today / 今天仍有人看见</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The lake is wide enough to hold something without an answer.</text>
+    <text x="60" y="470">湖面很宽，足够放下一个没有答案的东西。</text>
+    <text x="60" y="494" fill="#B44A32">The name is modern; the stories are older. / 名字是现代的，故事更老。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

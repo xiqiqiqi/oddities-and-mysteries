@@ -1,0 +1,47 @@
+channel: tales
+type: event
+slug: mary-rogers
+title_zh: 烟店里的姑娘
+title_en: The Girl in the Cigar Shop
+era: "1841"
+era_en: "1841"
+region: 美国，新泽西，霍博肯
+region_en: "Hoboken, New Jersey, United States"
+coords: [40.744, -74.024]
+tags:
+  - 玛丽·罗杰斯
+  - 雪茄女郎
+  - 纽约
+  - 爱伦·坡
+  - 未解凶案
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Smithsonian Magazine · Edgar Allan Poe Tried and Failed to Crack the Mysterious Murder Case of Mary Rogers"
+    publisher: Smithsonian Magazine
+    url: https://www.smithsonianmag.com/history/edgar-allan-poe-tried-and-failed-to-crack-the-mysterious-murder-case-of-mary-rogers-7493607/
+    year: "2013"
+    license: Smithsonian 网站使用条款；仅作事实参考
+    usage: 失踪与发现经过、报纸报道、佩恩之死、洛斯临终供述、坡的小说
+  - id: S2
+    title: "Wikipedia · Mary Rogers"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Mary_Rogers
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 人物背景、时间线、地点与案件后续
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面雪茄店场景复原、案件关系示意；不是历史照片
+cover: ../../../assets/covers/mary-rogers.jpg
+related:
+  - dyatlov-pass
+  - mary-celeste
+status: review
+featured: false
+translation_status: translated

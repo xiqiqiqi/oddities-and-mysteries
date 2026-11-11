@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: dover-demon
+title_zh: 多佛恶魔
+title_en: The Dover Demon
+era: "1977"
+era_en: "1977"
+region: 美国，马萨诸塞，多佛
+region_en: "Dover, Massachusetts, United States"
+coords: [42.245, -71.283]
+tags:
+  - 多佛恶魔
+  - 1977
+  - 马萨诸塞
+  - 未确认生物
+  - 目击
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Dover Demon"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Dover_Demon
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1977 年目击、目击者、描述与解释
+  - id: S2
+    title: "Enigma Atlas · Dover Demon, 1977"
+    publisher: Enigma Atlas
+    url: https://enigmaatlas.com/cryptids/dover-demon-1977
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 目击细节、素描与后续报告
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面夜路与石墙场景复原、目击时间线示意；不是目击照片
+cover: ../../../assets/covers/dover-demon.jpg
+related:
+  - mothman
+  - owlman
+status: review
+featured: false
+translation_status: translated

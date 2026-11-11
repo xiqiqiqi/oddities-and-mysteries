@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Squonk: the weeping creature of the Pennsylvania woods</title>
+  <desc id="desc">A sad, warty creature standing in a hemlock forest beside a puddle of tears, with panels on its appearance and on the written record.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE SQUONK · 会哭化的怪物</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">PENNSYLVANIA / 1910 / TEARS</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE WOODS / 林中示意</text>
+
+    <!-- trees -->
+    <g stroke="#6B7A5A" stroke-width="2.5" fill="none">
+      <line x1="105" y1="340" x2="105" y2="205"/>
+      <line x1="400" y1="340" x2="400" y2="215"/>
+    </g>
+    <g fill="#8C9A7A">
+      <path d="M105 205 L 82 250 L 128 250 Z"/>
+      <path d="M105 230 L 78 278 L 132 278 Z"/>
+      <path d="M400 215 L 376 260 L 424 260 Z"/>
+      <path d="M400 240 L 372 288 L 428 288 Z"/>
+    </g>
+
+    <!-- squonk -->
+    <ellipse cx="250" cy="290" rx="48" ry="42" fill="#9AA88A" stroke="#4A4030" stroke-width="1.5"/>
+    <ellipse cx="250" cy="230" rx="34" ry="28" fill="#9AA88A" stroke="#4A4030" stroke-width="1.5"/>
+    <path d="M220 214 C 210 204 206 214 214 222" fill="none" stroke="#4A4030" stroke-width="1.2"/>
+    <path d="M280 214 C 290 204 294 214 286 222" fill="none" stroke="#4A4030" stroke-width="1.2"/>
+
+    <!-- warts -->
+    <g fill="#6B7A5A">
+      <circle cx="226" cy="282" r="3"/><circle cx="270" cy="300" r="2.5"/><circle cx="238" cy="312" r="2"/><circle cx="276" cy="276" r="2"/><circle cx="214" cy="296" r="2"/>
+      <circle cx="236" cy="214" r="2"/><circle cx="266" cy="210" r="2"/><circle cx="252" cy="204" r="1.8"/>
+    </g>
+
+    <!-- face -->
+    <ellipse cx="238" cy="228" rx="7" ry="8" fill="#F3EEE4"/>
+    <ellipse cx="262" cy="228" rx="7" ry="8" fill="#F3EEE4"/>
+    <circle cx="238" cy="231" r="3" fill="#1D1A17"/>
+    <circle cx="262" cy="231" r="3" fill="#1D1A17"/>
+    <path d="M228 216 L 244 220 M272 216 L 256 220" stroke="#4A4030" stroke-width="1.2" fill="none"/>
+    <path d="M242 246 C 246 242 254 242 258 246" fill="none" stroke="#4A4030" stroke-width="1.2"/>
+
+    <!-- tears -->
+    <path d="M232 238 C 228 244 232 248 234 244 C 236 241 234 239 232 238 Z" fill="#7FA8C4"/>
+    <path d="M268 238 C 264 244 268 248 270 244 C 272 241 270 239 268 238 Z" fill="#7FA8C4"/>
+    <path d="M236 252 C 232 258 236 262 238 258 C 240 255 238 253 236 252 Z" fill="#7FA8C4"/>
+    <path d="M264 252 C 260 258 264 262 266 258 C 268 255 266 253 264 252 Z" fill="#7FA8C4"/>
+
+    <!-- limbs -->
+    <g stroke="#4A4030" stroke-width="2" fill="none" stroke-linecap="round">
+      <path d="M206 292 C 198 306 196 316 198 326"/>
+      <path d="M294 292 C 302 306 304 316 302 326"/>
+      <path d="M236 328 L 234 340"/>
+      <path d="M264 328 L 266 340"/>
+    </g>
+
+    <!-- puddle -->
+    <ellipse cx="250" cy="342" rx="58" ry="8" fill="#A8C4D8" opacity="0.65"/>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">THE SQUONK / 斯康克</text>
+    <text x="80" y="374" font-family="Georgia, serif" font-size="8" fill="#6B6256">cornered, it dissolves into tears / 被逼到绝路时，它会化成一摊眼泪</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE CREATURE / 外形</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">the ugliest animal alive / 最丑的动物</text>
+      <text x="520" y="186">warts and loose skin / 疣和松弛的皮肤</text>
+      <text x="520" y="206">hides by day / 白天躲在地下</text>
+      <text x="520" y="226">cries constantly / 整天哭</text>
+      <text x="520" y="242">dissolves when cornered / 被逼到绝路时溶解</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE RECORD / 记录</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Cox, 1910 / 考克斯，1910</text>
+      <text x="520" y="330">Fearsome Creatures / 《伐木林里的可怕生物》</text>
+      <text x="520" y="348">Du Bois illustrations / 杜布瓦插图</text>
+      <text x="520" y="366">Genesis, 1976 / Genesis 乐队，1976</text>
+      <text x="520" y="382">no physical evidence / 没有实物证据</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A monster whose only weapon is its own tears.</text>
+    <text x="60" y="470">一个唯一的武器是自己眼泪的怪物。</text>
+    <text x="60" y="494" fill="#B44A32">The Squonk is a lumberjack tale recorded by a forester in 1910. / 斯康克是伐木工的故事，1910 年由一位林业官记录下来。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

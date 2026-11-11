@@ -1,0 +1,126 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://xiqiqi.com/schema/entry.schema.json",
+  "title": "Oddity Archive Entry",
+  "description": "稀奇奇内容条目的共享元数据。每个条目目录下还有 zh.md 和 en.md。",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "channel",
+    "type",
+    "slug",
+    "title_zh",
+    "era",
+    "region",
+    "tags",
+    "credibility",
+    "sources",
+    "cover",
+    "status",
+    "translation_status"
+  ],
+  "properties": {
+    "channel": {
+      "enum": ["mystery", "tales", "objects", "places", "creatures", "hoaxes"],
+      "description": "决定条目进入哪个频道站。"
+    },
+    "type": {
+      "enum": ["event", "phenomenon", "object", "place", "person", "creature", "story"],
+      "description": "内容形态，作为筛选属性，不决定站点。"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "与目录名一致，中英共用。"
+    },
+    "title_zh": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title_en": {
+      "type": "string"
+    },
+    "era": {
+      "type": "string",
+      "minLength": 1,
+      "description": "年代或时期，可以是具体年份、世纪或传说年代。"
+    },
+    "era_en": {
+      "type": "string",
+      "description": "英文年代。未填时回退到 era。"
+    },
+    "region": {
+      "type": "string",
+      "minLength": 1
+    },
+    "region_en": {
+      "type": "string",
+      "description": "英文地区。未填时回退到 region。"
+    },
+    "coords": {
+      "oneOf": [
+        {
+          "type": "array",
+          "items": { "type": "number" },
+          "minItems": 2,
+          "maxItems": 2,
+          "description": "[纬度, 经度]"
+        },
+        { "type": "null" }
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 8,
+      "uniqueItems": true,
+      "items": { "type": "string" }
+    },
+    "collections": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "credibility": {
+      "enum": ["verified", "disputed", "folklore", "hoax"]
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "title", "publisher", "url", "year", "license", "usage"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^S[0-9]+$"
+          },
+          "title": { "type": "string", "minLength": 1 },
+          "publisher": { "type": "string", "minLength": 1 },
+          "url": { "type": "string", "format": "uri" },
+          "year": { "type": "string", "minLength": 1 },
+          "license": { "type": "string", "minLength": 1 },
+          "usage": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "cover": {
+      "type": "string",
+      "minLength": 1,
+      "description": "相对于条目目录的封面图路径。"
+    },
+    "related": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "status": {
+      "enum": ["draft", "review", "published"]
+    },
+    "featured": {
+      "type": "boolean"
+    },
+    "translation_status": {
+      "enum": ["zh_only", "translated", "reviewed"]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+channel: places
+type: place
+slug: yinxu
+title_zh: 刻字的骨头
+title_en: The Inscribed Bones
+era: "约公元前 1300–前 1046 年"
+era_en: "c. 1300–1046 BCE"
+region: 中国，河南，安阳
+region_en: "Anyang, Henan, China"
+coords: [36.12, 114.32]
+tags:
+  - 殷墟
+  - 甲骨文
+  - 商朝
+  - 妇好
+  - 安阳
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Yinxu"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Yinxu
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 晚商都城、甲骨文、妇好墓与 2006 年世界遗产
+  - id: S2
+    title: "Britannica · Yinxu"
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/place/Yinxu
+    year: "2026"
+    license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    usage: 安阳、商代晚期都城与考古发现
+  - id: S3
+    title: "UNESCO · Yinxu"
+    publisher: UNESCO World Heritage Centre
+    url: https://whc.unesco.org/en/list/1114/
+    year: "2026"
+    license: 版权归 UNESCO；仅作事实参考
+    usage: 世界遗产登录、甲骨文与青铜器
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面甲骨与青铜场景复原、甲骨占卜流程与时间线；不是文物照片
+cover: ../../../assets/covers/yinxu.jpg
+related:
+  - sanxingdui
+  - gobekli-tepe
+status: review
+featured: false
+translation_status: translated

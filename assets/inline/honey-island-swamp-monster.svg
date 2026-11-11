@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Honey Island Swamp Monster: the figure, the tracks and the film</title>
+  <desc id="desc">A dark cypress swamp at dawn with a tall hairy figure between the trees, a four-toed webbed footprint in the mud, and panels on the sightings and the evidence.</desc>
+  <defs>
+    <linearGradient id="honey-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2E3440"/>
+      <stop offset="0.65" stop-color="#7A8290"/>
+      <stop offset="1" stop-color="#C9BFA8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE HONEY ISLAND SWAMP MONSTER · 沼泽里的脚印</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">LOUISIANA / 1963 / FOUR TOES, WEBBED</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE SWAMP AT DAWN / 沼泽晨雾示意</text>
+
+    <!-- sky and water -->
+    <rect x="72" y="150" width="396" height="190" fill="url(#honey-sky)"/>
+    <rect x="72" y="282" width="396" height="58" fill="#2E3A3A"/>
+    <g stroke="#8A9A90" stroke-width="0.8" opacity="0.35">
+      <line x1="80" y1="296" x2="460" y2="296"/>
+      <line x1="80" y1="312" x2="460" y2="312"/>
+      <line x1="80" y1="328" x2="460" y2="328"/>
+    </g>
+
+    <!-- cypress trunks -->
+    <g fill="#22301F">
+      <path d="M86 282 L 92 160 L 104 160 L 110 282 Z"/>
+      <path d="M140 282 L 146 178 L 154 178 L 160 282 Z"/>
+      <path d="M404 282 L 410 166 L 420 166 L 426 282 Z"/>
+      <path d="M444 282 L 450 184 L 458 184 L 464 282 Z"/>
+      <path d="M340 282 L 344 198 L 350 198 L 354 282 Z"/>
+    </g>
+    <!-- moss -->
+    <g stroke="#8A9A7A" stroke-width="1" opacity="0.7">
+      <path d="M96 166 Q 90 196 96 232" fill="none"/>
+      <path d="M150 184 Q 144 214 150 248" fill="none"/>
+      <path d="M414 172 Q 408 206 414 244" fill="none"/>
+      <path d="M452 190 Q 446 222 452 258" fill="none"/>
+    </g>
+    <!-- mist -->
+    <rect x="72" y="262" width="396" height="10" fill="#E8DCC4" opacity="0.18"/>
+    <rect x="72" y="274" width="396" height="6" fill="#E8DCC4" opacity="0.12"/>
+
+    <!-- figure -->
+    <g fill="#1D1A17">
+      <path d="M248 282 L 244 228 Q 242 206 258 200 Q 276 196 284 216 L 288 282 Z"/>
+      <path d="M246 226 Q 236 246 238 268 L 244 270 L 248 246 Z"/>
+      <path d="M284 224 Q 294 246 292 268 L 286 270 L 282 244 Z"/>
+      <path d="M252 200 Q 258 188 270 188 Q 280 190 282 202 L 278 212 L 254 212 Z"/>
+    </g>
+    <circle cx="260" cy="200" r="1.8" fill="#E8C96A"/>
+    <circle cx="272" cy="200" r="1.8" fill="#E8C96A"/>
+
+    <!-- plaster cast of a footprint -->
+    <g transform="translate(330,292) rotate(-6)">
+      <path d="M0 2 C 6 -12 40 -16 48 -2 C 55 12 42 28 28 28 L 12 26 C -2 24 -8 12 0 2 Z" fill="#D8CCB6" stroke="#6B6256" stroke-width="1"/>
+      <ellipse cx="-1" cy="-9" rx="7" ry="6" fill="#D8CCB6" stroke="#6B6256" stroke-width="0.8"/>
+      <ellipse cx="13" cy="-15" rx="7" ry="6" fill="#D8CCB6" stroke="#6B6256" stroke-width="0.8"/>
+      <ellipse cx="28" cy="-16" rx="7" ry="6" fill="#D8CCB6" stroke="#6B6256" stroke-width="0.8"/>
+      <ellipse cx="42" cy="-10" rx="7" ry="6" fill="#D8CCB6" stroke="#6B6256" stroke-width="0.8"/>
+      <path d="M6 -6 Q 10 1 16 -9 M20 -12 Q 24 -5 30 -12 M34 -13 Q 38 -6 44 -9" fill="none" stroke="#6B6256" stroke-width="0.6"/>
+      <path d="M8 6 Q 24 13 40 4" fill="none" stroke="#6B6256" stroke-width="0.6" opacity="0.6"/>
+    </g>
+
+    <line x1="230" y1="182" x2="250" y2="206" stroke="#E8C96A" stroke-width="0.8"/>
+    <text x="172" y="178" font-family="Georgia, serif" font-size="8" fill="#E8C96A">THE FIGURE / 身影</text>
+    <line x1="338" y1="252" x2="346" y2="280" stroke="#E8C96A" stroke-width="0.8"/>
+    <text x="340" y="248" font-family="Georgia, serif" font-size="8" fill="#E8C96A">THE CAST / 石膏模</text>
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">70,000 ACRES / 七万英亩</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">cypress, water and mud / 柏树、水和泥</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SIGHTING / 目击</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">1963 · Ford and Mills / 福特与米尔斯</text>
+      <text x="520" y="186">over seven feet tall / 超过七英尺</text>
+      <text x="520" y="206">grey hair, amber eyes / 灰毛、琥珀色眼睛</text>
+      <text x="520" y="226">a smell of rot / 一股腐烂的气味</text>
+      <text x="520" y="242">no clear photograph / 没有清晰照片</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE EVIDENCE / 证据</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">1974 · four-toed tracks / 四趾脚印</text>
+      <text x="520" y="330">webbing between the toes / 趾间有蹼</text>
+      <text x="520" y="348">a dead boar / 一头死野猪</text>
+      <text x="520" y="366">1978 · In Search Of... / 1978 年电视节目</text>
+      <text x="520" y="382">1980 · a reel of film / 一卷胶片</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Sixty years of looking. One reel of film.</text>
+    <text x="60" y="470">找了六十年，只有一卷胶片。</text>
+    <text x="60" y="494" fill="#B44A32">The casts are real; the creature is not proven. / 石膏脚印是真的，怪物没有被证实。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

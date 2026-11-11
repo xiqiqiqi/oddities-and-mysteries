@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: sword-of-goujian
+title_zh: 出土时还锋利
+title_en: Still Sharp After 2,000 Years
+era: "公元前 5 世纪（春秋晚期）"
+era_en: "5th century BCE (late Spring and Autumn period)"
+region: 中国，湖北，荆州
+region_en: "Jingzhou, Hubei, China"
+coords: [30.35, 112.19]
+tags:
+  - 越王勾践剑
+  - 青铜
+  - 春秋
+  - 湖北
+  - 冶金
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Sword of Goujian"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Sword_of_Goujian
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 出土经过、尺寸、铭文、材质与保存状况
+  - id: S2
+    title: "Wikipedia · Goujian"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Goujian
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 越王勾践的历史背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与剑身结构示意；不是文物照片
+cover: ../../../assets/covers/sword-of-goujian.jpg
+related:
+  - iron-pillar-delhi
+  - hope-diamond
+status: review
+featured: false
+translation_status: translated

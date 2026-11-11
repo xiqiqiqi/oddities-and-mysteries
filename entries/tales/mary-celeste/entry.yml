@@ -1,0 +1,48 @@
+channel: tales
+type: event
+slug: mary-celeste
+title_zh: 一艘没有人的船
+title_en: The Ship with No Crew
+era: "1872"
+era_en: "1872"
+region: 大西洋，亚速尔群岛附近
+region_en: "Atlantic Ocean, near the Azores"
+coords: [38.0, -26.0]
+tags:
+  - 玛丽·塞莱斯特
+  - 幽灵船
+  - 失踪
+  - 大西洋
+  - "1872"
+collections:
+  - ghost-ships
+credibility: disputed
+sources:
+  - id: S1
+    title: "Encyclopaedia Britannica · Mary Celeste"
+    publisher: Britannica editors
+    url: https://www.britannica.com/topic/Mary-Celeste
+    year: "2026"
+    license: 版权归 Britannica，仅作参考
+    usage: 事件经过、发现地点、货物、救生艇
+  - id: S2
+    title: "Wikipedia · Mary Celeste"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Mary_Celeste
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 时间线、船员名单、调查与理论
+  - id: S3
+    title: "Smithsonian Magazine · The Mary Celeste"
+    publisher: Smithsonian Magazine
+    url: https://www.smithsonianmag.com/
+    year: "2026"
+    license: Smithsonian 网站使用条款
+    usage: 背景核对与流行文化影响
+cover: ../../../assets/covers/mary-celeste.jpg
+related:
+  - tunguska-1908
+  - loch-ness
+status: review
+featured: true
+translation_status: translated

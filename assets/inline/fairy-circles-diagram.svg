@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Fairy circles from above and in section</title>
+  <desc id="desc">A schematic showing the plan pattern of fairy circles and a cross-section through a bare centre and grassy rim.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">FAIRY CIRCLES · NAMIB</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">PLAN / SECTION / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="390" height="300" fill="#C9B98F"/>
+    <g fill="#B44A32" opacity=".82">
+      <circle cx="110" cy="160" r="14"/>
+      <circle cx="170" cy="150" r="20"/>
+      <circle cx="245" cy="162" r="12"/>
+      <circle cx="320" cy="150" r="17"/>
+      <circle cx="390" cy="164" r="11"/>
+      <circle cx="95" cy="230" r="18"/>
+      <circle cx="160" cy="238" r="11"/>
+      <circle cx="230" cy="228" r="16"/>
+      <circle cx="300" cy="240" r="21"/>
+      <circle cx="380" cy="232" r="13"/>
+      <circle cx="125" cy="310" r="12"/>
+      <circle cx="195" cy="318" r="18"/>
+      <circle cx="270" cy="306" r="11"/>
+      <circle cx="340" cy="322" r="16"/>
+      <circle cx="405" cy="310" r="10"/>
+      <circle cx="80" cy="380" r="13"/>
+      <circle cx="150" cy="386" r="10"/>
+      <circle cx="220" cy="378" r="16"/>
+      <circle cx="290" cy="390" r="12"/>
+      <circle cx="360" cy="380" r="19"/>
+    </g>
+    <g fill="none" stroke="#E8DDBB" stroke-width="2" opacity=".7">
+      <circle cx="110" cy="160" r="18"/>
+      <circle cx="170" cy="150" r="24"/>
+      <circle cx="245" cy="162" r="16"/>
+      <circle cx="320" cy="150" r="21"/>
+      <circle cx="300" cy="240" r="25"/>
+      <circle cx="195" cy="318" r="22"/>
+      <circle cx="360" cy="380" r="23"/>
+    </g>
+    <text x="82" y="100" font-family="Georgia, serif" font-size="11" fill="#6B6256">PLAN / 俯视</text>
+    <text x="82" y="438" font-family="Georgia, serif" font-size="10" fill="#6B6256">Red = bare centre / 红色为裸地</text>
+  </g>
+
+  <g>
+    <path d="M500 330 C 560 300, 620 300, 680 330 C 730 352, 790 354, 840 338" fill="none" stroke="#1D1A17" stroke-width="2"/>
+    <path d="M500 330 C 560 300, 620 300, 680 330 C 730 352, 790 354, 840 338 L 840 400 L 500 400 Z" fill="#B9A57A" opacity=".35"/>
+    <path d="M600 316 C 626 306, 654 306, 680 318" fill="none" stroke="#B44A32" stroke-width="2" opacity=".7"/>
+    <g stroke="#7A8C4A" stroke-width="2" fill="none">
+      <path d="M512 330 L 512 306 M520 331 L 522 310 M530 328 L 532 308"/>
+      <path d="M676 316 L 676 294 M686 318 L 688 296 M696 322 L 698 302"/>
+      <path d="M790 344 L 790 322 M800 346 L 802 326 M810 344 L 812 324"/>
+    </g>
+    <text x="596" y="286" font-family="Georgia, serif" font-size="12" fill="#B44A32">BARE CENTRE</text>
+    <text x="596" y="303" font-family="Georgia, serif" font-size="10" fill="#6B6256">裸地，几乎无草</text>
+    <text x="614" y="350" font-family="Georgia, serif" font-size="12" fill="#1D1A17">TALLER GRASS RIM</text>
+    <text x="614" y="367" font-family="Georgia, serif" font-size="10" fill="#6B6256">边缘草环，水分集中</text>
+    <text x="500" y="100" font-family="Georgia, serif" font-size="11" fill="#6B6256">SECTION / 剖面</text>
+    <text x="820" y="322" font-family="Georgia, serif" font-size="10" fill="#6B6256">grass</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="11" fill="#6B6256">
+    <rect x="60" y="452" width="360" height="1" fill="#1D1A17" opacity=".2"/>
+    <text x="60" y="478" fill="#B44A32">HYPOTHESIS 1 · TERMITES / 白蚁</text>
+    <text x="60" y="497">sand termites clear roots and trap water</text>
+    <rect x="500" y="452" width="340" height="1" fill="#1D1A17" opacity=".2"/>
+    <text x="500" y="478" fill="#B44A32">HYPOTHESIS 2 · WATER COMPETITION / 水竞争</text>
+    <text x="500" y="497">grass self-organises around scarce water</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: sipan
+title_zh: 没被盗过的王陵
+title_en: The Tomb That Was Never Looted
+era: "约公元 300 年"
+era_en: "c. 300 CE"
+region: 秘鲁，兰巴耶克，西潘
+region_en: "Sipán, Lambayeque, Peru"
+coords: [-6.803, -79.601]
+tags:
+  - 西潘王
+  - 莫切
+  - 华卡拉哈达
+  - 黄金
+  - 考古
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Lord of Sipán"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Lord_of_Sip%C3%A1n
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1987 年发现、墓葬结构、随葬品与墓主人身份
+  - id: S2
+    title: "Wikipedia · Huaca Rajada"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Huaca_Rajada
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 遗址位置、莫切文化背景与后续发掘
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与墓室结构示意；不是出土现场照片
+cover: ../../../assets/covers/sipan.jpg
+related:
+  - jade-burial-suit
+  - sword-of-goujian
+status: review
+featured: false
+translation_status: translated

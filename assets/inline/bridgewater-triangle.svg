@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Bridgewater Triangle: the map, the Hockomock Swamp and the record</title>
+  <desc id="desc">A map of the Bridgewater Triangle between Abington, Rehoboth and Freetown, with the Hockomock Swamp at the centre, and panels on the record and the explanations.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE SWAMP IN THE TRIANGLE · 三角里的沼泽</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SOUTHEASTERN MASSACHUSETTS / 200 SQ MI / HOCKOMOCK SWAMP</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE TRIANGLE / 三角范围示意</text>
+
+    <!-- map background -->
+    <rect x="72" y="150" width="396" height="190" fill="#2E3440"/>
+    <!-- roads -->
+    <g stroke="#4A5A70" stroke-width="0.8">
+      <line x1="90" y1="320" x2="450" y2="200"/>
+      <line x1="120" y1="180" x2="400" y2="330"/>
+      <line x1="240" y1="160" x2="250" y2="338"/>
+    </g>
+    <!-- triangle -->
+    <path d="M150 200 L 200 330 L 420 300 Z" fill="#3A4A3A" opacity="0.3" stroke="#C9A94A" stroke-width="1.2" stroke-dasharray="5 4"/>
+    <!-- swamp -->
+    <path d="M230 250 Q 250 236 280 242 Q 310 236 325 256 Q 340 274 320 292 Q 300 310 270 304 Q 240 310 228 288 Q 218 268 230 250 Z" fill="#22301F" stroke="#6B6256" stroke-width="0.8"/>
+    <text x="248" y="272" font-family="Georgia, serif" font-size="7.5" fill="#8A9A7A">HOCKOMOCK / 沼泽</text>
+
+    <!-- points -->
+    <circle cx="150" cy="200" r="3.5" fill="#E8C96A"/>
+    <text x="116" y="190" font-family="Georgia, serif" font-size="7.5" fill="#F3EEE4">ABINGTON</text>
+    <line x1="140" y1="218" x2="150" y2="202" stroke="#C9A94A" stroke-width="0.7"/>
+    <text x="80" y="222" font-family="Georgia, serif" font-size="7" fill="#C9A94A">1976 · black dog</text>
+
+    <circle cx="200" cy="330" r="3.5" fill="#E8C96A"/>
+    <text x="150" y="320" font-family="Georgia, serif" font-size="7.5" fill="#F3EEE4">REHOBOTH</text>
+
+    <circle cx="420" cy="300" r="3.5" fill="#E8C96A"/>
+    <text x="380" y="318" font-family="Georgia, serif" font-size="7.5" fill="#F3EEE4">FREETOWN</text>
+    <text x="352" y="330" font-family="Georgia, serif" font-size="7" fill="#C9A94A">1998 · cattle</text>
+
+    <!-- 1979 sighting -->
+    <circle cx="330" cy="238" r="3" fill="#B44A32"/>
+    <line x1="332" y1="236" x2="352" y2="218" stroke="#B44A32" stroke-width="0.8"/>
+    <text x="354" y="216" font-family="Georgia, serif" font-size="7" fill="#E8896F">1979 · UFO</text>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">1983 · LOREN COLEMAN NAMES IT / 科尔曼命名</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">a shape drawn around three towns / 三个镇连成的形状</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE RECORD / 记录</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">1976 · the black dog / 黑色巨犬</text>
+      <text x="520" y="186">1979 · the UFO report / UFO 目击</text>
+      <text x="520" y="206">1983 · the name / 名字出现</text>
+      <text x="520" y="226">1998 · mutilated cattle / 牲畜被割</text>
+      <text x="520" y="242">2013 · the documentary / 纪录片</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE EXPLANATIONS / 解释</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">misidentification / 看错</text>
+      <text x="520" y="330">hoaxes and local stories / 恶作剧与地方故事</text>
+      <text x="520" y="348">media and documentaries / 媒体与纪录片</text>
+      <text x="520" y="366">no testable evidence / 没有可检验的证据</text>
+      <text x="520" y="382">the swamp is real / 沼泽是真的</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The triangle is drawn. The swamp is real.</text>
+    <text x="60" y="470">三角是人画的。沼泽是真的。</text>
+    <text x="60" y="494" fill="#B44A32">One name turned a region into a story. / 一个名字，把一片地方变成了故事。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

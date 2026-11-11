@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The last voyage of the Carroll A. Deering</title>
+  <desc id="desc">A schematic map of the U.S. East Coast showing Norfolk, Lewes, Cape Lookout, and Diamond Shoals, with a timeline of the last months and lists of what was missing and what was left aboard.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">CARROLL A. DEERING · 1921</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">LAST VOYAGE / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="480" height="280" fill="#DCE6E8"/>
+
+    <!-- land -->
+    <path d="M60 112 H230 C225 140, 240 160, 232 185 C225 210, 245 230, 238 255 C230 280, 250 300, 242 325 C235 350, 252 370, 246 392 H60 Z" fill="#E2DCC8" stroke="#8C7A52" stroke-width="1.5"/>
+
+    <!-- route -->
+    <path d="M330 372 L 255 335 L 285 295" fill="none" stroke="#B44A32" stroke-width="2" stroke-dasharray="6 4"/>
+    <path d="M285 295 L 279 307 M285 295 L 296 303" stroke="#B44A32" stroke-width="2" fill="none"/>
+
+    <!-- ship -->
+    <g fill="#3F2E1E">
+      <path d="M277 294 L 293 294 L 289 300 L 281 300 Z"/>
+      <path d="M285 294 V 284 L 291 290 L 285 290"/>
+    </g>
+
+    <!-- cities -->
+    <g fill="#B44A32">
+      <circle cx="218" cy="250" r="3.5"/>
+      <circle cx="210" cy="300" r="3.5"/>
+      <circle cx="255" cy="335" r="3.5"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="9" fill="#1D1A17">
+      <text x="100" y="254">LEWES / 刘易斯</text>
+      <text x="100" y="304">NORFOLK / 诺福克</text>
+      <text x="270" y="342" font-size="8">CAPE LOOKOUT / 瞭望角</text>
+      <text x="300" y="312" font-size="8">CAPE HATTERAS / 哈特拉斯角</text>
+      <text x="300" y="286" font-size="8" fill="#B44A32">DIAMOND SHOALS / 钻石浅滩</text>
+      <text x="400" y="180" font-size="10" fill="#3E5A5A">ATLANTIC OCEAN / 大西洋</text>
+      <text x="350" y="370" font-size="8" fill="#B44A32">from Barbados / 来自巴巴多斯</text>
+    </g>
+    <path d="M178 250 H 214" stroke="#1D1A17" stroke-width="1"/>
+    <path d="M178 300 H 206" stroke="#1D1A17" stroke-width="1"/>
+    <path d="M300 282 L 290 293" stroke="#B44A32" stroke-width="1"/>
+  </g>
+
+  <g>
+    <rect x="570" y="112" width="270" height="280" fill="#EFE6D6"/>
+    <text x="590" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">LAST DAYS / 最后航程</text>
+
+    <path d="M596 155 V 265" stroke="#1D1A17" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="596" cy="165" r="4"/>
+      <circle cx="596" cy="195" r="4"/>
+      <circle cx="596" cy="225" r="4"/>
+      <circle cx="596" cy="255" r="4"/>
+    </g>
+
+    <g font-family="Georgia, serif">
+      <text x="610" y="163" font-size="8" fill="#1D1A17">SEP 1920</text>
+      <text x="610" y="175" font-size="8" fill="#6B6256">Norfolk; Merritt ill / 诺福克；梅里特病倒</text>
+
+      <text x="610" y="193" font-size="8" fill="#1D1A17">DEC 1920</text>
+      <text x="610" y="205" font-size="8" fill="#6B6256">Barbados; crew unrest / 巴巴多斯；船员不满</text>
+
+      <text x="610" y="223" font-size="8" fill="#1D1A17">28–29 JAN 1921</text>
+      <text x="610" y="235" font-size="8" fill="#6B6256">Cape Lookout; anchors lost / 瞭望角；锚丢失</text>
+
+      <text x="610" y="253" font-size="8" fill="#1D1A17">31 JAN 1921</text>
+      <text x="610" y="265" font-size="8" fill="#6B6256">Diamond Shoals / 钻石浅滩</text>
+    </g>
+
+    <rect x="586" y="278" width="238" height="100" fill="#E8DCC4"/>
+    <text x="598" y="296" font-family="Georgia, serif" font-size="9" fill="#1D1A17">MISSING / 缺失</text>
+    <text x="598" y="310" font-family="Georgia, serif" font-size="8" fill="#6B6256">11 crew · lifeboats · sextant</text>
+    <text x="598" y="322" font-family="Georgia, serif" font-size="8" fill="#6B6256">chronometer · ship's papers</text>
+
+    <text x="598" y="344" font-family="Georgia, serif" font-size="9" fill="#1D1A17">LEFT BEHIND / 留下</text>
+    <text x="598" y="358" font-family="Georgia, serif" font-size="8" fill="#6B6256">a meal in the galley · a six-toed cat</text>
+    <text x="598" y="370" font-family="Georgia, serif" font-size="8" fill="#6B6256">personal belongings</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The ship was found with sails set, but no one aboard.</text>
+    <text x="60" y="470">发现时帆还张着，船上却没有人。</text>
+    <text x="60" y="494" fill="#B44A32">The lifeboats and instruments were gone; the eleven crew members were never found. / 救生艇和仪器不见了，十一名船员始终没有下落。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

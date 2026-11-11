@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: min-min-lights
+title_zh: 跟着车走的光
+title_en: The Light That Followed the Car
+era: "19 世纪起有记录"
+era_en: "recorded since the 19th century"
+region: 澳大利亚，昆士兰内陆
+region_en: "outback Queensland, Australia"
+coords: [-22.91, 139.9]
+tags:
+  - 敏敏光
+  - 昆士兰
+  - 荒野
+  - 光球
+  - 目击
+collections:
+  - strange-lights
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Min Min light"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Min_Min_light
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 目击描述、名称来源、常见解释
+  - id: S2
+    title: "Wikipedia · Boulia, Queensland"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Boulia,_Queensland
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 博利亚位置与内陆环境
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与目击路线示意；不是现场照片
+cover: ../../../assets/covers/min-min-lights.jpg
+related:
+  - hessdalen-lights
+  - foo-fighters
+status: review
+featured: false
+translation_status: translated

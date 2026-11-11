@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: queen-mary
+title_zh: 海上的旅馆
+title_en: The Hotel at Sea
+era: "1936–1967"
+era_en: "1936–1967"
+region: 美国，加州，长滩
+region_en: "Long Beach, California, United States"
+coords: [33.753, -118.190]
+tags:
+  - 玛丽女王号
+  - 长滩
+  - 鬼船
+  - 远洋邮轮
+  - 二战
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · RMS Queen Mary"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/RMS_Queen_Mary
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 建造、首航、二战服役、库拉索号碰撞与长滩时期
+  - id: S2
+    title: "Queen Mary · History and Fun Facts"
+    publisher: The Queen Mary
+    url: https://www.queenmary.com/history/stats-fun-facts/
+    year: "2026"
+    license: 版权归 The Queen Mary；仅作事实参考
+    usage: 退役、长滩开放与酒店现状
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面邮轮夜航场景复原、时间线与舱室示意；不是现场照片
+cover: ../../../assets/covers/queen-mary.jpg
+related:
+  - mary-celeste
+  - carroll-a-deering
+status: review
+featured: false
+translation_status: translated

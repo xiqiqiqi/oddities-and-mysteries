@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: bloop
+title_zh: 深海里的 Bloop
+title_en: The Bloop from the Deep
+era: "1997 年录制；后来被识别为冰震"
+era_en: "recorded in 1997; later identified as an icequake"
+region: 南太平洋
+region_en: "South Pacific Ocean"
+coords: [-50, -100]
+tags:
+  - Bloop
+  - 深海怪声
+  - 冰震
+  - NOAA
+  - 水听器
+collections:
+  - strange-sounds
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Bloop"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Bloop
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 录音经过、流传的说法、冰震识别
+  - id: S2
+    title: "NOAA PMEL Acoustics · underwater sound monitoring"
+    publisher: NOAA Pacific Marine Environmental Laboratory
+    url: https://www.pmel.noaa.gov/acoustics/
+    year: "2026"
+    license: NOAA 网站使用条款
+    usage: 水听器阵列与深海声源背景；具体页面待补
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与水听器阵列示意图；不是历史照片
+cover: ../../../assets/covers/bloop.jpg
+related:
+  - slow-down
+  - whistle
+status: review
+featured: false
+translation_status: translated

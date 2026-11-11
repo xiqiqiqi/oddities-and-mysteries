@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: ball-lightning
+title_zh: 雷暴里的小太阳
+title_en: The Small Sun in the Storm
+era: "1838 年首次科学汇总；更早的目击可追溯至古代"
+era_en: "1838 (first scientific survey; older sightings exist)"
+region: 全球
+region_en: "Worldwide"
+coords: null
+tags:
+  - 球状闪电
+  - 雷暴
+  - 等离子体
+  - 大气电学
+  - 未解现象
+collections:
+  - strange-lights
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Ball lightning"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Ball_lightning
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 目击特征、历史记录、解释假说
+  - id: S2
+    title: "Encyclopaedia Britannica · Ball lightning"
+    publisher: Britannica editors
+    url: https://www.britannica.com/science/ball-lightning
+    year: "2026"
+    license: 版权归 Britannica，仅作参考
+    usage: 事实交叉核对；未复制原文
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与机制示意图；不是历史照片
+cover: ../../../assets/covers/ball-lightning.jpg
+related:
+  - hessdalen-lights
+  - tunguska-1908
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Almas legends in Central Asia</title>
+  <desc id="desc">A schematic map of Central Asian regions associated with Almas reports, with a description panel of the creature and the lack of physical evidence.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">ALMAS · CENTRAL ASIA</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">LEGEND DISTRIBUTION / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="300" fill="#DCE6D8" stroke="#1D1A17" stroke-opacity=".15"/>
+    <path d="M110 170 C 150 150, 210 160, 250 180 C 300 200, 330 180, 380 200 C 420 220, 430 260, 400 300 C 370 340, 300 350, 250 330 C 200 310, 160 320, 120 290 C 90 260, 80 210, 110 170 Z" fill="#E8E0CC" stroke="#6B6256" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="180" cy="210" r="6"/>
+      <circle cx="250" cy="250" r="6"/>
+      <circle cx="340" cy="220" r="6"/>
+      <circle cx="370" cy="280" r="6"/>
+      <circle cx="140" cy="270" r="6"/>
+    </g>
+    <g font-family="Georgia, serif" font-size="10" fill="#1D1A17">
+      <text x="192" y="214">KAZAKHSTAN</text>
+      <text x="262" y="254">KYRGYZSTAN</text>
+      <text x="352" y="224">MONGOLIA</text>
+      <text x="382" y="284">CAUCASUS</text>
+      <text x="120" y="292">PAMIR</text>
+    </g>
+    <text x="90" y="390" font-family="Georgia, serif" font-size="10" fill="#6B6256">Approximate regions only / 仅为大致区域</text>
+  </g>
+
+  <g>
+    <rect x="520" y="112" width="320" height="300" fill="#EFE6D6" stroke="#1D1A17" stroke-opacity=".15"/>
+    <text x="544" y="140" font-family="Georgia, serif" font-size="11" fill="#1D1A17">REPORTED TRAITS / 常见描述</text>
+    <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+      <text x="544" y="172">• 1.5–2 m tall / 身高 1.5–2 米</text>
+      <text x="544" y="198">• reddish-brown or dark hair</text>
+      <text x="556" y="212">红棕色或深色毛发</text>
+      <text x="544" y="238">• upright, no tail</text>
+      <text x="556" y="252">直立行走，没有尾巴</text>
+      <text x="544" y="278">• heavy brow, receding chin</text>
+      <text x="556" y="292">眉骨突出，下巴后缩</text>
+      <text x="544" y="318">• nocturnal, avoids people</text>
+      <text x="556" y="332">夜行，避开人</text>
+    </g>
+    <path d="M544 350 H 816" stroke="#1D1A17" stroke-width="1" opacity=".2"/>
+    <text x="544" y="374" font-family="Georgia, serif" font-size="10" fill="#B44A32">No body. No skeleton. No clear photo.</text>
+    <text x="544" y="390" font-family="Georgia, serif" font-size="10" fill="#B44A32">无尸体、无骨骼、无清晰照片。</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Soviet researchers searched in the 1950s–1970s; no specimen was found.</text>
+    <text x="60" y="470">苏联研究者曾在 1950–1970 年代考察，没有找到标本。</text>
+    <text x="60" y="494">Possible explanations: bears, misidentification, folklore, hoaxes.</text>
+    <text x="60" y="512" fill="#B44A32">可能解释：熊、误认、民间传说、骗局。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

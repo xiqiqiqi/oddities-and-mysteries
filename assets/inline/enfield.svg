@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Enfield poltergeist: the house, the family, and the evidence</title>
+  <desc id="desc">A cutaway of 284 Green Street with markers for the knocking, the voice, the chair and the photographs, plus panels on the case and the evidence.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE ENFIELD POLTERGEIST · 1977–1979</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">GREEN STREET / A VOICE / THE INVESTIGATORS</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE HOUSE / 住宅剖面示意</text>
+
+    <!-- roof -->
+    <path d="M85 200 L 240 140 L 395 200 Z" fill="#C9B799" stroke="#6B4A32" stroke-width="1.2"/>
+    <!-- body -->
+    <rect x="95" y="200" width="290" height="150" fill="#F7F1E4" stroke="#6B4A32" stroke-width="1.2"/>
+    <path d="M95 280 H385" stroke="#8C7A52" stroke-width="1"/>
+
+    <!-- upper rooms -->
+    <path d="M225 200 V 280" stroke="#8C7A52" stroke-width="1"/>
+    <text x="108" y="222" font-family="Georgia, serif" font-size="8" fill="#1D1A17">BEDROOM / 卧室</text>
+    <text x="240" y="222" font-family="Georgia, serif" font-size="8" fill="#1D1A17">LIVING ROOM / 客厅</text>
+
+    <text x="108" y="244" font-family="Georgia, serif" font-size="8" fill="#4A4030">KNOCKING / 敲击</text>
+    <text x="108" y="260" font-family="Georgia, serif" font-size="8" fill="#4A4030">VOICE / 声音</text>
+    <text x="108" y="274" font-family="Georgia, serif" font-size="8" fill="#4A4030">PHOTOS / 照片</text>
+
+    <text x="240" y="244" font-family="Georgia, serif" font-size="8" fill="#4A4030">CHAIR / 椅子</text>
+    <circle cx="170" cy="205" r="3" fill="#B44A32"/>
+    <circle cx="330" cy="250" r="3" fill="#B44A32"/><path d="M312 248 L 326 250" stroke="#1D1A17" stroke-width="1"/>
+
+    <!-- lower floor -->
+    <text x="108" y="304" font-family="Georgia, serif" font-size="8" fill="#1D1A17">FAMILY OF FIVE / 一家五口</text>
+    <text x="108" y="320" font-family="Georgia, serif" font-size="8" fill="#4A4030">Peggy Hodgson and four children</text>
+
+    <text x="100" y="372" font-family="Georgia, serif" font-size="8" fill="#1D1A17">284 GREEN STREET / 绿街 284 号</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE CASE / 案件</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">August 1977 / 1977 年 8 月</text>
+      <text x="520" y="186">Peggy Hodgson, four children</text>
+      <text x="520" y="202">佩吉·霍奇森与四个孩子</text>
+      <text x="520" y="222">Janet, 11 / 珍妮特，十一岁</text>
+      <text x="520" y="240">the voice of “Bill Wilkins” / 声音</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE EVIDENCE / 证据</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">photographs and tapes / 照片与录音</text>
+      <text x="520" y="330">police and neighbours / 警察与邻居</text>
+      <text x="520" y="348">Anita Gregory: fakery</text>
+      <text x="520" y="364">安妮塔·格雷戈里发现造假</text>
+      <text x="520" y="382">no agreed conclusion / 没有公认结论</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The disturbances began in August 1977 and lasted into 1979.</text>
+    <text x="60" y="470">骚动从 1977 年 8 月开始，持续到 1979 年。</text>
+    <text x="60" y="494" fill="#B44A32">Some phenomena were faked; others remain unexplained. / 部分现象被证明是假的，另一些至今没有解释。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

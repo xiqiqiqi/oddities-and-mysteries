@@ -1,0 +1,48 @@
+channel: places
+type: place
+slug: carnac-stones
+title_zh: 望不到头的石阵
+title_en: The Endless Rows of Stone
+era: "约公元前 4500–3300 年"
+era_en: "about 4500–3300 BCE"
+region: 法国，布列塔尼，卡纳克
+region_en: "Carnac, Brittany, France"
+coords: [47.59, -3.08]
+tags:
+  - 卡纳克石阵
+  - 布列塔尼
+  - 巨石
+  - 新石器时代
+  - 排列
+collections:
+  - ancient-megaliths
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Carnac stones"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Carnac_stones
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 石阵规模、分组、年代与用途假说
+  - id: S2
+    title: "Wikipedia · Carnac"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Carnac
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 卡纳克位置、布列塔尼环境与遗址保护
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与石阵排列示意；不是现场照片
+cover: ../../../assets/covers/carnac-stones.jpg
+related:
+  - gobekli-tepe
+  - sailing-stones
+status: review
+featured: false
+translation_status: translated

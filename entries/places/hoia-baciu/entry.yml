@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: hoia-baciu
+title_zh: 林子里的空地
+title_en: The Clearing in the Woods
+era: "1953 年至今"
+era_en: "1953–present"
+region: 罗马尼亚，克卢日-纳波卡
+region_en: "Cluj-Napoca, Romania"
+coords: [46.768, 23.585]
+tags:
+  - 霍亚巴丘森林
+  - 特兰西瓦尼亚
+  - 飞碟
+  - 弯曲的树
+  - 闹鬼森林
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Hoia Forest"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Hoia_Forest
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 森林位置、面积、树种、传说与 1968 年照片争议
+  - id: S2
+    title: "Atlas Obscura · Hoia Baciu Forest"
+    publisher: Atlas Obscura
+    url: https://www.atlasobscura.com/places/hoia-baciu-forest
+    year: "2026"
+    license: 版权归 Atlas Obscura；仅作事实参考
+    usage: 空地、弯曲树木、旅游现状与传闻背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面夜森林场景复原、空地平面与事件时间线；不是现场照片
+cover: ../../../assets/covers/hoia-baciu.jpg
+related:
+  - dancing-forest
+  - island-of-the-dolls
+status: review
+featured: false
+translation_status: translated

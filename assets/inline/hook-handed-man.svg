@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Hook: the car, the door handle and the hook</title>
+  <desc id="desc">A couple's car parked on a dark lovers' lane with a steel hook hanging from the passenger door handle, and panels on the story and the legend.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE HOOK · 车门上的钩子</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">LOVERS' LANE / THE RADIO / THE HANDLE</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE CAR AT NIGHT / 夜间汽车示意</text>
+
+    <!-- night scene -->
+    <rect x="72" y="150" width="396" height="190" fill="#2E3440"/>
+    <circle cx="420" cy="180" r="15" fill="#F3EEE4" opacity="0.8"/>
+    <g fill="#F3EEE4">
+      <circle cx="110" cy="168" r="1"/><circle cx="160" cy="180" r="1"/><circle cx="220" cy="164" r="1"/><circle cx="350" cy="176" r="1"/>
+    </g>
+    <!-- trees -->
+    <path d="M90 300 L 90 230 L 110 250 L 110 300 Z" fill="#2E3A2E"/>
+    <path d="M440 300 L 440 220 L 460 245 L 460 300 Z" fill="#2E3A2E"/>
+
+    <!-- road -->
+    <rect x="72" y="300" width="396" height="40" fill="#4A4A4A"/>
+    <line x1="80" y1="330" x2="460" y2="330" stroke="#E8DCC4" stroke-width="1.5" stroke-dasharray="10 10"/>
+
+    <!-- car -->
+    <path d="M160 300 L 170 250 L 210 220 L 300 220 L 340 250 L 350 300 Z" fill="#6B4A32" stroke="#1D1A17" stroke-width="1.2"/>
+    <path d="M180 252 L 212 228 L 296 228 L 326 252 Z" fill="#A8C4D8"/>
+    <line x1="250" y1="228" x2="250" y2="252" stroke="#6B4A32" stroke-width="1.5"/>
+    <rect x="160" y="286" width="190" height="14" fill="#4A4030"/>
+    <circle cx="196" cy="304" r="12" fill="#1D1A17"/>
+    <circle cx="314" cy="304" r="12" fill="#1D1A17"/>
+    <circle cx="196" cy="304" r="5" fill="#8C7A52"/>
+    <circle cx="314" cy="304" r="5" fill="#8C7A52"/>
+    <rect x="282" y="270" width="20" height="5" fill="#D8CCB6"/>
+
+    <!-- hook -->
+    <path d="M292 275 L 292 300 Q 292 316 306 316 Q 318 316 318 304" fill="none" stroke="#B9C4CC" stroke-width="4" stroke-linecap="round"/>
+    <path d="M304 316 L 304 324" stroke="#B44A32" stroke-width="2"/>
+    <circle cx="304" cy="327" r="2" fill="#B44A32"/>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">LOVERS' LANE / 情侣路</text>
+    <line x1="352" y1="288" x2="322" y2="297" stroke="#E8896F" stroke-width="0.8"/>
+    <text x="356" y="292" font-family="Georgia, serif" font-size="8" fill="#E8896F">THE HOOK / 钩子</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE STORY / 故事</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">a couple parked at night / 情侣夜里停车</text>
+      <text x="520" y="186">a radio warning / 广播警告</text>
+      <text x="520" y="206">an escaped patient with a hook / 手是铁钩的逃犯</text>
+      <text x="520" y="226">the girl wants to leave / 女孩要回家</text>
+      <text x="520" y="242">they drive away fast / 他们迅速离开</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE LEGEND / 传说</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">popular in the 1950s–60s / 1950–60 年代流行</text>
+      <text x="520" y="330">cars, drive-ins, lovers' lanes / 汽车、露天影院、情侣路</text>
+      <text x="520" y="348">no real case / 没有真实案件</text>
+      <text x="520" y="366">a warning about parking / 关于停车的警告</text>
+      <text x="520" y="382">the hook on the door / 车门上的钩子</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The danger had already come, and they thought they were safe.</text>
+    <text x="60" y="470">危险已经来过，他们却以为安全了。</text>
+    <text x="60" y="494" fill="#B44A32">The Hook is an urban legend, not a reported crime. / “钩子手”是都市传说，不是有记录的案件。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

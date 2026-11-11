@@ -1,0 +1,54 @@
+channel: objects
+type: object
+slug: star-of-africa
+title_zh: 非洲之星
+title_en: The Star of Africa
+era: "1905"
+era_en: "1905"
+region: 南非 / 英国，伦敦
+region_en: "South Africa / London, United Kingdom"
+coords: [51.508, -0.076]
+tags:
+  - 非洲之星
+  - 库利南钻石
+  - 英王权杖
+  - 伦敦塔
+  - 钻石
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Cullinan Diamond"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Cullinan_Diamond
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1905 年发现、3106 克拉、切割与库利南一号/二号
+  - id: S2
+    title: "Royal Collection Trust · The Cullinan Diamond"
+    publisher: Royal Collection Trust
+    url: https://www.rct.uk/collection/stories/the-crown-jewels/the-cullinan-diamond
+    year: "2026"
+    license: 版权归 Royal Collection Trust；仅作事实参考
+    usage: 原石尺寸、1907 年赠送、切割过程与王室珠宝归属
+  - id: S3
+    title: "Historic Royal Palaces · The Crown Jewels"
+    publisher: Historic Royal Palaces
+    url: https://www.hrp.org.uk/tower-of-london/history-and-stories/the-crown-jewels/
+    year: "2026"
+    license: 版权归 Historic Royal Palaces；仅作事实参考
+    usage: 库利南一号在权杖、二号在帝国皇冠的位置
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面钻石与权杖场景复原、原石切割示意与时间线；不是文物照片
+cover: ../../../assets/covers/star-of-africa.jpg
+related:
+  - hope-diamond
+  - sword-of-goujian
+status: review
+featured: false
+translation_status: translated

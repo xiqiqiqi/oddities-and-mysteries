@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: lanting-xu
+title_zh: 春游留下的字
+title_en: The Writing from the Spring Outing
+era: "353"
+era_en: "353"
+region: 中国，浙江，绍兴
+region_en: "Shaoxing, Zhejiang, China"
+coords: [29.986, 120.585]
+tags:
+  - 兰亭序
+  - 王羲之
+  - 书法
+  - 唐太宗
+  - 摹本
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Lantingji Xu"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Lantingji_Xu
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 353 年兰亭雅集、文本内容、原件下落与历代摹本
+  - id: S2
+    title: "Britannica · Wang Xizhi"
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/biography/Wang-Xizhi
+    year: "2026"
+    license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    usage: 王羲之生平、书法地位与《兰亭序》的影响
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面兰亭溪边雅集场景复原、文本与摹本时间线；不是文物照片
+cover: ../../../assets/covers/lanting-xu.jpg
+related:
+  - sword-of-goujian
+  - fuchun-mountain
+status: review
+featured: false
+translation_status: translated

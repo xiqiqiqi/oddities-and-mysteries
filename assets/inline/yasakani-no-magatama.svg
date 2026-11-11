@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The jewel in the box: the three regalia, the myth and the unseen jewel</title>
+  <desc id="desc">An open black lacquered box with a green magatama on red silk, and panels on the three regalia, the myth and the 1185 battle of Dan-no-ura.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE JEWEL IN THE BOX · 匣中的玉</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">THREE REGALIA / DAN-NO-URA 1185 / NO PUBLIC PHOTO</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE BOX / 匣子示意</text>
+
+    <!-- dark room -->
+    <rect x="72" y="150" width="396" height="190" fill="#2E3440"/>
+    <polygon points="232,150 280,150 322,330 190,330" fill="#F3EEE4" opacity="0.07"/>
+
+    <!-- box lid -->
+    <path d="M150 250 L 170 190 L 330 190 L 350 250 Z" fill="#1D1A17" stroke="#8C7A52" stroke-width="1.5"/>
+    <path d="M158 246 L 176 198 L 324 198 L 342 246 Z" fill="#3A2E26"/>
+    <!-- box base -->
+    <path d="M150 250 L 350 250 L 340 326 L 160 326 Z" fill="#2A211C" stroke="#8C7A52" stroke-width="1.5"/>
+    <!-- silk -->
+    <path d="M164 254 L 336 254 L 328 316 L 172 316 Z" fill="#8E2F32"/>
+    <path d="M176 260 Q 250 286 324 260 L 318 306 Q 250 326 182 306 Z" fill="#B44A32" opacity="0.55"/>
+    <!-- cord -->
+    <ellipse cx="250" cy="284" rx="62" ry="26" fill="none" stroke="#1D1A17" stroke-width="3"/>
+    <!-- magatama -->
+    <g fill="#6FA36B">
+      <circle cx="252" cy="294" r="19"/>
+      <path d="M252 276 Q 266 265 282 257 Q 287 266 271 281 Q 261 289 254 296 Z"/>
+    </g>
+    <circle cx="258" cy="295" r="4" fill="#8E2F32"/>
+    <path d="M244 284 Q 240 292 244 300" fill="none" stroke="#3E6B45" stroke-width="1" opacity="0.5"/>
+
+    <line x1="136" y1="196" x2="176" y2="214" stroke="#F3EEE4" stroke-width="0.8"/>
+    <text x="86" y="192" font-family="Georgia, serif" font-size="8" fill="#F3EEE4">THE BOX / 匣子</text>
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">NEVER OPENED IN PUBLIC / 从不公开展示</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">no photograph, no measured size / 没有照片，没有尺寸记录</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE THREE REGALIA / 三神器</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">mirror · Ise Jingu / 镜 · 伊势神宫</text>
+      <text x="520" y="186">sword · Atsuta Jingu / 剑 · 热田神宫</text>
+      <text x="520" y="206">jewel · Imperial Palace / 玉 · 皇居</text>
+      <text x="520" y="226">valour, wisdom, benevolence / 勇、智、仁</text>
+      <text x="520" y="242">proof of the throne / 皇位的凭证</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE MYTH / 神话</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Amaterasu hides in a cave / 天照躲进山洞</text>
+      <text x="520" y="330">mirror and jewels at the mouth / 洞口挂镜与勾玉</text>
+      <text x="520" y="348">given to Ninigi / 交给琼琼杵尊</text>
+      <text x="520" y="366">Dan-no-ura, 1185 / 坛之浦，1185</text>
+      <text x="520" y="382">fished out, sword lost / 玉被捞起，剑沉海底</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The most important object is the one no one can see.</text>
+    <text x="60" y="470">最重要的东西，是没人看得见的那个。</text>
+    <text x="60" y="494" fill="#B44A32">The myth is told; the object stays closed. / 神话被讲述，匣子始终关着。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

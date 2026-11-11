@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Troy: nine cities stacked in one mound, and Schliemann's trench</title>
+  <desc id="desc">A schematic section through the mound at Hisarlik showing the nine occupation layers, the trench cut by Schliemann, and the destruction layer of Troy VIIa.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">TROY · NINE CITIES IN ONE MOUND</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">HISARLIK / STRATIGRAPHY / SCHLIEMANN'S TRENCH</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">SECTION / 剖面</text>
+    <text x="300" y="136" font-family="Georgia, serif" font-size="7" fill="#1D1A17">Schliemann trench / 施里曼探沟</text>
+    <path d="M340 139 V 150" stroke="#1D1A17" stroke-width="1"/>
+
+    <!-- layers -->
+    <g stroke="#8C7A52" stroke-width="0.8">
+      <rect x="108" y="150" width="352" height="20" fill="#C9B799"/>
+      <rect x="108" y="170" width="352" height="20" fill="#D2C2A6"/>
+      <rect x="108" y="190" width="352" height="16" fill="#E3BFA8"/>
+      <rect x="108" y="206" width="352" height="16" fill="#D8CCB6"/>
+      <rect x="108" y="222" width="352" height="28" fill="#C6B292"/>
+      <rect x="108" y="250" width="352" height="24" fill="#D8CCB6"/>
+      <rect x="108" y="274" width="352" height="24" fill="#BFAA8A"/>
+      <rect x="108" y="298" width="352" height="22" fill="#D8CCB6"/>
+      <rect x="108" y="320" width="352" height="28" fill="#CBB89C"/>
+      <rect x="108" y="348" width="352" height="24" fill="#D8CCB6"/>
+    </g>
+
+    <!-- numeral strip -->
+    <rect x="80" y="150" width="28" height="222" fill="#E4D8C2" stroke="#8C7A52" stroke-width="0.8"/>
+    <path d="M108 150 V 372" stroke="#6B4A32" stroke-width="1.2"/>
+    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17" text-anchor="middle">
+      <text x="94" y="164">IX</text>
+      <text x="94" y="184">VIII</text>
+      <text x="94" y="200" font-size="7">VIIa</text>
+      <text x="94" y="216" font-size="7">VIIb</text>
+      <text x="94" y="240">VI</text>
+      <text x="94" y="266">V</text>
+      <text x="94" y="290">IV</text>
+      <text x="94" y="312">III</text>
+      <text x="94" y="338">II</text>
+      <text x="94" y="364">I</text>
+    </g>
+
+    <!-- stones -->
+    <g fill="#8C7A52" opacity="0.5">
+      <ellipse cx="160" cy="162" rx="4" ry="2"/>
+      <ellipse cx="230" cy="182" rx="3" ry="1.6"/>
+      <ellipse cx="270" cy="238" rx="5" ry="2"/>
+      <ellipse cx="180" cy="286" rx="4" ry="1.8"/>
+      <ellipse cx="220" cy="336" rx="5" ry="2"/>
+      <ellipse cx="400" cy="246" rx="4" ry="1.8"/>
+      <ellipse cx="380" cy="308" rx="3" ry="1.5"/>
+      <ellipse cx="150" cy="358" rx="4" ry="1.8"/>
+    </g>
+
+    <!-- VIIa highlight -->
+    <g stroke="#B44A32" stroke-width="1" stroke-dasharray="4 2">
+      <path d="M108 190 H 330"/>
+      <path d="M356 190 H 460"/>
+      <path d="M108 206 H 330"/>
+      <path d="M356 206 H 460"/>
+    </g>
+    <text x="370" y="202" font-family="Georgia, serif" font-size="7" fill="#B44A32">c. 1180 BCE burned</text>
+
+    <!-- trench -->
+    <rect x="330" y="150" width="26" height="222" fill="#F3EEE4" stroke="#4A4030" stroke-width="1.2" stroke-dasharray="5 2"/>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="150" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">KEY LAYERS / 关键层</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="164">I · c. 3000 BCE · first citadel / 最早的城堡</text>
+      <text x="520" y="184">II · c. 2550 BCE · walls, “treasure” / 城墙与“宝藏”</text>
+      <text x="520" y="204">VI · c. 1700 BCE · ramps, towers / 斜坡与塔楼</text>
+      <text x="520" y="224" fill="#B44A32">VIIa · c. 1180 BCE · destroyed by fire</text>
+      <text x="520" y="240" fill="#B44A32">特洛伊 VIIa 毁于大火，最像史诗</text>
+      <text x="520" y="256">IX · Roman city, to c. 500 CE / 罗马城</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="272" width="340" height="120" fill="#EFE6D6"/>
+    <text x="520" y="300" font-family="Georgia, serif" font-size="10" fill="#1D1A17">SCHLIEMANN / 施里曼</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="324">1870–73: a trench through the mound</text>
+      <text x="520" y="340">一条从山顶挖到山脚的探沟</text>
+      <text x="520" y="360">1873: “Priam's Treasure” / “普里阿摩斯宝藏”</text>
+      <text x="520" y="378">actually Troy II, 1,000 years older / 实际早一千年</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Nine cities were built on the same hill between c. 3000 BCE and 500 CE.</text>
+    <text x="60" y="470">公元前 3000 年到公元 500 年，同一座土丘上先后叠起九座城。</text>
+    <text x="60" y="494" fill="#B44A32">Troy VIIa burned around 1180 BCE — the layer most often linked to Homer. / 特洛伊 VIIa 约公元前 1180 年毁于大火，最常被联系到荷马史诗。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

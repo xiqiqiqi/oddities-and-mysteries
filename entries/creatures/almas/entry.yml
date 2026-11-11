@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: almas
+title_zh: 雪线下的野人
+title_en: The Wild Man of the Snow Line
+era: "古代传说；20 世纪多次考察"
+era_en: "old legends; several 20th-century expeditions"
+region: 中亚，哈萨克斯坦、蒙古等地
+region_en: "Central Asia, including Kazakhstan and Mongolia"
+coords: [43.0, 74.0]
+tags:
+  - 阿尔马斯
+  - 野人
+  - 中亚
+  - 雪人
+  - 考察
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Almas (cryptozoology)"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Almas_(cryptozoology)
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 传说分布、目击描述与主要解释
+  - id: S2
+    title: "Wikipedia · Boris Porshnev"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Boris_Porshnev
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 苏联时期的野人研究与考察背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与目击描述示意；不是现场照片
+cover: ../../../assets/covers/almas.jpg
+related:
+  - loch-ness
+  - spring-heeled-jack
+status: review
+featured: false
+translation_status: translated

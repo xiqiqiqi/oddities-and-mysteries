@@ -1,0 +1,47 @@
+channel: mystery
+type: phenomenon
+slug: tabbys-star
+title_zh: 那颗星变暗了
+title_en: The Star That Kept Dimming
+era: "2015 年发表异常光变研究（数据 2009–2013）"
+era_en: "anomalous light curve published in 2015 (data from 2009–2013)"
+region: 天鹅座，约 1470 光年外
+region_en: "Cygnus, about 1,470 light-years away"
+coords: null
+tags:
+  - 塔比星
+  - KIC 8462852
+  - 光变
+  - 尘埃
+  - 开普勒望远镜
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Tabby's Star"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Tabby%27s_Star
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 恒星信息、光变历史、尘埃解释与后续观测
+  - id: S2
+    title: "arXiv · Planet Hunters X. KIC 8462852"
+    publisher: Boyajian et al.
+    url: https://arxiv.org/abs/1509.03622
+    year: "2015"
+    license: arXiv 使用条款
+    usage: 光变曲线、异常变暗幅度、候选解释
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与光变曲线示意；不是天文照片
+cover: ../../../assets/covers/tabbys-star.jpg
+related:
+  - tunguska-1908
+  - blue-jets
+status: review
+featured: false
+translation_status: translated

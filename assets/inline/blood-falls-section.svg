@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Cross-section of Blood Falls</title>
+  <desc id="desc">A schematic of Taylor Glacier, the subglacial brine reservoir, the red outflow at the terminus, and the proglacial lake.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">BLOOD FALLS · CROSS-SECTION</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">TAYLOR GLACIER / SCHEMATIC</text>
+
+  <g>
+    <path d="M60 180 L 120 170 L 200 178 L 300 164 L 420 172 L 540 160 L 620 168 L 700 150 L 760 158 L 840 148 L 840 360 L 60 360 Z" fill="#DCEAF0" stroke="#8FA0B0" stroke-width="1.5"/>
+    <path d="M60 180 L 120 170 L 200 178 L 300 164 L 420 172 L 540 160 L 620 168 L 700 150 L 760 158 L 840 148" fill="none" stroke="#F3EEE4" stroke-width="5" opacity=".7"/>
+    <text x="120" y="220" font-family="Georgia, serif" font-size="13" fill="#1D1A17">TAYLOR GLACIER / 泰勒冰川</text>
+    <text x="120" y="240" font-family="Georgia, serif" font-size="10" fill="#6B6256">ice hundreds of metres thick</text>
+  </g>
+
+  <g>
+    <path d="M300 330 C 360 304, 470 300, 540 318 C 590 330, 620 340, 640 352 L 620 360 L 320 360 Z" fill="#6FA8C8" opacity=".35" stroke="#4A7A98" stroke-width="1"/>
+    <text x="360" y="342" font-family="Georgia, serif" font-size="11" fill="#1D1A17">SUBGLACIAL BRINE / 冰下卤水</text>
+    <text x="360" y="358" font-family="Georgia, serif" font-size="10" fill="#6B6256">iron-rich, hypersaline, about −5°C</text>
+  </g>
+
+  <g>
+    <path d="M600 330 C 620 320, 634 300, 642 280 C 650 260, 660 250, 668 248" fill="none" stroke="#B44A32" stroke-width="8" opacity=".85" stroke-linecap="round"/>
+    <path d="M668 248 C 676 270, 682 300, 686 330 L 690 360" fill="none" stroke="#B44A32" stroke-width="10" opacity=".7" stroke-linecap="round"/>
+    <path d="M690 360 C 704 372, 716 382, 736 390" fill="none" stroke="#B44A32" stroke-width="6" opacity=".35" stroke-linecap="round"/>
+    <text x="600" y="226" font-family="Georgia, serif" font-size="12" fill="#B44A32">RED OUTFLOW</text>
+    <text x="600" y="243" font-family="Georgia, serif" font-size="10" fill="#6B6256">铁氧化后染红冰面</text>
+  </g>
+
+  <g>
+    <path d="M640 360 L 840 360 L 840 420 L 640 420 Z" fill="#9FBFD0" opacity=".45"/>
+    <path d="M640 360 C 690 366, 740 366, 840 360" fill="none" stroke="#1D1A17" stroke-width="1.5"/>
+    <text x="690" y="396" font-family="Georgia, serif" font-size="11" fill="#1D1A17">LAKE BONNEY / 邦尼湖</text>
+    <text x="690" y="413" font-family="Georgia, serif" font-size="10" fill="#6B6256">frozen surface for most of the year</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="400">Brine has been isolated from the atmosphere for about two million years.</text>
+    <text x="60" y="418">卤水与大气隔绝约两百万年，靠铁和硫维持微生物群落。</text>
+    <text x="60" y="460">Not to scale / 非精确比例 · Graphic: XIQIQI · CC BY-SA 4.0</text>
+  </g>
+</svg>

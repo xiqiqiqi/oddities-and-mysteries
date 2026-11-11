@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: kusanagi
+title_zh: 看不见的剑
+title_en: The Sword No One Sees
+era: "古代"
+era_en: "Ancient"
+region: 日本，名古屋
+region_en: "Nagoya, Japan"
+coords: [35.128, 136.908]
+tags:
+  - 草薙剑
+  - 天丛云剑
+  - 三神器
+  - 热田神宫
+  - 须佐之男
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Kusanagi no Tsurugi"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Kusanagi_no_Tsurugi
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 神话来源、三神器、热田神宫与未经展示的现状
+  - id: S2
+    title: "Britannica · Atsuta Shrine"
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/topic/Atsuta-Shrine
+    year: "2026"
+    license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    usage: 热田神宫的历史与草薙剑的祭祀地位
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面神宫夜景复原、神话时间线与剑的封存示意；不是文物照片
+cover: ../../../assets/covers/kusanagi.jpg
+related:
+  - sword-of-goujian
+  - ark-of-the-covenant
+status: review
+featured: false
+translation_status: translated

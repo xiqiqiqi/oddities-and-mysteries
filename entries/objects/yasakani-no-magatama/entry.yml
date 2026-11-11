@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: yasakani-no-magatama
+title_zh: 匣中的玉
+title_en: The Jewel in the Box
+era: "古代"
+era_en: "Ancient"
+region: 日本，东京
+region_en: "Tokyo, Japan"
+coords: [35.685, 139.753]
+tags:
+  - 八尺琼勾玉
+  - 三神器
+  - 皇居
+  - 天照大神
+  - 坛之浦
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Imperial Regalia of Japan"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Imperial_Regalia_of_Japan
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 三神器的构成、所在与天皇即位仪式
+  - id: S2
+    title: "Kokugakuin University · Basic Terms of Shinto: Sanshu no Shinki"
+    publisher: Kokugakuin University
+    url: https://www2.kokugakuin.ac.jp/ijcc/wp/bts/bts_s.html
+    year: "2026"
+    license: 版权归 Kokugakuin University；仅作事实参考
+    usage: 三神器的神道定义、镜与剑的供奉地、皇居中的剑镜复制品
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面漆匣与勾玉场景复原、神话与流传时间线；不是文物照片
+cover: ../../../assets/covers/yasakani-no-magatama.jpg
+related:
+  - kusanagi
+  - true-cross
+status: review
+featured: false
+translation_status: translated

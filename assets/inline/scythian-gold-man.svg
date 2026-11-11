@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Golden Man: the headdress, the tomb and the question of identity</title>
+  <desc id="desc">A schematic conical gold headdress with a tree of life and winged horse motifs, a height dimension, and panels on the Issyk tomb and the debate over the sex of the deceased.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE GOLDEN MAN · 金人</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">ISSYK / 1969 / MORE THAN 4,000 GOLD OBJECTS</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE HEADDRESS / 金冠示意</text>
+
+    <!-- cone -->
+    <path d="M260 150 L 320 330 L 200 330 Z" fill="#C9A227" stroke="#8C6A1F" stroke-width="1.4"/>
+    <g stroke="#8C6A1F" stroke-width="1">
+      <line x1="234" y1="200" x2="286" y2="200"/>
+      <line x1="221" y1="240" x2="299" y2="240"/>
+      <line x1="210" y1="280" x2="310" y2="280"/>
+    </g>
+
+    <!-- plaques -->
+    <g fill="#E8C96A" stroke="#8C6A1F" stroke-width="0.7">
+      <circle cx="240" cy="200" r="2.4"/><circle cx="250" cy="200" r="2.4"/><circle cx="260" cy="200" r="2.4"/><circle cx="270" cy="200" r="2.4"/><circle cx="280" cy="200" r="2.4"/>
+      <circle cx="230" cy="240" r="2.4"/><circle cx="242" cy="240" r="2.4"/><circle cx="254" cy="240" r="2.4"/><circle cx="266" cy="240" r="2.4"/><circle cx="278" cy="240" r="2.4"/><circle cx="290" cy="240" r="2.4"/>
+      <circle cx="220" cy="280" r="2.4"/><circle cx="234" cy="280" r="2.4"/><circle cx="248" cy="280" r="2.4"/><circle cx="262" cy="280" r="2.4"/><circle cx="276" cy="280" r="2.4"/><circle cx="290" cy="280" r="2.4"/><circle cx="302" cy="280" r="2.4"/>
+    </g>
+
+    <!-- tree of life -->
+    <g stroke="#6B4A32" stroke-width="1.6" fill="none">
+      <line x1="260" y1="190" x2="260" y2="316"/>
+      <path d="M260 230 L 244 214 M260 230 L 276 214 M260 260 L 240 244 M260 260 L 280 244 M260 290 L 246 276 M260 290 L 274 276"/>
+    </g>
+    <g fill="#6B4A32">
+      <circle cx="244" cy="214" r="2"/><circle cx="276" cy="214" r="2"/>
+      <circle cx="240" cy="244" r="2"/><circle cx="280" cy="244" r="2"/>
+      <circle cx="246" cy="276" r="2"/><circle cx="274" cy="276" r="2"/>
+    </g>
+
+    <!-- winged horses -->
+    <g fill="#8C5A3A">
+      <ellipse cx="225" cy="300" rx="10" ry="4.5"/>
+      <circle cx="236" cy="296" r="3"/>
+      <path d="M222 296 L 214 288 L 228 292 Z"/>
+      <g stroke="#8C5A3A" stroke-width="1.4">
+        <line x1="219" y1="304" x2="216" y2="314"/>
+        <line x1="228" y1="304" x2="230" y2="314"/>
+      </g>
+      <ellipse cx="295" cy="300" rx="10" ry="4.5"/>
+      <circle cx="284" cy="296" r="3"/>
+      <path d="M298 296 L 306 288 L 292 292 Z"/>
+      <g stroke="#8C5A3A" stroke-width="1.4">
+        <line x1="301" y1="304" x2="304" y2="314"/>
+        <line x1="292" y1="304" x2="290" y2="314"/>
+      </g>
+    </g>
+
+    <!-- dimension -->
+    <g stroke="#B44A32" stroke-width="1">
+      <line x1="340" y1="150" x2="340" y2="330"/>
+      <line x1="334" y1="150" x2="346" y2="150"/>
+      <line x1="334" y1="330" x2="346" y2="330"/>
+    </g>
+    <text x="352" y="244" font-family="Georgia, serif" font-size="9" fill="#B44A32">63 cm</text>
+    <text x="352" y="256" font-family="Georgia, serif" font-size="9" fill="#B44A32">63 厘米</text>
+
+    <!-- labels -->
+    <path d="M180 192 L 250 228" stroke="#6B6256" stroke-width="0.8" fill="none"/>
+    <text x="80" y="190" font-family="Georgia, serif" font-size="8" fill="#1D1A17">TREE OF LIFE / 生命之树</text>
+    <path d="M188 348 L 290 306" stroke="#6B6256" stroke-width="0.8" fill="none"/>
+    <text x="80" y="352" font-family="Georgia, serif" font-size="8" fill="#1D1A17">WINGED HORSE / 带翼的马</text>
+    <text x="80" y="374" font-family="Georgia, serif" font-size="8" fill="#6B6256">gold plaques sewn onto cloth / 缝在衣服上的金片</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE TOMB / 墓葬</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">Issyk, 50 km east of Almaty / 伊塞克，阿拉木图以东 50 公里</text>
+      <text x="520" y="186">excavated 1969 / 1969 年发掘</text>
+      <text x="520" y="206">Kemal Akishev / 凯马尔·阿基舍夫</text>
+      <text x="520" y="226">an intact side chamber / 一间未被盗的侧室</text>
+      <text x="520" y="242">a young person, 18–20 / 一个 18–20 岁的年轻人</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE QUESTION / 疑问</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Akishev: male / 阿基舍夫：男性</text>
+      <text x="520" y="330">mirror, beads, spindle / 镜子、珠子、纺轮</text>
+      <text x="520" y="348">a female hypothesis / 女性假说</text>
+      <text x="520" y="366">bones poorly preserved / 骨骼保存很差</text>
+      <text x="520" y="382">the question remains open / 至今没有定论</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The gold is real; the body on display is a reconstruction.</text>
+    <text x="60" y="470">金子是真的，展出的身体是复原的。</text>
+    <text x="60" y="494" fill="#B44A32">Whether the Golden Man was male or female is still debated. / 金人是男是女，至今仍有争论。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

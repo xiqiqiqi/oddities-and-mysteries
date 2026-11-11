@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: weeping-madonna
+title_zh: 流泪的圣母
+title_en: The Weeping Madonna
+era: "1953 年起"
+era_en: "From 1953"
+region: 意大利，锡拉库萨 / 奇维塔韦基亚
+region_en: "Syracuse and Civitavecchia, Italy"
+coords: [37.07, 15.29]
+tags:
+  - 圣母像
+  - 流泪
+  - 锡拉库萨
+  - 奇维塔韦基亚
+  - 宗教
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Weeping statue"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Weeping_statue
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 锡拉库萨 1953、奇维塔韦基亚 1995、教会调查与质疑
+  - id: S2
+    title: "Santuario Madonna delle Lacrime · Syracuse"
+    publisher: Sanctuary of Our Lady of Tears
+    url: https://www.madonnadellelacrime.it/
+    year: "2026"
+    license: 版权归 Sanctuary of Our Lady of Tears；仅作事实参考
+    usage: 1953 年 8 月 29 日至 9 月 1 日的流泪记录与朝圣地
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面教堂圣母像场景复原、案例时间线与检验示意；不是文物照片
+cover: ../../../assets/covers/weeping-madonna.jpg
+related:
+  - stigmata
+  - shroud-of-turin
+status: review
+featured: false
+translation_status: translated

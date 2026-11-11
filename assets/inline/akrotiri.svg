@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Akrotiri: streets and houses under the volcanic ash</title>
+  <desc id="desc">A schematic cutaway of the Bronze Age town with multi-storey houses, a paved street and a fresco, embedded in volcanic ash, with panels on the town and the eruption.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">AKROTIRI · THE TOWN UNDER THE ASH</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SANTORINI / BRONZE AGE / c. 1600 BCE</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">CUTAWAY / 剖面示意</text>
+
+    <!-- ash body -->
+    <rect x="70" y="130" width="400" height="220" fill="#D8CCB6"/>
+    <g fill="#8C7A52" opacity="0.5">
+      <circle cx="95" cy="150" r="1.6"/>
+      <circle cx="130" cy="170" r="1.4"/>
+      <circle cx="170" cy="145" r="1.8"/>
+      <circle cx="215" cy="165" r="1.5"/>
+      <circle cx="255" cy="148" r="1.6"/>
+      <circle cx="300" cy="172" r="1.4"/>
+      <circle cx="345" cy="150" r="1.8"/>
+      <circle cx="390" cy="168" r="1.5"/>
+      <circle cx="430" cy="145" r="1.6"/>
+      <circle cx="410" cy="205" r="1.5"/>
+      <circle cx="445" cy="230" r="1.4"/>
+    </g>
+    <text x="386" y="160" font-family="Georgia, serif" font-size="8" fill="#1D1A17">ASH / 火山灰</text>
+
+    <!-- cutaway window -->
+    <rect x="80" y="215" width="300" height="135" fill="#EFE6D6" stroke="#8C7A52" stroke-width="1" stroke-dasharray="4 2"/>
+    <path d="M80 345 H380" stroke="#6B4A32" stroke-width="1.2"/>
+
+    <!-- left house -->
+    <rect x="90" y="235" width="75" height="110" fill="#F7F1E4" stroke="#6B4A32" stroke-width="1.2"/>
+    <path d="M90 272 H165 M90 309 H165" stroke="#8C7A52" stroke-width="0.8"/>
+    <rect x="103" y="244" width="13" height="16" fill="#DCE6E8" stroke="#6B4A32" stroke-width="0.8"/>
+    <rect x="135" y="244" width="13" height="16" fill="#DCE6E8" stroke="#6B4A32" stroke-width="0.8"/>
+    <rect x="103" y="281" width="13" height="16" fill="#DCE6E8" stroke="#6B4A32" stroke-width="0.8"/>
+    <rect x="135" y="281" width="13" height="16" fill="#DCE6E8" stroke="#6B4A32" stroke-width="0.8"/>
+    <text x="95" y="327" font-family="Georgia, serif" font-size="7" fill="#4A4030">3 STOREYS</text>
+    <text x="101" y="338" font-family="Georgia, serif" font-size="7" fill="#4A4030">三层</text>
+
+    <!-- street -->
+    <g stroke="#B8A582" stroke-width="1">
+      <path d="M167 240 H243"/>
+      <path d="M167 268 H243"/>
+      <path d="M167 296 H243"/>
+      <path d="M167 324 H243"/>
+    </g>
+
+    <!-- right house -->
+    <rect x="245" y="242" width="90" height="103" fill="#F7F1E4" stroke="#6B4A32" stroke-width="1.2"/>
+    <path d="M245 280 H335 M245 318 H335" stroke="#8C7A52" stroke-width="0.8"/>
+    <rect x="255" y="250" width="26" height="24" fill="#EFE6D6" stroke="#B44A32" stroke-width="1"/>
+    <path d="M260 262 L 265 258 L 270 262 M273 258 L 277 262" stroke="#3E5A7A" stroke-width="1" fill="none"/>
+    <path d="M263 270 V 264 M266 270 V 263" stroke="#6B7A5A" stroke-width="1"/>
+
+    <!-- labels outside the cutaway -->
+    <text x="388" y="256" font-family="Georgia, serif" font-size="8" fill="#1D1A17">FRESCO</text>
+    <text x="388" y="267" font-family="Georgia, serif" font-size="8" fill="#1D1A17">壁画</text>
+    <path d="M385 260 L 283 264" stroke="#1D1A17" stroke-width="1"/>
+
+    <text x="175" y="372" font-family="Georgia, serif" font-size="8" fill="#1D1A17">STREET / 街道</text>
+    <path d="M205 366 V 332" stroke="#1D1A17" stroke-width="1"/>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE TOWN / 城</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">paved streets, stone steps</text>
+      <text x="520" y="182">铺石街道与台阶</text>
+      <text x="520" y="202">three-storey houses / 三层楼房</text>
+      <text x="520" y="222">drains under the streets</text>
+      <text x="520" y="238">街道下有排水沟，屋内有厕所</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE ERUPTION / 喷发</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">c. 1600 BCE / 约公元前 1600 年</text>
+      <text x="520" y="330">ash tens of metres deep / 灰层厚达几十米</text>
+      <text x="520" y="348">a tsunami across the Aegean / 海啸</text>
+      <text x="520" y="366">almost no human remains</text>
+      <text x="520" y="382">几乎没有人的遗骸，居民似已撤离</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The town was buried around 1600 BCE and excavated from 1967.</text>
+    <text x="60" y="470">这座城市约在公元前 1600 年被埋，1967 年开始发掘。</text>
+    <text x="60" y="494" fill="#B44A32">Streets, houses and frescoes survived; the people seem to have left. / 街道、房屋与壁画留了下来，人似乎提前离开了。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

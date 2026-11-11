@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Christopher McCandless: from graduation to Bus 142</title>
+  <desc id="desc">A five-stage timeline from Emory in 1990 to the discovery of McCandless's body in Bus 142 in September 1992, with panels on the bus and on the debate about the cause of death.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">CHRISTOPHER McCANDLESS · 1990–1992</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">THE ROAD / ALASKA / BUS 142</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="132" font-family="Georgia, serif" font-size="8" fill="#6B6256">FIVE STAGES / 五个阶段</text>
+
+    <path d="M95 160 V 340" stroke="#8C7A52" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="95" cy="160" r="3.5"/>
+      <circle cx="95" cy="205" r="3.5"/>
+      <circle cx="95" cy="250" r="3.5"/>
+      <circle cx="95" cy="295" r="3.5"/>
+      <circle cx="95" cy="340" r="3.5"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="9" fill="#1D1A17">
+      <text x="115" y="160">1990 · EMORY / 毕业</text>
+      <text x="115" y="205">1990–91 · THE ROAD / 路上</text>
+      <text x="115" y="250">APR 1992 · FAIRBANKS / 费尔班克斯</text>
+      <text x="115" y="295">APR–AUG · BUS 142 / 巴士</text>
+      <text x="115" y="340">6 SEP 1992 · FOUND / 发现</text>
+    </g>
+    <g font-family="Georgia, serif" font-size="8" fill="#4A4030">
+      <text x="115" y="175">捐款、烧掉现金、不告而别</text>
+      <text x="115" y="220">搭车、打零工、划皮艇到墨西哥</text>
+      <text x="115" y="265">走进斯坦佩德小径</text>
+      <text x="115" y="310">113 天，松鼠、鸟、根茎、种子</text>
+      <text x="115" y="355">猎人在巴士里发现遗体</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE BUS / 巴士</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">rice, rifle, books, camera</text>
+      <text x="520" y="182">大米、步枪、书、相机</text>
+      <text x="520" y="202">a moose he could not preserve</text>
+      <text x="520" y="218">一头驼鹿，肉烂掉了</text>
+      <text x="520" y="238">“POT. SEED” in the diary / 日记</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE DEBATE / 争论</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">starvation is official / 官方死因是饥饿</text>
+      <text x="520" y="330">ODAP in wild potato seeds / 土豆种子毒素</text>
+      <text x="520" y="348">rabbit starvation / 蛋白质中毒</text>
+      <text x="520" y="366">no consensus / 没有定论</text>
+      <text x="520" y="382">bus moved in 2020 / 巴士 2020 年移走</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">McCandless entered the Stampede Trail in April 1992 and died there that summer.</text>
+    <text x="60" y="470">麦坎德利斯 1992 年 4 月走进斯坦佩德小径，那年夏天死在里面。</text>
+    <text x="60" y="494" fill="#B44A32">The official cause is starvation; the exact mechanism is still debated. / 官方死因是饥饿，具体机制仍有争论。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

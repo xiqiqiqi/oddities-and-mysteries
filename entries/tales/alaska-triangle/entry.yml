@@ -1,0 +1,55 @@
+channel: tales
+type: phenomenon
+slug: alaska-triangle
+title_zh: 三角形的账
+title_en: The Triangle's Ledger
+era: "1972 年起"
+era_en: "From 1972"
+region: 美国，阿拉斯加
+region_en: "Alaska, USA"
+coords: [63.0, -150.0]
+tags:
+  - 阿拉斯加三角
+  - 失踪
+  - 1972
+  - 博格斯
+  - 比吉奇
+  - 丛林飞机
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Skeptoid · The Alaska Triangle"
+    publisher: Brian Dunning / Skeptoid
+    url: https://skeptoid.com/episodes/1015
+    year: "2025"
+    license: 版权归 Skeptoid；仅作事实参考
+    usage: 两万失踪说法的核查、实际未结案件数、三角面积与名称来源
+  - id: S2
+    title: "Alaska Department of Public Safety · Missing Persons Clearinghouse"
+    publisher: Alaska Department of Public Safety
+    url: https://dps.alaska.gov/AST/ABI/MissingPerson
+    year: "2026"
+    license: 阿拉斯加州政府公开资料；仅作事实参考
+    usage: 阿拉斯加未结失踪案件统计
+  - id: S3
+    title: "The Curious City · The Plane That Vanished"
+    publisher: The Curious City
+    url: https://www.thecurious.city/anchorage/articles/plane-that-vanished
+    year: "2026"
+    license: 版权归 The Curious City；仅作事实参考
+    usage: 1972 年 10 月 16 日 Cessna 310 失踪、39 天搜救
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面阿拉斯加冰川与丛林飞机场景复原、三角范围与统计对比；不是现场照片
+cover: ../../../assets/covers/alaska-triangle.jpg
+related:
+  - valentich
+  - mary-celeste
+status: review
+featured: false
+translation_status: translated

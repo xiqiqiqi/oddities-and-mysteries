@@ -1,0 +1,48 @@
+channel: creatures
+type: creature
+slug: honey-island-swamp-monster
+title_zh: 沼泽里的脚印
+title_en: The Tracks in the Swamp
+era: "1963 年起"
+era_en: "From 1963"
+region: 美国，路易斯安那，斯莱德尔
+region_en: "Slidell, Louisiana, USA"
+coords: [30.29, -89.72]
+tags:
+  - 蜜岛沼泽
+  - 沼泽怪物
+  - 路易斯安那
+  - 大脚怪
+  - 脚印
+  - 超 8 胶片
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Honey Island Swamp monster"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Honey_Island_Swamp_monster
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1963 年目击、1974 年脚印、1978 年电视节目与 1980 年胶片
+  - id: S2
+    title: "Gods and Monsters · Honey Island Swamp Monster"
+    publisher: Gods and Monsters
+    url: https://godsandmonsters.info/honey-island-swamp-monster/
+    year: "2026"
+    license: 版权归 Gods and Monsters；仅作事实参考
+    usage: 沼泽地理、福特与米尔斯的经历、邻居的造假指控、怀疑者调查
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面沼泽晨雾场景复原、目击与证据时间线；不是现场照片
+cover: ../../../assets/covers/honey-island-swamp-monster.jpg
+related:
+  - loch-ness
+  - mothman
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: yeti
+title_zh: 雪线以上的脚印
+title_en: Footprints Above the Snowline
+era: 传说
+era_en: "Folklore"
+region: 尼泊尔、中国西藏、喜马拉雅
+region_en: "Nepal, Tibet, and the Himalayas"
+coords: [27.988, 86.925]
+tags:
+  - 雪人
+  - 喜马拉雅
+  - 未确认生物
+  - DNA
+  - 棕熊
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Yeti"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Yeti
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 名称、目击史、探险记录与主要解释
+  - id: S2
+    title: "Proceedings B · Evolutionary history of enigmatic bears in the Tibetan Plateau–Himalaya region and the identity of the yeti"
+    publisher: The Royal Society
+    url: https://royalsocietypublishing.org/doi/10.1098/rspb.2017.1804
+    year: "2017"
+    license: 版权所有；仅作事实参考
+    usage: 2017 年雪人样本 DNA 鉴定与熊类结论
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面雪线场景与证据、DNA 对照示意；不是目击照片
+cover: ../../../assets/covers/yeti.jpg
+related:
+  - loch-ness
+  - almas
+status: review
+featured: false
+translation_status: translated

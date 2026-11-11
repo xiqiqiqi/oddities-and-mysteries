@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Leviathan: from the Ugaritic Lotan to Hobbes and the fossil whale</title>
+  <desc id="desc">A five-stage timeline from the fourteenth-century BCE Ugaritic Lotan through Job 41, Psalm 74 and Isaiah 27, Hobbes in 1651 and the fossil whale Livyatan in 2010, with panels on the text and the name.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">LEVIATHAN · 利维坦</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">LOTAN / JOB 41 / HOBBES / THE FOSSIL WHALE</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="132" font-family="Georgia, serif" font-size="8" fill="#6B6256">FIVE STAGES / 五个阶段</text>
+
+    <path d="M95 160 V 340" stroke="#8C7A52" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="95" cy="160" r="3.5"/>
+      <circle cx="95" cy="205" r="3.5"/>
+      <circle cx="95" cy="250" r="3.5"/>
+      <circle cx="95" cy="295" r="3.5"/>
+      <circle cx="95" cy="340" r="3.5"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="9" fill="#1D1A17">
+      <text x="112" y="158">14TH C BCE / UGARIT</text>
+      <text x="112" y="174">Lotan, seven heads / 洛坦，七头海蛇</text>
+
+      <text x="112" y="203">JOB 41 / 《约伯记》41</text>
+      <text x="112" y="219">scales, fire, smoke / 鳞甲、火、烟</text>
+
+      <text x="112" y="248">PSALM 74 / ISAIAH 27</text>
+      <text x="112" y="264">God crushes the serpent / 上帝砸碎海蛇</text>
+
+      <text x="112" y="293">1651 / HOBBES</text>
+      <text x="112" y="309">the state as a giant / 国家作为巨人</text>
+
+      <text x="112" y="338">2010 / LIVYATAN</text>
+      <text x="112" y="354">a fossil sperm whale / 化石抹香鲸</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE TEXT / 文本</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">Psalm 74:14 / 《诗篇》74:14</text>
+      <text x="520" y="186">Job 41: scales and fire / 《约伯记》41：鳞甲与火</text>
+      <text x="520" y="206">Isaiah 27:1 / 《以赛亚书》27:1</text>
+      <text x="520" y="226">a chaos monster / 混沌的怪物</text>
+      <text x="520" y="242">no fossil, no specimen / 没有化石，没有标本</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE NAME / 名字</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Lotan becomes Leviathan / 洛坦变成利维坦</text>
+      <text x="520" y="330">crocodile or whale? / 鳄鱼还是鲸？</text>
+      <text x="520" y="348">Hobbes, 1651 / 霍布斯，1651</text>
+      <text x="520" y="366">Livyatan melvillei, 2010 / 利维坦鲸，2010</text>
+      <text x="520" y="382">a name, not a species / 是名字，不是物种</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The same sea monster served different gods and different arguments.</text>
+    <text x="60" y="470">同一头海怪，服务过不同的神，也服务过不同的论证。</text>
+    <text x="60" y="494" fill="#B44A32">Leviathan is a text and an image, not a zoological specimen. / 利维坦是文本与图像，不是动物标本。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: busby-chair
+title_zh: 死人的椅子
+title_en: The Dead Man's Chair
+era: "1702"
+era_en: "1702"
+region: 英国，北约克郡
+region_en: "North Yorkshire, England"
+coords: [54.233, -1.342]
+tags:
+  - 巴斯比之椅
+  - 诅咒
+  - 约克郡
+  - 博物馆
+  - 闹鬼
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Busby Stoop"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Busby_Stoop
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 托马斯·巴斯比、1702 年谋杀与处决、椅子与酒馆
+  - id: S2
+    title: "Countryfile · The chilling legend of the Dead Man's Seat"
+    publisher: Countryfile
+    url: https://www.countryfile.com/people/historical-figures/busby-stoop-chair
+    year: "2026"
+    license: 版权归 Countryfile；仅作事实参考
+    usage: 诅咒传说、死亡案例与椅子移入瑟斯克博物馆
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面酒馆木椅场景复原、时间线与诅咒传播示意；不是文物照片
+cover: ../../../assets/covers/busby-chair.jpg
+related:
+  - annabelle-doll
+  - winchester-mystery-house
+status: review
+featured: false
+translation_status: translated

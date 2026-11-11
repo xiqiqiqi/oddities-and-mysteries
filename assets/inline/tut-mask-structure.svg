@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The structure of Tutankhamun's mask and the repair of its beard</title>
+  <desc id="desc">A schematic front view of the gold mask with its nemes headdress, inlaid eyes, and false beard, and a timeline of the 2014 damage and the 2015–2016 repair.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">TUTANKHAMUN · THE MASK</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">STRUCTURE / REPAIR / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="460" height="280" fill="#EFE6D6"/>
+
+    <clipPath id="nemesClip">
+      <path d="M212 150 L 368 150 L 420 300 L 400 330 L 300 342 L 200 330 L 160 300 Z"/>
+    </clipPath>
+
+    <!-- headdress -->
+    <path d="M212 150 L 368 150 L 420 300 L 400 330 L 300 342 L 200 330 L 160 300 Z" fill="#D9A62B" stroke="#6B4A32" stroke-width="1.5"/>
+    <g clip-path="url(#nemesClip)" stroke="#2E4A6B" stroke-width="5" opacity=".8">
+      <path d="M180 140 L 120 350 M204 140 L 144 350 M228 140 L 168 350 M252 140 L 192 350 M276 140 L 216 350 M300 140 L 240 350 M324 140 L 264 350 M348 140 L 288 350 M372 140 L 312 350 M396 140 L 336 350 M420 140 L 360 350"/>
+    </g>
+
+    <!-- ears -->
+    <ellipse cx="246" cy="252" rx="10" ry="16" fill="#D9A62B" stroke="#6B4A32" stroke-width="1.2"/>
+    <ellipse cx="334" cy="252" rx="10" ry="16" fill="#D9A62B" stroke="#6B4A32" stroke-width="1.2"/>
+
+    <!-- face -->
+    <ellipse cx="290" cy="238" rx="46" ry="60" fill="#E0B040" stroke="#6B4A32" stroke-width="1.5"/>
+
+    <!-- uraeus and vulture -->
+    <path d="M268 152 C 262 160, 272 168, 268 176 C 264 182, 272 184, 276 178" fill="none" stroke="#2E4A6B" stroke-width="3"/>
+    <path d="M306 154 C 300 160, 306 168, 312 164 C 318 160, 316 152, 310 152 Z" fill="#B44A32" stroke="#6B4A32" stroke-width="1"/>
+
+    <!-- eyes and brows -->
+    <path d="M250 232 Q 262 222 274 232 Q 262 242 250 232 Z" fill="#F3EEE4" stroke="#2E4A6B" stroke-width="1.5"/>
+    <path d="M306 232 Q 318 222 330 232 Q 318 242 306 232 Z" fill="#F3EEE4" stroke="#2E4A6B" stroke-width="1.5"/>
+    <circle cx="262" cy="232" r="3" fill="#1D1A17"/>
+    <circle cx="318" cy="232" r="3" fill="#1D1A17"/>
+    <path d="M248 216 Q 262 208 276 216 M304 216 Q 318 208 332 216" fill="none" stroke="#2E4A6B" stroke-width="4"/>
+
+    <!-- nose and mouth -->
+    <path d="M290 238 V 258 M284 258 Q 290 264 296 258" fill="none" stroke="#8C5A2B" stroke-width="1.5"/>
+    <path d="M278 274 Q 290 280 302 274" fill="none" stroke="#8C5A2B" stroke-width="2"/>
+
+    <!-- beard -->
+    <path d="M278 296 H 302 V 352 Q 290 366 278 352 Z" fill="#D9A62B" stroke="#6B4A32" stroke-width="1.5"/>
+    <g stroke="#8C5A2B" stroke-width="1">
+      <path d="M278 310 H 302 M278 324 H 302 M278 338 H 302"/>
+    </g>
+
+    <!-- labels -->
+    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17">
+      <text x="80" y="150">nemes / 头巾</text>
+      <text x="80" y="180">uraeus + vulture / 蛇与鹫</text>
+      <text x="80" y="225">inlaid eyes / 镶嵌眼</text>
+      <text x="80" y="340">false beard / 假胡须</text>
+    </g>
+    <g stroke="#1D1A17" stroke-width="1">
+      <path d="M148 146 L 214 162"/>
+      <path d="M200 176 L 268 158"/>
+      <path d="M156 222 L 248 232"/>
+      <path d="M158 336 L 276 330"/>
+    </g>
+    <text x="80" y="372" font-family="Georgia, serif" font-size="8" fill="#6B6256">gold, lapis, carnelian / 金、青金石、红玉髓</text>
+  </g>
+
+  <g>
+    <rect x="550" y="112" width="290" height="280" fill="#EFE6D6"/>
+    <text x="570" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE BEARD / 胡须事件</text>
+
+    <path d="M586 160 V 360" stroke="#1D1A17" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="586" cy="170" r="4"/>
+      <circle cx="586" cy="215" r="4"/>
+      <circle cx="586" cy="260" r="4"/>
+      <circle cx="586" cy="305" r="4"/>
+      <circle cx="586" cy="350" r="4"/>
+    </g>
+
+    <g font-family="Georgia, serif">
+      <text x="600" y="168" font-size="8" fill="#1D1A17">AUG 2014</text>
+      <text x="600" y="180" font-size="8" fill="#6B6256">beard detaches / 胡须脱落</text>
+
+      <text x="600" y="213" font-size="8" fill="#1D1A17">2014</text>
+      <text x="600" y="225" font-size="8" fill="#6B6256">epoxy; gold scratched / 环氧树脂，金面划伤</text>
+
+      <text x="600" y="258" font-size="8" fill="#1D1A17">LATE 2015</text>
+      <text x="600" y="270" font-size="8" fill="#6B6256">German-Egyptian team / 德埃联合团队</text>
+
+      <text x="600" y="303" font-size="8" fill="#1D1A17">2016</text>
+      <text x="600" y="315" font-size="8" fill="#6B6256">beeswax; back on display / 蜂蜡固定，重新展出</text>
+
+      <text x="600" y="348" font-size="8" fill="#1D1A17">2025</text>
+      <text x="600" y="360" font-size="8" fill="#6B6256">moved to the GEM, Giza / 移至吉萨大埃及博物馆</text>
+    </g>
+
+    <text x="570" y="380" font-family="Georgia, serif" font-size="8" fill="#B44A32">8 staff prosecuted / 8 名相关人员被起诉</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The mask is 54 cm tall and weighs about 10.23 kg.</text>
+    <text x="60" y="470">面具高约 54 厘米，重约 10.23 公斤。</text>
+    <text x="60" y="494" fill="#B44A32">In 2014 the beard was glued back with epoxy; the repair was later redone with beeswax. / 2014 年胡须被环氧树脂粘回，后来用蜂蜡重新固定。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

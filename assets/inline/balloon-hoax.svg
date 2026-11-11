@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The 1844 balloon hoax in the New York Sun</title>
+  <desc id="desc">A schematic newspaper front page announcing a 75-hour balloon crossing of the Atlantic, with a timeline from the 13 April extra to the 1978 first real crossing.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE BALLOON HOAX · 1844</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">NEW YORK SUN / 75 HOURS / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="360" height="280" fill="#EFE6D6"/>
+
+    <rect x="80" y="130" width="320" height="240" fill="#F7F1E4" stroke="#8C7A52" stroke-width="1.5"/>
+    <text x="100" y="158" font-family="Georgia, serif" font-size="11" fill="#1D1A17">THE NEW YORK SUN</text>
+    <path d="M100 166 H 380" stroke="#1D1A17" stroke-width="1.5"/>
+    <text x="100" y="190" font-family="Georgia, serif" font-size="12" fill="#1D1A17">ASTOUNDING NEWS</text>
+    <text x="100" y="208" font-family="Georgia, serif" font-size="12" fill="#1D1A17">BY EXPRESS</text>
+    <text x="100" y="232" font-family="Georgia, serif" font-size="9" fill="#4A4030">THE ATLANTIC CROSSED</text>
+    <text x="100" y="246" font-family="Georgia, serif" font-size="9" fill="#4A4030">IN THREE DAYS</text>
+
+    <g stroke="#B8A582" stroke-width="2">
+      <path d="M100 264 H 360"/>
+      <path d="M100 276 H 360"/>
+      <path d="M100 288 H 330"/>
+      <path d="M100 300 H 350"/>
+      <path d="M100 312 H 320"/>
+      <path d="M100 324 H 340"/>
+      <path d="M100 336 H 300"/>
+    </g>
+
+    <text x="100" y="360" font-family="Georgia, serif" font-size="8" fill="#B44A32">75 hours / 75 小时 · 8 passengers / 8 名乘客</text>
+  </g>
+
+  <g>
+    <rect x="450" y="112" width="390" height="280" fill="#EFE6D6"/>
+    <text x="470" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">HOW IT UNFOLDED / 经过</text>
+
+    <path d="M486 160 V 330" stroke="#1D1A17" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="486" cy="170" r="4"/>
+      <circle cx="486" cy="210" r="4"/>
+      <circle cx="486" cy="250" r="4"/>
+      <circle cx="486" cy="290" r="4"/>
+    </g>
+
+    <g font-family="Georgia, serif">
+      <text x="500" y="168" font-size="8" fill="#1D1A17">13 APR 1844</text>
+      <text x="500" y="180" font-size="8" fill="#6B6256">Sun extra / 太阳报号外</text>
+
+      <text x="500" y="208" font-size="8" fill="#1D1A17">SAME DAY</text>
+      <text x="500" y="220" font-size="8" fill="#6B6256">crowds buy the paper / 人群抢购</text>
+
+      <text x="500" y="248" font-size="8" fill="#1D1A17">15 APR 1844</text>
+      <text x="500" y="260" font-size="8" fill="#6B6256">retraction / 承认造假</text>
+
+      <text x="500" y="288" font-size="8" fill="#1D1A17">1978</text>
+      <text x="500" y="300" font-size="8" fill="#6B6256">first real crossing / 首次真正横渡</text>
+    </g>
+
+    <text x="470" y="360" font-family="Georgia, serif" font-size="9" fill="#B44A32">written by Edgar Allan Poe / 作者是爱伦·坡</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The Sun reported that the Victoria crossed the Atlantic in 75 hours.</text>
+    <text x="60" y="470">《太阳报》称“维多利亚”号用 75 小时横渡大西洋。</text>
+    <text x="60" y="494" fill="#B44A32">Poe wrote the story; it was retracted two days later. / 故事由爱伦·坡编写，两天后被承认是假的。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: carroll-a-deering
+title_zh: 空无一人的帆船
+title_en: The Ship With No Crew
+era: "1921"
+era_en: "1921"
+region: 美国，北卡罗来纳，哈特拉斯角
+region_en: "Cape Hatteras, North Carolina, United States"
+coords: [35.20, -75.50]
+tags:
+  - 卡罗尔·A·迪林号
+  - 幽灵船
+  - 百慕大三角
+  - 失踪
+  - 1921
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Carroll A. Deering"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Carroll_A._Deering
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 船只资料、航行经过、搁浅与调查
+  - id: S2
+    title: "National Park Service · The Ghost Ship of the Outer Banks"
+    publisher: U.S. National Park Service
+    url: https://www.nps.gov/caha/learn/historyculture/theghostship.htm
+    year: "2026"
+    license: 公有领域；事实引用
+    usage: 搁浅时间、海岸警卫队记录与现场状况
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与航线、时间线示意；不是历史照片
+cover: ../../../assets/covers/carroll-a-deering.jpg
+related:
+  - mary-celeste
+  - dyatlov-pass
+status: review
+featured: false
+translation_status: translated

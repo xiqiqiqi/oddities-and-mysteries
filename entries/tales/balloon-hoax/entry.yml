@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: balloon-hoax
+title_zh: 气球横渡大西洋
+title_en: The Balloon Across the Atlantic
+era: "1844"
+era_en: "1844"
+region: 美国，纽约
+region_en: "New York, United States"
+coords: [40.713, -74.006]
+tags:
+  - 气球骗局
+  - 爱伦·坡
+  - 纽约太阳报
+  - 1844
+  - 媒体
+collections: []
+credibility: hoax
+sources:
+  - id: S1
+    title: "Wikipedia · Balloon-Hoax"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Balloon-Hoax
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1844 年报道、情节、爱伦·坡的参与与后续
+  - id: S2
+    title: "Hoaxes.org · The Great Balloon Hoax"
+    publisher: Hoaxes.org
+    url: https://hoaxes.org/balloonhoax.html
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 《纽约太阳报》号外、读者反应与揭穿过程
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面气球与报纸场景复原、骗局结构示意；不是历史画作
+cover: ../../../assets/covers/balloon-hoax.jpg
+related:
+  - piltdown-man
+  - alien-autopsy
+status: review
+featured: false
+translation_status: translated

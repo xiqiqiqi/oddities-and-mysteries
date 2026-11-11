@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Trans-Allegheny asylum: the Kirkbride plan, the timeline and the overcrowding</title>
+  <desc id="desc">A top-down plan of the asylum's central block and long staggered wings on a dark background, with panels on the timeline and the wards.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE WARDS ON THE HILL · 山上的病房</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">WESTON, WEST VIRGINIA / 1864–1994 / KIRKBRIDE PLAN</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE PLAN / 平面示意</text>
+
+    <!-- blueprint background -->
+    <rect x="72" y="150" width="396" height="190" fill="#2E3440"/>
+    <g stroke="#3A4A5A" stroke-width="0.5">
+      <line x1="72" y1="190" x2="468" y2="190"/>
+      <line x1="72" y1="230" x2="468" y2="230"/>
+      <line x1="72" y1="270" x2="468" y2="270"/>
+      <line x1="72" y1="310" x2="468" y2="310"/>
+      <line x1="120" y1="150" x2="120" y2="340"/>
+      <line x1="200" y1="150" x2="200" y2="340"/>
+      <line x1="280" y1="150" x2="280" y2="340"/>
+      <line x1="360" y1="150" x2="360" y2="340"/>
+      <line x1="440" y1="150" x2="440" y2="340"/>
+    </g>
+
+    <!-- building plan -->
+    <g fill="#D8CCB6" stroke="#6B6256" stroke-width="1">
+      <rect x="225" y="170" width="90" height="150"/>
+      <rect x="180" y="190" width="45" height="115"/>
+      <rect x="140" y="200" width="40" height="95"/>
+      <rect x="105" y="210" width="35" height="75"/>
+      <rect x="315" y="190" width="45" height="115"/>
+      <rect x="360" y="200" width="40" height="95"/>
+      <rect x="400" y="210" width="35" height="75"/>
+    </g>
+    <!-- windows -->
+    <g stroke="#6B6256" stroke-width="0.6">
+      <line x1="240" y1="180" x2="240" y2="310"/>
+      <line x1="255" y1="180" x2="255" y2="310"/>
+      <line x1="285" y1="180" x2="285" y2="310"/>
+      <line x1="300" y1="180" x2="300" y2="310"/>
+      <line x1="190" y1="200" x2="190" y2="295"/>
+      <line x1="205" y1="200" x2="205" y2="295"/>
+      <line x1="150" y1="210" x2="150" y2="285"/>
+      <line x1="115" y1="220" x2="115" y2="275"/>
+      <line x1="330" y1="200" x2="330" y2="295"/>
+      <line x1="345" y1="200" x2="345" y2="295"/>
+      <line x1="380" y1="210" x2="380" y2="285"/>
+      <line x1="415" y1="220" x2="415" y2="275"/>
+    </g>
+    <!-- entrance -->
+    <rect x="250" y="310" width="40" height="10" fill="#B9A98C" stroke="#6B6256" stroke-width="0.8"/>
+
+    <line x1="230" y1="164" x2="250" y2="178" stroke="#E8C96A" stroke-width="0.8"/>
+    <text x="196" y="160" font-family="Georgia, serif" font-size="8" fill="#E8C96A">CENTRAL BLOCK / 中央楼</text>
+    <line x1="98" y1="196" x2="128" y2="216" stroke="#E8C96A" stroke-width="0.8"/>
+    <text x="80" y="192" font-family="Georgia, serif" font-size="8" fill="#E8C96A">WARDS / 病房翼</text>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">250 DESIGNED / 设计容量 250</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">2,400+ by the 1950s / 1950 年代超过 2400</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE TIMELINE / 时间线</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">1858 · construction begins / 动工</text>
+      <text x="520" y="186">1861–64 · war stops work / 内战停工</text>
+      <text x="520" y="206">1864 · first patients / 首批病人</text>
+      <text x="520" y="226">1881 · building completed / 完工</text>
+      <text x="520" y="242">1994 · hospital closes / 关闭</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE WARDS / 病房</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">250 designed / 设计 250 人</text>
+      <text x="520" y="330">2,400+ by the 1950s / 1950 年代超 2400</text>
+      <text x="520" y="348">130 years of use / 使用 130 年</text>
+      <text x="520" y="366">ghost tours after 2008 / 2008 年后鬼故事</text>
+      <text x="520" y="382">no verifiable evidence / 没有可验证证据</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The ghosts came later. The wards were real.</text>
+    <text x="60" y="470">鬼故事是后来的。病房是真的。</text>
+    <text x="60" y="494" fill="#B44A32">A building for 250 held more than 2,400. / 为 250 人建的楼，装过 2400 多人。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

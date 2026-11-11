@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Mongolian death worm: legend, range, and evidence</title>
+  <desc id="desc">A schematic map of Mongolia with reported sightings in the South Gobi, a list of the creature's claimed powers, a list of what expeditions found, and the Tartar sand boa as a possible source.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">MONGOLIAN DEATH WORM</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">LEGEND / EVIDENCE / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#DCE6E8"/>
+
+    <!-- Mongolia -->
+    <path d="M110 210 L 150 165 L 220 145 L 300 150 L 360 140 L 420 165 L 455 215 L 450 270 L 420 315 L 365 340 L 300 345 L 250 330 L 200 345 L 150 325 L 115 275 Z" fill="#E2DCC8" stroke="#8C7A52" stroke-width="1.5"/>
+
+    <!-- Gobi -->
+    <path d="M120 285 L 440 265 L 425 315 L 365 340 L 300 345 L 250 330 L 200 345 L 150 325 Z" fill="#E8C9A8" fill-opacity=".85"/>
+
+    <!-- reported sites -->
+    <g fill="#B44A32">
+      <circle cx="200" cy="300" r="4"/>
+      <circle cx="250" cy="318" r="4"/>
+      <circle cx="310" cy="308" r="4"/>
+      <circle cx="360" cy="292" r="4"/>
+      <circle cx="230" cy="332" r="4"/>
+      <circle cx="330" cy="330" r="4"/>
+    </g>
+
+    <text x="130" y="188" font-family="Georgia, serif" font-size="10" fill="#1D1A17">MONGOLIA / 蒙古</text>
+    <text x="300" y="264" font-family="Georgia, serif" font-size="10" fill="#4A4030">GOBI / 戈壁</text>
+    <text x="200" y="362" font-family="Georgia, serif" font-size="9" fill="#6B6256">South Gobi / 南戈壁</text>
+
+    <!-- north arrow -->
+    <path d="M438 136 L 444 152 L 438 148 L 432 152 Z" fill="#4A4030"/>
+    <text x="434" y="132" font-family="Georgia, serif" font-size="8" fill="#4A4030">N</text>
+
+    <circle cx="76" cy="370" r="4" fill="#B44A32"/>
+    <text x="88" y="373" font-family="Georgia, serif" font-size="9" fill="#6B6256">reported site / 传说地点</text>
+  </g>
+
+  <text x="60" y="404" font-family="Georgia, serif" font-size="10" fill="#6B6256">Reported sightings cluster in the South Gobi. / 传说集中在南戈壁。</text>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">WHAT PEOPLE SAY / 传说是这样的</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">bright red, 1–1.5 m, sausage-shaped</text>
+      <text x="520" y="180">鲜红色，一米多长，像香肠</text>
+      <text x="520" y="200">spits corrosive acid / 喷出腐蚀性液体</text>
+      <text x="520" y="220">electric discharge / 能放电</text>
+      <text x="520" y="240">poisonous to the touch / 碰触有毒</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">WHAT WAS FOUND / 找到的是什么</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">no specimen / 没有标本</text>
+      <text x="520" y="332">no photograph / 没有照片</text>
+      <text x="520" y="352">testimony only / 只有证词</text>
+    </g>
+    <text x="520" y="376" font-family="Georgia, serif" font-size="9" fill="#B44A32">possible source: Tartar sand boa / 可能原型：蒙古沙蟒</text>
+
+    <path d="M760 312 C 775 300, 790 324, 805 312 S 828 300, 834 308" fill="none" stroke="#8C6A4A" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="836" cy="308" r="3" fill="#8C6A4A"/>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The legend is old; the acid and electric details were added later.</text>
+    <text x="60" y="470">传说很老，喷酸和放电是后来加上的。</text>
+    <text x="60" y="494" fill="#B44A32">Repeated expeditions have found testimony, not a body. / 多次考察只找到证词，没有找到实体。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,56 @@
+channel: places
+type: place
+slug: gobekli-tepe
+title_zh: 比金字塔早七千年的神庙
+title_en: A Temple 7,000 Years Older Than the Pyramids
+era: 约公元前 9500 年
+era_en: "c. 9500 BCE"
+region: 土耳其，尚勒乌尔法
+region_en: "Şanlıurfa, Turkey"
+coords: [37.2231, 38.9225]
+tags:
+  - 哥贝克力石阵
+  - 巨石
+  - 遗迹
+  - 新石器时代
+  - 土耳其
+collections:
+  - ancient-megaliths
+  - lost-civilizations
+credibility: verified
+sources:
+  - id: S1
+    title: "UNESCO World Heritage Centre · Göbekli Tepe"
+    publisher: UNESCO
+    url: https://whc.unesco.org/en/list/1572/
+    year: "2026"
+    license: UNESCO 网站使用条款
+    usage: 年代、遗址范围、世界遗产地位
+  - id: S2
+    title: "Encyclopaedia Britannica · Göbekli Tepe"
+    publisher: Britannica editors
+    url: https://www.britannica.com/place/Gobekli-Tepe
+    year: "2026"
+    license: 版权归 Britannica，仅作参考
+    usage: 建筑结构、雕刻、考古背景
+  - id: S3
+    title: "Wikipedia · Göbekli Tepe"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 发掘历史、年代争议、柱子尺寸
+  - id: S4
+    title: "Smithsonian Magazine · Göbekli Tepe"
+    publisher: Smithsonian Magazine
+    url: https://www.smithsonianmag.com/
+    year: "2026"
+    license: Smithsonian 网站使用条款
+    usage: 背景核对与解释争议
+cover: ../../../assets/covers/gobekli-tepe.jpg
+related:
+  - tunguska-1908
+  - hope-diamond
+status: review
+featured: true
+translation_status: translated

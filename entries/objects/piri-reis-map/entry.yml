@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: piri-reis-map
+title_zh: 地图上的南极洲
+title_en: Antarctica on the Map
+era: "1513"
+era_en: "1513"
+region: 奥斯曼帝国，伊斯坦布尔
+region_en: "Istanbul, Ottoman Empire"
+coords: [41.011, 28.983]
+tags:
+  - 皮里·雷斯地图
+  - 奥斯曼
+  - 南极洲
+  - 哈普古德
+  - 古地图
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Piri Reis map"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Piri_Reis_map
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1513 年绘制、残片发现、地图内容与南极洲争议
+  - id: S2
+    title: "Britannica · Piri Reis"
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/biography/Piri-Reis
+    year: "2026"
+    license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    usage: 皮里·雷斯生平、奥斯曼海军与地图学背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面古地图桌面场景复原、残片范围与争议时间线；不是文物照片
+cover: ../../../assets/covers/piri-reis-map.jpg
+related:
+  - voynich-manuscript
+  - he-shi-bi
+status: review
+featured: false
+translation_status: translated

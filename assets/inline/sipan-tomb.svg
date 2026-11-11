@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The tomb of the Lord of Sipán</title>
+  <desc id="desc">A section through the adobe pyramid at Huaca Rajada, showing the looters' tunnel, the burial chamber, the Lord's gold mask and grave goods, and a list of the main objects found.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">SIPÁN · THE TOMB</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">MOCHE ROYAL BURIAL / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="480" height="280" fill="#C9B48C"/>
+    <rect x="60" y="160" width="480" height="80" fill="#B08A5A"/>
+    <rect x="60" y="240" width="480" height="80" fill="#9A7348"/>
+    <rect x="60" y="320" width="480" height="72" fill="#7A5738"/>
+
+    <!-- looters' tunnel -->
+    <rect x="420" y="170" width="14" height="80" fill="#3F2E1E"/>
+    <path d="M414 170 H 440" stroke="#6B4A32" stroke-width="3"/>
+
+    <!-- chamber -->
+    <rect x="220" y="250" width="200" height="90" fill="#E6D8BC" stroke="#3F2E1E" stroke-width="2"/>
+
+    <!-- offerings -->
+    <g fill="#D99A2B">
+      <circle cx="234" cy="264" r="2.5"/>
+      <circle cx="248" cy="264" r="2.5"/>
+      <circle cx="392" cy="264" r="2.5"/>
+      <circle cx="406" cy="264" r="2.5"/>
+      <circle cx="234" cy="330" r="2.5"/>
+      <circle cx="406" cy="330" r="2.5"/>
+    </g>
+
+    <!-- Lord -->
+    <g fill="#D99A2B" stroke="#6B4A32" stroke-width="1.2">
+      <circle cx="330" cy="280" r="12"/>
+      <rect x="308" y="292" width="44" height="30" rx="4"/>
+      <circle cx="312" cy="286" r="4"/>
+      <circle cx="348" cy="286" r="4"/>
+    </g>
+    <rect x="312" y="296" width="36" height="10" fill="#C98A2B" stroke="#6B4A32" stroke-width="1"/>
+    <path d="M352 302 H 384" stroke="#8C5A3A" stroke-width="3"/>
+    <path d="M384 294 V 310" stroke="#8C5A3A" stroke-width="3"/>
+
+    <!-- attendants -->
+    <g fill="#8C6A4A">
+      <circle cx="246" cy="300" r="5"/>
+      <rect x="241" y="306" width="10" height="18" rx="3"/>
+      <circle cx="396" cy="300" r="5"/>
+      <rect x="391" y="306" width="10" height="18" rx="3"/>
+      <circle cx="396" cy="276" r="4"/>
+      <rect x="392" y="281" width="8" height="14" rx="3"/>
+    </g>
+
+    <!-- dog and llamas -->
+    <g fill="#8C6A4A">
+      <rect x="252" y="272" width="14" height="7" rx="2"/>
+      <circle cx="267" cy="272" r="3"/>
+      <rect x="270" y="262" width="10" height="5" rx="2"/>
+      <path d="M280 262 V 252 M272 262 V 254" stroke="#8C6A4A" stroke-width="1.5"/>
+      <rect x="284" y="266" width="10" height="5" rx="2"/>
+      <path d="M294 266 V 256 M286 266 V 258" stroke="#8C6A4A" stroke-width="1.5"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="9" fill="#3F2E1E">
+      <text x="80" y="200">adobe pyramid / 土砖金字塔</text>
+      <text x="80" y="270">burial chamber / 墓室</text>
+      <text x="444" y="180">looters' tunnel / 盗洞</text>
+    </g>
+    <path d="M150 266 L 218 274" stroke="#3F2E1E" stroke-width="1"/>
+    <path d="M440 184 L 430 190" stroke="#3F2E1E" stroke-width="1"/>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#3F2E1E">
+      <text x="450" y="286">gold mask / 金面具</text>
+      <text x="450" y="322">attendants / 随从</text>
+      <text x="450" y="352">llamas, dog / 羊驼与狗</text>
+    </g>
+    <path d="M448 283 L 344 281" stroke="#3F2E1E" stroke-width="1"/>
+    <path d="M448 319 L 408 316" stroke="#3F2E1E" stroke-width="1"/>
+    <path d="M448 349 L 300 280" stroke="#3F2E1E" stroke-width="1"/>
+  </g>
+
+  <g>
+    <rect x="560" y="112" width="280" height="280" fill="#EFE6D6"/>
+    <text x="580" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">WHAT WAS INSIDE / 随葬品</text>
+
+    <!-- mask icon -->
+    <circle cx="596" cy="170" r="11" fill="#D99A2B" stroke="#6B4A32" stroke-width="1.2"/>
+    <circle cx="592" cy="168" r="2" fill="#3F2E1E"/>
+    <circle cx="600" cy="168" r="2" fill="#3F2E1E"/>
+    <path d="M592 176 H 600" stroke="#3F2E1E" stroke-width="1"/>
+    <text x="626" y="170" font-family="Georgia, serif" font-size="10" fill="#1D1A17">gold mask / 金面具</text>
+    <text x="626" y="184" font-family="Georgia, serif" font-size="9" fill="#6B6256">inlaid eyes and edges / 眼窝与边缘镶嵌</text>
+
+    <!-- necklace icon -->
+    <path d="M586 218 C 596 232, 612 232, 622 218" fill="none" stroke="#D99A2B" stroke-width="2"/>
+    <g fill="#D99A2B">
+      <circle cx="592" cy="224" r="2"/>
+      <circle cx="600" cy="228" r="2"/>
+      <circle cx="608" cy="228" r="2"/>
+      <circle cx="616" cy="224" r="2"/>
+    </g>
+    <text x="626" y="225" font-family="Georgia, serif" font-size="10" fill="#1D1A17">pectoral and necklaces / 胸饰与项链</text>
+
+    <!-- sceptre icon -->
+    <path d="M600 270 V 304" stroke="#8C5A3A" stroke-width="3"/>
+    <path d="M592 270 H 608" stroke="#8C5A3A" stroke-width="3"/>
+    <text x="626" y="280" font-family="Georgia, serif" font-size="10" fill="#1D1A17">copper sceptre / 铜权杖</text>
+
+    <!-- llama icon -->
+    <rect x="588" y="334" width="16" height="8" rx="2" fill="#8C6A4A"/>
+    <path d="M604 334 V 322 M596 334 V 324" stroke="#8C6A4A" stroke-width="2"/>
+    <circle cx="606" cy="320" r="3" fill="#8C6A4A"/>
+    <text x="626" y="336" font-family="Georgia, serif" font-size="10" fill="#1D1A17">llamas, dog, attendants</text>
+    <text x="626" y="350" font-family="Georgia, serif" font-size="9" fill="#6B6256">羊驼、狗与随从</text>
+
+    <text x="580" y="376" font-family="Georgia, serif" font-size="9" fill="#B44A32">hundreds of objects / 数百件器物</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The tomb was found intact in 1987, with its contents still in place.</text>
+    <text x="60" y="470">1987 年发现时，墓室里的器物仍在原位。</text>
+    <text x="60" y="494" fill="#B44A32">The gold is spectacular; the undisturbed context is what makes it important. / 金子很耀眼，真正重要的是没有被扰动的现场。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

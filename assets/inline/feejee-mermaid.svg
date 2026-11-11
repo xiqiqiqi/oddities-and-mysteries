@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Feejee Mermaid: a monkey torso sewn to a fish tail</title>
+  <desc id="desc">A schematic of the composite specimen in its glass case, showing the monkey torso, the fish tail and the stitched seam, with panels on the 1842 exhibition and on the object itself.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE FEEJEE MERMAID · 1842</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">BARNUM / A MONKEY AND A FISH / A HOAX</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="132" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE SPECIMEN / 标本示意</text>
+
+    <!-- case -->
+    <rect x="100" y="140" width="280" height="215" fill="#F7F1E4" stroke="#6B4A32" stroke-width="1.2"/>
+    <text x="300" y="155" font-family="Georgia, serif" font-size="8" fill="#4A4030">glass case / 玻璃柜</text>
+
+    <!-- monkey head -->
+    <circle cx="240" cy="190" r="18" fill="#C9B799" stroke="#6B4A32" stroke-width="1.2"/>
+    <circle cx="223" cy="186" r="5" fill="#C9B799" stroke="#6B4A32" stroke-width="1"/>
+    <circle cx="257" cy="186" r="5" fill="#C9B799" stroke="#6B4A32" stroke-width="1"/>
+    <circle cx="240" cy="193" r="10" fill="#D8CCB6" stroke="#6B4A32" stroke-width="0.8"/>
+    <circle cx="236" cy="191" r="1.4" fill="#1D1A17"/>
+    <circle cx="244" cy="191" r="1.4" fill="#1D1A17"/>
+
+    <!-- torso -->
+    <path d="M228 208 H252 L256 260 H224 Z" fill="#C9B799" stroke="#6B4A32" stroke-width="1.2"/>
+    <path d="M228 212 L 218 245 M252 212 L 262 245" stroke="#C9B799" stroke-width="4"/>
+    <path d="M228 212 L 218 245 M252 212 L 262 245" stroke="#6B4A32" stroke-width="0.6" fill="none"/>
+
+    <!-- fish tail -->
+    <path d="M224 260 H256 C 262 282 250 300 246 316 L268 332 L240 338 L212 332 L234 316 C 230 300 218 282 224 260 Z" fill="#7FA3B8" stroke="#3E5A7A" stroke-width="1.2"/>
+    
+
+    <!-- seam -->
+    <path d="M220 260 H260" stroke="#B44A32" stroke-width="1.5" stroke-dasharray="3 2"/>
+    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17">
+      <text x="120" y="180">monkey / 猴子</text>
+      <text x="105" y="272">stitched seam / 缝合线</text>
+      <text x="300" y="300">fish tail / 鱼尾</text>
+    </g>
+    <g stroke="#1D1A17" stroke-width="1">
+      <path d="M190 184 L 220 189"/>
+      <path d="M208 270 L 220 261"/>
+      <path d="M298 296 L 266 296"/>
+    </g>
+
+    <!-- ruler -->
+    <path d="M150 368 H330" stroke="#4A4030" stroke-width="1"/>
+    <path d="M150 363 V 373 M330 363 V 373" stroke="#4A4030" stroke-width="1"/>
+    <text x="240" y="384" font-family="Georgia, serif" font-size="8" fill="#4A4030" text-anchor="middle">under 1 m / 不到一米</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SHOW / 展览</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">1842, New York / 1842 年，纽约</text>
+      <text x="520" y="186">Barnum's American Museum</text>
+      <text x="520" y="202">“Dr. Griffin” lectures / “格里芬博士”讲课</text>
+      <text x="520" y="222">fake letters to the press / 伪造信件</text>
+      <text x="520" y="240">the crowd came anyway / 观众照样排队</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE OBJECT / 标本</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">monkey torso + fish tail</text>
+      <text x="520" y="328">猴子躯干缝在鱼尾上</text>
+      <text x="520" y="348">probably made in Japan / 很可能出自日本工匠</text>
+      <text x="520" y="368">the Fiji story was invented / 斐济产地是编的</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Barnum borrowed the mermaid from Moses Kimball's Boston Museum.</text>
+    <text x="60" y="470">巴纳姆从波士顿博物馆的摩西·金博尔那里借来标本，在纽约展出。</text>
+    <text x="60" y="494" fill="#B44A32">It was a composite, not a creature; the original may have been lost in a fire. / 它是拼接的标本，不是生物；原版可能毁于火灾。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

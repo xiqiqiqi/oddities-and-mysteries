@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: enfield-poltergeist
+title_zh: 会说话的房子
+title_en: The House That Spoke
+era: "1977–1979"
+era_en: "1977–1979"
+region: 英国，伦敦，恩菲尔德
+region_en: "Enfield, London, United Kingdom"
+coords: [51.652, -0.081]
+tags:
+  - 恩菲尔德
+  - 闹鬼
+  - 灵异
+  - 1977
+  - 伦敦
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Enfield poltergeist"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Enfield_poltergeist
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 事件经过、霍奇森一家、调查者与怀疑意见
+  - id: S2
+    title: "Psi Encyclopedia · Enfield Poltergeist"
+    publisher: Society for Psychical Research
+    url: https://open-data.spr.ac.uk/articles/enfield-poltergeist/
+    year: "2026"
+    license: 版权归 SPR；仅作事实参考
+    usage: 调查记录、录音、照片与争议
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面 1977 年住宅内景场景复原、事件时间线与证据示意；不是现场照片
+cover: ../../../assets/covers/enfield-poltergeist.jpg
+related:
+  - winchester-mystery-house
+  - annabelle-doll
+status: review
+featured: false
+translation_status: translated

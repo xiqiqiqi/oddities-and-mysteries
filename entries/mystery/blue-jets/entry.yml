@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: blue-jets
+title_zh: 云顶之上的蓝色闪电
+title_en: Blue Lightning Above the Clouds
+era: "1994 年首次被清晰记录"
+era_en: "first clearly recorded in 1994"
+region: 全球雷暴上空
+region_en: "above thunderstorms worldwide"
+coords: null
+tags:
+  - 蓝色喷流
+  - 高空闪电
+  - 雷暴
+  - 大气电学
+  - 红色精灵
+collections:
+  - strange-lights
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Blue jet"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Blue_jet
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 现象描述、高度、持续时间与观测历史
+  - id: S2
+    title: "Wikipedia · Upper-atmospheric lightning"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Upper-atmospheric_lightning
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 蓝色喷流与红色精灵、ELVES 的区别
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与大气分层示意；不是现场照片
+cover: ../../../assets/covers/blue-jets.jpg
+related:
+  - ball-lightning
+  - tabbys-star
+status: review
+featured: false
+translation_status: translated

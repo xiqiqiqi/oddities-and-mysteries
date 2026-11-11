@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: fairy-circles
+title_zh: 草原上的圆圈
+title_en: The Circles in the Grass
+era: "长期存在；2000 年代起系统研究"
+era_en: "long-standing; systematically studied since the 2000s"
+region: 纳米比亚，纳米布沙漠
+region_en: "Namib Desert, Namibia"
+coords: [-24.75, 15.3]
+tags:
+  - 仙女圈
+  - 纳米布沙漠
+  - 白蚁
+  - 草地
+  - 水竞争
+collections:
+  - natural-oddities
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Fairy circle"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Fairy_circle
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 形态、分布、白蚁说与植被自组织说
+  - id: S2
+    title: "Wikipedia · Namib"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Namib
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 纳米布沙漠环境与降水特征
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面航拍场景复原与圆圈结构示意；不是现场照片
+cover: ../../../assets/covers/fairy-circles.jpg
+related:
+  - sailing-stones
+  - blood-falls
+status: review
+featured: false
+translation_status: translated

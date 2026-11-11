@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The vanishing hitchhiker: the night road, the girl and the cemetery</title>
+  <desc id="desc">A night road with a car, a girl in a white dress and a cemetery gate at the horizon, with panels on the story and its variants.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE VANISHING HITCHHIKER · 路边的搭车人</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">ARCHER AVENUE / RESURRECTION MARY / THE BACK SEAT</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE NIGHT ROAD / 夜路示意</text>
+
+    <!-- night scene -->
+    <rect x="72" y="150" width="396" height="190" fill="#2E3440"/>
+    <g fill="#F3EEE4">
+      <circle cx="110" cy="168" r="1"/><circle cx="160" cy="182" r="1"/><circle cx="220" cy="164" r="1"/><circle cx="290" cy="176" r="1"/><circle cx="350" cy="162" r="1"/><circle cx="410" cy="180" r="1"/><circle cx="440" cy="166" r="1"/>
+    </g>
+
+    <!-- road -->
+    <path d="M92 340 L 250 220 L 290 220 L 448 340 Z" fill="#4A4A55"/>
+    <path d="M270 224 L 270 340" stroke="#D8CCB6" stroke-width="1.5" stroke-dasharray="7 7"/>
+
+    <!-- cemetery gate -->
+    <g stroke="#1D1A17" stroke-width="2" fill="none">
+      <line x1="250" y1="220" x2="250" y2="196"/>
+      <line x1="290" y1="220" x2="290" y2="196"/>
+      <path d="M250 196 C 262 186 278 186 290 196"/>
+    </g>
+    <text x="238" y="182" font-family="Georgia, serif" font-size="7" fill="#D8CCB6">CEMETERY / 墓地</text>
+
+    <!-- car -->
+    <g>
+      <path d="M108 318 L 118 300 L 150 296 L 162 312 L 170 318 Z" fill="#8C5A3A"/>
+      <rect x="108" y="318" width="62" height="12" fill="#6B4A32"/>
+      <circle cx="122" cy="332" r="5" fill="#1D1A17"/>
+      <circle cx="156" cy="332" r="5" fill="#1D1A17"/>
+      <circle cx="170" cy="320" r="2" fill="#E8C96A"/>
+      <path d="M172 320 L 200 330 L 200 312 Z" fill="#E8C96A" opacity="0.25"/>
+    </g>
+
+    <!-- girl -->
+    <g>
+      <circle cx="350" cy="258" r="8" fill="#D8CCB6"/>
+      <path d="M342 268 L 358 268 L 366 320 L 334 320 Z" fill="#F3EEE4"/>
+      <line x1="358" y1="276" x2="372" y2="262" stroke="#D8CCB6" stroke-width="3"/>
+      <path d="M344 320 L 342 336 M356 320 L 358 336" stroke="#D8CCB6" stroke-width="2"/>
+      <path d="M344 250 C 344 242 356 242 356 250" fill="#1D1A17"/>
+    </g>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">THE DRIVER / 司机</text>
+    <text x="322" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">THE GIRL / 女孩</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">an empty back seat / 空着的后座</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE STORY / 故事</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">a girl on the roadside / 路边的女孩</text>
+      <text x="520" y="186">one address, no talk / 只说一个地址</text>
+      <text x="520" y="206">an empty back seat / 后座空了</text>
+      <text x="520" y="226">a door, a parent / 一扇门，一位家长</text>
+      <text x="520" y="242">“she died years ago” / “她很多年前就死了”</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE VARIANTS / 变体</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Resurrection Mary, Chicago / 芝加哥复活玛丽</text>
+      <text x="520" y="330">a white dress, a 1930s crash / 白裙与 1930 年代车祸</text>
+      <text x="520" y="348">a coat left on a grave / 留在墓地的外套</text>
+      <text x="520" y="366">Europe, America, Australia / 欧洲、美国、澳大利亚</text>
+      <text x="520" y="382">no verifiable Mary / 没有可证实的玛丽</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A story told by the back seat and the look over the shoulder.</text>
+    <text x="60" y="470">一个靠后座和回头讲出来的故事。</text>
+    <text x="60" y="494" fill="#B44A32">The vanishing hitchhiker is a legend, not a documented haunting. / 消失搭车人是传说，不是有记录的闹鬼。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

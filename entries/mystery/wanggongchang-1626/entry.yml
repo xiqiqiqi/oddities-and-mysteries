@@ -1,0 +1,55 @@
+channel: mystery
+type: event
+slug: wanggongchang-1626
+title_zh: 天启六年，北京爆炸
+title_en: The Day Beijing Shook
+era: "1626"
+era_en: "1626"
+region: 北京，明帝国
+region_en: "Beijing, Ming China"
+coords: [39.899, 116.36]
+tags:
+  - 王恭厂
+  - 大爆炸
+  - 明朝
+  - 北京
+  - 天启
+collections:
+  - mysterious-explosions
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · 王恭厂大爆炸"
+    publisher: Wikipedia contributors
+    url: https://zh.wikipedia.org/wiki/王恭厂大爆炸
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 日期、地点、死伤数字、目击记载
+  - id: S2
+    title: "Wikipedia · Wanggongchang explosion"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Wanggongchang_explosion
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 交叉核对、现代解释
+  - id: S3
+    title: "《明史》相关记载（卷帙待核）"
+    publisher: 维基文库
+    url: https://zh.wikisource.org/wiki/明史
+    year: "清"
+    license: 公有领域
+    usage: 官方记载与事件背景
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与北京城示意图；不是历史照片
+cover: ../../../assets/covers/wanggongchang-1626.jpg
+related:
+  - tunguska-1908
+  - bristol-hum
+status: review
+featured: false
+translation_status: translated

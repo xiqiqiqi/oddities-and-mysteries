@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: beast-of-gevaudan
+title_zh: 吃掉几十人的狼
+title_en: The Wolf That Killed Dozens
+era: "1764–1767"
+era_en: "1764–1767"
+region: 法国，热沃当（洛泽尔）
+region_en: "Gévaudan, Lozère, France"
+coords: [44.5, 3.3]
+tags:
+  - 热沃当野兽
+  - 法国
+  - 狼
+  - 食人
+  - 18世纪
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Beast of Gévaudan"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Beast_of_G%C3%A9vaudan
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 袭击记录、官方猎捕、描述与主要解释
+  - id: S2
+    title: "Wikipedia · Jean Chastel"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Jean_Chastel
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1767 年猎杀经过与后续传说
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与袭击时间线；不是历史画作
+cover: ../../../assets/covers/beast-of-gevaudan.jpg
+related:
+  - loch-ness
+  - mothman
+status: review
+featured: false
+translation_status: translated

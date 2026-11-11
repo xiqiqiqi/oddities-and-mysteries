@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The black-eyed children: the parking lot, the pattern, and the record</title>
+  <desc id="desc">A schematic night parking lot with a car, two children at the window and a strip mall, plus panels on the features of the legend and its documentary record.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE BLACK-EYED CHILDREN · 1996</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">A PARKING LOT / TWO CHILDREN / A LEGEND</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <rect x="70" y="130" width="400" height="252" fill="#E4E8E4"/>
+
+    <!-- storefront -->
+    <rect x="70" y="130" width="400" height="42" fill="#D8CCB6" stroke="#8C7A52" stroke-width="1"/>
+    <g fill="#4A5A6A">
+      <rect x="85" y="142" width="52" height="22"/>
+      <rect x="150" y="142" width="52" height="22"/>
+      <rect x="215" y="142" width="52" height="22"/>
+      <rect x="280" y="142" width="52" height="22"/>
+      <rect x="345" y="142" width="52" height="22"/>
+      <rect x="410" y="142" width="45" height="22"/>
+    </g>
+
+    <!-- parking lines -->
+    <g stroke="#F3EEE4" stroke-width="1.5">
+      <path d="M90 200 V 360"/>
+      <path d="M150 200 V 360"/>
+      <path d="M210 200 V 360"/>
+      <path d="M380 200 V 360"/>
+      <path d="M440 200 V 360"/>
+    </g>
+
+    <!-- car -->
+    <rect x="250" y="235" width="110" height="55" rx="6" fill="#6B7A8A" stroke="#4A4030" stroke-width="1"/>
+    <rect x="260" y="242" width="90" height="12" fill="#DCE6E8"/>
+    <rect x="265" y="256" width="80" height="24" fill="#4A5A6A"/>
+    <circle cx="280" cy="268" r="5" fill="#1D1A17"/>
+
+    <!-- children -->
+    <g>
+      <circle cx="222" cy="268" r="6" fill="#F7F1E4" stroke="#4A4030" stroke-width="1"/>
+      <circle cx="220" cy="267" r="1.2" fill="#1D1A17"/>
+      <circle cx="224" cy="267" r="1.2" fill="#1D1A17"/>
+      <path d="M222 274 V 292 M222 280 L 216 286 M222 280 L 228 286 M222 292 L 218 302 M222 292 L 226 302" stroke="#4A4030" stroke-width="2"/>
+
+      <circle cx="238" cy="296" r="5.5" fill="#F7F1E4" stroke="#4A4030" stroke-width="1"/>
+      <circle cx="236.5" cy="295" r="1.1" fill="#1D1A17"/>
+      <circle cx="240" cy="295" r="1.1" fill="#1D1A17"/>
+      <path d="M238 302 V 318 M238 307 L 233 312 M238 307 L 243 312 M238 318 L 234 327 M238 318 L 242 327" stroke="#4A4030" stroke-width="2"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17">
+      <text x="82" y="190">STRIP MALL / 商铺</text>
+      <text x="90" y="282">TWO CHILDREN / 两个孩子</text>
+      <text x="300" y="320">CAR / 车</text>
+      <text x="325" y="355">PARKING LOT / 停车场</text>
+    </g>
+    <g stroke="#1D1A17" stroke-width="1">
+      <path d="M190 276 L 214 270"/>
+      <path d="M310 314 L 305 292"/>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="150" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE PATTERN / 模式</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">two children, usually / 通常是两个孩子</text>
+      <text x="520" y="186">pale skin, black eyes / 皮肤苍白，眼睛全黑</text>
+      <text x="520" y="206">polite but insistent / 礼貌，但坚持</text>
+      <text x="520" y="226">asks to get in / 请求上车或进门</text>
+      <text x="520" y="246">unexplained dread / 没有理由的恐惧</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="272" width="340" height="120" fill="#EFE6D6"/>
+    <text x="520" y="300" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE RECORD / 记录</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="324">1996, Abilene, Texas / 德州阿比林</text>
+      <text x="520" y="344">posted online in 1998 / 1998 年发到邮件列表</text>
+      <text x="520" y="364">no police report, no photo / 没有报警，没有照片</text>
+      <text x="520" y="382">classified as a legend / 被列为都市传说</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The story is usually traced to one account, posted in 1998.</text>
+    <text x="60" y="470">这个故事通常被追溯到 1998 年的一封帖子，讲述者是德州记者贝瑟尔。</text>
+    <text x="60" y="494" fill="#B44A32">There is no verifiable evidence; the black-eyed children are an urban legend. / 没有可核实的证据，黑眼儿童是都市传说。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,54 @@
+channel: tales
+type: story
+slug: gospel-of-jesus-wife
+title_zh: 耶稣的妻子
+title_en: The Wife of Jesus
+era: "2012"
+era_en: "2012"
+region: 埃及（据称）
+region_en: "Egypt (claimed)"
+coords: null
+tags:
+  - 耶稣之妻福音
+  - 纸莎草
+  - 哈佛
+  - 伪造
+  - 科普特语
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Gospel of Jesus's Wife"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Gospel_of_Jesus%27s_Wife
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 纸片内容、2012 年发表、实验室检测与 2016 年来源调查
+  - id: S2
+    title: "The Atlantic · The Unbelievable Tale of Jesus's Wife"
+    publisher: The Atlantic
+    url: https://www.theatlantic.com/magazine/archive/2016/07/the-unbelievable-tale-of-jesus-wife/485573/
+    year: "2016"
+    license: 版权归 The Atlantic；仅作事实参考
+    usage: 物主沃尔特·弗里茨、来源调查与卡伦·金的回应
+  - id: S3
+    title: "Smithsonian Magazine · The Inside Story of a Controversial New Text About Jesus"
+    publisher: Smithsonian Magazine
+    url: https://www.smithsonianmag.com/history/the-inside-story-of-a-controversial-new-text-about-jesus-41078791/
+    year: "2012"
+    license: 版权归 Smithsonian Magazine；仅作事实参考
+    usage: 2012 年发表经过、文本内容与学术争议
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面纸莎草残片场景复原、文本对照与真伪时间线；不是文物照片
+cover: ../../../assets/covers/gospel-of-jesus-wife.jpg
+related:
+  - dead-sea-scrolls
+  - shroud-of-turin
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: fish-rain
+title_zh: 天上掉鱼
+title_en: When Fish Fall from the Sky
+era: "有记录以来（19–21 世纪）"
+era_en: "reported for centuries"
+region: 全球（洪都拉斯、澳大利亚、印度等）
+region_en: "Worldwide (Honduras, Australia, India, and elsewhere)"
+coords: null
+tags:
+  - 鱼雨
+  - 天降异物
+  - 水龙卷
+  - 洪都拉斯
+  - 自然怪象
+collections:
+  - natural-oddities
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Rain of fish"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Rain_of_fish
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 历史记录、约罗鱼雨、机制
+  - id: S2
+    title: "BBC · Fish rain coverage"
+    publisher: BBC
+    url: https://www.bbc.co.uk/
+    year: "2026"
+    license: BBC 网站使用条款
+    usage: 新闻背景；具体文章待补
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与水龙卷机制示意图；不是历史照片
+cover: ../../../assets/covers/fish-rain.jpg
+related:
+  - sailing-stones
+  - bristol-hum
+status: review
+featured: false
+translation_status: translated

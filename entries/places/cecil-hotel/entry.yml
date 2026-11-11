@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: cecil-hotel
+title_zh: 主街上的旅馆
+title_en: The Hotel on Main Street
+era: "1924 年至今"
+era_en: "1924–present"
+region: 美国，洛杉矶
+region_en: "Los Angeles, United States"
+coords: [34.043, -118.250]
+tags:
+  - 塞西尔酒店
+  - 洛杉矶
+  - 黑色大丽花
+  - 夜行者
+  - 蓝可儿
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Cecil Hotel (Los Angeles)"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Cecil_Hotel_(Los_Angeles)
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1924 年开业、建筑、黑色大丽花、拉米雷斯、翁特韦格、蓝可儿与 2021 年改造
+  - id: S2
+    title: "Los Angeles Times · Cecil Hotel"
+    publisher: Los Angeles Times
+    url: https://www.latimes.com/topic/cecil-hotel
+    year: "2026"
+    license: 版权归 Los Angeles Times；仅作事实参考
+    usage: 旅馆现状、2023 年居住条件报道与市政府改造背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面主街旅馆夜景复原、事件时间线与楼层示意；不是现场照片
+cover: ../../../assets/covers/cecil-hotel.jpg
+related:
+  - black-dahlia
+  - queen-mary
+status: review
+featured: false
+translation_status: translated

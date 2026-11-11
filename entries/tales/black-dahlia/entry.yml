@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: black-dahlia
+title_zh: 黑色大丽花
+title_en: The Black Dahlia
+era: "1947"
+era_en: "1947"
+region: 美国，洛杉矶
+region_en: "Los Angeles, California, United States"
+coords: [34.016, -118.316]
+tags:
+  - 黑色大丽花
+  - 伊丽莎白·肖特
+  - 洛杉矶
+  - 悬案
+  - 1947
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Black Dahlia"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Black_Dahlia
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 伊丽莎白·肖特生平、尸体发现、调查与嫌疑人
+  - id: S2
+    title: "HISTORY · Who Killed the Black Dahlia?"
+    publisher: HISTORY
+    url: https://www.history.com/articles/who-killed-the-black-dahlia
+    year: "2026"
+    license: 版权归 HISTORY；仅作事实参考
+    usage: 案件背景、媒体反应与未解状态
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面 1947 年洛杉矶街景场景复原、时间线与报道示意；不是现场照片
+cover: ../../../assets/covers/black-dahlia.jpg
+related:
+  - mary-rogers
+  - yogtze
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,54 @@
+channel: creatures
+type: creature
+slug: bloody-mary
+title_zh: 镜子里的女人
+title_en: The Woman in the Mirror
+era: "1970 年代至今"
+era_en: "1970s–present"
+region: 全球
+region_en: "Worldwide"
+coords: null
+tags:
+  - 血腥玛丽
+  - 镜子
+  - 都市传说
+  - 特罗克斯勒效应
+  - 宿舍游戏
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Bloody Mary (folklore)"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Bloody_Mary_(folklore)
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 仪式版本、玛丽一世与玛丽·沃斯等起源说法、1970 年代文献
+  - id: S2
+    title: "Britannica · Mary I"
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/biography/Mary-I-queen-of-England
+    year: "2026"
+    license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    usage: 玛丽一世生平与“血腥玛丽”绰号的来源
+  - id: S3
+    title: "Scientific American · How Your Brain Can Turn Your Own Reflection into Something Unrecognizable"
+    publisher: Scientific American
+    url: https://www.scientificamerican.com/article/how-your-brain-can-turn-your-own-reflection-into-something-unrecognizable/
+    year: "2026"
+    license: 版权归 Scientific American；仅作事实参考
+    usage: 卡普托 2010 年镜中怪脸实验与特罗克斯勒效应
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面烛光浴室场景复原、仪式步骤与镜中错觉示意；不是现场照片
+cover: ../../../assets/covers/bloody-mary.jpg
+related:
+  - kuchisake-onna
+  - black-eyed-children
+status: review
+featured: false
+translation_status: translated

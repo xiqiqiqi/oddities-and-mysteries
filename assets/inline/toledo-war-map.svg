@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Toledo War, 1835–1836</title>
+  <desc id="desc">A schematic map of the Toledo Strip between Michigan and Ohio, with the two boundary claims, and a timeline from the Northwest Ordinance to Michigan statehood.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE TOLEDO WAR · 1835–1836</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">BOUNDARY CLAIMS / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="480" height="280" fill="#DCE6E8"/>
+
+    <!-- land -->
+    <rect x="60" y="112" width="405" height="138" fill="#E2DCC8"/>
+    <rect x="60" y="300" width="405" height="92" fill="#DCE6D8"/>
+    <rect x="60" y="250" width="405" height="50" fill="#E8C9A8" fill-opacity=".85"/>
+
+    <!-- lake -->
+    <path d="M465 112 H540 V392 H465 V112 Z" fill="#C9DEE6"/>
+    <path d="M465 112 V392" stroke="#6FA8C8" stroke-width="1.5"/>
+
+    <!-- boundary claims -->
+    <path d="M60 250 H465" stroke="#6B4A32" stroke-width="1.5" stroke-dasharray="6 4"/>
+    <path d="M60 300 H465" stroke="#4F6B3A" stroke-width="1.5" stroke-dasharray="6 4"/>
+
+    <!-- Maumee river -->
+    <path d="M120 340 C 220 330, 300 320, 380 300 S 440 290, 465 286" fill="none" stroke="#6FA8C8" stroke-width="4"/>
+
+    <!-- Toledo -->
+    <circle cx="440" cy="285" r="4" fill="#B44A32"/>
+
+    <g font-family="Georgia, serif" fill="#1D1A17">
+      <text x="80" y="160" font-size="10">MICHIGAN TERRITORY / 密歇根领地</text>
+      <text x="80" y="372" font-size="10">OHIO / 俄亥俄</text>
+      <text x="500" y="200" font-size="9" fill="#4A6B7A">LAKE ERIE</text>
+      <text x="500" y="212" font-size="9" fill="#4A6B7A">伊利湖</text>
+      <text x="410" y="274" font-size="8">TOLEDO</text>
+      <text x="330" y="384" font-size="8" fill="#6B6256">468 sq mi / 约 468 平方英里</text>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#4A4030">
+      <text x="80" y="244">Michigan claim / 密歇根主张</text>
+      <text x="80" y="318">Ohio claim / 俄亥俄主张</text>
+      <text x="170" y="356">Maumee River / 莫米河</text>
+    </g>
+
+    <path d="M300 240 L 340 260" stroke="#4A4030" stroke-width="1"/>
+    <text x="190" y="228" font-family="Georgia, serif" font-size="9" fill="#B44A32">Toledo Strip / 托莱多地带</text>
+
+    <path d="M230 350 L 262 326" stroke="#6FA8C8" stroke-width="1"/>
+  </g>
+
+  <g>
+    <rect x="560" y="112" width="280" height="280" fill="#EFE6D6"/>
+    <text x="580" y="132" font-family="Georgia, serif" font-size="10" fill="#6B6256">TIMELINE / 时间线</text>
+    <path d="M596 150 V 372" stroke="#1D1A17" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="596" cy="165" r="5"/>
+      <circle cx="596" cy="228" r="5"/>
+      <circle cx="596" cy="291" r="5"/>
+      <circle cx="596" cy="354" r="5"/>
+    </g>
+    <g font-family="Georgia, serif">
+      <text x="612" y="163" font-size="10" fill="#1D1A17">1787</text>
+      <text x="612" y="176" font-size="9" fill="#4A4030">Northwest Ordinance / 西北法令</text>
+      <text x="612" y="189" font-size="9" fill="#6B6256">the line came from bad maps / 界线来自不准的地图</text>
+
+      <text x="612" y="226" font-size="10" fill="#1D1A17">1835</text>
+      <text x="612" y="239" font-size="9" fill="#4A4030">Phillips Corners / 菲利普斯角</text>
+      <text x="612" y="252" font-size="9" fill="#6B6256">militia, shots, one stabbing / 民兵、枪声与一次刺伤</text>
+
+      <text x="612" y="289" font-size="10" fill="#1D1A17">14 DEC 1836</text>
+      <text x="612" y="302" font-size="9" fill="#4A4030">Congressional compromise / 国会妥协</text>
+      <text x="612" y="315" font-size="9" fill="#6B6256">Toledo to Ohio, peninsula to Michigan</text>
+      <text x="612" y="327" font-size="9" fill="#6B6256">托莱多归俄亥俄，上半岛归密歇根</text>
+
+      <text x="612" y="352" font-size="10" fill="#1D1A17">26 JAN 1837</text>
+      <text x="612" y="365" font-size="9" fill="#4A4030">Michigan statehood / 密歇根建州</text>
+      <text x="612" y="378" font-size="9" fill="#6B6256">the 26th state / 第二十六个州</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The strip was swampland around the Maumee River; both sides wanted its harbour.</text>
+    <text x="60" y="470">争议地带是莫米河口的沼泽，双方都想要这个港口。</text>
+    <text x="60" y="494" fill="#B44A32">The “war” was a border dispute, not a declared war. / 所谓“战争”是一场边境纠纷，并未正式宣战。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

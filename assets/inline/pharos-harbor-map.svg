@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The lighthouse of Alexandria and its harbour</title>
+  <desc id="desc">A schematic map of the Eastern Harbour of Alexandria with the island of Pharos, the lighthouse, the Qaitbay fortress and the sunken blocks, plus a section through the three stages of the tower.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">PHAROS · LIGHTHOUSE OF ALEXANDRIA</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">HARBOUR / SECTION / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="480" height="280" fill="#CFE0E6"/>
+
+    <!-- mainland -->
+    <path d="M60 300 H 300 L 360 330 H 540 V 392 H 60 Z" fill="#E2DCC8"/>
+    <path d="M60 300 H 300 L 360 330 H 540" fill="none" stroke="#8C7A52" stroke-width="1.5"/>
+
+    <!-- Pharos island -->
+    <path d="M420 112 H 540 V 228 L 505 240 L 468 210 L 440 158 Z" fill="#E2DCC8"/>
+    <path d="M420 112 H 540 V 228 L 505 240 L 468 210 L 440 158 Z" fill="none" stroke="#8C7A52" stroke-width="1.5"/>
+
+    <!-- Heptastadion mole -->
+    <path d="M300 300 L 440 210" stroke="#8C7A52" stroke-width="9"/>
+    <path d="M300 300 L 440 210" stroke="#E2DCC8" stroke-width="4"/>
+
+    <!-- lighthouse -->
+    <g>
+      <rect x="486" y="140" width="18" height="34" fill="#E6D8BC" stroke="#6B4A32" stroke-width="1.2"/>
+      <rect x="482" y="174" width="26" height="6" fill="#D9C6A5" stroke="#6B4A32" stroke-width="1"/>
+      <path d="M490 134 L 495 126 L 500 134 Z" fill="#B44A32"/>
+    </g>
+
+    <!-- Qaitbay fort -->
+    <g>
+      <rect x="466" y="198" width="30" height="24" fill="#D9C6A5" stroke="#6B4A32" stroke-width="1.2"/>
+      <path d="M466 198 V 192 H 472 V 198 H 478 V 192 H 484 V 198 H 490 V 192 H 496 V 198" fill="none" stroke="#6B4A32" stroke-width="1.2"/>
+    </g>
+
+    <!-- sunken blocks -->
+    <g fill="#9AA6A8" stroke="#5F6E70" stroke-width=".8">
+      <rect x="452" y="224" width="10" height="7" transform="rotate(-12 457 227)"/>
+      <rect x="470" y="232" width="12" height="7" transform="rotate(8 476 235)"/>
+      <rect x="492" y="226" width="9" height="6" transform="rotate(-5 496 229)"/>
+      <rect x="506" y="238" width="11" height="7" transform="rotate(14 511 241)"/>
+      <rect x="478" y="248" width="8" height="6" transform="rotate(-9 482 251)"/>
+    </g>
+
+    <!-- ships -->
+    <g fill="#8C7A52">
+      <path d="M150 262 L 164 262 L 159 270 L 153 270 Z"/>
+      <path d="M158 262 V 250 L 164 257 L 158 257"/>
+      <path d="M312 274 L 326 274 L 321 282 L 315 282 Z"/>
+      <path d="M320 274 V 262 L 326 269 L 320 269"/>
+    </g>
+
+    <g font-family="Georgia, serif" fill="#1D1A17">
+      <text x="80" y="372" font-size="10">ALEXANDRIA / 亚历山大</text>
+      <text x="443" y="126" font-size="8">PHAROS / 法罗斯岛</text>
+      <text x="180" y="242" font-size="10" fill="#3E5A5A">EASTERN HARBOUR / 东港</text>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#4A4030">
+      <text x="252" y="292">Heptastadion / 长堤</text>
+      <text x="386" y="200" text-anchor="end">Qaitbay Fort / 盖特贝城堡</text>
+      <text x="404" y="154" text-anchor="end">lighthouse / 灯塔</text>
+      <text x="436" y="264" text-anchor="end">sunken blocks / 水下石块</text>
+    </g>
+    <path d="M304 290 L 332 282" stroke="#4A4030" stroke-width="1"/>
+    <path d="M388 200 L 462 204" stroke="#4A4030" stroke-width="1"/>
+    <path d="M406 152 L 482 152" stroke="#4A4030" stroke-width="1"/>
+    <path d="M438 260 L 474 248" stroke="#4A4030" stroke-width="1"/>
+  </g>
+
+  <g>
+    <rect x="560" y="112" width="280" height="280" fill="#EFE6D6"/>
+
+    <!-- tower section -->
+    <rect x="600" y="340" width="200" height="52" fill="#D9C6A5" stroke="#6B4A32" stroke-width="1.5"/>
+    <g stroke="#6B4A32" stroke-width=".8" opacity=".5">
+      <path d="M600 354 H 800 M600 368 H 800 M600 382 H 800"/>
+    </g>
+    <rect x="640" y="250" width="120" height="90" fill="#E6D8BC" stroke="#6B4A32" stroke-width="1.5"/>
+    <g stroke="#6B4A32" stroke-width=".8" opacity=".5">
+      <path d="M640 280 H 760 M640 310 H 760"/>
+    </g>
+    <rect x="670" y="175" width="60" height="75" fill="#EFE6D6" stroke="#6B4A32" stroke-width="1.5"/>
+    <rect x="660" y="165" width="80" height="10" fill="#D9C6A5" stroke="#6B4A32" stroke-width="1"/>
+    <rect x="682" y="142" width="36" height="23" fill="#E6D8BC" stroke="#6B4A32" stroke-width="1"/>
+    <path d="M682 142 L 700 128 L 718 142 Z" fill="#8C7A52" stroke="#6B4A32" stroke-width="1"/>
+    <path d="M696 146 C 699 138, 703 138, 706 146 C 703 152, 699 152, 696 146 Z" fill="#B44A32"/>
+
+    <!-- height bracket -->
+    <path d="M820 128 V 392 M816 132 L 820 128 L 824 132 M816 388 L 820 392 L 824 388" fill="none" stroke="#6B6256" stroke-width="1"/>
+    <text transform="rotate(-90 812 260)" x="812" y="260" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#6B6256">100–130 m</text>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#4A4030">
+      <text x="572" y="150">fire / 火</text>
+      <text x="572" y="214">top / 塔顶</text>
+      <text x="572" y="294">middle / 中段</text>
+      <text x="572" y="366">base / 基座</text>
+    </g>
+    <g stroke="#4A4030" stroke-width="1">
+      <path d="M606 147 L 682 147"/>
+      <path d="M614 211 L 670 211"/>
+      <path d="M616 291 L 640 291"/>
+      <path d="M614 363 L 600 363"/>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The tower stood at the harbour mouth for over a thousand years.</text>
+    <text x="60" y="470">灯塔在港口入口站了一千多年。</text>
+    <text x="60" y="494" fill="#B44A32">Earthquakes in 956, 1303, and 1323 brought it down; its stone went into the Qaitbay fortress. / 956、1303、1323 年的地震震塌了它，石头被砌进盖特贝城堡。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

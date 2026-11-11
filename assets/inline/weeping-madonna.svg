@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The weeping Madonna: the image, the tears and the tests</title>
+  <desc id="desc">A framed Madonna image with tears, a candle, and panels on the Syracuse and Civitavecchia cases and the tests.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE WEEPING MADONNA · 流泪的圣母</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SYRACUSE 1953 / CIVITAVECCHIA 1995 / THE TESTS</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE IMAGE / 圣像示意</text>
+
+    <!-- frame -->
+    <ellipse cx="250" cy="246" rx="82" ry="96" fill="#E8DCC4" stroke="#C9A94A" stroke-width="3"/>
+
+    <!-- mantle -->
+    <path d="M250 160 C 210 160 190 190 190 230 L 190 320 L 310 320 L 310 230 C 310 190 290 160 250 160 Z" fill="#4A6A8A"/>
+    <!-- face -->
+    <circle cx="250" cy="218" r="26" fill="#E8DCC4"/>
+    <!-- eyes -->
+    <circle cx="240" cy="216" r="2" fill="#4A4030"/>
+    <circle cx="260" cy="216" r="2" fill="#4A4030"/>
+    <!-- tears -->
+    <path d="M240 220 Q 236 230 240 234 Q 244 230 240 220 Z" fill="#7FA8C4"/>
+    <path d="M260 220 Q 256 230 260 234 Q 264 230 260 220 Z" fill="#7FA8C4"/>
+    <!-- hands -->
+    <path d="M232 270 Q 250 258 268 270" fill="none" stroke="#E8DCC4" stroke-width="5"/>
+
+    <!-- candle -->
+    <rect x="394" y="286" width="16" height="30" fill="#F3EEE4" stroke="#B9A98C" stroke-width="1"/>
+    <path d="M402 280 Q 396 272 402 264 Q 408 272 402 280 Z" fill="#E8C96A"/>
+    <ellipse cx="402" cy="318" rx="18" ry="4" fill="#C9A94A" opacity="0.4"/>
+
+    <line x1="336" y1="164" x2="316" y2="192" stroke="#C9A94A" stroke-width="0.8"/>
+    <text x="338" y="160" font-family="Georgia, serif" font-size="7.5" fill="#1D1A17">SYRACUSE 1953 / 锡拉库萨</text>
+    <text x="300" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">CIVITAVECCHIA 1995 / 奇维塔韦基亚 1995</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">tears, then tests / 先流泪，再检验</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE CASES / 案例</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">Syracuse, 29 Aug–1 Sep 1953 / 锡拉库萨，1953 年 8 月 29 日–9 月 1 日</text>
+      <text x="520" y="186">a plaster relief / 石膏浮雕</text>
+      <text x="520" y="206">a shrine is built / 建起朝圣地</text>
+      <text x="520" y="226">Civitavecchia, 1995 / 奇维塔韦基亚，1995</text>
+      <text x="520" y="242">about 60 witnesses / 约六十名证人</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE TESTS / 检验</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">the liquid was tested / 液体被送检</text>
+      <text x="520" y="330">found to be male blood / 结果是男性血液</text>
+      <text x="520" y="348">the owner refused DNA / 主人拒绝 DNA 测试</text>
+      <text x="520" y="366">no supernatural confirmation / 没有超自然确认</text>
+      <text x="520" y="382">faith, fraud and doubt / 信仰、造假与怀疑</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A face that weeps, and a crowd that needs it to.</text>
+    <text x="60" y="470">一张流泪的脸，和一群需要它流泪的人。</text>
+    <text x="60" y="494" fill="#B44A32">The tears are real; their origin is disputed. / 眼泪是真的，来源有争议。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

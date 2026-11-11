@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: ark-of-the-covenant
+title_zh: 金皮木箱
+title_en: The Gold-Covered Chest
+era: "约公元前 10 世纪"
+era_en: "c. 10th century BCE"
+region: 以色列，耶路撒冷
+region_en: "Jerusalem, Israel"
+coords: [31.778, 35.235]
+tags:
+  - 约柜
+  - 圣物
+  - 耶路撒冷
+  - 阿克苏姆
+  - 圣经
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Ark of the Covenant"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Ark_of_the_Covenant
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 圣经描述、非利士人夺取、巴比伦毁灭与失踪
+  - id: S2
+    title: "National Geographic · What happened to the Ark of the Covenant?"
+    publisher: National Geographic
+    url: https://www.nationalgeographic.com/history/article/ark-of-the-covenant-missing-bible
+    year: "2026"
+    license: 版权归 National Geographic；仅作事实参考
+    usage: 埃塞俄比亚传统、Kebra Nagast 与阿克苏姆的守护
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面圣所与金箱场景复原、流传路径示意；不是文物照片
+cover: ../../../assets/covers/ark-of-the-covenant.jpg
+related:
+  - dead-sea-scrolls
+  - he-shi-bi
+status: review
+featured: false
+translation_status: translated

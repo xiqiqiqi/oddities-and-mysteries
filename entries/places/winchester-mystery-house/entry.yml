@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: winchester-mystery-house
+title_zh: 没有尽头的房子
+title_en: The House Without an End
+era: "1886–1922"
+era_en: "1886–1922"
+region: 美国，加利福尼亚，圣何塞
+region_en: "San Jose, California, United States"
+coords: [37.318, -121.951]
+tags:
+  - 温彻斯特神秘屋
+  - 莎拉·温彻斯特
+  - 圣何塞
+  - 鬼屋
+  - 维多利亚建筑
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Winchester Mystery House"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Winchester_Mystery_House
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 房屋规模、建筑特征、莎拉生平与传说来源
+  - id: S2
+    title: "Winchester Mystery House · History"
+    publisher: Winchester Mystery House
+    url: https://winchestermysteryhouse.com/history/
+    year: "2026"
+    license: 版权归 Winchester Mystery House；仅作事实参考
+    usage: 官方历史、购买年份与开放信息
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面维多利亚宅邸场景复原、平面与时间线示意；不是现场照片
+cover: ../../../assets/covers/winchester-mystery-house.jpg
+related:
+  - sedlec-ossuary
+  - island-of-the-dolls
+status: review
+featured: false
+translation_status: translated

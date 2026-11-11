@@ -1,0 +1,47 @@
+channel: mystery
+type: phenomenon
+slug: guiyang-air-train
+title_zh: 空中的怪车
+title_en: The Thing That Roared Over Guiyang
+era: "1994"
+era_en: "1994"
+region: 中国，贵州，贵阳
+region_en: "Guiyang, Guizhou, China"
+coords: [26.68, 106.63]
+tags:
+  - 空中怪车
+  - 都溪林场
+  - 贵阳
+  - 下击暴流
+  - 1994
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "CCTV《走近科学》· 贵阳空中怪车"
+    publisher: 中央电视台
+    url: http://www.cntv.cn/program/zoujinkexue/topic/science/C14443/20050728/101750.shtml
+    year: "2005"
+    license: 版权归中央电视台；仅作事实参考
+    usage: 林场与车辆厂的破坏、目击与调查
+  - id: S2
+    title: "中国新闻网 · UFO 突袭贵阳森林？专家还原事件真相"
+    publisher: 中国新闻网
+    url: https://www.chinanews.com.cn/cul/news/2009/03-10/1596442.shtml
+    year: "2009"
+    license: 版权归中国新闻网；仅作事实参考
+    usage: 欧阳自远的下击暴流解释与气象条件
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面夜间林场与厂房场景复原、破坏带示意；不是现场照片
+cover: ../../../assets/covers/guiyang-air-train.jpg
+related:
+  - paulding-light
+  - hessdalen-lights
+status: review
+featured: false
+translation_status: translated

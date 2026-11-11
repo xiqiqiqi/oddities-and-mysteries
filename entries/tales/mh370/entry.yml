@@ -1,0 +1,55 @@
+channel: tales
+type: event
+slug: mh370
+title_zh: 没有降落的飞机
+title_en: The Plane That Never Landed
+era: "2014 年"
+era_en: "2014"
+region: 印度洋
+region_en: "Indian Ocean"
+coords: null
+tags:
+  - MH370
+  - 马来西亚航空
+  - 印度洋
+  - 卫星握手
+  - 航空史
+  - 搜寻
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "ATSB · MH370 search overview"
+    publisher: Australian Transport Safety Bureau
+    url: https://www.atsb.gov.au/mh370-search-overview
+    year: "2026"
+    license: 澳大利亚政府公开资料；仅作事实参考
+    usage: 239 人、12 名机组、搜寻区域与 2018 年搜索结束
+  - id: S2
+    title: "Malaysia MOT · MH370 Search Operation 2025/2026"
+    publisher: Malaysia Ministry of Transport
+    url: https://www.mot.gov.my/en/Kenyataan%20Media/Year%202026/MH370%20Search%20Operation%202025-2026%20-%20Update%20to%20Families.pdf
+    year: "2026"
+    license: 马来西亚政府公开文件；仅作事实参考
+    usage: 2025–2026 年新搜寻、约 7,571 平方公里、没有发现
+  - id: S3
+    title: "人民网 · 马航 370 航班客机残骸最新搜寻“没有任何发现”"
+    publisher: 人民网 / 新华社
+    url: http://world.people.com.cn/n1/2026/0308/c1002-40677390.html
+    year: "2026"
+    license: 版权归人民网；仅作事实参考
+    usage: 2026 年 3 月 8 日马来西亚交通部声明、两阶段搜寻
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面南印度洋搜寻场景复原、时间线与卫星弧示意；不是现场照片
+cover: ../../../assets/covers/mh370.jpg
+related:
+  - valentich
+  - alaska-triangle
+status: review
+featured: false
+translation_status: translated

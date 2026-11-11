@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: jiaohe
+title_zh: 挖出来的城市
+title_en: The City Dug from the Earth
+era: "约公元前 100 年–14 世纪"
+era_en: "about 100 BCE – 14th century"
+region: 中国，新疆，吐鲁番
+region_en: "Turpan, Xinjiang, China"
+coords: [42.95, 89.06]
+tags:
+  - 交河故城
+  - 吐鲁番
+  - 生土建筑
+  - 丝绸之路
+  - 故城
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Jiaohe Ruins"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Jiaohe_Ruins
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 城市布局、生土建筑、历史沿革与保护状况
+  - id: S2
+    title: "Wikipedia · Turpan"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Turpan
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 吐鲁番盆地、气候与丝绸之路背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与城市布局示意；不是现场照片
+cover: ../../../assets/covers/jiaohe.jpg
+related:
+  - gobekli-tepe
+  - sacsayhuaman
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: sanxingdui-mask
+title_zh: 凸眼睛的面具
+title_en: The Mask with Bulging Eyes
+era: "商代晚期（约公元前 12–11 世纪）"
+era_en: "Late Shang, c. 12th–11th century BCE"
+region: 中国，四川，广汉
+region_en: "Guanghan, Sichuan, China"
+coords: [30.99, 104.20]
+tags:
+  - 三星堆
+  - 青铜面具
+  - 纵目
+  - 古蜀
+  - 考古
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "四川省文物局 · 青铜纵目面具"
+    publisher: 四川省文物局
+    url: https://wwj.sc.gov.cn/scwwj/sdai/2023/4/25/11995271d8f5407b88a965b38e4a3fbd.shtml
+    year: "2023"
+    license: 版权所有；仅作事实参考
+    usage: 尺寸、年代、出土与收藏信息
+  - id: S2
+    title: "上海博物馆 · 夔龙冠纵目青铜面具"
+    publisher: 上海博物馆
+    url: https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00159720
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 同类面具的形制、年代与出土背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面祭祀坑与面具场景复原、面具结构示意；不是文物照片
+cover: ../../../assets/covers/sanxingdui-mask.jpg
+related:
+  - jade-burial-suit
+  - sword-of-goujian
+status: review
+featured: false
+translation_status: translated

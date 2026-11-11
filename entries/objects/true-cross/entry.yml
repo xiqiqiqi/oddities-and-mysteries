@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: true-cross
+title_zh: 木头的碎片
+title_en: Splinters of the Cross
+era: "约 326 年"
+era_en: "c. 326 CE"
+region: 以色列，耶路撒冷
+region_en: "Jerusalem, Israel"
+coords: [31.778, 35.230]
+tags:
+  - 真十字架
+  - 海伦娜
+  - 圣墓教堂
+  - 圣物
+  - 君士坦丁
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · True Cross"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/True_Cross
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 海伦娜的发现、三块木头、碎片分布与争议
+  - id: S2
+    title: "Catholic World Report · Legends and History of the True Cross"
+    publisher: Catholic World Report
+    url: https://www.catholicworldreport.com/2021/04/01/legends-and-history-of-the-true-cross/
+    year: "2021"
+    license: 版权归 Catholic World Report；仅作事实参考
+    usage: 发现传统、耶路撒冷与君士坦丁堡的分送
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面圣墓教堂地下发现场景复原、碎片流传示意；不是文物照片
+cover: ../../../assets/covers/true-cross.jpg
+related:
+  - ark-of-the-covenant
+  - shroud-of-turin
+status: review
+featured: false
+translation_status: translated

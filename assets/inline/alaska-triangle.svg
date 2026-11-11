@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Alaska Triangle: the 1972 flight, the triangle and the missing-person numbers</title>
+  <desc id="desc">A map of Alaska with a triangle between Anchorage, Juneau and Utqiagvik, a dashed 1972 flight path, and panels on the case and the statistics.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE TRIANGLE'S LEDGER · 三角形的账</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">ALASKA / 1972 / 1,334 UNSOLVED CASES</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE TRIANGLE / 三角范围示意</text>
+
+    <!-- map background -->
+    <rect x="72" y="150" width="396" height="190" fill="#2E3440"/>
+    <g stroke="#3A4A5A" stroke-width="0.5">
+      <line x1="72" y1="190" x2="468" y2="190"/>
+      <line x1="72" y1="230" x2="468" y2="230"/>
+      <line x1="72" y1="270" x2="468" y2="270"/>
+      <line x1="72" y1="310" x2="468" y2="310"/>
+      <line x1="120" y1="150" x2="120" y2="340"/>
+      <line x1="200" y1="150" x2="200" y2="340"/>
+      <line x1="280" y1="150" x2="280" y2="340"/>
+      <line x1="360" y1="150" x2="360" y2="340"/>
+      <line x1="440" y1="150" x2="440" y2="340"/>
+    </g>
+
+    <!-- rough Alaska silhouette -->
+    <path d="M92 214 L 118 196 L 150 200 L 170 186 L 200 190 L 224 176 L 250 180 L 278 170 L 310 180 L 344 176 L 372 190 L 402 188 L 430 204 L 448 226 L 440 250 L 420 262 L 414 282 L 392 290 L 380 310 L 356 318 L 332 308 L 310 320 L 286 314 L 264 324 L 240 316 L 218 322 L 196 310 L 176 316 L 154 302 L 136 296 L 122 278 L 108 268 L 102 246 Z" fill="#3A4A3A" opacity="0.45" stroke="#4A5A70" stroke-width="0.8"/>
+
+    <!-- triangle -->
+    <path d="M170 290 L 250 170 L 400 320 Z" fill="#C9A94A" opacity="0.08" stroke="#C9A94A" stroke-width="1.2" stroke-dasharray="5 4"/>
+
+    <!-- flight path -->
+    <path d="M170 290 Q 250 300 400 320" fill="none" stroke="#B44A32" stroke-width="1.4" stroke-dasharray="4 3"/>
+    <circle cx="170" cy="290" r="3.5" fill="#E8C96A"/>
+    <circle cx="250" cy="170" r="3.5" fill="#E8C96A"/>
+    <circle cx="400" cy="320" r="3.5" fill="#E8C96A"/>
+    <text x="126" y="308" font-family="Georgia, serif" font-size="7.5" fill="#F3EEE4">ANCHORAGE</text>
+    <text x="210" y="160" font-family="Georgia, serif" font-size="7.5" fill="#F3EEE4">UTQIAGVIK</text>
+    <text x="356" y="310" font-family="Georgia, serif" font-size="7.5" fill="#F3EEE4">JUNEAU</text>
+
+    <!-- flight label -->
+    <line x1="280" y1="306" x2="300" y2="286" stroke="#E8896F" stroke-width="0.8"/>
+    <text x="304" y="284" font-family="Georgia, serif" font-size="7.5" fill="#E8896F">16 OCT 1972 / 1972 年 10 月 16 日</text>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">A SHAPE BETWEEN THREE NAMES / 三个地名连成的形状</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">at most 185,000 square miles / 最大约 18.5 万平方英里</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE CASE / 案件</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">16 Oct 1972 · Cessna 310 / 1972 年 10 月 16 日</text>
+      <text x="520" y="186">Boggs, Begich, Brown, Jonz / 机上四人</text>
+      <text x="520" y="206">Anchorage to Juneau / 安克雷奇飞朱诺</text>
+      <text x="520" y="226">39 days of searching / 39 天搜救</text>
+      <text x="520" y="242">no wreckage, no bodies / 没有残骸，没有遗体</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE NUMBERS / 数字</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">"20,000 missing" · false / “两万失踪”是假的</text>
+      <text x="520" y="330">1,334 unsolved since 1948 / 1948 年以来未结</text>
+      <text x="520" y="348">177 per 100,000 / 每十万人 177 起</text>
+      <text x="520" y="366">five planes lost without trace / 五架飞机无影无踪</text>
+      <text x="520" y="382">Alaska is simply vast / 阿拉斯加只是太大</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">"Alaska. Too large to comprehend."</text>
+    <text x="60" y="470">“阿拉斯加。大得无法理解。”</text>
+    <text x="60" y="494" fill="#B44A32">The triangle is drawn; the lost are real. / 三角是人画的，失踪的人是真的。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

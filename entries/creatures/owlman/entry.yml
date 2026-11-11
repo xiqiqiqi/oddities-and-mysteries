@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: owlman
+title_zh: 塔顶的鸮人
+title_en: The Owlman on the Tower
+era: "1976"
+era_en: "1976"
+region: 英国，康沃尔，莫南史密斯
+region_en: "Mawnan Smith, Cornwall, United Kingdom"
+coords: [50.110, -5.095]
+tags:
+  - 鸮人
+  - 康沃尔
+  - 未确认生物
+  - 1976
+  - 教堂
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Owlman"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Owlman
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1976 年目击、目击者、后续报告与解释
+  - id: S2
+    title: "Cornwall Live · The forgotten story of Cornwall's owlman"
+    publisher: Cornwall Live
+    url: https://www.cornwalllive.com/news/cornwall-news/cornish-owlman-mawnan-smith-been-4045776
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 教堂地点、目击经过与当地传说背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面教堂与有翅人形场景复原、目击时间线示意；不是目击照片
+cover: ../../../assets/covers/owlman.jpg
+related:
+  - mothman
+  - spring-heeled-jack
+status: review
+featured: false
+translation_status: translated

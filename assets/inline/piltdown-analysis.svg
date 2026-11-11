@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Piltdown composite and its identification</title>
+  <desc id="desc">A schematic showing a modern human cranium combined with an orangutan jaw, and the 1953 tests that exposed the hoax.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">PILTDOWN MAN · COMPOSITE</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">ANNOUNCED 1912 / EXPOSED 1953 / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="360" height="300" fill="#EFE6D6" stroke="#1D1A17" stroke-opacity=".15"/>
+    <path d="M150 330 C 130 300, 128 250, 150 220 C 168 196, 200 188, 228 196 C 258 204, 274 230, 278 260 L 278 300 L 250 300 L 248 330 Z" fill="#D8C9AE" stroke="#6B4A32" stroke-width="2"/>
+    <path d="M270 268 C 300 260, 330 270, 340 292 C 348 310, 340 330, 320 336 L 280 334 L 278 300 Z" fill="#D8C9AE" stroke="#6B4A32" stroke-width="2"/>
+    <g fill="#F3EEE4" stroke="#6B4A32" stroke-width="1">
+      <rect x="292" y="292" width="10" height="16"/>
+      <rect x="306" y="294" width="10" height="16"/>
+      <rect x="320" y="296" width="9" height="14"/>
+      <rect x="288" y="314" width="10" height="14"/>
+      <rect x="302" y="316" width="10" height="14"/>
+    </g>
+    <circle cx="190" cy="245" r="18" fill="#1D1A17" opacity=".7"/>
+    <path d="M228 210 L 270 200" stroke="#B44A32" stroke-width="1.5"/>
+    <text x="276" y="198" font-family="Georgia, serif" font-size="10" fill="#B44A32">MODERN HUMAN CRANIUM</text>
+    <text x="276" y="212" font-family="Georgia, serif" font-size="10" fill="#B44A32">现代人头骨</text>
+
+    <path d="M340 292 L 380 292" stroke="#B44A32" stroke-width="1.5"/>
+    <text x="300" y="368" font-family="Georgia, serif" font-size="10" fill="#B44A32">ORANGUTAN JAW / 猩猩下颌</text>
+    <path d="M330 336 L 320 356" stroke="#B44A32" stroke-width="1.5"/>
+
+    <path d="M320 330 L 360 350" stroke="#1D1A17" stroke-width="1.5"/>
+    <text x="250" y="392" font-family="Georgia, serif" font-size="10" fill="#6B6256">teeth filed / 牙齿被锉</text>
+  </g>
+
+  <g>
+    <rect x="450" y="112" width="390" height="300" fill="#EFE6D6" stroke="#1D1A17" stroke-opacity=".15"/>
+    <text x="474" y="140" font-family="Georgia, serif" font-size="11" fill="#1D1A17">1953 TESTS / 1953 年鉴定</text>
+
+    <g>
+      <rect x="474" y="162" width="108" height="72" fill="#DCE6E8" stroke="#1D1A17" stroke-width="1.2"/>
+      <text x="484" y="184" font-family="Georgia, serif" font-size="10" fill="#1D1A17">FLUORINE</text>
+      <text x="484" y="200" font-family="Georgia, serif" font-size="9" fill="#6B6256">different levels</text>
+      <text x="484" y="216" font-family="Georgia, serif" font-size="9" fill="#6B6256">氟含量不同</text>
+    </g>
+    <g>
+      <rect x="594" y="162" width="108" height="72" fill="#DCE6E8" stroke="#1D1A17" stroke-width="1.2"/>
+      <text x="604" y="184" font-family="Georgia, serif" font-size="10" fill="#1D1A17">MICROSCOPE</text>
+      <text x="604" y="200" font-family="Georgia, serif" font-size="9" fill="#6B6256">filed teeth</text>
+      <text x="604" y="216" font-family="Georgia, serif" font-size="9" fill="#6B6256">锉痕</text>
+    </g>
+    <g>
+      <rect x="714" y="162" width="108" height="72" fill="#DCE6E8" stroke="#1D1A17" stroke-width="1.2"/>
+      <text x="724" y="184" font-family="Georgia, serif" font-size="10" fill="#1D1A17">CHEMISTRY</text>
+      <text x="724" y="200" font-family="Georgia, serif" font-size="9" fill="#6B6256">iron + chromic acid</text>
+      <text x="724" y="216" font-family="Georgia, serif" font-size="9" fill="#6B6256">铁盐与铬酸染色</text>
+    </g>
+
+    <path d="M474 258 H 822" stroke="#1D1A17" stroke-width="1" opacity=".2"/>
+    <text x="474" y="286" font-family="Georgia, serif" font-size="11" fill="#B44A32">CONCLUSION / 结论</text>
+    <text x="474" y="314" font-family="Georgia, serif" font-size="18" fill="#1D1A17">A COMPOSITE, NOT A SPECIES.</text>
+    <text x="474" y="336" font-family="Georgia, serif" font-size="11" fill="#6B6256">拼装品，不是一个物种。</text>
+    <text x="474" y="366" font-family="Georgia, serif" font-size="10" fill="#6B6256">Skull: modern human · Jaw: orangutan</text>
+    <text x="474" y="382" font-family="Georgia, serif" font-size="10" fill="#6B6256">头骨：现代人 · 下颌：猩猩</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The “dawn man” was accepted for more than forty years.</text>
+    <text x="60" y="470">“黎明人”被学界接受了四十多年。</text>
+    <text x="60" y="494" fill="#B44A32">Dawson is the main suspect; accomplices remain unproved. / 道森是主要嫌疑人，同伙未被证实。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

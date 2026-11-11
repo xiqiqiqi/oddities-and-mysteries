@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Maura Murray: the empty car, the day and the ten-minute window</title>
+  <desc id="desc">A dark winter road at night with a black car buried in a snowbank, and panels on the day of 9 February 2004 and the ten minutes after the crash.</desc>
+  <defs>
+    <linearGradient id="maura-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1D2A3A"/>
+      <stop offset="1" stop-color="#3A4A5A"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE EMPTY CAR BY THE SNOWBANK · 雪堆旁的空车</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">ROUTE 112 / 9 FEBRUARY 2004 / 7:27 PM</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE ROAD AT NIGHT / 雪夜公路示意</text>
+
+    <!-- scene -->
+    <rect x="72" y="150" width="396" height="190" fill="url(#maura-sky)"/>
+    <!-- snow ground -->
+    <rect x="72" y="290" width="396" height="50" fill="#D8DCE0"/>
+    <!-- road -->
+    <path d="M72 300 L 468 264 L 468 304 L 72 330 Z" fill="#3A4048"/>
+    <path d="M90 315 L 450 283" stroke="#8A9A90" stroke-width="1" stroke-dasharray="8 8"/>
+    <!-- snowbank -->
+    <path d="M300 300 Q 340 286 380 296 Q 410 304 430 318 L 430 336 L 300 336 Z" fill="#F3EEE4"/>
+    <!-- car -->
+    <path d="M214 296 L 222 272 L 280 266 L 302 288 L 302 300 Z" fill="#15181C" stroke="#8A9A90" stroke-width="0.8"/>
+    <path d="M230 274 L 242 262 L 272 260 L 284 270 Z" fill="#2E3440"/>
+    <rect x="236" y="272" width="16" height="10" fill="#4A5A70"/>
+    <rect x="258" y="270" width="16" height="12" fill="#4A5A70"/>
+    <circle cx="232" cy="300" r="7" fill="#1D1A17" stroke="#8A9A90" stroke-width="0.8"/>
+    <circle cx="288" cy="296" r="7" fill="#1D1A17" stroke="#8A9A90" stroke-width="0.8"/>
+    <path d="M300 288 L 326 292 L 322 300 L 300 300 Z" fill="#15181C"/>
+
+    <!-- trees -->
+    <g fill="#1D2A1D">
+      <path d="M92 290 L 100 220 L 108 290 Z"/>
+      <path d="M112 290 L 122 206 L 132 290 Z"/>
+      <path d="M420 286 L 430 210 L 440 286 Z"/>
+      <path d="M444 284 L 454 222 L 464 284 Z"/>
+    </g>
+    <!-- snow -->
+    <g fill="#F3EEE4" opacity="0.8">
+      <circle cx="140" cy="180" r="1.2"/><circle cx="180" cy="210" r="1"/><circle cx="220" cy="170" r="1.1"/>
+      <circle cx="270" cy="200" r="1"/><circle cx="330" cy="180" r="1.2"/><circle cx="370" cy="220" r="1"/>
+      <circle cx="400" cy="170" r="1.1"/><circle cx="160" cy="240" r="1"/><circle cx="300" cy="230" r="1"/>
+    </g>
+
+    <line x1="250" y1="248" x2="256" y2="266" stroke="#E8C96A" stroke-width="0.8"/>
+    <text x="200" y="244" font-family="Georgia, serif" font-size="7.5" fill="#E8C96A">THE CAR / 空车</text>
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">ROUTE 112 / 112 号公路</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">no clear footprints in the snow / 雪地上没有明显脚印</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE DAY / 当天</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">3 pm · ATM, $280 / 取款</text>
+      <text x="520" y="186">liquor store, about $40 / 买酒</text>
+      <text x="520" y="206">emails: a death in the family / 邮件</text>
+      <text x="520" y="226">no one had died / 家里没有人去世</text>
+      <text x="520" y="242">drives north into New Hampshire / 北上</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE TEN MINUTES / 十分钟</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">7:27 · the car hits the bank / 撞进雪堆</text>
+      <text x="520" y="330">a bus driver stops / 校车司机停车</text>
+      <text x="520" y="348">"no, I called a tow" / “不用，我叫了拖车”</text>
+      <text x="520" y="366">the driver calls police / 司机报警</text>
+      <text x="520" y="382">~7:37 · the car is empty / 车空了</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The car is still in evidence. She is not.</text>
+    <text x="60" y="470">车还在证据里。人不在。</text>
+    <text x="60" y="494" fill="#B44A32">A ten-minute window that no theory has closed. / 十分钟的窗口，没有一种说法能关上。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,47 @@
+channel: tales
+type: event
+slug: kettle-war
+title_zh: 只开一炮的战争
+title_en: The War With One Shot
+era: "1784 年"
+era_en: "1784"
+region: 荷兰与奥地利，斯海尔德河口
+region_en: "the Scheldt estuary, Dutch Republic and Austria"
+coords: [51.35, 4.15]
+tags:
+  - 水壶战争
+  - 斯海尔德河
+  - 奥地利
+  - 荷兰
+  - 十八世纪
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Kettle War"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Kettle_War
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 事件经过、名称由来、外交背景与后续条约
+  - id: S2
+    title: "Wikipedia · Scheldt"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Scheldt
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 斯海尔德河的航运与河口地理
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与事件时间线；不是历史画作
+cover: ../../../assets/covers/kettle-war.jpg
+related:
+  - dancing-plague
+  - wanggongchang-1626
+status: review
+featured: false
+translation_status: translated

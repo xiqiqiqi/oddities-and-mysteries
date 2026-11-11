@@ -1,0 +1,55 @@
+channel: creatures
+type: creature
+slug: loch-ness
+title_zh: 湖面下的长颈
+title_en: The Neck Beneath the Loch
+era: "1933（现代目击；传说可追溯至 6 世纪）"
+era_en: "1933 (modern sightings; legends date back to the 6th century)"
+region: 苏格兰，尼斯湖
+region_en: "Loch Ness, Scotland"
+coords: [57.3229, -4.4244]
+tags:
+  - 尼斯湖水怪
+  - 水怪
+  - 苏格兰
+  - 目击
+  - 传说
+collections:
+  - lake-monsters
+credibility: folklore
+sources:
+  - id: S1
+    title: "Encyclopaedia Britannica · Loch Ness monster"
+    publisher: Britannica editors
+    url: https://www.britannica.com/topic/Loch-Ness-monster
+    year: "2026"
+    license: 版权归 Britannica，仅作参考
+    usage: 历史目击、圣哥伦巴传说、现代调查
+  - id: S2
+    title: "Wikipedia · Loch Ness Monster"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Loch_Ness_Monster
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 时间线、照片、声呐与 DNA 研究
+  - id: S3
+    title: "Loch Ness Centre · Loch Ness Monster"
+    publisher: Loch Ness Centre
+    url: https://www.lochness.com/
+    year: "2026"
+    license: Loch Ness Centre 网站使用条款
+    usage: 当地目击记录与旅游背景
+  - id: S4
+    title: "BBC · Loch Ness Monster"
+    publisher: BBC
+    url: https://www.bbc.com/
+    year: "2026"
+    license: BBC 网站使用条款
+    usage: 2019 年 DNA 研究报道与背景核对
+cover: ../../../assets/covers/loch-ness.jpg
+related:
+  - mary-celeste
+  - gobekli-tepe
+status: review
+featured: true
+translation_status: translated

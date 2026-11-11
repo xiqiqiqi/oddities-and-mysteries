@@ -1,0 +1,47 @@
+channel: mystery
+type: phenomenon
+slug: paulding-light
+title_zh: 树林里的灯
+title_en: The Light in the Woods
+era: "1960 年代起"
+era_en: "Since the 1960s"
+region: 美国，密歇根，波尔丁
+region_en: "Paulding, Michigan, United States"
+coords: [46.401, -89.179]
+tags:
+  - 波尔丁光
+  - 密歇根
+  - 鬼火
+  - 车灯
+  - 光学
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Paulding Light"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Paulding_Light
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 地点、传说与 2010 年调查
+  - id: S2
+    title: "CBS Detroit · Michigan Tech Solves Mystery Of UP Lights"
+    publisher: CBS News Detroit
+    url: https://www.cbsnews.com/detroit/news/michigan-tech-solves-mystery-of-up-lights/
+    year: "2010"
+    license: 版权归 CBS；仅作事实参考
+    usage: 密歇根理工团队的调查方法与结论
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面夜间树林与光点场景复原、观测点与公路示意；不是现场照片
+cover: ../../../assets/covers/paulding-light.jpg
+related:
+  - hessdalen-lights
+  - min-min-lights
+status: review
+featured: false
+translation_status: translated

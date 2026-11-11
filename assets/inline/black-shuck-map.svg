@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Black Shuck at Bungay and Blythburgh, 4 August 1577</title>
+  <desc id="desc">A schematic map of east Suffolk showing Bungay and Blythburgh twelve miles apart, with the pamphlet's account and a list of what can and cannot be checked.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">BLACK SHUCK · 4 AUGUST 1577</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">BUNGAY / BLYTHBURGH / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#DCE6E8"/>
+
+    <!-- land -->
+    <path d="M60 112 H330 C320 150, 340 180, 330 210 C320 240, 345 270, 335 300 C325 330, 340 360, 330 392 H60 Z" fill="#E2DCC8" stroke="#8C7A52" stroke-width="1.5"/>
+
+    <!-- route -->
+    <path d="M176 238 L 280 216" stroke="#8C3A2A" stroke-width="2" stroke-dasharray="6 4"/>
+    <path d="M280 216 L 268 218 M280 216 L 274 226" stroke="#8C3A2A" stroke-width="2" fill="none"/>
+
+    <!-- churches -->
+    <g fill="#E2DCC8" stroke="#3F2E1E" stroke-width="1.2">
+      <rect x="166" y="232" width="12" height="18"/>
+      <rect x="280" y="208" width="12" height="18"/>
+    </g>
+    <path d="M172 232 V 224 M168 227 H 176" stroke="#3F2E1E" stroke-width="1.2"/>
+    <path d="M286 208 V 200 M282 203 H 290" stroke="#3F2E1E" stroke-width="1.2"/>
+
+    <g font-family="Georgia, serif" fill="#1D1A17">
+      <text x="96" y="232" font-size="9">BUNGAY / 邦吉</text>
+      <text x="300" y="200" font-size="9">BLYTHBURGH / 布莱斯堡</text>
+      <text x="205" y="202" font-size="8" fill="#8C3A2A">same day / 同一天</text>
+      <text x="198" y="258" font-size="8" fill="#6B6256">12 miles / 12 英里</text>
+      <text x="96" y="334" font-size="9" fill="#4A4030">SUFFOLK / 萨福克</text>
+      <text x="380" y="322" font-size="9" fill="#3E5A5A">NORTH SEA</text>
+      <text x="380" y="334" font-size="9" fill="#3E5A5A">北海</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">WHAT THE PAMPHLET SAYS / 小册子记载</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="168">Bungay: black dog, two dead / 邦吉：黑狗，两人死亡</text>
+      <text x="520" y="190">Blythburgh: a man and a boy dead / 布莱斯堡：一男一童死亡</text>
+      <text x="520" y="212">scorch marks on the north door / 北门留下焦痕</text>
+      <text x="520" y="234">printed by Abraham Fleming, 1577 / 弗莱明 1577 年印行</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">WHAT CAN BE CHECKED / 可以核实什么</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">a severe storm on 4 August 1577 / 1577 年 8 月 4 日的强风暴</text>
+      <text x="520" y="334">the pamphlet was printed that year / 小册子当年印行</text>
+      <text x="520" y="356">the north door's scorch marks exist / 北门焦痕确实存在</text>
+      <text x="520" y="378" font-size="8" fill="#B44A32">the dog has no independent record / 黑狗没有独立记录；可能原因：雷击</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The story was printed soon after the event, but not by an eyewitness.</text>
+    <text x="60" y="470">故事在事发后不久印行，但作者并非目击者。</text>
+    <text x="60" y="494" fill="#B44A32">A severe storm and lightning may explain the deaths and the scorch marks. / 强风暴和雷击可能解释了死亡与焦痕。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

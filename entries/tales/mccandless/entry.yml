@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: mccandless
+title_zh: 荒野里的巴士
+title_en: The Bus in the Wild
+era: "1992"
+era_en: "1992"
+region: 美国，阿拉斯加，斯坦佩德小径
+region_en: "Stampede Trail, Alaska, United States"
+coords: [63.87, -149.77]
+tags:
+  - 克里斯托弗·麦坎德利斯
+  - 阿拉斯加
+  - 荒野
+  - 巴士 142
+  - 1992
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Christopher McCandless"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Christopher_McCandless
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 生平、旅行、阿拉斯加时期、死亡与巴士的后续
+  - id: S2
+    title: "The New Yorker · How Chris McCandless Died"
+    publisher: The New Yorker
+    url: https://www.newyorker.com/books/page-turner/how-chris-mccandless-died
+    year: "2013"
+    license: 版权归 The New Yorker；仅作事实参考
+    usage: 死因争议、土豆种子与 ODAP 假说
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面阿拉斯加荒野与 142 号巴士场景复原、路线示意；不是现场照片
+cover: ../../../assets/covers/mccandless.jpg
+related:
+  - dyatlov-pass
+  - valentich
+status: review
+featured: false
+translation_status: translated

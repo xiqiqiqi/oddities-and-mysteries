@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: hessdalen-lights
+title_zh: 山谷里的光
+title_en: The Lights in the Valley
+era: "1981–1984（1930 年代起有目击）"
+era_en: "1981–1984 (reported since the 1930s)"
+region: 挪威，赫斯达伦
+region_en: "Hessdalen, Norway"
+coords: [62.793, 11.188]
+tags:
+  - 赫斯达伦光
+  - 光球
+  - 挪威
+  - 等离子体
+  - 未解现象
+collections:
+  - strange-lights
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Hessdalen lights"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Hessdalen_lights
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 目击历史、现象描述、解释假说
+  - id: S2
+    title: "Hessdalen Project"
+    publisher: Hessdalen Project / Østfold University College
+    url: https://www.hessdalen.org/
+    year: "2026"
+    license: Hessdalen Project 网站使用条款
+    usage: 研究项目、观测设备、自动观测站
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与观测时间线；不是历史照片
+cover: ../../../assets/covers/hessdalen-lights.jpg
+related:
+  - bristol-hum
+  - tunguska-1908
+status: review
+featured: false
+translation_status: translated

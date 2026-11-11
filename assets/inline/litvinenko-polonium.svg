@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Litvinenko case: the tea, the polonium-210, and the timeline</title>
+  <desc id="desc">A timeline from the 1 November 2006 meeting at the Millennium Hotel to the 2016 public inquiry, with panels on polonium-210 and the contamination traces.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">LITVINENKO · LONDON 2006</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">POLONIUM-210 / TEA / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="142" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE TIMELINE / 时间线</text>
+
+    <path d="M120 164 V 356" stroke="#1D1A17" stroke-width="1.5"/>
+    <g fill="#B44A32">
+      <circle cx="120" cy="175" r="4"/>
+      <circle cx="120" cy="225" r="4"/>
+      <circle cx="120" cy="275" r="4"/>
+      <circle cx="120" cy="325" r="4"/>
+    </g>
+
+    <g font-family="Georgia, serif">
+      <text x="138" y="173" font-size="8" fill="#1D1A17">1 NOV 2006</text>
+      <text x="138" y="185" font-size="8" fill="#6B6256">tea at the Millennium Hotel / 千禧酒店喝茶</text>
+
+      <text x="138" y="223" font-size="8" fill="#1D1A17">2–20 NOV</text>
+      <text x="138" y="235" font-size="8" fill="#6B6256">illness / 发病</text>
+
+      <text x="138" y="273" font-size="8" fill="#1D1A17">23 NOV 2006</text>
+      <text x="138" y="285" font-size="8" fill="#6B6256">death / 死亡</text>
+
+      <text x="138" y="323" font-size="8" fill="#1D1A17">2016</text>
+      <text x="138" y="335" font-size="8" fill="#6B6256">public inquiry / 公开调查</text>
+    </g>
+
+    <!-- tea cup -->
+    <g stroke="#6B4A32" stroke-width="1.5" fill="none">
+      <path d="M360 190 H 400 V 215 Q 380 228 360 215 Z"/>
+      <path d="M400 197 Q 414 197 414 207 Q 414 216 400 216"/>
+      <path d="M370 178 Q 366 170 372 164 M382 178 Q 378 170 384 164"/>
+    </g>
+    <text x="352" y="244" font-family="Georgia, serif" font-size="8" fill="#6B6256">green tea / 绿茶</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE POISON / 毒物</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">polonium-210 / 钋-210</text>
+      <text x="520" y="188">alpha emitter, half-life ~138 days</text>
+      <text x="520" y="201">α 放射，半衰期约 138 天</text>
+      <text x="520" y="223">dangerous if swallowed or inhaled</text>
+      <text x="520" y="236">吞入或吸入才危险</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE TRACE / 痕迹</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">hotel bar, teapot, cup / 酒店酒吧、茶壶、杯子</text>
+      <text x="520" y="334">home and contacts / 住所与接触者</text>
+      <text x="520" y="356">lead-lined coffin / 铅制棺材</text>
+    </g>
+    <text x="520" y="380" font-family="Georgia, serif" font-size="8" fill="#B44A32">inquiry: operation “probably approved”</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Litvinenko drank green tea with two Russians on 1 November 2006.</text>
+    <text x="60" y="470">2006 年 11 月 1 日，利特维年科与两个俄罗斯人喝绿茶。</text>
+    <text x="60" y="494" fill="#B44A32">He died three weeks later; polonium-210 was found in his body. / 三周后他死亡，体内发现钋-210。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

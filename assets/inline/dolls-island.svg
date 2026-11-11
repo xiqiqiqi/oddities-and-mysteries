@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Island of the Dolls: the island, the dolls, and Santana's story</title>
+  <desc id="desc">A schematic map of the island in the Xochimilco canals with trees and hanging dolls, plus panels on the story and on the dolls.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE ISLAND OF THE DOLLS · MEXICO</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">XOCHIMILCO / DOLLS / A DROWNING</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <rect x="70" y="130" width="400" height="252" fill="#CFE0DA"/>
+
+    <!-- island -->
+    <path d="M180 240 C 170 215 200 195 235 200 C 270 205 300 190 330 205 C 360 220 365 250 350 275 C 335 300 305 315 275 310 C 245 305 215 320 195 300 C 178 283 188 260 180 240 Z" fill="#D8CCB6" stroke="#8C7A52" stroke-width="1.2"/>
+
+    <!-- trees -->
+    <g fill="#6B7A5A" opacity="0.75">
+      <circle cx="220" cy="225" r="13"/>
+      <circle cx="252" cy="215" r="15"/>
+      <circle cx="292" cy="220" r="14"/>
+      <circle cx="322" cy="236" r="12"/>
+    </g>
+
+    <!-- dolls -->
+    <g>
+      <rect x="200" y="258" width="5" height="10" fill="#B44A32"/>
+      <rect x="230" y="248" width="5" height="10" fill="#4A6B7A"/>
+      <rect x="260" y="240" width="5" height="10" fill="#C9A227"/>
+      <rect x="290" y="246" width="5" height="10" fill="#B44A32"/>
+      <rect x="320" y="260" width="5" height="10" fill="#4A6B7A"/>
+      <rect x="340" y="276" width="5" height="10" fill="#C9A227"/>
+      <rect x="214" y="286" width="5" height="10" fill="#4A6B7A"/>
+      <rect x="250" y="292" width="5" height="10" fill="#B44A32"/>
+      <rect x="285" y="286" width="5" height="10" fill="#C9A227"/>
+      <rect x="314" y="292" width="5" height="10" fill="#B44A32"/>
+    </g>
+
+    <!-- boat -->
+    <path d="M370 322 Q400 334 430 322 L420 332 Q400 340 380 332 Z" fill="#6B4A32" stroke="#4A4030" stroke-width="1"/>
+    <text x="388" y="350" font-family="Georgia, serif" font-size="8" fill="#1D1A17">boat / 小船</text>
+
+    <text x="85" y="150" font-family="Georgia, serif" font-size="8" fill="#3E5A7A">XOCHIMILCO / 霍奇米尔科</text>
+    <text x="85" y="360" font-family="Georgia, serif" font-size="8" fill="#3E5A7A">CANAL / 运河</text>
+    <text x="230" y="342" font-family="Georgia, serif" font-size="8" fill="#1D1A17">THE ISLAND / 玩偶岛</text>
+    <path d="M270 336 L 270 318" stroke="#1D1A17" stroke-width="1"/>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="150" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE STORY / 故事</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="164">1950s: he moves to the island</text>
+      <text x="520" y="180">搬到岛上，一个人住</text>
+      <text x="520" y="200">a girl drowns in the canal / 女孩溺死</text>
+      <text x="520" y="220">dolls hung in the trees / 娃娃挂上树</text>
+      <text x="520" y="240">17 Apr 2001: found drowned / 溺死在运河</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="272" width="340" height="120" fill="#EFE6D6"/>
+    <text x="520" y="300" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE DOLLS / 娃娃</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="324">from the canal and the rubbish</text>
+      <text x="520" y="340">从运河和垃圾里捡来，也用蔬菜换</text>
+      <text x="520" y="360">no record of the girl / 女孩没有记录</text>
+      <text x="520" y="378">the haunting came later / 闹鬼是后来长出来的</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The island lies in the canals of Xochimilco, south of Mexico City.</text>
+    <text x="60" y="470">玩偶岛在墨西哥城南边的霍奇米尔科运河里，游客坐船经过。</text>
+    <text x="60" y="494" fill="#B44A32">The dolls are real; the ghost is a story with no record. / 娃娃是真的，鬼故事没有记录。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

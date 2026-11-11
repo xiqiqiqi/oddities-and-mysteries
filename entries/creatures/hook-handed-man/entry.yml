@@ -1,0 +1,47 @@
+channel: creatures
+type: creature
+slug: hook-handed-man
+title_zh: 车门上的钩子
+title_en: The Hook on the Door
+era: "1950 年代起"
+era_en: "From the 1950s"
+region: 美国
+region_en: "United States"
+coords: null
+tags:
+  - 钩子手
+  - 都市传说
+  - 情侣
+  - 汽车
+  - 1950 年代
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · The Hook"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/The_Hook
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 故事版本、1950–60 年代背景与都市传说研究
+  - id: S2
+    title: "Urban Legends Archive · The Hook"
+    publisher: Urban Legends Archive
+    url: https://urbanlegendsarchive.com/the-hook/
+    year: "2026"
+    license: 版权归 Urban Legends Archive；仅作事实参考
+    usage: 故事结构、结尾意象与流传方式
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面夜间汽车与车门钩子场景复原、故事结构示意；不是现场照片
+cover: ../../../assets/covers/hook-handed-man.jpg
+related:
+  - vanishing-hitchhiker
+  - bloody-mary
+status: review
+featured: false
+translation_status: translated

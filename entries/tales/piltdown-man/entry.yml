@@ -1,0 +1,48 @@
+channel: tales
+type: event
+slug: piltdown-man
+title_zh: 拼出来的祖先
+title_en: The Ancestor That Was Assembled
+era: "1912 年公布；1953 年揭穿"
+era_en: "announced in 1912; exposed in 1953"
+region: 英国，东萨塞克斯，皮尔当
+region_en: "Piltdown, East Sussex, England"
+coords: [50.99, 0.06]
+tags:
+  - 皮尔当人
+  - 古人类学
+  - 伪造
+  - 化石
+  - 英国
+collections:
+  - hoaxes-and-forgeries
+credibility: hoax
+sources:
+  - id: S1
+    title: "Wikipedia · Piltdown Man"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Piltdown_Man
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 发现经过、公布、影响与 1953 年鉴定
+  - id: S2
+    title: "Wikipedia · Charles Dawson"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Charles_Dawson
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 查尔斯·道森的角色与争议
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与伪造手法示意；不是历史照片
+cover: ../../../assets/covers/piltdown-man.jpg
+related:
+  - crystal-skulls
+  - angel-hair
+status: review
+featured: false
+translation_status: translated

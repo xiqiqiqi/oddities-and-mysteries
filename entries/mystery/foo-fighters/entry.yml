@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: foo-fighters
+title_zh: 夜空里的跟屁虫
+title_en: The Lights That Followed the Fighters
+era: "1944–1945"
+era_en: "1944–1945"
+region: 欧洲上空，莱茵河谷一带
+region_en: "the skies over Europe, especially the Rhine valley"
+coords: null
+tags:
+  - Foo fighters
+  - 二战
+  - 夜航飞行员
+  - 光球
+  - 不明飞行物
+collections:
+  - strange-lights
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Foo fighter"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Foo_fighter
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 名称来源、目击描述、战时调查与解释
+  - id: S2
+    title: "Wikipedia · 415th Night Fighter Squadron"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/415th_Night_Fighter_Squadron
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 报告单位、夜间任务背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与目击区域示意；不是历史照片
+cover: ../../../assets/covers/foo-fighters.jpg
+related:
+  - ball-lightning
+  - blue-jets
+status: review
+featured: false
+translation_status: translated

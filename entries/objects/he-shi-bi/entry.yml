@@ -1,0 +1,54 @@
+channel: objects
+type: object
+slug: he-shi-bi
+title_zh: 玉在石中
+title_en: The Jade in the Stone
+era: "春秋战国"
+era_en: "Spring and Autumn to Warring States period"
+region: 中国，湖北，荆山
+region_en: "Jingshan, Hubei, China"
+coords: [31.77, 111.84]
+tags:
+  - 和氏璧
+  - 卞和
+  - 蔺相如
+  - 传国玉玺
+  - 荆山
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "《韩非子·和氏》"
+    publisher: 中国哲学书电子化计划
+    url: https://ctext.org/hanfeizi/he-shi/zh
+    year: "2026"
+    license: 公共领域
+    usage: 卞和献玉、两只脚被砍、文王命名和氏璧
+  - id: S2
+    title: "《史记·廉颇蔺相如列传》"
+    publisher: 中国哲学书电子化计划
+    url: https://ctext.org/shiji/lian-po-lin-xiang-ru-lie-zhuan/zh
+    year: "2026"
+    license: 公共领域
+    usage: 秦昭王以十五城换璧、蔺相如完璧归赵
+  - id: S3
+    title: "维基百科 · 和氏璧"
+    publisher: 维基百科 contributors
+    url: https://zh.wikipedia.org/wiki/和氏璧
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 和氏璧之后的流传、传国玉玺与失踪
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面玉璞与楚国场景复原、流传路径示意；不是文物照片
+cover: ../../../assets/covers/he-shi-bi.jpg
+related:
+  - tutankhamun-mask
+  - black-princes-ruby
+status: review
+featured: false
+translation_status: translated

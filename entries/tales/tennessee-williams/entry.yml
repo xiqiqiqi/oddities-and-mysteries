@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: tennessee-williams
+title_zh: 最后一口
+title_en: The Last Mouthful
+era: "1983"
+era_en: "1983"
+region: 美国，纽约
+region_en: "New York, United States"
+coords: [40.761, -73.968]
+tags:
+  - 田纳西·威廉斯
+  - 剧作家
+  - 纽约
+  - 1983
+  - 窒息
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "CBS New York · 30 Years Ago Today: Tennessee Williams Dies In Manhattan Hotel Suite"
+    publisher: CBS New York
+    url: https://www.cbsnews.com/newyork/news/30-years-ago-today-tennessee-williams-dies-in-manhattan-hotel-suite/
+    year: "2013"
+    license: 版权所有；仅作事实参考
+    usage: 死亡地点、年龄与发现经过
+  - id: S2
+    title: "Mental Floss · 13 Authors Whose Deaths Were Stranger Than Fiction"
+    publisher: Mental Floss
+    url: https://www.mentalfloss.com/posts/strange-author-deaths
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 瓶盖、眼药水瓶与法医报告的说法
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面酒店房间与书桌场景复原、事件示意；不是现场照片
+cover: ../../../assets/covers/tennessee-williams.jpg
+related:
+  - aeschylus
+  - dancing-plague
+status: review
+featured: false
+translation_status: translated

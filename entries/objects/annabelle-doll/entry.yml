@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: annabelle-doll
+title_zh: 玻璃柜里的娃娃
+title_en: The Doll in the Glass Case
+era: "1968"
+era_en: "1968"
+region: 美国，康涅狄格，门罗
+region_en: "Monroe, Connecticut, United States"
+coords: [41.332, -73.209]
+tags:
+  - 安娜贝尔
+  - 沃伦夫妇
+  - 招魂
+  - 布娃娃
+  - 灵异博物馆
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Annabelle (doll)"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Annabelle_(doll)
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1968 年事件、沃伦夫妇的说法、博物馆与电影改编
+  - id: S2
+    title: "NESPR · Warrenology and the Annabelle doll"
+    publisher: New England Society for Psychic Research
+    url: https://warrens.net/event/warrenology-evening-with-annabelle/
+    year: "2026"
+    license: 版权归 NESPR；仅作事实参考
+    usage: 沃伦夫妇组织的说法、娃娃现状与展出信息
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面博物馆玻璃柜场景复原、事件时间线与电影对照示意；不是文物照片
+cover: ../../../assets/covers/annabelle-doll.jpg
+related:
+  - kuchisake-onna
+  - black-eyed-children
+status: review
+featured: false
+translation_status: translated

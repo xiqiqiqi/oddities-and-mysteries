@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: eastern-state-penitentiary
+title_zh: 一个人的监狱
+title_en: The Prison of One Man
+era: "1829–1971"
+era_en: "1829–1971"
+region: 美国，宾夕法尼亚，费城
+region_en: "Philadelphia, Pennsylvania, United States"
+coords: [39.968, -75.172]
+tags:
+  - 东州教养所
+  - 单独监禁
+  - 费城
+  - 阿尔·卡彭
+  - 废弃监狱
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Eastern State Penitentiary"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Eastern_State_Penitentiary
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 建筑、宾夕法尼亚制、著名犯人、关闭与博物馆化
+  - id: S2
+    title: "Eastern State Penitentiary · History"
+    publisher: Eastern State Penitentiary Historic Site
+    url: https://www.easternstate.org/explore/history
+    year: "2026"
+    license: 版权归 Eastern State Penitentiary；仅作事实参考
+    usage: 建狱理念、牢房布局、卡彭与萨顿的服刑记录
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面废弃牢房场景复原、放射状平面与时间线；不是现场照片
+cover: ../../../assets/covers/eastern-state.jpg
+related:
+  - queen-mary
+  - winchester-mystery-house
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Trunk forms in the Dancing Forest</title>
+  <desc id="desc">Four simplified pine trunk silhouettes: straight, bent, S-shaped, and looped, with bilingual labels.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">DANCING FOREST · CURONIAN SPIT</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">TRUNK FORMS / SIMPLIFIED / PLANTED 1961</text>
+
+  <g stroke="#1D1A17" stroke-opacity=".15">
+    <path d="M60 392 H840"/>
+  </g>
+
+  <g stroke="#6B4A32" stroke-width="9" fill="none" stroke-linecap="round">
+    <path d="M140 392 L 140 180"/>
+    <path d="M340 392 C 330 330, 360 300, 350 250 C 342 212, 360 190, 372 172"/>
+    <path d="M540 392 C 510 350, 560 320, 530 280 C 505 246, 555 220, 540 180"/>
+    <path d="M720 392 L 720 330 C 720 300, 690 296, 690 276 C 690 252, 750 252, 750 276 C 750 300, 720 300, 720 270 L 720 200"/>
+  </g>
+
+  <g fill="#4F6B3A">
+    <circle cx="140" cy="168" r="30"/>
+    <circle cx="372" cy="160" r="28"/>
+    <circle cx="540" cy="168" r="30"/>
+    <circle cx="720" cy="188" r="26"/>
+  </g>
+  <g fill="#1D1A17" font-family="Georgia, serif" font-size="11">
+    <text x="100" y="424">STRAIGHT</text>
+    <text x="112" y="440" font-size="10" fill="#6B6256">正常</text>
+    <text x="300" y="424">BENT</text>
+    <text x="300" y="440" font-size="10" fill="#6B6256">弯曲</text>
+    <text x="496" y="424">S-CURVE</text>
+    <text x="496" y="440" font-size="10" fill="#6B6256">S 形</text>
+    <text x="680" y="424">LOOP</text>
+    <text x="680" y="440" font-size="10" fill="#6B6256">打圈</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="11" fill="#6B6256">
+    <text x="60" y="462">Possible factors / 可能因素</text>
+    <text x="60" y="480">wind · insects damaging the leader shoot · moving sand · planting</text>
+    <text x="60" y="498" fill="#B44A32">风 · 昆虫咬掉主芽 · 沙丘移动 · 人工栽种</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Cadborosaurus: the Cadboro Bay sightings and the 1937 carcass</title>
+  <desc id="desc">A schematic map of Cadboro Bay near Victoria, British Columbia, with sighting points and Naden Harbour, plus panels on the creature's description and the 1937 carcass.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">CADBOROSAURUS · CADBORO BAY</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">SIGHTINGS / 1937 CARCASS / SCHEMATIC</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+
+    <!-- water -->
+    <path d="M60 160 Q 160 190 260 180 Q 360 170 480 200 V 112 H 60 Z" fill="#9FB8C4"/>
+    <text x="180" y="160" font-family="Georgia, serif" font-size="9" fill="#2E4A4A">CADBORO BAY / 卡德伯罗湾</text>
+
+    <!-- land -->
+    <path d="M60 160 Q 160 190 260 180 Q 360 170 480 200 V 260 Q 380 280 260 270 Q 160 260 60 280 Z" fill="#D8CCB6" stroke="#8C7A52" stroke-width="1"/>
+
+    <!-- Victoria -->
+    <g fill="#8C7A52">
+      <rect x="100" y="300" width="12" height="10"/>
+      <rect x="116" y="304" width="10" height="8"/>
+      <rect x="130" y="298" width="14" height="12"/>
+    </g>
+    <text x="90" y="330" font-family="Georgia, serif" font-size="8" fill="#1D1A17">VICTORIA / 维多利亚</text>
+
+    <!-- Naden Harbour -->
+    <circle cx="390" cy="150" r="4" fill="#6B4A32"/>
+    <text x="330" y="138" font-family="Georgia, serif" font-size="8" fill="#1D1A17">NADEN HARBOUR / 纳登港</text>
+
+    <!-- sightings -->
+    <g fill="#B44A32">
+      <circle cx="200" cy="215" r="5"/>
+      <circle cx="260" cy="230" r="5"/>
+      <circle cx="310" cy="205" r="5"/>
+    </g>
+
+    <!-- timeline strip -->
+    <path d="M90 366 H 450" stroke="#1D1A17" stroke-width="1"/>
+    <g fill="#B44A32">
+      <circle cx="110" cy="366" r="3"/>
+      <circle cx="230" cy="366" r="3"/>
+      <circle cx="340" cy="366" r="3"/>
+      <circle cx="430" cy="366" r="3"/>
+    </g>
+    <g font-family="Georgia, serif" font-size="7" fill="#6B6256">
+      <text x="98" y="382">1930s</text>
+      <text x="218" y="382">1937</text>
+      <text x="328" y="382">1995</text>
+      <text x="410" y="382">today</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SIGHTINGS / 目击</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="168">long body, humps / 长身体、驼峰</text>
+      <text x="520" y="192">horse-like head / 马一样的头</text>
+      <text x="520" y="216">5–20 m estimates / 估计 5–20 米</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE 1937 CARCASS / 1937 年尸体</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">found in a sperm whale's stomach</text>
+      <text x="520" y="325">在抹香鲸胃里发现</text>
+      <text x="520" y="347">~3 m, fetal baleen whale</text>
+      <text x="520" y="360">约 3 米，须鲸胎儿</text>
+    </g>
+    <text x="520" y="382" font-family="Georgia, serif" font-size="8" fill="#B44A32">no specimen of Caddy / 没有卡迪的标本</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">Caddy is a sea serpent reported off British Columbia since the 1930s.</text>
+    <text x="60" y="470">卡迪是 1930 年代以来不列颠哥伦比亚海域的海蛇传说。</text>
+    <text x="60" y="494" fill="#B44A32">The 1937 carcass was identified as a fetal baleen whale. / 1937 年的尸体被鉴定为须鲸胎儿。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: heavens-gate
+title_zh: 彗星后面的飞船
+title_en: The Ship Behind the Comet
+era: "1997"
+era_en: "1997"
+region: 美国，加州，兰乔圣菲
+region_en: "Rancho Santa Fe, California"
+coords: [33.020, -117.200]
+tags:
+  - 天堂之门
+  - 马歇尔·阿普尔怀特
+  - 海尔-波普彗星
+  - 邪教
+  - 1997
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Heaven's Gate (religious group)"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Heaven%27s_Gate_(religious_group)
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 组织起源、阿普尔怀特与内特尔斯、教义、1997 年死亡与后续
+  - id: S2
+    title: "A&E · Heaven's Gate: Marshall Applewhite"
+    publisher: A&E Television Networks
+    url: https://www.aetv.com/articles/heaven-s-gate-marshall-applewhite
+    year: "2026"
+    license: 版权归 A&E；仅作事实参考
+    usage: 死亡人数、日期、地点与组织背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面兰乔圣菲住宅夜景复原、时间线与教义示意；不是现场照片
+cover: ../../../assets/covers/heavens-gate.jpg
+related:
+  - mothman
+  - mary-celeste
+status: review
+featured: false
+translation_status: translated

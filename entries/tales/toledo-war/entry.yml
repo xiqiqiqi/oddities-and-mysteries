@@ -1,0 +1,47 @@
+channel: tales
+type: event
+slug: toledo-war
+title_zh: 只伤一人的战争
+title_en: The War That Wounded One Man
+era: "1835–1836"
+era_en: "1835–1836"
+region: 美国，俄亥俄与密歇根
+region_en: "Ohio and Michigan, United States"
+coords: [41.65, -83.55]
+tags:
+  - 托莱多战争
+  - 俄亥俄
+  - 密歇根
+  - 边界
+  - 1835
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Toledo War"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Toledo_War
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 争端起因、菲利普斯角对峙、斯蒂克尼事件与国会妥协
+  - id: S2
+    title: "Wikipedia · Toledo Strip"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Toledo_Strip
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 争议地带的范围、面积与上半岛补偿
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与边界示意；不是历史照片
+cover: ../../../assets/covers/toledo-war.jpg
+related:
+  - kettle-war
+  - draco
+status: review
+featured: false
+translation_status: translated

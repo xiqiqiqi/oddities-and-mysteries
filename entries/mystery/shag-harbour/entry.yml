@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: shag-harbour
+title_zh: 掉进海里的光
+title_en: The Light That Fell into the Sea
+era: "1967 年 10 月 4 日"
+era_en: "4 October 1967"
+region: 加拿大，新斯科舍省沙格港
+region_en: "Shag Harbour, Nova Scotia, Canada"
+coords: [43.49, -65.72]
+tags:
+  - 沙格港事件
+  - UFO
+  - 新斯科舍
+  - 官方档案
+  - 海上搜索
+collections:
+  - strange-lights
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Shag Harbour UFO incident"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 目击经过、皇家骑警与军方档案、搜索与解释
+  - id: S2
+    title: "Wikipedia · Shag Harbour, Nova Scotia"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Shag_Harbour,_Nova_Scotia
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 村庄位置、渔业背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与海面搜索范围示意；不是历史照片
+cover: ../../../assets/covers/shag-harbour.jpg
+related:
+  - phoenix-lights
+  - washington-merry-go-round
+status: review
+featured: false
+translation_status: translated

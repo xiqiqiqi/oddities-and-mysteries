@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: slow-down
+title_zh: 慢慢下沉的声音
+title_en: The Sound That Slowed Down
+era: "1997 年录制；后来被识别为冰震"
+era_en: "recorded in 1997; later identified as an icequake"
+region: 南太平洋
+region_en: "South Pacific Ocean"
+coords: [-50, -100]
+tags:
+  - Slow Down
+  - 深海怪声
+  - 冰震
+  - NOAA
+  - 频谱
+collections:
+  - strange-sounds
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · List of unexplained sounds"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/List_of_unexplained_sounds
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: Slow Down 的录音背景、时长描述与冰震识别
+  - id: S2
+    title: "NOAA PMEL Acoustics · underwater sound monitoring"
+    publisher: NOAA Pacific Marine Environmental Laboratory
+    url: https://www.pmel.noaa.gov/acoustics/
+    year: "2026"
+    license: NOAA 网站使用条款
+    usage: 水听器阵列与深海声源背景；具体页面待补
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与频谱示意图；不是历史照片
+cover: ../../../assets/covers/slow-down.jpg
+related:
+  - bloop
+  - whistle
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">MH370: the flight path, the satellite arc and the search areas</title>
+  <desc id="desc">A schematic map of the Malay Peninsula and the southern Indian Ocean with the flight path, the final satellite arc and the search area, plus panels on the flight and the searches.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE PLANE THAT NEVER LANDED · 一架没有降落的飞机</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">MH370 / 8 MARCH 2014 / 239 ABOARD</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE INDIAN OCEAN / 印度洋示意</text>
+
+    <!-- map background -->
+    <rect x="72" y="150" width="396" height="190" fill="#2E3440"/>
+    <g stroke="#3A4A5A" stroke-width="0.5">
+      <line x1="72" y1="190" x2="468" y2="190"/>
+      <line x1="72" y1="230" x2="468" y2="230"/>
+      <line x1="72" y1="270" x2="468" y2="270"/>
+      <line x1="72" y1="310" x2="468" y2="310"/>
+      <line x1="120" y1="150" x2="120" y2="340"/>
+      <line x1="200" y1="150" x2="200" y2="340"/>
+      <line x1="280" y1="150" x2="280" y2="340"/>
+      <line x1="360" y1="150" x2="360" y2="340"/>
+      <line x1="440" y1="150" x2="440" y2="340"/>
+    </g>
+
+    <!-- land -->
+    <path d="M92 150 L 122 150 L 136 178 L 128 208 L 142 238 L 124 250 L 108 224 L 100 190 Z" fill="#22301F" opacity="0.8"/>
+    <path d="M150 250 L 196 268 L 226 300 L 210 316 L 174 292 L 150 272 Z" fill="#22301F" opacity="0.8"/>
+    <path d="M388 318 L 430 306 L 448 326 L 430 340 L 396 336 Z" fill="#22301F" opacity="0.6"/>
+
+    <!-- flight path -->
+    <path d="M112 186 L 168 172 L 196 188 L 226 230 L 246 280 L 262 312" fill="none" stroke="#E8C96A" stroke-width="1.6"/>
+    <circle cx="112" cy="186" r="3" fill="#E8C96A"/>
+    <text x="82" y="178" font-family="Georgia, serif" font-size="7" fill="#F3EEE4">KUALA LUMPUR</text>
+    <circle cx="196" cy="188" r="3" fill="#B44A32"/>
+    <line x1="198" y1="186" x2="214" y2="170" stroke="#E8896F" stroke-width="0.8"/>
+    <text x="216" y="168" font-family="Georgia, serif" font-size="7" fill="#E8896F">LAST RADAR / 最后雷达</text>
+
+    <!-- satellite arc -->
+    <path d="M262 312 Q 330 338 440 312" fill="none" stroke="#C9A94A" stroke-width="1.2" stroke-dasharray="4 3"/>
+    <line x1="330" y1="330" x2="340" y2="310" stroke="#C9A94A" stroke-width="0.7"/>
+    <text x="344" y="308" font-family="Georgia, serif" font-size="7" fill="#C9A94A">SATELLITE ARC / 卫星弧</text>
+
+    <!-- search area -->
+    <rect x="300" y="316" width="132" height="18" fill="none" stroke="#B44A32" stroke-width="0.8" stroke-dasharray="3 3"/>
+    <line x1="296" y1="328" x2="302" y2="325" stroke="#E8896F" stroke-width="0.7"/>
+    <text x="220" y="330" font-family="Georgia, serif" font-size="7" fill="#E8896F">SEARCH AREA / 搜寻区</text>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">SOUTHERN INDIAN OCEAN / 南印度洋</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">the final arc points south / 最后的弧线指向南方</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE FLIGHT / 飞行</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">00:41 · departure / 起飞</text>
+      <text x="520" y="186">01:19 · last voice / 最后通话</text>
+      <text x="520" y="206">01:21 · transponder off / 应答机关闭</text>
+      <text x="520" y="226">02:15 · military radar / 军用雷达</text>
+      <text x="520" y="242">08:10 · last handshake / 最后握手</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SEARCH / 搜寻</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">2014–17 · 120,000 km² / 平方公里</text>
+      <text x="520" y="330">2018 · 112,000 km² / 平方公里</text>
+      <text x="520" y="348">2015 · flaperon on Réunion / 留尼汪残片</text>
+      <text x="520" y="366">2025–26 · 7,571 km², no find / 没有发现</text>
+      <text x="520" y="382">239 people were aboard / 机上 239 人</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The plane never landed. Neither did the question.</text>
+    <text x="60" y="470">飞机没有降落。问题也没有。</text>
+    <text x="60" y="494" fill="#B44A32">Confirmed data, confirmed debris, no confirmed cause. / 数据确认，残骸确认，原因没有确认。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

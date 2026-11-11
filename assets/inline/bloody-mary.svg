@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Bloody Mary: the mirror ritual, the queen and the mirror illusion</title>
+  <desc id="desc">A mirror with a faint face, a candle and four numbered steps, with panels on the historical Mary candidates and on the psychology of the mirror illusion.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">BLOODY MARY · 镜子里的女人</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">THE RITUAL / THE QUEEN / THE MIRROR</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE RITUAL / 仪式示意</text>
+
+    <!-- mirror -->
+    <rect x="195" y="180" width="150" height="160" fill="#D8CCB6" stroke="#6B4A32" stroke-width="6"/>
+    <ellipse cx="270" cy="238" rx="27" ry="33" fill="#8C7A52" opacity="0.35"/>
+    <path d="M226 330 C 232 288 250 276 270 276 C 290 276 308 288 314 330 Z" fill="#8C7A52" opacity="0.35"/>
+    <circle cx="260" cy="234" r="2" fill="#4A4030" opacity="0.6"/>
+    <circle cx="280" cy="234" r="2" fill="#4A4030" opacity="0.6"/>
+    <path d="M263 252 L 277 252" stroke="#4A4030" stroke-width="1.2" opacity="0.6"/>
+
+    <!-- candle -->
+    <rect x="126" y="292" width="9" height="44" fill="#EFE6D6" stroke="#8C7A52" stroke-width="0.8"/>
+    <path d="M130 292 C 124 284 136 280 130 272 C 138 280 136 288 130 292 Z" fill="#D2691E"/>
+
+    <!-- steps -->
+    <text x="80" y="160" font-family="Georgia, serif" font-size="8" fill="#1D1A17">1 LIGHTS OFF / 关灯</text>
+    <text x="300" y="160" font-family="Georgia, serif" font-size="8" fill="#1D1A17">3 SAY IT THREE TIMES / 念三遍</text>
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">2 ONE CANDLE / 一根蜡烛</text>
+    <text x="300" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">4 DON'T TURN AROUND / 别回头</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">a face appears, or so people say / 据说会有一张脸出现</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">WHO IS MARY? / 她是谁</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">Mary I, 1553–1558 / 玛丽一世，1553–1558</text>
+      <text x="520" y="186">“Bloody Mary” for the burnings / 因烧死新教徒得名</text>
+      <text x="520" y="206">Mary Worth, a colonial tale / 玛丽·沃斯，殖民地传说</text>
+      <text x="520" y="226">Salem, or a girl in the mirror / 塞勒姆，或镜前的女孩</text>
+      <text x="520" y="242">no link to the ritual / 与仪式没有直接关系</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE MIRROR / 镜子</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Troxler effect / 特罗克斯勒效应</text>
+      <text x="520" y="330">Caputo 2010: 66 volunteers / 卡普托 2010：66 人</text>
+      <text x="520" y="348">one minute at 40 cm / 40 厘米，一分钟</text>
+      <text x="520" y="366">two-thirds saw changes / 三分之二看见变形</text>
+      <text x="520" y="382">a quarter saw a stranger / 四分之一看见陌生人</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The mirror shows your brain filling in the blanks.</text>
+    <text x="60" y="470">镜子照出的，是大脑在填空白。</text>
+    <text x="60" y="494" fill="#B44A32">No ghost has ever been produced by the ritual. / 这个仪式从来没有召唤出任何鬼。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

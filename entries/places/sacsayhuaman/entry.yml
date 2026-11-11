@@ -1,0 +1,48 @@
+channel: places
+type: place
+slug: sacsayhuaman
+title_zh: 巨石之间没有缝
+title_en: The Wall That Fits Too Well
+era: "约 15 世纪"
+era_en: "about the 15th century"
+region: 秘鲁，库斯科，萨克塞瓦曼
+region_en: "Sacsayhuamán, Cusco, Peru"
+coords: [-13.507, -71.982]
+tags:
+  - 萨克塞瓦曼
+  - 印加
+  - 巨石
+  - 库斯科
+  - 无灰浆
+collections:
+  - ancient-megaliths
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Sacsayhuamán"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Sacsayhuam%C3%A1n
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 建筑结构、石块尺寸、建造与历史
+  - id: S2
+    title: "Wikipedia · Inca architecture"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Inca_architecture
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 印加石工技术、工具与运输假说
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与石墙拼合示意；不是现场照片
+cover: ../../../assets/covers/sacsayhuaman.jpg
+related:
+  - gobekli-tepe
+  - carnac-stones
+status: review
+featured: false
+translation_status: translated

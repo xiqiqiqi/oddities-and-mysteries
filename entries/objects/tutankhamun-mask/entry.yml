@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: tutankhamun-mask
+title_zh: 被粘回去的胡须
+title_en: The Beard That Was Glued Back
+era: "约公元前 1323 年"
+era_en: "c. 1323 BCE"
+region: 埃及，吉萨（大埃及博物馆）
+region_en: "Giza, Egypt (Grand Egyptian Museum)"
+coords: [29.993, 31.119]
+tags:
+  - 图坦卡蒙
+  - 黄金面具
+  - 埃及
+  - 文物修复
+  - 考古
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Mask of Tutankhamun"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Mask_of_Tutankhamun
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 面具尺寸、重量、材质、出土与收藏信息
+  - id: S2
+    title: "National Geographic · Museum Officials Accused of Mishandling King Tut's Mask"
+    publisher: National Geographic
+    url: https://www.nationalgeographic.com/culture/article/160125-tut-mask-repair-egypt-trial
+    year: "2016"
+    license: 版权所有；仅作事实参考
+    usage: 2014 年胡须脱落、环氧树脂粘接与后续修复经过
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面面具特写与结构、修复时间线示意；不是文物照片
+cover: ../../../assets/covers/tutankhamun-mask.jpg
+related:
+  - jade-burial-suit
+  - sword-of-goujian
+status: review
+featured: false
+translation_status: translated

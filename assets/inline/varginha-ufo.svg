@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Varginha: the creature by the wall, the sighting and the rumours</title>
+  <desc id="desc">A rainy street at night with a small crouched figure with red eyes beside a wall, and panels on the 1996 sighting and the rumours.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">VARGINHA · 墙边的生物</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">BRAZIL 1996 / THE WALL / NO EVIDENCE</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">JARDIM ANDERE / 雅尔丁安德雷</text>
+
+    <!-- night scene -->
+    <rect x="72" y="150" width="396" height="190" fill="#2E3440"/>
+    <g stroke="#7FA8C4" stroke-width="0.7" opacity="0.6">
+      <line x1="100" y1="160" x2="92" y2="190"/><line x1="140" y1="160" x2="132" y2="190"/><line x1="180" y1="160" x2="172" y2="190"/>
+      <line x1="340" y1="160" x2="332" y2="190"/><line x1="380" y1="160" x2="372" y2="190"/><line x1="420" y1="160" x2="412" y2="190"/>
+    </g>
+
+    <!-- streetlight -->
+    <line x1="150" y1="180" x2="150" y2="330" stroke="#4A4030" stroke-width="3"/>
+    <path d="M150 180 L 170 180" stroke="#4A4030" stroke-width="3"/>
+    <circle cx="172" cy="182" r="5" fill="#E8C96A"/>
+    <path d="M172 186 L 200 300 L 144 300 Z" fill="#E8C96A" opacity="0.12"/>
+
+    <!-- wall -->
+    <rect x="72" y="296" width="396" height="44" fill="#8C7A52"/>
+    <g stroke="#6B4A32" stroke-width="0.8">
+      <line x1="72" y1="312" x2="468" y2="312"/>
+      <line x1="72" y1="328" x2="468" y2="328"/>
+    </g>
+
+    <!-- figure -->
+    <ellipse cx="300" cy="278" rx="18" ry="24" fill="#6B4A32"/>
+    <circle cx="300" cy="246" r="15" fill="#6B4A32"/>
+    <circle cx="294" cy="244" r="2.2" fill="#B44A32"/>
+    <circle cx="306" cy="244" r="2.2" fill="#B44A32"/>
+    <path d="M288 292 L 282 310 M312 292 L 318 310" stroke="#6B4A32" stroke-width="6" stroke-linecap="round"/>
+    <path d="M286 270 L 274 280 M314 270 L 326 280" stroke="#6B4A32" stroke-width="5" stroke-linecap="round"/>
+
+    <!-- puddles -->
+    <ellipse cx="200" cy="330" rx="30" ry="4" fill="#4A5A6A" opacity="0.7"/>
+    <ellipse cx="360" cy="334" rx="24" ry="3" fill="#4A5A6A" opacity="0.7"/>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">20 JANUARY 1996 / 1996 年 1 月 20 日</text>
+    <text x="300" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">a metre tall, red eyes / 一米高，红眼睛</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SIGHTING / 目击</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">three young women / 三个年轻女人</text>
+      <text x="520" y="186">a vacant lot after rain / 雨后的空地</text>
+      <text x="520" y="206">a crouched figure / 一个蹲着的东西</text>
+      <text x="520" y="226">brown, oily skin, red eyes / 棕色，油亮的皮肤，红眼睛</text>
+      <text x="520" y="242">no attack, no escape / 没有攻击，也没有逃</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE RUMOURS / 传闻</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">military trucks and hospitals / 军车与医院</text>
+      <text x="520" y="330">four captured, one escaped / 抓到四只，一只逃走</text>
+      <text x="520" y="348">no photographs or body / 没有照片或尸体</text>
+      <text x="520" y="366">no official confirmation / 官方没有承认</text>
+      <text x="520" y="382">a story that stayed / 一个留下来的故事</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A creature seen once, and never caught on camera.</text>
+    <text x="60" y="470">一个只被看见过一次、从没被相机拍到的生物。</text>
+    <text x="60" y="494" fill="#B44A32">The witnesses are real; the creature is not confirmed. / 目击者是真的，生物没有被证实。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

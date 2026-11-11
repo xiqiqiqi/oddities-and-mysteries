@@ -1,0 +1,54 @@
+channel: objects
+type: object
+slug: stigmata
+title_zh: 手上的伤
+title_en: The Wounds
+era: "1224 年起"
+era_en: "From 1224"
+region: 意大利，阿西西 / 全球
+region_en: "Assisi, Italy / worldwide"
+coords: [43.07, 12.62]
+tags:
+  - 圣痕
+  - 方济各
+  - 比奥神父
+  - 宗教
+  - 医学
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Stigmata"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Stigmata
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 圣痕的定义、方济各、比奥神父、教会调查与医学解释
+  - id: S2
+    title: "Britannica · Stigmata"
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/topic/stigmata
+    year: "2026"
+    license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    usage: 宗教背景、历史案例与教会立场
+  - id: S3
+    title: "Smithsonian Magazine · The Mystery of the Five Wounds"
+    publisher: Smithsonian Magazine
+    url: https://www.smithsonianmag.com/history/the-mystery-of-the-five-wounds-361799/
+    year: "2026"
+    license: 版权归 Smithsonian Magazine；仅作事实参考
+    usage: 心理、自我暗示与造假案例的讨论
+  - id: S4
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面教堂与双手场景复原、案例时间线与解释分层；不是医疗照片
+cover: ../../../assets/covers/stigmata.jpg
+related:
+  - shroud-of-turin
+  - ark-of-the-covenant
+status: review
+featured: false
+translation_status: translated

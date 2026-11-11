@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">The púca: the black horse, the ride and the rules</title>
+  <desc id="desc">A black horse with a red eye standing in a moonlit Irish field, with panels on the púca's forms and the folklore rules.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">THE PÚCA · 黑马</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">IRELAND / SAMHAIN / THE RIDE</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE NIGHT ROAD / 夜路示意</text>
+
+    <!-- night scene -->
+    <rect x="72" y="150" width="396" height="190" fill="#2E3440"/>
+    <circle cx="410" cy="180" r="17" fill="#F3EEE4"/>
+    <circle cx="404" cy="176" r="15" fill="#2E3440"/>
+    <path d="M72 300 C 140 272 200 292 260 282 C 330 270 400 288 468 272 L468 340 L72 340 Z" fill="#3A4A3A"/>
+    <g fill="#F3EEE4">
+      <circle cx="110" cy="168" r="1"/><circle cx="170" cy="180" r="1"/><circle cx="230" cy="164" r="1"/><circle cx="290" cy="178" r="1"/><circle cx="350" cy="166" r="1"/>
+    </g>
+
+    <!-- horse -->
+    <ellipse cx="250" cy="280" rx="55" ry="26" fill="#1D1A17"/>
+    <path d="M290 270 L 318 232 L 336 236 L 310 280 Z" fill="#1D1A17"/>
+    <ellipse cx="334" cy="228" rx="17" ry="9" fill="#1D1A17" transform="rotate(-18 334 228)"/>
+    <path d="M324 220 L 320 210 L 330 218 Z" fill="#1D1A17"/>
+    <path d="M342 218 L 348 208 L 350 220 Z" fill="#1D1A17"/>
+    <circle cx="340" cy="226" r="1.8" fill="#B44A32"/>
+    <path d="M292 258 C 300 250 308 246 316 244" stroke="#1D1A17" stroke-width="5" fill="none"/>
+    <path d="M198 274 C 180 278 172 292 178 306" stroke="#1D1A17" stroke-width="6" fill="none"/>
+    <g stroke="#1D1A17" stroke-width="7" stroke-linecap="round">
+      <line x1="220" y1="300" x2="216" y2="330"/>
+      <line x1="240" y1="302" x2="238" y2="332"/>
+      <line x1="268" y1="302" x2="270" y2="332"/>
+      <line x1="286" y1="298" x2="290" y2="328"/>
+    </g>
+
+    <text x="80" y="360" font-family="Georgia, serif" font-size="8" fill="#1D1A17">THE BLACK HORSE / 黑马</text>
+    <text x="80" y="376" font-family="Georgia, serif" font-size="8" fill="#6B6256">it lets you mount, then it runs / 它让你骑上去，然后开始跑</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE FORMS / 形态</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">most often a black horse / 最常是黑马</text>
+      <text x="520" y="186">a rabbit, a goat, a cat / 兔子、山羊、猫</text>
+      <text x="520" y="206">a dog, or an old man / 狗，或一个老头</text>
+      <text x="520" y="226">a trickster, not a demon / 是捣蛋鬼，不是恶魔</text>
+      <text x="520" y="242">linked to Samhain / 与萨温节有关</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE RULES / 规矩</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">don't ride a black horse at night / 夜里不要骑黑马</text>
+      <text x="520" y="330">don't walk lonely roads / 不要走偏僻的路</text>
+      <text x="520" y="348">leave a small offering / 在田边留一点东西</text>
+      <text x="520" y="366">Brian Boru's bridle / 布莱恩·博鲁的缰绳</text>
+      <text x="520" y="382">respect, not force / 要用计，不能硬来</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A horse that takes you further than you meant to go.</text>
+    <text x="60" y="470">一匹把你带到更远地方的马。</text>
+    <text x="60" y="494" fill="#B44A32">The púca is a shapeshifting trickster of Irish folklore, not a real animal. / 普卡是爱尔兰传说里的变形精怪，不是真实动物。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

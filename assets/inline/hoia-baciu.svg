@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Hoia Baciu: the clearing, the bent trees and the sightings</title>
+  <desc id="desc">A plan of the Hoia Baciu forest with a circular clearing, bent trees, and markers for the 1953 and 1968 sightings, with panels on the forest and on the claims.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">HOIA BACIU · THE CLEARING</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">THE BENT TREES / THE PHOTOGRAPHS / THE TOUR</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">PLAN / 平面示意</text>
+
+    <!-- forest -->
+    <path d="M110 190 C 140 160 200 162 230 172 C 270 150 330 158 350 182 C 390 190 410 215 402 245 C 412 280 390 310 355 318 C 325 340 270 342 240 328 C 200 345 150 332 135 305 C 100 295 88 250 100 225 C 92 210 98 198 110 190 Z" fill="#DCE6D2" stroke="#8C9A7A" stroke-width="1"/>
+
+    <!-- clearing -->
+    <circle cx="262" cy="248" r="42" fill="#F7F2E7" stroke="#8C9A7A" stroke-width="1" stroke-dasharray="3 3"/>
+    <text x="238" y="245" font-family="Georgia, serif" font-size="7" fill="#4A4030">POIANA</text>
+    <text x="244" y="257" font-family="Georgia, serif" font-size="7" fill="#4A4030">空地</text>
+
+    <!-- bent trees -->
+    <g stroke="#6B7A5A" stroke-width="2" fill="none" stroke-linecap="round">
+      <path d="M135 292 L 135 270 L 148 258"/>
+      <path d="M180 300 L 180 282 L 168 272"/>
+      <path d="M320 300 L 320 280 L 334 270"/>
+      <path d="M352 258 L 352 240 L 340 230"/>
+      <path d="M205 200 L 205 186 L 218 178"/>
+      <path d="M302 198 L 302 184 L 292 176"/>
+    </g>
+    <g stroke="#6B7A5A" stroke-width="1" fill="none" stroke-linecap="round">
+      <path d="M148 258 L 141 253 M148 258 L 155 251 M148 258 L 146 249"/>
+      <path d="M168 272 L 161 267 M168 272 L 175 266 M168 272 L 166 263"/>
+      <path d="M334 270 L 327 265 M334 270 L 341 264 M334 270 L 332 261"/>
+      <path d="M340 230 L 333 226 M340 230 L 346 223 M340 230 L 338 221"/>
+      <path d="M218 178 L 211 174 M218 178 L 224 171"/>
+      <path d="M292 176 L 285 172 M292 176 L 298 169"/>
+    </g>
+    <g fill="#8C9A7A" opacity="0.85">
+      <circle cx="150" cy="254" r="6"/>
+      <circle cx="166" cy="268" r="6"/>
+      <circle cx="336" cy="266" r="6"/>
+      <circle cx="338" cy="226" r="5"/>
+      <circle cx="220" cy="175" r="5"/>
+      <circle cx="290" cy="173" r="5"/>
+    </g>
+    <text x="82" y="348" font-family="Georgia, serif" font-size="8" fill="#1D1A17">BENT TREES / 弯曲的树</text>
+
+    <!-- sightings -->
+    <circle cx="150" cy="190" r="3" fill="#B44A32"/>
+    <text x="158" y="188" font-family="Georgia, serif" font-size="7" fill="#B44A32">1953</text>
+    <circle cx="380" cy="185" r="3" fill="#B44A32"/>
+    <text x="388" y="183" font-family="Georgia, serif" font-size="7" fill="#B44A32">1968</text>
+
+    <text x="80" y="372" font-family="Georgia, serif" font-size="8" fill="#6B6256">250 ha, about 3 km west of Cluj-Napoca / 克卢日以西约三公里</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE FOREST / 森林</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">250 hectares / 两百五十公顷</text>
+      <text x="520" y="186">3 km west of Cluj / 克卢日以西三公里</text>
+      <text x="520" y="206">410–490 m above sea level / 海拔四百一十至四百九十米</text>
+      <text x="520" y="226">oak, hornbeam, beech / 橡树、鹅耳枥、山毛榉</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE CLAIMS / 说法</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">1953: a grey V-shape / 灰色的 V 字形物体</text>
+      <text x="520" y="330">1968: a disc in a photo / 照片里的圆盘</text>
+      <text x="520" y="348">a shepherd and 200 sheep / 牧羊人与两百只羊</text>
+      <text x="520" y="366">a girl who came back / 走丢后又出现的女孩</text>
+      <text x="520" y="382">bent trees: snow, wind, clay / 弯树：雪、风、黏土</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The bent trees and the clearing are real; the saucer and the disappearances are stories.</text>
+    <text x="60" y="470">弯曲的树和空地是真的；飞碟与失踪是故事。</text>
+    <text x="60" y="494" fill="#B44A32">No photograph, document or police record proves a disappearance in the forest. / 没有照片、文件或警方记录能证明有人在林中失踪。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

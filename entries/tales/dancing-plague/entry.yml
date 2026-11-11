@@ -1,0 +1,47 @@
+channel: tales
+type: event
+slug: dancing-plague
+title_zh: 整座城跳起舞
+title_en: The City That Danced
+era: "1518 年 7 月"
+era_en: "July 1518"
+region: 斯特拉斯堡（今法国）
+region_en: "Strasbourg (now in France)"
+coords: [48.58, 7.75]
+tags:
+  - 跳舞瘟疫
+  - 斯特拉斯堡
+  - 集体癔症
+  - 圣维特
+  - 麦角中毒
+collections: []
+credibility: disputed
+sources:
+  - id: S1
+    title: "Wikipedia · Dancing plague of 1518"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Dancing_plague_of_1518
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 事件经过、编年史记录、当时的应对与解释
+  - id: S2
+    title: "Wikipedia · Strasbourg"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Strasbourg
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1518 年斯特拉斯堡的城市与政治背景
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与事件时间线；不是历史画作
+cover: ../../../assets/covers/dancing-plague.jpg
+related:
+  - wanggongchang-1626
+  - angel-hair
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: blood-falls
+title_zh: 冰川流出的红水
+title_en: The Red Water Under the Glacier
+era: "1911 年发现；卤水封存约两百万年"
+era_en: "discovered in 1911; brine isolated for about two million years"
+region: 南极洲，麦克默多干谷，泰勒冰川
+region_en: "Taylor Glacier, McMurdo Dry Valleys, Antarctica"
+coords: [-77.717, 162.267]
+tags:
+  - 血瀑布
+  - 泰勒冰川
+  - 南极
+  - 卤水
+  - 铁氧化
+collections:
+  - natural-oddities
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Blood Falls"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Blood_Falls
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 发现经过、红色成因、卤水与微生物研究
+  - id: S2
+    title: "Wikipedia · Taylor Glacier"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Taylor_Glacier
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 冰川位置、麦克默多干谷环境
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与冰川剖面示意；不是现场照片
+cover: ../../../assets/covers/blood-falls.jpg
+related:
+  - sailing-stones
+  - fish-rain
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.log
+# local secrets
+.env
+.env.*
+!.env.example

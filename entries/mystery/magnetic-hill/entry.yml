@@ -1,0 +1,48 @@
+channel: mystery
+type: phenomenon
+slug: magnetic-hill
+title_zh: 车自己上坡
+title_en: The Hill That Pulls Cars Uphill
+era: "20 世纪起成为景点"
+era_en: "a visitor attraction since the 20th century"
+region: 加拿大，新不伦瑞克，蒙克顿
+region_en: "Moncton, New Brunswick, Canada"
+coords: [46.13, -64.88]
+tags:
+  - 磁力山
+  - 重力山
+  - 视错觉
+  - 蒙克顿
+  - 加拿大
+collections:
+  - natural-oddities
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Magnetic Hill (Moncton)"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Magnetic_Hill_(Moncton)
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 地点、现象、旅游开发与解释
+  - id: S2
+    title: "Wikipedia · Gravity hill"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Gravity_hill
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 重力山现象的普遍原理与视错觉解释
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与坡度示意；不是现场照片
+cover: ../../../assets/covers/magnetic-hill.jpg
+related:
+  - sailing-stones
+  - min-min-lights
+status: review
+featured: false
+translation_status: translated

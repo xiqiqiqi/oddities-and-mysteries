@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: baalbek
+title_zh: 神庙下的巨石
+title_en: The Stones Under the Temple
+era: "约公元前 1 世纪–公元 3 世纪"
+era_en: "c. 1st century BCE–3rd century CE"
+region: 黎巴嫩，贝卡谷地，巴尔贝克
+region_en: "Baalbek, Beqaa Valley, Lebanon"
+coords: [34.006, 36.204]
+tags:
+  - 巴尔贝克
+  - 巨石
+  - 罗马神庙
+  - 三巨石
+  - 黎巴嫩
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Baalbek"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Baalbek
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 神庙群、三巨石、采石场石块与历史
+  - id: S2
+    title: "UNESCO · Baalbek"
+    publisher: UNESCO World Heritage Centre
+    url: https://whc.unesco.org/en/list/294/
+    year: "2026"
+    license: 版权所有；仅作事实参考
+    usage: 世界遗产信息、建筑群范围与保护状况
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面神庙与巨石场景复原、台基与采石场示意；不是现场照片
+cover: ../../../assets/covers/baalbek.jpg
+related:
+  - sacsayhuaman
+  - gobekli-tepe
+status: review
+featured: false
+translation_status: translated

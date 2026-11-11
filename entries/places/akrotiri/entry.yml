@@ -1,0 +1,47 @@
+channel: places
+type: place
+slug: akrotiri
+title_zh: 火山下的城
+title_en: The Town Under the Ash
+era: "约公元前 1600 年"
+era_en: "c. 1600 BCE"
+region: 希腊，圣托里尼
+region_en: "Santorini, Greece"
+coords: [36.351, 25.403]
+tags:
+  - 阿克罗蒂里
+  - 圣托里尼
+  - 青铜时代
+  - 火山
+  - 壁画
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Akrotiri (prehistoric city)"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Akrotiri_(prehistoric_city)
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 遗址、壁画、发掘历史与火山喷发
+  - id: S2
+    title: "Smithsonian Magazine · Greece Has Its Own Pompeii"
+    publisher: Smithsonian Magazine
+    url: https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/
+    year: "2024"
+    license: Smithsonian 网站使用条款；仅作事实参考
+    usage: 城市生活、壁画、喷发与无人类遗骸的细节
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面青铜时代街区场景复原、喷发与遗址示意；不是现场照片
+cover: ../../../assets/covers/akrotiri.jpg
+related:
+  - herculaneum
+  - troy
+status: review
+featured: false
+translation_status: translated

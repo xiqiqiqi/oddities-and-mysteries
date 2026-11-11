@@ -1,0 +1,47 @@
+channel: objects
+type: object
+slug: bog-bodies
+title_zh: 沼泽里的两千年
+title_en: The Bodies Kept in the Bog
+era: "公元前 8000 年—公元 1 世纪"
+era_en: "8000 BCE – 1st century CE"
+region: 欧洲，丹麦、爱尔兰、英国等地
+region_en: "Denmark, Ireland, Britain, and elsewhere in Europe"
+coords: [56.13, 9.43]
+tags:
+  - 沼泽尸体
+  - 泥炭沼
+  - 木乃伊
+  - 铁器时代
+  - 考古
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Bog body"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Bog_body
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 沼泽保存机制、分布、年代与解释
+  - id: S2
+    title: "Wikipedia · Tollund Man"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Tollund_Man
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1950 年发现经过、年代、死亡方式与保存状况
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面场景复原与泥炭沼剖面示意；不是考古现场照片
+cover: ../../../assets/covers/bog-bodies.jpg
+related:
+  - jade-burial-suit
+  - herculaneum
+status: review
+featured: false
+translation_status: translated

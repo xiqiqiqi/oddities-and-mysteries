@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: rajneeshee
+title_zh: 沙拉吧里的细菌
+title_en: The Bacteria in the Salad Bar
+era: "1984"
+era_en: "1984"
+region: 美国，俄勒冈，达尔斯
+region_en: "The Dalles, Oregon, United States"
+coords: [45.594, -121.178]
+tags:
+  - 拉杰尼希
+  - 沙门氏菌
+  - 生物恐怖
+  - 1984
+  - 俄勒冈
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · 1984 Rajneeshee bioterror attack"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/1984_Rajneeshee_bioterror_attack
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 事件经过、投毒范围、感染人数与审判结果
+  - id: S2
+    title: "The 1984 Rajneeshee Bioterrorism Attack: An Example of Biological Warfare by Violent Non-state Actors"
+    publisher: PMC / National Library of Medicine
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12369568/
+    year: "2025"
+    license: 版权所有；仅作事实参考
+    usage: 生物恐怖背景、菌株确认与公共健康影响
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面小镇餐厅与沙拉吧场景复原、事件时间线示意；不是现场照片
+cover: ../../../assets/covers/rajneeshee.jpg
+related:
+  - bre-x
+  - piltdown-man
+status: review
+featured: false
+translation_status: translated

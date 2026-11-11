@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Draco: the written code, the theatre and the cloaks</title>
+  <desc id="desc">Wooden law tablets beside a Greek theatre with a pile of cloaks and hats, and panels on Draco's code and his death.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">DRACO · 被斗篷闷死的人</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">ATHENS 621 BCE / AEGINA / THE CLOAKS</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="8" fill="#6B6256">THE CODE AND THE THEATRE / 法典与剧院</text>
+
+    <!-- tablets -->
+    <rect x="96" y="190" width="44" height="92" fill="#C9B799" stroke="#6B4A32" stroke-width="1.2"/>
+    <rect x="150" y="190" width="44" height="92" fill="#C9B799" stroke="#6B4A32" stroke-width="1.2"/>
+    <g stroke="#8C7A52" stroke-width="0.8">
+      <line x1="104" y1="206" x2="132" y2="206"/><line x1="104" y1="218" x2="132" y2="218"/><line x1="104" y1="230" x2="132" y2="230"/><line x1="104" y1="242" x2="132" y2="242"/><line x1="104" y1="254" x2="132" y2="254"/>
+      <line x1="158" y1="206" x2="186" y2="206"/><line x1="158" y1="218" x2="186" y2="218"/><line x1="158" y1="230" x2="186" y2="230"/><line x1="158" y1="242" x2="186" y2="242"/><line x1="158" y1="254" x2="186" y2="254"/>
+    </g>
+    <text x="96" y="300" font-family="Georgia, serif" font-size="8" fill="#1D1A17">AXONES / 木板</text>
+    <text x="96" y="312" font-family="Georgia, serif" font-size="7" fill="#6B6256">the law, written down / 写下来的法律</text>
+
+    <!-- theatre -->
+    <g fill="none" stroke="#B9A98C" stroke-width="3">
+      <path d="M196 306 A 104 104 0 0 1 404 306"/>
+      <path d="M214 306 A 86 86 0 0 1 386 306"/>
+      <path d="M232 306 A 68 68 0 0 1 368 306"/>
+      <path d="M250 306 A 50 50 0 0 1 350 306"/>
+    </g>
+    <rect x="240" y="296" width="120" height="16" fill="#C9B799" stroke="#6B4A32" stroke-width="1"/>
+
+    <!-- cloak pile -->
+    <g>
+      <ellipse cx="300" cy="286" rx="46" ry="18" fill="#8C5A3A"/>
+      <ellipse cx="278" cy="278" rx="30" ry="14" fill="#6B7A5A"/>
+      <ellipse cx="320" cy="276" rx="28" ry="13" fill="#A08A5A"/>
+      <ellipse cx="300" cy="268" rx="24" ry="12" fill="#8C5A3A"/>
+      <circle cx="286" cy="262" r="8" fill="#B9A98C"/>
+      <circle cx="312" cy="260" r="7" fill="#C9B799"/>
+      <path d="M270 270 Q 300 256 330 270" fill="none" stroke="#4A4030" stroke-width="1"/>
+    </g>
+
+    <text x="196" y="182" font-family="Georgia, serif" font-size="8" fill="#1D1A17">THE THEATRE / 剧院</text>
+    <text x="196" y="194" font-family="Georgia, serif" font-size="7" fill="#6B6256">Aegina, c. 600 BCE / 埃伊纳，约公元前 600 年</text>
+    <text x="230" y="360" font-family="Georgia, serif" font-size="8" fill="#B44A32">CLOAKS AND HATS / 斗篷与帽子</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE CODE / 法典</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="166">Athens' first written law / 雅典第一部成文法</text>
+      <text x="520" y="186">621 BCE, on wooden tablets / 公元前 621 年，刻在木板上</text>
+      <text x="520" y="206">death for almost every offence / 几乎所有的罪都判死刑</text>
+      <text x="520" y="226">even stealing a cabbage / 连偷一棵卷心菜也不例外</text>
+      <text x="520" y="242">“draconian” / “严苛的”</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE DEATH / 死亡</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">Aegina, c. 600 BCE / 埃伊纳，约公元前 600 年</text>
+      <text x="520" y="330">the audience threw cloaks / 观众扔出斗篷</text>
+      <text x="520" y="348">and hats, in honour / 和帽子，表示敬意</text>
+      <text x="520" y="366">he suffocated underneath / 他被埋在下面，窒息而死</text>
+      <text x="520" y="382">late source, not confirmed / 晚出史料，无法确认</text>
+    </g>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">A lawgiver killed by applause.</text>
+    <text x="60" y="470">一个被掌声杀死的立法者。</text>
+    <text x="60" y="494" fill="#B44A32">The code is history; the cloak story is a later anecdote. / 法典是历史，斗篷故事是后来的轶事。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

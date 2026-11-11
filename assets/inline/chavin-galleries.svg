@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Chavín de Huántar: the underground galleries, the Lanzón, and the acoustics</title>
+  <desc id="desc">A schematic section through the temple showing the platform, the narrow galleries, the cruciform Lanzón chamber, a ventilation shaft, and a water channel, with panels on the Lanzón and the sound design.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">CHAVÍN DE HUÁNTAR · c. 900–200 BCE</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">GALLERIES / LANZÓN / ACOUSTICS</text>
+
+  <g>
+    <rect x="60" y="112" width="420" height="280" fill="#EFE6D6"/>
+
+    <!-- platform -->
+    <rect x="80" y="210" width="380" height="40" fill="#B8A582" stroke="#6B4A32" stroke-width="1.5"/>
+    <text x="90" y="202" font-family="Georgia, serif" font-size="8" fill="#1D1A17">platform / 平台</text>
+
+    <!-- ground -->
+    <rect x="80" y="250" width="380" height="110" fill="#D8CCB6"/>
+    <path d="M80 250 H 460" stroke="#6B4A32" stroke-width="1.5"/>
+
+    <!-- galleries -->
+    <path d="M90 320 H 200 V 290 H 260 V 340 H 340 V 300 H 450" fill="none" stroke="#4A4030" stroke-width="14"/>
+    <path d="M90 320 H 200 V 290 H 260 V 340 H 340 V 300 H 450" fill="none" stroke="#EFE6D6" stroke-width="8"/>
+
+    <!-- Lanzón chamber -->
+    <rect x="300" y="280" width="40" height="60" fill="#EFE6D6" stroke="#4A4030" stroke-width="2"/>
+    <rect x="315" y="286" width="10" height="48" fill="#6B4A32" stroke="#4A4030" stroke-width="1"/>
+    <text x="240" y="274" font-family="Georgia, serif" font-size="8" fill="#1D1A17">Lanzón / 兰松</text>
+    <path d="M300 278 L 306 286" stroke="#1D1A17" stroke-width="1"/>
+
+    <!-- ventilation shaft -->
+    <path d="M340 280 V 210" stroke="#4A4030" stroke-width="4"/>
+    <path d="M334 210 H 346" stroke="#4A4030" stroke-width="2"/>
+    <text x="350" y="196" font-family="Georgia, serif" font-size="8" fill="#1D1A17">ventilation shaft / 通风井</text>
+
+    <!-- water channel -->
+    <path d="M90 346 H 200 V 316 H 260 V 366 H 330" fill="none" stroke="#6FA8C8" stroke-width="3"/>
+    <text x="90" y="360" font-family="Georgia, serif" font-size="8" fill="#3E5A5A">water channel / 水渠</text>
+
+    <text x="90" y="292" font-family="Georgia, serif" font-size="8" fill="#1D1A17">gallery / 画廊</text>
+  </g>
+
+  <g>
+    <rect x="500" y="112" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE LANZÓN / 兰松</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="168">4.5 m monolith / 4.5 米石像</text>
+      <text x="520" y="192">cruciform chamber / 十字形房间</text>
+      <text x="520" y="216">feline face / 猫科动物脸</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="500" y="258" width="340" height="134" fill="#EFE6D6"/>
+    <text x="520" y="286" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE SOUND / 声音</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="520" y="312">galleries amplify and distort / 画廊放大、扭曲声音</text>
+      <text x="520" y="334">20 conch trumpets found / 发现二十多把海螺号角</text>
+      <text x="520" y="356">water roar / 水声轰鸣</text>
+    </g>
+    <text x="520" y="380" font-family="Georgia, serif" font-size="8" fill="#B44A32">stagecraft, not decoration / 是舞台效果，不是装饰</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">The temple platforms hide a network of narrow stone galleries.</text>
+    <text x="60" y="470">神庙平台下藏着狭窄的石砌画廊。</text>
+    <text x="60" y="494" fill="#B44A32">The Lanzón stands in a cruciform chamber at the centre. / 兰松立在中央的十字形房间里。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

@@ -1,0 +1,47 @@
+channel: tales
+type: story
+slug: hollow-earth
+title_zh: 地球里面
+title_en: Inside the Earth
+era: "1692 年至今"
+era_en: "1692–present"
+region: 全球
+region_en: "Worldwide"
+coords: null
+tags:
+  - 空心地球
+  - 哈雷
+  - 西姆斯
+  - 泰德
+  - 极地入口
+collections: []
+credibility: folklore
+sources:
+  - id: S1
+    title: "Wikipedia · Hollow Earth"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Hollow_Earth
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 哈雷、西姆斯、泰德、伯德传说与科学反驳
+  - id: S2
+    title: "Britannica · Edmond Halley"
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/biography/Edmond-Halley
+    year: "2026"
+    license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    usage: 哈雷生平与 1692 年同心球壳假说
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面极地入口场景复原、同心球壳剖面与时间线；不是现场照片
+cover: ../../../assets/covers/hollow-earth.jpg
+related:
+  - dyatlov-pass
+  - voynich-manuscript
+status: review
+featured: false
+translation_status: translated

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Spring-Heeled Jack sighting areas in London</title>
+  <desc id="desc">A schematic map of London showing reported areas and a leaping figure with common witness descriptions.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">SPRING-HEELED JACK · LONDON</text>
+  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">REPORTED AREAS / 1837–1838 / SCHEMATIC</text>
+
+  <rect x="60" y="112" width="430" height="300" fill="#DCE6D8" stroke="#1D1A17" stroke-opacity=".15"/>
+  <path d="M80 340 C 150 320, 220 350, 290 330 S 410 300, 480 320" fill="none" stroke="#6FA8C8" stroke-width="8" opacity=".5"/>
+  <text x="90" y="362" font-family="Georgia, serif" font-size="10" fill="#6B6256">THAMES / 泰晤士河</text>
+
+  <g fill="#B44A32">
+    <circle cx="150" cy="190" r="6"/>
+    <circle cx="205" cy="250" r="6"/>
+    <circle cx="290" cy="225" r="6"/>
+    <circle cx="345" cy="275" r="6"/>
+    <circle cx="250" cy="300" r="6"/>
+  </g>
+  <g font-family="Georgia, serif" font-size="11" fill="#1D1A17">
+    <text x="164" y="194">BARNES COMMON</text>
+    <text x="219" y="254">CLAPHAM</text>
+    <text x="304" y="229">PECKHAM</text>
+    <text x="359" y="279">BRIXTON</text>
+    <text x="264" y="304" font-family="Georgia, serif" font-size="11" fill="#1D1A17">OTHER REPORTS</text>
+    <text x="264" y="318" font-family="Georgia, serif" font-size="10" fill="#6B6256">其他报告</text>
+  </g>
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="90" y="398">Locations are approximate; reports were not mapped precisely at the time.</text>
+    <text x="90" y="414">地点为大致位置；当时的报告没有精确地图记录。</text>
+  </g>
+
+  <g>
+    <rect x="530" y="112" width="310" height="300" fill="#14110F"/>
+    <g stroke="#F3EEE4" stroke-width="1" opacity=".2">
+      <path d="M530 180 H840"/>
+      <path d="M530 250 H840"/>
+      <path d="M530 320 H840"/>
+      <path d="M530 390 H840"/>
+    </g>
+    <g fill="#F3EEE4" opacity=".7">
+      <circle cx="580" cy="150" r="1.2"/>
+      <circle cx="640" cy="140" r="1"/>
+      <circle cx="760" cy="156" r="1.3"/>
+      <circle cx="810" cy="130" r="1"/>
+    </g>
+    <path d="M650 300 C 650 270, 670 255, 690 250 C 710 255, 730 270, 730 300 L 720 350 L 700 320 L 680 350 Z" fill="#1D1A17" stroke="#F3EEE4" stroke-width="1.2"/>
+    <path d="M680 250 C 680 240, 700 240, 700 250" fill="none" stroke="#F3EEE4" stroke-width="1.2"/>
+    <circle cx="684" cy="258" r="3" fill="#B44A32"/>
+    <circle cx="696" cy="258" r="3" fill="#B44A32"/>
+    <path d="M650 280 L 620 264 M730 280 L 760 264" stroke="#1D1A17" stroke-width="8" stroke-linecap="round"/>
+    <path d="M620 264 L 610 258 M610 258 L 606 264 M610 258 L 616 264" stroke="#F3EEE4" stroke-width="1.5" fill="none"/>
+    <text x="560" y="388" font-family="Georgia, serif" font-size="11" fill="#F3EEE4">JUMPING FIGURE / 会跳的身影</text>
+    <text x="560" y="404" font-family="Georgia, serif" font-size="10" fill="#D8D0C4">red eyes · claw hands · blue flame (reported)</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="11" fill="#6B6256">
+    <text x="60" y="452">COMMON CLAIMS / 常见说法</text>
+    <text x="60" y="474">leaps over walls and rooftops · harasses people at night · escapes pursuit</text>
+    <text x="60" y="492">跳过围墙与屋顶 · 夜间骚扰路人 · 难以抓获</text>
+    <text x="60" y="514" fill="#B44A32">No capture, no body, no verified photograph. / 无捕获、无尸体、无可靠照片。</text>
+  </g>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

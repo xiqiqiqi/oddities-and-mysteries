@@ -1,0 +1,47 @@
+channel: objects
+type: person
+slug: loulan-beauty
+title_zh: 沙漠里的姑娘
+title_en: The Girl in the Desert
+era: "约 3800 年前"
+era_en: "c. 3,800 years ago"
+region: 中国，新疆，罗布泊
+region_en: "Lop Nur, Xinjiang, China"
+coords: [40.5, 90.0]
+tags:
+  - 楼兰美女
+  - 干尸
+  - 罗布泊
+  - 青铜时代
+  - 新疆
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "若羌县人民政府 · 沉睡千年的楼兰美女"
+    publisher: 若羌县人民政府
+    url: http://www.xjrq.gov.cn/rqxrmzf/c108794/201412/103f82488bd34d6dbd7a2e78745979fe.shtml
+    year: "2014"
+    license: 版权所有；仅作事实参考
+    usage: 发现地点、年龄、身高、年代与保存状况
+  - id: S2
+    title: "中国历史研究院 · 楼兰女尸"
+    publisher: 中国历史研究院
+    url: http://hrczh.cass.cn/sxqy/kgx/202502/t20250228_5853030.shtml
+    year: "2025"
+    license: 版权所有；仅作事实参考
+    usage: 墓葬环境、随葬衣物与“楼兰美女”名称由来
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面沙漠墓葬场景复原、发现与年代示意；不是干尸照片
+cover: ../../../assets/covers/loulan-beauty.jpg
+related:
+  - jade-burial-suit
+  - sword-of-goujian
+status: review
+featured: false
+translation_status: translated

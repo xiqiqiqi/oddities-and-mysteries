@@ -1,0 +1,48 @@
+channel: objects
+type: object
+slug: dead-sea-scrolls
+title_zh: 洞穴里的古卷
+title_en: The Scrolls in the Caves
+era: "约公元前 3 世纪—公元 1 世纪"
+era_en: "c. 3rd century BCE – 1st century CE"
+region: 以色列，昆兰，死海
+region_en: "Qumran, near the Dead Sea, Israel"
+coords: [31.561, 35.470]
+tags:
+  - 死海古卷
+  - 昆兰
+  - 圣经
+  - 考古
+  - 赝品
+collections: []
+credibility: verified
+sources:
+  - id: S1
+    title: "Wikipedia · Dead Sea Scrolls"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Dead_Sea_Scrolls
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 发现经过、洞穴数量、卷轴内容、年代与收藏
+  - id: S2
+    title: "Museum of the Bible · Dead Sea Scroll Fragments"
+    publisher: Museum of the Bible
+    url: https://www.museumofthebible.org/dead-sea-scroll-fragments
+    year: "2020"
+    license: 版权所有；仅作事实参考
+    usage: 2020 年 16 份残片全部为现代赝品的鉴定结论
+  - id: S3
+    title: 场景复原插图与原创示意图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 封面洞穴场景复原与卷轴类型、真伪对照示意；不是文物照片
+cover: ../../../assets/covers/dead-sea-scrolls.jpg
+related:
+  - voynich-manuscript
+  - piltdown-man
+status: review
+featured: false
+translation_status: translated
+
