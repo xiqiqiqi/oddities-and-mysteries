@@ -23,7 +23,7 @@ sources:
     url: https://en.wikipedia.org/wiki/Baalbek
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 神庙群、三巨石、采石场石块与历史
+    usage: 神庙群、三巨石尺寸与重量、2014 年采石场石块（约 1650 吨）、实验考古学缩尺搬运
   - id: S2
     title: "UNESCO · Baalbek"
     publisher: UNESCO World Heritage Centre
@@ -32,12 +32,82 @@ sources:
     license: 版权所有；仅作事实参考
     usage: 世界遗产信息、建筑群范围与保护状况
   - id: S3
-    title: 场景复原插图与原创示意图
+    title: 原创图解与场景复原图
     publisher: 稀奇奇编辑部（AI 辅助生成）
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
-    usage: 封面神庙与巨石场景复原、台基与采石场示意；不是现场照片
+    usage: 巨石估重对比图、采石场到台基运输推测图、抬石场景复原图；不是历史照片
+  - id: S4
+    title: "Baalbek（银版全景）"
+    publisher: The Metropolitan Museum of Art
+    url: https://www.metmuseum.org/art/collection/search/726482
+    year: "1843–44"
+    license: CC0 / public domain（Met Open Access）
+    usage: 历史照片：台基长墙银版全景，正文第五节
+  - id: S5
+    title: "Hexagonal Court, Temple of Jupiter, Baalbek（银版）"
+    publisher: The Metropolitan Museum of Art
+    url: https://www.metmuseum.org/art/collection/search/761563
+    year: "1843"
+    license: CC0 / public domain（Met Open Access）
+    usage: 历史照片：六角院银版，正文第五节
+  - id: S6
+    title: "Vue générale des ruines de Baâlbek, prise à l'Est"
+    publisher: The Metropolitan Museum of Art
+    url: https://www.metmuseum.org/art/collection/search/287217
+    year: "1850"
+    license: CC0 / public domain（Met Open Access）
+    usage: 历史照片：1850-09-15 全景相册页；用作封面
+  - id: S7
+    title: "Colonnade du Temple du Soleil, à Baâlbek"
+    publisher: The Metropolitan Museum of Art
+    url: https://www.metmuseum.org/art/collection/search/287220
+    year: "1850"
+    license: CC0 / public domain（Met Open Access）
+    usage: 历史照片：六柱与额枋相册页，正文第六节
+  - id: S8
+    title: "Colonnade occidental du Temple de Jupiter, à Baâlbek"
+    publisher: The Metropolitan Museum of Art
+    url: https://www.metmuseum.org/art/collection/search/287226
+    year: "1850"
+    license: CC0 / public domain（Met Open Access）
+    usage: 历史照片：台基西壁与西侧柱廊，正文第二节
+  - id: S9
+    title: "Vue du Temple de Jupiter, à Baâlbek"
+    publisher: The Metropolitan Museum of Art
+    url: https://www.metmuseum.org/art/collection/search/287225
+    year: "1850"
+    license: CC0 / public domain（Met Open Access）
+    usage: 历史照片：斜倚台基墙的倒柱，正文第六节
+  - id: S10
+    title: "Hémicycle de l'enceinte des Temples, à Baâlbek"
+    publisher: The Metropolitan Museum of Art
+    url: https://www.metmuseum.org/art/collection/search/287219
+    year: "1850"
+    license: CC0 / public domain（Met Open Access）
+    usage: 历史照片：半圆外墙与拱龛，正文第六节
+  - id: S11
+    title: "The Temple of the Sun at Baalbec"
+    publisher: The Metropolitan Museum of Art
+    url: https://www.metmuseum.org/art/collection/search/262989
+    year: "ca. 1870"
+    license: CC0 / public domain（Met Open Access）
+    usage: 历史照片：六柱与柱础边的人，正文第七节
+  - id: S12
+    title: "Temple of Bacchus, Baalbek（水彩）"
+    publisher: The Metropolitan Museum of Art
+    url: https://www.metmuseum.org/art/collection/search/12168
+    year: "1906"
+    license: CC0 / public domain（Met Open Access）
+    usage: 历史画作：萨金特水彩，正文第七节
+  - id: S13
+    title: "Excursions to Cairo, Jerusalem, Damascus, and Balbec From the United States Ship Delaware"
+    publisher: George Jones / Van Nostrand and Dwight（Project Gutenberg #59702）
+    url: https://www.gutenberg.org/ebooks/59702
+    year: "1836"
+    license: Public domain（Project Gutenberg）
+    usage: 琼斯游记：泉边扎营与先睡一觉、两英里烈日路、九根柱子、三巨石 64/64/63 英尺、采石场 70 英尺与 1135 吨估重、正文引文
 cover: ../../../assets/covers/baalbek.jpg
 related:
   - sacsayhuaman

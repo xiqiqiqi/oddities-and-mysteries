@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Baalbek: from quarry to podium, three hypotheses and no record</title>
+  <desc id="desc">Left: the quarry on the adjoining hillside with a block still joined to bedrock, and the temple podium below. Right: three labelled hypotheses for moving and raising the blocks - earth ramp and rollers, levers, timber crane with capstan. Bottom: no ancient text or image records the full process; alien and giant claims have no archaeological evidence.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+  <text x="60" y="62" font-family="Georgia, serif" font-size="26" fill="#1D1A17">BAALBEK · QUARRY TO PODIUM</text>
+  <text x="60" y="86" font-family="Georgia, serif" font-size="12" fill="#6B6256">从采石场到台基 · 三种推测，零记录</text>
+
+  <g>
+    <rect x="60" y="112" width="360" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="9" fill="#6B6256">SECTION / 剖面示意 · 不是测绘图</text>
+    <path d="M80 200 L 200 200 L 250 250 L 400 250 L 400 360 L 80 360 Z" fill="#E4D8C2" stroke="#6B4A32" stroke-width="1.2"/>
+    <rect x="96" y="176" width="92" height="24" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.2"/>
+    <path d="M188 176 V 200" stroke="#B44A32" stroke-width="1.6" stroke-dasharray="3 2"/>
+    <text x="96" y="168" font-family="Georgia, serif" font-size="9" fill="#1D1A17">采石场 / quarry</text>
+    <text x="96" y="216" font-family="Georgia, serif" font-size="8" fill="#B44A32">一边仍连岩床 / joined to bedrock</text>
+    <rect x="286" y="222" width="98" height="28" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.2"/>
+    <rect x="286" y="250" width="98" height="14" fill="#C9B799" stroke="#6B4A32" stroke-width="1"/>
+    <text x="286" y="214" font-family="Georgia, serif" font-size="9" fill="#1D1A17">台基 / podium</text>
+    <path d="M200 188 C 240 188 250 226 282 232" fill="none" stroke="#6B4A32" stroke-width="1.4" stroke-dasharray="5 3"/>
+    <path d="M276 226 L 284 232 L 275 236" fill="none" stroke="#6B4A32" stroke-width="1.4"/>
+    <text x="80" y="380" font-family="Georgia, serif" font-size="9" fill="#4A4030">采石场在神庙旁的山坡上，地势略高。</text>
+    <text x="80" y="394" font-family="Georgia, serif" font-size="9" fill="#6B6256">The quarry lies on the adjoining hillside, slightly higher.</text>
+  </g>
+
+  <g font-family="Georgia, serif">
+    <rect x="450" y="112" width="390" height="280" fill="#EFE6D6"/>
+    <text x="470" y="136" font-size="10" fill="#1D1A17">三种推测 / THREE HYPOTHESES</text>
+
+    <rect x="470" y="152" width="60" height="10" fill="#C9B799" stroke="#6B4A32" stroke-width="1"/>
+    <circle cx="482" cy="167" r="5" fill="none" stroke="#6B4A32" stroke-width="1.2"/>
+    <circle cx="500" cy="167" r="5" fill="none" stroke="#6B4A32" stroke-width="1.2"/>
+    <circle cx="518" cy="167" r="5" fill="none" stroke="#6B4A32" stroke-width="1.2"/>
+    <text x="545" y="160" font-size="10" fill="#1D1A17">土坡 + 滚轴 / earth ramp + rollers</text>
+    <text x="545" y="174" font-size="8" fill="#6B6256">推测 hypothesis · 逐层填土抬高</text>
+
+    <path d="M470 216 L 530 200 M488 211 L 488 224" stroke="#6B4A32" stroke-width="1.6" fill="none"/>
+    <rect x="500" y="192" width="34" height="9" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1"/>
+    <text x="545" y="208" font-size="10" fill="#1D1A17">杠杆逐层撬抬 / levers, course by course</text>
+    <text x="545" y="222" font-size="8" fill="#6B6256">推测 hypothesis · 木垫块交替塞入</text>
+
+    <path d="M478 268 L 492 240 L 506 268 M492 240 V 252" stroke="#6B4A32" stroke-width="1.6" fill="none"/>
+    <rect x="486" y="252" width="14" height="10" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1"/>
+    <circle cx="520" cy="262" r="7" fill="none" stroke="#6B4A32" stroke-width="1.2"/>
+    <path d="M520 255 V 269 M513 262 H 527" stroke="#6B4A32" stroke-width="1"/>
+    <text x="545" y="256" font-size="10" fill="#1D1A17">木架 + 绞盘滑轮 / timber crane + capstan</text>
+    <text x="545" y="270" font-size="8" fill="#6B6256">推测 hypothesis · 罗马 polyspaston 式起重机</text>
+
+    <text x="470" y="308" font-size="9" fill="#4A4030">实验考古学搬动过缩尺石块，</text>
+    <text x="470" y="322" font-size="9" fill="#4A4030">证明数百吨并非不可能移动。</text>
+    <text x="470" y="340" font-size="8" fill="#6B6256">Scaled-down blocks have been moved in experiments;</text>
+    <text x="470" y="352" font-size="8" fill="#6B6256">hundreds of tonnes are not physically impossible.</text>
+    <text x="470" y="376" font-size="9" fill="#B44A32">但完整过程没有任何古代记录。</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">没有古代文字或图像记下从采石场到台基的全过程。/ No ancient text or image records the full process.</text>
+    <text x="60" y="474" fill="#B44A32">外星人、巨人与失落文明的说法没有考古证据。/ Alien, giant and lost-civilisation claims have no archaeological evidence.</text>
+  </g>
+</svg>
