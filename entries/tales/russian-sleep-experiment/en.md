@@ -10,7 +10,15 @@ The 1940s, Soviet Union. Scientists seal five political prisoners in a chamber.
 
 The room has beds, food, a toilet, and a gas that keeps them awake.
 
+There were no windows, only an observation pane and a microphone. The light stayed on, so day and night could not be told apart. When the five were taken inside, the door closed behind them and the lock clicked.
+
 The deal: stay awake for thirty days, and you will be released.
+
+Outside the door, the notebook was neat for the first few days: when they ate, when they spoke, who stood by the window for a long time. By the sixth day, the handwriting began to loosen.
+
+![Reconstruction of the sealed observation room from the story](../../../assets/inline/russian-sleep-room.jpg)
+
+*Reconstruction: the sealed observation room in the story. This is an internet horror story, not a historical site. Oddity Archive, CC BY-SA 4.0.*
 
 ## 2. The Sixth Day
 

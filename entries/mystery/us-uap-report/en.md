@@ -12,11 +12,19 @@ The title was dry: *Preliminary Assessment: Unidentified Aerial Phenomena*.
 
 It did not say aliens. It said: we have 144 reports.
 
+In a briefing room in Virginia, officers sat facing a screen. On it was a blurry infrared image: a point of light holding position in the wind. No one in the room could say at once what it was.
+
 ## 2. 144
 
 The reports ran from 2004 to 2021, mostly from Navy aviators.
 
 Eighty were registered across multiple sensors: radar, infrared, electro-optical systems, and the human eye.
+
+Each sensor left a fragment: a track, a video, a range. Put them together, and they still did not add up to a complete object.
+
+![Reconstruction of a military briefing on UAP sensor imagery](../../../assets/inline/us-uap-briefing.jpg)
+
+*Reconstruction: officers viewing sensor imagery of an unidentified aerial phenomenon. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
 Eighteen incidents, described in 21 reports, involved unusual movement: holding position in the wind, moving against the wind, turning abruptly, with no visible means of propulsion. In a few cases, military aircraft systems picked up radio-frequency energy.
 
@@ -25,6 +33,8 @@ Eighteen incidents, described in 21 reports, involved unusual movement: holding 
 Of the 144, exactly one could be identified.
 
 A deflating balloon.
+
+Its remains were found, and its track matched. It is the only one of the 144 with a complete story.
 
 The rest, the report said, lacked sufficient data. Not "unexplained". "Unresolvable".
 

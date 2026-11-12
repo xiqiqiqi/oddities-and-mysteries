@@ -8,9 +8,15 @@ lang: en
 
 Nagoya, Atsuta Shrine. In the innermost sanctuary there is a box, and inside it another box.
 
+The boxes are wooden, wrapped in cloth and tied with cord. They stand in the deepest room of the sanctuary, where the light is low and the air smells of old wood and incense.
+
 Inside, it is said, is the Kusanagi sword, one of the three imperial regalia of Japan.
 
 No one has seen it. Not "rarely displayed" — never displayed. Even the shrine's priests have not opened it.
+
+![Reconstruction of the nested boxes at Atsuta Shrine](../../../assets/inline/kusanagi-shrine.jpg)
+
+*Reconstruction: the nested wooden boxes in the innermost sanctuary at Atsuta. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
 
 ## 2. Out of the Serpent's Tail
 
@@ -43,6 +49,8 @@ Today the Kusanagi is treated as a shintai, a body of the kami, not as a museum 
 It is wrapped in layers of boxes and kept in the deepest part of the sanctuary. Each year the priests perform rituals around it, but not on it.
 
 In 2019, when Emperor Naruhito ascended the throne, the sword and the jewel were sent to Tokyo, but the sword remained in its box and was not opened.
+
+As the procession passed through the streets, the box travelled in a car. No one saw the sword, but people along the route bowed.
 
 ## 6. What It Is
 

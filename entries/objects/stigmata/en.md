@@ -8,11 +8,17 @@ lang: en
 
 On a mountain near Assisi, Italy, Francis was praying.
 
+It was early morning. The rock was cold, mist rose from the valley, and he had been kneeling with his arms raised for a long time.
+
 He said he saw a six-winged seraph, like Christ on the cross.
 
 Then wounds appeared on his hands and feet, like the marks of nails, and a wound in his side.
 
 These are the earliest widely recorded stigmata.
+
+![Reconstruction of Francis praying at La Verna in 1224](../../../assets/inline/stigmata-la-verna.jpg)
+
+*Reconstruction: Francis praying at La Verna in 1224. Not a historical photograph or a medical photograph. Oddity Archive, CC BY-SA 4.0.*
 
 ## 2. What Stigmata Are
 
@@ -27,6 +33,8 @@ The most famous modern case is Padre Pio of Italy.
 In 1918 wounds appeared on his hands. They remained for fifty years.
 
 Doctors examined him and disagreed. Some said the wounds could not be explained; some said they were produced by suggestion; some suspected he maintained them with iodine.
+
+Padre Pio rarely let people see the wounds. He wore gloves and wrapped his hands in cloth. To believers this was humility; to sceptics, concealment.
 
 In 1923 the Church declared that the supernatural character of the wounds was not established. In 2002 he was canonised on the basis of his virtues and reported miracles, not the stigmata.
 

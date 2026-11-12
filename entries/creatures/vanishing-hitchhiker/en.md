@@ -8,11 +8,19 @@ lang: en
 
 A driver sees a girl thumbing a lift on a night road.
 
+It is the early motor age: the road is straight, the headlights are yellow. The girl stands on the shoulder, her white dress bright for a moment in the beam.
+
 She wears a white dress, is young, says little, and gives only an address.
+
+![Reconstruction of the hitchhiker on a night road](../../../assets/inline/vanishing-hitchhiker-road.jpg)
+
+*Reconstruction: the girl in white at the roadside. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
 
 He lets her in. She sits in the back, silent. When he reaches the address he turns around. The back seat is empty.
 
 He knocks on the door. The person who answers says: that was my daughter. She died years ago.
+
+The person at the door is not surprised. They simply look at the empty car, as if they knew she would come back.
 
 ## 2. Variations
 

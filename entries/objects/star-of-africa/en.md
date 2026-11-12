@@ -20,7 +20,15 @@ It was shipped to London. Accounts of the journey differ: some say it was sent i
 
 The cutting took place in Amsterdam. Three polishers worked fourteen-hour days for eight months.
 
+It was a small workshop. The diamond was fixed to a bench while the polishers worked it against a spinning steel wheel. The room had to be free of vibration and dust; they examined the stone through a thin cloth, afraid that one slip would ruin the rough.
+
+![Reconstruction of the Amsterdam cutting workshop, 1908](../../../assets/inline/star-of-africa-cutting.jpg)
+
+*Reconstruction: the Amsterdam cutting workshop in 1908, polishers working on the Cullinan. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+
 The rough stone was cut into nine large stones and ninety-six smaller ones.
+
+The cutting plan was revised again and again. Every blow had to avoid internal flaws and still leave the largest stone large enough. In the end, Cullinan I survived.
 
 The largest was named Cullinan I. It weighs 530.2 carats and is known as the Star of Africa.
 

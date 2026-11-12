@@ -14,7 +14,15 @@ He took them home. Local soldiers and scholars eventually learned of the find, a
 
 In 1986 two sacrificial pits were discovered.
 
+The pits were not large, and the objects were packed together. Bronze masks, ivory, jade and sea shells lay as if a whole ceremony had been buried at once. Archaeologists crouched at the edge, cleaning the earth with bamboo picks and brushes.
+
 They were filled with bronzes, gold, jade, ivory and sea shells. The most striking objects were the bronze masks: bulging eyes, enormous ears, mouths stretching almost to the edge of the face.
+
+The eyes projected forward, and the ears opened to the sides. They did not seem to be looking at you, but at something behind you.
+
+![Reconstruction of the 1986 Sanxingdui excavation](../../../assets/inline/sanxingdui-pit.jpg)
+
+*Reconstruction: the excavation of a Sanxingdui sacrificial pit in 1986. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
 
 There was also a bronze tree nearly four metres tall, a bronze standing figure more than two metres high, and a gold staff.
 

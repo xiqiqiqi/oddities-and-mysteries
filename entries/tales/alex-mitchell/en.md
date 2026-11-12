@@ -14,13 +14,21 @@ In the sketch, Tim Brooke-Taylor defends himself with a martial art called "Ecky
 
 Mitchell began to laugh.
 
+The living room was lit only by the television. He sat on the sofa with his wife beside him. The bagpipes and the fighting mixed together, and he laughed harder.
+
 ## 2. Twenty-Five Minutes
 
 He laughed for twenty-five minutes.
 
+![Reconstruction of a 1970s English living room with the television on](../../../assets/inline/alex-mitchell-living-room.jpg)
+
+*Reconstruction: an English living room in 1975, the television still on. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+
 His wife was in the room. She said he could not stop, and finally gave one last "tremendous belly laugh" and collapsed on the sofa.
 
 He died of heart failure.
+
+The television was still on. The programme kept going, and the room was left with its dialogue.
 
 ## 3. The Heart
 

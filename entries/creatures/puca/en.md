@@ -8,11 +8,19 @@ lang: en
 
 On an Irish night, a black horse stands by the road.
 
+The lane is narrow, with stone walls and dark hedges on both sides. Moonlight catches the wet grass. The horse stands by the wall as if it has been waiting there for a long time.
+
 It does not move or make a sound. You come closer, and it lets you mount.
 
 Then it runs. You cannot hold the reins, and you cannot get down. It jumps hedges, stones and rivers until you no longer know where you are.
 
 At dawn you find yourself in a ditch, covered in mud. The horse is gone.
+
+![Reconstruction of a black horse on an Irish night road](../../../assets/inline/puca-black-horse.jpg)
+
+*Reconstruction: a black horse beside a country road at night. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
+
+You do not remember where it ran. You remember wind, stones, and the shine of water.
 
 This is the púca.
 

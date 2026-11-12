@@ -12,6 +12,12 @@ Plato says the story was told to the Athenian statesman Solon by an Egyptian pri
 
 The island held a powerful kingdom. Its army attacked Athens and was driven back. Later, earthquakes and floods swallowed the island in a single day and night.
 
+In Plato's description the island was ringed: a circle of land, a circle of water, and another circle of land. The city had temples, docks and canals, and ships came in from the sea directly into the city.
+
+![Reconstruction of Plato's ringed city of Atlantis](../../../assets/inline/atlantis-ring-city.jpg)
+
+*Reconstruction: the ringed city and canals described by Plato. Not an archaeological photograph. Oddity Archive, CC BY-SA 4.0.*
+
 ## 2. The Date
 
 The Egyptian priest said this happened nine thousand years before Solon.
@@ -19,6 +25,8 @@ The Egyptian priest said this happened nine thousand years before Solon.
 Solon lived in the sixth century BCE. Nine thousand years before him is roughly 9600 BCE.
 
 That is long before the pyramids, and before the invention of agriculture.
+
+It also places Atlantis further away than "ancient": it is prehistoric.
 
 ## 3. The Ideal State
 
