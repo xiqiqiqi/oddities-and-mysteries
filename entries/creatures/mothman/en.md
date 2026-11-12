@@ -20,6 +20,12 @@ It was about two metres tall, with large gray-brown wings and red eyes. It flew 
 
 It chased cars. At least one couple said it followed them at high speed until they accelerated away.
 
+In November that year, a car turned onto the old TNT road and the headlights reached only a few dozen metres. Empty factory buildings stood on both sides, grass growing through the concrete. The driver later said he saw two red points low above the treeline, as if suspended in air. Then the thing opened its wings and passed over the roof without a sound.
+
+![A winged figure over the TNT area at night](../../../assets/inline/mothman-tnt.jpg)
+
+*Reconstruction: headlights and a winged figure above the treeline at the Point Pleasant TNT area, 1966. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
+
 ![Mothman timeline and the Silver Bridge](../../../assets/inline/mothman-timeline.svg)
 
 *Original schematic: the 1966–1967 sightings around Point Pleasant and the location of the Silver Bridge. Not a precise map. Oddity Archive, CC BY-SA 4.0.*

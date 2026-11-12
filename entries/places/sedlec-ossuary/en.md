@@ -20,6 +20,12 @@ The bones kept accumulating. By the nineteenth century, the crypt held the remai
 
 In 1870, the Schwarzenberg family hired a woodcarver, František Rint, to put the bones in order.
 
+The stairs down are narrow, and the temperature drops as you descend. The crypt is low, the vault close, the light warm. Look up: the chandelier hangs in the centre, skulls facing four directions, femurs running through it. The gaps between the bones are wide, and light leaks down the walls in a net.
+
+![The bone chandelier in the ossuary](../../../assets/inline/sedlec-chandelier.jpg)
+
+*Reconstruction: the bone chandelier, garlands, and corner pyramids inside the Sedlec Ossuary. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+
 ## 3. Rint's work
 
 Rint did not bury the bones or lock them away.

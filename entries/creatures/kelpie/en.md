@@ -16,6 +16,12 @@ Its skin sticks to your legs and you cannot get off. Then it turns, walks into t
 
 This is the kelpie.
 
+At dusk the loch is lead grey. The horse stands at the water's edge, hooves sunk in mud, mane hanging, water dripping from the ends. It does not call and does not move. It watches you. You come closer and it does not shy; you reach out and it lowers its head. Only when your hand touches its neck do you find that the coat is wet and cold, as if just pulled from the water.
+
+![A black horse at the edge of a loch](../../../assets/inline/kelpie-loch.jpg)
+
+*Reconstruction: a black water horse at a Highland loch at dusk. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
+
 ## 2. The stories
 
 There are many versions of the kelpie story.

@@ -20,6 +20,12 @@ The recorded death toll is not consistent, but it lies roughly between sixty and
 
 That convinced locals it was not an ordinary wolf.
 
+Dusk comes early in the hills. Once the sun drops, the pasture turns grey and a single yellow window shows in the stone houses. A woman drives cattle home, a child behind her. Something moves at the edge of the wood, large and low, close to the brush. When you look again, there is only wind.
+
+![The edge of the wood above a Gévaudan village](../../../assets/inline/gevaudan-edge.jpg)
+
+*Reconstruction: a Gévaudan village, pasture, and the animal at the treeline in the 1760s. Not a historical painting. Oddity Archive, CC BY-SA 4.0.*
+
 ![Timeline of the Beast of Gévaudan](../../../assets/inline/gevaudan-timeline.svg)
 
 *Original schematic: the attacks and hunts in Gévaudan, 1764–1767. Not a historical painting. Oddity Archive, CC BY-SA 4.0.*

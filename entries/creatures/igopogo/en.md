@@ -12,6 +12,12 @@ It is shallow, and in summer it is crowded with boats. Kempenfelt Bay cuts into 
 
 It is a hard place to hide a large animal. It is also an easy place to misread one.
 
+At dusk the lake is flat. When the wind drops, the water becomes a sheet of dark blue. A boat sounds somewhere, its motor arriving late. Between the boat and the shore, the surface arches into a grey curve, like a stone rising and slowly sinking. By the time you look properly, there is only a ring of spreading ripples.
+
+![The hump on Lake Simcoe](../../../assets/inline/igopogo-hump.jpg)
+
+*Reconstruction: a small boat and a distant hump on Lake Simcoe at dusk. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
+
 ## 2. The 1860s
 
 The Simcoe County Archives trace the lake monster stories back at least to the 1860s.

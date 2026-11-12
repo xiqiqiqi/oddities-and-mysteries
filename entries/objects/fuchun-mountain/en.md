@@ -26,6 +26,12 @@ The painting passed through many hands. In the early Qing dynasty it belonged to
 
 Wu loved it so much that, on his deathbed, he asked for it to be burned so that it could accompany him to the next world. He lay in bed and watched as the scroll was put into the fire.
 
+The brazier stood by the bed. As soon as the paper met the charcoal its edge curled, blackened, and the fire began to crawl inward across the painting. No one in the room moved. Wu Jing'an stood by, watched the middle of the scroll disappear, and finally reached in and pulled out what was left.
+
+![The scroll pulled from the brazier](../../../assets/inline/fuchun-fire.jpg)
+
+*Reconstruction: a Qing study at night, the handscroll already burning at one end as it is pulled from the brazier. Not a historical painting. Oddity Archive, CC BY-SA 4.0.*
+
 His nephew, Wu Jing'an, could not bear it. While no one was looking, he pulled the painting out of the flames. It was already burning; he put out the fire and unrolled it. The long scroll had broken into two pieces.
 
 ![The fire, the split, and the two halves](../../../assets/inline/fuchun-split.svg)

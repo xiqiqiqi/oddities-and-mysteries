@@ -12,6 +12,12 @@ To one side of the courtyard stands a dark iron pillar.
 
 It is slimmer than the surrounding stone columns, with a sheen on its surface and the cold feel of metal. The top is decorated, and the shaft carries a raised pattern. It does not look like an object placed behind glass. It looks like a column still standing where it was put, still carrying its own weight.
 
+Late in the day the courtyard sandstone turns orange, and the pillar stays black. It is thinner than the stone columns around it and much darker, a needle inserted into a field of red rock. The lower shaft carries a dark patina worn by generations of hands. Touch it and it is cold; after a moment the metal gives your warmth back.
+
+![The Iron Pillar in the Qutb complex](../../../assets/inline/iron-pillar-qutb.jpg)
+
+*Reconstruction: the courtyard of the Qutb complex at dusk, with the Iron Pillar and the victory tower. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+
 ## 2. Size and inscription
 
 The pillar is about 7.2 metres tall, with more than six metres above ground, and weighs around six tonnes.

@@ -12,6 +12,12 @@ At night, headlights reach only a short way ahead. The road is straight, the sky
 
 The Min Min light appears on roads like this.
 
+The first time you see it, you assume it is a car. A white glare like high beams, sitting in the middle of the road, its distance impossible to judge. Ease off the accelerator and it slows; press down and it moves ahead. Just as you prepare to overtake, it goes out. The road is empty, and there is only your own light.
+
+![The Min Min light on an outback road](../../../assets/inline/min-min-road.jpg)
+
+*Reconstruction: a night road in outback Queensland, with a white light hovering ahead. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
+
 ## 2. What it looks like
 
 Witnesses do not all describe the same thing.

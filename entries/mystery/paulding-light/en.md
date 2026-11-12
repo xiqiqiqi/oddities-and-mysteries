@@ -12,6 +12,12 @@ An old railroad grade runs along the edge of town; it is now used as a snowmobil
 
 After dark, people stand in the pull-off and look into the trees. After a few minutes, a light appears.
 
+On summer nights the pull-off holds a few cars. People sit in folding chairs with torches and cameras at their feet. Someone sets up a telescope; others just watch. The woods are black, the grade blacker. Then a white point appears between the trunks, faint, steady, drifting left, and goes out.
+
+![The watchers and the light in the trees](../../../assets/inline/paulding-light.jpg)
+
+*Reconstruction: the pull-off, the old railroad grade, and the white light between the trees. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+
 ## 2. The legend
 
 The most common story is that a railroad worker was killed on the track years ago and his head was cut off. His ghost walks the grade with a lantern, looking for it.

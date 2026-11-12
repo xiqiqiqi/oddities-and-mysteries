@@ -14,6 +14,12 @@ She was wrapped in a woolen blanket, wore a woolen hat, and had leather boots on
 
 Radiocarbon dating put her at about 3,800 years ago. She was around forty-five when she died, 1.57 metres tall, with blood type O.
 
+The wind never stopped during the excavation. The grave was shallow. When the sand was lifted, the first thing to appear was coarse wool, faded to the colour of dust. The hat lay to one side, pointed, still holding a feather; the boots were placed side by side, soles upward. The body was wrapped in a blanket, and the sand blew back in as fast as the team could clear it.
+
+![The sand pit and grave goods at the Tieban River](../../../assets/inline/loulan-grave.jpg)
+
+*Reconstruction: the Tieban River grave during excavation in 1980, with woollen blanket, pointed hat, and leather boots. Not a photograph of the excavation. Oddity Archive, CC BY-SA 4.0.*
+
 ## 2. What she looked like
 
 She had long, dark brown hair spread over her shoulders.
