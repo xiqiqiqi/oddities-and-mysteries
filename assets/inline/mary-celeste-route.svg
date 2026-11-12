@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">The last voyage of the Mary Celeste</title>
+  <desc id="desc">A schematic map of the Mary Celeste's route from New York to the Azores and Gibraltar, with the dates of the last log entry, the sighting and the boarding.</desc>
+  <rect width="900" height="560" fill="#F3EEE4"/>
+  <text x="60" y="52" font-family="Georgia, serif" font-size="25" fill="#1D1A17">THE LAST VOYAGE · 最后的航线</text>
+  <text x="60" y="76" font-family="Georgia, serif" font-size="11" fill="#6B6256">NEW YORK → ATLANTIC → AZORES → GIBRALTAR / NOVEMBER–DECEMBER 1872</text>
+
+  <g>
+    <rect x="60" y="104" width="780" height="300" fill="#E9E1D2"/>
+
+    <!-- North America -->
+    <path d="M70 116 L176 122 L206 150 L214 188 L198 214 L214 246 L196 274 L206 306 L184 350 L158 374 L96 386 L70 386 Z" fill="#CFC3AC" stroke="#8C7A5E" stroke-width="1"/>
+    <text x="110" y="176" font-family="Georgia, serif" font-size="9" fill="#4A4030">NORTH AMERICA</text>
+    <text x="110" y="192" font-family="Georgia, serif" font-size="8" fill="#6B6256">北美洲</text>
+
+    <!-- Iberia and Africa -->
+    <path d="M804 116 L870 130 L870 384 L806 384 L790 340 L800 296 L786 254 L802 212 Z" fill="#CFC3AC" stroke="#8C7A5E" stroke-width="1"/>
+    <text x="812" y="200" font-family="Georgia, serif" font-size="8" fill="#4A4030">IBERIA</text>
+    <text x="812" y="214" font-family="Georgia, serif" font-size="8" fill="#6B6256">伊比利亚</text>
+    <text x="812" y="318" font-family="Georgia, serif" font-size="8" fill="#4A4030">AFRICA</text>
+    <text x="812" y="332" font-family="Georgia, serif" font-size="8" fill="#6B6256">非洲</text>
+
+    <!-- Azores -->
+    <g fill="#8C7A5E">
+      <circle cx="548" cy="286" r="3"/><circle cx="560" cy="296" r="2.4"/><circle cx="572" cy="288" r="2.4"/>
+      <circle cx="566" cy="308" r="2"/>
+    </g>
+    <text x="528" y="330" font-family="Georgia, serif" font-size="8" fill="#4A4030">AZORES / 亚速尔群岛</text>
+
+    <!-- route -->
+    <path d="M186 214 C300 190 430 236 556 292 C650 330 724 360 800 368" fill="none" stroke="#B44A32" stroke-width="1.6" stroke-dasharray="7 6"/>
+    <path d="M800 368 L786 362 L790 374 Z" fill="#B44A32"/>
+
+    <!-- New York -->
+    <circle cx="186" cy="214" r="4.5" fill="#1D1A17"/>
+    <text x="196" y="210" font-family="Georgia, serif" font-size="9" fill="#1D1A17">NEW YORK</text>
+    <text x="196" y="224" font-family="Georgia, serif" font-size="8" fill="#6B6256">departed 7 Nov / 11 月 7 日出发</text>
+
+    <!-- last log -->
+    <circle cx="392" cy="238" r="3.5" fill="#D99A2B"/>
+    <text x="360" y="260" font-family="Georgia, serif" font-size="8" fill="#1D1A17">last log / 最后一页</text>
+    <text x="360" y="273" font-family="Georgia, serif" font-size="8" fill="#6B6256">25 Nov / 11 月 25 日</text>
+
+    <!-- sighting -->
+    <circle cx="556" cy="292" r="4.5" fill="#B44A32"/>
+    <text x="476" y="244" font-family="Georgia, serif" font-size="8" fill="#B44A32">sighted / 被发现</text>
+    <text x="476" y="257" font-family="Georgia, serif" font-size="8" fill="#B44A32">4 Dec / 12 月 4 日</text>
+
+    <!-- Gibraltar -->
+    <circle cx="800" cy="368" r="4" fill="#1D1A17"/>
+    <text x="712" y="386" font-family="Georgia, serif" font-size="8" fill="#1D1A17">GIBRALTAR / 直布罗陀</text>
+    <text x="712" y="399" font-family="Georgia, serif" font-size="8" fill="#6B6256">arrived 13 Dec / 12 月 13 日</text>
+
+    <text x="70" y="420" font-family="Georgia, serif" font-size="8" fill="#6B6256">schematic map, not to scale / 示意地图，不按比例</text>
+  </g>
+
+  <g>
+    <line x1="90" y1="474" x2="810" y2="474" stroke="#1D1A17" stroke-width="1"/>
+    <g font-family="Georgia, serif" font-size="9" fill="#1D1A17">
+      <circle cx="110" cy="474" r="4" fill="#1D1A17"/>
+      <text x="86" y="500">7 NOV</text>
+      <text x="80" y="514" fill="#6B6256">New York / 纽约出发</text>
+
+      <circle cx="286" cy="474" r="4" fill="#D99A2B"/>
+      <text x="262" y="500">25 NOV</text>
+      <text x="250" y="514" fill="#6B6256">last log / 最后记录</text>
+
+      <circle cx="462" cy="474" r="4" fill="#B44A32"/>
+      <text x="438" y="500">4 DEC</text>
+      <text x="426" y="514" fill="#6B6256">sighted / 被发现</text>
+
+      <circle cx="626" cy="474" r="4" fill="#1D1A17"/>
+      <text x="602" y="500">5 DEC</text>
+      <text x="590" y="514" fill="#6B6256">boarded / 登船</text>
+
+      <circle cx="790" cy="474" r="4" fill="#1D1A17"/>
+      <text x="766" y="500">13 DEC</text>
+      <text x="750" y="514" fill="#6B6256">Gibraltar / 直布罗陀</text>
+    </g>
+  </g>
+
+  <text x="60" y="548" font-family="Georgia, serif" font-size="9" fill="#B44A32">Nine people left; no one was found. / 九个人离开，一个也没有找到。</text>
+  <text x="60" y="28" font-family="Georgia, serif" font-size="10" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

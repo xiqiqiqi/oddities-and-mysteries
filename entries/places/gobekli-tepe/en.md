@@ -22,9 +22,23 @@ Göbekli Tepe is not a single building. It is a set of circular or oval enclosur
 
 In each enclosure, several massive T-shaped limestone pillars stand in a ring, with two taller pillars in the centre. The tallest are about 5.5 metres high and weigh more than ten tonnes. The pillars are connected by walls, and the surfaces are carefully smoothed.
 
+Enclosure D is the best preserved. Its two central pillars are taller than the rest. One carries a carving of a fox, its body arched and its tail raised as if about to spring. There are also arms, belts, and abstract human figures, as if a person had been carved into the stone.
+
 The most surprising part is the carving. The pillars carry foxes, snakes, boars, cranes, scorpions, spiders, and abstract human figures and arms. The carvings are not random. They have clear compositions and positions.
 
 These pillars did not form naturally. They were quarried, moved, erected, and carved. That required labour, organisation, and a shared belief.
+
+Rewind about eleven thousand years. It is still dark, and people are already moving on the hill. The pillars have been dragged up from a nearby quarry; their surfaces still carry tool marks. A fire burns in the centre of the enclosure, with meat from a recent hunt above it. People arrive from surrounding camps with food, hides, and news. When the ceremony ends, they fill the enclosure with rubble and earth, as if pressing a sentence into the ground.
+
+The scene is an inference, but each part leaves a trace at the site: the carvings, the animal bones in the fill, the ash from hearths, the worn floor.
+
+![Reconstruction of Göbekli Tepe around 9500 BCE](../../../assets/inline/gobekli-tepe-9500bce.jpg)
+
+*Reconstruction: hunter-gatherers gathering in an enclosure at Göbekli Tepe around 9500 BCE. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+
+![The enclosure plan and the timeline of Göbekli Tepe](../../../assets/inline/gobekli-tepe-plan.svg)
+
+*Diagram: a schematic plan of Enclosure D, and the date of Göbekli Tepe compared with farming villages, Stonehenge, and the pyramids. Original graphic, CC BY-SA 4.0.*
 
 ## 3. The trouble with the date
 
@@ -37,6 +51,8 @@ The pyramids were built around 2500 BCE. Göbekli Tepe is about seven thousand y
 More awkwardly, it is older than the earliest large farming villages in the region. The traditional story says that people first learned to farm, settled down, produced a surplus, and only then could support priests, craftsmen, and large construction projects. Göbekli Tepe scrambles that order.
 
 The builders may have been hunter-gatherers. They had not domesticated wheat, had no pottery, and had no metal tools. Yet they could organise hundreds of people to move ten-tonne stones from a quarry to the hill, stand them upright, and carve animals into them.
+
+The hills around the site carry wild wheat and barley. Some scholars therefore argue that the builders were already managing plants. But there are no clear fields, storage pits, or domesticated animals at the site, and most evidence still points to mobile hunter-gatherers. They were not “people who had not yet learned to farm.” They were people who chose a different way of living.
 
 ## 4. Why was it buried
 

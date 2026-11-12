@@ -16,6 +16,14 @@ The stories reached the papers. London editors loved them: a bottomless loch, a 
 
 The modern Loch Ness Monster was born.
 
+If you could photograph the summer of 1933, the frame would look like this: the loch black as iron, the far hills half swallowed by mist, a new road curving along the shore, a car pulled onto the verge, the people inside staring at the water. The surface moves once, then goes still again.
+
+That summer, the small hotels were full, reporters waited on the pier, and shops began selling monster postcards. An animal no one had seen was already supporting a street of businesses.
+
+![Reconstruction of a Loch Ness morning in 1933](../../../assets/inline/loch-ness-1934.jpg)
+
+*Reconstruction: a long neck rising from the black water at Loch Ness in 1933, with a car on the new road. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+
 ## 2. Older stories
 
 The idea of a creature in Loch Ness did not begin in 1933.
@@ -32,7 +40,9 @@ It showed a small head on a long neck rising from the water, with a wake behind 
 
 For sixty years, many people believed it was real.
 
-In 1994, a participant in the hoax came forward. The photograph had been made with a toy submarine and a plastic neck. The photographer was not Wilson but a friend, and Wilson had simply passed the image to the newspaper.
+In 1994, a participant came forward. According to Christian Spurling, the “monster” was a toy submarine with a plastic neck: the submarine sat below the surface, the neck rose out of the water, and from a distance it looked like an animal's head and neck. The plan was organised by his stepfather, Marmaduke Wetherell, a hunter who had once been hired by a newspaper to look for the monster. The photograph was taken by Wetherell's son Ian and eventually passed to Wilson.
+
+Wilson was not the discoverer. He was the man who handed the picture to a newspaper. That detail makes the story more complete: the negative can be real, and the animal can be fake.
 
 It was not the only photograph, but it was the most influential. It gave the monster its long neck, small head, and the pose above the water.
 
@@ -48,6 +58,10 @@ In 2019, an international team collected more than 250 water samples and analyse
 
 The lead researcher said there might be a very large eel in the loch, but a Jurassic-era aquatic reptile was unlikely.
 
+![How the Surgeon's Photograph was staged, and how the loch was surveyed](../../../assets/inline/loch-ness-evidence.svg)
+
+*Diagram: the 1934 photo setup, plus sonar, environmental DNA, and the depth of the loch. Original graphic, CC BY-SA 4.0.*
+
 ## 5. What is it, then
 
 Most sightings can be explained by ordinary things.
@@ -55,6 +69,8 @@ Most sightings can be explained by ordinary things.
 Seals can swim in from the North Sea, and a seal's head and neck can look like a monster at a distance. Otters, deer, logs, boat wakes, wind, and shifting light can all become a “hump” or a “neck” far from shore.
 
 Some sightings are also shaped by expectation. The water is dark, the loch is long, and tourists come to see the monster. When a shadow appears, the brain finishes the picture.
+
+The loch itself is worth a look. It is about 37 kilometres long and up to 230 metres deep, one of the largest bodies of fresh water in Britain by volume. Peat stains the water dark brown, and visibility is low. Sonar and cameras can only see a small part of a place that size, in water that colour.
 
 There are still sightings and photographs that have not been explained. They do not prove the monster exists, but they have not all been debunked either.
 

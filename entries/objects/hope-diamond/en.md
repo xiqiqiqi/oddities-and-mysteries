@@ -24,13 +24,25 @@ Louis XIV wore it. Louis XV wore it. Louis XVI and Marie Antoinette wore it. The
 
 In 1792, the crown jewels were looted in Paris. The French Blue disappeared.
 
+It was a chaotic autumn. In September 1792, thieves broke into the royal storehouse, the Garde-Meuble, in Paris. The guards were few, the windows were not barred, and over several days the crown jewels were carried away in batches. By the time the inventory was checked, the 67-carat blue diamond was no longer in its case.
+
+![Reconstruction of the 1792 theft at the royal storehouse](../../../assets/inline/hope-diamond-1792.jpg)
+
+*Reconstruction: the morning after the 1792 theft in Paris, the blue diamond resting on scattered velvet. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+
 Twenty years later, a 45.52-carat blue diamond appeared in London. No one could prove it was the French Blue, but the cut, colour, and weight matched. In 1812, the British banker Henry Philip Hope bought it. The stone had its modern name.
+
+![The Hope Diamond's weight and owners over time](../../../assets/inline/hope-diamond-lineage.svg)
+
+*Diagram: from a 112-carat rough stone to the 45.52-carat Hope Diamond. Original graphic, CC BY-SA 4.0.*
 
 ## 3. How the curse grew
 
 After the Hope family, the stone passed through several owners. One went bankrupt. One was divorced. One died in an accident. Each story was printed in the newspapers, then printed again.
 
-In the early twentieth century, the American socialite Evalyn Walsh McLean bought it. She loved jewellery and attention. Her life was genuinely difficult: her son died young, her husband was unfaithful, and the family fortune collapsed. The press put the stone and the misfortunes together, and the curse took shape.
+In 1909, the jeweller Pierre Cartier bought the stone from the Hope family. To convince American clients that it was worth a higher price, he strung the misfortunes of its owners into a curse story and let the newspapers tell it louder.
+
+In 1911, the Washington socialite Evalyn Walsh McLean bought it. She was not afraid of the curse; she found it entertaining. She loved jewellery and attention. Her life was genuinely difficult: her son died young, her husband was unfaithful, and the family fortune collapsed. The press put the stone and the misfortunes together, and the curse took shape.
 
 Look closely, though, and many of the “victims” had no connection to the diamond. Some misfortunes happened before they owned it. Some stories were invented by journalists; some were added by dealers to raise the price.
 

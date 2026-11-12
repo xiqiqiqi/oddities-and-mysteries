@@ -16,6 +16,14 @@ There was no one on deck. The hatches were open, the pumps unattended. In the ca
 
 Two things were missing: a lifeboat, and every person on the ship.
 
+The boarding party later described the deck: ropes left loose, hatches open, no one at the pumps. A rope hung over the stern, its end frayed as if it had snapped. The lifeboat's place was empty, and its fastenings had been released.
+
+The ship had not sunk, and the sails were not fully furled. She looked like someone who had stopped halfway, then been left behind.
+
+![Reconstruction of the Mary Celeste drifting in the Atlantic, 1872](../../../assets/inline/mary-celeste-drift.jpg)
+
+*Reconstruction: the Mary Celeste drifting unmanned in December 1872, her lifeboat gone. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+
 The ship was the Mary Celeste.
 
 ## 2. Who was aboard
@@ -40,6 +48,10 @@ The records left a few key facts. The compass had been moved. There was minor da
 
 Those details never added up to a complete story.
 
+![The Mary Celeste's last voyage and key dates](../../../assets/inline/mary-celeste-route.svg)
+
+*Diagram: the route from New York to the Azores and Gibraltar, with the dates of the last log entry, the sighting, and the boarding. Original graphic, CC BY-SA 4.0.*
+
 ## 4. The most popular explanations
 
 Over the years, people have proposed many explanations.
@@ -53,6 +65,8 @@ Over the years, people have proposed many explanations.
 **Alcohol vapour**: this is one of the more persuasive theories. The captain may have discovered that alcohol was leaking, feared an explosion, and ordered everyone into the lifeboat, tethered to the ship, intending to return when the danger passed. The line broke, or the lifeboat capsized, and no one came back.
 
 This explains why the ship was intact, why the lifeboat was gone, and why the crew left their belongings. It is still a guess. It does not explain every detail.
+
+Some researchers have also suggested that the ship's compass was moved or damaged, causing the captain to misjudge his position. He may have thought the ship was farther from the Azores than she was, and decided to abandon her. This does not conflict with the alcohol theory: one bad judgment plus a small leak could be enough to take nine people off a ship that could still sail.
 
 ## 5. How the story grew
 

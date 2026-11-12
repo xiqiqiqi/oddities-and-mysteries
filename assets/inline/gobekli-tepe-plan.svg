@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Göbekli Tepe: the enclosure and the timeline</title>
+  <desc id="desc">A schematic plan of a circular enclosure with T-shaped pillars, and a timeline comparing Göbekli Tepe with the first farms, Stonehenge and the pyramids.</desc>
+  <rect width="900" height="620" fill="#F3EEE4"/>
+  <text x="60" y="52" font-family="Georgia, serif" font-size="25" fill="#1D1A17">BEFORE THE PYRAMIDS · 时间上的麻烦</text>
+  <text x="60" y="76" font-family="Georgia, serif" font-size="11" fill="#6B6256">GÖBEKLI TEPE · c. 9500 BCE / HUNTER-GATHERERS / T-SHAPED PILLARS</text>
+
+  <g>
+    <rect x="60" y="108" width="430" height="410" fill="#EFE6D6"/>
+    <text x="80" y="132" font-family="Georgia, serif" font-size="9" fill="#6B6256">PLAN / 围合结构平面示意</text>
+
+    <circle cx="275" cy="310" r="146" fill="none" stroke="#B9A88C" stroke-width="10"/>
+    <circle cx="275" cy="310" r="128" fill="#E6DAC6"/>
+    <circle cx="275" cy="310" r="62" fill="#EFE6D6" stroke="#B9A88C" stroke-width="2"/>
+
+    <!-- ring pillars -->
+    <g fill="#8C7A5E">
+      <g transform="translate(275 310) rotate(0)"><rect x="-7" y="-124" width="14" height="34" rx="2"/><rect x="-12" y="-126" width="24" height="8" rx="2"/></g>
+      <g transform="translate(275 310) rotate(30)"><rect x="-7" y="-124" width="14" height="34" rx="2"/><rect x="-12" y="-126" width="24" height="8" rx="2"/></g>
+      <g transform="translate(275 310) rotate(60)"><rect x="-7" y="-124" width="14" height="34" rx="2"/><rect x="-12" y="-126" width="24" height="8" rx="2"/></g>
+      <g transform="translate(275 310) rotate(90)"><rect x="-7" y="-124" width="14" height="34" rx="2"/><rect x="-12" y="-126" width="24" height="8" rx="2"/></g>
+      <g transform="translate(275 310) rotate(120)"><rect x="-7" y="-124" width="14" height="34" rx="2"/><rect x="-12" y="-126" width="24" height="8" rx="2"/></g>
+      <g transform="translate(275 310) rotate(150)"><rect x="-7" y="-124" width="14" height="34" rx="2"/><rect x="-12" y="-126" width="24" height="8" rx="2"/></g>
+      <g transform="translate(275 310) rotate(180)"><rect x="-7" y="-124" width="14" height="34" rx="2"/><rect x="-12" y="-126" width="24" height="8" rx="2"/></g>
+      <g transform="translate(275 310) rotate(210)"><rect x="-7" y="-124" width="14" height="34" rx="2"/><rect x="-12" y="-126" width="24" height="8" rx="2"/></g>
+      <g transform="translate(275 310) rotate(240)"><rect x="-7" y="-124" width="14" height="34" rx="2"/><rect x="-12" y="-126" width="24" height="8" rx="2"/></g>
+      <g transform="translate(275 310) rotate(270)"><rect x="-7" y="-124" width="14" height="34" rx="2"/><rect x="-12" y="-126" width="24" height="8" rx="2"/></g>
+      <g transform="translate(275 310) rotate(300)"><rect x="-7" y="-124" width="14" height="34" rx="2"/><rect x="-12" y="-126" width="24" height="8" rx="2"/></g>
+      <g transform="translate(275 310) rotate(330)"><rect x="-7" y="-124" width="14" height="34" rx="2"/><rect x="-12" y="-126" width="24" height="8" rx="2"/></g>
+    </g>
+
+    <!-- central pillars -->
+    <g fill="#6B5A42">
+      <rect x="258" y="282" width="12" height="52" rx="2"/>
+      <rect x="252" y="278" width="24" height="8" rx="2"/>
+      <rect x="280" y="286" width="12" height="50" rx="2"/>
+      <rect x="274" y="282" width="24" height="8" rx="2"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17">
+      <text x="80" y="464">Enclosure D / D 区围合</text>
+      <text x="80" y="480" fill="#6B6256">T 形石柱最高约 5.5 米、十几吨 / up to 5.5 m, about 16 t</text>
+      <text x="80" y="496" fill="#6B6256">two taller pillars at the centre / 中间两根更高</text>
+    </g>
+
+    <g>
+      <line x1="388" y1="458" x2="388" y2="486" stroke="#1D1A17" stroke-width="1"/>
+      <path d="M388 486 L382 474 L394 474 Z" fill="#1D1A17"/>
+      <text x="400" y="480" font-family="Georgia, serif" font-size="8" fill="#1D1A17">N</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="520" y="108" width="320" height="410" fill="#EFE6D6"/>
+    <text x="540" y="132" font-family="Georgia, serif" font-size="9" fill="#6B6256">TIMELINE / 谁比谁早</text>
+
+    <line x1="560" y1="168" x2="560" y2="478" stroke="#1D1A17" stroke-width="1"/>
+
+    <g font-family="Georgia, serif" fill="#1D1A17">
+      <circle cx="560" cy="184" r="5" fill="#D99A2B"/>
+      <text x="580" y="180" font-size="12">c. 9500 BCE</text>
+      <text x="580" y="196" font-size="9" fill="#6B6256">Göbekli Tepe is built / 哥贝克力石阵建造</text>
+
+      <circle cx="560" cy="254" r="4" fill="#B44A32"/>
+      <text x="580" y="250" font-size="11">c. 8500 BCE</text>
+      <text x="580" y="266" font-size="9" fill="#6B6256">first farming villages / 最早农业村落</text>
+
+      <circle cx="560" cy="342" r="4" fill="#6B6256"/>
+      <text x="580" y="338" font-size="11">c. 3000 BCE</text>
+      <text x="580" y="354" font-size="9" fill="#6B6256">Stonehenge / 巨石阵</text>
+
+      <circle cx="560" cy="430" r="4" fill="#6B6256"/>
+      <text x="580" y="426" font-size="11">c. 2500 BCE</text>
+      <text x="580" y="442" font-size="9" fill="#6B6256">pyramids of Giza / 吉萨金字塔</text>
+    </g>
+
+    <text x="540" y="504" font-family="Georgia, serif" font-size="8" fill="#B44A32">the temple is older than farming / 神庙比农业还早</text>
+  </g>
+
+  <text x="60" y="558" font-family="Georgia, serif" font-size="10" fill="#6B6256">Built by hunter-gatherers, before pottery and metal. / 建造者可能是狩猎采集者，还没有陶器和金属工具。</text>
+  <text x="60" y="582" font-family="Georgia, serif" font-size="10" fill="#B44A32">The purpose and the builders are still debated. / 用途与建造者仍有争议。</text>
+  <text x="60" y="28" font-family="Georgia, serif" font-size="10" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

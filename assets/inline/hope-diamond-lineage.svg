@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">The Hope Diamond: three centuries of a stone</title>
+  <desc id="desc">A timeline of the Hope Diamond from a 112-carat rough stone to the 45.52-carat stone in the Smithsonian, with the 1792 theft and the later curse stories.</desc>
+  <rect width="900" height="560" fill="#F3EEE4"/>
+  <text x="60" y="52" font-family="Georgia, serif" font-size="25" fill="#1D1A17">THE HOPE DIAMOND · 一颗石头的三百年</text>
+  <text x="60" y="76" font-family="Georgia, serif" font-size="11" fill="#6B6256">112 CT → 67 CT → 45.52 CT / INDIA · FRANCE · BRITAIN · AMERICA</text>
+
+  <!-- three stones -->
+  <g>
+    <path d="M96 154 L134 124 L186 138 L206 178 L178 214 L120 210 L88 184 Z" fill="#33507F" stroke="#1D1A17" stroke-width="1.2"/>
+    <path d="M118 158 L150 144 L178 158 L186 182 L162 198 L126 194 L108 176 Z" fill="#4F72A8" opacity="0.7"/>
+    <text x="96" y="242" font-family="Georgia, serif" font-size="10" fill="#1D1A17">1666 · ROUGH STONE / 原石</text>
+    <text x="96" y="258" font-family="Georgia, serif" font-size="9" fill="#6B6256">about 112 carats / 约 112 克拉</text>
+  </g>
+
+  <g>
+    <path d="M356 148 L392 130 L430 144 L442 174 L418 202 L378 204 L350 180 Z" fill="#33507F" stroke="#1D1A17" stroke-width="1.2"/>
+    <path d="M372 154 L396 144 L420 154 L428 174 L410 190 L382 190 L360 174 Z" fill="#5C80B4" opacity="0.7"/>
+    <text x="340" y="242" font-family="Georgia, serif" font-size="10" fill="#1D1A17">1668 · FRENCH BLUE / 法国蓝钻</text>
+    <text x="340" y="258" font-family="Georgia, serif" font-size="9" fill="#6B6256">recut, about 67 carats / 重切，约 67 克拉</text>
+  </g>
+
+  <g>
+    <path d="M652 146 L684 132 L716 144 L728 172 L706 198 L670 200 L646 176 Z" fill="#33507F" stroke="#1D1A17" stroke-width="1.2"/>
+    <path d="M668 152 L688 144 L708 152 L714 172 L698 186 L676 186 L658 172 Z" fill="#6C90C4" opacity="0.7"/>
+    <text x="636" y="242" font-family="Georgia, serif" font-size="10" fill="#1D1A17">1812 · HOPE DIAMOND / 希望钻石</text>
+    <text x="636" y="258" font-family="Georgia, serif" font-size="9" fill="#6B6256">about 45.52 carats / 约 45.52 克拉</text>
+  </g>
+
+  <line x1="80" y1="320" x2="820" y2="320" stroke="#1D1A17" stroke-width="1"/>
+
+  <!-- timeline nodes -->
+  <g font-family="Georgia, serif" fill="#1D1A17" font-size="9">
+    <g>
+      <circle cx="100" cy="320" r="4" fill="#D99A2B"/>
+      <line x1="100" y1="320" x2="100" y2="344" stroke="#D99A2B" stroke-width="1"/>
+      <text x="72" y="360">1666</text>
+      <text x="72" y="374" fill="#6B6256">Tavernier buys it</text>
+      <text x="72" y="387" fill="#6B6256">塔韦尼耶在印度购得</text>
+    </g>
+    <g>
+      <circle cx="248" cy="320" r="4" fill="#D99A2B"/>
+      <line x1="248" y1="320" x2="248" y2="392" stroke="#D99A2B" stroke-width="1"/>
+      <text x="212" y="408">1668</text>
+      <text x="212" y="422" fill="#6B6256">sold to Louis XIV</text>
+      <text x="212" y="435" fill="#6B6256">卖给路易十四，重切</text>
+    </g>
+    <g>
+      <circle cx="396" cy="320" r="4" fill="#B44A32"/>
+      <line x1="396" y1="320" x2="396" y2="344" stroke="#B44A32" stroke-width="1"/>
+      <text x="362" y="360">1792</text>
+      <text x="362" y="374" fill="#6B6256">royal treasury looted</text>
+      <text x="362" y="387" fill="#6B6256">王室珠宝在巴黎失窃</text>
+    </g>
+    <g>
+      <circle cx="544" cy="320" r="4" fill="#D99A2B"/>
+      <line x1="544" y1="320" x2="544" y2="392" stroke="#D99A2B" stroke-width="1"/>
+      <text x="512" y="408">1812</text>
+      <text x="512" y="422" fill="#6B6256">Henry Philip Hope</text>
+      <text x="512" y="435" fill="#6B6256">银行家霍普买下</text>
+    </g>
+    <g>
+      <circle cx="676" cy="320" r="4" fill="#D99A2B"/>
+      <line x1="676" y1="320" x2="676" y2="344" stroke="#D99A2B" stroke-width="1"/>
+      <text x="646" y="360">1911</text>
+      <text x="646" y="374" fill="#6B6256">Evalyn McLean</text>
+      <text x="646" y="387" fill="#6B6256">麦克莱恩夫人买下</text>
+    </g>
+    <g>
+      <circle cx="792" cy="320" r="4" fill="#D99A2B"/>
+      <line x1="792" y1="320" x2="792" y2="392" stroke="#D99A2B" stroke-width="1"/>
+      <text x="756" y="408">1958</text>
+      <text x="756" y="422" fill="#6B6256">gift to the Smithsonian</text>
+      <text x="756" y="435" fill="#6B6256">捐赠给史密森尼</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="60" y="468" width="380" height="58" fill="#EFE6D6"/>
+    <text x="78" y="490" font-family="Georgia, serif" font-size="10" fill="#1D1A17">THE RECORD / 有记录的部分</text>
+    <text x="78" y="508" font-family="Georgia, serif" font-size="9" fill="#6B6256">cuts, owners, theft, sale, donation / 切割、持有人、失窃、拍卖、捐赠</text>
+  </g>
+  <g>
+    <rect x="460" y="468" width="380" height="58" fill="#EFE6D6"/>
+    <text x="478" y="490" font-family="Georgia, serif" font-size="10" fill="#B44A32">THE CURSE / 后来的故事</text>
+    <text x="478" y="508" font-family="Georgia, serif" font-size="9" fill="#6B6256">newspapers, rumours, museum shop / 报纸、传闻、纪念品</text>
+  </g>
+
+  <text x="60" y="28" font-family="Georgia, serif" font-size="10" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>

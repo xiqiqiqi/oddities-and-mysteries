@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+  <title id="title">The Surgeon's Photograph and the surveys of Loch Ness</title>
+  <desc id="desc">How the 1934 photograph was staged with a toy submarine, and what sonar and environmental DNA found in Loch Ness.</desc>
+  <rect width="900" height="600" fill="#F3EEE4"/>
+  <text x="60" y="52" font-family="Georgia, serif" font-size="25" fill="#1D1A17">THE SURGEON'S PHOTOGRAPH · 一张照片的构造</text>
+  <text x="60" y="76" font-family="Georgia, serif" font-size="11" fill="#6B6256">1934 / A TOY SUBMARINE / A PLASTIC NECK / SIXTY YEARS OF BELIEF</text>
+
+  <g>
+    <rect x="60" y="108" width="400" height="286" fill="#EFE6D6"/>
+    <text x="80" y="132" font-family="Georgia, serif" font-size="9" fill="#6B6256">THE SETUP / 拍摄装置示意</text>
+
+    <rect x="74" y="152" width="372" height="150" fill="#243642"/>
+    <rect x="74" y="302" width="372" height="70" fill="#1B2A33"/>
+
+    <!-- water line -->
+    <line x1="74" y1="302" x2="446" y2="302" stroke="#8FB0C0" stroke-width="1"/>
+
+    <!-- toy submarine -->
+    <g>
+      <ellipse cx="250" cy="352" rx="56" ry="18" fill="#3A4A52" stroke="#C9D6DC" stroke-width="1.2"/>
+      <rect x="238" y="318" width="20" height="34" fill="#3A4A52" stroke="#C9D6DC" stroke-width="1"/>
+      <path d="M248 318 C248 280 242 258 252 244" fill="none" stroke="#C9D6DC" stroke-width="4" stroke-linecap="round"/>
+      <path d="M252 244 C262 236 270 240 272 248 C264 252 256 252 252 244 Z" fill="#C9D6DC"/>
+    </g>
+
+    <!-- camera -->
+    <g>
+      <rect x="392" y="268" width="30" height="20" fill="#1D1A17"/>
+      <circle cx="416" cy="278" r="5" fill="#6B6256"/>
+      <line x1="398" y1="288" x2="390" y2="334" stroke="#1D1A17" stroke-width="2"/>
+      <line x1="416" y1="288" x2="424" y2="334" stroke="#1D1A17" stroke-width="2"/>
+      <line x1="390" y1="334" x2="424" y2="334" stroke="#1D1A17" stroke-width="2"/>
+      <line x1="396" y1="276" x2="276" y2="252" stroke="#D99A2B" stroke-width="0.8" stroke-dasharray="5 4"/>
+    </g>
+
+    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17">
+      <text x="330" y="248">35 mm camera / 相机</text>
+      <text x="300" y="358">toy submarine / 玩具潜艇</text>
+      <text x="200" y="228">plastic neck / 塑料脖子</text>
+      <text x="90" y="398">the “monster” was about 30 cm long / “水怪”模型只有约 30 厘米</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="480" y="108" width="360" height="286" fill="#EFE6D6"/>
+    <text x="500" y="132" font-family="Georgia, serif" font-size="9" fill="#6B6256">THE LOCH / 湖的剖面</text>
+
+    <!-- lake profile -->
+    <path d="M496 170 L824 170 L824 190 C780 240 760 330 700 356 C650 378 560 378 520 340 L496 320 Z" fill="#243642"/>
+    <line x1="496" y1="170" x2="824" y2="170" stroke="#8FB0C0" stroke-width="1"/>
+
+    <!-- depth grid -->
+    <g font-family="Georgia, serif" font-size="8" fill="#C9D6DC">
+      <line x1="500" y1="222" x2="820" y2="222" stroke="#3A4A52" stroke-width="0.6" stroke-dasharray="3 4"/>
+      <text x="500" y="218">100 m</text>
+      <line x1="500" y1="292" x2="820" y2="292" stroke="#3A4A52" stroke-width="0.6" stroke-dasharray="3 4"/>
+      <text x="500" y="288">200 m</text>
+    </g>
+    <text x="500" y="368" font-family="Georgia, serif" font-size="8" fill="#6B6256">230 m · deepest point / 最深处</text>
+
+    <!-- sonar boat -->
+    <g>
+      <path d="M626 160 L674 160 L666 174 L634 174 Z" fill="#D99A2B"/>
+      <path d="M650 174 L650 200" stroke="#D99A2B" stroke-width="1"/>
+      <path d="M638 200 Q650 212 662 200" fill="none" stroke="#D99A2B" stroke-width="1"/>
+      <path d="M626 210 Q650 226 674 210" fill="none" stroke="#D99A2B" stroke-width="0.8" opacity="0.7"/>
+      <path d="M614 220 Q650 240 686 220" fill="none" stroke="#D99A2B" stroke-width="0.6" opacity="0.45"/>
+      <text x="610" y="152" font-family="Georgia, serif" font-size="8" fill="#1D1A17">sonar / 声呐</text>
+    </g>
+
+    <!-- DNA dots -->
+    <g fill="#B44A32">
+      <circle cx="540" cy="250" r="2"/><circle cx="590" cy="300" r="2"/><circle cx="640" cy="330" r="2"/>
+      <circle cx="690" cy="340" r="2"/><circle cx="740" cy="300" r="2"/><circle cx="780" cy="240" r="2"/>
+    </g>
+    <text x="528" y="380" font-family="Georgia, serif" font-size="8" fill="#1D1A17">2019 · 250+ water samples for eDNA / 环境 DNA 取样</text>
+  </g>
+
+  <g>
+    <rect x="60" y="420" width="780" height="120" fill="#EFE6D6"/>
+    <text x="80" y="446" font-family="Georgia, serif" font-size="10" fill="#1D1A17">WHAT THE RECORD SAYS / 记录里留下了什么</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <text x="80" y="470">1934 · the photograph is published in the Daily Mail / 照片登上《每日邮报》</text>
+      <text x="80" y="490">1994 · a participant confesses: toy submarine, plastic neck / 参与者承认造假</text>
+      <text x="80" y="510">1987 · sonar sweep finds large moving contacts, later unconfirmed / 声呐发现大型移动目标，未获确认</text>
+      <text x="80" y="530">2019 · eDNA finds lots of eel DNA, no reptile DNA / 环境 DNA：大量鳗鱼，没有爬行动物</text>
+    </g>
+  </g>
+
+  <text x="60" y="28" font-family="Georgia, serif" font-size="10" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+</svg>
