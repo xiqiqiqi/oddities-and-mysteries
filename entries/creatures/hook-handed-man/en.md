@@ -8,9 +8,15 @@ lang: en
 
 A young couple park on a lonely road at night.
 
+It is 1950s America. The car is big, the road is empty. The boy parks at the edge of the trees, kills the engine, and leaves only the radio on. Outside is black; the dashboard lights are a small orange island.
+
 The radio is on. Suddenly a news bulletin interrupts: a patient has escaped from a nearby asylum, and one of his hands is a steel hook.
 
 The girl is frightened and wants to go home. The boy is reluctant, but he starts the car.
+
+![Reconstruction of a 1950s lovers' lane](../../../assets/inline/hook-handed-man-lovers-lane.jpg)
+
+*Reconstruction: a 1950s American lovers' lane, a steel hook hanging from the door handle. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
 
 ## 2. Home
 
@@ -21,6 +27,8 @@ The boy gets out, walks around the car and opens her door.
 On the door handle hangs a steel hook.
 
 There is blood on it.
+
+They never know when the hook was hung there. Maybe while they were parked. Maybe while they were talking. The doors stayed shut, and the windows stayed black.
 
 ## 3. Versions
 
@@ -35,6 +43,8 @@ The common point is that danger came, and they did not know.
 "The Hook" was popular among American teenagers in the 1950s and 1960s.
 
 It appeared alongside cars, drive-in cinemas and lovers' lanes.
+
+Cars changed how young people dated, and they changed the shape of fear: a private space that could move, parked far from home and streetlights. The story turned "someone is out there" into "he was at your door just now."
 
 It was a warning: do not park in a lonely place, do not turn off the lights, do not ignore the girl.
 

@@ -10,13 +10,23 @@ Syracuse, Sicily. In the home of a young couple hung a plaster relief of the Imm
 
 On 29 August 1953 the wife saw water in the image's eyes.
 
+It was a hot summer. The small plaster relief hung in the house, with candles and plastic flowers below it. Water came out of the eyes and ran down the plaster cheeks.
+
 It was not condensation. It was tears.
 
+![Reconstruction of the weeping Madonna in a Syracuse home, 1953](../../../assets/inline/weeping-madonna-1953.jpg)
+
+*Reconstruction: the Madonna relief in a Sicilian home in 1953, with neighbours praying below. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
+
 The tears returned several times over the following days. The news spread, and crowds gathered.
+
+First the neighbours came, then people from the street, then people from other towns. They brought children, canes and cameras and queued at the door. Some wept, some took photographs, some only came to look.
 
 ## 2. The Church
 
 The Church set up a commission to examine the tears and to examine people who claimed to have been healed.
+
+The commission sampled the tears and recorded the claims of healing. They could not prove where the tears came from, but they could decide whether prayer would be allowed here.
 
 The local Church permitted veneration of the image, and a shrine, Our Lady of Tears, was built in Syracuse.
 

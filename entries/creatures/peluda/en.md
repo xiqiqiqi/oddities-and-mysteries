@@ -8,9 +8,15 @@ lang: en
 
 La Ferté-Bernard, in the Sarthe, north-western France. The Huisne River runs past the town.
 
+The Huisne is not wide. In summer the water is shallow and the stones show. The medieval town grew along it, with mills, washing places and livestock dependent on the river.
+
 In medieval accounts, a monster lived in the river.
 
 It was called La Velue, "the hairy one".
+
+![Reconstruction of the Peluda by the Huisne in medieval France](../../../assets/inline/peluda-huisne.jpg)
+
+*Reconstruction: the Huisne River and the legendary Peluda in the Middle Ages. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
 
 ## 2. The Shape
 
@@ -19,6 +25,8 @@ It was like a dragon, but wingless.
 Its body was ox-like, its neck long, its head serpentine. Its back carried thick hair, and hidden in the hair were quills it could fire. Its tail was a serpent ending in a cluster of spikes.
 
 When it entered the river, the water rose. When it came ashore, it destroyed crops, livestock and people.
+
+When it came ashore, the sound of the water changed first. Then the animals grew restless, dogs barked, and people ran indoors. The legend kept no dates, only these movements.
 
 ## 3. The Flood
 

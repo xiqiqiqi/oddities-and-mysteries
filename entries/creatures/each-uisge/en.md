@@ -8,6 +8,8 @@ lang: en
 
 Dusk, by a loch in the Scottish Highlands. You see a horse.
 
+Dusk is the boundary hour in the Highlands. The sky is not fully dark, the loch has begun to reflect, and the far hills are a line of silhouettes.
+
 It is handsome, its coat glossy, standing at the water's edge without fear.
 
 You approach; it does not run. You mount; it begins to move.
@@ -15,6 +17,10 @@ You approach; it does not run. You mount; it begins to move.
 It runs towards the loch. You cannot hold on; your legs stick to its back. It plunges in, and you are dragged under.
 
 This is the each-uisge, the water horse.
+
+![Reconstruction of the water horse at a Highland loch at dusk](../../../assets/inline/each-uisge-loch.jpg)
+
+*Reconstruction: the water horse standing by a loch at dusk. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
 
 ## 2. The Kelpie
 
@@ -47,6 +53,8 @@ The water horse was a warning told to children by the loch.
 Do not go near a horse you do not know. Do not go to the loch at dusk. Do not ride a horse that is too willing.
 
 In an age when drowning was common, the story was more useful than "mind the deep water".
+
+There were no railings and no life jackets. The loch took people every year. A story that could speak was easier for a child to remember than a warning sign.
 
 ## 6. Water
 

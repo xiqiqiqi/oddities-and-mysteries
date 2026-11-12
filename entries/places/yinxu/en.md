@@ -8,6 +8,8 @@ lang: en
 
 In 1899 in Beijing, an official named Wang Yirong fell ill and bought Chinese medicine.
 
+It was late Qing Beijing. Wang Yirong spread the medicine packet under a lamp. The dragon bones had been ground into fragments and mixed with herbs; they were medicine, nothing more.
+
 One ingredient was "dragon bone". He noticed strange marks on the bones.
 
 They were not cracks. They were writing.
@@ -22,9 +24,15 @@ It was the capital of the late Shang dynasty, called Yin. After the dynasty fell
 
 In 1928 archaeologists began excavating there.
 
+![Reconstruction of the 1928 excavation at Yinxu, Anyang](../../../assets/inline/yinxu-1928.jpg)
+
+*Reconstruction: the archaeological excavation at Yinxu, Anyang, in 1928. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+
 ## 3. The Bones
 
 The Shang used turtle shells and ox shoulder blades for divination.
+
+Divination was not always a single event. A shell could be reused; questions were carved along the edge, and cracks ran through the drilled pits. The archive accumulated on the bone, layer by layer.
 
 They drilled small pits in the bone, applied heat, and read the cracks to judge the answer. Then they carved the question, the date and the result beside it.
 
@@ -35,6 +43,8 @@ More than 160,000 oracle bones have been excavated at Yinxu. They are the earlie
 ## 4. Fu Hao
 
 In 1976 archaeologists found an undisturbed Shang tomb: the tomb of Fu Hao.
+
+The tomb had not been robbed, and the objects were still in place. The inscriptions on the bronzes carried her name and mentioned her command of troops.
 
 Fu Hao was a wife of King Wu Ding and also a general. Her tomb contained bronzes, jades, bone objects and sea shells, as well as inscriptions bearing her name.
 

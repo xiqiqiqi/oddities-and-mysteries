@@ -10,7 +10,13 @@ Varginha, Minas Gerais, Brazil, a coffee town of about 120,000 people.
 
 It had rained that afternoon. Three young women cut across a vacant lot.
 
+The air smelled of wet earth and coffee husks. They took the shortcut between the wall and the open ground.
+
 They saw something crouched by a wall.
+
+![Reconstruction of the vacant lot in Varginha, 1996](../../../assets/inline/varginha-1996.jpg)
+
+*Reconstruction: the vacant lot in Varginha after rain in 1996, the creature by the wall. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
 ## 2. The Creature
 
@@ -23,6 +29,8 @@ The three women ran home and told their families. The news spread quickly.
 ## 3. The Military
 
 In the following days military trucks, fire engines and people in protective suits appeared in the town.
+
+The military later acknowledged that they had been there, but described it as a routine operation. Hospital records, vehicle movements and who gave the orders were never released in enough detail to make a complete story.
 
 Rumours said the military had captured creatures, taken them to a hospital, and that someone had died.
 
@@ -43,6 +51,8 @@ Another says it was a survivor from a crashed craft.
 There are no photographs, no body and no craft.
 
 There are witness statements, contemporary newspapers, records of military activity and countless later television programmes.
+
+With little evidence, stories multiply. Every gap is filled by a new version: a patient, a military exercise, a spacecraft.
 
 The authorities have not acknowledged an alien creature. The witnesses insist on what they saw.
 

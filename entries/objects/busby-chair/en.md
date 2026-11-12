@@ -14,7 +14,7 @@ Legend says that before he was hanged, he cursed the oak chair his victim had sa
 
 The chair stayed at a local inn, later called the Busby Stoop Inn.
 
-In the eighteenth and nineteenth centuries it was just an old chair. In the twentieth century the story grew.
+The inn stood at the edge of the village, with low beams and a fire that burned most of the year. The chair sat in a corner, and anyone could use it. In the eighteenth and nineteenth centuries it was just an old chair. In the twentieth century the story grew.
 
 ## 3. The Deaths
 
@@ -28,7 +28,13 @@ There were workers, passers-by and drinkers too. The stories multiplied, and the
 
 In 1978 the inn donated the chair to the Thirsk Museum.
 
+![Reconstruction of Busby's chair displayed on a museum wall](../../../assets/inline/busby-chair-museum.jpg)
+
+*Reconstruction: Busby's chair hanging high on a wall at the Thirsk Museum. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
+
 The museum did not put it on the floor. It hung it high on a wall so that no one could sit in it.
+
+It was fixed to the wall, seat facing out, like a specimen. The light was dim, and a rope ran in front of it. Visitors looked up, took photographs, read the label, and left.
 
 It became one of Britain's most famous "cursed objects".
 
@@ -39,6 +45,8 @@ Thomas Busby's murder and execution are historical records.
 "Anyone who sits dies" is not.
 
 Most of the death stories are retrospective: someone sat in the chair and later died of something unrelated, and the story joined the two events together.
+
+A curse story needs an object you can point to. The chair was old enough, heavy enough, specific enough, and real. People could stand in front of it and confirm that they had not sat down.
 
 ## 6. The Chair
 

@@ -10,7 +10,13 @@ Aksum, northern Ethiopia.
 
 Granite stelae stand in the fields, the tallest more than twenty metres high, like narrow towers carved with false windows and doors.
 
+At dawn in Aksum, mist lies along the ground. The stelae rise out of the grass, their surfaces polished by wind, the false windows and doors casting shallow shadows in the slanting light.
+
 The largest lies on the ground in pieces. It was originally 33 metres tall and weighed hundreds of tonnes.
+
+![Reconstruction of the stelae field and the fallen obelisk at Aksum](../../../assets/inline/aksum-stelae.jpg)
+
+*Reconstruction: the stelae field at Aksum at dawn, with the fallen giant obelisk. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
 
 ## 2. The Empire
 
@@ -25,6 +31,8 @@ In the fourth century King Ezana converted to Christianity. Aksum became one of 
 The stelae were gravestones and displays of power.
 
 They were cut whole from the granite bedrock and raised with rollers and ropes. The largest was never raised; it may have broken during the attempt.
+
+This was not a tower built from blocks. It was a single piece of granite: cut into shape in the bedrock, separated from the hill, moved to its place, and raised.
 
 ## 4. The Queen of Sheba
 

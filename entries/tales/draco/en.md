@@ -24,7 +24,13 @@ The word "draconian" comes from his name.
 
 Around 600 BCE Draco was in the theatre on the island of Aegina.
 
+The theatre at Aegina was built into a hillside, its stone seats rising in rings. The audience sat high and could see the man in the centre clearly.
+
 To show their respect, the audience threw their cloaks and hats at him. So many were thrown that he was buried underneath and suffocated.
+
+![Reconstruction of the theatre at Aegina in the sixth century BCE](../../../assets/inline/draco-theatre.jpg)
+
+*Reconstruction: the audience at the theatre of Aegina throwing cloaks at Draco. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
 
 ## 4. Is It True?
 
@@ -37,6 +43,8 @@ Some have even doubted that Draco existed. "Drakon" means serpent in Greek, and 
 Draco's code was not entirely abolished. Solon later reformed it, keeping the laws on homicide and replacing most of the rest.
 
 "Draconian" survived, used to describe harsh laws.
+
+A word outlived the code, and the empire. No one is judged by Draco's laws today, but his name is still used for punishments that go too far.
 
 ## 6. The Cloaks
 

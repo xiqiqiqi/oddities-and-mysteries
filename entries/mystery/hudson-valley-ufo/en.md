@@ -8,9 +8,15 @@ lang: en
 
 Brewster, New York. A man was outside his house at night.
 
+It was 17 March 1983, a cold night. He later told investigators that the thing came slowly, slowly enough for him to decide it was not an aircraft.
+
 He saw a V-shaped object coming slowly across the sky. It was silent, very large, and pointed downward at the centre.
 
 It stopped about forty feet above him, hovering over a telephone pole.
+
+![Reconstruction of the V-shaped lights over the Hudson Valley, 1983](../../../assets/inline/hudson-valley-1983.jpg)
+
+*Reconstruction: the V-shaped lights seen from a car in 1983. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
 ## 2. The Years
 
@@ -26,6 +32,8 @@ The witnesses included police officers, pilots, journalists and families.
 
 Some stopped their cars to watch. Some called the police. Some followed it.
 
+Some pulled over and switched off their lights. Some followed it for miles until it suddenly accelerated and vanished. Others returned to the same junction and found nothing.
+
 ## 4. The Explanations
 
 The most common explanation is a formation of light aircraft flying at night, their lights making them look like a single object.
@@ -33,6 +41,8 @@ The most common explanation is a formation of light aircraft flying at night, th
 Others have suggested flares, an airship or a hoax.
 
 But hundreds of witnesses over several years make that explanation less than satisfying.
+
+A formation of light aircraft can explain the lights. It does not explain why hundreds of people, over several years, described the same shape: V-shaped, low, silent, following the parkway.
 
 ## 5. No Answer
 
