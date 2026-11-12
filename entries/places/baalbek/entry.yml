@@ -23,7 +23,7 @@ sources:
     url: https://en.wikipedia.org/wiki/Baalbek
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 神庙群、三巨石尺寸与重量、2014 年采石场石块（约 1650 吨）、实验考古学缩尺搬运
+    usage: 神庙群与历史；三巨石 19×4.3×3.6 m、约 800 t；采石场距镇约 800 m 且略高；第五块约 1200 t；2014 年第六块 19.6×6×5.5 m、约 1650 t、Jeanine Abdul Massih 带队（DAI 2014-11-21 新闻稿经维基转述）；柱子序列 1554 年 27 根、1757 年 9 根、1759 地震后 6 根；亚当 1977 年 512 人搬 557 t 估算（经维基转述）；巴克斯神庙 42 柱、拱心石滑移 2 英尺与 1860 年代支撑柱；1835 年人口约 200；Rās al-ʿAyn 泉
   - id: S2
     title: "UNESCO · Baalbek"
     publisher: UNESCO World Heritage Centre
@@ -37,21 +37,21 @@ sources:
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
-    usage: 巨石估重对比图、采石场到台基运输推测图、抬石场景复原图；不是历史照片
+    usage: 巨石估重对比图（五条）、采石场到台基推测图（含亚当 1977 估算）、抬石场景复原图；不是历史照片
   - id: S4
     title: "Baalbek（银版全景）"
     publisher: The Metropolitan Museum of Art
     url: https://www.metmuseum.org/art/collection/search/726482
     year: "1843–44"
     license: CC0 / public domain（Met Open Access）
-    usage: 历史照片：台基长墙银版全景，正文第五节
+    usage: 历史照片：台基长墙银版全景，正文第六节
   - id: S5
     title: "Hexagonal Court, Temple of Jupiter, Baalbek（银版）"
     publisher: The Metropolitan Museum of Art
     url: https://www.metmuseum.org/art/collection/search/761563
     year: "1843"
     license: CC0 / public domain（Met Open Access）
-    usage: 历史照片：六角院银版，正文第五节
+    usage: 历史照片：六角院银版，正文第六节
   - id: S6
     title: "Vue générale des ruines de Baâlbek, prise à l'Est"
     publisher: The Metropolitan Museum of Art
@@ -65,7 +65,7 @@ sources:
     url: https://www.metmuseum.org/art/collection/search/287220
     year: "1850"
     license: CC0 / public domain（Met Open Access）
-    usage: 历史照片：六柱与额枋相册页，正文第六节
+    usage: 历史照片：六柱与额枋相册页，正文第七节
   - id: S8
     title: "Colonnade occidental du Temple de Jupiter, à Baâlbek"
     publisher: The Metropolitan Museum of Art
@@ -79,28 +79,28 @@ sources:
     url: https://www.metmuseum.org/art/collection/search/287225
     year: "1850"
     license: CC0 / public domain（Met Open Access）
-    usage: 历史照片：斜倚台基墙的倒柱，正文第六节
+    usage: 历史照片：斜倚台基墙的倒柱，正文第七节
   - id: S10
     title: "Hémicycle de l'enceinte des Temples, à Baâlbek"
     publisher: The Metropolitan Museum of Art
     url: https://www.metmuseum.org/art/collection/search/287219
     year: "1850"
     license: CC0 / public domain（Met Open Access）
-    usage: 历史照片：半圆外墙与拱龛，正文第六节
+    usage: 历史照片：半圆外墙与拱龛，正文第七节
   - id: S11
     title: "The Temple of the Sun at Baalbec"
     publisher: The Metropolitan Museum of Art
     url: https://www.metmuseum.org/art/collection/search/262989
     year: "ca. 1870"
     license: CC0 / public domain（Met Open Access）
-    usage: 历史照片：六柱与柱础边的人，正文第七节
+    usage: 历史照片：六柱与柱础边的人，正文第九节
   - id: S12
     title: "Temple of Bacchus, Baalbek（水彩）"
     publisher: The Metropolitan Museum of Art
     url: https://www.metmuseum.org/art/collection/search/12168
     year: "1906"
     license: CC0 / public domain（Met Open Access）
-    usage: 历史画作：萨金特水彩，正文第七节
+    usage: 历史画作：萨金特水彩，正文第九节
   - id: S13
     title: "Excursions to Cairo, Jerusalem, Damascus, and Balbec From the United States Ship Delaware"
     publisher: George Jones / Van Nostrand and Dwight（Project Gutenberg #59702）
@@ -108,6 +108,41 @@ sources:
     year: "1836"
     license: Public domain（Project Gutenberg）
     usage: 琼斯游记：泉边扎营与先睡一觉、两英里烈日路、九根柱子、三巨石 64/64/63 英尺、采石场 70 英尺与 1135 吨估重、正文引文
+  - id: S14
+    title: "Stone of the Pregnant Woman in Baalbek, Beirut"
+    publisher: Choinowski / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Stone_of_the_Pregnant_Woman_in_Baalbek,_Beirut.jpg
+    year: "2018"
+    license: CC BY-SA 4.0
+    usage: 现场照片：孕妇石、石右端两个红衣人、石顶黎巴嫩国旗，正文第三节
+  - id: S15
+    title: "Megaliths in Baalbek quarry 09078"
+    publisher: Lodo27 / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Megaliths_in_Baalbek_quarry_09078.JPG
+    year: "2019"
+    license: CC BY-SA 3.0
+    usage: 现场照片：采石场岩壁竖直切槽，正文第三节
+  - id: S16
+    title: "Temple of Jupiter, West wall, Trilithon, Baalbek 20524"
+    publisher: Lodo27 / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Temple_of_Jupiter,_West_wall,_Trilithon,_Baalbek_20524.JPG
+    year: "2019"
+    license: CC BY-SA 3.0
+    usage: 现场照片：三巨石风化面与砌缝近景，正文第二节
+  - id: S17
+    title: "The Mightiest Building Stone Ever Cut, Ruins of Baalbek, Syria（立体卡片）"
+    publisher: Underwood & Underwood / SMU Central University Libraries
+    url: https://commons.wikimedia.org/wiki/File:The_Mightiest_Building_Stone_Ever_Cut,_Ruins_of_Baalbek,_Syria_(29241963231).jpg
+    year: "1900"
+    license: No known copyright restrictions（SMU Central University Libraries）
+    usage: 历史照片：立体卡片正面孕妇石与坐着的人、天际线六柱；背面六语标题，正文第三节
+  - id: S18
+    title: "Bacchus Temple in Baalbek"
+    publisher: Hiba Itani / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Bacchus_Temple_in_Baalbek.jpg
+    year: "2023"
+    license: CC BY-SA 4.0
+    usage: 现场照片：巴克斯神庙柱廊，正文第八节
 cover: ../../../assets/covers/baalbek.jpg
 related:
   - sacsayhuaman

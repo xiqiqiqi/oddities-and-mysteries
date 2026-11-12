@@ -1,42 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
   <title id="title">Baalbek: comparing the weight of the megaliths</title>
-  <desc id="desc">Horizontal bars comparing estimated weights: one trilithon block about 800 tonnes, the Stone of the Pregnant Woman about 1000 tonnes by modern estimate and 1135 tonnes in George Jones's 1836 book, and the block found in 2014 about 1650 tonnes. A human figure gives height scale. All weights are estimates.</desc>
+  <desc id="desc">Horizontal bars comparing estimated weights: one trilithon block about 800 tonnes, the Stone of the Pregnant Woman about 1000 tonnes by modern estimate and 1135 tonnes in George Jones's 1836 book, a fifth block in the same quarry about 1200 tonnes, and the block found in 2014 about 1650 tonnes. A human figure gives height scale. All weights are estimates.</desc>
   <rect width="900" height="520" fill="#F3EEE4"/>
   <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
   <text x="60" y="62" font-family="Georgia, serif" font-size="26" fill="#1D1A17">BAALBEK · THE WEIGHT OF STONES</text>
   <text x="60" y="86" font-family="Georgia, serif" font-size="12" fill="#6B6256">石头的重量 · 条形长度按估计吨数 proportional to estimated tonnes</text>
 
   <g font-family="Georgia, serif">
-    <text x="60" y="132" font-size="11" fill="#1D1A17">三巨石 · 单块 / one trilithon block</text>
-    <rect x="60" y="140" width="291" height="26" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.2"/>
-    <text x="359" y="158" font-size="11" fill="#4A4030">≈800 t</text>
-    <text x="60" y="182" font-size="9" fill="#6B6256">长约 19 m / about 19 m long · 琼斯记 64 英尺 / Jones: 64 ft</text>
+    <text x="60" y="126" font-size="11" fill="#1D1A17">三巨石 · 单块 / one trilithon block</text>
+    <rect x="60" y="134" width="291" height="24" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.2"/>
+    <text x="359" y="151" font-size="11" fill="#4A4030">≈800 t</text>
+    <text x="60" y="172" font-size="9" fill="#6B6256">约 19 × 4.3 × 3.6 m / about 19 × 4.3 × 3.6 m</text>
 
-    <text x="60" y="216" font-size="11" fill="#1D1A17">孕妇石 · 现代估计 / pregnant stone, modern estimate</text>
-    <rect x="60" y="224" width="364" height="26" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.2"/>
-    <text x="432" y="242" font-size="11" fill="#4A4030">≈1,000 t</text>
-    <text x="60" y="266" font-size="9" fill="#6B6256">仍有一边连着岩床 / still joined to the bedrock on one side</text>
+    <text x="60" y="196" font-size="11" fill="#1D1A17">孕妇石 · 现代估计 / pregnant stone, modern estimate</text>
+    <rect x="60" y="204" width="364" height="24" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.2"/>
+    <text x="432" y="221" font-size="11" fill="#4A4030">≈1,000 t</text>
+    <text x="60" y="242" font-size="9" fill="#6B6256">一边仍连岩床 / still joined to the bedrock on one side</text>
 
-    <text x="60" y="300" font-size="11" fill="#1D1A17">孕妇石 · 琼斯 1836 年书中的估计 / Jones's estimate, 1836</text>
-    <rect x="60" y="308" width="413" height="26" fill="#C9B799" stroke="#6B4A32" stroke-width="1.2"/>
-    <text x="481" y="326" font-size="11" fill="#4A4030">1,135 t</text>
-    <text x="60" y="350" font-size="9" fill="#6B6256">70 ft 长、14 ft 宽 / 70 ft long, 14 ft wide · 同一块石头，两个年代的估重</text>
+    <text x="60" y="266" font-size="11" fill="#1D1A17">孕妇石 · 琼斯 1836 年书中的估计 / Jones's estimate, 1836</text>
+    <rect x="60" y="274" width="413" height="24" fill="#C9B799" stroke="#6B4A32" stroke-width="1.2"/>
+    <text x="481" y="291" font-size="11" fill="#4A4030">1,135 t</text>
+    <text x="60" y="312" font-size="9" fill="#6B6256">70 ft 长、14 ft 宽、14 ft 5 in 深 / 70 × 14 × 14 ft 5 in</text>
 
-    <text x="60" y="384" font-size="11" fill="#1D1A17">2014 年发现的石块 / block found in 2014</text>
-    <rect x="60" y="392" width="600" height="26" fill="#B44A32" stroke="#6B4A32" stroke-width="1.2"/>
-    <text x="668" y="410" font-size="11" fill="#4A4030">≈1,650 t</text>
-    <text x="60" y="436" font-size="9" fill="#6B6256">未完全挖出 / never fully excavated</text>
+    <text x="60" y="336" font-size="11" fill="#1D1A17">第五块 · 同一采石场 / fifth block, same quarry</text>
+    <rect x="60" y="344" width="436" height="24" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.2"/>
+    <text x="504" y="361" font-size="11" fill="#4A4030">≈1,200 t</text>
+    <text x="60" y="382" font-size="9" fill="#6B6256">同样从未运走 / also never moved</text>
+
+    <text x="60" y="406" font-size="11" fill="#1D1A17">2014 年发现的第六块 / sixth block, found 2014</text>
+    <rect x="60" y="414" width="600" height="24" fill="#B44A32" stroke="#6B4A32" stroke-width="1.2"/>
+    <text x="668" y="431" font-size="11" fill="#4A4030">≈1,650 t</text>
+    <text x="60" y="452" font-size="9" fill="#6B6256">19.6 × 6 × 5.5 m，未完全挖出 / never fully excavated</text>
   </g>
 
   <g>
-    <circle cx="760" cy="452" r="4" fill="#1D1A17"/>
-    <path d="M760 456 V 472 M760 461 L 753 466 M760 461 L 767 466 M760 472 L 754 482 M760 472 L 766 482" stroke="#1D1A17" stroke-width="1.6"/>
-    <text x="778" y="470" font-family="Georgia, serif" font-size="9" fill="#1D1A17">人 / human</text>
-    <text x="778" y="482" font-family="Georgia, serif" font-size="9" fill="#6B6256">≈1.7 m</text>
+    <circle cx="790" cy="452" r="4" fill="#1D1A17"/>
+    <path d="M790 456 V 472 M790 461 L 783 466 M790 461 L 797 466 M790 472 L 784 482 M790 472 L 796 482" stroke="#1D1A17" stroke-width="1.6"/>
+    <text x="806" y="466" font-family="Georgia, serif" font-size="9" fill="#1D1A17">人 / human</text>
+    <text x="806" y="478" font-family="Georgia, serif" font-size="9" fill="#6B6256">≈1.7 m</text>
   </g>
 
   <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
-    <text x="60" y="470">条形比较的是重量，不是长度。/ Bars compare weight, not length.</text>
-    <text x="60" y="492" fill="#B44A32">所有吨数都是估计值。/ Every tonnage here is an estimate.</text>
+    <text x="60" y="478">条形比较的是重量，不是长度。/ Bars compare weight, not length.</text>
+    <text x="60" y="498" fill="#B44A32">所有吨数都是估计值。/ Every tonnage here is an estimate.</text>
   </g>
 </svg>
