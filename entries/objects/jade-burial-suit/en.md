@@ -12,6 +12,14 @@ Archaeologists arrived and found a large Western Han tomb. The occupant was Liu 
 
 Neither tomb had been looted. They produced a great quantity of objects, and among them were two burial suits made of jade plaques sewn with gold wire.
 
+When the passage was opened, the air inside was cold. A torch beam swung across the floor and caught something green: jade plaques, thousands of them, damp with soil, lying edge to edge like a spilled game set. Only when the beam lifted did the shape appear — a human figure, flattened on the earth, with nothing inside it.
+
+![The collapsed jade suit as found](../../../assets/inline/jade-suit-tomb.jpg)
+
+*Reconstruction: the collapsed jade suit and scattered plaques in the Mancheng tomb, 1968. Not a photograph of the excavation. Oddity Archive, CC BY-SA 4.0.*
+
+Gold wire still linked the plaques. When the light moved, the wire flashed, thin as hair.
+
 ## 2. The suit
 
 Liu Sheng's suit used more than two thousand jade plaques and about a kilogram of gold wire.
@@ -45,6 +53,8 @@ The belief was widespread in the Han period. Jade suits or jade suit plaques hav
 The jade suits did not preserve the bodies.
 
 The remains of Liu Sheng and Dou Wan had long since decayed, leaving only small bone fragments and teeth. Without support, the suits collapsed into piles of plaques; the gold wire was bent and broken. It took archaeologists a long time to clean, number, and restore the pieces.
+
+Each plaque was numbered by its position, then fitted back into the human shape. Some plaques were broken, some wires snapped, and new joins had to be made. In the end the suit stood again, and it was still empty.
 
 In the Three Kingdoms period, Cao Pi ordered an end to jade suits. The reasons were practical: they were enormously expensive and attracted tomb robbers. After that, jade suits gradually disappeared from burials.
 

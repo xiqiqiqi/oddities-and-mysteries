@@ -12,6 +12,12 @@ The plateau rises about thirty metres above the surrounding ground, with river v
 
 The name “Jiaohe” — “intersecting rivers” — comes from this setting.
 
+At dusk, stand at the edge of the plateau. Wind comes up from the valley carrying the smell of dust. Below your feet the cliff drops away, cut by vertical gullies of rainwater. The riverbed opposite is dry and pale. Behind you, streets run inland, their walls reduced to knee-high ridges of earth, every roof gone.
+
+![The plateau and cliffs of Jiaohe](../../../assets/inline/jiaohe-cliffs.jpg)
+
+*Reconstruction: the plateau, cliffs, and earth-cut streets of Jiaohe at dusk. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+
 ## 2. A city dug downward
 
 What makes Jiaohe unusual is how it was built.

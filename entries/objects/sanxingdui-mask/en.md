@@ -10,6 +10,12 @@ lang: en
 
 Workers at a local brick factory were digging for clay when they hit jade and bronze. Archaeologists then excavated two sacrificial pits filled with ivory, jade, bronze, and gold.
 
+The pits were shallow but densely packed. Ivory lay in blackened layers; bronze heads were scattered among them, some with only half a face left. As the workers cleared the soil, an ear emerged first, large and pierced at the edge. Then came the eyes, projecting from the earth. It took several days to lift the whole mask out.
+
+![The bronze mask in the sacrificial pit](../../../assets/inline/sanxingdui-pit-mask.jpg)
+
+*Reconstruction: the bronze mask among ivory, jade, and bronze objects in Sanxingdui pit 2, 1986. Not a photograph of the excavation. Oddity Archive, CC BY-SA 4.0.*
+
 In pit 2, they found a huge bronze mask.
 
 It was not made to be worn; it is too large. It was more likely mounted on a wooden frame as a divine image, or used in ritual.

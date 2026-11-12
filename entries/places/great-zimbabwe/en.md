@@ -12,6 +12,12 @@ Great Zimbabwe lies near Masvingo in southern Zimbabwe.
 
 The site has three parts: the Hill Complex on the hill, the Valley Complex in the valley, and the most famous structure, the Great Enclosure. The Great Enclosure is an oval wall about 250 metres around and more than ten metres high at its highest point.
 
+Late in the afternoon, walking up from the valley, you see the wall before you see the enclosure: not a straight rampart but a slow curve following the ground. Up close, the stones are not dressed flat. Each block sits at its own angle, grass grows in the joints, and the granite is still warm from the sun.
+
+![The Great Enclosure at golden hour](../../../assets/inline/great-zimbabwe-gold.jpg)
+
+*Reconstruction: the Great Enclosure wall, the conical tower, and the surrounding savanna at golden hour. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+
 ## 2. How it was built
 
 The walls are dry-stone.

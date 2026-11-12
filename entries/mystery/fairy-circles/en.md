@@ -12,6 +12,12 @@ In that transition zone, there is a stretch of grassland with an unusual pattern
 
 Local people had seen them long before researchers did. They are now known as fairy circles.
 
+At sunrise, standing at the edge of the grassland, the circles run all the way to the horizon. Dew bends the rim grass white; the centre is dark red sand. The wind is light. The grass moves, the circles do not. Up close, the grass between circles stands taller, and dry stems crack underfoot.
+
+![Fairy circles at dawn in the Namib](../../../assets/inline/fairy-circles-dawn.jpg)
+
+*Reconstruction: a low aerial view of fairy circles and red sand at dawn. Not an aerial photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+
 ## 2. The shape of a circle
 
 A typical fairy circle is about two to twelve metres across.

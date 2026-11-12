@@ -12,6 +12,12 @@ In some regions, a sharp boundary appears ahead. On one side is ordinary seawate
 
 It is not a lake. It is a brine pool.
 
+The submersible moves forward and the lamp dips. The “surface” appears: not reflective, not moving, just darker and flatter than the seafloor around it. The thrusters lift a little sediment, which drifts like white smoke and settles onto the interface, where it stops and does not sink through. The boundary behaves like a film you cannot see.
+
+![A brine pool under submersible lights](../../../assets/inline/brine-pool-floor.jpg)
+
+*Reconstruction: a brine pool, its “shore”, and the mussel beds at the rim under submersible lights. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+
 ## 2. Why it has a shore
 
 The water in a brine pool is far saltier than the surrounding seawater.
@@ -37,6 +43,8 @@ The brine in Atlantis II is noticeably warmer than the surrounding seawater and 
 For most marine animals, a brine pool is dangerous.
 
 The concentration is high enough to draw water out of an animal's body. Oxygen is low, and some pools also contain methane and hydrogen sulphide. A fish, crab, or shrimp that swims in may quickly lose control and sink to the bottom.
+
+In some footage, a fish turns away at the last moment, as if it had hit an invisible wall. Those that do not turn over and sink, landing on white salt mud at the bottom, where they remain without rotting for a long time.
 
 At the edges of some brine pools, researchers have found remarkably intact animal remains, preserved as if pickled. That has made brine pools useful for studying preservation in the deep sea.
 

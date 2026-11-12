@@ -20,6 +20,12 @@ A normal pine grows straight up, with its crown at the top. These do not. Some b
 
 The bends do not all point the same way. Some lean east, some west, some spiral close to the ground. In the same stand there are perfectly straight trees. They grow among the others like a group of people in which a few have suddenly started dancing.
 
+The boardwalk runs through the middle of the stand, narrow enough for one person at a time. Sand and pine needles lie on either side. Fog drifts in from the sea and wraps the lower trunks; the most twisted trees show a bent outline through the fog. Wind moves through the crowns with a muffled sound, like someone pushing an old door a long way off.
+
+![The boardwalk and twisted trunks](../../../assets/inline/dancing-forest-boardwalk.jpg)
+
+*Reconstruction: the boardwalk, sea fog, and knotted pines of the Dancing Forest. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+
 ![Trunk forms in the Dancing Forest](../../../assets/inline/dancing-forest-forms.svg)
 
 *Original schematic: several common trunk shapes in the Dancing Forest. Not a photograph. Oddity Archive, CC BY-SA 4.0.*

@@ -38,6 +38,12 @@ To convince the Cardinal, Jeanne arranged a meeting.
 
 In August 1784, in the gardens of Versailles, the Cardinal met a “Queen” at midnight. She wore a hat and a shawl, spoke to him in the dark, and gave him a letter signed “Marie Antoinette”.
 
+There was no moon that night. Gravel sounded under the Cardinal's shoes as he carried his lantern to the agreed hedge. The woman stood in shadow, her hat pulled low, her shawl up to her chin. She did not curtsy. She simply held out a folded paper. The lantern caught the corner of the letter, and the seal was clear. The Cardinal bowed, and never saw her face.
+
+![The midnight meeting in the gardens of Versailles](../../../assets/inline/necklace-midnight-garden.jpg)
+
+*Reconstruction: the midnight meeting in the gardens of Versailles, August 1784. Not a historical painting. Oddity Archive, CC BY-SA 4.0.*
+
 The “Queen” was a prostitute named Nicole d'Oliva. The letter was forged by Jeanne.
 
 The Cardinal believed it. He bought the necklace in his own name, on credit, and gave it to Jeanne's “messenger”. The necklace was quickly broken up, and the diamonds appeared on the London market.
