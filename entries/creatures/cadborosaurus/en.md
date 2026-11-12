@@ -10,7 +10,13 @@ Cadboro Bay is in British Columbia, Canada, near Victoria.
 
 In the 1930s, local sailors and fishermen began reporting something strange in the bay: a long body, a dark back, and now and then a neck and head breaking the surface.
 
+Mornings in the bay were often foggy. A sailor would see a neck rise, then sink, leaving only a ring on the water.
+
 The newspapers gave it a name: “Cadborosaurus”, or “Caddy”.
+
+![Reconstruction of the long-necked creature in Cadboro Bay](../../../assets/inline/cadborosaurus-bay.jpg)
+
+*Reconstruction: the long-necked creature in Cadboro Bay in the 1930s. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
 
 ## 2. The description
 
@@ -25,6 +31,8 @@ Estimates of its size ranged from five to twenty metres.
 October 1937, the Naden Harbour whaling station.
 
 Workers cutting up a sperm whale found a curled carcass in its stomach. It was about three metres long, with a slender body, a small head, and a pair of flippers.
+
+The stomach had digested half of it. The carcass was curled, the skin pale, the shape unlike a living animal.
 
 They photographed it. In the photographs, it did look like a small sea serpent.
 
@@ -41,6 +49,8 @@ The name “Cadborosaurus” dates from the 1930s.
 In 1995, two researchers proposed that, if the animal existed, it should have the scientific name “Cadborosaurus willsi”. But the name has no specimen behind it and has not been formally accepted by the zoological nomenclature commission.
 
 Without a holotype, there is no species.
+
+A name can be coined. A specimen cannot.
 
 ## 5. What it might have been
 

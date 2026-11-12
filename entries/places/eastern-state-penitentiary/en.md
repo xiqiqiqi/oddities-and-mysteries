@@ -12,11 +12,19 @@ Its architect, John Haviland, designed it as a Gothic castle: pointed arches, to
 
 From the air it looked like a wheel. An octagonal central hall sent seven cellblocks out like spokes. At the end of each block was a skylight known as the Eye of God.
 
+Standing in the centre and looking up, you see the octagonal skylight. Seven corridors run out from your feet, each with its own light at the end.
+
+![Reconstruction of the central rotunda at Eastern State Penitentiary](../../../assets/inline/eastern-state-rotunda.jpg)
+
+*Reconstruction: the abandoned central rotunda of Eastern State Penitentiary. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+
 ## 2. One Man
 
 Eastern State was built for the "Pennsylvania system", also called the separate system.
 
 Each prisoner had a cell to himself. He saw no other prisoner and no family. Exercise meant a small walled yard, open to the sky, barely larger than the cell.
+
+When the door closed, the sound was shut out too. The corridor was left with the footsteps of the man bringing food.
 
 The theory was that silence and solitude would produce repentance. Prisoners were forbidden to speak or write letters. They could read the Bible.
 
@@ -41,6 +49,8 @@ The prison closed in 1971.
 ## 5. The Ruin
 
 After closing, Eastern State stood empty for more than twenty years.
+
+Rain came through the roofs, paint lifted in sheets, and trees grew from the cracks in the exercise yards.
 
 Roofs leaked, paint peeled, trees grew in the exercise yards. It was neither demolished nor restored; it simply stayed abandoned.
 

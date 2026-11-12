@@ -10,7 +10,13 @@ In 1858 the Virginia General Assembly authorized a mental hospital at Weston, in
 
 The architect was Richard Snowden Andrews. He used the Kirkbride plan: long, staggered wings, every room with sunlight, fresh air and a view of the hills. The idea was that the setting itself was part of the treatment.
 
+From the hill it looked like a city laid on its side: blue sandstone walls, rows of windows, wings stepping back one after another, every ward facing the light.
+
 The building was made of local blue sandstone, cut by German and Irish stonemasons. Its designed capacity was 250 patients.
+
+![Reconstruction of a long corridor in the Trans-Allegheny asylum](../../../assets/inline/trans-allegheny-corridor.jpg)
+
+*Reconstruction: a long Kirkbride corridor with an abandoned wheelchair. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
 ## 2. The Civil War
 
@@ -34,6 +40,8 @@ The hospital was built for 250 people.
 
 By the 1950s it held more than 2,400. Beds filled the corridors, wards became dormitories, and privacy and quiet disappeared.
 
+Beds lined the corridors, and bowls and medicine bottles stood on the windowsills. Rooms designed for one person often held three or four.
+
 Overcrowding was common in American state hospitals in the mid-twentieth century. The stone walls, long corridors and barred windows later made an ideal set for ghost stories.
 
 ## 5. 1994
@@ -41,6 +49,8 @@ Overcrowding was common in American state hospitals in the mid-twentieth century
 In 1990 the building was designated a National Historic Landmark.
 
 In May 1994 the hospital closed. The patients were transferred, and the building stood empty.
+
+The lights went out one by one. The corridors were left with bed frames, wheelchairs and patient records on the floor.
 
 In August 2007 the contractor Joe Jordan bought the complex at auction for $1.5 million. In March 2008 it reopened as a historic site. By day it tells the story of the building and its medicine; by night it sells ghosts.
 

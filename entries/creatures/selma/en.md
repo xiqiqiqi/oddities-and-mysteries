@@ -10,6 +10,8 @@ Lake Seljord is in Telemark, Norway. It is about fourteen kilometres long, and a
 
 Forest and steep slopes line both shores. The water is cold and dark. The town lives on farming, forestry, and tourism.
 
+At dusk the lake looks like black glass. When the wind stops, the trees on the shore reach all the way into the water.
+
 From the middle of the eighteenth century, locals began reporting a very large serpent in the lake.
 
 ## 2. Selma
@@ -17,6 +19,10 @@ From the middle of the eighteenth century, locals began reporting a very large s
 Witnesses described a long, dark snake with several humps on its back.
 
 Sometimes it swam on the surface; sometimes only its head showed. As it moved, it left a long wake. Some said it looked like a floating log, until it moved.
+
+![Reconstruction of the serpent in Lake Seljord at dusk](../../../assets/inline/selma-lake-serpent.jpg)
+
+*Reconstruction: Lake Seljord and the legendary serpent at dusk. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
 
 The locals gave it a name: “Selma”.
 
@@ -28,6 +34,8 @@ They said Selma swam towards them. Bjorn struck it with an oar and hit it. The s
 
 The story was retold many times, with more detail each time. Some said the front half rotted; some said it was buried; some said it was sent away to be preserved.
 
+What happened to Bjorn and his mother afterwards, the story does not say. What remains is the front half on the shore, and an afternoon that grew more detailed with every retelling.
+
 ![The sightings, the timeline, and the local coat of arms](../../../assets/inline/selma.svg)
 
 *Original schematic: Lake Seljord, the sighting points, the 1880 event, and the local coat of arms. Not a photograph. Oddity Archive, CC BY-SA 4.0.*
@@ -35,6 +43,8 @@ The story was retold many times, with more detail each time. Some said the front
 ## 4. The evidence
 
 There is no photograph, no skeleton, and no specimen.
+
+Only testimony. Testimony ages, and it grows.
 
 In the twentieth century, people tried sonar, underwater cameras, and bait to find Selma, without result. In the 2010s the town held “search for Selma” events that attracted tourists and media.
 

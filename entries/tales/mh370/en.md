@@ -8,11 +8,19 @@ lang: en
 
 At 00.41, Malaysia Airlines flight MH370 took off from Kuala Lumpur International Airport for Beijing.
 
+The gate was lit at night. The aircraft stood outside the glass, the jet bridge still attached. The passengers had boarded, and the rows of seats were empty.
+
 The aircraft was a Boeing 777-200ER. There were 239 people aboard: 227 passengers and 12 crew. Among the passengers were 154 Chinese citizens.
+
+![Reconstruction of the departure gate at Kuala Lumpur in 2014](../../../assets/inline/mh370-gate.jpg)
+
+*Reconstruction: the night departure gate at Kuala Lumpur International Airport in 2014. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
 At 01.19 the crew made their last radio contact with the ground. The captain is recorded saying, "Good night, Malaysia three seven zero."
 
 At 01.21 the transponder stopped transmitting.
+
+On the screen, the symbol representing the aircraft was still there. It had simply stopped answering.
 
 ## 2. The Turn
 
@@ -33,6 +41,8 @@ The signal carried no position. Investigators used its delay and Doppler shift t
 The last handshake came at about 08.10.
 
 The arc ran south. There were no airports, no islands, only ocean.
+
+The ocean was vast, and the arc was thin. The searchers had to follow an invisible line to find an aircraft that had stopped speaking.
 
 ## 4. The Search
 

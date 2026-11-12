@@ -10,7 +10,15 @@ Moncton is a small city in New Brunswick, Canada.
 
 North of town is a short slope with a sign by the road marking where to park. Visitors drive to the marker, shift into neutral, release the brake, and wait.
 
+At dusk the headlights lie on the road. The slope appears to rise, and the distant tree line sits low, like a horizon pulled crooked.
+
 The car moves. It rolls slowly backward, apparently uphill.
+
+![Reconstruction of a car at Magnetic Hill](../../../assets/inline/magnetic-hill-road.jpg)
+
+*Reconstruction: a car stopped at the marker, with the misleading slope line. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+
+The people inside instinctively hit the brake. Then they let go, and the car moves again.
 
 ## 2. The car moves by itself
 
@@ -31,6 +39,8 @@ A simpler test is to pour water on the road.
 The water runs in one direction. It looks as if it is flowing “up” the slope. But if you measure the road with a spirit level or survey instrument, you find that it actually slopes downward — in the opposite direction from what the eye suggests.
 
 The water is not defying gravity. It is following the real slope.
+
+The “up” your eyes see and the “down” gravity defines are not the same direction here.
 
 ## 4. The optical illusion
 

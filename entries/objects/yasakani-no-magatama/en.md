@@ -12,6 +12,8 @@ During the ceremony, chamberlains carried in two boxes. One held the sword. One 
 
 The jewel is called Yasakani no Magatama, and it is kept at the Kashiko-dokoro, the sanctuary within the Imperial Palace. It has no display case, no photograph, no measured dimensions. The daily rites of the three palace sanctuaries take place there. Ordinary visitors stop at the gate.
 
+The box is small, wrapped in cloth and set on a stand. No one knows whether the jewel inside is a string of beads or a single large magatama, and no one has measured it.
+
 ## 2. The Cave
 
 In the Kojiki, the sun goddess Amaterasu hides in a rock cave because of her brother Susanoo's violence, and the world goes dark.
@@ -19,6 +21,8 @@ In the Kojiki, the sun goddess Amaterasu hides in a rock cave because of her bro
 The gods gather outside. A rooster crows, drums sound, the goddess Ame-no-Uzume dances. A mirror and a string of curved jewels are hung at the cave mouth.
 
 Amaterasu hears the laughter and peeks out. A strong god hidden behind the door takes her hand and pulls her into the light.
+
+The light at the cave mouth, the reflection in the mirror and the click of the beads were all meant to draw her out.
 
 That string of jewels became the Yasakani no Magatama. In myth it was polished by the deity of bead-makers. "Yasakani" does not mean eight feet; it suggests many, or a great length. A magatama is a comma-shaped bead, worn in Japan long before the kofun era.
 
@@ -46,6 +50,10 @@ The jewel's shape, size and material are not on public record.
 
 The usual image is a string of green or blue-green beads on a cord. Some scholars suggest it may be a single large magatama. The Imperial Household Agency does not display it, photograph it or lend it out.
 
+![Reconstruction of the jewel in its box](../../../assets/inline/yasakani-magatama-box.jpg)
+
+*Reconstruction: a magatama on silk inside a lacquered box. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
+
 It is not even on the list of designated cultural properties. The imperial regalia sit outside that system.
 
 ## 6. Belief
@@ -53,6 +61,8 @@ It is not even on the list of designated cultural properties. The imperial regal
 A country locks its most important object in a box, then leaves the box to time.
 
 The unseen jewel stays in place more firmly than any exhibit could.
+
+The box became a boundary: inside are myth and the throne, outside are ordinary corridors and footsteps.
 
 On that day in 2019, the box was carried down a corridor and set down. The ceremony ended. It was carried back. Nobody looked inside.
 

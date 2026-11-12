@@ -12,6 +12,8 @@ The estuary was in Dutch hands. The Dutch made money from the waterway and colle
 
 In 1784, Emperor Joseph II decided to test the arrangement. He demanded that the Dutch open the Scheldt to navigation.
 
+The estuary was wide, the water grey. The banks were low and flat, with windmills turning in the distance. The merchant ship and the warship lay within sight of each other. Neither moved first.
+
 The Dutch refused.
 
 ## 2. The ship of 1784
@@ -21,6 +23,10 @@ The Austrian side sent a ship, the Louis, toward the estuary from the direction 
 It was not a fleet, and not a full-scale invasion. It was a probe: sail in and see whether the Dutch would actually stop it.
 
 The Dutch sent the warship De Dolfijn. The two met in the estuary.
+
+![Reconstruction of the standoff at the Scheldt estuary, 1784](../../../assets/inline/kettle-war-scheldt.jpg)
+
+*Reconstruction: the Austrian ship and the Dutch warship at the Scheldt estuary in 1784. Not a historical painting. Oddity Archive, CC BY-SA 4.0.*
 
 ![Timeline of the Kettle War](../../../assets/inline/kettle-war-timeline.svg)
 
@@ -32,7 +38,11 @@ The Dutch warship fired once.
 
 The shot did not sink the Louis, and no one was killed. It hit a kettle on board — at least, that is how the story is told.
 
+The kettle might have been on deck, or in the galley. The story does not say. It was remembered because it was the only thing the shot hit.
+
 The Louis then lowered its flag and submitted to inspection. The “war” was over.
+
+There was no second shot. Both sides understood that the first one was a statement, not the start of a battle.
 
 ## 4. The kettle
 

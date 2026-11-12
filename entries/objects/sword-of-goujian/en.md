@@ -10,13 +10,21 @@ In 1965, archaeologists excavated a Warring States tomb at Wangshan in Jiangling
 
 Inside was a bronze sword in a lacquered wooden scabbard. By the time it was found, the scabbard had decayed, but the sword was still inside.
 
+The tomb chamber was dark, and the lacquer on the scabbard had begun to lift. When the archaeologists lifted it from the earth, the first thing they saw was the hilt, not the blade.
+
 When it was cleaned, the blade emerged: long, straight, with a dark diamond pattern on the surface and two lines of bird-script inscription near the guard.
+
+![Reconstruction of the Sword of Goujian in the tomb, 1965](../../../assets/inline/goujian-tomb.jpg)
+
+*Reconstruction: the Sword of Goujian in the Chu tomb at Jiangling, 1965. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
 
 ## 2. The sword
 
 The sword is about 55 centimetres long. The guard is inlaid with blue glass and turquoise.
 
 The edge is thin and remarkably well preserved. When excavated, it was still sharp enough to cut paper, and the diamond pattern had not flaked away.
+
+This is not the sharpness of a freshly ground blade. It is what bronze looks like when it has been kept in an oxygen-poor, stable environment.
 
 It is now one of the signature objects of the Hubei Provincial Museum.
 
@@ -29,6 +37,8 @@ It is now one of the signature objects of the Hubei Provincial Museum.
 The inscription is in bird script. It reads:
 
 “King Goujian of Yue made this sword for his own use.”
+
+Eight characters turn a weapon into a person: a ruler who was defeated, and who later took his revenge.
 
 Goujian was a ruler of Yue in the late Spring and Autumn period. Defeated by King Fuchai of Wu, he endured humiliation and planned his revenge; he eventually destroyed Wu. This was his personal sword.
 

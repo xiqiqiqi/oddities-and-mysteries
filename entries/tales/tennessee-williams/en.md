@@ -10,6 +10,12 @@ New York, 60 East 54th Street, the Hotel Elysée.
 
 Tennessee Williams had been living there for some time. He treated the hotel as his home, and his room was full of books, medicine bottles, papers, and a typewriter.
 
+On the desk were a lamp, a typewriter, a few books and several medicine bottles. The eye drops were within reach, and the cap was very small.
+
+![Reconstruction of the hotel room desk in 1983](../../../assets/inline/tennessee-williams-desk.jpg)
+
+*Reconstruction: the desk and typewriter in the Hotel Elysée room in 1983. Not a photograph of the scene. Oddity Archive, CC BY-SA 4.0.*
+
 On 25 February he did not appear as usual. Hotel staff opened the door and found him on the floor, not breathing.
 
 He was 71.
@@ -21,6 +27,8 @@ The medical examiner's initial report said he died of asphyxiation.
 A plastic bottle cap was lodged in his throat. It came from the eye-drop bottle he used regularly. He had a habit: while putting in the drops, he held the cap between his upper and lower front teeth so that his hands were free to squeeze the bottle.
 
 This time, the cap slipped down his throat.
+
+The room was quiet. No one heard him cough, and no one was there to help.
 
 Later reports and autopsy records noted that he had also been taking barbiturates. The drugs may have slowed his reactions, so that he could not cough the cap out.
 
@@ -45,6 +53,8 @@ He lived alone, and there were no signs of a struggle. The police did not suspec
 But why would a 71-year-old man hold a bottle cap between his teeth while using eye drops? Was it habit, a tremor, or the drugs? There is no certain answer.
 
 His death became a strange full stop: a playwright who wrote about desire and failure was carried off by a small piece of plastic.
+
+A few grams of plastic outweighed a lifetime of lines.
 
 ## 5. Afterwards
 
