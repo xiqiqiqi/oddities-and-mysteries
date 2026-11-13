@@ -1,97 +1,57 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
-  <title id="title">The Owlman of Mawnan Smith: the church, the sightings, and the explanations</title>
-  <desc id="desc">A dusk scene of an old church tower with a winged owl-like figure above it, and a timeline of the 1976 sighting and later reports, with possible explanations.</desc>
+  <title id="title">Owlman of Mawnan: sightings and afterlife, 1976 to 2013</title>
+  <desc id="desc">Timeline: 17 April 1976 the Melling girls report a winged figure over the church tower; 1976 the Morgawr pamphlet circulates; 3 July 1976 two camping girls give a second account; 1978, 1979, 1989, 1995 sporadic reports; 2000 an owl-like sound at Mullion; 2009 Lost Tapes episode; 2012 stage play; 2013 film Lord of Tears.</desc>
   <rect width="900" height="520" fill="#F3EEE4"/>
-  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">OWLMAN · MAWNAN SMITH</text>
-  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">1976 / SIGHTINGS / SCHEMATIC</text>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+  <text x="60" y="62" font-family="Georgia, serif" font-size="26" fill="#1D1A17">OWLMAN · MAWNAN 1976–2013</text>
+  <text x="60" y="86" font-family="Georgia, serif" font-size="12" fill="#6B6256">教堂塔顶的影子 · sightings and afterlife</text>
 
-  <g>
-    <rect x="60" y="112" width="460" height="280" fill="#DCE6E8"/>
+  <path d="M70 250 H 840" stroke="#6B4A32" stroke-width="2"/>
+  <g font-family="Georgia, serif">
+    <circle cx="90" cy="250" r="7" fill="#B44A32"/>
+    <text x="66" y="222" font-size="11" fill="#1D1A17">1976-04-17</text>
+    <text x="66" y="286" font-size="9" fill="#4A4030">梅林姐妹塔顶目击</text>
+    <text x="66" y="300" font-size="8" fill="#6B6256">假期提前结束</text>
 
-    <!-- moon -->
-    <circle cx="420" cy="160" r="24" fill="#F3EEE4" stroke="#C9C4B8" stroke-width="1"/>
+    <circle cx="200" cy="250" r="6" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="180" y="222" font-size="11" fill="#1D1A17">1976</text>
+    <text x="176" y="286" font-size="9" fill="#4A4030">Morgawr 小册子</text>
+    <text x="176" y="300" font-size="8" fill="#6B6256">故事有了纸面载体</text>
 
-    <!-- church -->
-    <path d="M230 200 L 260 150 L 290 200 Z" fill="#6B6256"/>
-    <rect x="230" y="200" width="60" height="160" fill="#8C7A52" stroke="#4A4030" stroke-width="1.5"/>
-    <rect x="250" y="300" width="20" height="60" fill="#4A4030"/>
-    <rect x="246" y="230" width="12" height="24" fill="#DCE6E8" stroke="#4A4030" stroke-width="1"/>
-    <rect x="266" y="230" width="12" height="24" fill="#DCE6E8" stroke="#4A4030" stroke-width="1"/>
-    <path d="M260 150 V 136 M254 142 H 266" stroke="#4A4030" stroke-width="2"/>
+    <circle cx="310" cy="250" r="7" fill="#B44A32"/>
+    <text x="286" y="222" font-size="11" fill="#1D1A17">1976-07-03</text>
+    <text x="286" y="286" font-size="9" fill="#4A4030">露营女孩第二份描述</text>
+    <text x="286" y="300" font-size="8" fill="#6B6256">尖耳、钳爪、发光眼</text>
 
-    <!-- ground and graves -->
-    <path d="M60 360 H 520" stroke="#4A4030" stroke-width="2"/>
-    <g fill="#6B6256">
-      <rect x="110" y="340" width="10" height="20"/>
-      <rect x="132" y="344" width="10" height="16"/>
-      <rect x="154" y="338" width="10" height="22"/>
-      <rect x="360" y="342" width="10" height="18"/>
-      <rect x="384" y="338" width="10" height="22"/>
-      <rect x="408" y="344" width="10" height="16"/>
-    </g>
+    <circle cx="430" cy="250" r="6" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="400" y="222" font-size="11" fill="#1D1A17">1978–95</text>
+    <text x="400" y="286" font-size="9" fill="#4A4030">零星目击四次</text>
+    <text x="400" y="300" font-size="8" fill="#6B6256">78 / 79 / 89 / 95</text>
 
-    <!-- trees -->
-    <g fill="#3F4A3A">
-      <path d="M80 360 L 80 300 Q 100 260 130 290 Q 160 270 170 310 L 170 360 Z"/>
-      <path d="M450 360 L 450 300 Q 470 260 490 285 Q 510 270 515 310 L 515 360 Z"/>
-    </g>
+    <circle cx="540" cy="250" r="6" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="520" y="222" font-size="11" fill="#1D1A17">2000</text>
+    <text x="516" y="286" font-size="9" fill="#4A4030">穆利恩墓地夜声</text>
+    <text x="516" y="300" font-size="8" fill="#6B6256">"像猫头鹰的叫声"</text>
 
-    <!-- owlman -->
-    <g fill="#1D1A17">
-      <path d="M248 142 L 214 122 L 232 146 L 222 156 L 250 150 Z"/>
-      <path d="M272 142 L 306 122 L 288 146 L 298 156 L 270 150 Z"/>
-      <ellipse cx="260" cy="146" rx="10" ry="14"/>
-    </g>
-    <g fill="#B44A32">
-      <circle cx="256" cy="144" r="2"/>
-      <circle cx="264" cy="144" r="2"/>
-    </g>
+    <circle cx="650" cy="250" r="6" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="630" y="222" font-size="11" fill="#1D1A17">2009</text>
+    <text x="626" y="286" font-size="9" fill="#4A4030">Lost Tapes 一集</text>
+    <text x="626" y="300" font-size="8" fill="#6B6256">Death Raptor</text>
 
-    <g font-family="Georgia, serif" font-size="8" fill="#1D1A17">
-      <text x="90" y="268">church tower / 教堂塔楼</text>
-      <text x="320" y="150">winged figure / 有翅身影</text>
-      <text x="90" y="382">churchyard / 墓园</text>
-    </g>
-    <path d="M182 264 L 228 264" stroke="#1D1A17" stroke-width="1"/>
-    <path d="M320 154 L 274 148" stroke="#1D1A17" stroke-width="1"/>
-  </g>
+    <circle cx="740" cy="250" r="6" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="720" y="222" font-size="11" fill="#1D1A17">2012</text>
+    <text x="716" y="286" font-size="9" fill="#4A4030">舞台剧写入剧情</text>
+    <text x="716" y="300" font-size="8" fill="#6B6256">Horse Piss for Blood</text>
 
-  <g>
-    <rect x="550" y="112" width="290" height="280" fill="#EFE6D6"/>
-    <text x="570" y="140" font-family="Georgia, serif" font-size="10" fill="#1D1A17">SIGHTINGS / 目击</text>
-
-    <path d="M586 160 V 230" stroke="#1D1A17" stroke-width="1.5"/>
-    <g fill="#B44A32">
-      <circle cx="586" cy="170" r="4"/>
-      <circle cx="586" cy="200" r="4"/>
-      <circle cx="586" cy="230" r="4"/>
-    </g>
-
-    <g font-family="Georgia, serif">
-      <text x="600" y="168" font-size="8" fill="#1D1A17">17 APR 1976</text>
-      <text x="600" y="180" font-size="8" fill="#6B6256">two sisters / 两姐妹</text>
-
-      <text x="600" y="198" font-size="8" fill="#1D1A17">1976–1995</text>
-      <text x="600" y="210" font-size="8" fill="#6B6256">later reports nearby / 附近后续报告</text>
-
-      <text x="600" y="228" font-size="8" fill="#1D1A17">2000s</text>
-      <text x="600" y="240" font-size="8" fill="#6B6256">books and tourism / 书籍与旅游</text>
-    </g>
-
-    <text x="570" y="272" font-family="Georgia, serif" font-size="10" fill="#1D1A17">EXPLANATIONS / 解释</text>
-    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
-      <text x="570" y="296">large owl / 大鸟</text>
-      <text x="570" y="316">heron / 苍鹭</text>
-      <text x="570" y="336">hoax / 恶作剧</text>
-    </g>
-    <text x="570" y="368" font-family="Georgia, serif" font-size="8" fill="#B44A32">no photograph or physical evidence</text>
-    <text x="570" y="380" font-family="Georgia, serif" font-size="8" fill="#B44A32">没有照片或实物证据</text>
+    <circle cx="820" cy="250" r="7" fill="#B44A32"/>
+    <text x="796" y="222" font-size="11" fill="#1D1A17">2013</text>
+    <text x="780" y="286" font-size="9" fill="#4A4030">电影 Lord of Tears</text>
+    <text x="780" y="300" font-size="8" fill="#6B6256">形象代表摩洛</text>
   </g>
 
   <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
-    <text x="60" y="452">The first report came from two sisters, aged twelve and nine.</text>
-    <text x="60" y="470">最早的目击来自一对十二岁和九岁的姐妹。</text>
-    <text x="60" y="494" fill="#B44A32">A large owl, a heron, or a hoax are all possible. / 大鸟、苍鹭或恶作剧都是可能的解释。</text>
+    <text x="60" y="400">解释候选：仓鸮（尼克尔）、雕鸮（范索普）、希尔尔斯恶作剧（梅德韦）。</text>
+    <text x="60" y="418">Candidates: barn owl (Nickell), eagle-owl (Fanthorpe), a Shiels hoax (Medway).</text>
+    <text x="60" y="452" fill="#B44A32">第二份描述出自已知故事的女孩，非独立来源。/ The second account comes from girls who already knew the story.</text>
   </g>
-  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
 </svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Litvinenko: from the Pine Bar teapot to the European Court, 2006 to 2021</title>
+  <desc id="desc">Timeline: 1 November 2006 lunch at Itsu then tea with Kovtun and Lugovoy in the Pine Bar of the Millennium Hotel, fell ill the same day; 3 November admitted to Barnet then University College Hospital; polonium-210 identified; 23 November death; 7 December burial at Highgate in a sealed metal capsule; 2007 extradition of Lugovoy refused by Russia; January 2016 public inquiry concludes the killers probably acted under FSB direction with Putin and Patrushev approval; September 2021 European Court of Human Rights holds Russia responsible.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+  <text x="60" y="62" font-family="Georgia, serif" font-size="26" fill="#1D1A17">LITVINENKO · 2006–2021</text>
+  <text x="60" y="86" font-family="Georgia, serif" font-size="12" fill="#6B6256">从茶壶到法庭 · from a teapot to a court</text>
+
+  <path d="M70 250 H 840" stroke="#6B4A32" stroke-width="2"/>
+  <g font-family="Georgia, serif">
+    <circle cx="90" cy="250" r="7" fill="#B44A32"/>
+    <text x="66" y="222" font-size="11" fill="#1D1A17">2006-11-01</text>
+    <text x="66" y="286" font-size="9" fill="#4A4030">Itsu 午餐后</text>
+    <text x="66" y="300" font-size="9" fill="#4A4030">Pine Bar 喝茶</text>
+    <text x="66" y="314" font-size="8" fill="#6B6256">当日发病</text>
+
+    <circle cx="200" cy="250" r="6" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="176" y="222" font-size="11" fill="#1D1A17">11-03</text>
+    <text x="176" y="286" font-size="9" fill="#4A4030">Barnet 入院</text>
+    <text x="176" y="300" font-size="8" fill="#6B6256">转 UCH 重症</text>
+
+    <circle cx="300" cy="250" r="6" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="276" y="222" font-size="11" fill="#1D1A17">11 月中</text>
+    <text x="276" y="286" font-size="9" fill="#4A4030">检出钋-210</text>
+    <text x="276" y="300" font-size="8" fill="#6B6256">茶壶读数爆表</text>
+
+    <circle cx="400" cy="250" r="7" fill="#B44A32"/>
+    <text x="376" y="222" font-size="11" fill="#1D1A17">11-23</text>
+    <text x="376" y="286" font-size="9" fill="#4A4030">死亡，44 岁</text>
+    <text x="376" y="300" font-size="8" fill="#6B6256">首例钋-210 致死</text>
+
+    <circle cx="500" cy="250" r="6" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="476" y="222" font-size="11" fill="#1D1A17">12-07</text>
+    <text x="476" y="286" font-size="9" fill="#4A4030">海格特下葬</text>
+    <text x="476" y="300" font-size="8" fill="#6B6256">金属舱密封棺</text>
+
+    <circle cx="600" cy="250" r="6" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="576" y="222" font-size="11" fill="#1D1A17">2007</text>
+    <text x="576" y="286" font-size="9" fill="#4A4030">引渡卢戈沃伊</text>
+    <text x="576" y="300" font-size="8" fill="#6B6256">俄宪法拒绝</text>
+
+    <circle cx="700" cy="250" r="6" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="676" y="222" font-size="11" fill="#1D1A17">2016-01</text>
+    <text x="676" y="286" font-size="9" fill="#4A4030">公开调查结论</text>
+    <text x="676" y="300" font-size="8" fill="#6B6256">很可能 FSB / Putin</text>
+
+    <circle cx="810" cy="250" r="7" fill="#B44A32"/>
+    <text x="786" y="222" font-size="11" fill="#1D1A17">2021-09</text>
+    <text x="770" y="286" font-size="9" fill="#4A4030">欧洲人权法院</text>
+    <text x="770" y="300" font-size="8" fill="#6B6256">俄负责，赔 10 万欧元</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="400">钋-210 是α放射体：体外几乎无害，进入体内则致命。</text>
+    <text x="60" y="418">Polonium-210 is an alpha emitter: nearly harmless outside the body, lethal inside it.</text>
+    <text x="60" y="452" fill="#B44A32">两名嫌疑人均否认；俄罗斯拒绝引渡。/ Both suspects deny involvement; Russia refuses extradition.</text>
+  </g>
+</svg>

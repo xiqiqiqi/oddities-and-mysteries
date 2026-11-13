@@ -1,18 +1,18 @@
 channel: tales
-type: story
+type: event
 slug: rajneeshee
-title_zh: 沙拉吧里的细菌
-title_en: The Bacteria in the Salad Bar
+title_zh: 拉杰尼希派：沙拉吧上的沙门氏菌
+title_en: "Rajneeshee: Salmonella on the Salad Bar"
 era: "1984"
 era_en: "1984"
 region: 美国，俄勒冈，达尔斯
 region_en: "The Dalles, Oregon, United States"
-coords: [45.594, -121.178]
+coords: [45.601, -121.183]
 tags:
-  - 拉杰尼希
-  - 沙门氏菌
+  - 拉杰尼希派
   - 生物恐怖
-  - 1984
+  - 沙门氏菌
+  - 选举
   - 俄勒冈
 collections: []
 credibility: verified
@@ -23,25 +23,46 @@ sources:
     url: https://en.wikipedia.org/wiki/1984_Rajneeshee_bioterror_attack
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 事件经过、投毒范围、感染人数与审判结果
+    usage: 公社建镇与接管 Antelope、Share-a-Home、1984-08-29 水杯试验、十家餐厅沙拉吧与"salsa"、751/45/0、选举日高投票率、韦弗演讲、1985-10-02 菌株匹配、ATCC 发票、Sheela/Puja 认罪与服刑、拉杰尼希移民认罪与未被起诉
   - id: S2
-    title: "The 1984 Rajneeshee Bioterrorism Attack: An Example of Biological Warfare by Violent Non-state Actors"
-    publisher: PMC / National Library of Medicine
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12369568/
-    year: "2025"
-    license: 版权所有；仅作事实参考
-    usage: 生物恐怖背景、菌株确认与公共健康影响
+    title: "Oregon Rajneeshpuram（公社航拍）"
+    publisher: SAMVADO Gunnar Kossatz / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Oregon_Rajneeshpuram.jpg
+    year: "1985"
+    license: CC BY-SA 2.0 de
+    usage: 历史照片：公社白色屋顶建筑航拍
   - id: S3
-    title: 场景复原插图与原创示意图
-    publisher: 稀奇奇编辑部（AI 辅助生成）
+    title: "DallesRestaurantsCombined（四家餐厅）"
+    publisher: Cacophony / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:DallesRestaurantsCombined.jpg
+    year: "2008"
+    license: CC BY 3.0
+    usage: 现场照片：四家受影响餐厅外观
+  - id: S4
+    title: "The Town That Was Poisoned（韦弗演讲页）"
+    publisher: Congressman James H. Weaver / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:1985_The_Town_That_Was_Poisoned_Congressman_Weaver_speech_Rajneeshpuram.JPG
+    year: "1985"
+    license: Public domain
+    usage: 档案文件：1985-02-28 众议院演讲印页
+  - id: S5
+    title: "1986 United States Marshals Service report（法警报告页）"
+    publisher: United States Marshals Service / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:1986_United_States_Marshals_Service_report_on_Rajneeshee_crimes.jpg
+    year: "1986"
+    license: Public domain
+    usage: 档案文件：三名女成员引渡与押送安排
+  - id: S6
+    title: 原创时间线示意图
+    publisher: 稀奇奇编辑部
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
-    usage: 封面小镇餐厅与沙拉吧场景复原、事件时间线示意；不是现场照片
+    usage: 1981–1986 时间线示意
 cover: ../../../assets/covers/rajneeshee.jpg
 related:
-  - bre-x
-  - piltdown-man
+  - litvinenko
+  - heavens-gate
 status: review
 featured: false
 translation_status: translated

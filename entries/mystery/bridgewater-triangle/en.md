@@ -1,63 +1,67 @@
 ---
-title: The Swamp in the Triangle
-summary: Southeastern Massachusetts has a roughly 200-square-mile area called the Bridgewater Triangle. At its centre is the Hockomock Swamp, whose name is usually translated as "place where spirits dwell". In 1983 Loren Coleman put the name in a book. Since then UFOs, Bigfoot, giant birds, a huge black dog and mutilated livestock have all been placed inside the swamp.
+title: "Bridgewater Triangle: A Checklist from the Place Where Spirits Dwell"
+summary: "About two hundred square miles of southeastern Massachusetts were named the \"Bridgewater Triangle\" by cryptozoologist Loren Coleman in the 1970s. At its centre lies Hockomock Swamp — the state's largest freshwater swamp, an Algonquian name meaning \"place where spirits dwell,\" a base of King Philip's War and a Native burial ground. Around it runs a checklist of places and reports: UFO lights, bigfoot, giant snakes, thunderbirds with twelve-foot wingspans, cult mutilations, haunted buildings. The checklist is long; the verified entries are zero."
 lang: en
 ---
 
-## 1. The Triangle
+## 1. A triangle that was named
 
-The Bridgewater Triangle lies south of Boston and covers about two hundred square miles.
+The "Bridgewater Triangle" is not a geographic concept but an act of naming: the New England cryptozoologist Loren Coleman drew a region of about 200 square miles in southeastern Massachusetts in the 1970s, gathered the scattered anomaly reports into one name, and later wrote it into Mysterious America.
 
-Its three corners are roughly at Abington, Freetown and Rehoboth. In between are Bridgewater, Brockton, Taunton, Raynham and other towns. At the centre is the Hockomock Swamp.
+Before the naming, the reports existed separately: a light-ball in one town, a bigfoot in one forest, a giant bird in one swamp. After the naming they became facets of "one phenomenon." This is the general grammar of triangle legends: first the scattered points, then the boundary; the boundary then makes the points look related.
 
-The swamp is dark. The water is tea-coloured, cedars and maples grow in it, and their roots stand above the surface. Mosquitoes in summer, wind in winter. A person can lose direction quickly.
+![Entry sign of Freetown-Fall River State Forest](../../../assets/inline/bridgewater-freetown-sign.jpg)
 
-## 2. The Name
+*Site photograph: 2 July 2016, Kenneth C. Zirkel, CC BY-SA 4.0 (Wikimedia Commons). The state forest entry sign with the Massachusetts Department of Conservation and Recreation mark.*
 
-Hockomock comes from an Algonquian word usually translated as "place where spirits dwell".
+## 2. Hockomock: where spirits dwell
 
-In the seventeenth century, Wampanoag people used the swamp as a refuge from colonial troops. Later it sheltered escaped slaves, fugitives and rum-runners. Every era has had someone hiding in it.
+The centre of the triangle is Hockomock Swamp, the largest freshwater swamp in Massachusetts. "Hockomock" is Algonquian for "place where spirits dwell." It served as a strategic base of Metacomet (King Philip) during King Philip's War, for assaults on nearby English settlements; it was also a Native burial ground. War, burial and swamp stacked together keep the wetland uneasy in legend.
 
-In 1983 the cryptozoologist Loren Coleman called the region the Bridgewater Triangle in his book *Mysterious America*. Once it had a name, it had a shape.
+Today the swamp's edge is an abandoned rail right-of-way and a power-line corridor: a gravel road runs straight into a green wall, transmission towers stride over the canopy. Modern infrastructure crosses above the swamp rather than through it — the swamp remains the place that is hard to enter.
 
-In 2013 Aaron Cadieux made a documentary called *The Bridgewater Triangle*.
+![Abandoned rail right-of-way in Hockomock Swamp](../../../assets/inline/bridgewater-hockomock-swamp.jpg)
 
-## 3. The 1970s
+*Site photograph: 24 June 2026, 4300streetcar, CC BY 4.0 (Wikimedia Commons). The abandoned rail bed in the swamp, the gravel road ending in trees.*
 
-In 1976, in Abington, firefighter Phillip Kane said he found a large black dog standing over two dead ponies in his stable.
+![Power-line corridor through Hockomock Swamp](../../../assets/inline/bridgewater-hockomock-powerlines.jpg)
 
-Police received about a thousand calls in three days. An officer fired at the dog and missed.
+*Site photograph: 24 June 2026, 4300streetcar, CC BY 4.0 (Wikimedia Commons). The transmission corridor crossing the swamp, a dirt road running toward the towers.*
 
-On 23 March 1979, local reporter Jerry Lopes said he saw something above the junction of Routes 24 and 106. It was shaped like a home plate, he said, with a red light on top, a white headlight below and a ring of red and white lights around the edge.
+## 3. The places on the list
 
-## 4. 1998
+Inside the triangle runs a frequently cited list of places:
 
-In 1998 cattle and goats nearby were found cut open, their organs removed, with little blood on the ground.
+Profile Rock: a boulder in the state forest where, by legend, the Wampanoag figure Anawan received the lost wampum belt from Philip; legend says a man is seen sitting on the rock, legs crossed or arms outstretched.
+Solitude Stone: an inscribed stone near Forest Street in West Bridgewater, also called the "suicide stone," found near a missing person's body; the inscription is a poem: "All ye, who in future days, Walk by Nunckatessett stream…"
+Bridgewater State University: several buildings and rooms alleged haunted.
+Taunton State Hospital: visitors claim being touched and pulled in certain areas; there are also claims of satanic cult use in the 1960s–70s.
+Hornbine School: a one-room schoolhouse built in the 1840s, in use until 1937, alleged haunted by former inhabitants.
 
-Police suspected a cult. They searched the swamp, questioned people and found no cult and made no arrests.
+What these places share is not evidence but tellability: each has a scene that can be retold.
 
-Veterinarians and biologists usually offer a plainer explanation: scavengers feed on dead animals and can leave wounds that look clean, or someone may have done it to create a scare.
+## 4. The types of report
 
-## 5. The Explanations
+The report types form their own list: UFOs, often bright balls of light or large unusual craft; unnatural animals — panthers and bears not native to the area, giant snakes, enormous vicious dogs; paranormal humanoids — bigfoot, ghosts, poltergeists, shadow people; thunderbirds — giant birds or pterosaur-like flyers with wingspans up to twelve feet, reported among others by Norton Police Sergeant Thomas Downy; cult activity — animal mutilations, two incidents in 1998: an adult cow butchered in the woods and a group of calves grotesquely mutilated in a clearing; and the pukwudgie "little people" of Algonquian folklore, considered dangerous tricksters by the Wampanoag and especially associated with the state forest.
 
-The triangle has many stories: UFOs, Bigfoot, giant birds, ghosts, orbs, mutilated animals.
+Every item has a reporter, a year, a place; none has verifiable physical evidence. The sergeant's report adds weight of credibility, not a new kind of evidence.
 
-They share one thing: no evidence that can be independently tested. The photographs are blurred, the witnesses disagree, the dates do not line up.
+## 5. The curse and the war
 
-That does not mean every witness is lying. People who spend hours in a swamp see things; drivers at night turn lights into shapes; a story heard once can shape what a person thinks they saw.
+Legend attributes the land's unrest to a piece of history: during King Philip's War a revered Wampanoag object — the wampum belt — was lost; legend holds the region's paranormal unrest stems from the belt being lost from the Native people, and there is a further tale of a Native curse on the swamp. Note: the curse account's source reliability is doubtful (the Wikipedia entry itself flags an unreliable source); this article presents it as legend, not as historical causation.
 
-## 6. The Swamp
+The real history is the war itself: King Philip's War of 1675–76 was among New England's bloodiest conflicts, and the swamp entered both sides' memory as base and refuge. Legend translates the war's trauma into the grammar of ghosts.
 
-The triangle is drawn by people. The swamp is real.
+![Schematic of Bridgewater Triangle places and report types](../../../assets/inline/bridgewater-map.svg)
 
-The Hockomock Swamp has been drained, filled, polluted and protected. It is much smaller than it once was, but it is still one of the largest freshwater swamps in New England.
+*Original schematic: the swamp centre, surrounding places and report types. Not a survey map. Oddity Archive, CC BY-SA 4.0.*
 
-The ghost stories will continue. So will the swamp.
+## 6. Why here
 
-![The Bridgewater Triangle, the Hockomock Swamp and the timeline](../../../assets/inline/bridgewater-triangle.svg)
+This is also Lovecraft country: Providence and Fall River lie nearby, and the geography of horror fiction overlaps the geography of legend. In 2021 the audio-drama podcast Bridgewater (created by Aaron Mahnke, starring Misha Collins and others) ran two seasons and twenty-two episodes, turning the triangle into a paranormal professor's investigation site — legend adapted once more into a narrative product.
 
-*Original schematic: the triangle, the Hockomock Swamp and the 1976–1998 timeline. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+Stand on the gravel road at the swamp's edge and all you see is green wall, towers and gravel. Every item on the list happens "a little further in." The triangle's boundary is not on the map; it is in the telling: with each retelling it expands a little outward.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates local reports, witnesses' accounts and ordinary explanations; no verifiable evidence confirms the phenomena. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: factual sources are in the ledger S1–S5 below. Text and original schematics are CC BY-SA 4.0. The three site photographs are credited Wikimedia Commons works, licenses in the ledger. All paranormal items are "reported," not "verified"; the curse account is of doubtful reliability and is presented as legend.

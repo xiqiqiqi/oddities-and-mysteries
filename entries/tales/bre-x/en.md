@@ -1,65 +1,65 @@
 ---
-title: The Gold Mine With No Gold
-summary: In 1993, a small Canadian company announced a giant gold deposit in the Indonesian jungle. Its share price rose from pennies to more than two hundred dollars, and the company was once worth about six billion Canadian dollars. Four years later, an independent review found that the gold in the drill samples had been put there by hand.
+title: "Bre-X: Six Billion Canadian Dollars of Jungle"
+summary: "In 1993 a perpetually loss-making Canadian company bought a jungle claim in Borneo. Early assays showed no gold; the chief geologist said the drill spot came to him in a dream. The resource estimate then \"grew\" from 2 million ounces to 70 million, and the share price peaked at C$286.50. In 1997 independent testing found the core had been salted with gold dust from jewellery and local panned gold. The stock fell to six cents, some 40,000 investors lost everything, and nobody was criminally convicted."
 lang: en
 ---
 
-## 1. Drill cores in the jungle
+## 1. A company that always lost money
 
-Busang lies deep in the jungle of East Kalimantan, far from the nearest city.
+In 1989 David Walsh founded Bre-X Minerals in Calgary. The name came from Bresea, stitched from the first syllables of his sons Brett and Sean. The company listed on the Alberta Stock Exchange and then lost money, consistently.
 
-In 1993, a small Canadian company called Bre-X obtained the exploration rights. The company was based in Calgary and was not well known. It hired a geologist, Michael de Guzman, to run the drilling and sampling.
+In March 1993, on the advice of geologist John Felderhof, it bought a claim in the jungle of Kalimantan, Indonesia, beside the Busang River. Felderhof was not a novice: he had co-discovered the Ok Tedi mine in Papua New Guinea — later declared an environmental disaster.
 
-The drill brought up cores from underground. The cores were cut, numbered, and sent to a laboratory. If the assay showed gold, there might be a gold deposit below.
+![Official map of East Kalimantan, the province of the Busang claim](../../../assets/inline/bre-x-kalimantan-map.jpg)
 
-From 1993 to 1996, Bre-X published results in batches. The numbers were good — too good.
+*Official map: Geospatial Information Agency of Indonesia (BIG), Provincial Map of East Kalimantan, 2022, public domain (Wikimedia Commons). Bre-X's Busang claim lay in this province's interior jungle.*
 
-![How the core samples were salted, and the share price](../../../assets/inline/bre-x-salted.svg)
+## 2. A drill spot from a dream
 
-*Original schematic: the salting of the core samples and the approximate movement of Bre-X's share price. Not an audit report. Oddity Archive, CC BY-SA 4.0.*
+Early tests showed no gold at the site. In December 1993, days before the licence was due to expire, chief geologist Michael de Guzman told Walsh he knew the precise spot to drill at Busang I — the location had come to him in a dream.
 
-## 2. The share price
+In May 1995 drilling began at Busang II, with positive results. In October the company announced significant gold. The stock began to fly.
 
-The news reached Canada, and the stock began to climb.
+## 3. Numbers that grow by themselves
 
-Bre-X shares went from pennies to tens of dollars, then to more than two hundred dollars. At its peak the company was worth about six billion Canadian dollars. Investors included small savers, fund managers, and mining companies.
+The resource estimate inflated at an unnatural rate: about 2 million ounces in early 1995; raised to 30 million that same year; 60 million in 1996; 70 million ounces in 1997, estimated by Kilborn Engineering, a division of SNC-Lavalin of Montreal. Felderhof said the potential reached 200 million ounces — a figure the company itself never confirmed. Had it all been real, Bre-X would have held roughly 8% of the world's gold supply.
 
-The press described Busang as one of the largest gold discoveries in decades. The Indonesian government intervened and demanded a stake. Several international mining companies came to negotiate, among them the American firm Freeport-McMoRan.
+The share price went from penny stock to a split-adjusted C$286.50 in May 1996, a market capitalisation above C$6 billion. April 1996 it listed on the Toronto Stock Exchange, opening at $187.50; in August it added the Montreal Exchange and NASDAQ.
 
-## 3. Where the gold came from
+![Bre-X inflating estimates and the share-price curve, 1995-1997](../../../assets/inline/bre-x-estimates.svg)
 
-The problem was in the samples.
+*Original schematic: the stepwise inflation of claimed resource and the share price from peak to six cents. Oddity Archive, CC BY-SA 4.0.*
 
-The cores handled by de Guzman were salted with gold before they went to the laboratory. At first he used gold from his own wedding ring; when that ran out, he bought gold from local panning operations.
+## 4. A camp in the jungle
 
-The cores were crushed, the gold was mixed into the powder, and the assay came back high. The process went on for more than two years, batch after batch.
+The site sat in lowland rainforest: a drill derrick, core boxes, red laterite, a helicopter strip. A small company could not develop a deposit this size alone, so politics entered: President Suharto first suggested Bre-X share the site with Barrick, in association with his daughter; Bre-X hired Suharto's son Sigit; the businessman Bob Hasan negotiated a structure — Bre-X 45%, Freeport-McMoRan operating, Hasan taking a cut. Announced on 17 February 1997, with Freeport beginning due diligence.
 
-From the outside, it looked like a gold mine. In reality, the gold had been carried in.
+![Reconstruction: the Busang jungle drill camp and core boxes, 1995](../../../assets/inline/bre-x-busang-camp.jpg)
 
-## 4. Something was wrong
+*Reconstruction: an imagined 1995 view of the Busang rainforest drill camp, core boxes and helicopter strip. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
 
-In 1997, Freeport-McMoRan found anomalies during its due diligence.
+On 21 February Placer Dome cancelled its takeover offer. On 10 March Freeport's due diligence came back: the mine contained an insignificant amount of gold.
 
-The company drilled and sampled the site itself, and its assays were far below the numbers Bre-X had published. The Indonesian government sent its own people. An independent consulting firm, Strathcona Mineral Services, was asked to review the data. Its head was the geologist Graham Farquharson.
+## 5. Twenty minutes into the helicopter ride
 
-The conclusion was blunt: the samples had been salted, and Busang held no mineable gold deposit.
+On 19 March 1997, at the Freeport team's request, de Guzman flew to the site by helicopter to discuss the negative results. Twenty minutes into the flight he fell from the helicopter and died — reported as suicide by jumping. Trading in the stock was halted.
 
-## 5. The helicopter
+He left a few hastily scrawled notes and a Rolex. Four days later a body was found in the jungle, mostly eaten by animals, missing hands and feet with cuts "surgically removed"; it showed evidence of strangulation and lacked de Guzman's dentures, inconsistent with the suicide account. The remains lay 400 metres from a logging road and could have been planted; a body had gone missing from the morgue of the town the helicopter flew from; no one saw the body except another Filipino geologist; it was cremated without DNA or dental confirmation. Hence two speculations: he faked his death and took his money to South America, or he was silenced.
 
-In March 1997, on his way to Busang, de Guzman fell from a helicopter and died in the jungle.
+## 6. Salt
 
-The cause of his death was never settled, and it is usually treated as a suicide. After his death, Bre-X's share price collapsed and the company went into bankruptcy. Investors lost most of their savings; some had put in their retirement funds.
+Bre-X demanded more reviews. The independent firm Strathcona Minerals reported on 4 May 1997 that the crushed core samples submitted for testing had been falsified by salting with gold dust. In one hole the gold had been shaved off jewellery; the ratios were made realistic so as not to raise alarm. Over two and a half years de Guzman bought an estimated $61,000 of panned gold from locals to salt the samples.
 
-No one else was charged. The central figure was dead, the company was gone, and the money was gone with it.
+On 7 May the shares fell to six cents, on record volume at the Toronto Stock Exchange — some buyers wanted the certificates as collectibles. On 9 May Bre-X and its sister companies Bresea and Bro-X filed for bankruptcy protection.
 
-## 6. Now
+## 7. Nobody was convicted
 
-No gold mine was ever built at Busang.
+The loss list is long: the Ontario Municipal Employees Retirement Board C$45 million, the Quebec public-sector pension fund C$70 million, the Ontario Teachers' Pension Plan C$100 million; around 40,000 investors lost their entire stakes.
 
-The jungle grew quiet again. The drills were removed and the camp abandoned. The name Bre-X became a case study in Canadian financial history, taught in business schools and cited in regulatory reports.
+In May 1999 the RCMP closed its investigation without charging anyone. The Ontario Securities Commission charged only Felderhof, with insider trading — he had sold C$84 million of stock in 1996 — but there was no evidence he took part in or knew of the fraud. The trial was suspended in 2001, resumed in 2005, and on 9 August 2007 returned not guilty. Walsh died of a brain aneurysm in the Bahamas on 4 June 1998, aged 52. The class action ended in early 2014: lawyers took C$850,000 and the remaining C$3.5 million was donated to a law foundation and a university — too little to distribute meaningfully among 40,000 people.
 
-The numbers are what people remember: six billion dollars, a share price above two hundred dollars, years of drilling. But what made the fraud work was a small amount of gold — and a large number of people who wanted to believe.
+The case produced Canada's securities rule NI 43-101, in force 1 February 2001: mineral disclosure requires qualified persons and standardised reporting. The rule is the real legacy; the gold was not.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the exploration, the share price, the salting, and the investigation; the manner of de Guzman's death remains unresolved, and no criminal charges were proven.
+**Sources and licenses**: factual sources are in the ledger S1–S3 below. Text and original schematics are CC BY-SA 4.0. The province map is an official Indonesian public-domain map; the reconstruction is not a historical photograph. Resource and price figures are as reported by the company or third parties at the time; the salting rests on the Strathcona report and subsequent investigations; the cause of de Guzman's death remains disputed and is presented here in parallel.

@@ -1,63 +1,55 @@
 ---
-title: The Woman Behind the Mask
-summary: In 1979, Japanese schoolchildren passed around a question — if you meet a woman in a mask on your way home, and she asks “Am I pretty?”, what should you say? There is no safe answer. After you reply, she takes off the mask.
+title: "Kuchisake-onna: One Question, Two Answers"
+summary: "In the summer of 1979 Japanese newspapers and weeklies wrote a masked woman into the news: she asks \"Am I pretty?\" Answer no and you die; answer yes and she removes the mask, revealing a mouth slit ear to ear, and asks again. Schoolchildren were escorted home in groups by parent-teacher associations. Her \"origin\" is claimed both from an Edo picture-book and from Gifu in 1978; yokai authors file her as a yokai, folklorists as an urban legend. The question is more stable than any answer."
 lang: en
 ---
 
-## 1. The road home in 1979
+## 1. The summer of 1979
 
-In 1979, a story about the walk home from school spread through primary schools across Japan.
+The modern Kuchisake-onna story originates in 1978, most acceptedly from Gifu Prefecture; but what made it a national phenomenon was the summer of 1979: the Gifu Nichi Nichi Shinbun on 26 January, Shukan Asahi on 23 March, and Shukan Shincho on 5 April reported it in turn, and the rumour spread across the country.
 
-It said that a woman would stand by the road. She wore a white surgical mask and an ordinary coat, and she might be holding scissors. She stopped children and asked:
+The consequence was concrete: primary-school children began walking home escorted in groups by parent-teacher association members. A legend changed real commuting routes and pickup arrangements — one of the few observable social effects of an urban legend.
 
-“Am I pretty?”
+## 2. Her question
 
-If the child said yes, she removed the mask. Beneath it was a face slit from the corners of the mouth to the ears. Then she asked again:
+The image is stable: a tall woman (often 175–180 cm), long straight black hair, pale skin, white hands, considered beautiful except for the mouth; the mouth covered by a mask, fan or handkerchief; carrying scissors, a knife or a scythe-like blade; possessing supernatural speed.
 
-“What about now? Still pretty?”
+The question comes in two rounds. First: "Am I pretty?" (Watashi, kirei?). Answer no: killed on the spot with the scissors, or followed home and killed that night. Answer yes: she removes the mask, revealing a mouth slit from ear to ear, and asks the second round: "Even now?" (Kore demo?). Answer no or scream: killed. Answer a hesitant yes: the corners of your mouth are slit to match hers.
 
-## 2. No safe answer
+Note the structure: both answers lead to harm; the only "safe" reply lies outside yes and no.
 
-The question is frightening because there is no simple correct reply.
+![Diagram of the question, its branches and survival tactics](../../../assets/inline/kuchisake-question.svg)
 
-In some versions, saying “yes” gets the child taken away or attacked with the scissors; saying “no” also angers her. In others, answering “average” makes her pause, giving the child a chance to run.
+*Original schematic: the two-round question's branch outcomes and the legend's survival tactics. Oddity Archive, CC BY-SA 4.0.*
 
-Some versions offer more specific solutions: say “pomade,” or give her candy, and she leaves. These details sound like playground rules rather than real survival advice.
+## 3. Ways out
 
-![The question structure of the Kuchisake-onna legend](../../../assets/inline/kuchisake-onna-diagram.svg)
+The legend offers several escapes, and the versions contradict each other: answer "average," and run while she hesitates; give her hard candy — especially bekko ame, caramelised sugar — and she stops to pick it up; say "pomade" three times; or say "I'm running late," and she bows and apologises and lets you pass.
 
-*Original schematic: the question-and-answer structure of the Kuchisake-onna legend and its spread through schools in 1979. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+The same answer kills in one version and saves in another, which shows these "escapes" are not a rulebook but variants in transmission: every reteller patches the story, and the patches are not compatible with each other.
 
-## 3. Under the mask
+## 4. Her origin
 
-The image is fixed: long hair, a mask, a coat, scissors.
+The origin versions split as well. The common Japanese version: she was mutilated in life by a jealous woman, often a sister, or by a botched plastic-surgery or dental procedure; the common Western version: she was the adulterous wife or mistress of a samurai, and the samurai, on learning of it, slit her mouth ear to ear as punishment. Other versions fill her mouth with sharp teeth. After death she returns as a vengeful spirit, an onryō.
 
-The mask is the key. It hides most of the face and leaves only the eyes, so you cannot tell whether she is smiling. The moment she takes it off is the most frightening part of the story.
+![The Kuchisake-onna figure in the picture-book Ehon Sayoshigure](../../../assets/inline/kuchisake-ehon-sayoshigure.jpg)
 
-In some versions her mouth was cut by a husband or lover; in others it was a failed cosmetic operation; in others she was an ordinary woman disfigured in an accident and later became a vengeful spirit. The origins contradict one another, and none has been verified.
+*Historical image: the figure identified as Kuchisake-onna in Ehon Sayoshigure (1801, Hayami Shungyōsai) — the identification is disputed; scan uploaded by Tanapat, CC BY-SA 4.0 (Wikimedia Commons).*
 
-## 4. The panic of 1979
+This 1801 picture-book image is often cited as evidence that "the Edo period already had Kuchisake-onna": long hair, slit mouth, kimono, twisted posture. But note that identifying it as Kuchisake-onna is itself disputed — the line between image and name was drawn by later hands.
 
-In 1979, the legend spread quickly between Japanese schools.
+## 5. Yokai or urban legend
 
-Children discussed what to do if they met her, drew route maps, and made up response rhymes. Some schools told pupils to walk home in groups, and parents began escorting their children. There were reports of “sightings,” but no reliable evidence.
+The yokai author Matthew Meyer traces the legend's roots to the Edo period (17th–19th centuries); the Japanese-literature professor Iikura Yoshiyuki dates it to the 1970s. Each has grounds: the former on similarity of images and motifs, the latter on checkable print records (those three 1979 reports).
 
-The speed of the spread owed something to the media environment: television, magazines, and word of mouth in school, combined with children's fear of strangers. A simple enough story could travel nationwide very quickly.
+The manga artist Shigeru Mizuki placed her in his yokai encyclopedia; the translator Zack Davisson says: "When Mizuki put her in one of his newest yokai encyclopedias, that's when she was officially considered a yokai." An interesting mechanism of classification: not evidence decides the category, an authoritative catalogue does.
 
-## 5. Where the story comes from
+## 6. Where she went
 
-The roots of Kuchisake-onna reach back to older Japanese ghost stories: women with slit mouths, masked strangers, and monsters who stop travellers at night.
+Afterwards she entered film and games: Studio Ghibli's Pom Poko (1994), a mention in Ring (1998), Carved: The Slit-Mouthed Woman (2007) and two sequels, Kuchisake-onna Returns and a found-footage series (2012); in Ghostwire: Tokyo she has two forms (white coat, white hat, mask / red coat, hat and mask dropped, slit mouth revealed); she appears in Jujutsu Kaisen, Dandadan and Mob Psycho 100; an episode of Constantine is based on her.
 
-But the 1979 version is a classic modern urban legend. It happens on the way home from school, the protagonists are children, the danger comes from an ordinary-looking adult, and the solution is a code word. All of that makes it easy to pass around a playground.
-
-No matching serial attacker was found, and there is no confirmed record of a victim. It looks more like a story told many times than a case with a file.
-
-## 6. Now
-
-Kuchisake-onna has become part of Japanese popular culture. Films, comics, games, and Halloween costumes all use the mask and the scissors.
-
-She is still waiting on the road home, except now she is waiting for an audience. The story survives because it is so easy to tell: one question, one mask, and a choice with no safe answer.
+The image multiplies; the question never changes: "Am I pretty?" A question that demands an evaluation, a structure in which any evaluation wounds. Perhaps that is why she survives: she is not about the mouth, but about the moment of being asked to answer.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the legend, its spread through schools in 1979, and possible origins; it does not identify Kuchisake-onna as a real attacker.
+**Sources and licenses**: factual sources are in the ledger S1–S3 below. Text and original schematics are CC BY-SA 4.0. The picture-book image is a credited Wikimedia Commons scan (CC BY-SA 4.0), source in the ledger; its identification as Kuchisake-onna is disputed and noted here. Kuchisake-onna is an urban-legend / folklore figure, not a verified being; the two origin datings are presented in parallel.

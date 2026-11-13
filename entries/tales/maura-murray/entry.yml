@@ -1,55 +1,61 @@
 channel: tales
-type: event
+type: story
 slug: maura-murray
-title_zh: 雪堆旁的空车
-title_en: The Empty Car by the Snowbank
-era: "2004 年"
+title_zh: 莫拉·默里：十九分钟的空窗
+title_en: "Maura Murray: The Nineteen-Minute Gap"
+era: "2004"
 era_en: "2004"
-region: 美国，新罕布什尔，黑弗里尔
-region_en: "Haverhill, New Hampshire, USA"
-coords: [44.08, -72.03]
+region: 美国，新罕布什尔，黑弗里尔／伍兹维尔
+region_en: "Haverhill / Woodsville, New Hampshire, United States"
+coords: [44.05, -71.98]
 tags:
-  - 莫拉·穆雷
+  - 莫拉·默里
   - 失踪
+  - 悬案
   - 新罕布什尔
-  - 2004
-  - 雪夜
-  - 冷案
+  - 网络侦探
 collections: []
 credibility: disputed
 sources:
   - id: S1
-    title: "New Hampshire · Missing Persons Report, January 2026"
-    publisher: New Hampshire Information and Analysis Center
-    url: https://mm.nh.gov/files/uploads/hsem/documents/nhiac-missing-persons-report.pdf
+    title: "Wikipedia · Disappearance of Maura Murray"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Disappearance_of_Maura_Murray
     year: "2026"
-    license: 新罕布什尔州政府公开资料；仅作事实参考
-    usage: 莫拉·穆雷失踪日期、地点、体貌与仍未结案
+    license: CC BY-SA 4.0
+    usage: 2004-02-09 时间线（ATM、邮件、19:27 报警、路过司机、19:46 到场）、西点转学、2003 信用卡、2 月 5–8 日事件、2009 转悬案组、媒体与社交媒体时代定性
   - id: S2
-    title: "Haverhill Police Department · Press Release and Accident Report"
-    publisher: Haverhill Police Department
-    url: https://www.the107degree.com/s/Haverhill-PD-Accident-Report-and-PR.pdf
+    title: "Maura Murray at an ATM shortly before disappearing"
+    publisher: ATM CCTV / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Maura_Murray_at_an_ATM_shortly_before_disappearing.png
     year: "2004"
-    license: 公共记录；仅作事实参考
-    usage: 2004 年 2 月 9 日事故、弃车、目击者描述与搜救
+    license: Public domain
+    usage: 监控影像：失踪前最后已知影像，含时间戳
   - id: S3
-    title: "A&E · 21 Years Later, Maura Murray's Family Still Seeks Answers"
-    publisher: A&E Television Networks
-    url: https://www.aetv.com/articles/21-years-after-maura-murray-went-missing-her-family-still-seeks-answers
-    year: "2025"
-    license: 版权归 A&E；仅作事实参考
-    usage: 家属近况、案件时间线与公开讨论
+    title: "Woodsville NH US302（主街）"
+    publisher: Royalbroil / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Woodsville_NH_US302.jpg
+    year: "2014"
+    license: CC BY-SA 4.0
+    usage: 现场照片：伍兹维尔主街
   - id: S4
-    title: 场景复原插图与原创示意图
-    publisher: 稀奇奇编辑部（AI 辅助生成）
+    title: "Court Square, Woodsville, NH（1908 明信片）"
+    publisher: Unknown photographer / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Court_Square,_Woodsville,_NH.jpg
+    year: "1908"
+    license: Public domain
+    usage: 历史明信片：河谷小镇全景
+  - id: S5
+    title: 原创时间线示意图
+    publisher: 稀奇奇编辑部
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
-    usage: 封面 112 号公路雪夜车辆场景复原、时间线与消失窗口示意；不是现场照片
+    usage: 2004 年 2 月时间线与十九分钟空窗示意
 cover: ../../../assets/covers/maura-murray.jpg
 related:
-  - dyatlov-pass
-  - mccandless
+  - litvinenko
+  - black-dahlia
 status: review
 featured: false
 translation_status: translated

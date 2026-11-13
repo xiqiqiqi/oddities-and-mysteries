@@ -1,47 +1,61 @@
 channel: mystery
 type: event
 slug: litvinenko
-title_zh: 一杯茶里的钋
-title_en: The Polonium in the Tea
+title_zh: 利特维年科：一把茶壶里的钋
+title_en: "Litvinenko: Polonium in a Teapot"
 era: "2006"
 era_en: "2006"
 region: 英国，伦敦
 region_en: "London, United Kingdom"
-coords: [51.507, -0.128]
+coords: [51.512, -0.149]
 tags:
   - 利特维年科
   - 钋-210
+  - 暗杀
+  - FSB
   - 伦敦
-  - 2006
-  - 中毒
 collections: []
 credibility: verified
 sources:
   - id: S1
-    title: "Wikipedia · Poisoning of Alexander Litvinenko"
+    title: "Wikipedia · Alexander Litvinenko"
     publisher: Wikipedia contributors
-    url: https://en.wikipedia.org/wiki/Poisoning_of_Alexander_Litvinenko
+    url: https://en.wikipedia.org/wiki/Alexander_Litvinenko
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 时间线、毒物、嫌疑人、调查与后续
+    usage: FSB 经历与 1998 记者会、叛逃与庇护、MI6 顾问、著作与"黑手党国家"、2006-11-01 Itsu 与 Pine Bar 会面、钋-210 检出与茶壶读数、死亡与声明、普京回应、金属舱密封棺与海格特葬礼、引渡被拒、2016 调查结论、2021 欧洲人权法院
   - id: S2
-    title: "The Litvinenko Inquiry · Report"
-    publisher: UK Government
-    url: https://www.gov.uk/government/publications/the-litvinenko-inquiry-report
-    year: "2016"
-    license: 版权所有；仅作事实参考
-    usage: 2016 年公开调查的结论与证据
+    title: "Alexandr Litvinenko（肖像）"
+    publisher: Joni-Jo / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Alexandr_Litvinenko.jpg
+    year: "2011"
+    license: CC BY-SA 4.0
+    usage: 肖像照片
   - id: S3
-    title: 场景复原插图与原创示意图
-    publisher: 稀奇奇编辑部（AI 辅助生成）
+    title: "Millennium Hotel, Mayfair（酒店外景）"
+    publisher: P Fletcher / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Millennium_Hotel,_Mayfair.jpg
+    year: "2005"
+    license: CC BY-SA 2.0
+    usage: 现场照片：格罗夫纳广场一侧千禧酒店外景，Pine Bar 所在
+  - id: S4
+    title: "LitvinenkoGrave（海格特墓穴）"
+    publisher: JohnArmagh / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:LitvinenkoGrave.JPG
+    year: "2007"
+    license: Public domain
+    usage: 墓穴照片：白碎石、相框、鲜花与红蜡烛
+  - id: S5
+    title: 原创时间线示意图
+    publisher: 稀奇奇编辑部
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
-    usage: 封面酒店酒吧场景复原、钋-210 与时间线示意；不是现场照片
+    usage: 2006–2021 时间线示意
 cover: ../../../assets/covers/litvinenko.jpg
 related:
-  - dyatlov-pass
-  - tunguska-1908
+  - maura-murray
+  - black-dahlia
 status: review
 featured: false
 translation_status: translated

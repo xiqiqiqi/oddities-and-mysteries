@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Annabelle: from a Raggedy Ann doll to a franchise, 1970s to 2025</title>
+  <desc id="desc">A horizontal timeline: 1970s a student nurse in Hartford reports the doll moving and the Warrens take it; 1980 The Demonologist publishes the story; 2013 The Conjuring introduces the character; 2014 to 2019 three Annabelle films with a porcelain prop; 2019 the Occult Museum closes over zoning; 2025 a viral missing-doll campaign, a tour handler dies, and Matt Rife buys the house and collection.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+  <text x="60" y="62" font-family="Georgia, serif" font-size="26" fill="#1D1A17">ANNABELLE · 1970s–2025</text>
+  <text x="60" y="86" font-family="Georgia, serif" font-size="12" fill="#6B6256">一只布娃娃的履历 · from a cloth doll to a franchise</text>
+
+  <path d="M70 250 H 840" stroke="#6B4A32" stroke-width="2"/>
+  <g font-family="Georgia, serif">
+    <circle cx="90" cy="250" r="7" fill="#B44A32"/>
+    <text x="70" y="222" font-size="12" fill="#1D1A17">1970s</text>
+    <text x="70" y="286" font-size="9" fill="#4A4030">哈特福德护士 Donna</text>
+    <text x="70" y="300" font-size="9" fill="#4A4030">报告娃娃自己移动</text>
+    <text x="70" y="314" font-size="8" fill="#6B6256">Warrens 带走娃娃</text>
+
+    <circle cx="230" cy="250" r="7" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="210" y="222" font-size="12" fill="#1D1A17">1980</text>
+    <text x="210" y="286" font-size="9" fill="#4A4030">《The Demonologist》</text>
+    <text x="210" y="300" font-size="8" fill="#6B6256">Brittle 著，故事成书</text>
+
+    <circle cx="370" cy="250" r="7" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="350" y="222" font-size="12" fill="#1D1A17">2013</text>
+    <text x="350" y="286" font-size="9" fill="#4A4030">《招魂》首次登场</text>
+    <text x="350" y="300" font-size="8" fill="#6B6256">角色进入电影宇宙</text>
+
+    <circle cx="510" cy="250" r="7" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="490" y="222" font-size="12" fill="#1D1A17">2014–19</text>
+    <text x="490" y="286" font-size="9" fill="#4A4030">三部《安娜贝尔》</text>
+    <text x="490" y="300" font-size="8" fill="#6B6256">瓷面道具，非布娃娃</text>
+
+    <circle cx="650" cy="250" r="7" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="630" y="222" font-size="12" fill="#1D1A17">2019</text>
+    <text x="630" y="286" font-size="9" fill="#4A4030">神秘学博物馆关门</text>
+    <text x="630" y="300" font-size="8" fill="#6B6256">分区违规 zoning</text>
+
+    <circle cx="800" cy="250" r="7" fill="#B44A32"/>
+    <text x="780" y="222" font-size="12" fill="#1D1A17">2025</text>
+    <text x="760" y="286" font-size="9" fill="#4A4030">"失踪"病毒式营销</text>
+    <text x="760" y="300" font-size="9" fill="#4A4030">巡展主持人身故</text>
+    <text x="760" y="314" font-size="8" fill="#6B6256">Matt Rife 买下故居</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="400">娃娃本身始终是一只量产的 Raggedy Ann 布娃娃。</text>
+    <text x="60" y="418">The object itself never stopped being a mass-produced Raggedy Ann cloth doll.</text>
+    <text x="60" y="452" fill="#B44A32">超自然说法只有沃伦夫妇的单方面陈述，无佐证。/ The paranormal claims rest on the Warrens' word alone.</text>
+  </g>
+</svg>

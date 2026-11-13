@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Bridgewater Triangle: places and report types in about 200 square miles of southeastern Massachusetts</title>
+  <desc id="desc">A schematic map: Hockomock Swamp at the centre as the largest freshwater swamp and King Philip's War base; Freetown-Fall River State Forest with Profile Rock and pukwudgie reports; Solitude Stone at West Bridgewater; Bridgewater State University and Taunton State Hospital and Hornbine School as haunted-place claims; around them the report types: UFO lights, bigfoot and panthers, giant snakes, thunderbirds with up to 12 foot wingspan, cult animal mutilations.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+  <text x="60" y="62" font-family="Georgia, serif" font-size="26" fill="#1D1A17">BRIDGEWATER TRIANGLE</text>
+  <text x="60" y="86" font-family="Georgia, serif" font-size="12" fill="#6B6256">约 200 平方英里 · places and report types</text>
+
+  <g>
+    <rect x="60" y="112" width="470" height="300" fill="#EFE6D6"/>
+    <path d="M150 190 c 60 -30 160 -20 200 20 c 40 40 20 110 -40 130 c -70 24 -160 10 -190 -40 c -25 -45 -10 -90 30 -110 z" fill="#D8CCB6" stroke="#6B4A32" stroke-width="1.4"/>
+    <text x="180" y="250" font-family="Georgia, serif" font-size="12" fill="#1D1A17">Hockomock Swamp</text>
+    <text x="180" y="268" font-family="Georgia, serif" font-size="9" fill="#4A4030">" spirits dwell" / 灵居之地</text>
+    <text x="180" y="284" font-family="Georgia, serif" font-size="8" fill="#6B6256">King Philip's War 基地 / 墓葬地</text>
+    <circle cx="360" cy="180" r="6" fill="#B44A32"/>
+    <text x="372" y="176" font-family="Georgia, serif" font-size="9" fill="#1D1A17">Freetown 州立森林</text>
+    <text x="372" y="190" font-family="Georgia, serif" font-size="8" fill="#6B6256">Profile Rock / pukwudgie</text>
+    <circle cx="140" cy="330" r="5" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="152" y="334" font-family="Georgia, serif" font-size="9" fill="#4A4030">Solitude Stone（West Bridgewater）</text>
+    <circle cx="330" cy="360" r="5" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="342" y="364" font-family="Georgia, serif" font-size="9" fill="#4A4030">Bridgewater 州立大学</text>
+    <circle cx="430" cy="300" r="5" fill="#C9B799" stroke="#6B4A32"/>
+    <text x="442" y="304" font-family="Georgia, serif" font-size="9" fill="#4A4030">Taunton 州立医院</text>
+    <text x="80" y="392" font-family="Georgia, serif" font-size="8" fill="#6B6256">示意，非测绘图 / schematic, not a survey</text>
+  </g>
+
+  <g font-family="Georgia, serif">
+    <rect x="560" y="112" width="280" height="300" fill="#EFE6D6"/>
+    <text x="580" y="140" font-size="10" fill="#1D1A17">报告类型 / REPORT TYPES</text>
+    <g font-size="9" fill="#4A4030">
+      <text x="580" y="166">UFO 光球与大型飞行器</text>
+      <text x="580" y="186">大脚怪 / 黑豹 / 巨蛇</text>
+      <text x="580" y="206">雷鸟：翼展可达 12 英尺</text>
+      <text x="580" y="226">含 Norton 警佐 Downy 报告</text>
+      <text x="580" y="246">pukwudgie"小人"</text>
+      <text x="580" y="266">邪教动物残害（1998 牛与犊）</text>
+      <text x="580" y="286">闹鬼建筑与骚扰灵</text>
+    </g>
+    <text x="580" y="320" font-size="9" fill="#6B6256">命名：Loren Coleman，1970 年代</text>
+    <text x="580" y="338" font-size="8" fill="#6B6256">coined by Loren Coleman, 1970s</text>
+    <text x="580" y="372" font-size="8" fill="#B44A32">均为"被报告"，非被证实</text>
+    <text x="580" y="388" font-size="8" fill="#B44A32">all reported, none verified</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="452">传说把不安归因于菲利普王战争中丢失的贝珠带与"诅咒"。</text>
+    <text x="60" y="474" fill="#B44A32">该诅咒说法来源可靠性存疑；本文作为传说呈现。/ The curse account is of doubtful reliability; presented as legend.</text>
+  </g>
+</svg>

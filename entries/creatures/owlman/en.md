@@ -1,65 +1,71 @@
 ---
-title: The Owlman on the Tower
-summary: In April 1976, two girls were playing near a church in Cornwall, England. They said a huge winged “bird-man” hovered over the church tower, with red eyes and pincer-like feet. The girls were terrified, and the family cut their holiday short. There were later reports nearby, but no photograph.
+title: "Owlman: The Shadow on the Church Tower"
+summary: "In 1976, in the Cornish village of Mawnan, two girls on holiday said they saw a winged thing hovering over the church tower. Their father cut the holiday short. A man named Tony Shiels took over the story and named it \"Owlman\"; that July, two camping girls supplied a second account. Skeptics say barn owl; others say the whole thing was Shiels' own production. The tower is still there, the owls are still there, and so is the story."
 lang: en
 ---
 
-## 1. 17 April 1976
+## 1. 17 April 1976, above the tower
 
-Mawnan Smith is a small village in Cornwall, England.
+Mawnan, Cornwall: the church of St Mawnan and St Stephen. A granite tower stands at the end of the graveyard, pinnacles at its four corners, louvred openings at the top — gaps left for bells and for birds. The headstones lean; the yews are clipped into dark green walls. Mawnan sits on the south side of Falmouth Bay, opposite the Helford estuary; the village is small and the church is its tallest building. At night, anything above the treeline can only be seen against the tower.
 
-On 17 April 1976, two girls were on holiday there. June was twelve and Vicky was nine. They walked to St Mawnan and St Stephen's Church outside the village.
+On 17 April 1976 two girls on holiday here, June and Vicky Melling, said they saw a large feathered "bird-man" hovering above the tower. They were frightened. Their father, hearing the account, cut the family holiday short. The English countryside of 1976 was changing gear: the postwar generation's children now had cars and holidays, and sighting stories could travel for the first time by family trip. The Mellings were exactly that — passing through on holiday.
 
-The church is old, the tower is tall, and the churchyard is surrounded by trees. The girls said that when they looked up, they saw something on top of the tower.
+![Mawnan church and graveyard: granite tower, leaning headstones, yews](../../../assets/inline/owlman-mawnan-church.jpg)
 
-## 2. The bird-man
+*Site photograph: 1 October 2015, Andrewrabbott, CC BY-SA 4.0 (Wikimedia Commons). The tower and graveyard of St Mawnan and St Stephen's, the location named in the 1976 sighting.*
 
-It was a winged human shape.
+## 2. A man who raises monsters for a living
 
-It hovered above the tower without flapping, as if suspended in the air. The body was human, the head was like an owl, and the eyes were red. Its wings were spread, and its feet were clawed.
+The person who took over the story was Tony "Doc" Shiels. In 1976 he was in the middle of a run of "monster-raising" exploits: the Morgawr sea monster of Falmouth Bay was his stage. He investigated the Mellings' report, said one of the girls drew the creature for him, and gave it a name — Owlman, in Cornish Kowanden.
 
-The girls were terrified and ran back to tell their father. He took them away, and the family ended their holiday early.
+Shiels was not a bystander: he was Cornwall's best-known monster promoter, and the wave of Morgawr sightings, photographs and discussion revolved around him. That same year a pamphlet signed Anthony Mawnan-Peller, Morgawr: The Monster of Falmouth Bay, circulated through Cornwall with the Owlman written into it. Pamphlets were cheap, copyable, and passed around pubs and post offices; they turned speech into citable text, so every later reteller could "read" the same description. The story now had a paper body.
 
-This was the most famous sighting of the “Owlman”.
+![Mawnan Smith in 1977: the Red Lion pub and the road to the church](../../../assets/inline/owlman-mawnan-1977.jpg)
 
-![The timeline and locations of the Owlman sightings](../../../assets/inline/owlman-timeline.svg)
+*Historical photograph: August 1977, Stephen McKay / geograph.org.uk, CC BY-SA 2.0 (Wikimedia Commons). Mawnan Smith the year after the sighting: the thatched Red Lion, bunting, and the sign pointing to the church.*
 
-*Original schematic: the location of the 1976 sighting, the timeline, and the possible explanations. Not a record of a sighting. Oddity Archive, CC BY-SA 4.0.*
+The occult historian Gareth Medway later proposed a colder possibility: the whole affair was a Shiels hoax. His observation is specific — everyone who reported creatures of the kind Shiels promoted was either directly connected to him or told their account to him alone; the others who wrote to newspapers were never interviewed again. In that structure, "witness" and "promoter" are nodes in the same network.
 
-## 3. Afterwards
+## 3. 3 July, two camping girls
 
-After 1976, there were several more reports in the area.
+In Shiels' version, on 3 July 1976 two fourteen-year-old girls, Sally Chapman and Barbara Perry, met it again while camping. Their description: "a big owl with pointed ears, as big as a man," glowing eyes, black pincer-like claws.
 
-Someone said they saw a tall winged figure in the churchyard; someone else said they saw something with red eyes at the edge of the woods. The witnesses' ages, descriptions, and locations differed, but they pointed to the same image: a man-like owl.
+Set the two accounts side by side: the Melling girls said "hovering above the tower"; Chapman and Perry said "as big as a man," near their campsite. The first is in the sky, the second on the ground; the first has no claw detail, the second stresses black pincers. The same "bird-man" changes posture between the two statements.
 
-Most of these stories were spread by a local paranormal researcher, Tony “Doc” Shiels. Shiels was a showman and storyteller who admitted to staging pranks. He made the Owlman famous, and he also weakened its credibility.
+Note the detail: these two girls already knew the Owlman story. The second account is not an independent source; it grew in the shadow of the first.
 
-## 4. What it might have been
+## 4. The tower, the louvres, and the barn owl
 
-The most common explanation is a large bird.
+Joe Nickell's explanation needs no monster: church towers are among the commonest nesting places of barn owls. The louvred openings at the top, the hollow bell chamber, a white shape moving in and out at night — enough to manufacture a "hovering bird-man." Lionel Fanthorpe prefers another candidate: the Eurasian eagle-owl, larger, with real ear tufts, a better fit for "pointed ears."
 
-Cornwall has barn owls and long-eared owls, and also eagle owls that have escaped from captivity. A Eurasian eagle-owl can have a wingspan of more than a metre and a half. Seen from below at dusk, it can look like a winged human figure.
+A barn owl has a heart-shaped white face, flies almost silently, and when startled stands upright and sways — in dusk, that repertoire reads easily as a "hovering human shape." The eagle-owl is larger, with obvious ear tufts and a deep call. Both birds have lived in the churches and barns of the English countryside.
 
-Others suggest a heron. Herons have broad wings, long legs, and a harsh call, and they are not unusual near churchyards.
+![Reconstruction: a winged figure hovering over the church tower at dusk](../../../assets/inline/owlman-churchyard-night.jpg)
 
-Another possibility is a hoax. In 1970s Britain, the tabloids loved paranormal stories, and the local tourist trade needed a little mystery. A man who could make props, plus a few willing storytellers, would be enough to get the story going.
+*Reconstruction: an imagined dusk view of a winged figure hovering over Mawnan church tower in 1976. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
 
-## 5. Winged people
+Put photograph and explanation side by side: the tower is there, the openings are there. The question was never "could a large bird stand on that tower," but "is one glance in dusk enough to identify a species."
 
-The Owlman is not unique.
+## 5. Why a church
 
-In 1966, people in Point Pleasant, West Virginia, reported a “Mothman”: a winged human shape with red eyes. After the sightings, a local bridge collapsed. In the nineteenth century, Britain's “Spring-heeled Jack” was described as a leaping figure.
+A church tower is a special kind of building in the English countryside: tall, hollow, empty at night, opening outward. It is at once landmark, bell tower and bird loft. In folklore it also stands on a boundary — between graveyard and living village, between day and night. A thing "half bird, half man" can almost only appear in such a place: high enough, empty enough, quiet enough, and easy enough to tell stories about.
 
-The same image recurs in different countries: a human shape, wings, red eyes, and the night. It may come from real animals, or from what people see in the dark.
+## 6. Where it went afterwards
 
-## 6. Now
+The reports did not stop in 1976. Sporadic sightings near the church are recorded in 1978, 1979, 1989 and 1995; in 2000 someone heard a "loud, owl-like sound" at night in the Mullion churchyard. The sporadic reports come years apart and never with physical evidence; their function is closer to a reminder: this story is still alive.
 
-Today there is no photograph of the Owlman, no feather, no footprint, and no body.
+It also moved onto screens: a 2009 Lost Tapes episode, "Death Raptor"; an episode of the children's show The Secret Saturdays, "The Owlman Feeds at Midnight"; the 2012 stage play Horse Piss for Blood, which writes it into the plot; and the 2013 Scottish horror film Lord of Tears, where it stands for the Semitic god Moloch.
 
-The church at Mawnan Smith is still there, and so is the churchyard. Occasionally curious visitors come to look at the tower. There is no trace of the Owlman inside.
+![Owlman timeline, 1976 to 2013](../../../assets/inline/owlman-timeline.svg)
 
-The story survived because it happened in the right place: an old church, a churchyard, a dusk, and a sky big enough for anything.
+*Original schematic: the two 1976 sightings, later sporadic reports and screen adaptations. Oddity Archive, CC BY-SA 4.0.*
+
+## 7. The tower is still there
+
+Go to Mawnan today and the tower is the same tower: granite, pinnacles, louvred openings. The headstones lean as before; the yews are still dark green walls. Barn owls still nest in towers like this — one of the most ordinary facts of the English countryside.
+
+The Owlman has no photograph, no specimen, no feather. What it has is a girl's drawing on paper, a pamphlet, two statements, and a tower well suited to standing birds. Take those away and Cornwall's nights still have barn owls; leave them in place and the tower top keeps a shadow forever.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1976 sighting, the later reports, the publicist, and the possible explanations; there is no photograph or physical evidence of the Owlman, and a large bird, a hoax, or misidentification are all possible.
+**Sources and licenses**: factual sources are in the ledger S1–S4 below. Text and original schematics are CC BY-SA 4.0. The church and village photographs are credited Wikimedia Commons / geograph works, licenses in the ledger; the reconstruction is not a photograph of a sighting. Barn-owl / eagle-owl misidentification and a Shiels hoax are all possible explanations, and this article does not choose between them for the reader.

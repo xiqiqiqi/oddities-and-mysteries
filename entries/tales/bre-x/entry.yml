@@ -1,21 +1,21 @@
 channel: tales
 type: story
 slug: bre-x
-title_zh: 金矿里没有金子
-title_en: The Gold Mine With No Gold
+title_zh: Bre-X：六百亿加元的丛林
+title_en: "Bre-X: Six Billion Canadian Dollars of Jungle"
 era: "1993–1997"
 era_en: "1993–1997"
-region: 印度尼西亚，东加里曼丹，布桑
-region_en: "Busang, East Kalimantan, Indonesia"
-coords: [0.5, 116.5]
+region: 印度尼西亚，东加里曼丹，Busang；加拿大，卡尔加里
+region_en: "Busang, East Kalimantan, Indonesia; Calgary, Canada"
+coords: [-0.5, 115.5]
 tags:
-  - 布雷-X
-  - 金矿
-  - 诈骗
-  - 加拿大
-  - 1997
+  - Bre-X
+  - 黄金骗局
+  - 岩芯加盐
+  - 证券欺诈
+  - 婆罗洲
 collections: []
-credibility: verified
+credibility: hoax
 sources:
   - id: S1
     title: "Wikipedia · Bre-X"
@@ -23,25 +23,25 @@ sources:
     url: https://en.wikipedia.org/wiki/Bre-X
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 公司背景、布桑项目、股价、调查与崩盘经过
+    usage: 公司创立与亏损、1993 买矿地、梦中钻孔、储量逐级上调与股价、苏哈托家族与 Freeport 结构、德·古兹曼直升机坠亡疑点、Strathcona 加盐报告、6 分钱与破产、损失清单、RCMP 不起诉与费尔德霍夫无罪、沃尔什之死、集体诉讼终结、NI 43-101
   - id: S2
-    title: "The Independent · Bre-X: world's biggest mining scam"
-    publisher: The Independent
-    url: https://www.independent.co.uk/news/business/brex-worlds-biggest-mining-scam-1260057.html
-    year: "1997"
-    license: 版权所有；仅作事实参考
-    usage: 独立顾问报告、样本造假结论与市场反应
+    title: "Atlas SMP BIG - Kalimantan Timur（官方省图）"
+    publisher: Geospatial Information Agency of Indonesia / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Atlas_SMP_BIG_-_Kalimantan_Timur.svg
+    year: "2022"
+    license: Public domain
+    usage: 东加里曼丹省官方地图，Busang 矿址所在省份
   - id: S3
-    title: 场景复原插图与原创示意图
+    title: 原创示意图与场景复原图
     publisher: 稀奇奇编辑部（AI 辅助生成）
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
-    usage: 封面钻探营地复原与掺金流程、股价示意；不是现场照片
+    usage: 储量膨胀与股价曲线示意、丛林钻探营地场景复原；不是历史照片
 cover: ../../../assets/covers/bre-x.jpg
 related:
   - piltdown-man
-  - crystal-skulls
+  - martian-canals
 status: review
 featured: false
 translation_status: translated

@@ -1,73 +1,67 @@
 ---
-title: The Empty Car by the Snowbank
-summary: On the evening of 9 February 2004, 21-year-old University of Massachusetts nursing student Maura Murray drove her car into a snowbank on Route 112 in Haverhill, New Hampshire. A school bus driver stopped and offered help; she said she did not need it. About ten minutes later police arrived to find the car locked, the airbags deployed and no one inside. Twenty-two years on, she is still on the missing persons list.
+title: "Maura Murray: The Nineteen-Minute Gap"
+summary: "At 15:15:37 on 9 February 2004, Maura Murray, a 21-year-old nursing student, withdrew $280 from an ATM — the last known image of her. At 19:27 that day a resident reported a car off New Hampshire Route 112; a passing motorist spoke with the driver, who declined help and said she had already called for assistance; at 19:46 police arrived and she was gone, the car and her belongings left behind. What happened in those nineteen minutes remains unresolved."
 lang: en
 ---
 
-## 1. 9 February 2004
+## 1. 15:15:37
 
-Classes at the University of Massachusetts Amherst were cancelled that day because of snow.
+The CCTV still carries a camera number at top left, a time at bottom left — 15:15:37 — and a date at bottom right: 2004-02-09. A young woman stands at an ATM; the resolution is low, her face almost blurred away. She withdraws $280. This is the last known image of Maura Murray.
 
-Maura Murray was 21, a nursing student and a former West Point cadet. She packed clothes, toiletries and textbooks into her black 1996 Saturn.
+She was 21, a nursing student at the University of Massachusetts Amherst, having transferred after three semesters of chemical engineering at West Point. Earlier that afternoon she emailed professors and her work supervisor saying she would be away for a week because of a death in the family — relatives later said no one had died. She left campus in her car and drove north, for reasons still unknown.
 
-At a little after 3 p.m. she withdrew $280 from an ATM and bought about $40 worth of alcohol.
+![ATM CCTV still of 9 February 2004, 15:15:37](../../../assets/inline/maura-murray-atm-2004.png)
 
-According to investigation material later made public, she emailed several professors to say there had been a death in the family and she would be away for a few days. No one in her family had died.
+*Surveillance image: 2004-02-09 15:15:37, ATM camera, public domain (Wikimedia Commons). The last known image of Maura Murray before her disappearance; the frame carries its timestamp.*
 
-Then she drove north into New Hampshire.
+## 2. 19:27 and 19:46
 
-## 2. 7.27 p.m.
+Near Woodsville, a village in Haverhill, New Hampshire, a bend on Route 112 (Wild Ammonoosuc Road). At 19:27 a local resident reports a car off the road near her home.
 
-At about 7.27 p.m., on Route 112 near Woodsville, her car went into a snowbank on a sharp curve. The front end was buried. The airbags had deployed, and the windscreen was cracked.
+A passing motorist stops and speaks briefly with the driver, who declines assistance and says she has already called for help. At 19:46 police arrive: the car is there, her belongings are there, she is not.
 
-A school bus driver, Butch Atwood, came along. He stopped and asked if she needed help. She said she had already called a tow truck and did not need anything.
+Nineteen minutes between the call and the police. In those nineteen minutes a living person walked out of the record. No confirmed sighting, no camera, no second car established.
 
-Atwood drove home and called the police.
+![Woodsville main street in 2014](../../../assets/inline/maura-murray-woodsville-road.jpg)
 
-## 3. Ten Minutes
+*Site photograph: 18 August 2014, Royalbroil, CC BY-SA 4.0 (Wikimedia Commons). Woodsville main street; the disappearance site is a bend on Route 112 outside the village.*
 
-By the time Sergeant Cecil Smith arrived, about ten minutes had passed.
+## 3. The four days before
 
-The car was still there. It was locked. The airbags were out. A rag was stuffed into the exhaust pipe.
+Wind the clock back four days and a person gradually losing stability comes into view.
 
-Maura was not there.
+On the night of 5 February, on her campus security shift, she spoke by phone with her sister Kathleen about Kathleen's relationship problems; around 22:30 she broke down in tears at her desk. When her supervisor arrived she was "completely zoned out, no reaction at all." Asked what was wrong, she said two words: "My sister." In 2017 Kathleen explained publicly: discharged from rehab that evening, her fiancé had taken her to a liquor store, triggering a relapse.
 
-There were no clear footprints in the snow. She had not taken her phone charger or much of anything. Her phone and bank account showed no activity afterwards.
+On 7 February her father Fred visited; they looked at cars that afternoon and dined with a friend of hers; she dropped him at his motel, borrowed his Toyota Corolla and returned to a dorm party. She left at 2:30 a.m. on 8 February; at 3:30 she struck a guardrail on Route 9 in Hadley, damaging her father's car by nearly $10,000; the responding report records no field sobriety tests. At 4:49 a call was placed from her father's phone to her boyfriend; participants and content remain unknown.
 
-## 4. The Search
+Further back, in November 2003, she admitted using a stolen credit-card number to order food from several restaurants; the charge was continued and dismissed after three months' good behaviour. These fragments are not an explanation; they are a background: in the four days before she vanished, her sleep, mood and judgement were all descending.
 
-Haverhill police, New Hampshire Fish and Game, the State Police and a helicopter all came.
+## 4. Two faces of a small town
 
-Search dogs lost the scent at the roadside. Searchers went into the woods and checked empty houses, barns and the riverbank along the route.
+Woodsville is a river-valley town: the Connecticut River runs past it, Vermont on the far side. A hand-coloured 1908 postcard looks down from the hill at "Court Square": red roofs, the river bend, distant hills — New England quiet.
 
-They did not find her.
+![1908 postcard of Court Square, Woodsville](../../../assets/inline/maura-murray-woodsville-1908.jpg)
 
-## 5. The Explanations
+*Historical postcard: 1908, "Court Square, Woodsville, N.H.", public domain (Wikimedia Commons). A hand-coloured panorama of the river-valley town.*
 
-In twenty-two years, several explanations have been offered.
+Today's Woodsville main street is brick buildings, power lines, parked cars. The disappearance site is not in town but on an unlit bend outside it. A place ordinary enough to never appear in a guidebook became the coordinate of one of America's most famous missing-person cases.
 
-She may have walked into the woods, become lost and died of exposure somewhere that was never found. But the area was searched, and no body was found.
+## 5. A cold case and the internet
 
-She may have got a lift and left to start another life. But her family, friends, bank account and social security records show no trace of her since.
+Police initially considered voluntary departure: she had made unannounced travel preparations, and there was no immediate evidence of foul play. In 2009 the case moved to New Hampshire's cold case unit, treated as a "suspicious" missing-person investigation. Years of searches, public appeals and reviews produced no confirmed sighting and no definitive lead.
 
-She may have been the victim of a crime. But there were no signs of a struggle at the scene and no suspect.
+The case ran on 20/20 and Disappeared; a 2017 Oxygen documentary series described it as one of the first major crime mysteries to unfold in the early social-media era: forums, blogs and amateur detectives magnified every CCTV frame and phone record. The family maintains mauramurraymissing.org. The internet gave the case unprecedented attention, and unprecedented noise.
 
-She may have taken her own life. But the police press release only described her as "endangered and possibly suicidal"; that is not a conclusion.
+![Maura Murray timeline, February 2004](../../../assets/inline/maura-murray-timeline.svg)
 
-Every explanation has to account for the same thing: how a person can disappear in ten minutes from a road with a car, a witness and a police officer on the way.
+*Original schematic: the four days before, the fixed times of 9 February, and the nineteen-minute gap between 19:27 and 19:46. Oddity Archive, CC BY-SA 4.0.*
 
-## 6. The Empty Car
+## 6. Nineteen minutes
 
-The case became one of the best-known disappearances of the internet age. Podcasts, documentaries, forums and amateur detectives have produced their own versions.
+The hardest things in this case are a few timestamps: the ATM at 15:15:37, the call at 19:27, the arrival at 19:46. They are three nails pinning a day to the record; between the nails, there is nothing.
 
-Her father, Fred Murray, has kept looking. In the New Hampshire missing persons report of January 2026, her name is still there, with her age given as 43.
-
-The car is still in evidence. She is not.
-
-![The Maura Murray timeline, Route 112 and the ten-minute window](../../../assets/inline/maura-murray.svg)
-
-*Original schematic: the 9 February 2004 timeline, the crash site and the ten-minute window. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+Someone spoke with her in those nineteen minutes. The last thing that person heard was "I've already called for help." After that she walked out of the frame, out of the record, out of every search's range. The bend on Route 112 is still there, the place the car stood is still there; only the person left nothing that can be pinned down.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates police records, family accounts and online speculation; no evidence establishes where she went. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: factual sources are in the ledger S1–S5 below. Text and original schematics are CC BY-SA 4.0. The ATM surveillance is public domain; the Woodsville photograph and postcard are credited / public-domain Wikimedia Commons works, licenses in the ledger. The cause of the disappearance is unresolved; "voluntary departure" and "suspicious" are police characterisations at different stages, presented here in parallel without adjudication.

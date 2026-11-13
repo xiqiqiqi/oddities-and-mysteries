@@ -1,19 +1,19 @@
 channel: objects
 type: object
 slug: annabelle-doll
-title_zh: 玻璃柜里的娃娃
-title_en: The Doll in the Glass Case
-era: "1968"
-era_en: "1968"
+title_zh: 安娜贝尔：一只布娃娃的履历
+title_en: "Annabelle: The Résumé of a Cloth Doll"
+era: "1970 年代至今"
+era_en: "1970s to present"
 region: 美国，康涅狄格，门罗
 region_en: "Monroe, Connecticut, United States"
-coords: [41.332, -73.209]
+coords: [41.332, -73.208]
 tags:
   - 安娜贝尔
   - 沃伦夫妇
-  - 招魂
-  - 布娃娃
-  - 灵异博物馆
+  - 闹鬼娃娃
+  - 招魂宇宙
+  - 民俗
 collections: []
 credibility: folklore
 sources:
@@ -23,25 +23,39 @@ sources:
     url: https://en.wikipedia.org/wiki/Annabelle_(doll)
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 1968 年事件、沃伦夫妇的说法、博物馆与电影改编
+    usage: 护士 Donna 的说法、沃伦夫妇的占有与陈列、各项超自然指控、《The Demonologist》、电影改用瓷面道具的原因、2019 关门、2025 失踪营销与巡展、Matt Rife 购入、学者批评
   - id: S2
-    title: "NESPR · Warrenology and the Annabelle doll"
-    publisher: New England Society for Psychic Research
-    url: https://warrens.net/event/warrenology-evening-with-annabelle/
-    year: "2026"
-    license: 版权归 NESPR；仅作事实参考
-    usage: 沃伦夫妇组织的说法、娃娃现状与展出信息
+    title: "Raggedy Ann - THE REAL ANNABELLE 2（教堂形木盒）"
+    publisher: OVERNIGHT / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Raggedy_Ann_-_THE_REAL_ANNABELLE_2.jpg
+    year: "2025"
+    license: CC BY 4.0
+    usage: 现场照片：真实布娃娃与教堂形木盒、十字架、服务铃
   - id: S3
-    title: 场景复原插图与原创示意图
-    publisher: 稀奇奇编辑部（AI 辅助生成）
+    title: "Raggedy Ann - THE REAL ANNABELLE 1（柜中特写）"
+    publisher: OVERNIGHT / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Raggedy_Ann_-_THE_REAL_ANNABELLE_1.jpg
+    year: "2025"
+    license: CC BY 4.0
+    usage: 现场照片：柜中娃娃与手写警告牌
+  - id: S4
+    title: "Annabelle Doll prop 01（电影道具）"
+    publisher: PvOberstein / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Annabelle_Doll_prop_01.jpg
+    year: "2019"
+    license: CC0
+    usage: 现场照片：2019 宣传活动观众与瓷面道具合影；道具非真实娃娃
+  - id: S5
+    title: 原创时间线示意图
+    publisher: 稀奇奇编辑部
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
-    usage: 封面博物馆玻璃柜场景复原、事件时间线与电影对照示意；不是文物照片
+    usage: 1970 年代至 2025 时间线示意
 cover: ../../../assets/covers/annabelle-doll.jpg
 related:
-  - kuchisake-onna
-  - black-eyed-children
+  - busby-chair
+  - hope-diamond
 status: review
 featured: false
 translation_status: translated

@@ -1,65 +1,61 @@
 ---
-title: The Polonium in the Tea
-summary: On 1 November 2006, Alexander Litvinenko, a former Russian intelligence officer living in exile in Britain, drank a cup of green tea at the Millennium Hotel in London. Three weeks later he was dead. Doctors found polonium-210 in his body, a highly radioactive isotope. The poison came from the tea, and across the table sat two Russians.
+title: "Litvinenko: Polonium in a Teapot"
+summary: "On 1 November 2006 Alexander Litvinenko, a defected former FSB officer living in London, drank tea with two former colleagues in the Pine Bar of the Millennium Hotel. He fell ill the same day and died twenty-two days later of polonium-210 — the first recorded lethal polonium poisoning. A teapot in the hotel gave an off-the-charts reading. A British inquiry concluded the killers \"probably\" acted under FSB direction with Putin's approval; Russia refused extradition. In 2021 the European Court of Human Rights held Russia responsible."
 lang: en
 ---
 
-## 1. 1 November 2006
+## 1. A man who knew too much
 
-London, Grosvenor Square, the Millennium Hotel.
+Alexander Litvinenko, born in Voronezh in 1962, came up through the Soviet Interior Troops, then KGB military counter-intelligence, and after the USSR's collapse worked organised crime for the Federal Security Service (FSB). He had seen the inside of the system: protection money, "roofs" (krysha), police and gangs moving from competition into cooperation.
 
-Litvinenko walked into the hotel's Pine Bar to meet two Russians: Andrei Lugovoi and Dmitry Kovtun. They talked about business and about Litvinenko's work.
+In November 1998 he and four colleagues held a press conference, faces masked or in dark glasses, accusing their superiors of ordering the assassination of the oligarch Boris Berezovsky. He was dismissed, arrested, acquitted, re-arrested. In October 2000 he left Moscow with his family, transited Istanbul, and claimed asylum at Heathrow; it was granted in May 2001. In London he worked as a journalist and author and as a consultant to British intelligence — the 2015 public inquiry confirmed he had been recruited by MI6 to supply information on senior Kremlin figures and their links to Russian organised crime.
 
-He ordered a cup of green tea. No sugar.
+He wrote Blowing Up Russia and Lubyanka Criminal Group, accusing the FSB of staging the 1999 apartment bombings to bring Putin to power; he coined the term "mafia state." In October 2006 he became a British citizen.
 
-A few days later he began vomiting and suffering abdominal pain. His hair started to fall out. He was taken to hospital, and his condition deteriorated quickly.
+![Portrait of Alexander Litvinenko](../../../assets/inline/litvinenko-portrait.jpg)
 
-## 2. Three weeks
+*Portrait photograph: 27 April 2011, Joni-Jo, CC BY-SA 4.0 (Wikimedia Commons). Litvinenko in a white uniform.*
 
-At first the doctors suspected food poisoning or an infection.
+## 2. Two meals on 1 November
 
-His white blood cell count fell, his platelets dropped, and he bled from his throat and digestive tract. They ran tests but could not find a common cause.
+At midday on 1 November 2006 he lunched at the Itsu sushi restaurant on Piccadilly with an Italian acquaintance, Mario Scaramella, who claimed information on the assassination of the journalist Anna Politkovskaya, shot dead three weeks earlier.
 
-On 23 November, Litvinenko died. Autopsy and later tests found a large amount of polonium-210 in his body. It is an artificially produced radioactive isotope with a half-life of about 138 days, releasing energy mainly as alpha particles.
+Afterwards he went to the Millennium Hotel on Grosvenor Square and took tea in the Pine Bar with two former agents: Dmitry Kovtun and Andrey Lugovoy. Later that day he suddenly fell ill.
 
-If polonium-210 is swallowed, it deposits in the liver, spleen, and bone marrow and causes severe radiation damage.
+![The Millennium Hotel frontage on Grosvenor Square](../../../assets/inline/litvinenko-millennium-hotel.jpg)
 
-![The properties of polonium-210, its route into the body, and the timeline](../../../assets/inline/litvinenko-polonium.svg)
+*Site photograph: June 2005, P Fletcher, CC BY-SA 2.0 (Wikimedia Commons). The Millennium Hotel frontage on Grosvenor Square; the Pine Bar is inside it.*
 
-*Original schematic: the decay properties of polonium-210, how it enters the body, and the timeline of 2006. Not a photograph. Oddity Archive, CC BY-SA 4.0.*
+## 3. The teapot
 
-## 3. Polonium
+On 3 November he was admitted to Barnet General Hospital, then transferred to intensive care at University College Hospital. The Health Protection Agency found significant amounts of polonium-210 in his body — a rare, highly toxic radionuclide.
 
-Polonium is not a common poison.
+Investigators found a "hot" teapot at the Millennium Hotel with an off-the-charts polonium-210 reading. Kovtun had also left polonium traces in the house and car he used in Hamburg, according to a leaked U.S. diplomatic cable. Polonium-210 is an alpha emitter: a sheet of paper stops its radiation, and outside the body it is nearly harmless; inside the body it deposits all of its energy in tissue. It is not a poison meant to frighten. It is a poison meant to make certain.
 
-It barely occurs naturally; it has to be made in a reactor or accelerator. Its radioactivity is intense, but alpha particles travel only a few centimetres in air and are not dangerous outside the body. The danger is swallowing or inhaling them.
+## 4. Twenty-three days
 
-The polonium in Litvinenko's body was traced to the tea. Investigators found traces in the hotel bar, the teapot, the cup, his home, and on people who had been in contact with him.
+On 22 November his medical team reported a "major setback" from heart failure or an overnight heart attack. On 23 November he died, aged 44. Guinness World Records lists him as the first known victim of lethal polonium-210-induced acute radiation syndrome.
 
-## 4. The investigation
+Before his death he left a statement naming Putin as directly ordering his assassination; his friend Alex Goldfarb said the statement was written "in good English" from Litvinenko's dictation, read back to him, agreed word by word and signed. Putin's public response the next day: "Mr Litvinenko is, unfortunately, not Lazarus."
 
-British police named Lugovoi and Kovtun as suspects.
+The autopsy followed on 1 December; on 7 December he was buried in Highgate Cemetery (West). The body was placed in a metal capsule and the coffin sealed — the remains themselves were radioactive. The funeral followed his wish for a non-denominational service: an Orthodox priest and an imam prayed at the same grave.
 
-The investigation found polonium traces on the same table where Litvinenko had drunk his tea. The two men had flown from Moscow to London, stayed a few days, and flown back.
+## 5. Who poisoned him
 
-Britain requested their extradition. Russia refused, citing a constitutional ban on extraditing its own citizens. Lugovoi later won a seat in the State Duma and gained political immunity.
+British police named Lugovoy as the chief suspect and Kovtun as the second. In May 2007 Britain sought Lugovoy's extradition; Russia refused, its constitution barring the extradition of its citizens. Lugovoy called the charges "politically motivated."
 
-## 5. The 2016 inquiry
+A public inquiry opened in January 2015; in January 2016 it concluded that the murder was carried out by the two suspects, who "probably" acted under FSB direction and with the approval of Putin and then FSB director Nikolai Patrushev. In September 2021, in Carter v Russia, the European Court of Human Rights held Russia responsible for Litvinenko's death and ordered €100,000 in damages.
 
-In 2016, Britain published the report of a public inquiry.
+![Litvinenko case timeline, 2006 to 2021](../../../assets/inline/litvinenko-timeline.svg)
 
-The report concluded that the operation was planned by the Russian Federal Security Service and carried out by Lugovoi and Kovtun, and that it was “probably approved” by Putin. The report had no direct evidence that Putin gave the order, but reached that conclusion from intelligence and witness testimony.
+*Original schematic: from the Pine Bar teapot to the European Court of Human Rights. Oddity Archive, CC BY-SA 4.0.*
 
-The Russian government rejected the finding, calling the inquiry politicised.
+## 6. The grave at Highgate
 
-## 6. Now
+The grave lies in the green shade of Highgate's west side: a wooden frame around a rectangle of white gravel, a few small plants, and at one end a framed photograph — him in white — beside a red candle and a bunch of flowers. Ivy and wild green close in around it.
 
-Litvinenko is buried in north London. His coffin is lined with lead to contain the radiation.
-
-The case is the first known fatal polonium poisoning. It changed the way states thought about radioactive assassination, and it forced London's public spaces through a large-scale radiation screening for the first time.
-
-One cup of tea, three weeks, a former agent dead in a foreign country. The case has a legal conclusion. Politically, it is still open.
+A teapot's reading, a sealed coffin, a constitutional clause refusing extradition, a "probably" in an inquiry report: these are the physical chain this murder left behind. The photograph on the grave needs no radiation protection; what needs protection are the names still being asked about.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the timeline, the medical and physical facts, the British inquiry's conclusion, and Russia's denial; the 2016 finding was that the operation was “probably approved”, not that direct evidence proved who gave the order.
+**Sources and licenses**: factual sources are in the ledger S1–S5 below. Text and original schematics are CC BY-SA 4.0. The portrait, hotel frontage and grave photographs are credited Wikimedia Commons works, licenses in the ledger. The inquiry's wording is "probably," and this article keeps that qualifier; both suspects deny involvement and Russia refuses extradition, presented here in parallel.

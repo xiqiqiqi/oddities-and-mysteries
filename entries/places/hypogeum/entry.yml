@@ -1,18 +1,18 @@
 channel: places
 type: place
 slug: hypogeum
-title_zh: 地下的三层神庙
-title_en: The Temple Beneath the Ground
+title_zh: 哈尔萨夫列尼地下宫：凿进岩石的三层
+title_en: "The Hal Saflieni Hypogeum: Three Levels Cut in Rock"
 era: "约公元前 4000–2500 年"
-era_en: "about 4000–2500 BCE"
+era_en: "c. 4000–2500 BC"
 region: 马耳他，保拉
 region_en: "Paola, Malta"
-coords: [35.869, 14.506]
+coords: [35.8696, 14.5068]
 tags:
-  - 哈尔萨夫利恩
-  - 地下神庙
+  - 地下宫
   - 马耳他
-  - 新石器时代
+  - 新石器
+  - 岩凿建筑
   - 世界遗产
 collections: []
 credibility: verified
@@ -23,25 +23,39 @@ sources:
     url: https://en.wikipedia.org/wiki/%C4%A6al_Saflieni_Hypogeum
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 发现、结构、年代、壁画、发现物与保护
+    usage: 1902 发现与隐瞒、马格里发掘与遗物丢弃、报告遗失、扎米特抢救、1908 开放与 1912 玛丽王后、三层与工具、约 7000 遗骸、红赭石螺旋、至圣所冬至朝向、1990–93 发掘与关闭、每日 80 人、2014 声学、2017 重开、1980 世界遗产、村名含义
   - id: S2
-    title: "Wikipedia · Paola, Malta"
-    publisher: Wikipedia contributors
-    url: https://en.wikipedia.org/wiki/Paola,_Malta
-    year: "2026"
-    license: CC BY-SA 4.0
-    usage: 所在地与城市背景
+    title: "Hypogeum enter（入口墙）"
+    publisher: Andrey BG / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Hypogeum_enter.JPG
+    year: "2011"
+    license: Public domain
+    usage: 现场照片：地面入口墙与街景
   - id: S3
-    title: 场景复原插图与原创示意图
-    publisher: 稀奇奇编辑部（AI 辅助生成）
+    title: "Hal hypogeum（剖切模型）"
+    publisher: 原上传 320rwekfpl / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Hal_hypogeum.jpg
+    year: "2006"
+    license: Public domain
+    usage: 现场照片：瓦莱塔博物馆剖切模型
+  - id: S4
+    title: "Richard Ellis, Hal Saflieni Hypogeum (large room with painted ceiling)"
+    publisher: Richard Ellis / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Richard_Ellis,_Hal_Saflieni_Hypogeum_(large_room_with_painted_ceiling).jpg
+    year: "约 1900"
+    license: Public domain
+    usage: 历史照片：彩绘天花板大室，印页含题字与签名
+  - id: S5
+    title: 原创剖面示意图
+    publisher: 稀奇奇编辑部
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
-    usage: 封面场景复原与三层结构示意；不是现场照片
+    usage: 三层结构与冬至光路示意
 cover: ../../../assets/covers/hypogeum.jpg
 related:
   - gobekli-tepe
-  - lalibela
+  - baalbek
 status: review
 featured: false
 translation_status: translated

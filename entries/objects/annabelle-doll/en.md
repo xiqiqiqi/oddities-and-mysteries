@@ -1,71 +1,69 @@
 ---
-title: The Doll in the Glass Case
-summary: In 1968 a nursing student in Connecticut received a Raggedy Ann doll called Annabelle. She said it moved by itself and left notes reading “Help us”. The Warrens took the doll and said it was not a human spirit but a demon. Today it is locked in a glass case in their museum.
+title: "Annabelle: The Résumé of a Cloth Doll"
+summary: "The real \"Annabelle\" is a mass-produced Raggedy Ann cloth doll: yarn hair, a triangle nose, a stitched smile. The Warrens said it was demonically possessed and locked it in a glass case; Hollywood gave it a porcelain face. In 2025 it \"went missing\" on social media — actually a tour marketing campaign. The paranormal claims rest, from start to finish, on the Warrens' word alone."
 lang: en
 ---
 
-## 1. 1968
+## 1. First, it is a cloth doll
 
-In 1968 Donna was a nursing student in Connecticut. She shared an apartment with a roommate named Angie.
+Look at the object. Red yarn hair, a triangle nose on a cloth face, a mouth that is one stitched curve, a floral dress, red-and-white striped legs. It is a Raggedy Ann — an American cloth doll mass-produced for decades, cheap, soft, everywhere. The hair is yarn, stitched strand by strand to a cloth scalp; the nose is a triangle of red fabric; the eyes are two black button-like discs. There is no mechanism, nothing that could "move by itself."
 
-Donna's mother bought her a doll and gave it to her. It was a Raggedy Ann doll, with a red-and-white checked dress, yarn hair and a stitched smile.
+It now sits in a wooden box shaped like a small chapel: a cross on the peak, iron hinges, a glass window in front, red light inside. Beside the window is a blank label slot, like a museum accession tag, with nothing written on it. A service bell stands before the case, like a museum desk, or like the button of some warning.
 
-Donna put it on her bed. A few days later she found it in a different position.
+![The real Annabelle doll in its chapel-shaped case at the Warren museum](../../../assets/inline/annabelle-real-doll-2.jpg)
 
-## 2. The notes
+*Site photograph: 13 September 2025, OVERNIGHT, CC BY 4.0 (Wikimedia Commons). The real Annabelle: a Raggedy Ann cloth doll in a chapel-shaped wooden case with a glass window.*
 
-More things happened.
+## 2. Donna's apartment
 
-The doll turned up in different rooms, in different poses. Sometimes it was sitting, sometimes standing, sometimes propped against a door.
+The story begins in the 1970s. According to Ed and Lorraine Warren, a 28-year-old student nurse named Donna in Hartford, Connecticut, acquired the doll and it began to move on its own: positions changed, poses changed, later blood and scratches appeared.
 
-Donna and Angie began finding notes in the apartment. The handwriting was not theirs. One said “Help us”. Another said “Help Lou”.
+A psychic medium told Donna and her roommate that the doll housed the spirit of a dead seven-year-old girl named Annabelle. The Warrens, called in, reached a different verdict — not a girl's spirit but demonic possession. They took the doll away and placed it in their Occult Museum in Monroe, Connecticut. Note the order: the medium's account came first — it was the medium who supplied the name "Annabelle, a seven-year-old girl," and the Warrens who rewrote it as a demon. The two explanations contradict each other yet share the same doll; the name stuck from then on.
 
-Lou was a friend of theirs. One night he stayed in the apartment, and woke with scratches on his chest and a torn shirt. He said the doll was beside him.
+## 3. A résumé inside a glass case
 
-## 3. The Warrens
+Once in the museum, the doll acquired a sign: "WARNING, POSITIVELY DO NOT OPEN." The word "POSITIVELY" is underlined once for emphasis. What it warns against is not the doll; it is the act of opening the case.
 
-They contacted Ed and Lorraine Warren.
+![Annabelle in the glass case with the handwritten warning sign](../../../assets/inline/annabelle-real-doll-1.jpg)
 
-The Warrens described themselves as paranormal investigators and handled “haunted” cases across the United States. They examined the doll and said it was not the spirit of a dead person but a demon. The demon had attached itself to the doll in order to get close to people.
+*Site photograph: 13 September 2025, OVERNIGHT, CC BY 4.0 (Wikimedia Commons). The doll in its case with the handwritten warning sign.*
 
-They asked a priest to bless the doll. Then they took it away in their car.
+The Warrens gradually added a résumé: the doll inflicted "psychic slashes" that drew blood; a priest who insulted it ran his car into a tree; a homicide detective was stabbed by it and forced into early retirement. Every one of these claims comes from the Warrens' mouths; there is no third-party record. They also reached print: the Gloucester County Times in 1987 carried the Warrens speaking at Rutgers about the slashes and the priest's crash, and The Morning Call in 1991 carried the stabbed detective. The reports repeat the claims; they do not verify them.
 
-## 4. The glass case
+In 1980 Gerald Brittle's book The Demonologist published the whole account. The author claimed an "exclusive deal" with Lorraine Warren. The book became the source text for everything that followed.
 
-The doll was taken to the Warrens' Occult Museum in Monroe, Connecticut.
+## 4. Hollywood changes its face
 
-It was placed in a glass case with a note on it: “Warning: Positively Do Not Open.”
+It first appears on screen in The Conjuring (2013); three Annabelle films (2014, 2017, 2019) make it the star. It also turns up in The Conjuring 2, The Curse of La Llorona, The Conjuring: The Devil Made Me Do It and The Conjuring: Last Rites — a supporting doll with more appearances than most actors. But the films did not use the Raggedy Ann likeness: partly trademark, partly because a cloth doll is not frightening enough. What audiences remember instead is a porcelain face, disfigured and immediately menacing.
 
-The Warrens said the doll was still active inside the case, and the case was blessed by a priest from time to time.
+![Audiences posing with the porcelain prop doll at a 2019 promotional event](../../../assets/inline/annabelle-prop-2019.jpg)
 
-## 5. The films
+*Site photograph: 20 June 2019, PvOberstein, CC0 (Wikimedia Commons). An Annabelle Comes Home promotional event: visitors pose with the porcelain prop doll, which bears no resemblance to the real cloth doll.*
 
-Annabelle appears at the start of The Conjuring (2013). In 2014 she got a film of her own.
+Put the two photographs side by side and the point makes itself: the stitched smile behind glass and the porcelain face on the poster are not the same object. The cloth doll's smile is sewn; the porcelain doll's smile is carved. The first makes you want to hold it, the second makes you want to run. The producers wanted the second. The fear was added later.
 
-The doll in the films is porcelain, in a white dress, sitting in a rocking chair. The real Annabelle is a rag doll that looks like a child's toy, not a horror prop.
+The doll is also property: in 2009 Evergreen Media signed development deals with the Warrens; in 2014 Warner Bros. claimed rights to chapters of The Demonologist acquired from the Warrens' side; litigation around the Conjuring franchise at one point sought $900 million. Its face even cameoed in Aquaman and Shazam. A cloth doll's likeness rights exist more concretely than its "haunting."
 
-The films are fiction. The real case rests on the Warrens' account.
+## 5. 2019–2025: closure, "missing", tour
 
-## 6. The evidence
+In 2019 the Occult Museum closed over zoning violations. In May 2025 reports that "Annabelle is missing" went viral; the Warrens' estate rode the wave to promote a tour called Devils on the Run. Tony Spera, director of the New England Society for Psychic Research, corrected the record: "The doll was never missing. We had taken the doll on a brief tour to several locations."
 
-There is no police report, no hospital record, no photograph, and no independent third-party evidence.
+In July 2025 the tour's organiser and host, Dan Rivera, died unexpectedly in Gettysburg, Pennsylvania. Rivera had been the tour's chief promoter, posting videos of the doll on TikTok; after his death the claim that "the doll killed its handler" appeared at once, while the police conclusion ran to four words: nothing unusual. In August 2025 the comedian Matt Rife bought the Warrens' house and museum, becoming legal guardian of the whole collection — including the doll — for at least five years.
 
-The names Donna, Angie and Lou do appear, but they rarely spoke in public. The details of the story come mainly from the Warrens' books, lectures and television appearances.
+![Annabelle timeline, 1970s to 2025](../../../assets/inline/annabelle-timeline.svg)
 
-That does not prove they were lying. But it means the story of Annabelle is a “someone said” story, not a case with a chain of evidence.
+*Original schematic: from a nurse's apartment to a glass case, a film universe, closure and a tour. Oddity Archive, CC BY-SA 4.0.*
 
-## 7. Now
+## 6. What scholars say
 
-The doll is still in the museum in Monroe, locked in its glass case.
+Joseph Laycock, a religious-studies professor at Texas State University, notes that skeptics see the Warrens' museum as "full of off-the-shelf Halloween junk, dolls and toys, books you could buy at any bookstore." He traces the demonically-possessed-doll trope to earlier sources: the legend of Robert the Doll, and a Twilight Zone episode five years before the Warrens' story — "Living Doll," in which the mother is named Annabelle.
 
-It has become part of popular culture. Films, documentaries, short videos and Halloween costumes all repeat the story.
+Science writer Sharon Hill is blunter: "Like real-life Ed Warren, real-life Annabelle is actually far less impressive." Of the supernatural claims she says: "We have nothing but Ed's word for this, and also for the history and origins of the objects in the museum." She also criticises the sensational press coverage around the museum, saying many people can no longer separate the Warrens from their screen portrayal.
 
-A rag doll became a symbol because of a claim. The line on the glass case turned out to be its most effective advertisement.
+Laycock has a colder summary: the idea of demonically possessed dolls "allows modern demonologists to find supernatural evil in the most banal and domestic of places."
 
-![The 1968 case, the Warrens, the museum case, and the films](../../../assets/inline/annabelle.svg)
-
-*Original schematic: the 1968 account, the Warrens' involvement, the museum case and the film adaptations. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+The case is still there, the bell is still there, the warning sign is still there. Behind the glass, the cloth doll still wears the smile it was manufactured with. It does not need to move; as long as someone is willing to move for it, the story continues.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1968 account, the Warrens' explanation, the museum and the films; there is no verifiable police or medical record, and the claim that the doll was possessed comes from the Warrens. The illustration is a scene reconstruction, not a photograph of the object.
+**Sources and licenses**: factual sources are in the ledger S1–S5 below. Text and original schematics are CC BY-SA 4.0. The three site photographs are credited Wikimedia Commons works (CC BY 4.0 / CC0), licenses in the ledger. The Warrens' paranormal claims have no third-party corroboration and are presented here as claims made, not as facts.

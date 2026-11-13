@@ -1,73 +1,60 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
-  <title id="title">The three levels of the Ħal Saflieni Hypogeum</title>
-  <desc id="desc">A schematic section of the underground complex, showing a vertical shaft, three levels of chambers, and red ochre spirals.</desc>
+  <title id="title">Hal Saflieni Hypogeum: three cut levels and the winter solstice light</title>
+  <desc id="desc">A schematic section: a street-level facade above ground; below it three levels of rock-cut chambers connected by steps and openings, the upper level earliest (Temple Period), lower levels later; red ochre spiral motifs on a ceiling; a beam of winter-solstice light entering from the original surface opening onto the Holy of Holies facade; notes that the site was cut with antler, flint, chert and obsidian and holds remains of about 7000 people.</desc>
   <rect width="900" height="520" fill="#F3EEE4"/>
-  <text x="60" y="56" font-family="Georgia, serif" font-size="26" fill="#1D1A17">ĦAL SAFLIENI · THREE LEVELS</text>
-  <text x="60" y="80" font-family="Georgia, serif" font-size="12" fill="#6B6256">UNDERGROUND COMPLEX / SCHEMATIC</text>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+  <text x="60" y="62" font-family="Georgia, serif" font-size="26" fill="#1D1A17">ĦAL SAFLIENI · THREE LEVELS</text>
+  <text x="60" y="86" font-family="Georgia, serif" font-size="12" fill="#6B6256">地下三层与冬至的光 · cut levels and solstice light</text>
 
   <g>
-    <rect x="60" y="112" width="540" height="330" fill="#D9C6A5" opacity=".45"/>
-    <path d="M60 160 H 600" stroke="#6B4A32" stroke-width="2"/>
-    <text x="76" y="150" font-family="Georgia, serif" font-size="10" fill="#6B6256">GROUND LEVEL / 地面</text>
-
-    <rect x="170" y="160" width="34" height="250" fill="#EFE6D6" stroke="#6B4A32" stroke-width="2"/>
-    <g stroke="#6B4A32" stroke-width="1.5">
-      <path d="M174 190 H 200 M174 210 H 200 M174 230 H 200 M174 250 H 200 M174 270 H 200 M174 290 H 200 M174 310 H 200 M174 330 H 200 M174 350 H 200 M174 370 H 200 M174 390 H 200"/>
+    <rect x="60" y="112" width="500" height="300" fill="#EFE6D6"/>
+    <path d="M60 150 H 560" stroke="#6B4A32" stroke-width="2"/>
+    <rect x="80" y="122" width="120" height="28" fill="#D8CCB6" stroke="#6B4A32"/>
+    <text x="86" y="140" font-family="Georgia, serif" font-size="9" fill="#1D1A17">街面入口 / street facade</text>
+    <path d="M140 150 V 190" stroke="#6B4A32" stroke-width="1.4" stroke-dasharray="4 3"/>
+    <g fill="#E4D8C2" stroke="#6B4A32" stroke-width="1.2">
+      <path d="M90 190 h 120 v 40 h -120 z"/>
+      <path d="M240 195 h 90 v 35 h -90 z"/>
+      <path d="M360 190 h 110 v 40 h -110 z"/>
+      <path d="M110 260 h 100 v 40 h -100 z"/>
+      <path d="M250 265 h 120 v 40 h -120 z"/>
+      <path d="M400 260 h 90 v 40 h -90 z"/>
+      <path d="M150 330 h 110 v 40 h -110 z"/>
+      <path d="M300 335 h 130 v 40 h -130 z"/>
     </g>
-    <text x="132" y="432" font-family="Georgia, serif" font-size="10" fill="#6B6256">SHAFT / 竖井</text>
-
-    <g fill="#EFE6D6" stroke="#6B4A32" stroke-width="2">
-      <rect x="240" y="185" width="150" height="58" rx="14"/>
-      <rect x="310" y="265" width="150" height="58" rx="14"/>
-      <rect x="240" y="345" width="150" height="58" rx="14"/>
+    <text x="90" y="182" font-family="Georgia, serif" font-size="9" fill="#4A4030">上层（最早）/ upper, earliest</text>
+    <text x="110" y="252" font-family="Georgia, serif" font-size="9" fill="#4A4030">中层 / middle</text>
+    <text x="150" y="322" font-family="Georgia, serif" font-size="9" fill="#4A4030">下层（最晚）/ lower, latest</text>
+    <path d="M470 150 L 430 330" stroke="#B44A32" stroke-width="2" stroke-dasharray="6 4"/>
+    <path d="M430 330 l 6 -12 M430 330 l -8 -10" stroke="#B44A32" stroke-width="1.6"/>
+    <text x="440" y="200" font-family="Georgia, serif" font-size="9" fill="#B44A32">冬至光 / solstice light</text>
+    <g stroke="#B44A32" fill="none" stroke-width="1.4">
+      <path d="M270 205 c 8 -8 16 0 8 8 c -8 8 -16 0 -8 -8"/>
+      <path d="M300 210 c 6 -6 12 0 6 6 c -6 6 -12 0 -6 -6"/>
     </g>
-    <g stroke="#6B4A32" stroke-width="2" fill="none">
-      <path d="M204 214 H 240"/>
-      <path d="M204 294 H 310"/>
-      <path d="M204 374 H 240"/>
-    </g>
-
-    <g fill="none" stroke="#B44A32" stroke-width="2">
-      <path d="M282 214 a6 6 0 1 1 12 0 a12 12 0 1 1 -24 0 a18 18 0 1 1 36 0"/>
-      <path d="M352 294 a6 6 0 1 1 12 0 a12 12 0 1 1 -24 0 a18 18 0 1 1 36 0"/>
-      <path d="M282 374 a6 6 0 1 1 12 0 a12 12 0 1 1 -24 0 a18 18 0 1 1 36 0"/>
-    </g>
-
-    <g font-family="Georgia, serif" font-size="10" fill="#1D1A17">
-      <text x="80" y="210">UPPER / 上层</text>
-      <text x="80" y="290">MIDDLE / 中层</text>
-      <text x="80" y="370">LOWER / 下层</text>
-    </g>
-
-    <path d="M470 214 L 456 214" stroke="#B44A32" stroke-width="1.5"/>
-    <text x="476" y="210" font-family="Georgia, serif" font-size="10" fill="#B44A32">RED OCHRE / 红色赭石</text>
-    <text x="476" y="224" font-family="Georgia, serif" font-size="10" fill="#B44A32">spirals / 螺旋</text>
+    <text x="250" y="232" font-family="Georgia, serif" font-size="8" fill="#6B6256">红赭石螺旋 / red ochre spirals</text>
   </g>
 
-  <g>
-    <rect x="630" y="112" width="210" height="330" fill="#EFE6D6" stroke="#1D1A17" stroke-opacity=".15"/>
-    <text x="650" y="140" font-family="Georgia, serif" font-size="11" fill="#1D1A17">KEY FACTS / 关键信息</text>
-    <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
-      <text x="650" y="172">• c. 4000–2500 BCE</text>
-      <text x="662" y="186">约公元前 4000–2500 年</text>
-      <text x="650" y="212">• carved into limestone</text>
-      <text x="662" y="226">凿入石灰岩</text>
-      <text x="650" y="252">• necropolis + ritual use</text>
-      <text x="662" y="266">墓地与仪式空间</text>
-      <text x="650" y="292">• thousands of burials</text>
-      <text x="662" y="306">数千具遗骸</text>
-      <text x="650" y="332">• red ochre spirals</text>
-      <text x="662" y="346">红色赭石螺旋</text>
-      <text x="650" y="372">• UNESCO, 1980</text>
-      <text x="662" y="386">1980 年列入世界遗产</text>
-      <text x="650" y="412">• limited visitors</text>
-      <text x="662" y="426">参观人数受限</text>
+  <g font-family="Georgia, serif">
+    <rect x="590" y="112" width="250" height="300" fill="#EFE6D6"/>
+    <text x="610" y="140" font-size="10" fill="#1D1A17">要点 / KEY FACTS</text>
+    <g font-size="9" fill="#4A4030">
+      <text x="610" y="166">约公元前 4000–2500 年使用</text>
+      <text x="610" y="184">c. 4000–2500 BC in use</text>
+      <text x="610" y="210">约 7000 人遗骸</text>
+      <text x="610" y="228">remains of ~7,000 people</text>
+      <text x="610" y="254">鹿角、燧石与黑曜石开凿</text>
+      <text x="610" y="272">cut with antler, flint and obsidian</text>
+      <text x="610" y="298">1980 年列入世界遗产</text>
+      <text x="610" y="316">World Heritage since 1980</text>
+      <text x="610" y="342">每日限 80 人</text>
+      <text x="610" y="360">80 visitors per day</text>
     </g>
+    <text x="610" y="392" font-size="8" fill="#B44A32">示意，非测绘图 / schematic, not a survey</text>
   </g>
 
   <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
-    <text x="60" y="476">Discovered in 1902 during building work. / 1902 年施工时发现。</text>
-    <text x="60" y="500" fill="#B44A32">The “Sleeping Lady” figurine is now in Valletta. / “沉睡的女人”现存瓦莱塔。</text>
+    <text x="60" y="452">上层墓室属神庙期早期，下层较晚；地面圣所被毁后，地下结构反而被掩藏数千年。</text>
+    <text x="60" y="474" fill="#B44A32">"至圣所"的朝向使冬至光从原开口照到其立面。/ The Holy of Holies faces the winter-solstice light.</text>
   </g>
-  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
 </svg>

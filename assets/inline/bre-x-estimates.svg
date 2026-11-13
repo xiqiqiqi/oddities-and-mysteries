@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+  <title id="title">Bre-X: inflating resource estimates and the stock curve, 1995 to 1997</title>
+  <desc id="desc">Left: bars of claimed gold resource in million ounces - 2 in 1995, 30 later 1995, 60 in 1996, 70 in 1997 by Kilborn, and a 200 million ounce potential claimed by Felderhof but never confirmed. Right: the share price from penny stock to a split-adjusted peak of 286.50 Canadian dollars in May 1996 with market capitalisation over 6 billion, then 6 cents on 7 May 1997 and bankruptcy on 9 May 1997.</desc>
+  <rect width="900" height="520" fill="#F3EEE4"/>
+  <text x="60" y="30" font-family="Georgia, serif" font-size="11" fill="#6B6256">Graphic: XIQIQI · CC BY-SA 4.0</text>
+  <text x="60" y="62" font-family="Georgia, serif" font-size="26" fill="#1D1A17">BRE-X · 1995–1997</text>
+  <text x="60" y="86" font-family="Georgia, serif" font-size="12" fill="#6B6256">自己长大的储量 · inflating estimates, collapsing price</text>
+
+  <g>
+    <rect x="60" y="112" width="380" height="280" fill="#EFE6D6"/>
+    <text x="80" y="136" font-family="Georgia, serif" font-size="10" fill="#1D1A17">声称储量 / claimed resource（百万盎司 Moz）</text>
+    <g font-family="Georgia, serif" font-size="9" fill="#4A4030">
+      <rect x="80" y="152" width="8" height="18" fill="#D8CCB6" stroke="#6B4A32"/>
+      <text x="96" y="166">2 · 1995 初估</text>
+      <rect x="80" y="182" width="60" height="18" fill="#D8CCB6" stroke="#6B4A32"/>
+      <text x="148" y="196">30 · 1995 上调</text>
+      <rect x="80" y="212" width="120" height="18" fill="#D8CCB6" stroke="#6B4A32"/>
+      <text x="208" y="226">60 · 1996</text>
+      <rect x="80" y="242" width="140" height="18" fill="#C9B799" stroke="#6B4A32"/>
+      <text x="228" y="256">70 · 1997 Kilborn</text>
+      <rect x="80" y="272" width="300" height="18" fill="#B44A32" stroke="#6B4A32"/>
+      <text x="80" y="306">200 · Felderhof 口头"潜力"，公司从未确认</text>
+    </g>
+    <text x="80" y="340" font-family="Georgia, serif" font-size="9" fill="#6B6256">若为真，约占世界黄金供给 8%。</text>
+    <text x="80" y="356" font-family="Georgia, serif" font-size="8" fill="#6B6256">If real, ~8% of world gold supply.</text>
+  </g>
+
+  <g>
+    <rect x="470" y="112" width="370" height="280" fill="#EFE6D6"/>
+    <text x="490" y="136" font-family="Georgia, serif" font-size="10" fill="#1D1A17">股价 / share price（加元，拆股调整）</text>
+    <path d="M490 330 L 560 300 L 640 170 L 700 180 L 760 320 L 800 336" fill="none" stroke="#B44A32" stroke-width="2.4"/>
+    <circle cx="640" cy="170" r="5" fill="#B44A32"/>
+    <text x="600" y="156" font-family="Georgia, serif" font-size="10" fill="#1D1A17">峰值 286.50 · 1996-05</text>
+    <text x="600" y="142" font-family="Georgia, serif" font-size="8" fill="#6B6256">市值 &gt; 60 亿加元</text>
+    <circle cx="800" cy="336" r="5" fill="#1D1A17"/>
+    <text x="700" y="360" font-family="Georgia, serif" font-size="10" fill="#1D1A17">0.06 · 1997-05-07</text>
+    <text x="490" y="380" font-family="Georgia, serif" font-size="9" fill="#4A4030">1997-05-09 申请破产保护。</text>
+  </g>
+
+  <g font-family="Georgia, serif" font-size="10" fill="#6B6256">
+    <text x="60" y="430">岩芯样本被"加盐"：掺入金粉与首饰刮下的金屑。</text>
+    <text x="60" y="448">Core samples were salted with gold dust and shavings from jewellery.</text>
+    <text x="60" y="482" fill="#B44A32">约 4 万名投资者损失全部投入；无人被刑事定罪。/ ~40,000 investors lost everything; no criminal conviction.</text>
+  </g>
+</svg>

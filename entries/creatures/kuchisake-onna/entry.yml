@@ -1,19 +1,19 @@
 channel: creatures
 type: creature
 slug: kuchisake-onna
-title_zh: 戴口罩的女人
-title_en: The Woman Behind the Mask
-era: "1979 年集中传播"
-era_en: "widely circulated in 1979"
-region: 日本，各地
-region_en: "Japan, nationwide"
-coords: [36.2, 138.25]
+title_zh: 裂口女：一个问题的两种答案
+title_en: "Kuchisake-onna: One Question, Two Answers"
+era: "1978–1979 年起流行；或追溯江户"
+era_en: "popular from 1978–79; or traced to Edo period"
+region: 日本（岐阜起源说）
+region_en: "Japan (Gifu-origin account)"
+coords: [35.42, 136.76]
 tags:
   - 裂口女
-  - 日本都市传说
-  - 1979
-  - 口罩
-  - 剪刀
+  - 都市传说
+  - 妖怪
+  - 日本
+  - 怨灵
 collections: []
 credibility: folklore
 sources:
@@ -23,25 +23,25 @@ sources:
     url: https://en.wikipedia.org/wiki/Kuchisake-onna
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 传说内容、1979 年传播、变体与解释
+    usage: 形象与两轮问答、逃法版本、来历版本（嫉妒姐妹/整形失败/武士之妻）、1978 岐阜与 1979 三篇报道、PTA 护送、Meyer 与 Iikura 起源两说、水木茂妖怪百科认定、影视游戏改编
   - id: S2
-    title: "Wikipedia · Japanese urban legends"
-    publisher: Wikipedia contributors
-    url: https://en.wikipedia.org/wiki/Japanese_urban_legends
-    year: "2026"
+    title: "Ehon-Sayoshigure Kuchisake onna（绘草纸图像）"
+    publisher: Tanapat / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Ehon-Sayoshigure_Kuchisake_onna.jpg
+    year: "1801（原作）／2023（上传）"
     license: CC BY-SA 4.0
-    usage: 日本都市传说的传播环境与校园背景
+    usage: 历史图像：《佐夜时雨》中被认定为裂口女的形象（认定有争议）
   - id: S3
-    title: 场景复原插图与原创示意图
-    publisher: 稀奇奇编辑部（AI 辅助生成）
+    title: 原创问答流程示意图
+    publisher: 稀奇奇编辑部
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
-    usage: 封面场景复原与传说问答结构示意；不是历史照片
+    usage: 两轮问答分支与逃法示意
 cover: ../../../assets/covers/kuchisake-onna.jpg
 related:
-  - spring-heeled-jack
-  - loch-ness
+  - bloody-mary
+  - owlman
 status: review
 featured: false
 translation_status: translated

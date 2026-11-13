@@ -1,61 +1,61 @@
 ---
-title: The Temple Beneath the Ground
-summary: In 1902, a building site in Paola, Malta, broke into an underground cavity. It was not a natural cave but three man-made levels — tombs, corridors, and ritual chambers — with red ochre spirals and dots on the walls. It is older than the pyramids, and it lies beneath the ground.
+title: "The Hal Saflieni Hypogeum: Three Levels Cut in Rock"
+summary: "In 1902 workers in Paola, Malta, cutting cisterns for new houses, broke through the roof of an underground building. It is the Hal Saflieni Hypogeum: a three-level rock-cut sanctuary and necropolis used from about 4000 to 2500 BC, holding the remains of some 7,000 people. Its ceilings carry red-ochre spirals; the \"Holy of Holies\" faces the winter-solstice light. Early excavation discarded much of its contents uncatalogued; today only eighty people a day are allowed inside."
 lang: en
 ---
 
-## 1. The building site of 1902
+## 1. 1902, breaking through the roof
 
-In 1902, a housing development was under construction in Paola, Malta.
+Paola, Malta: an ordinary residential street. At street level a concrete wall carries painted letters — "HAL SAFLIENI PREHISTORIC HYPOGEUM / UNESCO World Heritage Site." Cars park against it; laundry hangs nearby. Nothing shows what lies beneath.
 
-Workers digging foundations broke into an underground space. Below was not soil or a natural cave but a series of carved passages and rooms.
+In 1902 workers cutting cisterns for a new housing development broke through the roof of the underground structure. They tried to hide it at first, but it was eventually found. From November 1903 Father Manuel Magri directed excavations for the Museums Committee; during the work a large part of the contents — grave goods and human remains — was emptied out and discarded without proper cataloguing. Magri died in 1907 while doing missionary work in Tunisia, and his report on the Hypogeum was lost.
 
-The news reached archaeologists. Excavation followed, directed by the Maltese doctor and archaeologist Temi Zammit. The site became known as the Ħal Saflieni Hypogeum.
+![The street-level entrance wall of the Hypogeum in Paola](../../../assets/inline/hypogeum-entrance.jpg)
 
-## 2. Three underground levels
+*Site photograph: 30 July 2011, Andrey BG, public domain (Wikimedia Commons). The ground-level entrance wall and street; the underground structure hides behind an ordinary facade.*
 
-The Hypogeum is not a single chamber but a three-level underground complex.
+Themistocles Zammit took over and salvaged what he could, publishing reports from 1910 and depositing finds in the National Museum of Archaeology in Valletta. The Hypogeum had already opened to visitors in 1908 while excavation continued; Queen Mary visited in 1912. Four contemporary houses built over the site were later demolished to build a museum.
 
-The upper, middle, and lower levels descend through the limestone. Rooms, corridors, steps, niches, and ceiling carvings were all cut from the rock. The stone is the local globigerina limestone, soft enough to carve but vulnerable to water and salt.
+## 2. Three levels underground
 
-Its most important use was as a necropolis. Excavation found large quantities of human bone; thousands of people are estimated to have been buried there. At the same time, its layout and decoration are more elaborate than a simple cemetery, suggesting a ritual function as well.
+The Hypogeum may have begun as a natural cave, then been expanded by cutting directly into the rock with antler, flint and obsidian tools. It has three levels: the upper burial chambers belong to the early Maltese Temple Period, the middle and lower levels are later. The area is about 500 square metres; archaeologists have documented remains of more than 7,000 people. It was at once sanctuary and necropolis.
 
-![The three levels of the Ħal Saflieni Hypogeum](../../../assets/inline/hypogeum-section.svg)
+![Cutaway model of the Hypogeum at the National Museum of Archaeology](../../../assets/inline/hypogeum-model.jpg)
 
-*Original schematic: the upper, middle, and lower levels and main chambers of the Hypogeum. Not a precise survey. Oddity Archive, CC BY-SA 4.0.*
+*Site photograph: 2 September 2006, original uploader 320rwekfpl, public domain (Wikimedia Commons). The museum's cutaway model, showing the three levels of chambers and connecting openings.*
 
-## 3. Red paintings
+The model makes the point clear: this was not "a hole dug" but a whole building carved in rock — rooms, doorways, steps and shafts nested inside one another, like a surface temple turned upside-down into the ground.
 
-The most striking feature is the red ochre painting.
+## 3. Red-ochre spirals
 
-Spirals, dots, curves, and geometric patterns cover the walls. Some follow doorways and niches; some cover entire ceilings. The red stands out sharply against the gray-yellow limestone.
+Parts of the ceilings carry painted red-ochre patterns: spots, spirals, honeycombs. Around 1900 the Maltese photographer Richard Ellis photographed one large room: spirals run from ceiling onto wall, a doorway and steps at lower left; the mounted print is captioned "Hal-Saflieni Hypogeum — Casal Paula — Malta (Large room with painted ceiling)" and signed "R. ELLIS" at lower left.
 
-There is no accompanying text. Researchers can only infer connections to ritual, death, or ancestry from the position, combinations, and similarities with other Maltese prehistoric sites.
+![The painted-ceiling room photographed by Ellis around 1900](../../../assets/inline/hypogeum-ellis-ceiling-1900.jpg)
 
-## 4. The Sleeping Lady
+*Historical photograph: c. 1900, Richard Ellis, public domain (Wikimedia Commons). The large room with painted ceiling; the print carries its caption and the photographer's signature.*
 
-After 1902, the site produced a group of small figurines and objects.
+The photograph is itself an artifact: it records the early excavation state, before modern lighting and conservation engineering. In black and white the spirals read dark; on the stone they are red ochre — an iron-oxide pigment, the prehistoric Mediterranean's standard "red."
 
-The most famous is a reclining female figure, later called the “Sleeping Lady.” She lies on her side, with a full body and a calm posture. The figurine is small enough to hold in one hand.
+## 4. The winter-solstice light
 
-It is now in Malta's National Museum of Archaeology. Whether it represents a deity, an ancestor, or a ritual role is unresolved.
+The structure directs light: surface light is channelled down into the lower chambers. One main chamber, called the "Holy of Holies," appears oriented so that on the winter solstice light from the original opening illuminates its facade. A surface shrine once marked the entrance; after its destruction the underground structure stayed hidden for millennia — until the 1902 pickaxe.
 
-## 5. Sound
+![Schematic section of the three levels and the solstice light](../../../assets/inline/hypogeum-section.svg)
 
-The Hypogeum is also known for its acoustics.
+*Original schematic: the three rock-cut levels, red-ochre spirals and the solstice light path. Not a survey drawing. Oddity Archive, CC BY-SA 4.0.*
 
-One chamber is called the “Oracle Room.” Researchers have measured its acoustic properties and found that certain low frequencies are amplified, producing resonance. A person speaking inside sounds deeper and fuller.
+## 5. Eighty people a day
 
-Whether this was a deliberate design choice is debated. What is clear is that the sound depends on the underground setting, the shape of the room, and the stone.
+Further excavation ran 1990–1993; the site closed 1991–2000 for restoration. Since reopening, Heritage Malta admits only eighty people a day and strictly regulates the microclimate — visitors' breath, moisture and body heat alter the cave environment and threaten the ochre paintings. A denser decay-monitoring programme began in 2011; an international team studied acoustics in 2014; in May 2017 it reopened after a year of environmental-management improvements. It became a World Heritage Site in 1980.
 
-## 6. Now
+Eighty is a conservation number, and also a metaphor: a building that holds seven thousand dead now permits eighty living breaths a day.
 
-In 1980, the Hypogeum was inscribed as a UNESCO World Heritage site.
+## 6. A name and a hilltop
 
-Visitor numbers are tightly limited to protect the site. Humidity, carbon dioxide, and temperature inside the chambers must be controlled, because breath and sweat accelerate the decay of limestone. The site has been closed at times for conservation work.
+"Ħal Saflieni" means "low village": ħal is village, saflieni is low. Zammit noted the name is a misnomer — the locality sits on a hilltop; it is merely lower than the nearby "high village," Ħal Fuqani. The name of a village that no longer exists survives on a building far older than the village.
 
-It is not a place you can simply walk into. More often it functions as a carefully guarded underground archive, preserving a Neolithic understanding of death, space, and sound.
+The street wall is still there, the letters still there. Below it, in three levels of rock, the spirals remain on the ceilings and the solstice light touches the Holy of Holies' facade once a year. Beyond the eighty tickets, it quietly continues what it has done for six thousand years: holding the dead, waiting for light.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the structure, the finds, the acoustics, and the interpretations; the site's exact use is still debated.
+**Sources and licenses**: factual sources are in the ledger S1–S5 below. Text and original schematics are CC BY-SA 4.0. The entrance, model and Ellis photographs are public domain (Wikimedia Commons), credited in the ledger. Dates and head-counts are archaeological estimates; the solstice orientation of the Holy of Holies is an archaeoastronomical interpretation and is presented as such.

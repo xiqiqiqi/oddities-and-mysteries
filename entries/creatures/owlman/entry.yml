@@ -1,21 +1,21 @@
 channel: creatures
 type: creature
 slug: owlman
-title_zh: 塔顶的鸮人
-title_en: The Owlman on the Tower
+title_zh: 猫头鹰人：教堂塔顶的影子
+title_en: "Owlman: The Shadow on the Church Tower"
 era: "1976"
 era_en: "1976"
-region: 英国，康沃尔，莫南史密斯
-region_en: "Mawnan Smith, Cornwall, United Kingdom"
-coords: [50.110, -5.095]
+region: 英国，康沃尔，莫南
+region_en: "Mawnan, Cornwall, United Kingdom"
+coords: [50.103, -5.108]
 tags:
-  - 鸮人
+  - 猫头鹰人
   - 康沃尔
-  - 未确认生物
   - 1976
-  - 教堂
+  - 未确认生物
+  - 民俗
 collections: []
-credibility: disputed
+credibility: folklore
 sources:
   - id: S1
     title: "Wikipedia · Owlman"
@@ -23,25 +23,32 @@ sources:
     url: https://en.wikipedia.org/wiki/Owlman
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 1976 年目击、目击者、后续报告与解释
+    usage: 1976-04-17 梅林姐妹目击、希尔尔斯接手与命名、Morgawr 小册子、1976-07-03 露营女孩描述、后续零星报告、仓鸮/雕鸮解释与梅德韦恶作剧论、影视改编
   - id: S2
-    title: "Cornwall Live · The forgotten story of Cornwall's owlman"
-    publisher: Cornwall Live
-    url: https://www.cornwalllive.com/news/cornwall-news/cornish-owlman-mawnan-smith-been-4045776
-    year: "2026"
-    license: 版权所有；仅作事实参考
-    usage: 教堂地点、目击经过与当地传说背景
+    title: "St Mawnan and St Stephen's church, Mawnan（教堂照片）"
+    publisher: Andrewrabbott / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:St_Mawnan_and_St_Stephen%27s_church,_Mawnan.JPG
+    year: "2015"
+    license: CC BY-SA 4.0
+    usage: 现场照片：教堂塔与墓地，目击所指位置
   - id: S3
-    title: 场景复原插图与原创示意图
+    title: "Mawnan Smith（1977 年村庄照片）"
+    publisher: Stephen McKay / geograph.org.uk / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Mawnan_Smith_-_geograph.org.uk_-_7326889.jpg
+    year: "1977"
+    license: CC BY-SA 2.0
+    usage: 历史照片：目击次年的村庄、红狮酒吧与去教堂的路
+  - id: S4
+    title: 原创示意图与场景复原图
     publisher: 稀奇奇编辑部（AI 辅助生成）
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
-    usage: 封面教堂与有翅人形场景复原、目击时间线示意；不是目击照片
+    usage: 1976–2013 时间线示意、教堂墓地暮色场景复原；不是目击照片
 cover: ../../../assets/covers/owlman.jpg
 related:
   - mothman
-  - spring-heeled-jack
+  - dover-demon
 status: review
 featured: false
 translation_status: translated
