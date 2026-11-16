@@ -72,7 +72,7 @@ Six dogs and sixteen people had been buried with her.
 
 ![The tomb of Fu Hao and its statue](../../../assets/inline/yinxu-fuhao-tomb.jpg)
 
-*Site photograph: the tomb of Fu Hao and the statue in front of it, Yinxu, c. 1200 BC, reign of Wu Ding. Gary Todd, CC0 (Wikimedia Commons).*
+*Site photograph: the tomb chamber of Fu Hao and the statue in front of it, Yinxu (the tomb dates from about 1200 BC; the photograph is modern). Gary Todd, CC0 (Wikimedia Commons).*
 
 ![A Shang jade phoenix from the tomb of Fu Hao](../../../assets/inline/yinxu-jade-phoenix.jpg)
 
@@ -96,7 +96,7 @@ In 2006 Yinxu was inscribed on the UNESCO World Heritage list.
 
 In 2024 the new Yinxu Museum opened with nearly four thousand objects on display. In a sacrificial pit excavated in 2023, human bones were down by 67 per cent against earlier periods, with more cattle and sheep remains; the human bones that remained belonged to prisoners of war. Behind the figures lies a change of practice, or a shortage of resources; the report is still being written.
 
-Go back to the table in 1899. Wang Yirong saw a medicine. Today, on one ox shoulder blade, the diviner's name is Zheng, and he presided over many divinations in the reign of Wu Ding. His name was cut into the bone, and the bone was broken, cracked, ground into pieces and mixed into a medicine packet, and then picked out of it again.
+Go back to the table in 1899. Wang Yirong saw a medicine. Today, on the oracle bones, one diviner's name is Zheng, and he presided over many divinations in the reign of Wu Ding. His name was cut into the bone, and the bone was broken, cracked, ground into pieces and mixed into a medicine packet, and then picked out of it again.
 
 A man who questioned the gods ended up as the object of a question.
 
