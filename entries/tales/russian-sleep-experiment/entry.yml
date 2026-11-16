@@ -18,26 +18,26 @@ collections: []
 credibility: folklore
 sources:
   - id: S1
-    title: "Know Your Meme · Russian Sleep Experiment"
-    publisher: Know Your Meme
-    url: https://knowyourmeme.com/memes/russian-sleep-experiment
-    year: "2026"
-    license: 版权归 Know Your Meme；仅作事实参考
-    usage: 故事的早期传播、版本与网络迷因背景
-  - id: S2
-    title: "Creepypasta Wiki · The Russian Sleep Experiment"
-    publisher: Fandom
-    url: https://creepypasta.fandom.com/wiki/The_Russian_Sleep_Experiment
-    year: "2026"
-    license: CC BY-SA（Fandom 社区内容）；仅作文本参考
-    usage: 故事原文与常见版本
-  - id: S3
-    title: "Wikipedia · Creepypasta"
+    title: "Wikipedia · Russian Sleep Experiment"
     publisher: Wikipedia contributors
-    url: https://en.wikipedia.org/wiki/Creepypasta
+    url: https://en.wikipedia.org/wiki/Russian_Sleep_Experiment
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 网络恐怖文学的传播背景与“档案体”特征
+    usage: 五名苏联时期实验对象、睡眠抑制气体、2010 年 8 月 16 日 Creepypasta Wiki 用户 OrangeSoda 发布、修订记录显示最初见于 4chan /x/ 版、Snopes/news.com.au/LiveAbout 追踪辟谣、道具照片“Spazm”、Josh Millican 评价、2018 年爱尔兰心理惊悚片与 2022 年上映、2019 年舞台剧与杰里米·贝茨小说、《The Soviet Sleep Experiment》与克里斯·卡坦/巴里·安德森/莱克维尔拍摄
+  - id: S2
+    title: "Creepypasta.com · The Russian Sleep Experiment"
+    publisher: Creepypasta.com
+    url: https://creepypasta.com/the-russian-sleep-experiment
+    year: "2010"
+    license: 版权归原作者；仅作文本参考
+    usage: 故事原文：五名政治犯、三十天不睡、密封房间与兴奋气体、第六天尖叫、第十天死者藏墙、第十五天撕皮肤、第三十天四人存活与科学家被撕、叙述者幸存
+  - id: S3
+    title: "Randy Gardner drinks water after waking up（1964 年照片）"
+    publisher: Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Randy_Gardner_drinks_water_after_waking_up.jpg
+    year: "1964"
+    license: 公有领域
+    usage: 兰迪·加德纳连续 264 小时不睡后的历史照片
   - id: S4
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）

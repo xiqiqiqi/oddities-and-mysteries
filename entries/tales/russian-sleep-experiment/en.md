@@ -1,69 +1,99 @@
 ---
 title: The Sleep Experiment
-summary: The story says that in the 1940s Soviet Union, five political prisoners were sealed in a room and promised release if they stayed awake for thirty days. On the sixth day the microphones began to pick up screaming. On the thirtieth day the door opened. There is no archive. It is an internet horror story.
+summary: The story says that in the 1940s Soviet Union, five political prisoners were sealed in a room and promised release if they stayed awake for thirty days. On the sixth day the microphones began to pick up screaming. On the thirtieth day the door opened. There is no archive. It is an internet horror story posted in 2010, and the photograph that usually accompanies it is a Halloween prop.
 lang: en
 ---
 
 ## 1. The Story
 
-The 1940s, Soviet Union. Scientists seal five political prisoners in a chamber.
+The 1940s, Soviet Union. A group of scientists seal five political prisoners in a room.
 
-The room has beds, food, a toilet, and a gas that keeps them awake.
+The room has a bed, food, a latrine, and a gas that is fed in continuously to keep them awake. There is no window, only an observation pane and a microphone. The lights stay on. Day and night lose their shape. The five are taken in, the door closes behind them, and the bolt sounds.
 
-There were no windows, only an observation pane and a microphone. The light stayed on, so day and night could not be told apart. When the five were taken inside, the door closed behind them and the lock clicked.
+The terms: thirty days without sleep. Survive, and they go free.
 
-The deal: stay awake for thirty days, and you will be released.
+On the clipboard outside, the first days are neat: when they ate, when they spoke, who stood by the pane for a long time. By the sixth day the handwriting is going wrong.
 
-Outside the door, the notebook was neat for the first few days: when they ate, when they spoke, who stood by the window for a long time. By the sixth day, the handwriting began to loosen.
+![Reconstruction of the sealed observation room](../../../assets/inline/russian-sleep-room.jpg)
 
-![Reconstruction of the sealed observation room from the story](../../../assets/inline/russian-sleep-room.jpg)
-
-*Reconstruction: the sealed observation room in the story. This is an internet horror story, not a historical site. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the sealed observation room of the story. This is an internet horror story, not a historical site. Oddity Archive, CC BY-SA 4.0.*
 
 ## 2. The Sixth Day
 
-The story says that on the sixth day the microphones began to pick up screaming.
+On the sixth day, the story says, the microphone begins to pick up screaming.
 
-On the tenth day one of them died. The others hid the body in the wall.
+On the tenth day one of them dies. The others hide the body in the wall, filling the gap with torn cloth and waste.
 
-By the fifteenth day they were tearing at their own skin, saying, "We don't need sleep."
+On the fifteenth day they begin to tear at their own skin and say, "We do not need sleep." The observation pane is covered in handprints. The gas keeps flowing.
 
-## 3. The Door
+Outside, the scientists are afraid. They do not open the door. They keep taking notes.
 
-On the thirtieth day the scientists opened the room.
+## 3. The Thirtieth Day
 
-Four were alive, but no longer human. They demanded to be put back in the gas and to continue the experiment.
+On the thirtieth day, the scientists open the room.
 
-One scientist said he was quitting. The four tore him apart.
+Four are still alive, but not human. They ask the scientists to continue the experiment, to put them back in the gas. One scientist says he wants out. The four tear him apart and eat him.
 
-## 4. The Source
+Only the narrator survives. He is the one who has been keeping the record.
 
-This is not an archive.
+The story has no ending. It has a series of entries, and a sentence that gets shorter and shorter: "We do not need sleep."
 
-It appeared on the English-language internet around 2009–2010, was collected on the Creepypasta Wiki, and was translated into many languages.
+## 4. Where It Comes From
 
-It imitates the form of reports, recordings and laboratory notes, which is why it looks real.
+The story is not an archive.
 
-## 5. Real Sleep Deprivation
+It is a creepypasta. On 16 August 2010 a user called OrangeSoda posted it to the Creepypasta Wiki; the real name is unknown. The wiki's revision logs show that it first appeared on 4chan's /x/ board. Snopes, news.com.au and LiveAbout later traced and debunked it, and it was translated into many languages.
 
-Real sleep deprivation experiments were far milder.
+It imitates the form of a report, a recording, an experiment log. That is why it reads as true. There is no author's name, no archive number, no laboratory address, no real person to check. What it has is dates, a room number, an observation pane, a microphone, a clipboard. Those details make the reader believe they are holding a leaked file.
 
-In 1964 the American teenager Randy Gardner stayed awake for 264 hours, setting a record. He experienced mood changes, poor concentration and hallucinations, but he did not become a monster.
+## 5. The Photograph
 
-Long-term sleep loss damages cognition, but it does not turn people into what the story describes.
+The story is usually shared with a photograph: an emaciated figure, skin against bone, enormous eyes, standing in the dark.
 
-## 6. Why It Works
+The photograph is not an experiment. It is an animatronic Halloween prop called "Spazm", sold as a horror decoration.
 
-The story works because it stacks several fears together: state power, medicine, confinement and insomnia.
+A prop photograph, a paragraph with no provenance, and the "Russian Sleep Experiment" has its "evidence". This is the standard method of internet horror: give the reader an image, and let them supply the background. The photograph is copied and recopied until the image quality falls apart, which only makes it look more like an old file.
 
-There are no ghosts and no aliens. There is one room, and five people becoming less human.
+## 6. Real Sleep Deprivation
 
-The worst part is that you do not know what day you would become something else.
+Real sleep-deprivation experiments were milder.
 
-![The story structure, origin and real sleep deprivation](../../../assets/inline/russian-sleep-experiment.svg)
+In 1964 the American high-school student Randy Gardner, supervised by two researchers, stayed awake for 264 hours, eleven days, a record at the time. He became moody, his attention dropped, his short-term memory failed, and he hallucinated. In the last days his speech slowed and his reactions dulled. At the end of the experiment he slept for more than a dozen hours and largely recovered.
 
-*Original schematic: the thirty days of the story, the internet timeline and the real records of sleep deprivation. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+![Randy Gardner drinking water after 264 hours awake, 1964](../../../assets/inline/randy-gardner-1964.jpg)
+
+*Historical photograph: Randy Gardner drinking water after 264 hours without sleep, 1964. Public domain (Wikimedia Commons). The electrodes monitored his brain activity.*
+
+Long sleep deprivation damages cognition and affects the immune and metabolic systems; in extreme cases it can kill. But no record shows it turning a person into what the story describes: tearing their own skin, eating people, asking to be put back in the gas.
+
+Hallucinations usually arrive on the third or fourth day: seeing things that are not there, hearing voices, feeling someone standing in the room. The symptoms are reversible. They are not a transformation.
+
+What is more dangerous than the hallucinations is microsleep: the brain shutting down for a few seconds while the person believes they are awake. Often they do not notice. At the wheel or at a machine, a few seconds are enough.
+
+## 7. Why It Is Frightening
+
+The story is popular because it stacks several fears on top of one another: state power, medicine, a sealed room, sleeplessness. It stitches a political fear to a bodily one: the state will not let you sleep, and your body will not let you sleep.
+
+The state can lock a person up in the name of science. A doctor can watch you come apart, taking notes, not intervening. The room has no window, the light never goes off, time loses its shape. At the end you do not recognise yourself.
+
+There is no ghost and no alien. There is a room, and five people becoming less human.
+
+The worst part is that you do not know what day you will become something else.
+
+## 8. Afterwards
+
+The story has been adapted many times.
+
+A novel inspired by it appeared in 2015 and is now out of print. In 2019 a play, Subject UH1317 - When Science Traces A Deadly Turn, was staged. A psychological thriller began production in Ireland in 2018 and was released in November 2022. In July 2019 the horror novelist Jeremy Bates published The Sleep Experiment. A film, The Soviet Sleep Experiment, starring Chris Kattan and directed by Barry Andersson, was shot in Lakeville, Minnesota, in 2018.
+
+Each version adds something: more blood, more monsters, more "files". The core does not change: five people, one room, thirty days.
+
+On the thirtieth day the door opens. The one who kept the record is still alive. He writes the last line and leaves the story to the internet.
+
+![The structure, origin and real sleep-deprivation record](../../../assets/inline/russian-sleep-experiment.svg)
+
+*Original schematic: the thirty days of the story, the online timeline and the real sleep-deprivation record. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the internet horror story, real sleep deprivation research and the historical claim of a "Soviet experiment"; no archive or physical evidence supports the story. The illustration is a scene reconstruction, not a historical photograph.
+**Sources and licenses**: sources are listed in the ledger S1–S4 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the internet horror story, the prop photograph, real sleep-deprivation research and the historical claim of a "Soviet experiment"; no archive or physical evidence supports the story. The illustrations are a reconstruction, a historical photograph and a schematic, not photographs of the event.

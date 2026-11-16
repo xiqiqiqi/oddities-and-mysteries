@@ -23,15 +23,22 @@ sources:
     url: https://en.wikipedia.org/wiki/P%C3%BAca
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 变形形态、布莱恩·博鲁传说、萨温节与 Puck 的词源
+    usage: 爱尔兰语“精灵/鬼魂”与中古英语 puck 词源、西北欧同源词、变形形态与深色毛色、金眼黑马、善恶双重性、骑乘传说与“放回原处”、马刺与冷铁、谢恩·奥克罗宁《放牛娃与普卡》、布莱恩·博鲁三根尾毛缰绳、萨温节与“普卡的那份”、11 月 1 日、野果与黑莓禁忌、唐郡/莱伊什/沃特福德/罗斯康芒地方版本、山地问卜、莎士比亚《仲夏夜之梦》Puck、《哈维》pooka、《Darby O'Gill》、2022 年卡伦两米铜像
   - id: S2
-    title: "Atlas Obscura · The Púca Is Ireland's Supernatural Pastoral Trickster"
-    publisher: Atlas Obscura
-    url: https://www.atlasobscura.com/articles/monster-mythology-puca
-    year: "2026"
-    license: 版权归 Atlas Obscura；仅作事实参考
-    usage: 黑马形象、骑乘传说与布莱恩·博鲁的缰绳
+    title: "Wirt Sikes · Pwca（1880 年版画）"
+    publisher: Wirt Sikes / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Pwca_Wirt_Sikes_British_Goblins_1880.png
+    year: "1880"
+    license: 公有领域
+    usage: 《British Goblins》1880 年版中的 Pwca 插图
   - id: S3
+    title: "Pogany · The Púca and the Horse（1916 年插图）"
+    publisher: Padraic Colum / Pogany / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Colum-KOIS(Holt1916)-Pogany-illustr-p283-the-pooka-and-horse.jpg
+    year: "1916"
+    license: 公有领域
+    usage: 1916 年故事集中的普卡与黑马插图
+  - id: S4
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）
     url: https://xiqiqi.com/

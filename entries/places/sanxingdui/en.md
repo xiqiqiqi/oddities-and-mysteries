@@ -1,67 +1,101 @@
 ---
 title: The Bronze Masks
-summary: In 1929 a farmer near Guanghan, Sichuan, dug up a pit of jade. In 1986 two sacrificial pits yielded bronze masks with bulging eyes and huge ears, a bronze tree nearly four metres tall and a gold staff. The kingdom left no writing, only these faces looking at us.
+summary: In 1929 a farmer near Guanghan, Sichuan, dug up a pit of jade. In 1986 two sacrificial pits yielded bronze masks with bulging eyes and huge ears, a bronze tree 3.96 metres tall, a life-size bronze figure and a gold staff. The kingdom left no writing, only these faces looking at us.
 lang: en
 ---
 
 ## 1. 1929
 
-In 1929 a farmer near Guanghan, Sichuan, was digging a ditch by his yard when he unearthed a pit of jade objects.
+Spring 1929, Guanghan, Sichuan. A farmer, Yan Daocheng, was digging an irrigation ditch near his yard when his tool struck something hard. He uncovered a pit of jade and stone.
 
-He took them home. Local soldiers and scholars eventually learned of the find, and the name Sanxingdui began to appear in archaeological records.
+There were more than three hundred pieces. He took them home. Word reached the local garrison and then scholars; dealers, missionaries and university teachers came to look. In 1934 a team from West China Union University made the first trial excavation.
+
+The name Sanxingdui began to appear in archaeological records.
 
 ## 2. 1986
 
-In 1986 two sacrificial pits were discovered.
+In July 1986 local workers digging on the site uncovered a sacrificial pit.
 
-The pits were not large, and the objects were packed together. Bronze masks, ivory, jade and sea shells lay as if a whole ceremony had been buried at once. Archaeologists crouched at the edge, cleaning the earth with bamboo picks and brushes.
+The pit was not large. The objects were packed together: bronze masks, ivory, jade, cowrie shells, as if someone had buried an entire ritual in the ground. The archaeologists knelt at the edge and cleaned the earth away with bamboo sticks and brushes.
 
-They were filled with bronzes, gold, jade, ivory and sea shells. The most striking objects were the bronze masks: bulging eyes, enormous ears, mouths stretching almost to the edge of the face.
+Less than a month later, on 14 August 1986, a second pit was found about thirty metres away. It held roughly eight hundred objects: bronze heads, animal masks, bells, dragons, snakes, birds, axes; gold masks, a gold staff and a gold belt; jade tablets, discs, rings, knives; ivory and cowries.
 
-The eyes projected forward, and the ears opened to the sides. They did not seem to be looking at you, but at something behind you.
+Most of the objects had been smashed and burned before they were carefully buried. This was not rubbish disposal. It looks like a ritual destruction.
 
-![Reconstruction of the 1986 Sanxingdui excavation](../../../assets/inline/sanxingdui-pit.jpg)
+![Reconstruction of the 1986 excavation at Sanxingdui](../../../assets/inline/sanxingdui-pit.jpg)
 
-*Reconstruction: the excavation of a Sanxingdui sacrificial pit in 1986. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the excavation of a sacrificial pit at Sanxingdui in 1986. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
 
-There was also a bronze tree nearly four metres tall, a bronze standing figure more than two metres high, and a gold staff.
+## 3. The Objects
 
-## 3. Ancient Shu
+The bronze masks and heads draw the eye first.
 
-Sanxingdui belongs to the ancient Shu civilisation, dated to roughly the twelfth to eleventh century BCE.
+The eyes bulge outward, the ears flare to both sides, the mouth runs almost to the jaw. Some heads still carry black paint on the eyes, and vermilion in the lips, nostrils and ear holes. At least six heads were originally covered with gold foil masks. They do not seem to be looking at you. They seem to be looking at something behind you.
 
-The Shu kingdom lay on the Chengdu Plain, contemporary with the Shang dynasty to the north. It had advanced bronze casting but left no writing.
+There is also a bronze tree 396 centimetres tall, with birds, flowers and ornaments, its branches in three tiers of three. There is a bronze standing figure 2.62 metres tall, both hands raised in front of the chest, fingers curled around a ring. There is a gold staff engraved with human heads, fish and birds. There is a jade zhang blade 54 centimetres long.
 
-Without writing, we do not know what they called themselves, or whether the masks represented gods, ancestors or priests.
+Task Rosen, chief archaeological expert at the British Museum, considered these bronzes more outstanding than the Terracotta Army in Xi'an. Parts of the find were exhibited in Beijing in 1987 and 1990, and at the Olympic Museum in Lausanne in 1993.
 
-## 4. The Gold Mask
+![A bronze mask from Sanxingdui](../../../assets/inline/sanxingdui-bronze-mask.jpg)
 
-In 2021 a gold mask was found in one of the new pits.
+*Site photograph: a bronze mask from Sanxingdui, 2011. Gary Todd, CC0 (Wikimedia Commons). The eyes, ears and mouth are exaggerated far beyond human scale.*
 
-It weighs about 280 grams and is roughly 84 percent gold, close in size to the bronze masks. It may originally have covered a bronze head.
+![Detail of the bronze tree at Sanxingdui](../../../assets/inline/sanxingdui-bronze-tree.jpg)
 
-The same excavations found traces of silk, ivory and objects never seen before.
+*Site photograph: a detail of the bronze tree at Sanxingdui, 2008. Gary Todd, CC0 (Wikimedia Commons). A bird stands on a branch above a flower-like cluster.*
 
-## 5. Aliens
+## 4. Shu and Writing
 
-The bronze masks do not look like the people of the Central Plains, and so some people have said they were left by aliens.
+Sanxingdui belongs to the ancient culture of Shu. Radiocarbon dating places the artefacts in the twelfth to eleventh centuries BCE; the wider Sanxingdui culture runs from about 1700 to 1150 BCE.
 
-That is an internet-age fantasy. Archaeologists point out that Sanxingdui's bronzes and jades show contact with the Central Plains and the Yangtze region, but its forms are a local tradition.
+It was contemporary with the Shang dynasty of the Central Plain, and it developed a bronze art completely unlike the Shang. It had a walled city, founded around 1600 BCE: trapezoidal, with canals outside the walls and residential, workshop and religious districts inside, arranged along a central axis. It was a society under a strong central theocracy, trading for bronze material with the Yin and for ivory with South Asia.
 
-It was not an alien civilisation. It was a kingdom that left no writing and that we still do not fully understand.
+It left no writing. Without writing we do not know what they called themselves, or whether the masks were gods, ancestors or priests. We know only that a kingdom lasted here long before Qin conquered Shu in 316 BCE.
 
-## 6. Now
+The Chronicles of Huayang record that the first king of Shu, Cancong, had protruding eyes. Many of the Sanxingdui masks and heads have exactly that. Some scholars therefore read the great masks as portraits of Cancong; others read the protruding eyes as a cult of the eye, and there are eye-shaped objects that support this.
 
-The Sanxingdui Museum is in Guanghan. A new building opened in 2023, displaying the bronze masks, the tree and the gold mask.
+## 5. How the Masks Were Used
 
-The bulging eyes are still looking at us.
+The masks were not wall decorations.
 
-We do not know what they are looking at.
+Their size and structure suggest they were fixed to wooden supports or totems, or worn over clothing. The eyes, ears and mouth are enormous, covering the wearer's face. Liu Yang and other scholars argue that such masks may have been worn by a shi, the "personator" in a sacrifice: usually a young close relative of the dead, dressed and masked to represent the ancestor and receive the offerings in their place.
 
-![The bronze masks, pits and timeline of Sanxingdui](../../../assets/inline/sanxingdui.svg)
+The French sinologist Corinne Debaine-Francfort noticed the colours on the masks: black on the over-large eyes and eyebrows, vermilion in the lips, nostrils and ear holes. She reads them not as decoration but as ritual offering, something for the mask to taste, smell and hear, or something that gave it the power to breathe, hear and speak.
 
-*Original schematic: the features of the Sanxingdui bronze masks, the layout of the pits and the 1929–2023 timeline. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
+Birds, dragons, snakes and tigers recur in the bronze work. These four animals correspond to the four quadrants of the Chinese sky. Without writing we cannot say whether the bronzes encode a cosmology. We can say they were not cast at random.
+
+## 6. The New Pits
+
+Between 2020 and 2022 the archaeologists found six more sacrificial pits on the site.
+
+In March 2021 they announced more than five hundred new objects, including a gold mask three thousand years old. The mask is about 84 per cent gold and weighs around 280 grams, close in size to the bronze masks; it may originally have covered a bronze head. The same excavation produced traces of silk, ivory and bronze vessels of kinds never seen before.
+
+In December 2021 the first open conservation and restoration hall in China opened at Sanxingdui, where visitors can watch conservators work through glass. On 28 July 2023 the new Sanxingdui Museum building opened, several times the size of the old one.
+
+![A fragment of a gold mask from Sanxingdui](../../../assets/inline/sanxingdui-gold-mask.jpg)
+
+*Site photograph: a fragment of a gold mask from Sanxingdui, 2010. Gary Todd, CC0 (Wikimedia Commons). The gold foil was pressed into a mask shape; the edges are torn and crumpled.*
+
+## 7. The Alien Story
+
+The bronze masks do not look like people from the Central Plain. So some people say aliens made them.
+
+That is an internet-age idea. Archaeologists point out that Sanxingdui's bronzes and jades share materials and forms with the Central Plain and the Yangtze region, while the faces belong to a local tradition: bulging eyes, huge ears, wide mouths, matching the Shu legend of Cancong and the cult of the eye. The casting technique and the ritual assemblage also have parallels along the Yangtze.
+
+It was not an alien civilisation. It was a kingdom without writing, which we still do not fully understand. Its strangeness comes partly from the habit of looking at it from the Central Plain.
+
+## 8. Now
+
+The Sanxingdui Museum stands near Guanghan. The old building opened in 1997; the new one in 2023. In the gallery the bronze masks stand in a row, lit from below, the bulging eyes throwing shadows on the wall.
+
+Those eyes are still looking at us.
+
+We do not know at what.
+
+![The bronze masks, the pits and the timeline](../../../assets/inline/sanxingdui.svg)
+
+*Original schematic: the features of the Sanxingdui bronze masks, the layout of the pits and the timeline from 1929 to 2023. Not a photograph of the objects. Oddity Archive, CC BY-SA 4.0.*
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1929 discovery, the 1986 and 2021 pits, the ancient Shu civilisation and the "alien" claims; the site and its objects are archaeological evidence, while the alien claims have none. The illustration is a scene reconstruction, not a photograph of an artefact.
+**Sources and licenses**: sources are listed in the ledger S1–S5 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the 1929 discovery, the 1986 and 2021 pits, the Shu culture and the "alien" claim; the site and the objects rest on archaeology, the alien claim has no evidence. The illustrations are a reconstruction, site photographs and a schematic, not conservation images.

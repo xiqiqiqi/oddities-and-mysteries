@@ -3,8 +3,8 @@ type: place
 slug: sanxingdui
 title_zh: 青铜面具
 title_en: The Bronze Masks
-era: "约公元前 12 世纪–前 11 世纪"
-era_en: "c. 12th–11th century BCE"
+era: "约公元前 1700–前 1150 年"
+era_en: "c. 1700–1150 BCE"
 region: 中国，四川，广汉
 region_en: "Guanghan, Sichuan, China"
 coords: [31.00, 104.20]
@@ -23,22 +23,43 @@ sources:
     url: https://en.wikipedia.org/wiki/Sanxingdui
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 1929 年发现、1986 年祭祀坑、青铜面具与古蜀文明
+    usage: 1927/1929 年初步发现、1986 年两个祭祀坑与二号坑 8 月 14 日、约 800 件器物、砸碎烧埋、青铜面具与凸眼大耳、至少六件贴金箔头像、黑颜料与朱砂、青铜神树 396 厘米、立人 2.62 米、玉璋 54 厘米、Task Rosen 评价与北京/洛桑展出、碳十四公元前 12–11 世纪、城墙与运河、神权与殷地青铜/南亚象牙贸易、无文字、蚕丛凸眼与《华阳国志》、面具固定在木架/衣物、尸与刘洋、柯琳娜颜色解释、四方星宿动物、2021 年 500 余件与 84% 金面具、2020–2022 六坑、丝绸痕迹、1997 年博物馆与 2023 新馆、Jinsha
   - id: S2
-    title: "Britannica · Sanxingdui"
-    publisher: Encyclopaedia Britannica
-    url: https://www.britannica.com/place/Sanxingdui
-    year: "2026"
-    license: 版权归 Encyclopaedia Britannica；仅作事实参考
-    usage: 遗址年代、古蜀文化与出土器物
+    title: "四川省文物考古研究院 · 广汉三星堆大事记（1929–2000）"
+    publisher: 四川省文物考古研究院
+    url: https://www.sckg.com/uploads/soft/20230509/2-230509155415R6.pdf
+    year: "2023"
+    license: 版权归四川省文物考古研究院；仅作事实参考
+    usage: 1929 年春燕道诚挖水坑发现玉石器坑、出土 300 余件玉器
   - id: S3
-    title: "人民周刊 · 三星堆新发现"
-    publisher: 人民日报社
-    url: http://paper.people.com.cn/rmzk/html/2021-11/02/content_25886767.htm
-    year: "2021"
-    license: 版权归人民周刊；仅作事实参考
-    usage: 2021 年金面具、3 号坑与 4 号坑的新发现
+    title: "德阳市人民政府 · 三星堆古蜀文化遗址博物馆景区门票定价方案"
+    publisher: 德阳市人民政府
+    url: https://www.deyang.gov.cn/wcm.files/upload/202403/202403180843033.pdf
+    year: "2024"
+    license: 版权归德阳市人民政府；仅作事实参考
+    usage: 2023 年 7 月 28 日三星堆博物馆新馆正式开放
   - id: S4
+    title: "Shang Bronze Mask, Sanxingdui（青铜面具照片）"
+    publisher: Gary Todd / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Shang_Bronze_Mask,_Sanxingdui.jpg
+    year: "2011"
+    license: CC0
+    usage: 三星堆青铜面具现场照片
+  - id: S5
+    title: "Bronze Tree, Sanxingdui 3b（青铜神树照片）"
+    publisher: Gary Todd / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Bronze_Tree,_Sanxingdui_3b.jpg
+    year: "2008"
+    license: CC0
+    usage: 三星堆青铜神树局部照片
+  - id: S6
+    title: "Gold Mask, Sanxingdui（金面具照片）"
+    publisher: Gary Todd / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Gold_Mask,_Sanxingdui.jpg
+    year: "2010"
+    license: CC0
+    usage: 三星堆金面具残片照片
+  - id: S7
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）
     url: https://xiqiqi.com/

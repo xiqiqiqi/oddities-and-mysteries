@@ -23,14 +23,14 @@ sources:
     url: https://en.wikipedia.org/wiki/Varginha_UFO_incident
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 1996 年 1 月 20 日目击、三名目击者、军方与医院传闻
+    usage: 1996 年 1 月 20 日下午三点半、三名 14–22 岁女性、Rua Dr. Benevenuto Braz Vieira、大头两足与血管状斑点/头顶三突起/红球眼、摇晃如受伤、跑回家称“魔鬼”、巴西陆军调查结论（居民被误认、军车例行）、UFO 先行目击与医院/动物园/警察死亡传闻、貘/豹猫/两头灰短角鹿死亡、布莱恩·邓宁引语、飞碟水塔与飞船公交站/外星人玩偶/市政广告、1996–2025 年书籍与影视改编
   - id: S2
-    title: "Arquivo Nacional · Os ETS de Varginha"
-    publisher: Brazilian National Archive
-    url: https://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0462/BR_DFANBSB_ARX_0_0_0462_d0001de0001.pdf
-    year: "1996"
-    license: 巴西国家档案馆公开文件；仅作事实参考
-    usage: 当时的报道、救援与军方行动记录
+    title: "Nave Espacial de Varginha（水塔照片）"
+    publisher: ubirajararodrigues51 / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Nave_Espacial_de_Varginha.jpg
+    year: "2008"
+    license: CC BY-SA 2.0
+    usage: 瓦尔任阿市中心飞碟形水塔现场照片
   - id: S3
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）
