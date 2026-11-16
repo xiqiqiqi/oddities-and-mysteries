@@ -45,4 +45,7 @@ related:
   - carnac-stones
 status: published
 featured: false
-translation_status: translated
+translation_status: reviewed
+editorial_status: line_edited
+fact_ledger: research/fact-ledgers/places/sacsayhuaman.md
+image_license_audit: research/image-audit.csv

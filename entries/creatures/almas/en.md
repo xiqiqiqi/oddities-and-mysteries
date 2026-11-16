@@ -16,7 +16,7 @@ Herders say it fears fire and people. Sometimes it approaches a camp and takes f
 
 The descriptions vary, but some features recur.
 
-It is said to be one and a half to two metres tall, covered in reddish-brown or dark hair, with a human-like face but a heavy brow and a receding chin. It walks upright, has no tail, and has arms longer than a human's.
+It is said to be one and a half to two metres tall, covered in reddish‑brown or dark hair, with a human‑like face but a heavy brow and a receding chin. It walks upright, has no tail, and has arms longer than a human's.
 
 Some accounts say it runs fast; others say it moves heavily. Some say it calls at night, a sound like crying; others say it is almost silent.
 
@@ -24,7 +24,7 @@ These details come from oral accounts over many years and many places. They supp
 
 ![Almas sightings and distribution](../../../assets/inline/almas-map.svg)
 
-*Original schematic: the main areas associated with Almas legends and the common descriptions. Not a precise map. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the main areas associated with Almas legends and the common descriptions. Not a precise map. Oddity Archive, CC BY‑SA 4.0.*
 
 ## 3. The Soviet expeditions
 
@@ -72,9 +72,9 @@ This is also the most difficult part of the Almas story: it's spread too widely.
 
 ## Hair and Footprints
 
-Soviet-era study teams collected hair, footprints and so-called bone fragments.
+Soviet‑era study teams collected hair, footprints and so‑called bone fragments.
 
-The hair is the most common “material evidence.” It is easy to collect and to be mistaken. Bears, sheep, horses, and human hairs are characterized under microscopes, but after many years of storage, contamination, and transfer of hands, identification is not always reliable. Some samples are identified as coming from known animals, while others are too small to draw conclusions.
+The hair is the most common “material evidence.” It is easy to collect and to be mistaken. Bears, sheep, horses, and human hairs are characterised under microscopes, but after many years of storage, contamination, and transfer of hands, identification is not always reliable. Some samples are identified as coming from known animals, while others are too small to draw conclusions.
 
 Footprints are the same. Footprints on snow, mud and sand change shapes with temperature, humidity and wind. Footprints on a bear, folded on the back and the front, may look like a big foot; one person's footprints are stepped on by another person's footprints and may become wide and long.
 
@@ -84,7 +84,7 @@ Without a full skull, without teeth, without a single bone that can extract enou
 
 The story of Almas, and life in the mountains.
 
-The herdsmen were grazing far from the village, living in tents at night, hearing rocks rolling, wolves barking, wind blowing through the crevices. A man standing up could be a bear or a lost man. The next day, the image would be told to his neighbours; later, it would become "the thing in the mountains."
+The herdsmen were grazing far from the village, living in tents at night, hearing rocks rolling, wolves barking, wind blowing through the crevices. A man standing up could be a bear or a lost man. The next day, the image would be told to his neighbours; later, it would become “the thing in the mountains.”
 
 The story is not evidence, but it is a map. It tells the child not to go far, telling the hunter not to go into the mountain alone at night. The name Almas is a warning, not an animal that has been captured.
 
@@ -92,4 +92,4 @@ The story of Almas is hard to disappear because it does not ask you to believe i
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the oral descriptions, the Soviet expeditions, and the various explanations; it does not identify the Almas as a confirmed animal or archaic human.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the oral descriptions, the

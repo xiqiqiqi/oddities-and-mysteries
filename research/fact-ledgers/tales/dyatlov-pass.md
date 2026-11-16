@@ -1,0 +1,23 @@
+# 事实台账：帐篷从里面割开 / The Tent Cut From Inside
+
+- 条目：`tales/dyatlov-pass`
+- 来源：3 条
+- 生成日期：2026-11-16
+
+| ID | 主张（中文原文） | 来源 | 原文匹配 | 状态 | 备注 |
+|---|---|---|---|---|---|
+| C01 | title: 帐篷从里面割开summary: 1959 年 2 月，九名经验丰富的滑雪登山者在乌拉尔山失踪。 | S1；S2；S3 | 2/2 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C02 | lang: zh1959 年 1 月底，一支九人队伍从乌拉尔山脉北部的村庄出发。 | S1；S2；S3 | 2/2 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C03 | 2 月 1 日，他们在霍拉特-萨赫尔山的斜坡上扎营。 | S1；S2；S3 | 2/2 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C04 | 2 月 26 日，搜救队找到了帐篷。 | S1；S2；S3 | 2/2 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C05 | 2021 年，一项发表在《Communications Earth & Environment》上的研究用计算机模拟了该地形的雪崩条件，认为一次板状雪崩可能在人们熟睡时发生，迫使他们割开帐篷逃生。 | S1；S2；S3 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C06 | 俄罗斯官方在 2020 年给出的结论是雪崩。 | S1；S2；S3 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C07 | 1959 年，一支苏联登山队，在乌拉尔山脉的佳特洛夫山口附近。 | S1；S2；S3 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C08 | 1959 年 2 月，九名登山者死在乌拉尔山。 | S1；S2；S3 | 2/2 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+
+## 说明
+
+- 本台账由脚本从中文正文抽取带年份/数字的主张，并在引用的 Wikipedia 原文中做字面匹配。
+- `verified_by_source_text` 表示关键年份/数字能在来源原文中找到，不等同于语义与语境核查。
+- `partial` 与 `needs_review` 需编辑逐条核对；`no_source_text` 表示该条目没有可抓取的 Wikipedia 原文。
+- 来源编号对应 `entry.yml` 的 `sources` 顺序。

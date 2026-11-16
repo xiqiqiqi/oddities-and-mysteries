@@ -24,11 +24,11 @@ lang: zh
 
 ![霍科莫克沼泽中废弃铁路路基](../../../assets/inline/bridgewater-hockomock-swamp.jpg)
 
-*现场照片：2026-06-24，4300streetcar，CC BY 4.0（Wikimedia Commons）。沼泽中废弃铁路路基，碎石路尽头没入林木。*
+*现场照片（废弃铁路路基）：2026-06-24，4300streetcar，CC BY 4.0（Wikimedia Commons）。沼泽中废弃铁路路基，碎石路尽头没入林木。*
 
 ![穿过霍科莫克沼泽的高压线走廊](../../../assets/inline/bridgewater-hockomock-powerlines.jpg)
 
-*现场照片：2026-06-24，4300streetcar，CC BY 4.0（Wikimedia Commons）。高压线走廊穿过沼泽，土路向铁塔延伸。*
+*现场照片（高压线走廊）：2026-06-24，4300streetcar，CC BY 4.0（Wikimedia Commons）。高压线走廊穿过沼泽，土路向铁塔延伸。*
 
 ## 三、清单上的地点
 

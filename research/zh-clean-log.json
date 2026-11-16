@@ -1,0 +1,26 @@
+{
+  "creatures/kelpie": {
+    "status": "failed",
+    "reasons": [
+      "chars 985"
+    ]
+  },
+  "creatures/mongolian-death-worm": {
+    "status": "failed",
+    "reasons": [
+      "chars 1033"
+    ]
+  },
+  "creatures/mothman": {
+    "status": "failed",
+    "reasons": [
+      "chars 1012"
+    ]
+  },
+  "creatures/selma": {
+    "status": "failed",
+    "reasons": [
+      "chars 1115"
+    ]
+  }
+}

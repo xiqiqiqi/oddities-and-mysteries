@@ -26,11 +26,11 @@ lang: zh
 
 ![2019 年台基西壁的三巨石近景](../../../assets/inline/baalbek-2019-trilithon.jpg)
 
-*现场照片：2019-05-15，Lodo27，CC BY-SA 3.0（Wikimedia Commons）。三巨石的风化面与砌缝。*
+*三巨石的风化面与砌缝：现场照片，2019-05-15，Lodo27 摄，CC BY-SA 3.0，Wikimedia Commons。*
 
 ![1850 年杜坎拍摄的台基西壁与柱廊](../../../assets/inline/baalbek-1850-ducamp-west-wall.jpg)
 
-*历史照片：1850-09-15，Maxime Du Camp，盐纸印相。The Metropolitan Museum of Art，CC0。*
+*台基西壁与柱廊：历史照片，1850-09-15，Du Camp 摄，盐纸印相，Met 藏，CC0。*
 
 没有起重机，没有钢。只有木橇、滚轴、绳索、杠杆，和愿意拉绳的人与牛。石头落位后几乎不再移动，下一层砌体直接压上去，一压一千多年。
 
@@ -40,7 +40,7 @@ lang: zh
 
 ![2019 年采石场岩壁上的竖直切槽](../../../assets/inline/baalbek-2019-quarry-face.jpg)
 
-*现场照片：2019-05-15，Lodo27，CC BY-SA 3.0（Wikimedia Commons）。采石场岩壁的切槽。*
+*采石场岩壁的切槽：现场照片，2019-05-15，Lodo27 摄，CC BY-SA 3.0，Wikimedia Commons。*
 
 坑里斜躺着一块切离岩床却从未运走的石头，当地人叫它"孕妇石"，长约二十米，一边还连着山体，现代估计约一千吨。2018 年的照片里，它右端站着两个红衣人，身高不及石头的一半；石顶插着一面黎巴嫩国旗，背景是今天的镇子和清真寺尖塔。
 
@@ -86,13 +86,13 @@ lang: zh
 
 ![1843–44 年 Prangey 银版：台基长墙](../../../assets/inline/baalbek-1843-prangey-panorama.jpg)
 
-*历史照片：1843–1844，Joseph-Philibert Girault de Prangey，银版法。The Metropolitan Museum of Art，CC0。*
+*台基长墙全景：历史照片，1843–1844，Prangey 摄，银版，Met 藏，CC0。*
 
 银版不是纸，是镀银铜板：影像浮在镜面上，要侧着光才看清；边缘氧化斑看着像霉，其实是银在变黑。看这两张图，你得想象一个人举着镜子找角度。
 
 ![1843 年 Prangey 银版：六角院](../../../assets/inline/baalbek-1843-prangey-hexagonal.jpg)
 
-*历史照片：1843–1844，Joseph-Philibert Girault de Prangey，银版法。The Metropolitan Museum of Art，CC0。*
+*六角院坍塌的砌体：历史照片，1843–1844，Prangey 摄，银版，Met 藏，CC0。*
 
 ## 七、1850 年 9 月 15 日
 
@@ -102,17 +102,17 @@ lang: zh
 
 ![1850 年杜坎相册页：六柱与额枋](../../../assets/inline/baalbek-1850-ducamp-six-columns.jpg)
 
-*历史照片：1850-09-15，Maxime Du Camp，盐纸印相，相册页含手写图注。The Metropolitan Museum of Art，CC0。*
+*历史照片（六柱与额枋）：1850-09-15，Du Camp，盐纸印相，相册页有手写图注。Met，CC0。*
 
 另一张里一根倒柱斜靠台基墙，像被人扶住了一半；还有一张拍半圆外墙，拱龛上方压着方石，石缝里长草。
 
 ![1850 年杜坎：斜倚台基墙的倒柱](../../../assets/inline/baalbek-1850-ducamp-leaning-column.jpg)
 
-*历史照片：1850-09-15，Maxime Du Camp，盐纸印相。The Metropolitan Museum of Art，CC0。*
+*倒柱斜倚台基墙：历史照片，1850-09-15，Du Camp 摄，盐纸印相，Met 藏，CC0。*
 
 ![1850 年杜坎：半圆外墙与拱龛](../../../assets/inline/baalbek-1850-ducamp-hemicycle.jpg)
 
-*历史照片：1850-09-15，Maxime Du Camp，盐纸印相。The Metropolitan Museum of Art，CC0。*
+*半圆外墙与拱龛：历史照片，1850-09-15，Du Camp 摄，盐纸印相，Met 藏，CC0。*
 
 ## 八、旁边那座几乎完整的庙
 

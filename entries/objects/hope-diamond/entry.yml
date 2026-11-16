@@ -39,10 +39,20 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0
     usage: 年代、持有人、传说来源
+  - id: S4
+    title: 原创图解与场景复原图
+    publisher: 稀奇奇编辑部（AI 辅助生成）
+    url: https://xiqiqi.com/
+    year: "2026"
+    license: CC BY-SA 4.0；不含第三方版权素材
+    usage: 正文中的原创示意图、地图、场景复原与时间线；不是历史照片
 cover: ../../../assets/covers/hope-diamond.jpg
 related:
   - tunguska-1908
   - mary-celeste
 status: published
 featured: true
-translation_status: translated
+translation_status: reviewed
+editorial_status: line_edited
+fact_ledger: research/fact-ledgers/objects/hope-diamond.md
+image_license_audit: research/image-audit.csv

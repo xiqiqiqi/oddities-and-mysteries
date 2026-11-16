@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-11-16T15:33:04.336Z",
+  "entries": 151,
+  "channels": {
+    "creatures": 30,
+    "mystery": 31,
+    "objects": 30,
+    "places": 30,
+    "tales": 30
+  },
+  "imageAuditRows": 442,
+  "imageAuditVerified": 442,
+  "errors": [],
+  "warnings": []
+}

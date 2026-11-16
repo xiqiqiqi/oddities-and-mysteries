@@ -1,0 +1,23 @@
+# 事实台账：海里的长脖子 / The Long Neck in the Sea
+
+- 条目：`creatures/cadborosaurus`
+- 来源：3 条
+- 生成日期：2026-11-16
+
+| ID | 主张（中文原文） | 来源 | 原文匹配 | 状态 | 备注 |
+|---|---|---|---|---|---|
+| C01 | title: 海里的长脖子summary: 加拿大不列颠哥伦比亚的卡德伯罗湾，从 1930 年代起就有人报告看到一条长脖子的海怪。 | S1；S2；S3 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C02 | 1937 年，捕鲸人在一条抹香鲸的胃里发现了一具奇怪的尸体，照片传遍了报纸。 | S1；S2；S3 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C03 | 1930 年代，当地的水手和渔民开始报告，说湾里有一条奇怪的东西：长长的身体，黑色的背，偶尔露出水面的脖子和头。 | S1；S2；S3 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C04 | 1937 年 10 月，纳登港的捕鲸站。 | S1；S2；S3 | 2/2 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C05 | “卡德伯罗龙”这个名字，是 1930 年代起的。 | S1；S2；S3 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C06 | 1995 年，两位研究者提出，如果这种动物真的存在，应该给它一个学名：“Cadborosaurus willsi”。 | S1；S2；S3 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C07 | 1937 年的尸体，最合理的解释是鲸鱼胎儿。 | S1；S2；S3 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C08 | 1930 年代，维多利亚和温哥华岛的报纸开始报道海湾里的“海蛇”。 | S1；S2；S3 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+
+## 说明
+
+- 本台账由脚本从中文正文抽取带年份/数字的主张，并在引用的 Wikipedia 原文中做字面匹配。
+- `verified_by_source_text` 表示关键年份/数字能在来源原文中找到，不等同于语义与语境核查。
+- `partial` 与 `needs_review` 需编辑逐条核对；`no_source_text` 表示该条目没有可抓取的 Wikipedia 原文。
+- 来源编号对应 `entry.yml` 的 `sources` 顺序。

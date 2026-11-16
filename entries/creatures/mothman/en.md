@@ -72,10 +72,6 @@ Over the next few months, there were more reports of sightings. Some said it was
 
 These descriptions are not consistent. But red eyes and wings appear again and again, becoming a fixed feature of the moths.
 
-## Silver Bridge
-
-Cars and pedestrians on the bridge fell into the Ohio River, where 46 people died. The investigation of the accident pointed to a cracking eye pole and a long-term accumulated fatigue problem.
-
 ## Kiel's book
 
 In 1975, the writer John Kiel published The Elephant.

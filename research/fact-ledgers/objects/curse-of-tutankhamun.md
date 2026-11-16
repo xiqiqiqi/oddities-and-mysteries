@@ -1,0 +1,23 @@
+# 事实台账：法老的诅咒 / The Pharaoh's Curse
+
+- 条目：`objects/curse-of-tutankhamun`
+- 来源：3 条
+- 生成日期：2026-11-16
+
+| ID | 主张（中文原文） | 来源 | 原文匹配 | 状态 | 备注 |
+|---|---|---|---|---|---|
+| C01 | title: 法老的诅咒summary: 1922 年 11 月，霍华德·卡特打开图坦卡蒙的陵墓。 | S1；S2；S3 | 2/2 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C02 | 1922 年 11 月 4 日，考古学家霍华德·卡特的工人挖到一级台阶。 | S1；S2；S3 | 3/3 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C03 | 卡纳冯在 1923 年 3 月被蚊子咬了一口，位置在脸颊上。 | S1；S2；S3 | 2/2 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C04 | 4 月 5 日，他在开罗的一家酒店去世，五十六岁。 | S1；S2；S3 | 2/2 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C05 | 它是 1920 年代的报纸编出来的，后来被无数本书和电影重复。 | S1；S2；S3 | 0/1 | needs_review | 自动匹配来源原文年份/数字 |
+| C06 | 1923 年 5 月，美国铁路继承人乔治·杰伊·古尔德在参观陵墓后死于肺炎。 | S1；S2；S3 | 2/2 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C07 | 9 月，卡纳冯的同事奥布里·赫伯特去世。 | S1；S2；S3 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C08 | 1928 年，参与整理文物的 A.C. 梅斯去世。 | S1；S2；S3 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+
+## 说明
+
+- 本台账由脚本从中文正文抽取带年份/数字的主张，并在引用的 Wikipedia 原文中做字面匹配。
+- `verified_by_source_text` 表示关键年份/数字能在来源原文中找到，不等同于语义与语境核查。
+- `partial` 与 `needs_review` 需编辑逐条核对；`no_source_text` 表示该条目没有可抓取的 Wikipedia 原文。
+- 来源编号对应 `entry.yml` 的 `sources` 顺序。

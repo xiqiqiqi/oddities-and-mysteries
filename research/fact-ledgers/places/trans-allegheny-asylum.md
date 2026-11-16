@@ -1,0 +1,23 @@
+# 事实台账：山上的病房 / The Wards on the Hill
+
+- 条目：`places/trans-allegheny-asylum`
+- 来源：4 条
+- 生成日期：2026-11-16
+
+| ID | 主张（中文原文） | 来源 | 原文匹配 | 状态 | 备注 |
+|---|---|---|---|---|---|
+| C01 | title: 山上的病房summary: 1858 年，弗吉尼亚州在西弗吉尼亚的韦斯顿动工修建一座精神病院。 | S1；S2；S3；S4 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C02 | 它按柯克布莱德平面设计，装 250 人；到 1950 年代，里面挤了两千四百多人。 | S1；S2；S3；S4 | 2/2 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C03 | 1994 年关闭，2008 年变成景点。 | S1；S2；S3；S4 | 2/2 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C04 | lang: zh1858 年，弗吉尼亚州议会批准，在西弗吉尼亚的韦斯顿建一座精神病院。 | S1；S2；S3；S4 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C05 | 1862 年和 1863 年，南军两次袭扰，短暂赶走了联邦军。 | S1；S2；S3；S4 | 2/2 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C06 | 1864 年 10 月，医院收治第一批病人。 | S1；S2；S3；S4 | 1/2 | partial | 自动匹配来源原文年份/数字 |
+| C07 | 1913 年，医院改名“韦斯顿州立医院”。 | S1；S2；S3；S4 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C08 | 1950 年代，里面有两千四百多人。 | S1；S2；S3；S4 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+
+## 说明
+
+- 本台账由脚本从中文正文抽取带年份/数字的主张，并在引用的 Wikipedia 原文中做字面匹配。
+- `verified_by_source_text` 表示关键年份/数字能在来源原文中找到，不等同于语义与语境核查。
+- `partial` 与 `needs_review` 需编辑逐条核对；`no_source_text` 表示该条目没有可抓取的 Wikipedia 原文。
+- 来源编号对应 `entry.yml` 的 `sources` 顺序。

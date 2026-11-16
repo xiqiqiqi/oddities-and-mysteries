@@ -78,11 +78,11 @@ lang: zh
 
 ![妇好墓与墓前的雕像](../../../assets/inline/yinxu-fuhao-tomb.jpg)
 
-*现场照片：妇好墓的墓圹与墓前雕像，殷墟（墓葬年代约公元前 1200 年，照片为现代）。Gary Todd，CC0（Wikimedia Commons）。*
+*现场照片（妇好墓墓圹）：妇好墓的墓圹与墓前雕像，殷墟（墓葬年代约公元前 1200 年，照片为现代）。Gary Todd，CC0（Wikimedia Commons）。*
 
 ![妇好墓出土的商代玉凤](../../../assets/inline/yinxu-jade-phoenix.jpg)
 
-*现场照片：妇好墓出土的商代玉凤，约公元前 1200 年。Gary Todd，CC0（Wikimedia Commons）。*
+*现场照片（商代玉凤）：妇好墓出土的商代玉凤，约公元前 1200 年。Gary Todd，CC0（Wikimedia Commons）。*
 
 ## 七、鼎
 

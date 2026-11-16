@@ -1,0 +1,27 @@
+{
+  "creatures/almas/en.md": {
+    "status": "done",
+    "words": 1124,
+    "at": "2026-11-16 23:12:34"
+  },
+  "creatures/beast-of-bray-road/en.md": {
+    "status": "done",
+    "words": 1101,
+    "at": "2026-11-16 23:16:15"
+  },
+  "creatures/beast-of-gevaudan/en.md": {
+    "status": "done",
+    "words": 1109,
+    "at": "2026-11-16 23:17:02"
+  },
+  "creatures/black-eyed-children/en.md": {
+    "status": "done",
+    "words": 1106,
+    "at": "2026-11-16 23:28:51"
+  },
+  "creatures/black-shuck/en.md": {
+    "status": "done",
+    "words": 1028,
+    "at": "2026-11-16 23:30:33"
+  }
+}

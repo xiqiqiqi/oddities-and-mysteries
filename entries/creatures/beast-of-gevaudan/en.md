@@ -24,17 +24,17 @@ Dusk comes early in the hills. Once the sun drops, the pasture turns grey and a 
 
 ![The edge of the wood above a Gévaudan village](../../../assets/inline/gevaudan-edge.jpg)
 
-*Reconstruction: a Gévaudan village, pasture, and the animal at the treeline in the 1760s. Not a historical painting. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: a Gévaudan village, pasture, and the animal at the treeline in the 1760s. Not a historical painting. Oddity Archive, CC BY‑SA 4.0.*
 
 ![Timeline of the Beast of Gévaudan](../../../assets/inline/gevaudan-timeline.svg)
 
-*Original schematic: the attacks and hunts in Gévaudan, 1764–1767. Not a historical painting. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the attacks and hunts in Gévaudan, 1764–1767. Not a historical painting. Oddity Archive, CC BY‑SA 4.0.*
 
 ## 3. What it looked like
 
 The descriptions do not agree.
 
-Some said it was like a wolf but larger. Some said it had reddish-brown fur with a dark stripe along its back. Some said it had a long tail, a large head, and a dog-like muzzle. Others said its hide was so tough that ordinary bullets could not penetrate it.
+Some said it was like a wolf but larger. Some said it had reddish‑brown fur with a dark stripe along its back. Some said it had a long tail, a large head, and a dog‑like muzzle. Others said its hide was so tough that ordinary bullets could not penetrate it.
 
 Later prints and pamphlets elaborated these details. By now, the Beast of Gévaudan sits somewhere between a wolf, a dog, and a monster.
 
@@ -42,19 +42,19 @@ Later prints and pamphlets elaborated these details. By now, the Beast of Gévau
 
 News reached Versailles.
 
-In 1765, Louis XV sent his chief wolf hunter, François Antoine, with hounds and soldiers. In September, Antoine shot a very large wolf and brought it to court.
+In 1765, Louis XV sent his chief wolf hunter, François Antoine, with hounds and soldiers. In September, Antoine shot a very large wolf and brought it to court.
 
 People thought the affair was over. Then the attacks resumed.
 
-In June 1767, a local hunter, Jean Chastel, killed a large animal in the hills. After that, the attacks stopped. Chastel was said to have used bullets he had cast himself, and the story grew from there.
+In June 1767, a local hunter, Jean Chastel, killed a large animal in the hills. After that, the attacks stopped. Chastel was said to have used bullets he had cast himself, and the story grew from there.
 
 ## 5. What was it?
 
 The most common explanation is a wolf, or a group of wolves.
 
-Wolves were numerous in eighteenth-century Gévaudan and came closer to villages when food was scarce in winter. But ordinary wolves usually avoid people, and three years of deliberate attacks on humans is not typical.
+Wolves were numerous in eighteenth‑century Gévaudan and came closer to villages when food was scarce in winter. But ordinary wolves usually avoid people, and three years of deliberate attacks on humans is not typical.
 
-Another explanation is a wolf-dog hybrid or a large dog raised by humans. Such an animal would not fear people and might treat them as prey. Some have suggested a trained animal, or even a serial killer using the beast rumours to cover his crimes.
+Another explanation is a wolf‑dog hybrid or a large dog raised by humans. Such an animal would not fear people and might treat them as prey. Some have suggested a trained animal, or even a serial killer using the beast rumours to cover his crimes.
 
 Another possibility is that there was more than one animal. The one Antoine killed and the one Chastel killed may not have been the same, and different animals may have been responsible for different attacks.
 
@@ -76,7 +76,7 @@ The archives have one thing in common: they record “humans attacked by beasts�
 
 ## Hunting
 
-In 1765, the court-runner Antoine went in with his hounds and soldiers. He killed a big wolf and brought the body back to Versailles. The court thought the problem was solved, but the attack did not stop.
+In 1765, the court‑runner Antoine went in with his hounds and soldiers. He killed a big wolf and brought the body back to Versailles. The court thought the problem was solved, but the attack did not stop.
 
 In 1767, the local hunter Shastor killed another large animal on the hill. After that, the attack came to a halt. Shastor used his own bullets, a story that was later filled with mythology.
 
@@ -92,10 +92,4 @@ The other explanation is combing. Such animals are not afraid of humans, they ar
 
 There is also a darker argument: a serial killer uses the rumours of “beasts” to cover up crimes. There is no direct evidence for this hypothesis, but it reminds us that historical “monsters” are sometimes just another name for human violence.
 
-Today's Gevodang is already a quiet agricultural area. Wolves are long gone, and forests are cut off from roads and villages. But there are still tourists every year looking for traces of the Beast. Most of what they find are stonestones, old paintings and a signboard.
-
-The file of Gewodang does not give a clean answer. It leaves behind only a string of dates, deaths, and hunting. It doesn't matter if there's a monster. What's important is how a village uses a beast to explain its fear.
-
----
-
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the attack record, the official hunts, the eyewitness descriptions, and the various explanations; estimates of the death toll and the animal's identity vary, and the “werewolf” interpretation is not treated as a conclusion.
+Today's Gevodang is already a quiet agricultural area. Wolves are long gone, and forests are cut off

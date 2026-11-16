@@ -58,34 +58,6 @@ No body, no capture, no reliable photograph. What remains is a stack of newspape
 
 He may have been one man. He may have been several. He may have been a story told too many times.
 
-## London, 1837
-
-London was expanding in 1837.
-
-The gas lights just showed up, and the streets were still dark at night. The report on a "jump-a-boom" started at night like this. Some say he was in Barnes, Krapperm, Peckm and Brixton.
-
-He's wearing strange clothes, helmets or masks, and he's not as fast as a normal person. The exaggeration is that he can jump over the wall and fall on the roof.
-
-## Letters from 1838
-
-In 1838, a letter to the Mayor of London put things in the public domain.
-
-The letter was reprinted by the newspaper. Soon, the Spring Leg Jack became the name the Londoners talked about. The letter could not be verified, but it gave the newspaper a title that could be written over and over again.
-
-## Spring
-
-The most practical explanation is that there are pranks.
-
-There are also suspicions that this is related to noble pranks. In the nineteenth century, in Britain, some rich young people liked to scare people at night and use the streets as a stage. There was no evidence to point to a particular person, but that kind of play did exist.
-
-## Cheap reading
-
-Jack the spring leg didn't stop in the paper.
-
-Jack the spring leg left no body, no name. He left a motion: jumping from the ground, crossing the wall, disappearing in the fog. This action is easier to remember than any identity.
-
-Today, the name of Jack the Spring Leg appears in comics, games and London's ghost story route. Nobody knows who he really is, but it doesn't matter. He just has to jump.
-
 ## Supplementary Notes
 
 The story of Jack the Spring Leg overlaps with London’s night-time history of lighting. The gas light makes the streets brighter and the shadow more sudden. A man jumps from the light into the dark, and from the dark into the wall, and it looks like it's gone. Technology changes cities, and it changes the way monsters appear.

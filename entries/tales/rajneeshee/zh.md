@@ -14,7 +14,7 @@ lang: zh
 
 ![航拍拉杰尼希普拉姆的大型白色屋顶建筑](../../../assets/inline/rajneeshee-commune.jpg)
 
-*历史照片：1985-10-10，Ted Quackenbush，GFDL 1.2（Wikimedia Commons）。航拍公社的大型白色屋顶建筑与周围旱地。*
+*历史照片：1985-10-10，SAMVADO Gunnar Kossatz，CC BY-SA 2.0 de（Wikimedia Commons）。航拍公社的大型白色屋顶建筑与周围旱地。*
 
 ## 二、"salsa"
 

@@ -1,0 +1,21 @@
+# 事实台账：路边的搭车人 / The Hitchhiker at the Roadside
+
+- 条目：`creatures/vanishing-hitchhiker`
+- 来源：3 条
+- 生成日期：2026-11-16
+
+| ID | 主张（中文原文） | 来源 | 原文匹配 | 状态 | 备注 |
+|---|---|---|---|---|---|
+| C01 | 1602 年 2 月，瑞典西约塔兰。 | S1；S2；S3 | 2/2 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C02 | 让这个故事真正流行起来的，是 1981 年扬·哈罗德·布鲁万德（Jan Harold Brunvand）的书《消失的搭车人》。 | S1；S2；S3 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C03 | 他在书里说，这个故事可以追溯到 1870 年代。 | S1；S2；S3 | 1/1 | verified_by_source_text | 自动匹配来源原文年份/数字 |
+| C04 | 1970 年代，比尔德斯利和汉基（Beardsley and Hankey）做过一次调查，收集了 79 份书面记录，全部来自美国。 | S1；S2；S3 | 0/1 | needs_review | 自动匹配来源原文年份/数字 |
+| C05 | 最常见的说法是：她叫玛丽·布雷戈维（Mary Bregovy），1930 年代在一场车祸中死去，葬在复活公墓。 | S1；S2；S3 | 0/1 | needs_review | 自动匹配来源原文年份/数字 |
+| C06 | 但研究者查过档案：玛丽·布雷戈维确实死于 1934 年的车祸，事故却发生在市中心，不是阿彻大道；她的墓也不一定在复活公墓。 | S1；S2；S3 | 0/1 | needs_review | 自动匹配来源原文年份/数字 |
+
+## 说明
+
+- 本台账由脚本从中文正文抽取带年份/数字的主张，并在引用的 Wikipedia 原文中做字面匹配。
+- `verified_by_source_text` 表示关键年份/数字能在来源原文中找到，不等同于语义与语境核查。
+- `partial` 与 `needs_review` 需编辑逐条核对；`no_source_text` 表示该条目没有可抓取的 Wikipedia 原文。
+- 来源编号对应 `entry.yml` 的 `sources` 顺序。

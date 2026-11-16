@@ -1,0 +1,52 @@
+{
+  "version": "v3.0-publication",
+  "generatedAt": "2026-11-16",
+  "entries": 151,
+  "channels": {
+    "creatures": 30,
+    "mystery": 31,
+    "objects": 30,
+    "places": 30,
+    "tales": 30
+  },
+  "factLedgers": 151,
+  "factLedgerSummary": {
+    "claimsVerifiedBySourceText": 651,
+    "claimsPartial": 27,
+    "claimsNeedingReview": 121,
+    "entriesWithoutWikipediaSourceText": 85
+  },
+  "imageAudit": {
+    "rows": 442,
+    "verified": 442,
+    "review": 0,
+    "missing": 0,
+    "covers": 151,
+    "inline": 291
+  },
+  "gate": {
+    "script": "repos/oddities-core/scripts/quality-gate.mjs",
+    "passed": true,
+    "checks": [
+      "151 条目全部存在 entry.yml / zh.md / en.md",
+      "translation_status=reviewed",
+      "editorial_status=line_edited",
+      "fact_ledger 文件存在",
+      "image_license_audit 文件存在",
+      "中英小节数一致",
+      "无重复小节（相似度 >= 0.72）",
+      "中文 >= 1000 字，英文 >= 650 词"
+    ]
+  },
+  "editorialNote": "英文为逐篇 AI 辅助母语级改写与人工规则复核，标记为 reviewed / line_edited；未冒充人工母语编辑签核。中文 143 篇 >= 1800 字，8 篇清理重复段落后为 1100–1400 字。",
+  "shortFormEntries": [
+    "creatures/igopogo",
+    "creatures/leviathan",
+    "creatures/selma",
+    "places/sacsayhuaman",
+    "places/sipan",
+    "tales/balloon-hoax",
+    "tales/gospel-of-jesus-wife",
+    "tales/piltdown-man"
+  ]
+}
