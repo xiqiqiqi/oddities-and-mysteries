@@ -1,10 +1,17 @@
 {
-  "total": 151,
-  "verified": 860,
-  "partial": 35,
-  "review": 135,
-  "no_source": 65,
-  "entriesWithFiveMappedFacts": 151,
-  "mappedFacts": 755,
-  "gateC": "151/151 entries have at least 5 mapped hard facts"
+  "totalEntries": 151,
+  "generatedAt": "2026-11-16",
+  "gateC": {
+    "status": "pass",
+    "entriesWithFiveMappedFacts": 151,
+    "mappedFacts": 755,
+    "note": "每篇至少 5 条硬事实映射到来源编号；结构门通过。"
+  },
+  "numericAudit": {
+    "claimsVerifiedBySourceText": 860,
+    "claimsPartial": 35,
+    "claimsNeedingSemanticReview": 135,
+    "claimsWithoutFetchableSourceText": 65,
+    "note": "仅统计带年份/数字的主张；135 条数字未在已抓取的 Wikipedia 摘要中字面命中，65 条所属 9 篇只有非 Wikipedia 来源。均保留为待人工核对，不计为已核实。"
+  }
 }
