@@ -1,69 +1,79 @@
 ---
-title: The Shaggy Beast
-summary: In medieval France, a wingless dragon lived in the Huisne River. Its back was covered in thick hair hiding quills it could fire; when it entered the water, the river rose. It said it had been left off Noah's Ark, and it hated humans for it.
+title: The Hairy One of the Huisne
+summary: "Near La Ferté-Bernard in the Sarthe, legend puts an ox-sized beast in the Huisne — green hair, venomous quills it could fire like arrows, a serpent's head, and one weak point, its tail. A young man killed it after it took his fiancée. The name Peluda is Spanish, borrowed by Borges; locally the creature is La Velue, the hairy one."
 lang: en
 ---
 
-## 1. The Huisne
+## 1. The River
 
-La Ferté-Bernard, in the Sarthe, north-western France. The Huisne River runs past the town.
+The Huisne runs south out of the Perche hills, crosses the Sarthe and bends around the old town of La Ferté-Bernard. The banks are low, the grass thick. In the Middle Ages there were mills along this stretch, washing places, and a stone bridge left from the Roman period.
 
-The Huisne is not wide. In summer the water is shallow and the stones show. The medieval town grew along it, with mills, washing places and livestock dependent on the river.
+In the legend, the beast lived in that stretch of water.
 
-In medieval accounts, a monster lived in the river.
+Its body was the size of an ox and shaped like an egg, covered in long green hair. Quills grew out of the hair, tipped with poison; they could stand upright or be fired off. Its neck, head and tail were a serpent's, scaled and shining. Its four legs were short and thick, with feet like a tortoise's. When it came out of the river, the water it displaced went over the bank and across the fields.
 
-It was called La Velue, "the hairy one".
+## 2. Left Off the Ark
 
-![Reconstruction of the Peluda by the Huisne in medieval France](../../../assets/inline/peluda-huisne.jpg)
+The most common version says Noah missed it when the Ark was loaded. It was too wicked, or too ugly; either way it was not called aboard. When the flood came it found a hole for itself under the rock beside the Huisne and survived.
 
-*Reconstruction: the Huisne River and the legendary Peluda in the Middle Ages. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
+After the water fell, it came back up with a grudge. Crops withered under its breath, sheep vanished in whole flocks, and shepherds vanished with them. It walked into the old streets of the town; moats and walls did not stop it. When people chased it with weapons, it went back into the river, and the river rose, and the fields around it flooded.
 
-## 2. The Shape
+Ruined fields on land, ruined fields in water. Few legends put flood and drought on the same beast's account.
 
-It was like a dragon, but wingless.
+## 3. The Ewes
 
-Its body was ox-like, its neck long, its head serpentine. Its back carried thick hair, and hidden in the hair were quills it could fire. Its tail was a serpent ending in a cluster of spikes.
+It preferred young women. The word the legend uses is "agnelles", properly meaning ewe lambs; in La Ferté-Bernard it meant the town's young, well-behaved girls.
 
-When it entered the river, the water rose. When it came ashore, it destroyed crops, livestock and people.
+The word did not come from the beast. In the sixteenth century La Ferté-Bernard sided with the Catholic League in the wars of Henri IV. Its governor, Dragues de Comnène, claimed descent from eastern kings; the siege was commanded by René de Bouillé. The governor sent a squad of soldiers out of the town dressed as women. The besiegers came up gallantly to welcome the arrivals and found an ambush. Bouillé's men drove them back quickly, and Henri IV was delighted when he heard of it. The local joke that followed: "the ewes of La Ferté, two of which are enough to strangle a wolf."
 
-When it came ashore, the sound of the water changed first. Then the animals grew restless, dogs barked, and people ran indoors. The legend kept no dates, only these movements.
+The beast ate "ewes". It was eating the girls in that joke.
 
-## 3. The Flood
+## 4. The Tail
 
-Legend says it was not on Noah's Ark.
+It took a girl. Her fiancé followed its tracks to an ivy-covered bridge over the Huisne, where it lay under the arch.
 
-When the flood came, it stayed outside and survived. It hated humans, and it hated the ship.
+He struck its tail with a sword. In the legend this was the only part of the beast that could be wounded. It died at once, thrashed a few times and stopped.
 
-That detail ties a local river monster into the biblical timeline.
+The country celebrated for a long time. At the Roman bridge in Yvré-l'Évêque there was an annual commemoration that lasted into the eighteenth century. The bridge is still there.
 
-## 4. The Quills
+![The Roman bridge at Yvré-l'Évêque](../../../assets/inline/peluda-pont-roman.jpg)
 
-Its strength was in its back.
+*Site photograph: the Roman bridge at Yvré-l'Évêque, where the legend ends, 2009. Le Mans, CC BY 3.0 (Wikimedia Commons).*
 
-When threatened, it shook its body and fired the quills. They were venomous and could pierce armour.
+## 5. The Pamphlet of 1889
 
-To kill it, you had to avoid the quills and strike its tail — or lure it somewhere it could not turn.
+The frame of the story can be traced to the fifteenth century. The version we have was largely rewritten and enlarged in the nineteenth. In 1889 a French pamphlet of three pages appeared with the beast on its cover, signed A. Raouleau. That is the first complete image of it: green hair, quills, serpent's head, tortoise feet, nothing missing.
 
-Some versions say a hunter killed it by a trick; others say it simply disappeared.
+Across the top of that cover runs a line: "Sold for the benefit of the flood victims of the Sarthe." Ten centimes a copy, printed by E. Lebrault in Le Mans. A beast bound up with floods was being sold to raise money for people flooded out of their homes.
 
-## 5. The Place
+An older "object" is a terracotta fountain figure of the seventeenth or eighteenth century, dug out of a ditch on the road to La Chapelle-Saint-Rémy and kept at the abbey of Tuffé. Some say it represents La Velue. Nobody can prove it.
 
-The town of La Ferté-Bernard still has names and images connected to it.
+In 1954 the folklorist Paul Cordonnier-Détrie gathered the material into a book. Later still, Jorge Luis Borges put the creature into The Book of Imaginary Beings, and it became famous.
 
-It is not a demon of official religion, nor a fixed character in a single text. It is a local story that survived through oral telling and tourism.
+![La Velue on the cover of the 1889 pamphlet](../../../assets/inline/peluda-velue-1889.jpg)
 
-## 6. What It Is
+*Historical print: the cover of the 1889 pamphlet La Velue, marked "sold for the benefit of the flood victims of the Sarthe", ten centimes a copy, printed by E. Lebrault in Le Mans, illustration signed A. Raouleau. Public domain (Wikimedia Commons, original held in the Sarthe departmental archives). The image dates from after the legend took shape; it is not a witness record.*
 
-The Peluda is a river monster of medieval French folklore.
+## 6. The Name
 
-There are no bones, no contemporary image, and no chronicle that takes it seriously.
+"Peluda" is not a local word. It is Spanish for "hairy", taken straight by Borges for his book. Locally the creature is La Velue, which means the same thing in French.
 
-But it has a very specific address: the Huisne. And a very specific weakness: its tail.
+A monster from a French provincial town became a fixed English-language entry through an Argentine writer's Spanish translation. Its birthplace is La Ferté-Bernard; its name was born on a desk in Buenos Aires.
 
-![The Peluda's shape, the Huisne and the folklore elements](../../../assets/inline/peluda.svg)
+## 7. The Bank
 
-*Original schematic: the Peluda's back quills, its tail weakness and the Huisne location. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
+The Huisne still runs. The old town of La Ferté-Bernard still stands, half-timbered houses along narrow streets. The Roman bridge is at Yvré-l'Évêque, its deck metalled now, the stone parapet still in place.
+
+Nobody sees the green-haired beast any more. The terracotta figure from the ditch sits in the abbey with a label reading "possibly La Velue". The cover of the 1889 pamphlet is now a public-domain image, pasted onto one encyclopedia entry after another.
+
+![Reconstruction of La Velue by the Huisne in the Middle Ages](../../../assets/inline/peluda-huisne.jpg)
+
+*Reconstruction: La Velue by the Huisne in the Middle Ages. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+
+![The beast's anatomy, the river and the folklore trail](../../../assets/inline/peluda.svg)
+
+*Original schematic: the creature's body, the Huisne location and the line of the legend. Oddity Archive, CC BY-SA 4.0.*
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the local legend, the biblical motif and the possible endings; the Peluda is a folkloric creature with no physical evidence. The illustration is a scene reconstruction, not a photograph of a site.
+**Sources and licenses**: sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the medieval local legend, the sixteenth-century "ewes" joke, the nineteenth-century rewrite and Borges's borrowed name; the legend has local histories and images behind it, the beast has no physical evidence. The reconstruction is not a historical photograph.

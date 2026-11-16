@@ -1,8 +1,8 @@
 channel: objects
 type: object
 slug: busby-chair
-title_zh: 死人的椅子
-title_en: The Dead Man's Chair
+title_zh: 挂在半空的椅子
+title_en: The Chair That Hangs
 era: "1702"
 era_en: "1702"
 region: 英国，北约克郡
@@ -12,32 +12,60 @@ tags:
   - 巴斯比之椅
   - 诅咒
   - 约克郡
-  - 博物馆
-  - 闹鬼
+  - 瑟斯克博物馆
+  - 家具史
 collections: []
 credibility: folklore
 sources:
   - id: S1
-    title: "Wikipedia · Busby Stoop"
+    title: "Wikipedia · Busby's stoop chair"
+    publisher: Wikipedia contributors
+    url: https://en.wikipedia.org/wiki/Busby%27s_stoop_chair
+    year: "2026"
+    license: CC BY-SA 4.0
+    usage: 1702 年谋杀与处决、桑达顿路口与酒馆改名、二战加拿大飞行员、1978 年捐赠与吊挂、家具史学者断代 1840 年之后
+  - id: S2
+    title: "Wikipedia · Busby Stoop（地名条目）"
     publisher: Wikipedia contributors
     url: https://en.wikipedia.org/wiki/Busby_Stoop
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 托马斯·巴斯比、1702 年谋杀与处决、椅子与酒馆
-  - id: S2
-    title: "Countryfile · The chilling legend of the Dead Man's Seat"
-    publisher: Countryfile
-    url: https://www.countryfile.com/people/historical-figures/busby-stoop-chair
-    year: "2026"
-    license: 版权归 Countryfile；仅作事实参考
-    usage: 诅咒传说、死亡案例与椅子移入瑟斯克博物馆
+    usage: 桑达顿路口、A61 与 A167 交叉口、酒馆位置
   - id: S3
+    title: "Busby Stoop Chair: 138 years too young（时间线整理）"
+    publisher: Enigma Atlas
+    url: https://enigmaatlas.com/haunted-places/busby-s-stoop-chair
+    year: "2026"
+    license: 版权归原作者；仅作事实参考
+    usage: 1703 年索雷斯比日记引文、1821 年《瑟斯克史》、1859 年格兰奇《莫布雷谷》、1894 年扫烟囱者与自杀结论、1943 年第 433 中队、2014 年《北方回声报》采访与鲍伊特断代、2013 年酒馆停业
+  - id: S4
+    title: "The Busby Stoop（酒馆旧址照片）"
+    publisher: David Rogers / Wikimedia Commons（geograph.org.uk 851351）
+    url: https://commons.wikimedia.org/wiki/File:The_Busby_Stoop_-_geograph.org.uk_-_851351.jpg
+    year: "2008"
+    license: CC BY-SA 2.0
+    usage: 桑达顿路口酒馆旧址的现场照片
+  - id: S5
+    title: "Sign for the Busby Stoop（酒馆招牌照片）"
+    publisher: Maigheach-gheal / Wikimedia Commons（geograph.org.uk 2147526）
+    url: https://commons.wikimedia.org/wiki/File:Sign_for_the_Busby_Stoop_-_geograph.org.uk_-_2147526.jpg
+    year: "2010"
+    license: CC BY-SA 2.0
+    usage: 路口老酒馆招牌，牌面画有温莎扶手椅
+  - id: S6
+    title: "Thirsk Museum, Kirkgate（博物馆馆舍照片）"
+    publisher: Mike Kirby / Wikimedia Commons（geograph.org.uk 4221710）
+    url: https://commons.wikimedia.org/wiki/File:Thirsk_Museum,_Kirkgate_%5E1_-_geograph.org.uk_-_4221710.jpg
+    year: "2014"
+    license: CC BY-SA 2.0
+    usage: 瑟斯克博物馆在柯克盖特街的馆舍外观
+  - id: S7
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
-    usage: 封面酒馆木椅场景复原、时间线与诅咒传播示意；不是文物照片
+    usage: 椅子在博物馆吊挂展示的场景复原、时间线与传说传播示意；不是文物照片
 cover: ../../../assets/covers/busby-chair.jpg
 related:
   - annabelle-doll

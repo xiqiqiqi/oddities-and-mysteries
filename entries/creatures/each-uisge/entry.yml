@@ -1,7 +1,7 @@
 channel: creatures
 type: creature
 slug: each-uisge
-title_zh: 湖里的马
+title_zh: 湖里那匹马
 title_en: The Horse in the Loch
 era: "古代起"
 era_en: "Ancient–present"
@@ -13,7 +13,7 @@ tags:
   - 水马
   - 苏格兰
   - 凯尔派
-  - 湖
+  - 高地民俗
 collections: []
 credibility: folklore
 sources:
@@ -23,7 +23,7 @@ sources:
     url: https://en.wikipedia.org/wiki/Each-uisge
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 水马形象、与凯尔派的区别、粘皮与溺杀传说
+    usage: 名称与爱尔兰、马恩岛变体、布里格斯评语、栖息水域、粘皮、刘易斯岛怪兽之丘、斯佩河白马与黄马、缰绳与牛枷、坎贝尔引语、膝上睡着的年轻人、开水与短剑三段故事、马恩岛黑河
   - id: S2
     title: "Spooky Isles · The Each-Uisge: Scotland's Shape-Shifting Water Monster"
     publisher: Spooky Isles
@@ -32,6 +32,27 @@ sources:
     license: 版权归 Spooky Isles；仅作事实参考
     usage: 湖泊与海湖栖息地、变形为人、黄昏警告
   - id: S3
+    title: "Eachuisge（传说形象插画）"
+    publisher: Liza Phoenix / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Eachuisge.jpg
+    year: "2006"
+    license: CC BY-SA 3.0
+    usage: 据传说绘制的 each-uisge 形象，不是目击记录
+  - id: S4
+    title: "The Kelpie（德雷珀油画）"
+    publisher: Herbert James Draper / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Thekelpie_large.jpg
+    year: "1913"
+    license: 公有领域
+    usage: 凯尔派的绘画形象，用于区分凯尔派与水马
+  - id: S5
+    title: "Gleann Afraig（高地地貌照片）"
+    publisher: Each-uisge / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Gleann_Afraig.jpg
+    year: "2014"
+    license: CC BY-SA 4.0
+    usage: 苏格兰高地山谷与湖泊地貌
+  - id: S6
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）
     url: https://xiqiqi.com/
