@@ -3,8 +3,8 @@ type: phenomenon
 slug: hudson-valley-ufo
 title_zh: V 形的天空
 title_en: The V in the Sky
-era: "1982–1986"
-era_en: "1982–1986"
+era: "1983–1984"
+era_en: "1983–1984"
 region: 美国，纽约，哈德逊河谷
 region_en: "Hudson Valley, New York, USA"
 coords: [41.4, -73.9]
@@ -12,26 +12,40 @@ tags:
   - 哈德逊河谷
   - UFO
   - V 形飞行器
-  - 纽约
+  - Cessna 152
   - 1980 年代
 collections: []
 credibility: disputed
 sources:
   - id: S1
-    title: "Wikipedia · Hudson Valley UFO"
+    title: "Wikipedia · Hudson Valley UFO sightings"
     publisher: Wikipedia contributors
-    url: https://en.wikipedia.org/wiki/Hudson_Valley_UFO
+    url: https://en.wikipedia.org/wiki/Hudson_Valley_UFO_sightings
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 1982–1986 年目击、V 形飞行器、目击者与解释
+    usage: 1983 年 3 月至 1984 年夏的目击、三县与费尔菲尔德县、《纽约时报》描述、印第安角守卫、布兰奇福特否认、K 队斯皮罗、Cessna 152 与斯特姆维尔机场、联邦航空局哈特尼特、《波基普西日报》飞行员、《发现》杂志、邓宁与“火星人”、波祖利录像、艾琳·伦恩、波拉德、海尼克、1984 年布鲁斯特会议、1987 年《夜间围困》、1992 年《未解之谜》、2017 年米亚莱
   - id: S2
     title: "Skeptoid · The Hudson Valley UFO Mystery"
-    publisher: Skeptoid
+    publisher: Skeptoid（Brian Dunning）
     url: https://skeptoid.com/episodes/4598
     year: "2017"
     license: 版权归 Skeptoid；仅作事实参考
-    usage: 小型飞机编队等 skeptical 解释与目击背景
+    usage: 飞行员编队、同时关灯与“火星人”自嘲的 skeptical 梳理
   - id: S3
+    title: "Stormville Airport (N69) in 2025（机场照片）"
+    publisher: Indefatigable2 / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Stormville_Airport_(N69)_in_2025.jpg
+    year: "2025"
+    license: CC BY-SA 4.0
+    usage: 斯特姆维尔机场现场照片
+  - id: S4
+    title: "Cessna 152 II D-EVUW（机型照片）"
+    publisher: Robbie Klinkenberg / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Cessna_152_II_D-EVUW_at_Portim%C3%A3o_Airport_05-08-2020.jpg
+    year: "2020"
+    license: CC BY-SA 4.0
+    usage: 州警认定的 Cessna 152 机型照片
+  - id: S5
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）
     url: https://xiqiqi.com/

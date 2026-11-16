@@ -11,8 +11,8 @@ coords: [37.97, 23.73]
 tags:
   - 德拉古
   - 雅典
+  - 成文法
   - 严刑峻法
-  - 斗篷
   - 古希腊
 collections: []
 credibility: disputed
@@ -23,7 +23,7 @@ sources:
     url: https://en.wikipedia.org/wiki/Draco_(lawgiver)
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 公元前 621 年法典、严苛刑罚、埃伊纳剧院之死与史料争议
+    usage: 公元前 621/620 年与执政官阿里斯泰克穆斯、axones 木板与 kyrbeis 石碑、偷卷心菜死刑与债奴、普鲁塔克问答、故意与过失杀人的区分、公元前 409/8 年重刻碑铭、梭伦废除、苏达辞典的剧院之死、贝洛赫的圣蛇假说、draconian 一词 1777 年、美国最高法院门楣与《大西洋月刊》质疑
   - id: S2
     title: "Britannica · Draco"
     publisher: Encyclopaedia Britannica
@@ -32,6 +32,20 @@ sources:
     license: 版权归 Encyclopaedia Britannica；仅作事实参考
     usage: 德拉古的身份、法典背景与“draconian”一词
   - id: S3
+    title: "Draco, 1833 engraving（版画）"
+    publisher: Max Karl Baldamus / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Draco_engraving_from_1833_(cropped).jpg
+    year: "1833"
+    license: 公有领域
+    usage: 1833 年德拉古想象肖像版画
+  - id: S4
+    title: "Draco on the Supreme Court frieze（浮雕照片）"
+    publisher: Supreme Court of the United States / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Draco_on_Supreme_Court_of_the_United_States_South_Frieze_2_(cropped).jpg
+    year: "2023"
+    license: 公有领域
+    usage: 美国最高法院南面门楣上的德拉古浮雕
+  - id: S5
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）
     url: https://xiqiqi.com/

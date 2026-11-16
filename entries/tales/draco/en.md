@@ -1,63 +1,89 @@
 ---
 title: Suffocated by Cloaks
-summary: In 621 BCE Draco wrote Athens its first written law code. It prescribed death for almost every offence, including stealing a cabbage. Around 600 BCE, in a theatre on Aegina, he was buried under the cloaks and hats thrown at him by an admiring audience and suffocated.
+summary: In 621 BCE Draco gave Athens its first written law code. The laws were posted on wooden tablets and prescribed death for almost every offence, down to stealing a cabbage. Two centuries later, in a theatre on Aegina, he was said to have been buried under the hats and cloaks thrown at him by an admiring audience, and suffocated. The story comes from an encyclopedia written a thousand years after him. The adjective he left behind is still in use.
 lang: en
 ---
 
 ## 1. 621 BCE
 
-Athens had no written law. Law was spoken and interpreted by aristocrats, and disputes between commoners and nobles were often settled by the nobles.
+Athens had no written law. The laws were spoken by aristocrats and interpreted by them. When a commoner and a noble quarrelled, the answer usually came from the noble.
 
-In 621 BCE a man named Draco was commissioned to write the law down.
+In 621 BCE, during the archonship of Aristaechmus, a man called Draco was commissioned to write the laws down. It was the first time in Athenian history.
 
-## 2. The Code
+Almost nothing survives about Draco the man. No birth, no death, no family, no writings. There is one year, one code, and one manner of dying.
 
-He had the laws carved on wooden tablets and set up in public. It was Athens' first written code.
+## 2. The Tablets
 
-But the code was famous for its severity. Almost every offence carried the death penalty: theft, idleness, sacrilege, even stealing a cabbage.
+The laws were cut into wooden tablets and set up in public, where anyone who could read might read them. The tablets were called axones; they may have been mounted so that they could be pivoted, one face after another. Later they were kept on four-sided pyramid-shaped stones called kyrbeis, and preserved for nearly two centuries.
 
-Plutarch later wrote that Draco thought small crimes deserved death, and that for great crimes there was no heavier punishment, so they too got death.
+Before this, law was the knowledge of a few. After it, law was something visible from the square. That change mattered more than any single statute. It meant a man could point at the tablet and say: you have judged wrongly, it does not say that.
 
-The word "draconian" comes from his name.
+## 3. The Statutes
 
-## 3. The Death
+Draco's code was known for its severity.
 
-Around 600 BCE Draco was in the theatre on the island of Aegina.
+Stealing: death. Idleness: death. Impiety: death. Stealing a cabbage: death. A debtor whose status was lower than his creditor's could be forced into slavery; the penalty was lighter for a man who owed money to someone of lower rank.
 
-The theatre at Aegina was built into a hillside, its stone seats rising in rings. The audience sat high and could see the man in the centre clearly.
+Plutarch preserved a question and answer. Someone asked Draco why he had made death the penalty for most offences. He replied that, in his opinion, the lesser crimes deserved it, and for the greater ones no heavier penalty could be found.
 
-To show their respect, the audience threw their cloaks and hats at him. So many were thrown that he was buried underneath and suffocated.
+The answer is reported at second hand and may not be his. It does explain the logic of the code: no gradations, only one cut.
 
-![Reconstruction of the theatre at Aegina in the sixth century BCE](../../../assets/inline/draco-theatre.jpg)
+There was something new in it. For the first time the law distinguished intentional murder from involuntary homicide. That was not a simple distinction in that age. A killing stopped being only a blood feud between families; it became a matter of intent, to be heard in a court.
 
-*Reconstruction: the audience at the theatre of Aegina throwing cloaks at Draco. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+## 4. The Inscription of 409/8
 
-## 4. Is It True?
+Draco's code does not survive whole. What survives is part of a law re-inscribed on stone in 409/8 BCE: the homicide law.
 
-The story comes from later writers, not from contemporary records.
+The text says that the right to prosecute a killer belongs to the relatives of the dead. Involuntary homicide carried exile. The penalty for intentional homicide is missing from the fragment; in 409 BCE it was death.
 
-Some have even doubted that Draco existed. "Drakon" means serpent in Greek, and the Athenians worshipped a sacred snake; some suggest the name was attached to the code later.
+Why would Athens re-inscribe a law two hundred years old? Because the city was revising its laws and republishing what could still be used. The men who cut the stone left the words "the law of Draco about homicide" on it. It is the last appearance of his name in an official law.
 
-## 5. After the Code
+## 5. Solon
 
-Draco's code was not entirely abolished. Solon later reformed it, keeping the laws on homicide and replacing most of the rest.
+At the beginning of the sixth century BCE Solon was given the task of reform. He repealed Draco's code, keeping only the homicide law.
 
-"Draconian" survived, used to describe harsh laws.
+Everything else was replaced. Debts, political rights, court procedure — Solon built another system. Later Athenians usually mentioned Draco as a warning: law may be strict, but not so strict that it loses all sense of degree.
 
-A word outlived the code, and the empire. No one is judged by Draco's laws today, but his name is still used for punishments that go too far.
+## 6. The Death
 
-## 6. The Cloaks
+There is only one source for how Draco died: the Suda, a Byzantine encyclopedia of the tenth century.
 
-A man who wrote death into the law was finally suffocated by an audience's cloaks.
+It says he went to Aegina to give the island laws. He entered the theatre, and the audience, to show their respect, threw hats and cloaks at him. Too many were thrown. He was buried under them and suffocated.
 
-The ending is too neat, as if a later writer had arranged it.
+Several things do not fit. Aegina was on bad terms with Athens at the time; an Athenian lawgiver travelling there to legislate for his city's rivals is hard to believe. Throwing clothes at a man was not a normal mark of honour in a Greek theatre. More likely the story was invented later: a man who punished everything with death should die of an excessively warm welcome.
 
-But it has been told for more than two thousand years. History is sometimes like this: a real institution, with a death that may not be real.
+But it was copied into the encyclopedia, and copied again by later writers. Two thousand years on, the Draco people remember is not the tablet. It is the pile of cloaks.
 
-![Draco's code, the theatre at Aegina and the timeline](../../../assets/inline/draco.svg)
+## 7. The Serpent
 
-*Original schematic: the 621 BCE written code, the harsh penalties and the theatre death around 600 BCE. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
+Since the eighteenth century some scholars have doubted that Draco existed at all.
+
+Karl Julius Beloch offered an explanation. Drakon means "serpent" in Greek. A sacred serpent was kept and worshipped on the Acropolis. The "laws of Draco" might have been laws issued in the name of the sacred serpent by its priests; in time the origin was forgotten and Draco was remembered as a lawgiver.
+
+The hypothesis explains one puzzle: why a homicide law that developed over a long period came to be attached to a single name. Most scholars do not accept it. The inscription of 409 BCE says "the law of Draco about homicide" in plain words. If the name were only a serpent, the stonecutters would not have written it that way.
+
+## 8. The Name
+
+The adjective draconian has described harsh laws in English since 1777. It outlived Athens, Rome, and every code that ever used it. The word has lasted longer than any statute.
+
+On the south frieze of the United States Supreme Court Building, the sculptor Adolph Alexander Weinman placed Draco in a procession of the great lawgivers of history. The Atlantic has questioned the inclusion: does a man who punished cabbage theft with death belong in that company?
+
+Nobody sentences anyone under Draco's laws now. People use his name for punishments that are too heavy, and use it easily, rarely remembering what the code actually said.
+
+The stone of 409 BCE is still there. It has the homicide law, exile, the right of relatives to prosecute. It does not have a cabbage.
+
+![Draco, 1833 engraving](../../../assets/inline/draco-engraving-1833.jpg)
+
+*Historical print: Draco, an 1833 engraving by Max Karl Baldamus. Public domain (Wikimedia Commons). A later imagined portrait, not an ancient object.*
+
+![Draco on the Supreme Court frieze](../../../assets/inline/draco-scotus-frieze.jpg)
+
+*Site photograph: the relief of Draco on the south frieze of the United States Supreme Court Building, 2023. Supreme Court of the United States (SCOTUS), public domain (Wikimedia Commons). In this group he stands beside Confucius.*
+
+![Draco's code, the theatre of Aegina and the timeline](../../../assets/inline/draco.svg)
+
+*Original schematic: the written code of 621 BCE, the harsh penalties and the theatre death around 600 BCE. Not a site photograph. Oddity Archive, CC BY-SA 4.0.*
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 621 BCE legislation, the content of the code and the later death anecdote; the death story comes from late sources and cannot be confirmed. The illustration is a scene reconstruction, not a photograph of a site.
+**Sources and licenses**: sources are listed in the ledger S1–S4 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the legislation of 621 BCE, the statutes, the re-inscription of 409 BCE, Solon's reform and the death story in the Suda; the death story rests on late testimony and cannot be verified, and Draco's existence is itself disputed. The engraving and the frieze photograph are historical and site images; the schematic is not.

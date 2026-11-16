@@ -1,67 +1,85 @@
 ---
 title: The V in the Sky
-summary: Between 1982 and 1986, hundreds of people in New York's Hudson Valley reported a huge V-shaped craft flying low and silent along the parkways. Some say it was a formation of light aircraft; others are not so sure. No photograph settles the question.
+summary: "Between March 1983 and the summer of 1984, hundreds of people in the Hudson Valley reported a V-shaped object the size of a football field, flying low and silent along the roads, outlined in white, red and green lights. State police traced the lights to Stormville Airport: five or six Cessna 152s flying in night formation. The pilots found the whole thing funny."
 lang: en
 ---
 
-## 1. 17 March 1983
+## 1. March 1983
 
-Brewster, New York. A man was outside his house at night.
+Westchester County, New York, March 1983. On a road at night, a driver stopped the car and looked up.
 
-It was 17 March 1983, a cold night. He later told investigators that the thing came slowly, slowly enough for him to decide it was not an aircraft.
+A V-shaped thing came over the treetops, large, low, silent. Lights ran along both arms, white, red and green, like a formation of something in flight. It travelled along the road, not fast, as if it knew where the road was.
 
-He saw a V-shaped object coming slowly across the sky. It was silent, very large, and pointed downward at the centre.
+From that spring until the summer of 1984, reports came in from Westchester, Dutchess and Putnam counties in New York and from Fairfield County in Connecticut. Hundreds of people in all: police officers, pilots, reporters, families with children.
 
-It stopped about forty feet above him, hovering over a telephone pole.
+The New York Times summed up the descriptions: witnesses reported an object "usually in a V-shape or a circle", "about the size of an American football field", "absolutely noiseless" and "outlined in brilliant lights of white, red or green". It could also shoot straight up into the sky and hover for a long time.
 
-![Reconstruction of the V-shaped lights over the Hudson Valley, 1983](../../../assets/inline/hudson-valley-1983.jpg)
+![Stormville Airport](../../../assets/inline/hudson-stormville-airport.jpg)
 
-*Reconstruction: the V-shaped lights seen from a car in 1983. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Site photograph: Stormville Airport (N69), New York, 2025. Indefatigable2, CC BY-SA 4.0 (Wikimedia Commons). This is where the state trooper followed the lights.*
 
-## 2. The Years
+## 2. Indian Point
 
-It did not happen once.
+On 14 June and 24 July 1984, guards at the Indian Point nuclear power plant reported something hovering over the plant for fifteen minutes. One guard said it was long and low, "like helicopters in a V formation".
 
-Between 1982 and 1986, hundreds of people in Westchester County and Connecticut reported a huge V-shaped or boomerang-shaped craft, flying low and silent along the Taconic Parkway.
+The UFO researcher Philip Imbrogno said the guards broke out shotguns and called for support from Camp Smith. He also conceded: "we have no documentation".
 
-Some said it was as large as a football field. Some said it had three rows of lights.
+John Branciforte, a security coordinator for the power authority, denied the guns. "As far as I'm concerned, it's pure speculation," he said. Spokesmen for the New York Power Authority and for Troop K of the state police gave a different account: the lights were Cessna 152s from Stormville Airport, flown by pranksters.
 
-## 3. The Witnesses
+## 3. The Airport
 
-The witnesses included police officers, pilots, journalists and families.
+A state trooper followed the lights to Stormville Airport and reported back to Sergeant Kenneth V. Spiro of Troop K. Spiro told reporters there were five or six such aircraft.
 
-Some stopped their cars to watch. Some called the police. Some followed it.
+"The trooper spoke to a couple of the pilots, and they're getting a big kick out of it," Spiro said. "There's no violation of the law here."
 
-Some pulled over and switched off their lights. Some followed it for miles until it suddenly accelerated and vanished. Others returned to the same junction and found nothing.
+Timothy Hartnett, deputy director of the FAA's eastern region, explained the technical possibility: aircraft may fly as close together as the pilots feel safe, and in sparsely populated areas they may fly very low. In February 1984 a pilot told the Poughkeepsie Journal that he and others were practising a V formation with a rotating beacon and navigation lights. The formation could look motionless because it was so wide and seen from so far away.
 
-## 4. The Explanations
+Discover magazine reported the same year that the pilots began in daylight and moved to night flying as their confidence grew, closing the formation tighter and tighter. Brian Dunning later supplied the decisive detail: the pilots switched off their exterior lights at the same moment, so that from the ground the object seemed to vanish. They varied the formation — crescent, circle, cross — and from below it looked like a diamond or a V. When local papers began printing stories about strange lights, the pilots were first baffled, then amused. They called themselves the Martians.
 
-The most common explanation is a formation of light aircraft flying at night, their lights making them look like a single object.
+![A Cessna 152](../../../assets/inline/hudson-cessna-152.jpg)
 
-Others have suggested flares, an airship or a hoax.
+*Site photograph: a Cessna 152, taken at Portimão Airport, Portugal, in 2020. Robbie Klinkenberg, CC BY-SA 4.0 (Wikimedia Commons). The type the state police identified.*
 
-But hundreds of witnesses over several years make that explanation less than satisfying.
+## 4. The Witnesses
 
-A formation of light aircraft can explain the lights. It does not explain why hundreds of people, over several years, described the same shape: V-shaped, low, silent, following the parkway.
+Not everyone accepted the aircraft.
 
-## 5. No Answer
+On 24 July 1984, Brewster resident Bob Pozzuoli videotaped a luminous phenomenon whose lights rotated counter-clockwise. No sound was audible on the audio track.
 
-There is no clear close-up photograph, no wreckage and no radar record that settles it.
+At about nine in the evening on 20 August 1984, Irene Lunn of Mahopac reported an object heading south over a pond, "just clearing the trees... There was no sound at all, you could hear the crickets... about three-quarters the size of my house, with an L-shaped structure suspended underneath it... At one point, all the lights went green, then red, then they went back to a pattern of green and red and white. I felt like it was letting us know it knew we were watching it. That was scary. It went on for about 10 minutes."
 
-It became a classic "black triangle" case, alongside the Belgian triangle wave and the Phoenix lights.
+William A. Pollard, driving on Interstate 84, told the New York Times he saw an object hovering above a field, "a gigantic triangle with lights". When the lights went dark it shot straight up. He had seen the lights many times, he said, but the first sighting was different from everything later; it was "rigid".
 
-## 6. The Sky
+## 5. Hynek
 
-Today the night sky over the Hudson Valley is ordinary.
+J. Allen Hynek, once the scientific adviser to the Air Force's Project Blue Book, heard the reports and said: "Absolutely weird. There's no logical explanation for it."
 
-Aircraft, helicopters, stars.
+On 28 August 1984, ufologists met in Brewster to discuss the sightings. In 1987 Ballantine Books published Night Siege: The Hudson Valley UFO Sightings, by Hynek, Imbrogno and Bob Pratt. Imbrogno said he had seen the object himself for five minutes, and compared it with the recently declassified stealth bomber.
 
-But if you see a row of lights in a V formation, moving slowly at night, you may think of 1983.
+In 1992 the case was an episode of Unsolved Mysteries. In 2017 the director Joe Miale told Dunning that the "triangular craft with coloured lights moving slowly over our houses" that he saw as a child in the Hudson Valley fixed his lifelong fascination with science fiction.
 
-![The Hudson Valley sightings, V-shaped lights and explanations](../../../assets/inline/hudson-valley-ufo.svg)
+## 6. A Formation of Aircraft
 
-*Original schematic: the 1982–1986 sightings, the V-shaped lights and the main explanations. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+Put the two sides together and the picture is not complicated.
+
+On one side are hundreds of people without flight training, seeing a few lights in formation at night, low, slow and silent. On the other are five or six small aircraft from the same airport, practising the same formation, sometimes flying close, sometimes switching off their lights together. The first group saw a shape. The second knew a registration number.
+
+Dunning's judgement is sharp: the "UFO" existed only at the time and place where the pilots were doing their night formation flying. The same look, the same behaviour, the same route. "Would that not be a staggering coincidence?"
+
+Hynek said there was no logical explanation. The state police said there was a formation of aircraft. The pilots said it was funny.
+
+## 7. The Airport Is Still There
+
+Stormville Airport is still there, a grass runway with small aircraft parked beside it. On a clear day you can watch them take off from the road, one after another, turn, and line up.
+
+At night, with the lights bright enough, the formation tight enough and the altitude low enough, people on the ground will still see the V. It was never a spacecraft. It was always a few aircraft, and nobody had told the people watching.
+
+The pilot who said he was getting a big kick out of it probably never imagined that one practice formation would become a story told for thirty years.
+
+![Timeline and explanation of the Hudson Valley sightings](../../../assets/inline/hudson-valley-ufo.svg)
+
+*Original schematic: the sightings of 1983–1984, the V of lights and the Cessna formation explanation. Not a site photograph. Oddity Archive, CC BY-SA 4.0.*
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the witnesses' descriptions and timeline from explanations such as a light-aircraft formation; there is no public conclusive evidence for the nature of the craft. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: sources are listed in the ledger S1–S5 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the witnesses' descriptions, the power-plant guards' account and the police and FAA investigation; the case has a clear aircraft explanation, though some witnesses rejected it. The airport and aircraft photographs are site photographs; the schematic is not.

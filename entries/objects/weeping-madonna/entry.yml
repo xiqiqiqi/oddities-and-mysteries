@@ -2,7 +2,7 @@ channel: objects
 type: object
 slug: weeping-madonna
 title_zh: 流泪的圣母
-title_en: The Weeping Madonna
+title_en: The Madonna Who Wept
 era: "1953 年起"
 era_en: "From 1953"
 region: 意大利，锡拉库萨 / 奇维塔韦基亚
@@ -23,15 +23,43 @@ sources:
     url: https://en.wikipedia.org/wiki/Weeping_statue
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 锡拉库萨 1953、奇维塔韦基亚 1995、教会调查与质疑
+    usage: 流泪像现象综述、锡拉库萨 1953 年获承认、奇维塔韦基亚 1995、蒙特利尔 1985、墨西拿 2002、2008 年管理员案、2012 年污水管、2018 年霍布斯橄榄油；帕维亚化学家的毛细解释
   - id: S2
-    title: "Santuario Madonna delle Lacrime · Syracuse"
+    title: "Santuario Madonna delle Lacrime · 29 Agosto 1953"
     publisher: Sanctuary of Our Lady of Tears
-    url: https://www.madonnadellelacrime.it/
+    url: https://www.madonnadellelacrime.it/29-agosto-1953/
     year: "2026"
     license: 版权归 Sanctuary of Our Lady of Tears；仅作事实参考
-    usage: 1953 年 8 月 29 日至 9 月 1 日的流泪记录与朝圣地
+    usage: 1953 年 8 月 29 日至 9 月 1 日、奥尔蒂街 11 号、伊安努索夫妇、安东尼娜孕期不顺
   - id: S3
+    title: "Madonna delle Lacrime di Siracusa（圣人传记百科）"
+    publisher: Enciclopedia dei Santi
+    url: https://www.santiebeati.it/dettaglio/91911
+    year: "2026"
+    license: 版权归 Enciclopedia dei Santi；仅作事实参考
+    usage: 9 月 1 日委员会取样、约三十滴、与成人及两岁七个月儿童泪液对照、蛋白与尿酸、无石膏与颜料成分、取样后停止
+  - id: S4
+    title: "Alla ricerca di miracoli（CICAP）"
+    publisher: CICAP
+    url: https://www.cicap.org/articolo/alla-ricerca-di-miracoli
+    year: "2006"
+    license: 版权归 CICAP；仅作事实参考
+    usage: 奇维塔韦基亚 1995 年 2 月 2 日、潘塔诺、43 厘米像、杰西卡、法比奥·格雷戈里、男性血液、实心与拒绝 DNA
+  - id: S5
+    title: "Santuario della Madonna delle Lacrime（圣殿照片）"
+    publisher: Salvo Cannizzaro / Wikimedia Commons（panoramio）
+    url: https://commons.wikimedia.org/wiki/File:Santuario_della_Madonna_delle_Lacrime_(Siracusa)_-_panoramio.jpg
+    year: "2007"
+    license: CC BY-SA 3.0
+    usage: 锡拉库萨泪圣母圣殿外景
+  - id: S6
+    title: "Weeping Statue of Madonna of the Immaculate Heart（像片）"
+    publisher: Julian Lupyan / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Weeping_Statue_of_Madonna_of_the_Immaculate_Heart.jpg
+    year: "2025"
+    license: CC0
+    usage: 圣殿内展陈的圣母无玷圣心像，玻璃罩内
+  - id: S7
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）
     url: https://xiqiqi.com/

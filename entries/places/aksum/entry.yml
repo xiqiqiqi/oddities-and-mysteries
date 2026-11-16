@@ -13,7 +13,7 @@ tags:
   - 埃塞俄比亚
   - 石碑
   - 以扎纳
-  - 示巴女王
+  - 约柜
 collections: []
 credibility: verified
 sources:
@@ -23,22 +23,36 @@ sources:
     url: https://en.wikipedia.org/wiki/Aksum
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 阿克苏姆帝国、石碑、以扎纳皈依与衰落
+    usage: 提格雷州与海拔、《厄立特里亚海航行记》“大城”、红海贸易与钱币、科斯马斯与四塔王宫、埃扎纳皈依与三语碑、石碑形制演化与假窗假门、金属圆盘榫眼、33 米巨碑倒地、锡安圣母教堂沿革、法西利德斯 1665、新教堂 1955 与海尔·塞拉西、石板礼拜堂与守柜修士、示巴女王与《列王荣耀记》、1935 年意军占领与 1937 年拆碑运罗马、1947 年联合国协议、2005 年归还与 400 万美元、2008 年重立与揭幕、1906 年利特曼考古队、1980 年世界遗产、人口与地名
   - id: S2
-    title: "Britannica · Aksum"
-    publisher: Encyclopaedia Britannica
-    url: https://www.britannica.com/place/Aksum
-    year: "2026"
-    license: 版权归 Encyclopaedia Britannica；仅作事实参考
-    usage: 都城、贸易、钱币与基督教化
-  - id: S3
     title: "UNESCO · Aksum"
     publisher: UNESCO World Heritage Centre
     url: https://whc.unesco.org/en/list/15/
     year: "2026"
     license: 版权归 UNESCO；仅作事实参考
     usage: 1980 年列入世界遗产、石碑与考古遗存
+  - id: S3
+    title: "Stelenpark in Axum 2010（石碑群照片）"
+    publisher: JensiS65 / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Stelenpark_in_Axum_2010.JPG
+    year: "2010"
+    license: CC BY-SA 3.0
+    usage: 北石碑公园现场照片，含倒地巨碑残段
   - id: S4
+    title: "Church Our Lady Mary Zion Axum（教堂照片）"
+    publisher: Jialiang Gao / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Church_Our_Lady_Mary_Zion_Axum_Ethio.jpg
+    year: "2002"
+    license: CC BY-SA 3.0
+    usage: 锡安圣母玛利亚新教堂与钟塔
+  - id: S5
+    title: "Henry Salt · Obelisk at Axum（1809 年版画）"
+    publisher: James Sargant Storer / After Henry Salt / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Henry_Salt_-_Obelisk_at_Axum.jpg
+    year: "1809"
+    license: 公有领域
+    usage: 1809 年阿克苏姆石碑版画
+  - id: S6
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）
     url: https://xiqiqi.com/
