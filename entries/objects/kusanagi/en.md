@@ -50,7 +50,7 @@ The first name came from clouds above a serpent's tail; the second from a fire i
 
 ## 4. From the Palace to Atsuta
 
-The Nihon Shoki records that in 688 the sword was removed from the imperial palace and sent to Atsuta Shrine.
+The Nihon Shoki records that in 686, the first year of the Shuchō era (Wikipedia gives 688), the sword was removed from the imperial palace and sent to Atsuta Shrine.
 
 The reason given is that the sword was causing trouble: it had made Emperor Tenmu ill.
 
