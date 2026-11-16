@@ -43,6 +43,6 @@ cover: ../../../assets/covers/foo-fighters.jpg
 related:
   - ball-lightning
   - blue-jets
-status: review
+status: published
 featured: false
 translation_status: translated

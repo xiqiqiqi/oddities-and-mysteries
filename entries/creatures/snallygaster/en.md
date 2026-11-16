@@ -74,6 +74,52 @@ The paper of 1909 is long gone. The monster is still around, printed on T-shirts
 
 *Original schematic: the 1909 series in the Middletown Valley Register, the features of the creature and the spread of the story. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
 
+## Midard Valley
+
+In February 1909, the Midard Valley newspaper in Frederick County, Maryland, published a long story on the front page.
+
+In the next few weeks, the newspapers have news in almost every issue. It is reported that the Smithsonian Society is ready to send experts to investigate, and that President Theodor Roosevelt may be personally involved in the round-up.
+
+## The word German immigrants
+
+The South Ridge is a low mountain and farmland in Frederick County.
+
+By 1909, the term had become “snallygaster”. A German word, changed by the English newspaper to the name of the monster.
+
+## Jersey devil
+
+Snaligast didn't come out of nowhere.
+
+## Seven Point Star
+
+Many families in the area painted the Seven Point Star on the barn door and were said to be able to block the monster.
+
+The Seven Point Star is an ancient protective symbol that is common in European folk beliefs. Immigrants bring it to America for use in barns, doors and stables. The monster panic of 1909 gave it a new use.
+
+## Liar
+
+The series lasted several weeks.
+
+Later, editor George C. Rodrick and journalist Ralph S. Wolf admitted that they made the story up. No monsters, no steel claws, no Roosevelt roundup.
+
+The press does go up. A piece that's been written to sell the paper has lived longer than the paper. Today, it's printed on a T-shirt, hanging on the bar wall, it's a mascot in Frederick County.
+
+The story of Snaligast is a specimen of the newspaper age. It proves that a monster is good enough to be built in a few weeks and live a century. Today's social media is just a few days shorter.
+
+Snaligast later appeared in the bar sign, fire department badges, and local school books. An acknowledged scam became a joke where the place wanted to keep it.
+
+## Supplementary Notes
+
+The story is safer when Snaligast's scam is admitted. No one needs to prove it exists, no one needs to deny it. It can be a mascot, and it appears in fire trucks, coffee cups and children's paintings. A debunked monster, sometimes easier than a trusted monster.
+
+In 1909, Middletown newspaper wrote about Snaligast as a flying monster. It grabbed livestock and drank blood. The story went to Baltimore and to Washington. It became the name of the local bar and team. Snaligast reported that there were no photographs or specimens. It lived in the old newspaper.
+
+Snaligast's newspaper reports, concentrated in 1909. It's described as a half-bird, half-snake thing. Later, it was used by a local bar. Later, it became a mascot for the team.
+
+The old paper is still there. In the microfilm of the library, you can find it.
+
+Snaligast's name, it's written in many versions. No one can determine which is right. The microfilm of the old newspaper, shake it with your hand.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1909 newspaper series, the description of the creature, the influence of the Jersey Devil and the admitted hoax; the Snallygaster was invented by the paper's editor and reporter, and there is no physical evidence for it. The illustration is a scene reconstruction, not a historical photograph.

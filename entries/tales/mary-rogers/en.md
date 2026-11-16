@@ -74,6 +74,100 @@ The case was never officially closed.
 
 Mary Rogers's name survived in a story by Poe. The cause of her death survived in the newspapers of 1841. Both outlived her.
 
+## Counter
+
+Mary Rogers, works at a tobacco store in New York.
+
+She's young and pretty, she's a sign in the store. The customers like her.
+
+## 1838
+
+In 1838, she disappeared for the first time.
+
+Where she went, nobody knew. Then she came back.
+
+## 1841
+
+On July 25, 1841, she disappeared again.
+
+A few days later, her body was found on the Hudson River.
+
+## Sybil Cave
+
+Her body, probably near the Sibil Cave.
+
+That's a view in New Jersey, near the river.
+
+## Newspapers
+
+The newspaper reported her death.
+
+The case became the headline of New York City. Some say she was killed by a gangster; others say she was killed by a lover.
+
+The newspaper reported Rogers' death.
+
+The newspaper reported her death.
+
+## Ellen Poe
+
+Ellen Poe wrote a novel called Mary Rogers' Enigma.
+
+He analysed the case with reasoning. The novel did not solve the case.
+
+## Dead
+
+What did Rogers say before he died?
+
+No one knows. Her death is a mystery.
+
+## New York
+
+New York, 1841, is a big city.
+
+There are newspapers, shops, docks and slums. There are a lot of crime.
+
+## Answer
+
+The case was not solved.
+
+Rogers' death is a mystery.
+
+## Supplementary Notes
+
+Mary Rogers, a regular shopkeeper.
+
+Her death became the headline of New York.
+
+The newspaper wrote her as a “deformed woman” and the case as a “moral story”.
+
+## Archives
+
+In July 1841, Mary Rogers was found dead on the Hudson River. Her death became a series of New York newspapers.
+
+The case is not solved. The sales of the newspapers are up because of this story.
+
+Ellen Poe's novel changed her name and her ending. The real case, no ending.
+
+Her death started to get New York newspapers to focus on ordinary people's cases. Her fiancé became a suspect. But there was not enough evidence, the case was not brought to court. The serials of the newspapers were finally stopped.
+
+Her gravestones did not write the case. Only the name and date.
+
+Her story was rewritten by later men. The truth was mixed with fiction. The serial was not finished.
+
+The case remained on file and was not closed.
+
+Her name, stay in the old paper.
+
+The newspaper stopped.
+
+Her case was later admitted to the criminal history. The name is more powerful than the truth.
+
+Her case was later admitted to the criminal history. The name was more loud than the truth. The newspaper sold out and the mystery remained.
+
+The mystery is still there. The name is still there.
+
+Mary's name, stay in the book. The case is not closed, but the book is always read. It's reprinted many times.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the disappearance, the discovery of the body, the press coverage, Payne's death, and Loss's deathbed account; no one was ever convicted, Loss's account does not match the autopsy in every detail, and the death of Mary Rogers has no legal conclusion. The illustration is a scene reconstruction, not a historical photograph.

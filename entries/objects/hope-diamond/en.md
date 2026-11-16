@@ -68,6 +68,62 @@ In the other, it is a rare blue diamond that passed through war, theft, resale, 
 
 The two versions are not entirely incompatible. The stone is real. The misfortunes were real. The question is whether we are willing to fill the gap between them with a good story.
 
+## Blue stone
+
+Hope the diamonds are a blue diamond.
+
+It weighs 45:52 carats, and it's dark blue, and it's very clean. It's wrapped on a hanger, surrounded by white diamonds.
+
+## From India to France
+
+Hope the diamonds come from India.
+
+In the seventeenth century, the French jeweller Tawenier brought it to Europe. It was sold to Louis XIV and became the French Blue Diamond.
+
+## Curse
+
+Hope the diamond's curse was later fabricated.
+
+Legend has it brought bad luck to the owners: Tawenier broke, Louis XVI was executed, and Mary Antoinette went to the guillotine. There was no causal link between these events and the diamonds.
+
+## The stone itself
+
+Diamonds are carbon.
+
+It's blue from boron impurities. It takes heat and pressure to form, hundreds of millions of years in the mantle. It has no magic or memory.
+
+## Which version would you like to believe?
+
+Hope the diamonds are now at the Smithsonian Museum.
+
+Visitors can see it, or they can read it. One stone, two versions: one scientific, one legend.
+
+You can choose which one to believe. Museums don't choose for you.
+
+## Collection
+
+It is hoped that diamonds will be owned by a number of collectors.
+
+Some put it on a ring, some put it in a safe. Every time you turn around, you add a story.
+
+## Exhibition
+
+It's at the Smithsonian Museum now.
+
+It's bulletproof. The lights are bright. The tourists can see it blue, and they can see its history.
+
+A diamond, no curse. It's just wanted by a lot of people.
+
+## Summing up
+
+Hope the diamonds are a carbon.
+
+It's blue from boron, it's story from man. The curse was later made up and the value added.
+
+It's in the museum now, surrounded by glass and lights. It's not magic, it's history.
+
+A rock, wanted by so many people, ended up in a glass cabinet. That's probably its truest curse.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and reconstruction illustrations are licensed under CC BY-SA 4.0. Reconstruction illustrations are not historical photographs. The “curse” of the Hope Diamond is folklore, not a factual claim.

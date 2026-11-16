@@ -68,6 +68,66 @@ Conservation remains difficult. Once a bog body meets the air, it can dry, shrin
 
 A man died more than two thousand years ago, and his skin is still there, his hair still reddish. It is not because he was treated specially, but because he fell into a place that would not let him rot.
 
+## Peat
+
+Peat swamps are wet.
+
+Water is less oxygen, acidic, bacteria are difficult to reproduce. The body is buried, the skin turns dark brown, the hair turns red and the bones soft.
+
+## Save
+
+The swamp is not just saving bodies.
+
+Clothes, ropes, tools, foods are also preserved. These things allow archaeologists to see the details of ancient life.
+
+## More than one
+
+In the European swamp, a lot of bodies were found.
+
+Tollund Man, Lindow Man, Yde Girl, Netherlands, Rendswühren Man, Germany. They come from different generations, from different regions.
+
+## How?
+
+Their cause of death is different.
+
+People are strangled, their throats slit, and they are drowned. They are said to be criminals; they are said to be sacrifices; and they are said to have died accidentally.
+
+## The swamp is the door
+
+In the Nordic myth, the swamp is the door to another world.
+
+Putting things in the swamp is a gift to God. The body may be a sacrifice or a punished person.
+
+## Now
+
+The bodies of the swamp were displayed in the museum.
+
+Their faces are restored, their clothes are displayed. Tourists can see people 2,000 years ago.
+
+A body, coming out of the swamp, became a witness to history.
+
+## Archaeology
+
+The bodies in the swamp provide details of ancient life.
+
+Their clothes, hairstyles, diets and diseases are studied. They're not monsters, they're ordinary people.
+
+## Ethics
+
+The exhibition of the bodies of the swamp is ethically controversial.
+
+It's said to be disrespectful to people; it's said to be history education. Museums usually write on the sign that these people are not exhibits, they are dead people.
+
+A body, from the swamp to the museum. It travels longer than it lives.
+
+## Summing up
+
+The bodies in the swamp are not “monsters”.
+
+They are ordinary people, preserved by peat. Their death may be punishment, sacrifice or accident.
+
+They have shown us the details of ancient life, and they have given us an ethical question: whether the dead can be displayed.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, the preservation mechanism, the causes of death, and the ritual interpretations; both the cause of death and the reason for deposition remain debated.

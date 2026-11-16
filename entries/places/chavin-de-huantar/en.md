@@ -60,6 +60,100 @@ The 1970 earthquake damaged parts of the buildings, and later restoration used m
 
 A temple three thousand years old used darkness, narrow passages, and sound to make people believe that a god was just behind the wall.
 
+## The valley
+
+Chavend Vantal, in a valley in the Andes, Peru.
+
+The site is more than 3,000 metres above sea level, surrounded by mountains and valleys. It was built around 900 B.C. and is the centre of Chavin culture.
+
+## Old temples and new temples
+
+The site has two main buildings: the Old Temple and the New Temple.
+
+The old temples are in U shape, with courtyards, corridors, and underground rooms. The new temples are bigger, with squares, stairs, and stone sculptures.
+
+## Underground
+
+There's a narrow passage under the old temple.
+
+The passageway contains steps, vents, and stone sculptures. The end is a room with a pillar called Lanzón. The pillar is engraved in a mixture of cats and humans, with teeth and snakes.
+
+## Sound
+
+The design of the tunnel may be associated with sound.
+
+Speaking in the passageway, the sound is magnified and reflected. The researchers believe that the priest may make a sound in the passage and let the faithful hear the voice of God.
+
+## Image
+
+Chavin's stone sculptures, with cheetahs, eagles, snakes and humans.
+
+These animals are not random. They represent power, the sky, the earth, and transformation. The religion of Chavin may involve shaman, hallucinations and sacrifice.
+
+## Now
+
+Chavin is the UNESCO World Heritage Site.
+
+Sites are repaired, reinforced, and some areas are open to tourists.
+
+A temple in the valley, 2,000 years earlier than the Inca Empire. It proves that Andean civilization does not suddenly emerge, but has a long roots.
+
+## Religion
+
+Chavin's religion may involve hallucinations.
+
+Cats, snakes, and eagles on stone sculptures are associated with the shaman faith in the Amazon. The priests may use plants, sounds and darkness to make people phantom.
+
+## Construction
+
+The old temple's U-shaped layout, like a ritual theater.
+
+A courtyard, a corridor and an underground room that guides people from the outside to the inside, from the clear to the dark.
+
+## Tourism
+
+Chavin is a tourist destination in Peru.
+
+Tourists can see sites, museums, and stone sculptures.
+
+Chavin is a tourist destination in Peru.
+
+Visitors can see sites, museums, and stone sculptures.
+
+A temple in the valley, 2,000 years before the Inca Empire.
+
+Ransson is still in the dark. It doesn't talk, but everyone who walks into the passage will hear their footsteps.
+
+## Research
+
+Chavin's research is continuing.
+
+Archaeologists are looking for residential areas, farmlands, and craftsmen's workshops. They want to know who built the temple and who feeds it.
+
+## Andean
+
+Chavin in the Andes.
+
+High altitude, thin air, and cold wind. The site is surrounded by ladders, valleys and snow mountains.
+
+## The temple
+
+Chavin's temple is the centre of religion.
+
+People come from surrounding valleys, attend rituals, sacrifice, listen to priests.
+
+## Ranzon
+
+Ransone is a pillar of stone.
+
+It carves a mixture of cats and humans, with teeth, snakes and eagles. It's the most important image of Chavin.
+
+## Audiology
+
+The temple's passage may be used to magnify the sound.
+
+The priests speak in the passageway, and the sound reaches the square. The faithful hear not the voice of man, but the voice of God.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the building phases, the underground structures, the acoustic experiments, the images, and the conservation; the purpose of the acoustics is still debated, and the “priests creating an oracle” reading is one interpretation.

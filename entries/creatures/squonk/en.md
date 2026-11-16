@@ -68,6 +68,52 @@ In a world where every monster wants to eat you, a creature that cries itself aw
 
 *Original schematic: the folklore elements, Cox's 1910 record and the later popular culture. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
 
+## Logging camps
+
+The story of Scank, from the logging camp in northern Pennsylvania.
+
+In the late nineteenth century and early twentieth century, the loggers lived in the ironwood forest for months. The winter was long, the night wind passed through the trees, the sound of someone crying. Some people said it was not the wind, it was an animal.
+
+The lumberjacks live a hard and boring life. They need stories to go out of the night, and they need stories to scare the new workers. One of them is Scank: something that looks ugly, cries all day, and becomes a tear when it is pushed.
+
+## The book of 1910
+
+The first time Sconk was written in a book, it was 1910.
+
+The first state forestry officer in Minnesota, William T. Cox, wrote a little book called Horrible Organisms in the Logging Wood. He documented the various monsters that the lumberjacks talk about: can throw branches, can drill drums, laugh.
+
+## Tears
+
+Sconk's set, the core is tears.
+
+It is neither a monster that eats humans, nor a demon that curses them. It is only ugly, but sad, and it does not want to be seen. When the hunters chase it, it becomes a tear, and it disappears.
+
+It's a strange and effective setting. Most monsters bite, grab, and the only thing that Sconk can do is cry and disappear. It's not scary, it's a little sad.
+
+## And then
+
+In 1976, the British band Genesis wrote a song called Squarenk.
+
+The song's Skunk, who was so ugly, was crying in the mountains and was surrounded by hunters and turned into a tear. Later, it appeared in games, comics, and monster images.
+
+Scank is not a real animal. It's an image of the United States logging culture, like the "True Demons Throwing branches" "The Wild Man laughing" -- a story that's told by the campfire.
+
+The story of Scank is not scary. It's just sitting by the woods crying, crying to the ground wet, and then turning into a pile of water. Maybe that's why it's not forgotten: where all monsters want to eat people, a monster that only hurts, but is the most human.
+
+Sconk did not leave footprints, nor did he leave specimens. It left a saying: "There's something deep in the forest, it's ugly, so it cries. Whoever hears it will remember the forest."
+
+## Supplementary Notes
+
+In the story of Scank, there are no heroes or victims. Hunters chase it, they cry, hunters approach, it turns into tears. This ending does not provide victory, nor an explanation. It just stops the chase. It's rare in an era where all stories teach people how to kill monsters.
+
+The story of Skunk has no end. It cries, it melts, it disappears. The next time someone walks into the woods, it'll be there. A monster that just disappears is the hardest to get rid of.
+
+It does not pursue people, nor does it wait for them. It only weeps when it is seen, and then disappears.
+
+Skunk is a sad monster in the logging culture. He's in the mountains crying and crying to get himself out. This image, later in the children's books and ads. The tears of Skunk are said to heal. This is what campfires say, not science.
+
+The story of Scank, later written in the children's book. It stopped crying and became a lovely character. The sad monster of the logging camp was tamed.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the lumberjack folklore, the 1910 written record and later popular culture; the Squonk is a folkloric creature with no physical evidence. The illustration is a scene reconstruction, not a photograph of a site.

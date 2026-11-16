@@ -62,6 +62,100 @@ The ghosts were added later. The house was already heavy enough.
 
 *Original schematic: the 1796–1992 timeline, the 1871 shooting on the porch and the spread of the Chloe legend. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
+## 1796
+
+Mertel Plantation, in Louisiana.
+
+It was built in 1796 and belongs to General John Hampton. The house is federal, with columns, gardens and bars.
+
+## Yellow fever
+
+The history of plantations is related to yellow fever.
+
+Yellow fever was prevalent in Louisiana in the 1790s. Many people died, including slaves and masters. Houses and cemeteries left behind the history.
+
+Yellow fever has changed the history of plantations.
+
+In the 1790s, a lot of people died. Houses were resold and owners changed for generations.
+
+## Name
+
+The plantation was originally called Foxhall.
+
+Later, the owner changed his name to “Myrtles”. The name came from a porcelain mammoth, which grew a lot around the house.
+
+## 1871
+
+In 1871, a murder took place on the plantation.
+
+The owner was shot dead in the porch. The case was not solved and the house was later resold.
+
+## Chloe
+
+The ghost of the plantation, the most famous one is Chloe.
+
+Legend has it that she was a slave, who was cut off from her ears for listening or making mistakes. She wandered around the house, took care of the children, and was scary.
+
+## Mirror
+
+There's a mirror in the house.
+
+The legend says that the child's palms are left behind by ghosts. There are also people who say that the mirror itself is a problem.
+
+The mirrors in the house are tourist sites.
+
+The tour guide said there was a child's handprint on the mirror. There were also people who said it was the mirror itself.
+
+## Tourism
+
+The plantation is now a tourist destination.
+
+Tourists can visit houses, gardens and cemeteries.
+
+The house is still there, the garden is still there. The ghost story is just the surface, and below it is the history of slavery and the land.
+
+Tourists come to hear ghost stories and come to houses. But the real history of the house is the wealth of slaves' labour and land. Ghost stories can tell, slavery must not be forgotten.
+
+The house can be repaired, the garden can grow, history cannot be deleted.
+
+History will not be repaired, but will be told as another story.
+
+Ghost stories can tell, history can't forget.
+
+## The house
+
+The house is still there.
+
+It is not a “ghost house”, but a place of land, slavery and memory.
+
+## Slavery
+
+Mertel Plantation, a slave farm.
+
+The people in the house live on the work of slaves.
+
+## Ghost
+
+The ghosts of the plantation are the memories of slavery.
+
+Chloe's story, it's about the death of a slave and wandering. It's not just a ghost story, it's a wound of history.
+
+## Protection
+
+The plantation is now a museum.
+
+It tells stories about houses, gardens, slavery and ghosts. Tourists can see two versions of history.
+
+## Garden
+
+The plantations have gardens, oaks and bars.
+
+There are flowers, trees and statues in the garden. In front of the house, there is a path.
+
+## Archives
+
+The Milltle Estate was built in 1796, and it's owned by David Bradford. The main house, the garden, and the iron gates, all of them are the same as the old South.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the plantation records, the yellow fever deaths, the 1871 murder and the Chloe legend; there is no documentary record of Chloe, and no verifiable evidence for the handprints. The illustration is a scene reconstruction, not a photograph of the site.

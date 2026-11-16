@@ -62,6 +62,84 @@ It is often called a “miracle of ancient Indian metallurgy.” A more accurate
 
 A column, standing in the open, without a glass case. It does not need a miracle to make people stop and look.
 
+## The column
+
+The Delhi iron column is in the yard of the south suburb of Delhi.
+
+It's about 7:2 metres tall, about 40 centimetres in diameter, and weighs about 6 tons. The pillars are buried in the ground, some 6 metres high. The columns are decorated and the pillars are covered with inscriptions.
+
+## An inscription
+
+The inscription is Sanskrit, with a lot of fonts.
+
+It says that this pillar was set up “in memory of the King Chandra.” The scholars believe that Chandra is the Emperor of the Dynasty of Chandragupta II, in the fourth century.
+
+## Who set it up?
+
+The column's origin, it's different.
+
+Some say it's coming from somewhere else, not from Delhi. The inscription refers to a king, but the king's name and age are controversial.
+
+## It's stainless
+
+The iron column is most famous for its stainless nature.
+
+It has been exposed outside for more than a thousand years, with only one layer of rust on its surface. This is due to the high purity of iron, which contains phosphorus, and the formation of a dense iron phosphate protective film on the surface.
+
+## It's not that it doesn't corrode
+
+The iron column is not completely uncorrupt.
+
+Its surface is rusty, but it's thin and stable. In heavily contaminated urban air, it gets thicker. It doesn't disappear because of the environment and management.
+
+## Now
+
+The iron pillar is an ancient site in Delhi.
+
+Visitors can see, but they can't touch. The Indian government has surrounded it and installed surveillance.
+
+An iron column that proves that ancient craftsmen control the purity of iron. It also proves that protecting the environment is more difficult than creating miracles.
+
+## Metallurgical
+
+And the iron column is high in purity.
+
+Ancient iron smelting usually leaves a lot of slag. Iron bars have less impurities, which suggests that craftsmen use repeated physical exercise or special smelting methods.
+
+## Phosphoric acid
+
+There is a layer of iron phosphate on the surface of the iron column.
+
+phosphorus comes from soil or fuel. It is combined with iron and forms a dense protective membrane to prevent further corrosion.
+
+## Tourism
+
+The iron column is a tourist destination in Delhi.
+
+The tourists can see, but they cannot touch. Some say that the promise will come true when they stand on their backs against the iron pillars. This is the folk tradition of the past, not the ancient rituals.
+
+## Science
+
+The iron column is a case of material science.
+
+It suggests that corrosion-resistant steel does not necessarily require stainless steel. The right composition and environment also allow iron to be preserved over the long term.
+
+## Summing up
+
+The Delhi iron column is not the myth of "no rust."
+
+It's a layer of rust, it's just rusty. It's pure, phosphorus content and environment, it protects it together.
+
+An iron column attests to the height of ancient metallurgy and the environmental impact on materials.
+
+It's still in the yard. The wind blows and the rain falls, and it rusts and is slowly remembered.
+
+A pillar has been standing for over a thousand years, longer than most dynastys. It has no time to win, but it rots a little slower than what's around it.
+
+Iron rots, stones break, and the story stays standing.
+
+It's just a pole, but it makes time seem less absolute.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the inscription, the dating, the metallurgical analysis, and the popular “never rusts” claim; the pillar is not completely immune to corrosion.

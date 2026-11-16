@@ -82,6 +82,18 @@ It supports hotels, boat tours, museums, and souvenir shops. It is one of the mo
 
 The 2019 DNA study did not find a monster, and it did not reduce the number of visitors. People do not necessarily believe there is a beast in the loch. They like the possibility: that beneath the surface, there is still a place we have not finished seeing.
 
+## Name business
+
+After 1933, Loch Ness was no longer just a lake.
+
+It's a tourist route: hotels, cruise ships, museums, souvenir shops at the lake, all start selling "the water monster." The newspapers need new stories, tourists need new pictures, places need new income. An animal that no one has ever seen has raised a street.
+
+And that's why the story of the water monster has not disappeared. It's not just a zoology problem, it's a local economic problem. Every time a "new evidence" brings a new round of tourists.
+
+The lake is still there. The water monster has not appeared, and the tourist population has not decreased. This is probably the most successful place in modern legends: it does not need to be proven, and it can always function.
+
+The water monster of Lake Nice didn't land. It stayed in the water, in the pictures, on the tickets. That's enough for a lake.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and reconstruction illustrations are licensed under CC BY-SA 4.0. Reconstruction illustrations are not historical photographs. The Loch Ness Monster is folklore, not a confirmed animal.

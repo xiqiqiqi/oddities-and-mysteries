@@ -98,6 +98,12 @@ Only the old people still tell the story: the sky split open, the fire came from
 
 *Original map: the approximate extent of the 1908 Tunguska blast. Oddity Archive, CC BY-SA 4.0.*
 
+## Comparison
+
+In 2013, there was an air explosion over Cheyabisk. Fireballs, shock waves, broken windows, and 1908 Tungus were much smaller. The event was captured by a lot of cameras, allowing researchers to see for the first time the process of an explosion.
+
+Toungus doesn't have that image. It's just the forest, the witnesses, and later measurements. Together, the two events show that the air explosion is not a myth, but a real risk in the solar system.
+
 ---
 
 **Sources and licenses**: the factual sources, historical photographs, and original diagrams are listed in the source ledger S1–S8 at the bottom of this entry. Text, original maps, and reconstruction illustrations are licensed under CC BY-SA 4.0. Reconstruction illustrations are not historical photographs and should not be treated as evidence.

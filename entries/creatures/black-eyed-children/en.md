@@ -70,6 +70,38 @@ The story puts “someone who needs help” and “something that cannot be trus
 
 The parking lot in 1996 may have held two boys in contact lenses, or nothing at all. But the story found a structure that holds, and it is still being told.
 
+## From Mail List to Television
+
+The story of Bethel, not in the papers at the earliest, appeared in an e-mail list of ghosts.
+
+In 1998, he wrote a growing post that he sent to the same people in the list. The post was archived, forwarded, translated, and distributed to forums in the English-speaking world for several years. In 2012, he spoke on television, and this time he had lights, cameras and music.
+
+Changes in the way of transmission change the focus of the story. The longer version in the mailing list retains Bethel's hesitation and self-skepticism; the shorter version of television focuses on the “black eyes” and the “unjustified fears.” The later version deletes the name and location and becomes a template that can be found in any parking lot.
+
+## The pattern of the story
+
+The story of black-eyed children has a very stable structure.
+
+Usually in the night, there is an empty parking lot, a side of the road or a door. The two children appear nearby, with white skin, plain clothes, and politely. They make a specific request: a ride, a call, a door. Witnesses are afraid, refuse, and then leave. When they turn back, the child is gone.
+
+The structure and the “disappeared passenger” “the vampire knocks on the door” have the same skeleton: a stranger in need of help, a request that cannot be refused without taking it, a reflection that disappeared after refusing.
+
+## Why can't we verify it?
+
+No police records, no photographs, no second witness.
+
+Bethel himself did not claim that it was a ghost. He said he did not know what he saw, but only remembers that fear. That said makes it harder to prove the story and easier to believe: an uncertain witness is more credible than a certain liar.
+
+Sharon Hill and Snopes have checked the public records, and they have not found an event that can be independently verified. Black contact lenses, pranks, robbery preludes, night vision errors are all possible explanations.
+
+## Why is the baby so scary?
+
+In our daily experience, children represent harmless, needless protection and do not lie.
+
+Black-eyed children turn this experience around: people in need of protection become untrustworthy; the moment to open the door becomes the most dangerous option. Witnesses fear, not just because they have black eyes, but because they find themselves unable to judge the two individuals before them with common sense.
+
+The story has no answer, nor does it need an answer. All it needs is a parking lot, a yellow light, and two kids standing outside the window.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Bethel's account, the later versions, the shared features, and the skeptical view; there is no verifiable police record or photographic evidence, and the black-eyed children are treated as an urban legend. The illustration is a scene reconstruction, not a photograph of a sighting.

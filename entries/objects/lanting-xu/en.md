@@ -72,6 +72,70 @@ No one knows whether the original lies in Zhaoling. But the 324 characters survi
 
 *Original schematic: a timeline from the 353 gathering to the Tang copies and the 1965 debate. Not the original calligraphy. Oddity Archive, CC BY-SA 4.0.*
 
+## Yatter
+
+In the spring of 353, Wang Yu's and friends gathered in Lantern, where they met in the mountains.
+
+Forty-two people. They sit by the stream, put their glasses on the water, and they come down, and they park in front of anyone, and they drink and write poetry. This is "Croat Water."
+
+It was a nice day, a small wind, a clean stream. Someone wrote a poem, someone drank, someone laughed. The king wrote a sequence, and wrote down the party.
+
+## Word
+
+The Rantine Order has 28 lines, 324 words.
+
+It's not much, but it's a lot different. It's the same word, it's 20 times, it's different at a time. Some are long, some are short, some are connected, there are breaks. It's not designed, but it's written by hand.
+
+When the king woke up, he wrote it several times less than the original. He said that the words of the day were “after being drunk” and could never be written again.
+
+## Original
+
+The original was not left behind.
+
+The legends say that Don Taizon likes the Lantern sequence, and took it to the Shogun after his death. There are also people who say it's buried somewhere else, or it's already destroyed. There is no archaeological evidence.
+
+What we see today is both a book and a book. The most famous are the Dragon Book, which is passed on to him, and the "Determinate Warfare," which is a stone-plate. They are not the true pieces of the King's Book, but they preserve the shape of the original.
+
+## Books
+
+There are two kinds of scripts: one with a sketch, which is written on the original, and the other with a pen; and the other with a pen, which looks at the original.
+
+It keeps the fonts, but it's hard to get stiff, and it keeps the pens, but it's easy to walk. A good script, in between: the words are perfect and the pen is still there.
+
+Dragonburn's pen is very thin, very delicate. It shows us the speed and rhythm of writing, even if not the original.
+
+## The word of the day
+
+The value of the Lantern sequence is not just a word.
+
+It's an article about time, life, and party. It starts with the scenery, it's the middle, and then it says, "It's the past between the tops." The words and the words are combined, they're complete.
+
+The words of that day were long gone. But the wind, the wine and the laughter of that day were still in the text.
+
+## Articles
+
+The Ranten sequence is not just a word, it is an article.
+
+The article begins with the time, place, and person of the party. It reads streams, glasses, poems. The music is very sad, the thought of life is short, and the ancients say, "The dead are great."
+
+Words are flat, not radiant. It's like a diary, and it's like a philosophical pen. Words and words are consistent: nature, fluid, slightly sentimental.
+
+## Tang Jing
+
+The Tung Dae's copy, the closest version to the original.
+
+The Emperor likes the king, he collects many kings. He lets his hand copy the Rantine sequence and gives it to the prince and the minister. Feng Seung-soo, Shin-nan, Su-Liang and others have spoken.
+
+The Dragon has a half-print of the Dragon, so it's famous. It's a thin, strapped pen, it can see the speed of the pen. It's not the original, but it's the shadow of the original.
+
+## Landin's argument
+
+In 1965, a “lantine debate” took place in Chinese academia.
+
+If Guo Moi argues, the Rantin sequence may not have been written by Wang, but by a later person. He is based on words, book law, and historical material.
+
+The argument is not settled. It explains that even if a work is considered to be a classic, its author and the truth can be questioned. It is not uncontroversial, but it is remembered.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 353 gathering, the text, the fate of the original, the Tang copies and the authenticity debate; the original's fate belongs to records and legend, and everything visible today is a copy or rubbing. The illustration is a scene reconstruction, not the original calligraphy.

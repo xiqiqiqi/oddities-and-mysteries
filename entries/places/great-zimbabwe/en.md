@@ -60,6 +60,100 @@ In 1986, Great Zimbabwe became a World Heritage Site.
 
 Today it is the country's most important archaeological site and a symbol of national identity. The walls are weathering, roots are growing, and some sections need reinforcement. Excavation continues, and so does research on the city's population, kingship, and trade.
 
+## Rock City
+
+Greater Zimbabwe, in southern Zimbabwe.
+
+It's a stone town made of granite. The walls are high, some 11 metres high, the stones are large, some tons large. There's no ash between the stones, and they bite by shape.
+
+## Who built it?
+
+Greater Zimbabwe is the city of the Shonas.
+
+The Shonahs lived in the Zimbabwe Highlands and built the city. It was the centre of trade, religion and power.
+
+## The colonial denial
+
+In the nineteenth century, European colonists saw Rock City and did not believe that it had been built by locals.
+
+They say it was built by the Arabs, the Phoenicians, or the Queen of Sheba. That is to deny the power of Africans.
+
+## Archaeology
+
+Archaeologists have demonstrated that Greater Zimbabwe was built by the Shonas.
+
+They found pottery, tools, trades and residential sites. Rock City was in the 11th to 15th centuries.
+
+## Decay
+
+Greater Zimbabwe, Decline in the Fifteenth Century.
+
+Some say overgrazing; others say trade routes change; others say political divisions. The reason is inconclusive.
+
+## Now
+
+Greater Zimbabwe is the UNESCO World Heritage Site.
+
+It's a national symbol of Zimbabwe. Rock City's image is on currency, flag and tourism propaganda.
+
+## Rock
+
+Rock City has no words.
+
+It left behind a name for civilization with walls, towers and stones.
+
+## Shona
+
+Greater Zimbabwe is the city of the Shonas.
+
+The Shonas speak the Shonah language and belong to the Bantu language.
+
+## Trade
+
+Greater Zimbabwe, ITC.
+
+It exports gold, ivory and copper, imports glass, china and fabric. Trade networks link the Indian Ocean and inland.
+
+## Wall
+
+Stone walls are not ordinary walls.
+
+They are surrounded by mountains, valleys and palaces, with towers, doors and passages on the walls, and there is no ash between the stones, and they are bitten by shape.
+
+## Protection
+
+Greater Zimbabwe is threatened by culture, tourists and theft.
+
+Protectors reinforced walls, restricted access, and trained guided tours.
+
+## Top of the mountain
+
+Greater Zimbabwe, with a hilltop building.
+
+It's built on rocks, with walls, towers and passageways. It could be the King's house or religious site.
+
+## The big fence
+
+In the valley, there's a big fence.
+
+It has walls, towers, and passages. The stones on the walls are arranged in patterns.
+
+## Museums
+
+Great Zimbabwe, there's a museum.
+
+The museum has pottery, gold and tools.
+
+Rock City is not a mystery. It's a city built by Africans themselves, but later people don't want to believe it.
+
+Rock City exists without any need for colonial recognition. It's there, made of granite, for centuries. Africa's history does not need to be proven.
+
+The wall's still there, the name's there.
+
+Rock City doesn't need an excuse. It's just standing.
+
+Rock City is still there, the story is there.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architecture, the builders, the trade, the colonial interpretation, and the decline; the function of some walls and buildings is still debated.

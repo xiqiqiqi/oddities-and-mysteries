@@ -58,6 +58,116 @@ Dyatlov Pass is now a marked route, and hikers still pass through every year. A 
 
 The case is discussed not only because of the deaths but because the scene left such an improbable combination: a tent cut from inside, barefoot people, bodies without coats, severe internal injuries, and a night with no witnesses.
 
+## Mountain team
+
+In 1959, a Soviet team climbed the mountain near the Giatrov Pass in the Ural Mountains.
+
+There are nine people in the team, mostly college students and engineers. They're experienced and well equipped.
+
+## Tent
+
+On 1 February, they camped on the hillside.
+
+The tents are buried in snow and partially cut. The clothes, shoes and food of the team are left in the tents.
+
+The tents were buried in the snow and partially cut open.
+
+The crew's clothes, shoes and food were left in the tent.
+
+## Search
+
+February 26, search and rescue teams found tents.
+
+The tents are empty. The team is not here. Search and rescue teams are looking for the hills, the woods and the valleys.
+
+## Wounded
+
+Five bodies in the snow, four in the valley.
+
+A man died of freezing and a man was injured. One of the members had a broken skull, one of the members had a broken ribs and one of the members had a missing tongue.
+
+Avalanche, can't explain all the injuries.
+
+The skull is fractured, the ribs are fractured, the tongue is missing, and it takes a lot of power. Avalanche can hurt people, but it does not necessarily cause these injuries.
+
+Five bodies in the snow, four in the valley.
+
+A man died of freezing and a man was injured. One of the members had a broken skull and one of the members had a broken rib.
+
+## Explanation
+
+There are many explanations: avalanche, infrasound, military experiments, animals, aliens.
+
+Most accepted is avalanche. But avalanche doesn't explain all the injuries.
+
+Infrasound claims were later used by some to explain the crew ' s panic.
+
+## Now
+
+The Gatrov Pass is a tourist destination.
+
+Tourists come skiing, walking, taking pictures. The story is still there.
+
+The road to the mountain is still hard to walk in winter. The rescue team goes into the mountain every year.
+
+## Ural
+
+Ural Mountains, in central Russia.
+
+It stretches from the Arctic Ocean to Kazakhstan. The mountains are not high, but winter is cold and snow is deep.
+
+## Avalanche
+
+Avalanche, the most common explanation for the Gatrov Pass.
+
+The hills are steep, snowy and windy. The tents are covered in snow, and the team leaves the tents to find safety.
+
+## Investigations
+
+The Soviet investigation did not disclose all the files.
+
+It was stated that the archives were kept confidential; it was said that they were lost. The findings were “natural disasters”.
+
+The Soviet investigation did not disclose all the files.
+
+The findings are “natural disasters”.
+
+## Team
+
+Nine people are on the mountain team.
+
+Most of them are college students and engineers. They're experienced and equipped.
+
+## Memory
+
+The Gatrov Pass is a cold story.
+
+Snow, wind, darkness are worse than any monster.
+
+Nine young people died on the hill. The file didn't give a complete answer.
+
+## And finally
+
+Gatrov Pass, no answer.
+
+Avalanche, wind, darkness are more terrible than any monster.
+
+Nine people, dead in the mountains.
+
+## Remember
+
+The Gatrov Pass is a cold story.
+
+Snow, wind, darkness are worse than any monster. Nine young people died in the mountains. The file does not give a complete answer.
+
+The avalanche explains the tent, not all the injuries. The file does not give a complete answer.
+
+Tents are empty and snow is still there. Nine young people left a mountain no answer.
+
+## Archives
+
+In February 1959, nine climbers died in Mount Ural. The tent was cut from the inside, and the crew ran barefoot into the snow.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the recorded scene, the forensic findings, and the various explanations; details such as the missing tongue are conditions of the remains, not direct evidence of homicide.

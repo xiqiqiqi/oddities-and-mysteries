@@ -58,6 +58,70 @@ It has a gallery of its own. The light is low, and the mask is lit separately. V
 
 A king who died at eighteen or nineteen still has a gold face three thousand years later. Someone broke his beard while fixing a lamp and glued it back with the wrong adhesive. Those marks are now part of its history too.
 
+## Cemetery
+
+In 1925, Howard Carter opened Tutankhamun's grave in King's Valley.
+
+The mask is covered on the head of the mummies, facing up. It is made of gold mounds, with glass, pinestone, green pinestone, and red marrow. It weighs more than ten kilograms.
+
+The mask is not a separate work of art; it's part of the funeral. It's covered in the face, and it walks the dead into another world. Its eyes are black and white, like the eyes of a living person.
+
+## Materials
+
+The main ingredient of the mask is gold.
+
+Under the golden gills there is cast and wood support. The gold content in different parts is not exactly the same, with some high purity and others with a lot of alloys. The mosaiced stones are also well known: the pinestones are from Afghanistan, the pinestones are from Sinai, and the marrow is from the eastern desert of Egypt.
+
+The material shows that the Egyptian trade network is far more than many people think. A Pharaoh's funeral used stones from several countries.
+
+## A beard
+
+There's a fake beard on the chin of the mask.
+
+In 2014, museum staff broke their beard while moving. The accident was filmed as an international news story. The repairer glued the beard back with epoxy resin, but left a clear trail.
+
+The repair team then reprocessed the epoxy resin and changed it to a more suitable material. The mask was put back into the booth, but the accident became a negative material for the preservation of the antiquities.
+
+## Repair
+
+The mask is repaired, not just to glue the broken parts back.
+
+The gold is thin, easily deformed; the embedded stone is loose; the surface dust cannot be used as a normal cleaner.
+
+Each repair leaves a record of what materials were used, what was handled, and where was not moved. These records are more important than the repair itself, because later researchers need to know what was original and what was intervention.
+
+## Now
+
+The Tutankhamun mask was displayed at the Egyptian Museum in Cairo.
+
+It doesn't go abroad much. In 2019, it was scheduled to go to Germany for an exhibition, and the dispute was cancelled for restoration. Egypt said the mask needed a more stable environment.
+
+A mask, from the face of a pharaoh, to a glass cabinet. It still looks ahead, except that it is no longer the Nile, but a tourist.
+
+## Gold ding-tao
+
+The mask's gold is thin.
+
+The craftsmen turn the hammers into thin pieces, cutting, plasticing, insulating. The thickness of the gold is uneven, and some are thick and others thin. This is not a mistake, but a piece of evidence.
+
+The gypsum and wood below the glycerine determine the shape of the mask. The glyph is just skin, the bone is inside. It's long, the bone is deformed, the glycerine is torn.
+
+## Exhibition
+
+The mask was displayed at the Egyptian Museum in Cairo.
+
+It is placed in a separate booth, and the lights come from the side.
+
+The mask booth was closed for some time because of the restoration of the dispute. It was reopened, but the rules for the visit were tightened.
+
+## Protection
+
+The preservation of cultural objects is not just a fix.
+
+It also includes recording, monitoring, restricted access, and training of personnel.
+
+A mask, for over 3,000 years, has been buried, discovered, moved, repaired, displayed. It has a longer history than Pharaoh.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation record, the structure of the mask, the repair accident, and the curse legend; there is no reliable evidence for the “curse”, and the scratches on the mask cannot be fully repaired.

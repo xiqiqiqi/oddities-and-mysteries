@@ -66,6 +66,136 @@ The episode reappeared in cartoons, prints, and popular histories. The kettle be
 
 It does not belong in the great-battles chapter of military history. It belongs in a footnote about how diplomacy avoids wars. Both sides got an acceptable result. The price was a kettle.
 
+## Border
+
+In 1784, a conflict took place between the Republic of the Netherlands and the Austrian Netherlands, Austria, on the border.
+
+The border is not clear. The two countries compete for sovereignty on a small island near the Meuse.
+
+The 1784 border was not demarcated.
+
+Both the Netherlands and Austria consider themselves to have small islands near the Meuse.
+
+## Boat
+
+An Austrian vessel crossed the border with the Netherlands.
+
+The men on board, armed and carrying a kettle, fired on the Dutch side and shot the kettle.
+
+The Austrian ship crossed the border.
+
+Those on board, armed with weapons and kettles. They want to declare their sovereignty.
+
+## One shot
+
+This war, it's only one shot.
+
+No one died and no one was injured. The kettle was broken and the boat was turned back.
+
+## Name
+
+The name "The Kettle War" came from the kettle.
+
+It turns a border conflict into a joke. History books like that name because it's small, specific, absurd.
+
+## Treaty
+
+In 1785, the two countries signed the treaty.
+
+The borders are drawn and the conflict is over. The kettle is a symbol: a war without bloodshed.
+
+The 1785 treaty, which demarcated the border.
+
+The two sides exchanged land and settled the dispute. The kettle war became the watchword of the treaty.
+
+In 1785, the two countries signed the treaty.
+
+The border was cleared and the conflict ended.
+
+## And then
+
+This conflict has not changed the pattern of Europe.
+
+It is merely a reminder that borders do not exist naturally, but are drawn by human beings.
+
+## Now
+
+The Meuse is still flowing.
+
+The kettle's not there, the border's still there.
+
+## The Meuse
+
+The Meuse, from France to the Netherlands.
+
+It goes through the Arden mountains, into the plains. The river is not wide, but the water is running fast.
+
+## Austria
+
+Austria is part of the Netherlands, including today's Belgium.
+
+In the eighteenth century, the Austrian Emperor took control of the area. The Republic of the Netherlands is on the north side, with no clear borders.
+
+## Netherlands
+
+The Republic of the Netherlands is a commercial country.
+
+It depends on maritime transport, trade and finance. Border conflicts affect trade.
+
+## A kettle
+
+The Netherlands fired and hit the kettle.
+
+No one was hurt. The kettle became a symbol of war.
+
+## History
+
+Kettle War is a war without bloodshed.
+
+It shows that border conflicts do not have to kill people.
+
+## Memory
+
+The kettle's not here, the story's still there.
+
+## Memory
+
+The boundaries are drawn by man.
+
+The kettle war, with only one shot, left a treaty.
+
+History is sometimes light, light as a kettle, but it leaves a very heavy line.
+
+## And finally
+
+Kettle War, no dead.
+
+It left only one treaty and one broken kettle.
+
+The border is clear, the story is left.
+
+## Remember
+
+Kettle War is a war without bloodshed.
+
+It only fired one shot and hit a kettle. The history book remembers the kettle and forgets the boundary.
+
+A kettle, blocking a war. This is probably the cheapest diplomatic victory in history, and the most absurd border conflict. The story leaves no dead man, but a line between countries.
+
+History is sometimes light and light as a kettle; but it leaves a very heavy border, with two countries drawing a line.
+
+A kettle, for a border. History is sometimes so light.
+
+## Final
+
+A kettle, for a border.
+
+History is sometimes so light.
+
+## Last
+
+It doesn't matter who the kettle belongs to anymore.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the documented diplomatic and military course from the widely repeated kettle detail; the exact manner in which the kettle was hit comes from later accounts.

@@ -76,6 +76,40 @@ What are they? There is no settled answer.
 
 What is clear is this: they are not proven alien spacecraft, and they are not pure invention. They are a set of lights that have been repeatedly recorded, observed, and discussed, and still have not been fully explained.
 
+## Autoobservation stations
+
+The most important legacy of the Hesdalen project is an automated observatory.
+
+In 1998, the researchers installed cameras, spectrometers, radars, and meteorological equipment in the valley. They run throughout the year, automatically recording the light in the sky. When an anomaly occurs, the instruments take pictures, measure brightness, and record the weather.
+
+This station has been running for years, and it's accumulated a lot of data. Researchers have found that lights appear with low frequencies, changing shapes, and colored mainly white, yellow, red. They are still, sometimes moving, sometimes blinking.
+
+## Spectrum
+
+The spectrum is the key to determining the nature of the light.
+
+Different light sources have different spectrals: sodium lamps are yellow, mercury lamps are blue green, flame is continuous spectra, plasma has specific emission lines. Researchers compare Hesdalene's spectrum with known sources, finding some near combustion and some near discharge.
+
+But there's no spectroscopy that explains all the lights. Some lights are too dark, the spectrum is incomplete, some light is too short for the instrument to record. The more data, the more the problem is.
+
+## Geological
+
+The Hesdalene Valley has a unique geological feature.
+
+The valleys have pulverized, faulty, and sulfur-containing rocks. Groundwater flows in the cracks, which can produce gas and electricity. It is suggested that the light is associated with these geological activities: gas emerges from the cracks and is burned with oxygen; or rock friction produces electric charges.
+
+This explains a part of the light, not everything. Especially those high-altitude, fast-moved light, and the geological relationship between the ground.
+
+## Tourism
+
+Hesdalun became a "UFO Valley".
+
+There are observation points, museums, and camps. The lights are not unplugged, but the tourists come.
+
+An unsolvable phenomenon, eventually turned into a local industry. It's not uncommon. Unknown can attract people, as long as it's beautiful, far enough, not dangerous enough.
+
+Hesdalen's instrument is still in operation. Lights aren't as frequent as they used to be, but they're still reported every year. Researchers have changed for generations, and the problem is the same: what are those lights, exactly?
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S2 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The cause of the Hessdalen lights remains disputed; this article separates recorded observations and research projects from interpretive hypotheses.

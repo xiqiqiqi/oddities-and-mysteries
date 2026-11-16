@@ -66,6 +66,94 @@ The stone is weathering, the trees are growing, and the visitors keep coming. Co
 
 A temple built for gods and kings has become the symbol of a nation.
 
+## The moat
+
+Angkor Cave, in Siem Reap Province, Cambodia.
+
+It is surrounded by a moat, which is more than a hundred metres wide. Outside the moat is a forest, and inside it is a temple. The tower of the temple, like a flower of lotion, stands under the sky.
+
+## Who built it?
+
+Angkor Cave was built in the twelfth century and belongs to the Khmer Empire.
+
+King Suleieh, the second of his kind, presided over the construction. It was originally a Hindu temple, served as a dynasty for the dynasty, and then became a Buddhist temple.
+
+## The story on the rock
+
+On the wall of the back porch, there's a long sculptor.
+
+The statues speak of Hindu myths: blending the sea of milk, the battle of the gods, the incarnation of the adjoining wet slaves. There are also kings' armies, markets and daily life. They are not decorations, but a combination of words and images.
+
+## Watertown
+
+Angkor is not an isolated temple.
+
+It is a huge city, with roads, canals, reservoirs, and agricultural land. Water systems support a dense population and allow temples to be built.
+
+## “Discovery”
+
+In the nineteenth century, French explorers “rediscover” Angkor.
+
+They saw the temple surrounded by the forest, wrote a tour book, took a picture. Angkor went into Western vision.
+
+But Angkor was not “discovered”; the locals knew it, used it all the time; “discovery” was part of the colonial narrative.
+
+## Now
+
+Angkor Cave is the UNESCO World Heritage Site.
+
+It is repaired, reinforced, and parts of the area are restricted to tourists.
+
+A temple, a moat, a city. Angkor is not a miracle, he is a lot of people.
+
+## Water
+
+Angkor ' s water system includes canals, reservoirs and ponds.
+
+Water is used for irrigation, transportation and rituals. Water reservoirs store during the rainy season and water is released during the dry season.
+
+## Protection
+
+Angkor's stone, in the wind.
+
+Tree roots, rainwater, tourists and temperatures damage the sculpture.
+
+## Tourism
+
+Angkor is a tourist centre in Cambodia.
+
+Tourists come to see sunrises, sculptures, and towers.
+
+Angkor is a tourist centre in Cambodia.
+
+Tourists come to see sunrises, sculptures, and towers.
+
+A temple, a city, a forest.
+
+## Research
+
+The researchers scan Angkor's forest using laser radar (LiDR).
+
+They found hidden roads, canals and buildings. Angkor is much bigger than on the map.
+
+A temple, a city, a forest. Angkor's story is still being discovered.
+
+## Khmer
+
+Angkor Cave, from the Khmer Empire.
+
+The Khmer Empire ruled Cambodia and the surrounding areas in the ninth to fifteenth centuries. Its capital is Angkor.
+
+## Emboss
+
+Angkor's sculptures, mythology and history.
+
+They are images, and they are words.
+
+## Archives
+
+Angkor Cave was built in the 12th century, presided over by Suriej Trimor II. It was set up as a wet slave and later converted into a Buddhist temple. World Heritage in 1992, with repairs being shared by multinational teams.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the construction record, the reliefs, the urban water system, and the “discovery” narrative; estimates of Angkor's population and the causes of its decline vary.

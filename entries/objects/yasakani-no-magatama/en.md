@@ -70,6 +70,70 @@ On that day in 2019, the box was carried down a corridor and set down. The cerem
 
 *Original schematic: the three regalia, the 1185 battle of Dan-no-ura and the box in the palace. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
 
+## Chai-yu
+
+In the name of eight feet, "thanky" is a shape.
+
+It's like a comma, and it's like a moustache. A circle, a tip, a hole in the middle, can be worn with rope. Japan's hooks were first in the rope era, and they were made of Jade, Manau, glimmers and glass.
+
+Chao-yu is not unique to Japan. The Korean peninsula, north-east China, and Japan's islands have come up with similar curvatures. They have different sizes, materials, and holes, but they have the same basic shape. This shape may come from animal teeth, shells, or some sort of bent stone.
+
+## Three Gods
+
+The three instruments of the Japanese royal family are mirrors, swords and jade.
+
+The mirrors are in the palace of the Ida, the sword in the palace of the Heda, and the jade in the palace of the Emperor. The three things are not in the same place, and they are not necessarily reaching out at the same time. They each have their own shrines, rituals and legends.
+
+Eight feet is the only one left in the royal home. It's not publicly displayed, not by ordinary people. It's taken out in some rituals every year, but it's not open to the media.
+
+## The throne
+
+The three instruments were symbolic in the Japanese Emperor's inauguration ceremony.
+
+But “symbols” are not “legal documents.” Neither the constitution of rule nor the post-war royal model requires three instruments of God to be written into a place. They are more like ritual affirmations: the new Emperor has taken over not just power, but a set of objects that have been passed down from myths.
+
+The legitimacy of these objects comes from the words “since ancient” rather than from a single archaeological discovery. No one can prove that they are the three myths.
+
+## I can't see
+
+The most special thing about eight feet of jade is that it is barely seen.
+
+There are no photographs, no public measurements, no material analysis. Researchers can only speculate about it based on court records, ancient paintings, and replicas.
+
+This “invisible” is itself part of power. The less an object appears, the easier it is to be imagined. It does not need to prove that it is true, but that no one has to prove it.
+
+## Now
+
+Today, the three instruments of God remain part of the Japanese royal ceremony.
+
+They're not in the museum's glass cabinets, nor in the archaeological reports. They're in the shrines and royal houses, wrapped, given, told. They're unverifiable for researchers; they're indispensable for the royal family.
+
+The value of eight feet of chalking is not in the Jade stone itself, but in the position it occupies: an empty place that connects myth, the throne and the present one.
+
+## Materials
+
+A piece of material that is more illustrative than a shape.
+
+Japan’s pastry, which used a lot of slides, snakes, and later emeralds, Manau and Jade. Emeralds come from mines in Burma or Japan’s mainland, and Manau comes from volcanic rock. The source of the material means a network of trades or exchanges.
+
+Eight feet of material, not publicly analysed. We don't know if it's an emerald, a Manau, or another stone. It's not possible to judge its origin and age by court records alone.
+
+## Copy
+
+The replicas of the three Gods are many in Japan.
+
+Museums, shrines, and tourist shops have copies. Mirrors, swords, jade are made into key buttons, pieces and souvenirs. The shape of the replicas is based on ancient paintings, legends, and complete imagination.
+
+The more copies, the more mysterious the originals. A man can buy an "8-foot walk," but the real one is still in the royal house, not to be shown.
+
+## Ceremony
+
+When the Emperor takes his place, three instruments of God will appear in the ceremony.
+
+But the ceremony is closed to the media. The outside world can only know what's going on through the announcement of the palace hall and the description of the participants.
+
+This closure leaves the mythology in its place. If they are placed in the museum's glass cabinet, measured, photographed, studied, they may turn into “archives”. They are still “the myths”.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Shinto myth, imperial ceremony and the present state of the object; the jewel's actual form is not on public record. The illustration is a scene reconstruction, not a photograph of an artefact.

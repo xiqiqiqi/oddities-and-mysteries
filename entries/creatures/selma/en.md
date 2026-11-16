@@ -68,6 +68,48 @@ The municipal coat of arms shows a golden lindworm — a wingless dragon from No
 
 The lake is still there, and so is the serpent in the story.
 
+## The 18th century lake
+
+The two sides of the lake are forests and steep slopes. The water is cold and dark. The town lives on agriculture, logging and tourism. In the evening, the lake is like a black glass, the wind stops, and the trees on the shore reach into the water.
+
+From the middle of the eighteenth century, the locals began to report: there was a great snake in the lake. Witnesses said it was a long, dark snake with several tumbles on its back. It was sometimes swimming on the surface and sometimes only one head.
+
+## ♪ So loud and traveling ♪
+
+In the twentieth century, no results were achieved when someone tried to find Selma with a voice, underwater camera and bait.
+
+In the 2010s, the local search for the Selma attracted tourists and the media. The lake is deep, the water is cold, and the visibility is low. It is almost as difficult to prove the absence of a great snake in such a lake.
+
+## Eels
+
+The most common explanation is a large eels or a stranded fish.
+
+Eels can grow up to two metres, they're thin, they swim like snakes. They roll over the water, they may be seen as long snakes. Drifting wood, waves, seals can produce similar effects.
+
+There is also an explanation: the story itself. The snakes of Lake Serjod, like the Loch Ness monster and the Cadbroron, are part of the local legend. The more stories are told, the more details, the more credible the sighting.
+
+Today, Selma is the symbol of the town of Serjod. The town's tattoos are painted with a golden "Linder Bug" -- a Northern dragon in the legend. There's a viewing tower by the lake where tourists can go to see the lake.
+
+The story of Thelma is inconclusive. The lake is still there, the stripes are still there, the observation towers are still there. Every summer, people are standing on the shore, waiting for that wave. Waiting itself is part of this place.
+
+Selma has no specimens, no clear pictures. It's got a deep lake, a newspaper that's old enough, and a group of people who are willing to talk about it. It's a kind of existence for a small town.
+
+## Supplementary Notes
+
+The story of Selma has a little bit of detail: the depth of the lake. The water of more than 150 metres means that even if a large animal dies in it, it's hard to find the body. The lake doesn't hand over its things. It's both a myth and a myth.
+
+Most of Selma's witnesses did not leave photographs. They left behind time, place and a phrase, "I see." These testimonies could not be verified or completely discarded. They were hanging there, like a wave on the lake.
+
+This twilight has no name, no shape. It's just to remind people who see it: there's something in the lake that's not explained.
+
+Serma's witness, first in the 19th century. In 1880, Bjørn Björger said he cut a giant snake with a boat. The story became bigger and the lake became the scene. The Sjörma specimen, too, did not leave it. Only the witnesses told it.
+
+Serma's witness, which decreased after the 1880s. Water and water stations were built on the lake, water levels changed, and witnesses changed. The story didn't disappear, but moved from the newspaper to the tourist book.
+
+The lake is still there. The story is still there.
+
+Selma's brand, standing by the lake. Tourists stop and read the word. The word on the sign, it fades.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the early sightings, the 1880 event, the lack of evidence, and the possible explanations; there is no photograph or specimen of Selma, and the serpent on the coat of arms is a symbol, not a record of a sighting.

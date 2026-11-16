@@ -62,6 +62,90 @@ What makes the tomb important is not only the gold. It is that the tomb was not 
 
 The looters took the gold. The archaeologists kept the funeral.
 
+## Cemetery theft
+
+In 1987, a grave theft occurred in Sipán, Peru.
+
+The grave robbers dug up a tile pyramid and took away gold, pottery and jewellery. The police recovered some of the artifacts, and archaeologists then intervened.
+
+## The tile pyramid
+
+Sipan's grave belongs to Moche culture.
+
+The Mochi live on the northern coast of Peru, from 1st to 8th century A.D. They build tile pyramids, paint pottery, make metal. The West Pan is a noble cemetery in Mochi.
+
+## Open the grave
+
+Archaeologists found several graves in the pyramid.
+
+The largest one belongs to the Lord of Sipan. The tomb contains gold masks, gold earrings, necklaces, weapons and burialers. The master of the grave is placed in the centre, surrounded by companions.
+
+## Who is he?
+
+The Lord of Sipan is a man of about 40 years of age.
+
+His identity may be that of a high-ranking lord or priest of Mochi.
+
+## After
+
+Sipang's discovery changed Moocher's research.
+
+Prior to that, Moche culture was described as a “simple society without words”. The goldware and burials of Sipan proved that it had complex hierarchies, rituals and crafts.
+
+## Now
+
+The antiquities of Sipan, displayed in Peru's museums.
+
+The grave is restored and visitors can see the location of the grave owners and their burials.
+
+A stolen tomb finally turned into a turning point in archaeology.
+
+## Cemetery
+
+Sipan's grave, how many layers.
+
+The master of the tomb is in the centre, with the buryers around. Some of them are buried alive, and some of them are put in after death.
+
+## Goldware
+
+Sipan's goldware. It's very fine.
+
+Gold masks, gold earrings, gold necklaces, made of hammers, carvings and welding. Gold is not pure gold, it is alloys, different colours and hardness.
+
+## Museums
+
+The antiquities of Sipan, displayed in Peru's museums.
+
+Museums have rehabilitated graves, gold and pottery.
+
+## Cemetery
+
+The grave theft in Sipan has led Peru to strengthen the protection of cultural objects.
+
+Sequestria still exists, but it is more difficult than before.
+
+A stolen grave, finally protecting more graves.
+
+## Moocher
+
+Sipan's grave belongs to Moche culture.
+
+The Mochi live on the northern coast of Peru, from the first to the eighth century A.D. They build brick pyramids, paint pottery, make metal.
+
+## Archives
+
+King Sipan's tomb was found in 1987. It contains gold masks, gold ornaments and companions. It is one of the most important archaeological discoveries in America.
+
+The discovery of King Sipan’s tomb was made by local police capturing the grave robbers.
+
+There are men, women, and children in the grave. They may be servants, or they may be voluntary. There's a dog in the grave. It may be a hound or a guide.
+
+The gold in the grave weighs a few kilos.
+
+There's pottery in the grave.
+
+There's pottery and fabric in the grave.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, the tomb structure, the identity of the Lord, and the later excavations; estimates of his age and cause of death vary.

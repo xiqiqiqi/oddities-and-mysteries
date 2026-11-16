@@ -66,6 +66,96 @@ Large numbers of visitors come every year. The chapel limits the route, forbids 
 
 A basement built to hold the dead has become one of the strangest tourist sites in the Czech Republic.
 
+## Cedretz
+
+Cedarets, near Kutnahora, Czech Republic.
+
+There's a Cido monastery, built in the twelfth century. Next to the monastery, it's a cemetery.
+
+## Cemetery
+
+The cemetery became famous in the 14th century.
+
+In 1348, the disease spread to Bohemia. The cemetery was not enough, the body was buried in a mass grave. Later, the Huss war caused more deaths.
+
+The church around, it's a cemetery.
+
+There are tombstones, crosses and flowers. Some graves are old and some are new.
+
+## Bones
+
+The bones of the cemetery were moved into a chapel.
+
+There are tens of thousands of bones in the church. The bones are arranged into pyramids, chandeliers, crosses and family stripes.
+
+Tens of thousands of bones, piled together.
+
+They have no names, no tombstones. They have only one common room.
+
+## Lint
+
+In 1870, the carpenter, Franzichek Lint, was hired to clean bones.
+
+He bleached bones, sorted them, and decorated them. He did not want to scare people, but to remember the dead.
+
+## What are you looking at?
+
+The most famous bone chandelier in the hidehouse.
+
+The chandeliers are made of skulls, leg bones and pelviss, hanging in the middle of the church. There are bones crosses and bone pyramids on the wall.
+
+## Controversy
+
+The decorations of the scaffolding, it's controversial.
+
+Some say it's disrespect for the dead; others say it's medieval remembrance. The church is a place of worship, not a place of horror.
+
+## Now
+
+The Cyborg is a tourist destination.
+
+Tourists can visit, but they can't touch bones. Church revenues, for maintenance.
+
+## Sidor
+
+The Cedretz Monastery, belonging to the Sidor Church.
+
+There are fields, workshops and churches.
+
+## Black Death
+
+In the 14th century, the disease of black death spread to Europe.
+
+The cemetery was not enough and the bodies were folded. Later, the bones were moved into the church and piled up into pyramids.
+
+## Decoration
+
+Lint put bones in decorations.
+
+He chandeliers with skulls, crosses with leg bones, pelviss with pelviss. He does not want terror, but honours.
+
+## Tourism
+
+One of the most popular sites in the Czech Republic is the Cave.
+
+Tourists come to see bones, they come to churches. Tickets are paid for maintenance.
+
+Bones aren't the decoration of horror. They're all left over by a lot of people, and they're in the same room.
+
+The bones of the scaffolds come from different ages and families. They leave no names but bones. The bones are decorated and remind people that death is the end of the common.
+
+Bones are piled together, no names. They only remind the living: the last one is not too much.
+
+## Church
+
+The Cave Hall is a small church.
+
+It has arches, windows and altars. Bones on walls, ceilings and chandeliers.
+
+## Archives
+
+The Cedrets hides in Kutnahora, Czech Republic. 14 centuries of black death and 15th century war on the Huss, left a lot of bones. In 1870, the carving house decorated them.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the cemetery's history, the storage of bones, the 1870 arrangement, and the controversy; estimates of the number of skeletons range from 40,000 to 70,000, and the church's religious interpretation differs from the curiosity of visitors.

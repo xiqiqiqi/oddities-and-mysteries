@@ -78,6 +78,44 @@ There was no werewolf in Bedburg in 1589. There was a farmer tortured into a con
 
 *Original schematic: the timeline of the 1589 Bedburg trial, the elements of the werewolf legend and the medical explanations. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
 
+## Words
+
+The word “Werewolf”, from ancient English.
+
+"were" means people, "wolf" means wolves. Together, it means "wolves." The word doesn't say how it changed, or why it changed. It only describes the result: a man, a wolf.
+
+In Latin, there's an earlier word called versipellis, which means "the skin changer." In the Nordic legend, a man in a wolf's skin becomes a wolf at night, called ulfhednar. These words are older than "werewolf."
+
+## Trial
+
+In the sixteenth to seventeenth centuries, there were simultaneous trials of witches and werewolves in Europe.
+
+## Medical
+
+Later on, people tried to explain werewolfs medically.
+
+## Full moon
+
+Werewolf and full moon relationships, not as old as they thought.
+
+In medieval werewolf stories, full moons were not a requirement. Tieing deformed and full moons together, mainly in eighteenth and nineteenth centuries literature and later films.
+
+The werewolf legends say that the real protagonists are not wolves, but villages. It's about how a man is recast into monsters by neighbors, by courts and by fear. The Stonep case is the clearest of all.
+
+Today, the werewolf is no longer a threat in the village. It's a movie, a game, and a Halloween costume. But Stonep's trial record is still there, reminding people that monsters are sometimes made in court.
+
+## Supplementary Notes
+
+The story of the werewolf continues today, with only a change of stage. From the village court, it moves to movies, games and novels. The new were not judged, but explained: genes, curses, moons, love. The more explanations, the less the original fear, the more the moment that the "man" became a wolf, the more valid.
+
+In the 16th century, the French and Swiss courts recorded a large number of werewolves' trials. The defendants admitted to deformation under torture and gave up their associates. Historians believed that the trials were related to the religious conflicts and land disputes of the time. The werewolf image, which was later transformed by the film into full moon deformation.
+
+The wolf trial peaked in the 16th century. In the Besanson region of France, dozens of people have been charged for several years. Records show that trials often coincide with bad harvests and plagues.
+
+The trial transcript, which was later turned over by historians, became material for witch hunting, and a prop for the film.
+
+The werewolf movies, they've been there since the time of the silent film. The werewolf on the screen is easier than the legend. The werewolf in the movie is transformed. The werewolf in the legend is.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ancient legends, the early modern trials, Stumpp's confession and the medical explanations; Stumpp's confession was obtained under torture and cannot be treated as fact, and there is no biological evidence for werewolves. The illustration is a scene reconstruction, not a historical photograph.

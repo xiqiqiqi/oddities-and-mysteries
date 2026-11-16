@@ -62,6 +62,54 @@ The discovery of brine pools changed the way people imagined the seafloor. It is
 
 They occur in the Gulf of Mexico, the Red Sea, the Mediterranean, and elsewhere, in different sizes. Each is a closed chemical world, and what happens beneath the interface can only be seen with submersibles and sensors.
 
+## Lake of the sea floor
+
+The halogen basin is the “lake” of the seabed.
+
+They appear at the bottom of the sea floor at low depths, where there is oversalinized water. High salinity, density, halogen water does not mix with the seawater above, but is deposited at the bottom, forming a clear interface.
+
+From the submersible, the halogen pool is like a black lake with a white salt bank on the edge. The fish swim to the edges and escape because they're dead.
+
+## Salt
+
+The salinity of halogen is several times that of ordinary seawater.
+
+High salt makes water dense and it makes it difficult for organisms to regulate infiltration pressure. Most marine organisms enter halogenated water and the water in their bodies is sucked away, cells dehydrate and die soon.
+
+There are also some special microbes in the halogen basin that adapt to high salt and survive on chemical grounds. For them, halogen is not toxic, it's home.
+
+## Red Sea
+
+Atlantis II of the Red Sea is a famous halo pool.
+
+In the 1960s, researchers found high temperatures and high salt halogen. The temperature was 60 degrees, the salinity was extremely high, and the metal was contained. When the submersible went down, the instrumentation was corroded.
+
+The name of the abyss comes from the legendary Atlantis, not because there are cities there, but because it is like a sinking, extreme world.
+
+## Mediterranean
+
+There are also halogenated pools in the Mediterranean Sea.
+
+In the 2010s, researchers discovered several halogen lakes on the Mediterranean seabed, some hundreds of metres deep and large in size. They formed millions of years ago when the Mediterranean was dried up, the saline was deposited, the sea water was refilled and the salt dissolved.
+
+These halogen pools are time capsules that preserve chemical information about ancient seawater.
+
+## Extreme life
+
+Halogen basins are research sites for extreme life.
+
+The microbes here do not need sunlight, they survive on the chemical response of sulphur, iron, methane. They live very slowly, with very low metabolic rates, but can last thousands of years.
+
+If there's similar halo water in the ocean under Mars or Europa, there's life there. Blood falls and halogen pools, pushing the question of what life needs to go further.
+
+## Supplementary Notes
+
+The names of the halogen ponds come from a lake. They're not lakes, they're low-lying areas of the sea floor, they're chemical stratifications of salt and water. One name links the ocean to the land, and it links extreme environments to everyday experience. Naming is an understanding.
+
+## Location of the archives
+
+The halogen basin is a "sea floor geography" file. It puts a lake, salt, death and life in the same picture. One place looks like a lake, actually a chemical boundary beneath the seawater. Within the boundary, it is another life.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates confirmed physical and biological features from local studies of particular deeps; “lake” is a description of shape, not a freshwater lake.

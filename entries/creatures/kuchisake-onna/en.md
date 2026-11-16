@@ -50,6 +50,10 @@ Afterwards she entered film and games: Studio Ghibli's Pom Poko (1994), a mentio
 
 The image multiplies; the question never changes: "Am I pretty?" A question that demands an evaluation, a structure in which any evaluation wounds. Perhaps that is why she survives: she is not about the mouth, but about the moment of being asked to answer.
 
+## VII. Why the mask?
+
+Put her in the urban legend's house and see her: Bloody Mary in the mirror, Rajorona in the water, Africa, Madam Koi Koi in the dormitory corridor -- every legend attached to a routine object or a daily moment. The woman with the cracker was a mask and a "interviewed" moment. The mask was a routine medical object in 1979; the legend turned it into a "covering the truth and about to open" switch. The question was that the most common in society -- "I look good"? The answer was pushed to the extreme: the answer was no matter how hard the answer was. The story was not a scissors, but a condom that couldn't be answered safely. And it was made clearer: Bloody Mary asked you to read your name in front of the mirror, Lajorona asked you to come near the waterside, and the woman asked you to answer the "dailies" -- all three asked you to turn into a trigger, and the woman was the most daily -- the trigger.
+
 ---
 
 **Sources and licenses**: factual sources are in the ledger S1–S3 below. Text and original schematics are CC BY-SA 4.0. The picture-book image is a credited Wikimedia Commons scan (CC BY-SA 4.0), source in the ledger; its identification as Kuchisake-onna is disputed and noted here. Kuchisake-onna is an urban-legend / folklore figure, not a verified being; the two origin datings are presented in parallel.

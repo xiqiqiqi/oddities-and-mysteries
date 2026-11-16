@@ -72,6 +72,42 @@ The herders' accounts are still there. Researchers still record them, but a reco
 
 A lot can be hidden under sand. There can also be nothing at all.
 
+## Andrews
+
+In the 1920s, the United States explorer Roy Chapman Andrews visited Gobi.
+
+He heard the herders say that there was a toxic bug in the sand and that it would die. He wrote this down, but he did not find a specimen. Later in the books and television programmes, it became more specific: acid spray, electrical discharge, poison gas.
+
+These details were not brought back by Andrews. They were added by later narratives. A "toxic bug" became a "difficult monster" in the spread.
+
+## Salmon
+
+The Mongolian salivate lives in the sand of the Gobi.
+
+It's thick, it's close to the sand, it likes to bury it in the sand, it just shows a little bit. When it's threatened, it sighes and acts. It's not red, it doesn't spray acid, it doesn't discharge electricity.
+
+But its size, its way of hiding, and its sudden effects are somewhat similar to those of the legendary “sandworms.” A herder sees a twisting piece by the sand dunes, goes back to the word “red bugs” and, with “toxic” “powerful people”, the story grows new organs.
+
+## Gobi
+
+Gobi is not an easy place to live.
+
+The story of the dead worm is probably the best way to stay on the Gobi. It doesn't need to be caught, it just needs to let those who walk through the dunes think of something at some point. It's longer than a real bug.
+
+Today, travelers to Gobi will still hear the story of the dead worm. Tourists will laugh, the herders won't. A thing that is taken as a joke by the outside world is still a local warning of “don't go anywhere”.
+
+## Supplementary Notes
+
+The story of the dead worm is most easily misreaded as “Momor Mongolia has monsters.” It is more like an environmental fable: the Gobi is too big, the sand is too hidden, and people go too far away to disappear. It is easier to remember that this disappearance is described as a bug than being lost, dehydrated or storm.
+
+The legend of the dead worms has not disappeared because of scientific research. It's just from the "animals to be discovered" to the "genetic knowledge of the Gobi." The line between the two is more blurred than one can imagine.
+
+The legend of death worms in Mongolia was written by American explorers in the 1920s. The book says it can spray poison, discharge electricity. Then the TV shows bring it to the world. The specimens of death worms were never found. The expeditions looked for them and returned empty-handed.
+
+The legend of death worms is related to sandstorms, oxygen shortages, lost roads on the Gobi. Herders need an explanation, and stories grow. Explorers need material, and stories become more scary.
+
+The story is still on the Gobi. The herdsmen tell the tourists.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the herders' tradition, the expedition record, the media additions, and the biological explanation; there is currently no specimen, photograph, or biological sample proving that the animal exists.

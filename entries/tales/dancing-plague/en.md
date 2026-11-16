@@ -60,6 +60,118 @@ Each explanation has supporters. None fully reconstructs the scene in 1518.
 
 What it leaves is not just a horror story but a window: when a group shares the same fear, the same belief, and the same physical language, what can happen?
 
+## 1518
+
+Strasbourg, July 1518.
+
+A woman named Frau Troffea started dancing in the street. She jumped for days, and didn't stop.
+
+## From one person to a group
+
+In a few weeks, more people started dancing.
+
+Some say 30; others say 400. They can't stop, others fall and some die.
+
+## The city
+
+The city tried to stop it.
+
+They call a doctor, they call a priest, they lock up the dancers. Some were bled, some were prayed over.
+
+Strasbourg, 1518, is the city of the Holy Roman Empire.
+
+It has churches, markets, guilds and walls.
+
+## Chronicles
+
+The chronicles record this.
+
+The authors are citizens, doctors, and priests. They write about dates, numbers and symptoms.
+
+## Explanation
+
+There are many explanations: collective hysteria, ergot poisoning, religious fanaticism, stress.
+
+The most accepted is mass hysteria. Under pressure, people can move uncontrollable.
+
+## And then
+
+The dancers slowly stopped.
+
+No one knows why it started or why it ended.
+
+## Now
+
+Strasbourg is still there.
+
+The dance plague is a case in history books.
+
+Today's visitors can also see the canals and churches of that year.
+
+## Strasbourg
+
+Strasbourg, 1518, is the city of the Holy Roman Empire.
+
+The walls, canals and guild halls make up the daily life of cities, which have a small but dense population.
+
+## Psychiatry
+
+Mass hysteria is a psychological phenomenon.
+
+Under stress, physical symptoms appear: convulsions, fainting, dancing. The symptoms spread through the group.
+
+## Medical
+
+The medicine at the time did not understand the condition of the hysteria.
+
+They shed blood, pray, and drive out the devil. No one knows that dancing is psychological.
+
+The medicine at the time did not understand the condition of the hysteria.
+
+They shed blood, pray, and drive away the devils.
+
+## History
+
+The dance plague is a case in history books.
+
+It suggests that group behaviour can go beyond individual control.
+
+## Memory
+
+The story's still there.
+
+## Memory
+
+Dancing plague, it's a story about groups.
+
+One starts to jump, a group of people jump. The city doesn't know what to do.
+
+Today's mass hysteria still exists. It's just a change of scene.
+
+## And finally
+
+Dancing plague, no explanation.
+
+It only leaves one city with a bunch of dancers.
+
+The story is still in the history book.
+
+## Remember
+
+Dancing plague, it's a story about groups.
+
+One person starts to jump, a group of people jump. The city doesn't know what to do. Today's mass hysteria still exists. It's just the stage.
+
+One jump, one jump. The city doesn't know what to do. The story stays in the history book.
+
+No one knows why she started jumping, no one knows why they stopped. The city can only watch and then record.
+
+## Archives
+
+In July 1518, the women of Strasbourg started to dance. Her name was Frau troffea, and she jumped for a few days and couldn't stop.
+
+She's not the only one. Soon, dozens of people joined, dancing turned into an out-of-control ritual.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the chronicle accounts, the city's response, and modern explanations; both the death toll and the number of participants vary between sources.

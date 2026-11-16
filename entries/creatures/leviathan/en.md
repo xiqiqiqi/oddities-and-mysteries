@@ -68,6 +68,38 @@ That has not stopped it from surviving. Every age needs something enormous, unex
 
 *Original schematic: a timeline from the Ugaritic Lotan and Job 41 to Hobbes and modern palaeontology. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
 
+## Bimon
+
+Leviathan is not an exception.
+
+There is also a giant beast in the Book of Job, called Bimon. It eats grass, it is strong, it has bones like copper, and lives on the marshes and the river. God uses these two animals to explain the limits of man: you can describe them, but you can't hold them.
+
+Later the commentator paired Bimon with the land, Leviathan and the sea. One represented the dry wilderness, one represented the deep water. The two were not ordinary animals, but the guards on the edge of the world.
+
+## Hobbs country
+
+In 1651, Thomas Hobbs wrote a political philosophy book called Leviathan.
+
+It is not a sea monster, it is a State. Hobbs believes that in order to stop killing each other, man gives power to an absolute sovereign, who is like a giant monster of countless human beings.
+
+The cover of the book painted a giant whose body was made of hundreds of small men, wearing a crown and holding a sword and a staff. It stood above the mountains and cities. Since then, Leviathan has had a second meaning in political science: a country that is so strong that no one can resist.
+
+## Leviathan whales
+
+In palaeontology, there is a class of extinct sperm whales named "Livyatan melvillei".
+
+The fossil is found in Peru. Its teeth can be up to 36 centimetres, and it is one of the largest predatory whales known to be. It lives about 10 million years ago, and today's sperm whales are not the same animal.
+
+Leviathan did not leave bones, but left many names. The sea monster, the nation, the whale, and the political fables are all using it. It's like a big word, and anyone can put a little fear in it.
+
+The horror of Leviathan is not the size of it, but the fact that it cannot be measured. Job did not give it the size of it, but he gave it a character that could not be tamed. And every repetition that comes later, it adds something to this void.
+
+## Supplementary Notes
+
+Leviathan was not killed in Job. God did not let Job hunt it, but asked him, "Can you pull it up? There is no answer to that question. Leviathan exists to stop the answer there. It is not an unsolved mystery, it is a border.
+
+Leviathan's name was later used in ships, books, films and political debates. The more it was used, the less it was a specific sea monster. And, finally, it became an adjective: huge, uncontrollable, untold.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ancient texts, the Ugaritic myth, later interpretations and the palaeontological name; Leviathan is a mythological creature with no biological evidence, and "Livyatan" merely borrows the name. The illustration is a scene reconstruction, not a photograph of an artefact.

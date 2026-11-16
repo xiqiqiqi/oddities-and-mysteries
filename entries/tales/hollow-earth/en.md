@@ -68,6 +68,96 @@ Halley, Symmes and Teed were not frauds. They drew wrong conclusions from the ev
 
 *Original schematic: Halley's concentric shells, Symmes's polar openings, Teed's concave Earth and the seismic evidence. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
 
+## Harley
+
+Edmund Harley, a 17th-century British astronomer.
+
+He suggested that the Earth could be hollow, with another world in it.
+
+## Simms
+
+John Simms, a nineteenth-century American.
+
+He believed that the Earth was empty, the entrance was in the North Pole. He wanted to organize an expedition, but it didn't work.
+
+## Ted
+
+Cyrus Ted, a 19th-century religious leader.
+
+He founded a denomination of the empty earth, drew maps and wrote books.
+
+## Byrd
+
+Richard Byrd, Admiral General of the United States Navy.
+
+Some say he flew across the North Pole and saw the entrance to the "empty Earth". Byrd's diary, that's not what he said.
+
+## Science
+
+Earth is not empty.
+
+Seismic waves, gravity, magnetic fields all prove that the Earth is solid.
+
+Empty Earth, physical.
+
+If the Earth is hollow, the seismic waves change speed and gravity varies.
+
+Seismic waves, gravity, magnetic fields all prove that the Earth is solid.
+
+Empty Earth, physical.
+
+## Why is it still on the air?
+
+The story of the empty Earth is still spreading.
+
+Because it meets a wish: there is still an unknown place inside the Earth.
+
+## Earth
+
+The Earth is solid.
+
+Seismic waves, gravity, magnetic fields all prove that the Earth has a geonuclear, mantle and crust.
+
+## Conspiracy
+
+The story of empty Earth became conspiracy theory.
+
+It was said that there were entrances to the Arctic; it was said that the Government had concealed the truth.
+
+## Why are you still here?
+
+Because it meets a wish: there is still an unknown place inside the Earth.
+
+## Supplementary Notes
+
+Empty Earth is an ancient imagination.
+
+It wants to put an unknown world inside the Earth.
+
+Scientifically, it's impossible.
+
+## Final
+
+The Earth is solid.
+
+Hollow Earth, it's an imagination.
+
+Imagination is easier to spread than science.
+
+## Last
+
+The speed changes when seismic waves pass through the Earth. Scientists use these changes to draw the Earth's core and mantle. The Earth is not empty, but imagine it.
+
+## Archives
+
+In 1692, Edmund Harley suggested that the Earth might be empty. He wanted to use this to explain the anomaly of the compass. Later, the seismic wave rejected the idea.
+
+Harley wasn't the first person to come up with an empty Earth, but he wrote it into a scientific discussion.
+
+Harley's model was later used to explain the auroral light. Of course, it's not right.
+
+Today, there is no hollow Earth in the geophysics textbooks.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the historical hypotheses of Halley, Symmes and Teed, the Byrd legend and the scientific evidence; the hollow Earth has been ruled out by seismology, gravity and satellite observation. The illustration is a scene reconstruction, not a photograph of a site.

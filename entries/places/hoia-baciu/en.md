@@ -82,6 +82,54 @@ Some places do not need an answer. They need a storyteller and a flashlight.
 
 *Original schematic: the clearing, the bent trees and the 1953 and 1968 sightings. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
+## Cityside
+
+Hoyabacho Forest, near Kluj Napoca, Romania.
+
+It's an urban forest, small enough to walk through for hours. The forest is mountainous, valley and open.
+
+## Name
+
+The name “Hoyabacho” comes from a shepherd.
+
+Rumor has it he took the flock into the forest and never came out. The name is a mystery.
+
+## Tree
+
+Trees in the forest, some of them bend.
+
+The trunks are twisted, side-by-side. Some say it's the magnetic field; others say it's the nature of the tree species.
+
+## Empty land
+
+There's a circle of empty land in the forest.
+
+There's no trees or grass in the open. Some say it's where UFO landed.
+
+## Photo
+
+There's a lot of "spirit photos" in the forest.
+
+Some of the photos have light, some fog, or some people. Most of them can be explained by cameras, flashes, and prolonged exposure.
+
+## Missing
+
+Legends of missing people in the forest.
+
+Some say that the people who went in did not come out. There are no reliable records of the disappearances.
+
+## Business
+
+Hoya Bacho is a tourist destination.
+
+The guide takes people into the forest, tells ghost stories. The forest's famous, it comes from the Internet and television.
+
+## The woods
+
+Forests or forests.
+
+Trees grow, roads walk. Story stories are in trees, not trees.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the geography and tree forms, the local legends, the photograph controversy and the tourist trade; the bent trees and the clearing are real, while the saucer and disappearance stories have no verifiable evidence. The illustration is a scene reconstruction, not a photograph of the site.

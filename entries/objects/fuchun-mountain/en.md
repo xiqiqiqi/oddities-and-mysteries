@@ -64,6 +64,70 @@ Remaining Mountain in Hangzhou is not often displayed, and the Master Wuyong Scr
 
 A painting was cut by fire and then preserved by two different people. It was not restored to its original state, but it survived.
 
+## Wong Mang-hoon
+
+Hwang was in his 70s when he drew the Fuchun Hill Map.
+
+He was a humanist, a junior official, and then he lived in hiding. He studied late, started to paint seriously at the age of 50, and he was a master of the arts, a great man. He lived in the area of the Fu Chun Gang, drawing mountains, drawing water, painting fishing villages.
+
+The Fuchun Hill Map was not finished once. He drew it for years, and it was changed repeatedly. The area on the painting said that it was for the “no-gooder”, that is, his friend Jung-hoon.
+
+## Long Volume
+
+The long roll is not a painting, but a period of time that can be expanded.
+
+Look at the rolls, look at the tree that heads up, look at the river, look at the mountains, look at the boat. The line moves with the rolls, like a boat down the river.
+
+The length of the Fuchun Hill Map is suitable for this view. It does not seek a fixed focus, but allows the view to unfold in time. The mountains are not far away, the water is not in short supply, and the population is small.
+
+## Fire
+
+During the year of Qing Jianzheng, the collector Wu Hong Yu is very ill.
+
+He loved the painting, and before he died it was burned down and wanted to take it to another world. His nephew, Wu Jing-jin, took it out of the fire, but it was broken into two pieces.
+
+The first paragraph is shorter and later known as the " map of the remaining mountains " ; the latter part is longer and is known as the " unusable teacher ' s volume " . The two paragraphs are circulated separately and have not been combined for centuries.
+
+## Together
+
+In 2011, two paragraphs were displayed together at the Palace in Taipei.
+
+The map was borrowed from the Zhejiang Museum, and the unserviceable teacher's roll was in the courthouse in Taipei.
+
+Two drawings cannot really be connected, because there is a loss in the middle. But put them in the same booth, and the audience can see a continuous river: from the tree that started to the mountain at the end.
+
+## Now
+
+The Remaining Mountain Map is located at the Zhejiang Museum and the Unusable Teacher Book is located at the Taibei Palace.
+
+They're still separate collections. The exhibition is an exception, not a normal one. A painting that was burned down and divided by history, became the treasure of two museums.
+
+The painting's still there. The mountains have not changed, the water has not changed. Only the people who read the paintings have changed from generation to generation.
+
+## Pen ink
+
+Fuchun Mountain Map is ink on paper.
+
+Yellow Mansions are not coloured, mainly with the thick, dry and thinness of the ink. Rocks are contoured with light ink, dry pens with dry platinum, leaves with points. Ink is not bright, but it has many layers.
+
+This is the way it's called a "human painting." It doesn't want to be true, it wants to taste the ink itself. The people who look at it, not just at the mountains, but at the hands of the painter.
+
+## Area
+
+There are lots of problem areas behind the roll.
+
+Quarters are the senses, tests and praises that later people write. Together with the paintings, they are part of the work. Some are long and only a few lines.
+
+Later people can add, delete, and replace.
+
+## I'm fine
+
+The Fuchun Hill Map has many sketches.
+
+The Qing painter likes to read it, learns the ink of the yellow bullion. Some are similar, some are free. They are distributed in Chinese museums and private collections.
+
+A drawing cannot be a substitute for an original, but it is an indication of its impact. If no one is present, a painting may be a work of a human being; if someone comes back and forth, it becomes a tradition.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Huang Gongwang's work, Wu Hongyu's fire, the two collections, and the 2011 reunion; the original length, the dimensions of the two halves, and their locations are recorded in the sources, and the section lost in the fire cannot be recovered.

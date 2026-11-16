@@ -62,6 +62,34 @@ There is no clear photograph, no verified specimen, and no skeleton accepted by 
 
 The mountains are still there. So are the stories. What lies below the snow line has no answer yet.
 
+## Names and maps
+
+“Armas” is not a unified species name, but a collection of local names. The Mongolian language, as it is often written in the Russian literature, is called “almasty” and there are other names in the oral statements of Kazakhstan and Kyrgyzstan. The names are different, but they are often similar: straight, hairy, afraid of people, living in mountains.
+
+Tourists who travelled through Mongolia and Central Asia in the nineteenth century took notes of such statements. They brought back names, herdsmen’s stories and unidentifiable hairs, but not bones, teeth, or clear photographs.
+
+This is also the most difficult part of the Almas story: it's spread too widely. Thousands of kilometres of mountains from the Caucasus to the western part of Mongolia have been described, but every one of them is described with its animals, clothing, and terrain.
+
+## Hair and Footprints
+
+Soviet-era study teams collected hair, footprints and so-called bone fragments.
+
+The hair is the most common “material evidence.” It is easy to collect and to be mistaken. Bears, sheep, horses, and human hairs are characterized under microscopes, but after many years of storage, contamination, and transfer of hands, identification is not always reliable. Some samples are identified as coming from known animals, while others are too small to draw conclusions.
+
+Footprints are the same. Footprints on snow, mud and sand change shapes with temperature, humidity and wind. Footprints on a bear, folded on the back and the front, may look like a big foot; one person's footprints are stepped on by another person's footprints and may become wide and long.
+
+Without a full skull, without teeth, without a single bone that can extract enough DNA to take it. Without these, Almas can't be written into animal taxonomy.
+
+## Mountains and memories
+
+The story of Almas, and life in the mountains.
+
+The herdsmen were grazing far from the village, living in tents at night, hearing rocks rolling, wolves barking, wind blowing through the crevices. A man standing up could be a bear or a lost man. The next day, the image would be told to his neighbours; later, it would become "the thing in the mountains."
+
+The story is not evidence, but it is a map. It tells the child not to go far, telling the hunter not to go into the mountain alone at night. The name Almas is a warning, not an animal that has been captured.
+
+The story of Almas is hard to disappear because it does not ask you to believe in a specific animal. It simply asks you to admit that there are places in the mountains that are not yet gone. As long as there is a blank map, the name can remain there.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the oral descriptions, the Soviet expeditions, and the various explanations; it does not identify the Almas as a confirmed animal or archaic human.

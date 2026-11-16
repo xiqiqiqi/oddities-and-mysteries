@@ -66,6 +66,70 @@ For historians, it is a story about relics, power and piety. One piece of wood w
 
 *Original schematic: Helena's discovery, the distribution of the cross and the spread of fragments. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
 
+## Helena
+
+The true story of the cross, starting with Helena, Constantine's mother.
+
+Legend has it that she went to Jerusalem in or about 326, looking for a place where Jesus had suffered. She was able to dig the foundations of a Roman temple and find three crosses. To judge which one of them was a true cross, she met one patient, and the patient recovered the third.
+
+This story first appeared in the literature hundreds of years later. At the same time, the records were not so detailed. Helena did visit Jerusalem and did support the building of the local church, but the “Found the Three Crosses” was later described.
+
+## Distribution
+
+When the true cross was discovered, it was divided into lots and sent to churches everywhere.
+
+Jerusalem retains part, Constantinople part, and Rome part. Middle-century pilgrims bring small crosses back to Europe and put them in the cathedral's holy box. Each distribution produces new fragments.
+
+The more fragments there are, the more obvious the problem is: how can one cross divide so many pieces?
+
+## Calvin
+
+John Calvin, the 16th-century religious reformer, wrote a famous criticism.
+
+He said that if all the fragments claimed to be real crosses were collected, they would fill a boat. He meant not denying the suffering of Jesus but criticizing the worship of the Holy One: the fragments became merchandise and the faith became a trade.
+
+Calvin's criticism is still valid today. In the sacred market, the truth is hard to tell, the story is worth more than the wood.
+
+## Test
+
+Scientists have tried to use radioactive carbon to set a year.
+
+But sacred fragments are usually small, and sampling destroys cultural objects. And wood can be disposed of by later people, and surface coatings and preservation materials can influence the outcome. Carbon year gives the age of wood, and it does not prove which tree it comes from.
+
+Rome has a label called "ROMA" or "OPPOSE." Some say it was an early Church certification of sacred objects; others say it was later added. The label itself needs to be authenticated.
+
+## Now
+
+The fragments of the true cross are still scattered in churches and museums in Europe.
+
+Most of them are small, in silver boxes, crosses, or sacred boxes. A believer looks at wood; a researcher looks at materials, ages and circulation records.
+
+Can a wood fragment carry 2,000 years of faith? There is no scientific answer to that question. It's a faith, not an archaeology.
+
+## Holy Cemetery
+
+The Church of the Holy Sepulchre in Jerusalem, each one of them in the legend.
+
+Helena ordered the building of the church, which Constantine supported. The church was destroyed by Persians and rebuilt by the Crusades. Today's building is the result of a multi-generational build-up.
+
+The discovery of the true cross is tied to this church. Without the church, there is no story of finding the crucifix. Places, buildings and sacred objects, prove each other.
+
+## Pilgrimage
+
+Middle-century pilgrims bring back a small cross.
+
+They put it in a silver box, hanging it around their necks, or in a church box. Pilgrims are a journey, a consumption. Holy things are a souvenir of a journey, a proof of faith.
+
+The more pilgrims there are, the more fragments. The church needs a sacred object to attract people, and it needs a story to prove itself. It's a cycle.
+
+## Science
+
+Science can do very little.
+
+Carbon year can measure the age of wood, and it can't prove that it belongs to Jesus. DNA cannot be extracted from dead wood. History can track the flow, not the miracles.
+
+The question of the true cross is not a scientific one. It's faith, tradition, a 2,000-year story. Science can be involved, but it can't be decided.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the tradition of Helena's discovery, the distribution of fragments and Calvin's criticism; no fragment can be independently proved to come from the cross of Jesus. The illustration is a scene reconstruction, not a photograph of the object.

@@ -62,6 +62,110 @@ The tortoise story is still repeated in trivia books, histories of drama, and tr
 
 A man who wrote so much about revenge, oracles, and blood debts was finished off by a tortoise. The ending is too neat, as if someone else had written it for him.
 
+## Jella
+
+Escuros, a tragic writer of ancient Greece.
+
+He died in Gela, Sicily, 456 B.C., or 455 B.C.
+
+## Tortoise
+
+Legend has it that an eagle grabbed a turtle and tried to throw it on a rock.
+
+The eagle took Escus' bald head as a stone. Tortoise hit him on the head and he died.
+
+## Eagles and turtles
+
+This legend comes from ancient times.
+
+It says that Escuros died in a prophecy: he died in a “thing falling from the sky”.
+
+## What did he write?
+
+Escurus wrote "The Persians" and "The Seven-Penthals" and "The Prometheus" and "Oristia."
+
+He was one of the three tragic writers of ancient Greece.
+
+## Amazing
+
+Ancients like "surreal death" stories.
+
+The death of Escuroros became a classic: the great man who died in an absurd accident.
+
+## Now
+
+His play is still on.
+
+His death, still being told.
+
+## Tragedy
+
+Escuros, the founder of the ancient Greek tragedy.
+
+He increased the number of actors from one to two, making dialogue the core of the play.
+
+## A play
+
+The Persians wrote that the Greeks beat Persians.
+
+The Seven Wills of Pride wrote that brothers are in conflict with each other.
+
+"The Plomyus" writes about the clash between God and man.
+
+Orestria writes about the blood debt of the family.
+
+## Die
+
+His death is a legend.
+
+The eagle threw the turtle over his head because he was bald as a rock.
+
+His death was an accident.
+
+Eagles, turtles, bald heads, three things together, that's a story.
+
+## Legacy
+
+His play, which affects the whole Western drama.
+
+His death was a classic of the ancient "surpass death" story.
+
+His play, which affected Shakespeare, Goethe and modern theatre.
+
+His death affected the story of the “surprising death”.
+
+## Supplementary Notes
+
+Escuros' play was the starting point for ancient Greek drama.
+
+He writes about God, man, destiny, and blood. His role is not good or bad, but one whose fate has driven away.
+
+## Remember that
+
+Escuros' play was the starting point for ancient Greek drama.
+
+His death was an accident.
+
+## Last
+
+Escuros' play was the starting point for ancient Greek drama.
+
+His death was an accident. Eagles, turtles, bald heads, three things together, it was a story.
+
+There are only seven full plays that Escuros has passed down. He wrote more than 70 pieces, mostly pieces. His death was more absurd and more mythic than his play.
+
+He died in the fifth century B.C., but his play continued until today. A man who was hit by a turtle left the beginning of a Western play.
+
+## Archives
+
+There are only seven completes of Esculos. He writes more than 70 pieces, mostly pieces. His death is more myth than his play.
+
+His play, he finishes a myth with three songs. Only Orestria keeps it completely.
+
+Escurus was in the marathon. His tombstone was written about him, but he was brave and not about the play. His play, however, continued to this day.
+
+His gravestone, which he allegedly wrote, was nothing but marathon, not drama. The name of a warrior was given to the poet.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Aeschylus's life, the ancient tortoise story, the behaviour of birds of prey, and the tradition of strange deaths; the tortoise story appears in ancient writers but lacks contemporary evidence, and the real cause of death is unknown.

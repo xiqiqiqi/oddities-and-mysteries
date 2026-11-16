@@ -56,6 +56,88 @@ Part of the site is open to visitors, including the seaside boathouses. In the 1
 
 Most of the Villa of the Papyri is still underground. It is like a sealed library: the books are on the shelves, the words are in the books, and no one has yet been able to read them all.
 
+## Spray
+
+In 79 A.D., the Vesuvius volcano erupted.
+
+Pompeii is buried in volcanic ash, and Hekulanim in volcanic mud. The mud flows are high and dense, and the city is sealed in it. Wood structures, food, and paper sarcophagus, are preserved by carbonization.
+
+## The city in the mud
+
+Herculanium is smaller than Pompeii, but better preserved.
+
+The streets, houses, shops and villas are in the mud. Some houses have two floors, some gardens and bathrooms. The mud drains the air and slows down decay.
+
+## The Pavilion of Salvatore
+
+In the eighteenth century, archaeologists discovered a villa in Hekulanim.
+
+The villa has hundreds of rolls of paper-sagra scrolls that are carbonized. They belong to a wealthy family, mainly in Greek philosophy.
+
+## A book of carbonization
+
+The scrolls are carbonized and very fragile.
+
+Opens a volume, which may be crushed to dust. Early scholars tried to cut and strip, but lost a lot. Later, researchers tried to read the text using X-rays, infrared and computer technology.
+
+## Try to read it
+
+In 2015, the researchers read some of the letters using an X-ray image.
+
+In 2023, an international team tried to read more scrolls using artificial intelligence and particle accelerators. Progress was slow, but every word read was new.
+
+## Now
+
+Hekulanim is an archaeological park.
+
+Visitors can see streets, houses and villas.
+
+A city that was covered in mud and was still being read 2,000 years later.
+
+## Volcanic
+
+The eruption of the Vesuvius volcano lasted for days.
+
+On the first day, ash went to Rome. The next day, Pompeii was buried. Hekulanim was buried by volcanic mud, and the mud was hot and fast.
+
+Vesuvius is an active volcano.
+
+It's the Bay of Naples, near Pompey, Herculenium and Naples. The 79 A.D. was the most famous.
+
+## Protection
+
+Herculanium's site is smaller than Pompeii, but more complete.
+
+The mud current protects wood, food and paper sargrass. The open area of the site is limited and parts of the site are still being excavated.
+
+## Numbers
+
+The researchers record sites with laser scanning, photogrammetry and 3D modelling.
+
+Digital models can be used for research, demonstration and protection.
+
+The researchers read the scrolls with X-rays, infrared and artificial intelligence.
+
+Each letter is counted for a long time. Progress is slow, but every dot is new.
+
+## Visitors
+
+Hekulanim's tourist, less than Pompey.
+
+This could be good. Few people, little pressure on sites. But little money to protect.
+
+A city covered by mud lay there in peace.
+
+## Paper sarcophagus
+
+The paper sargrass is an ancient Roman writing material.
+
+It was made of reeds from the Nile, and it was crushed into thin pieces and rolled into scrolls. Hekranium's scrolls were carbinated by volcanic mud and turned into black pieces.
+
+## Tourism
+
+The streets of Hekulanim are narrower than Pompey. Houses are better preserved, with beams, furniture and food in place. In the 18th century, the kings of Europe came to dig treasures and cut the murals and take them away.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the burial process, the villa's ownership, the number of scrolls, and the reading technology; estimates of the owner and the number of scrolls vary, and the Vesuvius Challenge is still in progress.

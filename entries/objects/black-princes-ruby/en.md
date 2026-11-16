@@ -62,6 +62,74 @@ The display light falls on the front. The red stone looks dark, with a rim of go
 
 It is not a ruby. But it has seen a battle in 1367, another in 1415, a civil war, and a coronation. The name is wrong; the history is real.
 
+## Black Prince
+
+The name of the Black Prince's ruby is from the eldest son of Edward III, Prince Edward of Wales.
+
+He served as a neutral soldier in the British and French centuries of war and was known as the Black Armor, so he became known as the Black Prince. The stone was later owned by him and placed on his helmet or hat.
+
+In 1415, Henry V was wearing his helmet in the battle, and the stone protected him. The story gave the gem the reputation of "guard."
+
+## Crown
+
+Today, this stone is on the front of the crown of the British Empire.
+
+It's a big ruby with diamonds around it. The crown is crowned, it appears in rituals. The weight, the cutting and the color of the gem make it the centre of the crown's vision.
+
+But it's not a ruby. In modern gemology, it's a sharp crystal.
+
+The imperial crown is crowned.
+
+It has diamonds, pearls, sapphires and this red sharp crystal. The crown is heavy and wears it only in rituals. When the monarch is crowned, the crown is placed on his head, symbolizing power.
+
+The position of the gem, on the crown, is very visible. It contrasts with the red and the diamonds around it. The first time a visitor sees it is it.
+
+## A sharp crystal
+
+The ruby and the sharp crystals are chemically different.
+
+The rubies are mamagnesium oxides, the main ingredient of which is aluminium oxide, and the sharp crystals are magnesium oxides. The colours can be similar, different degrees of hardness, and different refraction rates. In the absence of modern instruments, the red sharp crystals are often used as rubies.
+
+The Black Prince rubies come from Central Asia and may pass through the hands of gem dealers like Tawenier. It's dark, not transparent, but very big. For the royal family, size and story are more important than mineral classification.
+
+The sharpstones are in ancient times, often used as rubies.
+
+It's close to rubies in color, hardness, and light. Without instruments, it's hard to distinguish. Minerals did not separate them until the nineteenth century.
+
+The name "Black Prince ruby" is a historical misunderstanding. It is not a ruby, but it is still a precious crystallized stone. It is wrong. It is worth nothing.
+
+## Drilling
+
+There's a little hole in the gem.
+
+The legends say it was drilled, wired or fixed. The cave reduces the value of the gem and leaves historical traces. The later mosaics cover it, but it can be seen carefully.
+
+The cutter of the gem is not modern. It's been re-painted several times, shapes changed, weight changed. Today's rock is not what it was.
+
+## Now
+
+The crown of the Reich is on the Tower of London.
+
+Visitors look at it through the glass and see red, gold, and diamond light. The sign will say "Black Prince rubies" and it will also be marked as a sharp crystal.
+
+A rock that was mistakenly identified for centuries and became part of the crown. It was wrong. It was right.
+
+## Source
+
+This sharp crystal came from Central Asia.
+
+In the fourteenth century, gems entered Europe through the Silk Road or the Indian Ocean trade. It could belong to King Moore of Granada and was later taken by King Castilla.
+
+"The Black Prince" Edward got it in the Spanish battle. He took it back to England and put it on his helmet. And then it became part of the British crown.
+
+## Value
+
+The value of the gems is not just material.
+
+It's in history: the Black Prince, Akinkul, Henry V, the Reich's crown. Every piece of history adds a story to the gem. The story cannot be cut, it cannot be called, but it makes the stone more expensive.
+
+A sharp crystal stone, if placed in a jewelry store, could be a red stone. On the crown, it was the symbol of the empire.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the stone's physical properties, its documented owners, and the legends attached to it; the claim that Henry V wore it at Agincourt is traditional rather than firmly documented.

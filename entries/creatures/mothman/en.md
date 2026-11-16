@@ -62,6 +62,50 @@ Point Pleasant has a Mothman statue, a museum, and an autumn festival.
 
 It is no longer just a sighting from 1966. It is a local symbol: a small city remembered for a bridge disaster, and a red-eyed shadow flying over the treetops at night.
 
+## The winter of 1966
+
+November 1966, Cape Pleasant.
+
+Two young couples drove past the abandoned TNT district. They later said to the police, "See a giant, human-like, bird-like thing, standing on the side of the road." It had wings, red eyes, flying without sound.
+
+Over the next few months, there were more reports of sightings. Some said it was chasing cars, some said it was standing on the roof, some said it had no head and had eyes on its chest.
+
+These descriptions are not consistent. But red eyes and wings appear again and again, becoming a fixed feature of the moths.
+
+## Silver Bridge
+
+Cars and pedestrians on the bridge fell into the Ohio River, where 46 people died. The investigation of the accident pointed to a cracking eye pole and a long-term accumulated fatigue problem.
+
+## Kiel's book
+
+In 1975, the writer John Kiel published The Elephant.
+
+## Birds and panic
+
+The most common interpretation is misperception.
+
+No pictures, no feathers, no corpses. The story gets more complete, and the details become more difficult to check.
+
+The moth man is not just a monster today. It's the introduction to Cape Pleasant: we had a bridge crash here, we had a story of red eyes. It's hard to separate two things when they're put together.
+
+Cape Pleasant holds the Galore Day every year. The street sells T-shirts, key buttons, and red-eyed cookies. Silverbridge's wreckage is long gone, but the name of the bridge is still there. Monsters and catastrophes, together, are the memories of the town.
+
+## Supplementary Notes
+
+The image of the moth has been rewritten many times by movies and networks. Some have made it foreshadow disaster, others have made it a disaster, and others have turned it into a comedy character. The red eyes of Cape Pleasant have become more blurred. The story has become more popular, and it has a faraway origin.
+
+The story of the moths ultimately falls on a simple question: what kind of memory do people need after a disaster in a place? The victims of the Silver Bridge need to be remembered. The moths provide an image that will not fade.
+
+In November 1966, the first pair of witnesses saw a red-eyed human form near Cape Pleasant. They drove after them, and the monsters flew with their wings. After the Silver Bridge accident, there were fewer reports of sightings. In the 1970s, the Man of the Sky became a popular culture. The Man of the Elms was held every year at Cape Pleasant.
+
+Eyewitnesses of the Man of the Moth, concentrated in November 1966 to December 1967. Some say it appeared to warn of the Silver Bridge accident. That's the story. There's no evidence. After the Silver Bridge incident, the sights were reduced, but the story was left behind.
+
+The red eyes of the moths became a sign. The T-shirts, posters and movies were all that image. It was no longer just a witness, it was a brand.
+
+The model of the moth is displayed in the museum. The tourists take a picture of it. The red-eyed light, a flash. The museum tickets, they sell well.
+
+The museum lights, they're still on. The tourists are gone, and it's still there.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the sighting record, the Silver Bridge investigation, and the later association with disaster; it does not identify Mothman as the cause of the bridge collapse.

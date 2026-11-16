@@ -60,6 +60,86 @@ Their main threat is not visitors but water and time. Rain seeps into the rock, 
 
 The stone churches are still in use, and they are still ageing. They were not built up but “subtracted” from the rock; now weathering and erosion are doing the opposite.
 
+## New Jerusalem
+
+LaLibera, in northern Ethiopia.
+
+It was a rocky church, built from the twelfth to the thirteenth centuries. The legend is that King Laribera wanted to build a “new Jerusalem” so that pilgrims would not go to Jerusalem.
+
+## Crawl it out of the rocks
+
+The church was not made of stones, but was carved out of rocks.
+
+The craftsmen draw lines on the mountain bodies and dig down and dig out the shape, roof, door and window of the church. The church and the ground are connected, like a building that grows out of the soil.
+
+## Eleven churches
+
+Lalibella has 11 churches.
+
+Each church has different shapes and sizes. Some are like crosses, some like forts. There are passages, tunnels and courtyards between them.
+
+## How?
+
+Construction method, not fully documented.
+
+The researchers believe that the craftsmen first use their tools to cut the rough and then make it up. There are no cranes, no large machines, only manpower, ropes and patience.
+
+## Pilgrimage
+
+Lalibella is the sacred place of the Orthodox Church in Ethiopia.
+
+Every year, thousands of pilgrims come here to pray, baptize and celebrate.
+
+The church is alive.
+
+There are prayers, baptisms and festivals every day.
+
+## Now
+
+LaLibera is the UNESCO World Heritage Site.
+
+Religious activities continue.
+
+A church that was carved out of the rocks, with human hands and faith.
+
+## Rock
+
+The church of LaLibera was carved out of volcanic rock.
+
+The rock is soft and easy to carve. But the rock also has cracks, which seepage.
+
+## Protection
+
+The church was damaged by rain, tourists and earthquakes.
+
+Protectors strengthen roofs, clean drains, and restrict visitors.
+
+## Tourism
+
+LaLibera is a tourist destination in Ethiopia.
+
+Tourists can see churches, rituals, tunnels.
+
+A rock church, with hands, with beliefs.
+
+## Zagvi
+
+LaLibella, belonging to the Zagvi dynasty.
+
+The Zagvi dynasty ruled Ethiopia in the 12th to 13th centuries. King Lalibella, a member of the dynasty.
+
+## Archives
+
+La Libeira has 11 rock churches, all of which are carved down from the rock walls. The most famous is St. George's Church, which is shaped like a cross. It was included in the World Heritage site in 1978. The church is still in use, and pilgrims come from all over the place.
+
+The church was divided into two groups from the north to the south, connected by a ditch. The legend was that King Lalibella wanted to build a “new Jerusalem”.
+
+These churches were not built by a dynasty and took decades before and after.
+
+The church of La Libella, made of whole rocks, was not combed.
+
+The windows of the church are carved into a cross. The doors of the church are low. Pilgrims have to bend to get in.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architecture, historical background, traditional accounts, and modern conservation; estimates of the construction period vary.

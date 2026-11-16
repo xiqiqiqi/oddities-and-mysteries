@@ -66,6 +66,122 @@ It shows that a story that looks like news, with the right format and enough det
 
 Poe did not become famous for it. He is remembered for “The Raven” and his detective stories. The balloon was just one of his many hoaxes.
 
+## 1844
+
+April 1844, New York.
+
+The New York Sun published a story about a man travelling across the Atlantic Ocean in balloons.
+
+## The story
+
+It was reported that balloons took off from the United Kingdom and took three days to arrive in the United States.
+
+It describes the construction of balloons, the altitude of the flight, the direction of the wind and the passengers. The details are great, and they look real.
+
+The story travels further than balloons.
+
+## Why would anyone believe that?
+
+At that time, balloon flights were a hot topic.
+
+It is believed that technology will soon allow people to fly across the Atlantic. The coverage is in line with that expectation.
+
+## A storyteller
+
+The author of the story is Edgar Ellen Poe.
+
+He's a writer, he likes to lie, he likes to experiment. He thinks of this story as a "news experiment."
+
+## A real crossing
+
+Real balloons across the Atlantic Ocean, until 1978.
+
+Two British, flying from the United States to France with the Twin Eagle Five balloon.
+
+## Now
+
+This story is a classic story in the history of news.
+
+It shows that the reader believes not in facts, but in “reasonable stories”.
+
+## New York
+
+New York, 1844, is the city of newspapers.
+
+The Sun Herald, The Tribune, is competitive. The newspapers need stories and readers need surprises.
+
+## Sun
+
+The Sun is a pence newspaper.
+
+It's low price, it's widely distributed, it's like a story. The balloons across the Atlantic, it's just the way it tastes.
+
+## The slope
+
+Edgar Ellen Poe, then editor of The Sun.
+
+He writes novels, poems and reviews. He likes to lie and to be exposed.
+
+## Balloons
+
+In 1844, balloon flights were hot.
+
+It is believed that technology will soon allow people to fly across the Atlantic. The coverage is in line with that expectation.
+
+## Uncover it
+
+After the reports were published, other newspapers began to question them.
+
+The Sun later admitted that the story was false. Poe said he was just doing experiments.
+
+After the reports were published, other newspapers began to question them.
+
+The Sun later admitted that the story was false.
+
+## Newspapers
+
+In 1844, in New York, newspapers were competitive.
+
+The Sun is a pence newspaper and likes to hear things.
+
+## Memory
+
+Balloon con, it's a story about news.
+
+Poe knew the readers would believe because the story was in line with expectations.
+
+Today's news, too. People believe that what they want is not the truth, but what they want.
+
+## And finally
+
+Balloon scam, not over the Atlantic.
+
+It only flew through the front page of the newspaper.
+
+The story travels further than balloons.
+
+## Remember
+
+Balloon con, it's a story about news.
+
+Poe knows that readers will believe, because the story meets expectations. The news today, too. People believe that what they want is not the truth, but what they want to do.
+
+The story goes over the Atlantic, and the balloons don't. The news sometimes goes faster than technology.
+
+## Archives
+
+In 1844, the New York newspaper reported three people crossing the Atlantic Ocean in balloons. The story was a series of days, and it was finally revealed as a trick by the slope.
+
+The hill wrote this story under a false name. He didn't think that the readers would be serious.
+
+The newspaper later apologized, but sales have increased.
+
+This story was later taken into the book of the slopes.
+
+The slope didn't admit it until after death.
+
+When the scam was uncovered, the slopes were not explained.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1844 report, Poe's involvement, the public reaction, and the real crossing records; the Sun admitted the report was false two days later.

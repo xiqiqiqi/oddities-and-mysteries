@@ -68,6 +68,46 @@ The south slope of Phoenix Mountain is still there. The white thing did not come
 
 *Original schematic: the June–July 1994 timeline, the south-slope sighting and the investigation. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
+## China '1994 UFO Hot
+
+The Phoenix incident is not isolated.
+
+In the same period, air power and mysticism were popular. A forest worker said he saw white things on the hill, and he could easily be put into this national narrative.
+
+Mount Phoenix is located at the Red Flag Forest of the 5th Ping Town Forestry Department in Heilongjiang Province, and is part of the Zhang Guangtao Ridge of the Long White Mountains. The mountains are home to primitive forests, swamps, and logging roads.
+
+## Memory and hypnosis
+
+In 2005, psychologists were asked to analyse Mon-square narratives of the country in the light of " Approaching Science " .
+
+The psychologist explained that he might have experienced a strong psychological event and then, in repeats, questions from others and media attention, filled his memory with imagination. This is not a conscious lie, but a normal way of working memory.
+
+People are prone to live hallucinations when they are high-tension, sleepless or untimely. After that, if people around them keep asking for details, these hallucinations are organized into a coherent story. The more stories they tell, the more they believe that they have been there.
+
+## Physical evidence
+
+The team measured radiation in the Monzae country and did not detect any abnormalities.
+
+No white objects were found on the hillside, no wreckage, no photographs, no samples. Mon-gong said, "Flexy stuff from the skin," and it was not preserved.
+
+The only ones left were the red marks and scars on the body, and his own account. Red marks could be interpreted as skin disease, scratches or burns; scars could be interpreted as old wounds. They could not prove contact with an alien, nor could they be completely negative.
+
+## The mountains and the stories
+
+The south slope of Phoenix is still there.
+
+The white thing didn't come back, and the forest life didn't change. Mon Shigeo continued to live nearby, occasionally interviewed. The story was written in books, programmes and online articles, with more and more versions.
+
+Can a man make up a story like this? The investigator argued that year. But what is more interesting is: why does a person need a story like this? In a remote forest field, an ordinary worker suddenly becomes the centre of national attention. The story gives him a place.
+
+## Supplementary Notes
+
+After the Phoenix incident, there were a lot of “witnesses.” Some said they had seen white light, others said there were other objects in the mountain. Most of these statements were not documented or investigated. When a story was established, it attracted more stories, which were common to legends.
+
+## Location of the archives
+
+Phoenix is a typical of the “personal testimony” file. It has no physical evidence, no photographs, only the memory of the storyteller and the records of a group of investigators. The file is not responsible for judging whether he is lying, but for separating self-narration, peer observation, findings and psychological analysis.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Meng's account, the witnesses' observations, the investigation and the psychological explanations; no physical evidence confirms an alien contact. The illustration is a scene reconstruction, not a photograph of the site.

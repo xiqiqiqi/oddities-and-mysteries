@@ -60,6 +60,52 @@ The Dancing Forest is one of the best-known sites on the Curonian Spit. Visitors
 
 The trees keep growing. The bends will not disappear; they will only thicken with each ring. Which tree was shaped by wind and which by insects will probably never be settled.
 
+## The woods on the sandy mouth
+
+The “Dancing Forest” is in the Kurs saloon of the Russian state of Kaliningrad.
+
+It's a narrow sand, on the Baltic Sea, on the one hand, and on the other, Lake Kurs. There are pine trees, dunes and wetlands on the sand. Danced forests are in a pine forest, with its trunk bent, twisted, or with its tops on the ground, or in circles.
+
+From the air, it's like a grass that is torn by the wind. Each tree has its own shape.
+
+## Why are you bending?
+
+The most common explanation is the wind.
+
+The wind of the Kurs saloons is big, the sea winds are salty, they go through the pine trees. The trees grow in the wind, the tops are blown off, the trunks bend in the other direction to keep the balance. The trees grow in time, and they become curves.
+
+The other explanation is snow. In winter, snow falls on the trees and bends them; spring snow melts, the trees don't recover and continue to bend.
+
+Others say it's sand. The dunes move, bury a part of the trunk, and the trees grow up and next to the light.
+
+## Worms
+
+Some also attribute the bend to the bugs.
+
+Pine trees are bitten by worms, they die from the top buds, side branches grow, and the trunks are split and bended. But the curved direction of the dance forest is more consistent than random pests.
+
+Researchers prefer the wind and snow, because the bending pattern coincides with the main wind direction. Insect pests explain individual trees and not the whole forest.
+
+## Afforestation
+
+Dancing forest is not the original forest.
+
+The pine trees were planted by hand in the middle of the twentieth century to fix dunes and protect the coast. The tree breeders stung the seedlings, and it was not expected that the wind, snow and sand would shape them into another shape.
+
+A forest that grows into a place that looks like a natural wonder. It's a reminder in itself: the boundaries of nature and labour are more blurred than we thought.
+
+## Supplementary Notes
+
+The trees of the dance forest have not been unified. Some have been like arches, some like spirals, some with the ground. This diversity suggests that the wind, snow, sand and genes are all working. There is no single reason or a single pattern. Nature rarely gives a neat answer.
+
+## Location of the archives
+
+Dance forest is a natural wonder-type archive. It doesn't need monsters or aliens. An artificially planted pine forest, created by the wind, snow and sand, is enough to stop. Nature's mystery, sometimes not supernatural.
+
+## Memory
+
+The dance forest is now a tourist destination. Tourists can't walk down a wooden track and can't touch trees. Bendled trunks are surrounded, like an exhibition. Natural wonders, when protected, become museums; but if not protected, they can be trampled. This is a difficult choice.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article presents wind, insects, moving sand, and human planting side by side, without treating any one as the only cause.

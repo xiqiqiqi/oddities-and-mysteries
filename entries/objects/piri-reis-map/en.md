@@ -62,6 +62,74 @@ Some people still say the southern landmass is Antarctica. It is more likely Sou
 
 *Original schematic: the area covered by the surviving fragment, Hapgood's Antarctica hypothesis and the mainstream rebuttal. Not a photograph of the artefact. Oddity Archive, CC BY-SA 4.0.*
 
+## Maps
+
+The map of Piri Resi, is a 1513 Ottoman map.
+
+It's painted on antelope skin with a size of about 90 x 63 centimetres. It's painted on the Atlantic Ocean, Europe, Africa, America and parts of Asia. It has longitudes, coastlines, islands and decorations.
+
+## Piri Reeth
+
+Piri Reis is the Admiral of the Ottoman Empire.
+
+He took part in the naval war and wrote a book on navigation, in which he said that the map had been drawn from a number of sources, including Columbus, the Arab map and the Greek map.
+
+## 1929
+
+In 1929, the map was found at the Topcapa Palace.
+
+It was sent to Germany for expert validation. The expert confirmed it to be the original in 1513. The American coast on the map was more accurate than the European map at the time, which was interesting.
+
+## Antarctic
+
+Some say that the coast of Antarctica is painted on the map.
+
+This is from Charles Harper. He believes that the southern land on the map is Antarctica, painted in the absence of ice. This hypothesis was later used to support “old civilization” or “alien maps”.
+
+## Rebuttal
+
+“Antarctic” on the map is more likely to be the southern part of South America.
+
+Maps are projected, coastlines and shapes, and they are closer to Patagonia, Tierra del Fuego, in South America. The sixteenth century maps often draw large numbers of unknown land, linking coastlines.
+
+## What is it?
+
+The map of Piri Resi, a map of the world in the sixteenth century.
+
+It used the best sources, mistakes and imaginations of the time. It wasn't painted by aliens, nor was it the legacy of ancient civilization. It was a navigational tool, and it was an image of the times.
+
+## Projection
+
+The map was projected in various ways.
+
+The shape of the coastline and the distance between the latitudes are not fully uniform. This means that Piri Resi is putting together maps from different sources without a single projection.
+
+## Source
+
+The western coast of the map, probably from Columbus.
+
+Piri Reis refers in his book to the map of Columbus. He does not state all the sources, nor who drew each section of the coast.
+
+## Legacy
+
+The map is now at the Topcapa Palace Museum.
+
+It doesn't show much because the parchment is sensitive to light. The digital version can be viewed online.
+
+A map that links the Atlantic, the Americas and the Ottoman Empire. It's a product of the seafaring era, not an alien heritage.
+
+## Summing up
+
+The map of Piri Reis is not an “alien map”.
+
+It was a 16th-century instrument of navigation, using the best sources at the time, as well as mistakes and imaginations.
+
+The value of the map is not that it draws Antarctica, but that it shows how the Ottoman Empire sees the world.
+
+A map, a picture of the coast, and a legacy of the times.
+
+The map doesn't speak. It's just drawing the coastline, leaving it on the parchment with what the cartographer knows and doesn't know. Today, people look at it and see it in the 16th century imagination, not the Antarctic secret.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1513 drawing, the map's contents, the 1929 discovery, Hapgood's hypothesis and the mainstream rebuttal; the map is a genuine artefact, and the "ice-free Antarctica" claim is not supported by mainstream cartography. The illustration is a scene reconstruction, not a photograph of the artefact.

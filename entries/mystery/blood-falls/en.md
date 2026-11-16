@@ -64,6 +64,58 @@ Blood Falls is one of the most recognisable landmarks in the Dry Valleys. Its re
 
 Beneath ice with no sunlight, iron, salt, and water maintain a small world. It flows slowly, and it has been flowing for a very long time.
 
+## 1911
+
+Blood Falls is in the Taylor glacier in the McMurdo Valley in Antarctica.
+
+In 1911, the geologist Griffith Taylor, during his expedition, discovered that there was a red stream of water in the front edge of the glacier. It emitted from the ice and flowed to the ice, like a rusty wound.
+
+The researchers at the time thought that red came from some kind of red algae. That was a long story.
+
+## It's not a waterfall
+
+The name Blood Falls is a little misleading.
+
+It's not a waterfall from a height, it's a saltwater that evaporates from the cracks of the glacier. The water is small, slow, and still liquid in the 10 degrees below zero.
+
+Salt water has high concentrations and low ice points. It comes from seawater residues inside glaciers, and after decades of concentration, it turns into a dark red halogen.
+
+## Red
+
+Red from iron.
+
+Halo water contains two-price iron. When it comes to air, it is oxidized into three-price iron, forming red iron hydroxide. This process is like iron rust.
+
+So, the color of the blood falls is not the color of a creature, but the color of chemistry. The water starts to rust when it comes to air.
+
+## Life under the ice
+
+What's even more surprising is the presence of microorganisms in halogenated water.
+
+These microbes survive in lightless, low-temperature, high-salt environments, with energy derived from chemical reactions of iron and sulphur. They do not need sunlight or oxygen.
+
+Bloodfalls are thus a site for astrobiology. If life survives in such a place, there may be similar life in the ocean beneath the ice of other planets.
+
+## How?
+
+The researchers used ice drilling to sample the chemical composition of halogenated water and the microbiological DNA.
+
+They found that halogen water came from an ancient oceanic pocket inside the glacier and was sealed for at least hundreds of thousands of years. The microbes in the water and the outside world were isolated for a long time, forming an independent ecosystem.
+
+The red bloodfall is the chemistry of iron; its value is the limit of life.
+
+## Supplementary Notes
+
+The red blood waterfall was once seen as evidence of “glacial bleeding.” Today's chemical explanation is simple: iron meets air and oxidizes red. But it's not boring. A salty lake that is still flowing at 10 degrees below zero is a miracle of the extreme environment.
+
+## Location of the archives
+
+Bloodfalls are archives of the "extreme environment" category. Its red is a chemical explanation, and its life has a biological meaning. The two folds together, making it neither mysterious nor ordinary. It's a place to be studied or to be impressed.
+
+## Memory
+
+The blood falls are located in the McMurdo Valley, where access is restricted. Researchers need permission, and tourists cannot approach. It's remote, protects its chemical and biological environment, and makes the samples valuable. The harder it gets to a place, the easier it is to fill up.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1911 observation, later chemical analysis, and microbiological research; “Blood Falls” is a stain formed by seepage, not a waterfall in the usual sense.

@@ -80,6 +80,80 @@ Sometimes an error tells a better story than the fact.
 
 *Original schematic: a timeline from the canali of 1877 and Lowell's maps to the results of Mariner 4. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
 
+## 1877
+
+In 1877, an Italian astronomer, Giovanni Skiaparelli, observed Mars.
+
+He saw the "channels" on the surface of Mars. He called them "canali" in Italian, meaning "coughs."
+
+## Lowell
+
+Pacival Lowell, an American astronomer.
+
+He believed that there was civilization on Mars. He built an observatory and drew a map of Mars.
+
+Lowell, American astronomer.
+
+He believed that there was civilization on Mars. He built an observatory and drew a map of Mars.
+
+Lowell believes that there is civilization on Mars.
+
+He drew maps and wrote books.
+
+## Canal heat
+
+The “Mars Canal” became a hot topic.
+
+The papers, novels, movies are all about the Martians. Mars is another planet.
+
+## Opposition
+
+Some astronomers object.
+
+They said that there was no canal on the surface of Mars, but only craters and valleys.
+
+## Detectors
+
+In the 1960s, the probe flew over Mars.
+
+They don't see the canal. Mars is a dry, cold, lifeless planet.
+
+In the 1960s, the probe flew over Mars.
+
+They didn't see the canal.
+
+## Why did you see that?
+
+The human eye connects points and lines in low resolution.
+
+The craters, valleys and shadows on the surface of Mars are seen as “canals”.
+
+## Mars
+
+Mars has no canal.
+
+But Mars is still an interesting place.
+
+Mars, one of the closest planets to the Earth.
+
+It's got atmosphere, seasons, and crowns. Astronomers have been looking for life on Mars.
+
+## Supplementary Notes
+
+The Mars Canal was a misunderstanding.
+
+Kiaparelli saw the “channel”, which was translated into the “canal”.
+
+One word, become a civilization.
+
+## Archives
+
+In 1877, Italian astronomer Skiaparelli called the line on Mars “canali”. The English translation was “canals”, and there was “Mars Canal”. Loell believed that the Canal was an engineering project for intelligent life. The probe was later filmed in the wilderness.
+
+Skeaparelli later denied that he was talking about the Canal. But the English-language newspaper had used the word “canals”, which could not be changed.
+
+Today, the Mars probe is still looking for water, not the canal.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the astronomical observations, the mistranslation, popular culture and the spacecraft results; the Martian canals do not exist, as Mariner 4 and Mariner 9 confirmed. The illustration is a scene reconstruction, not a historical photograph.

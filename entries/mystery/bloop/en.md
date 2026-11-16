@@ -72,6 +72,48 @@ The same hydrophone array also recorded “Slow Down” and “Whistle.” All t
 
 They are like three brothers: one low, one slowly descending, one whistle-like. Heard together, they really do sound like something communicating in the deep. The spectrograms tell a plainer story: ice is moving, and the ocean is loud.
 
+## Water Listener
+
+Bloom is a voice recorded at the NOAA Pacific Marine Environment Laboratory.
+
+In 1997, the hydrophone was listed in the South Pacific Ocean to capture a low-frequency signal that lasted about a minute. Its frequency was low, its energy was strong, its spread was far away. The researchers named it: Bloom.
+
+It's not a formal scientific name, it's a work code. It sounds like a suffocation, low, remote, like something flipping over the bottom of the ocean.
+
+## Ice
+
+In 2005, the researchers explained: icebergs.
+
+Antarctic glaciers break, huge ice bodies fall into the sea, producing low-frequency sound. Sound in water deforms, stretches, sounds like an animal. Bloom's frequency, duration and wave shapes, and ice tremors are close to record.
+
+This explanation is not satisfactory to everyone. It means that the sound of a giant beast is actually a crack in ice. The story needs a monster, and science gives a piece of ice.
+
+## Whale
+
+The other could be whales.
+
+Large cetaceans sound low-frequency, some reaching hundreds of kilometres away. Whale songs have complex structures, but with remote, hydrophone treatment, they may only have a low pulse.
+
+The difference between Bloom and the whale song is repetition. The whale song usually repeats the same melody, Bloom only happens once. It's hard to tell whether it's an animal or a physical event.
+
+## Network
+
+Bloom was later placed online with pictures and subtitles.
+
+It's usually a giant, squid-like, whale-like thing, swimming in the dark sea. Nobody's seen it, but it looks real. The sound is magnified, slowed, and it sounds more scary.
+
+It's a standard flow of ocean noises: a real recording, a nice name, an imaginary picture, an animal that no one has seen. The less the real ingredients, the more complete the story.
+
+## And then
+
+After Bloom, the water hearers recorded a lot of similar sounds.
+
+Some are interpreted as ice-shocks, some as whales, some as still undecided. Researchers don't name every voice because it turns it into a story. They prefer to call it "low-frequency incidents without classification."
+
+The ocean is big, it's loud. What we hear is just a small part of it.
+
+Bloom didn't ring a second time. It stayed in the 1997 database and became a voice that was explained but still told.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The icequake explanation for Bloop is supported by research; this article separates the recording, the popular story, and the later identification.

@@ -64,6 +64,82 @@ The Antiquities Museum at the Bibliotheca Alexandrina has a collection of object
 
 A building made to guide ships ended up sinking into the harbour it once guarded.
 
+## Farus
+
+Alexander Lighthouse, built on Farus Island.
+
+Faros Island is a small island at the entrance to the port of Alexandria.
+
+## Tolemy
+
+The lighthouse was built in the third century B.C.
+
+Tolermí I began, Tolmí II finished. Designer was Sostratus of Nidos. It was one of the seven wonders of the ancient world.
+
+## Third floor
+
+The lighthouse has three floors.
+
+The bottom is a square, the middle is an eight-angle, and the top is a cylindrical. The towers have a fire basin and mirror, mirrors reflect the sun during the day, and fires in the night.
+
+## Height
+
+The lighthouse's height is estimated to be about 100 meters.
+
+It was one of the highest buildings at the time. The ship could see its light dozens of kilometres away.
+
+## Earthquake
+
+The lighthouse has been standing for over a thousand years.
+
+In 1303 A.D. and 1323, the earthquake destroyed it. Later, the wreckage was transformed into a fortress called Qatar El-Andalus.
+
+## Seabed
+
+In the 1990s, divers discovered the remains of the lighthouse at the bottom of Alexandria harbour.
+
+And stones, pillars and statues scattered over the sea floor; and they were recorded and photographed, and part of them were removed.
+
+## Name
+
+“Pharos” is a noun for lighthouses.
+
+French, Italian, Spanish lighthouses all have to do with it. A building becomes a generic word.
+
+## Construction
+
+Lighthouses are built with limestone and granite.
+
+The rock is large and is fixed with darts and metal clips. The towers have stairs, rooms and vents. Thousands of workers are needed for construction.
+
+## Mirror
+
+The mirror on the top of the tower, probably grinded metal.
+
+It reflects the sun, it reflects the fire. The light of the day can pass dozens of kilometres away.
+
+## Sink
+
+When the lighthouse collapsed, the rocks fell into the sea.
+
+Waves, earthquakes, and harbour construction, buried the remains. In the 1990s, divers found them.
+
+## Archaeology
+
+Rocks on the seabed, measured, photographed and numbered.
+
+Some of the stones have inscriptions and others carvings. They cannot put the tower back together, but they prove its existence.
+
+The lighthouse fell and the name was still there. It became a word, a memory of a port.
+
+The light of the lighthouse, it's the sea surface, it's the direction of the ship. Without it, the night of the port will be longer. Today's port of Alexandria, there's still the lighthouse, just a different one.
+
+The lighthouse is gone, the port is still there. The ship comes and goes, and the light changes in the way it shines on the sea.
+
+The light will disappear and the direction won't.
+
+The lighthouse's memory is longer than its stone. The wind on the beach, remember it.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the construction record, the ancient accounts, the earthquake damage, and the underwater survey; the exact height and the mirror mechanism are described differently in the ancient sources.

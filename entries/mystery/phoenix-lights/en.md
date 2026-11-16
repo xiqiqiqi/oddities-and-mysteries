@@ -58,6 +58,54 @@ After the Phoenix event, unofficial research groups in Arizona began collecting 
 
 For the witnesses, it was the strangest thing they had ever seen. For researchers, it is a question that was split in two: one half answered, one half not.
 
+## 13 March 1997
+
+The Phoenix Light incident took place on March 13, 1997.
+
+Phoenix, Arizona, and around it, many say they saw a huge V-shaped array moving from north-west to south-east. The light was big, witnesses said it covered the sky. The video was taken, and the light in the image was typed into V, moving slowly.
+
+On the same night, there was another set of light, lined up and parked in the sky.
+
+## Two sightings
+
+Subsequent investigations separated the two paragraphs from the witnesses.
+
+The first is a V-shaped light field, with a wide range of sightings and a long duration. The second is a lined light point, which appears in the south of Phoenix and is later identified as a military flare. The National Guard is trained nearby, and the flares hang on the parachute, slowly falling.
+
+The same night, two of the scenes were captured by the media as a "phoenix light incident." This is the key to the story becoming bigger.
+
+## Lights
+
+The explanation of the flares is supported by evidence.
+
+The training records, time, location and witness descriptions are right. The flares burn in the air, are bright, long in duration, lined up. From a distance, they look like a row of stopped light.
+
+But the flare doesn't explain the V-ray. V-witnesses appear earlier, larger and more witnesses. It doesn't have a training record for the same time.
+
+## V-shaped
+
+The interpretation of the V light array is inconclusive.
+
+Some say it is a group of aircraft; others say it is a balloon; others say it is a distant city where lights reflect on thin clouds; and some say it is an alien ship.
+
+There are no radar records, no clear close photographs, no traces of objects. The light in the video is dark, unable to determine distance and size.
+
+## Synthesis of memory
+
+What is most worth studying is not the light, but the memory.
+
+The same night, two things were synthesized by the media, witnesses, and later documentary films. One remembers the "big V-shaped ship" and not the "two different sets of light." The more complete the story, the easier the detail is to be omitted.
+
+This is also the common structure of modern UFO events: an interpretable phenomenon, plus an unexplained phenomenon, plus a nice name.
+
+## Supplementary Notes
+
+After the Phoenix Light incident, Arizona was seen with a lot of light. Some were indeed flares, some airplanes, and some balloons. One event created a template, which was later filled in. The clearer the template, the easier the misperception.
+
+## Location of the archives
+
+Phoenix Light is a "collective witness" file. It has a lot of witnesses, a few videos, and two different phenomena. The value of archives is to separate V-shaped light arrays and flares, rather than to combine them into a story that is easier to spread.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article distinguishes the two sightings that night: the ten o'clock lights have a military flare explanation, while the 7:55 sighting remains unresolved.

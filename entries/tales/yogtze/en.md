@@ -82,6 +82,110 @@ YOGTZE belongs to no language and has left no verifiable meaning. It is six lett
 
 What he understood that night, no one knows.
 
+## 1984
+
+October 25, 1984, A45 highway, Germany.
+
+A man, stop by the side of the road, get out of the car and fall down.
+
+## The tavern
+
+He had a drink in a tavern before.
+
+He said someone was going to kill him.
+
+## A.M
+
+At 1 a.m., he left the tavern.
+
+He drove on A45 and then stopped by the side of the road.
+
+## A45
+
+When the police found him, he was dead.
+
+His car was parked on the side of the road and the door was open.
+
+A45, it's a German highway.
+
+It went through the mountains, bended them up, and the slopes were steep, and there was a death in 1984.
+
+## Note
+
+He left a note.
+
+The note says "YOGTZE." Nobody knows what that word means.
+
+The deceased left a note.
+
+The note says "YOGTZE." Nobody knows what that word means.
+
+## Forty years
+
+The case was not solved.
+
+"Yogtze" became a mystery.
+
+## 2025
+
+In 2025, the case was still under investigation.
+
+There is no new evidence.
+
+## Words
+
+"YOGTZE" may be a name, a place, a password.
+
+Nobody knows.
+
+## Cases
+
+The case was not solved.
+
+The police investigated and the killer was not found.
+
+## Supplementary Notes
+
+"YOGTZE" is an answerless word.
+
+It was written on a note and left in the dead man's car.
+
+Nobody knows what it means.
+
+## Now
+
+The case is still on file.
+
+The word's still there.
+
+## Last
+
+He died on October 25, 1984. The words on the note were the only name of the case. The police didn't find the killer and they didn't find an answer.
+
+YOGTZE is not explained. The case is not solved. The two facts remain in the file together.
+
+Words have no meaning, cases have no answers. Together, they are a mystery.
+
+The mystery's still there.
+
+## Archives
+
+On October 25, 1984, a man died by the German highway. He had a note in his car, "YOGTZE."
+
+The note also contained letters and numbers, but the police only made public the word “YOGTZE”.
+
+The police checked the note and his past.
+
+The note is written in a round pen. The handwriting is determined, and there is no conclusion.
+
+His car, parked on the side of the road. The door was locked and the key was still there. He lived in a hotel before he died. His name was on the hotel register.
+
+The case was later classified as “unsolved” and the file was not made public.
+
+His family moved away.
+
+The file is still in place. The answer is no.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the movements of that night, the crash scene, the note, and the investigation; in April 2025 the Hagen prosecutor's office and police concluded that the death was a single-car accident, and the meaning of YOGTZE remains unexplained. The illustration is a scene reconstruction, not a historical photograph.

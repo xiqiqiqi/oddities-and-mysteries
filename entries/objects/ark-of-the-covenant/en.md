@@ -66,6 +66,70 @@ The guardian monk is still in Aksum. The Holy of Holies in Jerusalem is only sto
 
 *Original schematic: the construction of the Ark, its capture by the Philistines, the destruction of the Temple and the Ethiopian tradition. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
 
+## Box
+
+The locker is a wooden box.
+
+The Exodus says it's made of golden alloy wood, and it's two and a half elbows, one and a half elbows wide and one and a half elbows tall. There are two Kiloberts in the box, with wings attached, and in the middle it's "Shobs."
+
+## The Holy House
+
+The Ark of the Covenant is in the Holy House.
+
+The Holy House is the innermost level of a tent or a temple, only the High Priest can enter once a year.
+
+## He's been robbed
+
+The Covenant cabinet has been seized in history.
+
+The Philistines defeated the Israelis and took the covenant cabinet. Later, it was sent back to Jerusalem. The covenant cabinet disappeared after the Babylonians destroyed the temple.
+
+## Disappear
+
+There is no reliable record of the whereabouts of the Ark.
+
+Some say it was buried beneath the Temple Mount; others say it was taken to Ethiopia; others say it was taken away by angels; and every statement lacks evidence.
+
+## Ethiopia
+
+In Aksum, Ethiopia, there is a Church of the Holy Virgin of Zion.
+
+The church was set up with a “compasure cabinet” but was not open to the public.
+
+## Find
+
+Archaeologists looked at the convention cabinet, but they didn't find it.
+
+The Temple Mount is a sensitive area and cannot be dug at will. The Ethiopian church is not allowed to be visited by outsiders. The Covenant cabinet is an unverifiable object.
+
+A box, which has been searched, contested, imagined for 3,000 years. It's not just an archaeology problem.
+
+## Theology
+
+The Covenant is a symbol of God.
+
+It's not a magic box. It's power, it's from the contract it represents, not from wood or gold.
+
+## Archaeology
+
+Archaeologists did not find the Ark.
+
+The Temple Mount cannot be excavated, and the Ethiopian churches are closed. The Covenant cabinets exist only on words and beliefs.
+
+One box, it's a sacred object of three religions. It's more meaningful than its object.
+
+## Summing up
+
+The cabinet, it's a box.
+
+It means nothing in the wood and gold, and it represents the contract.
+
+There is no archaeological evidence of where it is. It exists, it belongs to faith, it does not belong to museums.
+
+The story of the Covenant is not over. It's just moving from one place to another, moving to the imagination.
+
+The box can disappear, not the story. As long as there is still a believer in the contract, the Ark is still somewhere, and it's being carried away.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the biblical description, the historical record and the Ethiopian tradition; there is no verifiable Ark, and the Aksum claim cannot be independently examined. The illustration is a scene reconstruction, not a photograph of the object.

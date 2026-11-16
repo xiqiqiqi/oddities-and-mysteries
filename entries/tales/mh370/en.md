@@ -78,6 +78,130 @@ Twelve years on, the plane has not landed. Neither has the question.
 
 *Original schematic: the 8 March 2014 timeline, the satellite handshake arc and the main search areas. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
 
+## Year 2014
+
+On March 8, 2014, Malaysian Airlines MH370 took off from Kuala Lumpur and flew to Beijing.
+
+The plane has 239 people on board. Soon after take-off, the plane lost contact with the ground.
+
+## Turn around
+
+Radar indicates that the aircraft did not follow the route.
+
+It turned west, crossed the Malay Peninsula, entered the Indian Ocean, and then the radar lost it.
+
+## Satellite
+
+Satellite company Inmarsat records indicate that the aircraft still have a “handhak” signal with the satellite after being lost.
+
+The signal lasted a few hours. The last one, pointing to the South Indian Ocean.
+
+Inmarsat's satellite, more than 30,000 km from Earth.
+
+The plane's handshake signal, passed on to the satellite, then to the ground. The signal is weak, but it gives an arc.
+
+Inmarsat's satellite recorded the aircraft's handshake signal.
+
+Signals are weak, but they give you an arc. The arc points to the South Indian Ocean.
+
+## Search
+
+The search lasted several years.
+
+Australia, China, Malaysia and other countries are involved in the search. The search area is large and the seabed topography is complex.
+
+## The wreckage
+
+On the eastern coast of Africa and on the islands of the Indian Ocean, a few pieces of debris were found.
+
+They were identified as belonging to MH370, but the main body of the aircraft was not found.
+
+## 2026
+
+In 2026, the search continued.
+
+New companies, new equipment, new areas. Deep under the sea, slow search.
+
+## Report
+
+The official report did not give any reasons for that.
+
+It lists the possible causes: man-made operations, mechanical failures, lack of oxygen. There is no evidence of which.
+
+The official report does not give any reasons for this.
+
+It lists possible causes: man-made operations, mechanical failures, oxygen deficiency.
+
+## Answer
+
+The MH370 answer is still in the sea.
+
+239 individuals, 239 families, waiting for an answer that doesn't appear.
+
+The answer is still in the sea.
+
+## Indian Ocean
+
+The South Indian Ocean is one of the most remote seas in the world.
+
+The depth of the water is thousands of metres, the waves are huge, and the topography of the sea floor is complex. Searching requires ships, aircraft, satellites and submersibles.
+
+## Search
+
+Search the area and follow the arc line.
+
+First search, near Malaysia and Viet Nam. Second, in the South Indian Ocean. Third, in the south.
+
+Search the area, big.
+
+Australia, China, Malaysia and other countries are involved in the search. The sea floor is deep and the terrain is complex.
+
+## Family
+
+239 families, long waiting.
+
+On March 8th of every year, people meet and pray.
+
+239 families, long waiting.
+
+On March 8th of every year, people meet.
+
+## Aircraft
+
+MH370 is a Boeing 777.
+
+It's big, it can fly very far. It's got 239 people on board, including passengers and crew.
+
+## Memory
+
+MH370 is one of the most expensive aerial searches in modern history.
+
+Satellites, planes, boats, submersibles are all in use. Still no body.
+
+The family does not want a conspiracy, it is a place.
+
+## And finally
+
+MH370 search continues.
+
+239 individuals, still waiting for an answer.
+
+The sea is big, the answer is small.
+
+## Remember
+
+MH370 is one of the longest searches in modern aviation history.
+
+Satellites, ships, planes, submersibles are all in use. Still no subjects are found. Families want a location, not a conspiracy.
+
+The sea is big, the answer is small. 239 people, still waiting.
+
+The plane didn't come back, the question was not answered. The sea was still there, waiting.
+
+## Archives
+
+On March 8, 2014, MH370 was flown from Kuala Lumpur to Beijing, and lost contact shortly after taking off. 239 people were on board.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates confirmed flight data, satellite analysis, confirmed debris and unproven speculation; no evidence establishes the cause of the loss. The illustration is a scene reconstruction, not a photograph of a site.

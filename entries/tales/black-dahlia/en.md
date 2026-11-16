@@ -66,6 +66,118 @@ Elizabeth Short was twenty-two when she died. She wanted to be an actress. What 
 
 *Original schematic: the timeline of January 1947, the newspaper coverage and the main suspects. Not a photograph of the scene. Oddity Archive, CC BY-SA 4.0.*
 
+## 1947
+
+January 15th, 1947, Los Angeles.
+
+Elizabeth Short's body was found in an open area near Lemmet Park. She was cut in half and her face was cut open.
+
+## Newspapers
+
+The newspaper called her "Black Bliss".
+
+The name comes from a movie and her black hair. The newspaper likes it because it's short, exciting, easy to remember.
+
+The newspaper wrote her death as "Black Blossom".
+
+The name comes from her black hair and black clothes. The newspaper sells a lot of it with that name.
+
+The newspaper called her "Black Bliss".
+
+The name comes from her black hair and black clothes. The newspaper sells a lot of it with that name.
+
+## Investigations
+
+The police investigated for a long time.
+
+They asked hundreds of people, checked a lot of leads. No one was arrested.
+
+## Suspect
+
+There are many suspects.
+
+There was a boyfriend, a acquaintance, a stranger. Some said she had been killed by abuse; others said she was involved in the gang.
+
+## Why isn't it broken?
+
+The case remains open for a number of reasons.
+
+It was a few days after the body was found. The scene was damaged. Testimony contradicts. L.A. is big.
+
+## Media
+
+The media wrote about Short's life as “deformed woman”.
+
+She's an ordinary young woman, from Boston, who wants to be an actor. Her death was turned into a moral story in the paper.
+
+## Now
+
+The case remains open.
+
+The black lilies became the legend of Los Angeles. Her name is more famous than her life.
+
+## Los Angeles
+
+1947 Los Angeles, expanding.
+
+After the war, the population grew, the film industry flourished, and crime increased.
+
+## Short
+
+Elizabeth Short, from Boston.
+
+She was a waitress, an actor, a model. She wanted to be famous in Hollywood, but she didn't succeed.
+
+Elizabeth Short, from Boston.
+
+She wanted to be an actor, but she didn't succeed. She lived in L.A. and lived on friends and temporary work.
+
+## Cold case
+
+The case was not solved.
+
+LAPD, FBI and private detectives, all investigated. No arrests.
+
+The case was not solved.
+
+LAPD, FBI and private detectives, all investigated.
+
+## Archives
+
+Case file, partial disclosure.
+
+Photos, testimonies, clues are all in the file. The file doesn't give an answer.
+
+Elizabeth Short was found dead in Los Angeles in January 1947. She was called "Black Bliss." The case is still open. The newspaper wrote her as "The Decline Woman," and she wrote it as a moral story.
+
+The last time she was seen dead was at a hotel in Hollywood.
+
+## Memory
+
+Short's name is more famous than her life.
+
+## Memory
+
+Black lilies. It's a media name.
+
+Shooter's life is reduced by the newspaper into a moral story. Her death is written into a show.
+
+The case was not solved. The name was left behind.
+
+## And finally
+
+Black lilies, no case solved.
+
+Short's name is more famous than her life.
+
+The case is still in the file and the story is in the newspaper.
+
+## Remember
+
+Black lilies. It's a media name.
+
+Shooter's life was reduced to a moral story in a newspaper. Her death was written into a show. The case was not solved, but the name was left behind.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the confirmed timeline, the newspaper coverage and the various suspect theories; the case remains unsolved, and no accusation has been confirmed in court. The illustration is a scene reconstruction, not a photograph of the scene.

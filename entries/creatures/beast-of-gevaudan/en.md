@@ -66,6 +66,36 @@ It appears in prints, novels, films, and folk tales, described as a werewolf, a 
 
 Today, a museum in Gévaudan still displays its image. It looks like an oversized wolf, staring out of the frame.
 
+## Numbers and archives
+
+The number of deaths from the Chevot attack has never been a uniform version.
+
+The parish records, administrative reports, and subsequent historical studies show figures ranging from 60 to 100. More people were injured, but many of them were not recorded. There were no modern forensics in the eighteenth century. The bodies were often eaten by animals when they were found, and the cause of death could only be determined on the ground.
+
+The archives have one thing in common: they record “humans attacked by beasts” and not “beasts”. Villagers see wounds, footprints and bodies to be dragged away; officials see public crises requiring responses; the Church sees punishment by heaven; every record is writing about what they care about.
+
+## Hunting
+
+In 1765, the court-runner Antoine went in with his hounds and soldiers. He killed a big wolf and brought the body back to Versailles. The court thought the problem was solved, but the attack did not stop.
+
+In 1767, the local hunter Shastor killed another large animal on the hill. After that, the attack came to a halt. Shastor used his own bullets, a story that was later filled with mythology.
+
+Two animals, two “ends”, two more years in the middle. This time line itself suggests that the hothodang beast may not be one. Or that the hunting of a wolf is just a temporary escape for the remaining wolf.
+
+## Wolves and country
+
+Eighteenth century in France, wolves are real threats.
+
+They eat sheep, calfs, and dogs, and when winter comes short of food, they come near the village. It is not common for people to be attacked by wolves, but it is not impossible in cases of hunger, disease or provocation. The hotwood attacks are concentrated on women, children, and pastoralists, who are the ones who are the most vulnerable to wolves in the wild alone.
+
+The other explanation is combing. Such animals are not afraid of humans, they are bigger than wolves, and they may treat humans as prey. It is also suggested that a large dog that has been raised by humans, who have been abandoned and live in the mountains, is more aggressive.
+
+There is also a darker argument: a serial killer uses the rumours of “beasts” to cover up crimes. There is no direct evidence for this hypothesis, but it reminds us that historical “monsters” are sometimes just another name for human violence.
+
+Today's Gevodang is already a quiet agricultural area. Wolves are long gone, and forests are cut off from roads and villages. But there are still tourists every year looking for traces of the Beast. Most of what they find are stonestones, old paintings and a signboard.
+
+The file of Gewodang does not give a clean answer. It leaves behind only a string of dates, deaths, and hunting. It doesn't matter if there's a monster. What's important is how a village uses a beast to explain its fear.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the attack record, the official hunts, the eyewitness descriptions, and the various explanations; estimates of the death toll and the animal's identity vary, and the “werewolf” interpretation is not treated as a conclusion.

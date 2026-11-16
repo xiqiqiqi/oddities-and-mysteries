@@ -64,6 +64,70 @@ The case lighting is arranged so that visitors can see both the green and the re
 
 The Romans made a nanomaterial without knowing what a nanomaterial was. They saw colour; we see the mechanism. The cup has not changed. What changed is the way we look at it.
 
+## Cups
+
+The Lecko cup is a glass.
+
+It is about 16 centimetres tall, and there is a carving on the wall of the cup: a man entangled in vine, with a leopard and a goat. This man is King Thrace Lecko, who is punished for his opposition to the God of Alcohol.
+
+The cup is green in normal light, red in the light. This coloring effect makes it very visible in the museum.
+
+## Two-colored
+
+This effect is called "two-way colour."
+
+The glass is suspended with tiny gold and silver nanoparticles. The size and shape of the particles determine which wavelength light they absorb and scatter. Red is left behind, green is absorbed, green is left behind when light goes through the cups, green is left behind when light reflects and red is absorbed.
+
+## Nami
+
+These particles have only a few dozen nanometers in diameter.
+
+In the 1990s, researchers saw them using electron microscopes. The discovery showed that fourth-century craftsmen had been able to manufacture nanomaterials, although they did not know the word "nami."
+
+The Lekou cups prove that ancient craftsmen control the microstructure of the materials.
+
+They don't know about nano, but they know how to turn glass color. Experience and technology, sometimes earlier than theory.
+
+## Process
+
+The cups may be made from the `impregnated' or `mixed' process.
+
+The craftsmen dissolve gold and silver compounds into glass, heat them up, so that the metal is disassemble into particles. Temperature and time must be controlled well, otherwise the particles will be too large and the glass will become turbid.
+
+## History
+
+The cup was bought by the British Museum in 1958.
+
+It comes from an unknown source. Some say it's from Rome, some say it's from the East. The cup's style, process and inscriptions point to the Mediterranean world in the fourth century.
+
+## Now
+
+The Lecco Cup was displayed at the British Museum.
+
+It's in a special booth where the lights come from behind and the red is visible. The tourists can see it coloring under different lights.
+
+A four-century cup, with modern science to explain. It's not magic, it's technology.
+
+## Glass
+
+The glass process in ancient Rome is well developed.
+
+Crafts can make complex instruments with blow, modeling, cutting, and carving. The Lecco cups are carved behind glass cooling, or are made of molds, and researchers have different views.
+
+## Museums
+
+The exhibition cabinet of the British Museum displays the colouring effects of special lights.
+
+The viewers look green from the side, red from the back. The tablet explains the nanoparticles, but a lot of people just take pictures.
+
+## Summing up
+
+The color of the Lecco cup, not magic.
+
+It's the absorption and dispersion of nanoparticles to light. Four-century craftsmen don't know physics, but they know how to control fire, metal and glass.
+
+A cup that links ancient processes to modern science. It proves that technology has a longer history than we thought.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the description of the object, the colour change, the nanoparticle mechanism, the manufacture, and the provenance; the cup's exact origin and function are still debated.

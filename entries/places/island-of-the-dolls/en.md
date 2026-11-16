@@ -70,6 +70,94 @@ Was the girl real? There is no record, no name, no body report. No second person
 
 A man lived alone on a small island for fifty years, collected hundreds of dolls, and died in the same water. That is enough by itself. The ghost story grew afterwards.
 
+## Canal
+
+Doll Island, in the Hochimirko Canal District, Mexico City.
+
+This was once an agricultural area of the Aztec people, which became a tourist destination. On both sides of the Canal are artificial islands (chinampa), flowers, vegetables, restaurants and boats.
+
+The canal of Hochimirko was dug artificially.
+
+The water is shallow and the boat is small. The sides are artificial islands, flowers and vegetables. Tourists take boats, watch flowers, listen to music.
+
+## The man on the island
+
+The man on the island is Julian Santana Barrera.
+
+He lived on the island alone, living by fishing and growing vegetables. In the 1950s, he started hanging dolls on trees. Some said he was trying to remember a drowning girl; others said he was trying to drive out evil spirits.
+
+## Dolls
+
+The dolls were hanging on trees, walls and boats.
+
+They're wet by rain, dry by sun, their hair is falling off, their eyes are white. Some of them have little arms, some have only one head. They don't look like toys, more like remains.
+
+The dolls on the island, they're not just toys anymore.
+
+They're broken by rain, sunlight and birds. Some have lost their hair, some have lost their eyes. They look like people, and they don't look like people.
+
+The dolls on the island, they're from Julian.
+
+Why did he hang up, nobody knows. Some people say memorials, some say exorcism, some say it's just loneliness.
+
+## Death
+
+On April 17, 2001, Julian died on the island.
+
+He died in the canal with no clear record of the cause of death. Some say he drowned, some say he had a heart attack. After he died, the dolls on the island continued to hang and became a scene.
+
+## Now
+
+Doll Island became a tourist destination.
+
+Tourists come by boat, take pictures, buy souvenirs. There are no permanent residents on the island, but only dolls and old houses.
+
+## The story
+
+The story of doll island is about loneliness and remembrance.
+
+A man lives on the island and fills trees with dolls. He doesn't know that these dolls will turn into attractions or that they will be filmed as horror films.
+
+The dolls aren't ghosts. They're just plastic and cloth, they're dirty in time.
+
+## Tourism
+
+Doll Island is a tourist destination.
+
+Tourists come by boat, take pictures, buy souvenirs. There are no toilets, no restaurants, only dolls.
+
+Doll Island has become a tourist destination.
+
+Tourists come by boat, take pictures, buy souvenirs. There are no residents on the island, only dolls.
+
+## Ecology
+
+The water quality of the canal is declining.
+
+Tourism, agriculture and urban sewage affect the canal. The name of doll island also brings more people here.
+
+A site consisting of dolls, behind which an injured canal was found.
+
+## Hodge Mirko
+
+Hodge Mirko is south of Mexico City.
+
+This was once a lake, which was replaced by canals and artificial islands.
+
+## Manshima
+
+The artificial island is called chinampa.
+
+People dig from the bottom of the lake, pile up into islands, then plant willows. The islands are narrow, the water is shallow and the ships can cross.
+
+## Environment
+
+The dolls are still in the trees, the canals are still flowing. The men on the island are gone and the story is left.
+
+There's some dolls on doll island without a head. Legends say tourists or storms break.
+
+The dolls on the island were first placed by local fishermen. Later, tourists also brought the dolls. No one counted the number of dolls. There were, according to some people, thousands.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the canals and the island, Santana's life, the story of the girl, the dolls, and his death; there is no verifiable record of the girl's identity or drowning, and Santana's death is recorded as drowning. The illustration is a scene reconstruction, not a photograph of the site.

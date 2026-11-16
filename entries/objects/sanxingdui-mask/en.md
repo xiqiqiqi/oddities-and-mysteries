@@ -66,6 +66,78 @@ It is one of the most famous objects from the site and the source of the “alie
 
 It is not an alien. It is a god imagined by people three thousand years ago.
 
+## Masks
+
+The greatest feature of the bronze mask of the three stars pile is a condensed eye.
+
+The eyes were in column form, stretching out about a dozen centimetres. The ears were big, like wings. The mouth was wide and the horns were up. The mask had no hair, no neck, like a magnified face.
+
+The largest mask is about 1 m, 38 cm wide and about 66 cm tall. It's not worn, it's too heavy, it's too big. It could be hanging on a wooden rack, a temple or a altar.
+
+## Line
+
+The word “brand” is the name given to such eyes by a later person.
+
+In the "Hungyang Nation" there is a phrase, "Hugs, their eyes and their eyes" that means "singlings, their ancestors, their eyes, their eyes, their eyes." Someone linked this phrase to the three-star mask, which they think is the image of the bushes.
+
+The connection is famous, but not well-documented. The literature is later, the mask is commercial, and there is no direct text chain between the two. The mask's eyes may come from mythology, ancestral worship, or some ritual need, not necessarily a specific person.
+
+## Cast
+
+The mask was made of bronze.
+
+The three-star masons use the pavilion, first make the mud model, then turn the model, and do the same thing. Large masks need to be made in pieces, then put together. The columns of the eyes, and the thin pieces of the ears, are made alone.
+
+The distribution ratio for bronze is also very good. The proportions of copper, tin, lead affect hardness, mobility and colour. The bronze equipment in the three stars is higher in lead, more mobile, and suitable for making complex shapes.
+
+## Jinsha
+
+Similar masks were found at the Chengdu Kinsa site.
+
+The masks are smaller, the eyes are less sharp, but the style is similar. The two sites are not far apart, and there are overlaps. They may belong to the same cultural tradition, or they may be sequential.
+
+The gold sands are also soiled with gold masks, sun godbird gold and jade instruments. These objects show that ancient civilization is not isolated, it has its own technology, faith and trade network.
+
+## New pit
+
+In 2021, a new mass grave was discovered at the Tristars.
+
+The new pits are covered with bronze trees, gold masks, Jade instruments, and ivory. Some instruments have not been seen before, such as complete gold masks, giant bronze gods.
+
+The new discovery did not reverse the old interpretation, but added details. The Tristars are not a one-time miracle, but a culture that lasts for centuries. Their masks, their trees and their sacrifices are all part of that culture.
+
+## Now
+
+These masks were displayed in the new museum by the Tristar Museum.
+
+The booths are big, the lights are dark, the mask's eyes are shining behind the glass. The tourists stand in front of them and they feel they're watching.
+
+A mask of 3,000 years ago can still be seen. It's its power and its mystery.
+
+## Gold mask
+
+Three stars and a golden mask.
+
+Gold masks are placed on the bronze head or used alone. Gold beams are thin, shaped with hammers, and are painted or glued to the bronze surface. Gold masks cover only the face, or cover the entire head.
+
+Gold masks and bronze masks are two different materials, two different processes. Together, they show different roles and levels in ritual activities.
+
+## Ivory
+
+There were ivory in the grave.
+
+ivory is not a common local material. ivory from three star piles, probably from Yunnan, Burma, or more.
+
+The presence of ivory means that ancient states are not closed. It has trade, exchanges, and a network of resources.
+
+## Protection
+
+The bronze mask is oxidized and corrosive when it comes out of the soil.
+
+Protectors control humidity, remove soil and salt from the surface, and treat it with a decoupling agent.
+
+The three-star collection of cultural objects is protected with a number of modern technologies: three-dimensional scanning, X-rays, microscopes, environmental monitoring. Archaeology is not just excavation, it is preservation.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation, the dimensions, the interpretation of the face, the site's context, and the casting technique; the link between the “protruding eyes” and Cancong is one interpretation, not a settled conclusion.

@@ -62,6 +62,46 @@ The case leaves a clear set of layers: the dimming is real and the data is publi
 
 A single star's light has kept this many people looking up for this long. That is rare in itself.
 
+## The guy who read the data
+
+The real name of Tabi Star is KIC 8462852, a star located on the swan.
+
+In 2015, the astronomer Tabesa Boyagean and her team published a paper saying that the star's brightness had fallen abnormally. The decline was not regular, nor was it as neat as planetary day. Sometimes a few percent drop in a few days, sometimes slowly darkening in a few months.
+
+The Kepler telescope records a large number of light curves of stars. Most curves have cycles and Tabby stars have no curves.
+
+## 2017
+
+In 2017, Tabby Star went dark again.
+
+The decline was even greater and longer. The observers tracked the ground telescope and the multi-band instrument and found that the darker way was not "black as a star" but that certain colours were more blocked.
+
+This detail is important. If a solid object blocks a star, all colours should be darkened together; if a dust, different colours of light will be dispersed to varying degrees.
+
+## Dust
+
+Subsequent studies tend to be dustier.
+
+Dust clouds can move around stars in an irregular shape that can create irregular brightness changes when blocking light. Dust particles size, distribution and motion explain why some waves are much darker and some less dark.
+
+But where does the dust come from? It could be a comet break-up, a planetary collision, or a substance from the star itself. Every explanation would require more observations.
+
+## Outer space architecture
+
+Following the publication of the 2015 paper, the assumption of “an alien giant building” was raised.
+
+This hypothesis is easily disseminated: an irregular dark, a possible group of civilizations, a sufficiently large structure, but it has no observational support. Subsequent infrared observations do not find waste heat, nor do spectra characterize artificial materials.
+
+The dominant attitude of the scientific community is to look for natural explanations first. Not because of exclusion, but because natural interpretations are easier to test. Tabi Star is still a mystery, but it is not an "acknowledged alien building."
+
+## Supplementary Notes
+
+The story of Tabi Star is also a case of scientific dissemination. A paper, a press conference, several web videos can turn a distant star into a candidate for an alien civilization. Subsequent observations do not confirm this hypothesis, but the public memory is left behind. Science takes time and stories don't.
+
+## Location of the archives
+
+Tabi is a "Scientific Unsolved" file. It has a real object of observation, a set of real data and an undetermined explanation. It reminds people that the scientific uncertainty is not a blank, but a structured uncertainty: we know which interpretations are excluded and which are still being put forward.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the observations, the popular story, and the later research; the “alien megastructure” was a historical candidate hypothesis.

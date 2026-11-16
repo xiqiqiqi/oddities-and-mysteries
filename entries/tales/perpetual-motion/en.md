@@ -74,6 +74,96 @@ The wheel stops. Physics does not.
 
 *Original schematic: the overbalanced wheel, the Bessler and Redheffer cases, and a thermodynamics timeline. Not a historical drawing. Oddity Archive, CC BY-SA 4.0.*
 
+## Wheels
+
+A permanent motive is a machine that can function forever without energy.
+
+It violates the first and second laws of thermodynamics. Energy cannot be produced in empty space, nor can it never be lost.
+
+## Bessler
+
+John Bessler, an 18th-century German.
+
+And he created many things of a “perpetuity motive”, some with wheels and some with ropes; and he said, “They can turn themselves.”
+
+## Red Heffer
+
+Charles Redhoff, a nineteenth-century American.
+
+He's putting out a machine in New York, saying it can generate infinite energy. Then, someone reveals it, and there's a man underneath it.
+
+## Energy
+
+Never a motive.
+
+Friction, air resistance, heat all consume energy. Machines need external energy.
+
+## Why are you still here?
+
+The story of eternal motives is still circulating.
+
+Because it fulfils a wish: free energy, forever sports.
+
+## Thermodynamics
+
+Thermodynamics must be the first rule: energy cannot be produced from empty space.
+
+Law number two: Energy will change from available to non-usable.
+
+The eternal motive violates both laws.
+
+## Machine
+
+There are many kinds of machines that have a permanent motive.
+
+Wheels, ropes, magnets, mercury. They look like they can turn themselves, and they need external energy.
+
+## Liar
+
+A lot of eternal motives are frauds.
+
+The machine hides people under it, or with hidden batteries.
+
+## Supplementary Notes
+
+The eternal motive is an old dream.
+
+It's always moving without energy.
+
+Thermodynamics, impossible.
+
+## Last
+
+The second law of thermodynamics says that the entropy of the isolation system increases. The constant motive is to reverse the process, so it's impossible.
+
+The eternally motivated dream never materialized. It only proved one thing: energy is not free.
+
+The machine will stop, the dream won't. The story of a permanent motive will continue.
+
+The story's still there.
+
+Energy is not free, but dreams are.
+
+## Archives
+
+In the 12th century, the Indian mathematician Ben Shighara described an "automatic wheel." He didn't mean that it really could move forever, but that it was used to talk about sports. The eternally motivated dream never came true. It only proved that energy was not free.
+
+The wheels of Bashcharo, by weight and swing. It looks like forever, but it stops.
+
+Physics says friction and gravity stop the wheel.
+
+In the 18th century, European craftsmen made a lot of “perpetuity wheels”. They tricked the audience with hidden hairlines or hammers.
+
+And these wheels were then torn apart. They were hidden in them with gear and hammers. And the wheels of Bashcharo were drawn on paper. It had no substance, but a description.
+
+The patent office usually refuses it directly.
+
+Most of these applications have no background.
+
+The wheel finally stopped, the dream didn't.
+
+Ever-motivated dream, still.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the historical designs, the Bessler and Redheffer cases and the thermodynamic explanation; perpetual motion violates conservation of energy or the second law, and no machine has passed an independent test. The illustration is a scene reconstruction, not a historical drawing.

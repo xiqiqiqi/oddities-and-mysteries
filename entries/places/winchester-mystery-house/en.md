@@ -68,6 +68,96 @@ Sarah left no explanation. She spent her money on a house, and she spent thirty-
 
 *Original schematic: the phases of construction, the 1906 earthquake and the opening in 1923. Not an architectural survey. Oddity Archive, CC BY-SA 4.0.*
 
+## Sarah
+
+Sarah Winchester, heir to Winchester Rifles.
+
+Her husband, William Winchester, died in 1881. She inherited a great deal of wealth, and she also inherited the saying that the family's wealth came from rifles, which brought death, and that death would come to her.
+
+In 1884, she bought a farmhouse on the outskirts of San José and began to expand. She called architects, craftsmen, and workers to build them up on a continuous basis.
+
+## The house
+
+The house has 160 rooms.
+
+It has bedrooms, living rooms, kitchens, dance halls, greenhouses, basements and corridors. Some rooms have only one door and some doors lead to walls. Some stairs lead to ceilings and others have no stairs below them.
+
+## The maze
+
+The layout of the house, like a maze.
+
+Sarah believed that ghosts would follow the straight line. She designed the corridor to be crooked, designed the door to be hidden, designed the room to be irregular. She hoped the ghost would not find her.
+
+## Earthquake
+
+1906, San Francisco Earthquake.
+
+San José was also affected. Part of the house collapsed and Sarah was trapped in her room. She later modified the design, increased the exit and support.
+
+## 1922
+
+Sarah died in 1922.
+
+Tourists can visit rooms, stairs, and corridors.
+
+## Ghost
+
+Ghosts in the house have names: Sarah, William, the workers, gardeners.
+
+Some say they can hear footsteps, pianos and doors. Others say they see people. There's no evidence, but there's lots of stories.
+
+## Construction
+
+The building of the house, actually, is very ordinary.
+
+It's Victorian style. It's woody, brick wall and paint glass. It's special, not in materials, but in layout.
+
+## Tourism
+
+Winchester's Mystery House. It's a tourist destination now.
+
+Tourists can participate in Ghost House tour, or in construction tour. Two tour, two stories.
+
+## Construction
+
+The house was built for 38 years.
+
+Sarah meets daily with the craftsmen, drawings, making plans, tearing down walls, rebuilding. Some rooms are taken apart as soon as they are built, others are re-directed as soon as they are installed.
+
+## Workers
+
+The craftsmen lived nearby and worked for Sarah for a long time.
+
+They know her habits, they know her money. The bigger the house, the more the workers.
+
+The house was built for 38 years, and the workers were replaced by another group.
+
+Some of the workers are dead, some are gone, some are left behind. Their names are not recorded.
+
+## Legends
+
+Sarah's motives are not documented.
+
+The expression “Ghosts will come to her” comes from later guides and writers. Sarah himself leaves no explanation.
+
+## Protection
+
+The house is now managed by the tourism company.
+
+They fix structures, keep maze layouts, and keep ghost stories. History and legend, sell tickets together.
+
+## Garden
+
+The house is surrounded by gardens, orchards and greenhouses.
+
+Sarah likes flowers and trees. The gardens are roses, citrus and palms. There are tropical plants in the greenhouses.
+
+## Film
+
+Winchester's Mystery House, in movies and TV.
+
+It's a labyrinth layout, suitable for a horror movie. Tourists see the house in the movie, not Sarah's.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the size of the house, Sarah's life, the medium legend and the changes after the earthquake; the room and door counts come from tour statistics, and the medium and curse stories lack contemporary documentary support. The illustration is a scene reconstruction, not a photograph of the site.

@@ -78,6 +78,44 @@ A thunderstorm, a downburst, a forest broken in half, and lights and noise in th
 
 *Original schematic: the damage bands at Duxi, the location of the factory and the wind of a downburst. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
+## Down with the storm
+
+The storm is a deep storm in the thunderstorm cloud.
+
+The droplets and crystals in the clouds evaporate, melt, absorb heat, cool the air, heavy, and accelerate the sinking. When it reaches the ground, it spreads around, forming a short-time strong wind. The wind can be more than 30 metres per second, lasting between a few minutes and ten minutes.
+
+Its destruction has a clear direction: the trees fall in the same direction, the roofs are lifted, and the destruction belts are narrow and long. The trees fall down in the Duttstree fields, similar to this feature.
+
+## A tornado
+
+The other could be a roll.
+
+The tornados have a much higher wind speed and more intensive destruction, usually with a narrow and deep destruction belt. But the tornados require a funnel cloud, which the witnesses should see. The witnesses did not describe the funnel cloud that night, but only saw light and heard sounds.
+
+There is no need for a funnel cloud to hit the storm. It hits down from the bottom of the cloud, looks like a cloud or a storm. At night, the cloud and the rain cover the structure, and people can only see light and hear thunder.
+
+## Post-disaster
+
+The post-disaster survey left a lot of data.
+
+The direction of the fell trees, the height of the breakage, and the width of the swathe have been measured. Damage to the plant and shed has also been recorded. These data support the explanation of the “high wind” and do not support the “flyer”.
+
+But the data does not explain all the sights. Some say they see a "car-like thing," others say they see a fireball. Thunderstorms in the night, blown groceries, distant lights, may be seen as a "monster."
+
+## Narrative
+
+The name "Air Monster" is better than "Blow Storm."
+
+It turns a meteorological disaster into a story to tell. It has a voice, light, a car without wheels. It doesn't need proof. It only takes one night.
+
+The trees at the Du Hin forest have grown again. The damage belt is not visible. But the weird car is still in the short video, running further away than the wind.
+
+The storm at the Dubrook forest, which was later written into a meteorological case, showed that a thunderstorm without a leaky cloud could leave a tornado-grade damage on the ground. The story of the strange car masked this more valuable discovery.
+
+The strange car can continue, but the evidence left by the wind is worth remembering.
+
+It's a wind that can be measured, not a car that can't be measured.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the physical damage, the witness accounts, the meteorological investigation and the UFO claims; the event left extensive physical traces, a downburst or landspout is the best-supported explanation, and the UFO claims have no physical evidence. The illustration is a scene reconstruction, not a photograph of the site.

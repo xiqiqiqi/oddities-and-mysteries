@@ -64,6 +64,100 @@ The stones are fenced and protected; visitors cannot wander freely through the f
 
 The rows are still there, one after another. They do not need a legend to stand: several thousand years ago, a group of people raised several thousand stones here, and then left.
 
+## Brittany
+
+FLNKS, in Brittany, France.
+
+Brittany is in the north-west of France, by the sea. There are fog, wind, stone and granite. The arrays are spread around several villages.
+
+## Arrange
+
+Stonehenge is not a pile of stones.
+
+They're lined up, hundreds of metres long, a few kilometres long. Rocks vary in size, a few metres tall, and a few dozen centimetres tall.
+
+## Age
+
+Ishaf was built about 4500 B.C.
+
+New stone-era farmers build these arrangements with stones. They have no words, no wheels, only manpower, ropes and sleighs.
+
+## Use
+
+The use of the Stoneflies is inconclusive.
+
+Some say it's an observatory, some say it's a cemetery, some say it's a ritual. The formation of the stones may be about the sun, the moon, the season.
+
+## Legends
+
+The legend of Brittany says that the stones were changed by Roman soldiers.
+
+Saint Cornelli turned the soldiers into stones in order to avoid pursuit. This legend explains why Stonehenge was lined up.
+
+The legend of Brittany says that the stones are soldiers.
+
+The legend is that there's a story for Ishida. The story is not history, but it explains why Ishaf is lined up.
+
+There is no answer to the Stonehenge. It's just a way to turn the New Stone Age into a way to go.
+
+Today's Brittany is still between the fields and the villages. Visitors come and go and the stones do not move. They take longer than any explanation.
+
+Rocks don't need to be explained. They can be long.
+
+They'll be standing for a long time.
+
+## UNESCO
+
+FLNKS is the UNESCO World Heritage Site.
+
+Together with the nearby mausoleums and stone pillars, it constitutes a cultural landscape. Protectors restrict tourists and prevent trampling and erosion.
+
+## Tourism
+
+Kanak is a tourist destination.
+
+Tourists can see the Stonehenge, the Museum and the Coast. Summer is crowded and winter is windy.
+
+## Rock
+
+Rock doesn't talk.
+
+They're just standing there, lined up, waiting for an explanation.
+
+Rocks come from nearby granite.
+
+The craftsman separated the stones from the rock body with a stake, a hammer and sand, and then dragged them to a designated position.
+
+## New Stone
+
+FLNKS is the legacy of the New Stone Age.
+
+And at the time of Brittany, the peasants, the herders, and the craftsmen, they planted their land, cattle, graves, and stones.
+
+## Astronomy
+
+The formation of the Stonehenge may be related to the astronomical.
+
+Some stone points to the sunrise, some towards the moon setting, but the ranking is not a precise calendar, more like a symbol.
+
+## Protection
+
+Stoneflies are threatened by tourists, moss and wind and rain.
+
+Protectors restricted access, cleared vegetation and recorded the movement of stones.
+
+## Village
+
+There are villages and farmlands around the Stoneflies.
+
+Villagers grow land, raise cattle, travel. Stonehenge is their landmark and their income.
+
+## Museums
+
+Kanak has a museum.
+
+It's about the age, use and construction methods of Stonehenge. The museum has models, photographs and tools.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the stones themselves, the dating, and the hypotheses about their purpose; the stories of Saint Cornely and Merlin are later legends, not archaeological conclusions.

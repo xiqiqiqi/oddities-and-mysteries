@@ -68,6 +68,38 @@ It is not a completely unsolved mystery either. There was a powder depot, an off
 
 What unsettles people are the details in the records: the clothes, the trees, the stone lions, the strange cloud. They are like footnotes that refuse to stay in order. Even when the cause is broadly known, a disaster always leaves something that will not fit neatly into the file.
 
+## Gunpowder
+
+Wang Kyu factory is the powder depot of the Ming Dai Ministry.
+
+The main components of Ming Fuen Fueze are nitro, sulphur and charcoal. The formula varies in its scale and power. The powder is prone to tide, heat, and self-fire during storage, transportation and manufacture. There were several explosions in Mingdyna Beijing, and Wang Kyu factory was not the first time.
+
+But Wang Kyu's factory is large. It supplies the camps and the city, and there are no fewer stocks. The explosion occurred in the morning, and the city was active, and the casualties were particularly heavy.
+
+## Equivalence
+
+Modern researchers try to estimate the power of the explosion.
+
+Some say it is thousands of tons of TNT, some say even less. The difficulty of estimating is that there are no reliable numbers of stocks, that the quality of the gunpowder is unclear, and that the conditions of the explosion are not known. Wang Kyu’s factory is in town, surrounded by houses, walls, and streets, and that the explosion is reflective, stacked, and the damage is much more difficult to calculate than in the open ground.
+
+Without these data, “equivalent” can only be a range and not an exact value.
+
+## Scripts
+
+The records of Wang Kyu's factory are mainly from the newspaper, the concerts and personal notes.
+
+These materials have different purposes. Officials report disasters, hold them accountable, cavalry record differences, express political criticism, civil society spread stories, explain fears. Each record chooses the details that they care about.
+
+The details of "the clothes are blown away" and "the lions fly away" and "the lingsong clouds" are the first to appear, and it is difficult to find out. They may come from the scene, or they may come from reprinting and exaggeration. The historians can do this by putting together different sources, pointing out the various versions of what they say.
+
+## Conclusions
+
+The core fact of the explosion at Wang Kyu factory is clear: a gunpowder depot in Beijing City exploded, causing a large number of casualties.
+
+The details are still controversial: how much stocks, how much equivalent, why the scale of the destruction is so widespread, how the strange things are explained. The controversy is not inexplicable, but it is simply an indication that the scene of a historical disaster always leaves something that cannot be filed in a coherent way.
+
+Consider it an alien explosion, not an explanation, but an escape. The real difficulty is to face an incomplete file.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. Modern explanations of the cause are disputed; this article separates official records, contemporary rumors, and later speculation.

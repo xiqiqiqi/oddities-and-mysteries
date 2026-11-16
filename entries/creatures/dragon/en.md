@@ -72,6 +72,48 @@ In recent years some people have proposed translating the Chinese dragon as “l
 
 *Original schematic: the features of the Chinese dragon and the Western dragon compared. Not a photograph of an object. Oddity Archive, CC BY-SA 4.0.*
 
+## The word dragon
+
+The word “dragon” in Chinese and “dragon” in English are not the same word.
+
+Dragons appear early in the Chinese literature, in Oracle. Their image is spelled: snakes, horns, scales, eagle claws, flying, diving, and becoming smaller. It is not a fixed animal, but a combination of characteristics.
+
+The “dragon” comes from Greek language, drakon, which means “snake” or “guardian”. In Greek mythology, dragons often hold treasures or springs; in the Bible, dragons are the symbol of Satan. Its image is changing, but in different directions: Western dragons are increasingly like lizards, and they increasingly emphasize wings and fire.
+
+## The Dragon King and the Rain
+
+The most common job of the Chinese dragon is the management rain.
+
+Agriculture requires rain, rain requires God. The temples are spread in almost every agricultural district, the king has jurisdiction, temples, and birthdays. In a dry time, people carry the king to the streets, begging for rain, and in a flood, people ask him to stop the rain.
+
+Dragons are bound to the throne. Emperors wear dragon robes and chairs, naming palaces and year numbers with dragons. Dragons are images of power: it does not belong to a single person, but only one person can wear them.
+
+## The enemy of the Western Dragon
+
+The most common role of Western dragons is the enemy.
+
+It holds gold, takes princesses, and burns villages. Heroes kill dragons as a way of proving themselves. St. George's dragons became the guardian story of England; the dragons in Beowulf were killed with the lead; and the North's Fafnir, was a man because he was a dragon.
+
+In these stories, dragons represent what needs to be defeated: heresy, greed, chaos, old world. Dragon killers, order.
+
+## Fossils and dinosaurs
+
+The "deleton bone" is a meth.
+
+It's actually fossils, many of the bones of ancient mammals, and some of them dinosaurs. In the nineteenth century, ancient western biologists discovered dinosaur fossils in China, and locals have called these huge bones "done bones."
+
+This is not to say that the ancients have seen dragons. It shows that people dig deep in the ground and call them names that they know well. Dragons are a ready explanation.
+
+In 1842, the British anatomist Richard Owen named this type of fossil animal “Dinosauria”, meaning “the terrible lizard”. The name has nothing to do with the dragon, but it has the same fear: huge, missing, nothing but bones.
+
+The image of dragons is intercultural, not because it really exists, but because it can fill things up. The Chinese put rain and royal power in, the Europeans put infidelism and greed in, the modern people put fear and surprise in. An empty container works better than a real animal.
+
+Today, dragons are still in two directions. It's one of the 12-year-old Shores and Boss in the game; it's both the god in the temple and the role of the children in the book. It's not out of science, because it's never in science.
+
+## Supplementary Notes
+
+If dragons are treated as a cultural symbol, not as an animalist, many contradictions disappear. Chinese dragons can control the rain, or they can symbolize the Emperor; Western dragons can guard the treasure, or they can represent the devil. They do not need to share the same body, but they need to share the same place: at the very edge of human imagination.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the Chinese dragon, the Western dragon, fossils and real animals; dragons are mythical creatures with no biological evidence, and “dragon bones” are fossils, not the remains of dragons. The illustration is a scene reconstruction, not a photograph of an object.

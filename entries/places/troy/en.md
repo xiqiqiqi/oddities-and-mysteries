@@ -60,6 +60,78 @@ In 2018, the Troy Museum opened near the site, displaying pottery, bronze object
 
 Nine cities are stacked on top of one another: a Roman theatre at the top, a small Bronze Age citadel at the bottom. One mound holds three thousand years of war, trade, and daily life.
 
+## Earth mound
+
+Trojan site, Hisarlik, north-west Turkey.
+
+It's a earth mound, tens of metres high, and there are nine layers of cities underneath. Each layer is different from the early Bronze to the Roman era. The earliest conglomerates were about 3,000 years B.C.
+
+The earth mounds are formed because people build, demolish, rebuild, and repeat themselves in the same place. The ruins of each generation form the foundation of the next generation.
+
+## Schriman
+
+In the nineteenth century, the German businessman Heinrich Schriman believed that Homer's epics were true.
+
+He came to Hessalik and began digging. He dug through several layers and found walls, gold and pottery. He announced that he had found the treasure of Priamous.
+
+His excavation methods were rough. He destroyed the top layer in order to find the Homer-era Troy. Much of the information was destroyed in the excavation.
+
+## Nine floors
+
+Archaeologists have since re-assembled the layers.
+
+Troy I to IX, which represents nine major periods. Troy VI and VII, which could be Troy from Homer Schill. Troy VII has a clear layer of destruction, possibly left by war or earthquake.
+
+There is no doubt that the “Troy War” really happened. There was damage to sites, walls, towers, but there was no written record of that war.
+
+## Homer
+
+Homer Sage, Iliat, wrote the story of the tenth anniversary of the Trojan War.
+
+It's not a historical record, it's a poem. It mixes gods, heroes and wars, people with names, character and destiny. It's been running for thousands of years, and it's one of the sources of Western literature.
+
+Schrimann believed in Homer, archaeologists. Later on, between the two: the sites were real, the wars might be real, but the epics were not news.
+
+## Treasure
+
+The “Puriamos Treasure” found by Shreman included gold, silver, copper and jewellery.
+
+He took the treasure to Berlin, where he disappeared in World War II. Some say it was taken away by the Soviet army, others say it was destroyed. Today, some of the artifacts were displayed at the Pushkin Museum in Moscow.
+
+The treasure was hundreds of years before the war in Troy. It wasn't Priamous, it was some earlier ruler.
+
+## Now
+
+Troy is the UNESCO World Heritage Site.
+
+Visitors can see walls, theatres, and Roman-era buildings.
+
+A mound, a nine-storey city, an epic. They folded together and became "Troy."
+
+## Layer
+
+Troy's layer, like a book.
+
+Each layer has buildings, pottery and tools. Archaeologists judge the years by the shape of pottery. The deeper the layer, the earlier it is.
+
+## Museums
+
+The Trojan Museum, near the site.
+
+It displays pottery, bronze, stone and gold.
+
+## Tourism
+
+Troy is a tourist destination in Turkey.
+
+Visitors can see walls, theatres and Roman buildings.
+
+## War
+
+The truth of the war in Troy remains controversial.
+
+The sites have destruction layers, walls, towers. There are no transcripts, no weapons inscriptions. Wars can be real or a story.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the layers, Schliemann's excavation, Homer's epics, and the treasure's later history; whether Troy VIIa is Homer's Troy remains a scholarly debate, and there is no archaeological evidence for the wooden horse.

@@ -88,6 +88,62 @@ One stone became a symbol of the state because one man kept insisting there was 
 
 *Original schematic: Bian He's presentation of the jade, the return of the jade to Zhao, and the later legend of the imperial seal. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
 
+## Takiyama
+
+And the tales of the clans, beginning with the mountains of Chu.
+
+And he was given a piece of puppies in the mountains for the King of Chu. The Jade worker said it was a stone, and the King cut off the left foot of the puppies. And the ping and his contribution were to the King of Chu Wu, the Jade worker still called it a stone, and the Wu took his right foot off.
+
+## Man-king
+
+When the king of Chu Wen took office, he cried with his jade in his arms.
+
+He asked him, "I am not crying for my feet, I am crying for the stone." The King of Man, who had been cut open and given a piece of beauty, was named "and a stony".
+
+## Zhao
+
+And Cao Ciao arrived in Zhao.
+
+King Qin has heard of the offer to exchange 15 cities for the throne. He dares not to reject it, but is afraid to be deceived. If he takes him to Qin, he will return him to Zhao.
+
+## I'll return to Zhao
+
+The word “finished to Zhao” comes from this.
+
+The same courage and wisdom allowed him to return to Zhao. But the truth of the story is disputed by historians. It may be a diplomatic story, not necessarily one.
+
+## Pass the seal
+
+It was said that the Emperor of Qin was later made the seal of the kingdom.
+
+The seal was written on it, "It was ordered to live forever." After the death of Qin, the seal was passed on to Han, Wei, Jin, Tang. Tang Mau, the seal is missing.
+
+The chain is long, and there are many legends in the middle. None of it can be proved physically and the sculptor is the Seal of State.
+
+## Kim Mo-yu
+
+Today's Golden Jade is often traced back to the stupendous.
+
+In fact, golden Jade is a process, not an object. It's traditional Chinese decorative to put gold wires or gold chips on it.
+
+## Missing
+
+And no one knows where he is.
+
+It could be destroyed, buried, renamed. It left stories, not objects.
+
+A piece of jade, to lose a man's feet, to have two countries negotiate, to have one word spread. That's what it's worth.
+
+## Jade
+
+And the stupor is not jade, and there's controversy.
+
+Some say it's a roller stone, some say it's a pinestone, some say it's a pinestone. No physicals, no identification.
+
+"Photo" is a rounded tadpole, with holes in the middle. And puppies may be a piece of pastry, not a finished product.
+
+A stone, cut into a story, cut into a story. Its material is not known to anyone.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the Han Feizi story of the presentation, the Records of the Grand Historian account of the return to Zhao, and the later legend of the imperial seal; the He Shi Bi itself has not survived, and the claim that the seal was made from it is a widespread tradition, not something stated clearly in the earliest sources. The illustration is a scene reconstruction, not a photograph of the object.

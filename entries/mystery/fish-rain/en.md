@@ -62,6 +62,46 @@ Fish rain is uncommon, but it is a reminder that the atmosphere and water can mo
 
 If you see a fish on the ground after a storm, do not rush to invent a story. Take a photo, note the place and time, and check whether there were waterspout reports nearby. It may really have fallen from the sky.
 
+## After the rain stopped,
+
+Fish rain is a phenomenon that sounds like fairy tales: fish appear on the ground after the rains.
+
+In the department of Yoro, Honduras, there is a legend that fish fall from the sky every spring. The locals take the buckets and the fish are alive. The legend is written in the travel manual and on television.
+
+In 2010, another fish rain was reported in the Rajamanu area.
+
+## A water roll
+
+The most likely mechanism for fish rain is the water roll.
+
+A water tornado is a vortex formed by a tornado. It sucks water, fish, mud and groceries together in the air, and then falls away as the wind moves. The fish weighs more than water, but when the vortex rises, it can take the little fish with it.
+
+When they fall, the fish may be dead or alive. If the water rolls pass through the shallow zone, the fish are more likely to be rolled up.
+
+## Why isn't all the fish rain trusted?
+
+There are many stories of fish rain, few credible stories.
+
+Some of them are scams: people put fish on the ground, take pictures, say they fall from the sky. Some of them are misperceptions: floods flush fish on the shore, or birds throw fish on the ground. Others are rumours: one hears another say that the place and time have changed.
+
+For a fish rain to be confirmed, it takes scenes, photographs, witnesses, species of fish and weather records.
+
+## Animal rain
+
+Fish are not the only animals that fall from the sky.
+
+Frogs, crabs, birds, even rats, have been reported to be “falling from the sky.” The mechanisms are usually associated with the transport of water tornadoes, strong winds, birds. Frogs, like fish, live in shallow waters and are easily rolled up.
+
+Animal Rain sounds supernatural, but it's a coincidence of weather and geography. A water roll through a fish pond, bringing fish a few kilometres away, becomes a fish rain.
+
+## Supplementary Notes
+
+The story of the fish rain has become a tourist brand in Honduras. Every year, there is a fish festival, a pattern of fish selling in shops, and guides talking about fish in the sky. A meteorological phenomenon, finally becomes a local identity card. Truth is no longer the only problem, the story itself becomes a resource.
+
+## Location of the archives
+
+Fish rain is a " weather anomaly" file. It has a physical mechanism and a bunch of unverifiable rumors. The file retains both: the water rolls can bring fish to the sky, but most fish rain stories lack evidence on the ground. A true phenomenon does not mean that every story is true.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The mechanism of fish rain is broadly understood, but individual cases vary in credibility; this article separates verified phenomena, local legend, and unconfirmed reports.

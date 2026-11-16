@@ -80,6 +80,66 @@ The volcano is still there. The Santorini caldera is active, and its last erupti
 
 *Original schematic: the layout of the streets, the positions of the frescoes and the ash layers. Not a survey drawing. Oddity Archive, CC BY-SA 4.0.*
 
+## Santorini
+
+Akrotiri, on the Greek island of Santorini.
+
+Santorini is a volcanic island shaped like a month of teeth. There are white villages, black beaches and bluetop churches.
+
+## 1967
+
+In 1967, the archaeologist Spirizon Marinatos began digging in Akrotiri.
+
+He found a bronze-era town, buried in ash. The town was well preserved, with streets, houses, murals and pottery.
+
+## Street
+
+Town streets, stoned.
+
+There are two floors, with windows, doors and storage rooms.
+
+## Fresco
+
+Akrotiri's mural. It's famous.
+
+There are fishermen, fleets, women, monkeys and landscapes. They're colorful, they're loose lines. They're not decorations, they're important works of Minos culture.
+
+## Spray
+
+Montaline Volcano, erupting around 1600 B.C.
+
+The eruption destroyed the islands and could affect civilization in the eastern Mediterranean. Akrotiri was buried in ash, like Pompey.
+
+## Nobody
+
+Akrotiri found no body.
+
+Residents may have left before the eruption. They took valuables and left furniture and murals behind.
+
+## Atlantis
+
+Someone linked Akrotiri to Atlantis.
+
+Plato describes Atlantis as a sea-island civilization destroyed by earthquakes and floods. The eruptions in Santorini are similar to the description.
+
+But Atlantis is a philosophical fable, not an archaeological site. Akrotiri is a real town.
+
+## Protection
+
+Akrotiri's site, protected by roofs.
+
+The roof reduces the rain and sunlight and prevents the murals from faded. Some areas are closed because of structural instability.
+
+## Tourism
+
+Akrotiri is a tourist destination in Santorini.
+
+Visitors can see streets, houses, and murals.
+
+A town buried in volcanic ash lay there quietly.
+
+The ash of the volcano buried the town and saved it. Time stopped here.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the town, the frescoes, the eruption and the absence of human remains; the date of the eruption is still debated, and there is no archaeological evidence linking Akrotiri to Atlantis. The illustration is a scene reconstruction, not a photograph of the site.

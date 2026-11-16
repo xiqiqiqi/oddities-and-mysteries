@@ -72,6 +72,48 @@ The lake is still there. So are the boats.
 
 *Original schematic: the newspaper record from the 1860s to 2005, the descriptions and the lake sturgeon comparison. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
+## Lakes and archives
+
+Lake Simko is located north of Toronto, approximately 722 square kilometres.
+
+The lake isn't deep, it's full of boats in summer. The north bank is Ken Penfeldt Bay and the east bank is cornered by Jackson. The water is dark, the wind is short. It's a place where it's hard to hide large animals, and it's a place where it's easy to see things wrong.
+
+The records of the Simko County Archives say that Lake Monster's sights date back at least to the 1860s. The newspaper describes something like that: a dark, snake-like thing, 6 to 15 metres long, moving with water.
+
+## Title, 1963
+
+July 1963, around Cape Jackson.
+
+Neil Latanga, a resident of Bradford, was on board with his family and saw something in the water. The newspaper Barry Watcher, July 24, entitled "Igobogo's got a bad face."
+
+On different shores, it has other names: Kenpenfeldt Kelly, Bifferton Bassi. The more names, the more stories are a local community, not a zoology problem.
+
+## Camel Peak
+
+The most common description is grey, seal-like body, dog-like head, as thick as a fireplace chimney.
+
+In 1979, a woman saw a giant hump moving towards the shore in the water near Willow Beach. In 1991, a video was taken, which was vague and impossible to confirm. In 2005, Achi Brown, a retired local businessman, said he had seen four times, ten feet long, deep gray, dog head.
+
+## The shoal
+
+The Simko County Archives themselves gave the simplest explanation: the lake stubble.
+
+And a two-metre-long shoal, carrying its back over the water, and looking away, can indeed be like a sea snake. And the otter, wood, waves, tired eyes, can fill the rest.
+
+Igor Bogo's name was created in the twentieth century. The story of the Lake Monster is older. The lake is wide enough to put down something that has no answer.
+
+Igopogo didn't turn Lake Simco into Lake Nice. It just gave the local newspaper an extra topic that could be written over and over again. In summer, the boat was so many; in winter, the lake was frozen, and the story sank under the ice, waiting for the next man to see the hump.
+
+The summer of Lake Simco was noisy. Motorboats, fishing boats, shore music cut the lake apart. That's why Igor Bogo needed an old newspaper to prove that he had been quiet.
+
+## Supplementary Notes
+
+Igor Bogo's name came from the newspaper and lived in the newspaper. It did not become an international monster, but it became local knowledge of Lake Simco: the boatman knew which part of the water was the easiest to see, and the hotel owner knew how to speak to the guests. An animal that had not been confirmed had just entered the daily language.
+
+Igopogo's witness, mostly in Lake Simco. Witnesses say it's like a long snake, throwing up its body on the surface. The lake sorghum and driftwood are the most common explanations. Igorpogo's name may come from a joke called “I go, I go.” No one can be sure.
+
+Igopogo's sight, mostly in summer. Campers at the lake say it's floating out of the water at dusk. The lake can be seen as a long snake.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the newspaper record, the witnesses' descriptions and explanations such as the sturgeon; no specimen or clear photograph confirms the creature. The illustration is a scene reconstruction, not a photograph of the site.

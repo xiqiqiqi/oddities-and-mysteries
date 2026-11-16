@@ -60,6 +60,102 @@ There is no reliable basis for these claims. The so-called vitrification is slag
 
 The real threat is natural. Rising groundwater, salt crystallisation, and floods have been eroding the mud brick for decades. In 1980 Mohenjo-daro became a World Heritage Site, and conservation work has not stopped since.
 
+## The hill of the dead
+
+Mohenzo-Daro, in Sindh province, Pakistan.
+
+It's called the "Death's Hill." It's a big site, with streets, houses, temples and baths.
+
+## Grid
+
+The city is in grid layout.
+
+The streets are straight, cross-cracked. Houses are brickd and have drainage systems. Some houses have two floors and others have a courtyard.
+
+## Big bath
+
+In the middle of the city, there's a big bath.
+
+The bath is brickd and waterproof. It has steps, drains and columns. It may be used for rituals, bathing or purification.
+
+## Who cares?
+
+Morhenzo-Daro belongs to the Indus basin civilization.
+
+It has no clear palace or temple. Some say the city is run by merchants or priests; others say it is an equal society.
+
+## Disappear
+
+The city fell around 1900 B.C.
+
+Some say the river is rerouted; others say climate change; others say invasion; the cause is inconclusive.
+
+## The legend of a nuclear bomb
+
+Some have associated Morhenzo-Daro with “ancient nuclear explosions”.
+
+They say that the site has glassed stones, radiation and bodies. There is no scientific evidence for these claims. The damage to the site comes from weather, flooding and salinization.
+
+## Now
+
+Morhenzo-Daro is the UNESCO World Heritage Site.
+
+Sites are threatened by saline, flooding and tourists.
+
+## Urban
+
+A city 5,000 years ago.
+
+It has streets, drains and baths, but it does not leave a name.
+
+## The Indus
+
+Morhenzo-Daro belongs to the Indus basin civilization.
+
+Together with the cities of Xalapa, Dolavila and others, it constitutes a vast network of civilizations.
+
+## Brick
+
+The city is made of bricks.
+
+The bricks are burned and the sizes are uniform. Houses, walls, drains, all use the same bricks.
+
+## Drainage
+
+Cities have drainage systems.
+
+The streets have drains and houses have sewers.
+
+## Protection
+
+Sites are threatened by salt, floods and tourists.
+
+Protectors build drains, reinforce walls and restrict access.
+
+## Bathhouse
+
+Big bath, the city's most famous building.
+
+It is made of bricks, waterproof. There are steps, drains and columns.
+
+## Seals
+
+Morhenzo-Daro, a lot of stamps.
+
+The seal contains animals, characters and symbols. Text is not read.
+
+## Museums
+
+Near the site, there's a museum.
+
+It's about cities, trade and crafts in the Indus River basin.
+
+A city without names, without kings, but bricks, streets and drains. It proves that civilization does not necessarily have monuments.
+
+Morhenzo-Daro did not leave the name of the king, nor the name of the temple. It left behind the city itself: streets, bricks, baths and drains. That is enough.
+
+A city without a name can also leave a long shadow.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the city layout, the Great Bath, the political structure, the abandonment, and the “nuclear explosion” legend; the Indus script remains undeciphered, and the causes of the city's decline are still debated.

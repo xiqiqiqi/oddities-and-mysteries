@@ -66,6 +66,70 @@ It is a white domed building with a dark interior, where the Great Isaiah Scroll
 
 They did not overturn the Bible or solve every mystery. What they did was put the people who copied, read, and hid these texts two thousand years ago back into history.
 
+## The shepherd
+
+In 1947, a Bedouin shepherd discovered a scroll in a cave near the Dead Sea.
+
+He thought it was leather, and then took some pieces to the shoemaker in Bethlehem. The shoemaker found words on them and the news reached the scholars.
+
+## Caves
+
+The team found more scrolls and fragments in 11 caves near Qumran.
+
+Some caves are shallow, some are on cliffs. The scrolls are packed in pottery cans, and the cans are sealed with caps. The caves are dry and the scrolls are preserved.
+
+## Contents
+
+The scrolls include Bible texts, notes, laws, poetry and community rules.
+
+The most famous are the Saiyan Books, which are seven metres long, which preserve their integrity. And the Community Rules, War Book, Thanksgiving poems. They are not the same author, nor are they the same book.
+
+## Who wrote it?
+
+Residents of Qumran, probably Essenes.
+
+They are a Jewish community, living near the Dead Sea, living as a group. Some say that the scrolls are their library; others say that they are left behind by fleeing Jews.
+
+## Fake
+
+The scroll market has a lot of fakes.
+
+Some fragments are later written and are faked with old leather. Museums and collectors are misled.
+
+## Now
+
+The scrolls were displayed in Israeli museums and in Jordanian museums.
+
+They're digitized, and they can be viewed online. Debris is combined, translated, studied.
+
+The Dead Sea scrolls show us that Bible texts are not one-time in shape, but are changing in circulation.
+
+## Text
+
+There is a difference between the Bible text in the scrolls and the later Masora text.
+
+These differences show the researchers how the Bible text is changing in circulation. It's not written once, it's copied, modified and edited.
+
+## Community
+
+The life of the Qumran community is written in the Community Rules.
+
+The rules include membership, diet, prayer, property and punishment. It is a strict religious group, not a common village.
+
+## Numbers
+
+The scrolls are digitized and open to the public.
+
+Researchers can view high-resolution images online, without going to museums. Digitalization makes debris easier to collide, and allows more people to participate in research.
+
+## Summing up
+
+Dead Sea scrolls, not a book.
+
+It's a collection of books, fragments and community records. They come from different authors, from different ages.
+
+The scrolls show us that Bible texts are changing in circulation. It's not a fixed version, it's a process.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, the caves and manuscripts, the question of authorship, and the forgery problem; the relationship between the Qumran site and the scrolls is still debated, and fragments surfacing after 2002 should be treated with caution.

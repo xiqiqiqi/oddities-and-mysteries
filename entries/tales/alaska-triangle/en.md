@@ -66,6 +66,112 @@ But the real ledger has 1,334 names. They did not disappear inside a triangle. T
 
 *Original schematic: the triangle, the 1972 Cessna 310 route and the missing-person statistics. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
 
+## Geography
+
+Alaska Triangle is not an official geographical name.
+
+It usually refers to a region in south-east Alaska: the triangle between Ancrechi, Juno and Utchavik. It's large, it's complex, it's glaciers, forests, mountains and coasts.
+
+## Weather
+
+Alaska's weather, changing fast.
+
+The wind, snow, fog, and low temperatures can drive the aircraft out of direction. Small aircraft fly in mountainous areas, encounter a reduced flow of air and visibility, and are at high risk.
+
+Alaska's winter, long.
+
+Low temperatures, wind, snow. Pilots need experience, equipment and luck.
+
+## Aircraft
+
+Alaska's got a lot of planes.
+
+Many villages have no roads and are transported by air.
+
+Alaska's small planes, many of them on water.
+
+They rise and fall from villages without runways, by lakes and by the coasts. As soon as the weather changes, the flight is dangerous.
+
+## Missing
+
+Missing planes, usually hard to find.
+
+The terrain is big, the forest is dense, the snow is deep. It takes days or weeks for rescue teams to reach a possible crash site. Some planes are discovered decades later.
+
+## Twenty thousand
+
+The figure of “20,000 missing” has no reliable sources.
+
+It brings together the missing persons of different ages, different causes, different places. Alaska has a very small population, 20,000 being a large number.
+
+## Name
+
+The name "triangular" was used in the media.
+
+It mimics the Bermuda Triangle, tying a section and a number together. The bigger the name, the bigger the story.
+
+## Statistics
+
+The rate of disappearance in Alaska is indeed higher than the average in the United States.
+
+The reason is that the environment, transport and population distribution are not “supernatural”. People in remote areas are more likely to get lost, hurt or die in the wild.
+
+The number of missing persons in Alaska is not as high as “20,000”.
+
+There are dozens to hundreds of reports of disappearances every year. Most are found, a few are not.
+
+## The story
+
+The Alaska Triangle story is about the wilderness.
+
+The wilderness is big, the people are small. A plane disappears, probably covered by the forest and snow.
+
+Alaska triangle, not supernatural.
+
+It is a story of wilderness, transportation and risk.
+
+## Anecret
+
+Andrech is the largest city in Alaska.
+
+It is a traffic hub, with airports, ports and roads. Many small aircraft take off from there and fly to villages, mines and fishing grounds.
+
+## Juno
+
+Juno is the capital of Alaska.
+
+There are no roads connecting to other cities on the islands in the south-east.
+
+## Utchavik
+
+Utchavik, north coast of Alaska.
+
+It's the northernmost city in the United States, by whaling and oil. It's a long winter and the sun hasn't come out.
+
+## Search and rescue
+
+The search and rescue team in Alaska consists of the National Guard, the police, volunteers and hunters.
+
+They know the terrain and can fly small planes, snow trucks and boats. But the area is too big, the weather is too bad, search and rescue often fail.
+
+Search and rescue teams, volunteers and hunters.
+
+They know the terrain, they drive snowmobiles and boats. But it's too big, too bad weather.
+
+## Village
+
+The village of Alaska is scattered.
+
+Some villages have no roads, no hospitals, no shops.
+
+## Memory
+
+The number of missing persons in Alaska has been magnified by the media.
+
+The real problem is not “triangulation”, but transportation and weather in remote areas.
+
+Every missing person has a specific story. It's more important than numbers.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1972 case, the triangle legend, the official statistics and the ordinary explanations; the claim of twenty thousand disappearances is not supported by the data. The illustration is a scene reconstruction, not a photograph of a site.

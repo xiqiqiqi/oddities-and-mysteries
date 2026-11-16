@@ -62,6 +62,44 @@ The yeti still appears in books, films, and tourism advertising. Himalayan villa
 
 The 2017 DNA results did not make the story disappear. They moved it from “unknown primate” back to “bears we know”. In the mountains, a brown bear standing upright, seen at a hundred metres, can indeed look like a tall dark figure.
 
+## Name
+
+The name Snowman is from the language of the Himalayan.
+
+## The remains of the temple
+
+The snowman's evidence comes mainly from testimonies and “relicts” in the temple.
+
+Some temples have so-called yeti scalps, “scalps” and hair. Pilgrims and climbers will show them to visitors, saying it was inherited from their ancestors.
+
+In 1960, Edmund Hillary's team brought back one of the “heads” which was later identified as coming from a bear. This conclusion does not render the remains of the temple meaningless; they are still religious objects, but not the bodies of the snowmen.
+
+## Bear
+
+In 2017, an international team tested nine samples allegedly from snowmen.
+
+## Stand up
+
+How tall can a brown bear stand up?
+
+The Himalayan brown bear can stand at more than two metres. It walks in the snow, its footprints are enlarged by snow; it stands up in the distance, and it is shaped like a tall man with a shoulder. It can easily become a snowman, a hundred metres apart, a layer of fog and a bunch of legends.
+
+Today, no museum has a sample of snowmen. Snowmen are still in books, movies, and tourist ads. DNA in 2017 didn't make the story disappear, it just pushed the story back from "unknown primates" to "the bears we know."
+
+The snowman didn't disappear, just changed his position. It returned the legends and the travel manuals from the animal studies list. The mountains are still there, the bears are there, and the story is about what's going on.
+
+The story of the snowman has not ended, but has become quiet. It no longer occupies the front page of the newspaper, but it is still in the intercom of the climbers and in the teahouse. The mountains are large enough to allow for a name that has not been confirmed.
+
+The snowman's Tibetan name is "migoi," which means "breed." The Sherpa think of it as a real, but rare, creature. In 1951, British climber Eric Shipton took a giant footprint near Everest. The picture was later interpreted as a bear or a bear or leopard trail. In 2013, the researchers analysed the DNA of snowman samples. Results: Bears and dogs.
+
+The snowman's story was popular in the West, beginning in 1951. In that year, the climber Eric Shipton took a big footprint on Menlung glacier. The photo was published in the newspaper, and the snowman became the mystery of Everest. The Sherpas didn't like the term, they had their own names and rules.
+
+The snowman's footprints, which were later proved to be bears, were not stopped. Every year, people go to Everest to find footprints.
+
+The snowman's story was also filmed. Footprints and hair were studied in the documentary. The study was inconclusive.
+
+The study is inconclusive. The footprints are still there.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the local tradition, the expedition record, the footprint evidence, and the DNA findings; there is no yeti specimen, and the 2017 results support the explanation that the samples came from bears.

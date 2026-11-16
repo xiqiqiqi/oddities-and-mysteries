@@ -66,6 +66,52 @@ On a spectrogram, it is a clean downhill line. You do not need to hear it to see
 
 Sounds have shapes. We usually listen with our ears, not our eyes.
 
+## A slash
+
+There is a slant down to the right on the “Slow Down” spectrum map.
+
+The frequency of sound is slowly decreasing in seven minutes, like a man blowing his whistle from a high to a low. The researchers call this line a “reduce” and notice that it changes smoothly and does not jump suddenly.
+
+In the case of mechanical failure, the frequency is usually shaking; in the case of animals, the frequency changes with breathing and movement. A smooth drop is more like a physical process: a bubble is shrinking, an ice is breaking, or a water formation is changing its shape.
+
+## After 1997
+
+The words “Slow Down” and “Whistle” are often taken together because they are from the same 1997 records, both low-frequency and uncategorized.
+
+But their fates are different. The name "Slow Down" is more dramatic and more widespread. Its version on the Internet is set with low sounds, waves and subtitles, sounds like a giant animal.
+
+The original data is not so dramatic. It's just a spectrum, a line, a few parameters. The name is later, and the story is later.
+
+## Whale and Ice
+
+The most conservative explanation still points to ice tremors or cetaceans.
+
+The icebergs in the South Pacific break, and the sound that comes out of the breakup can spread far away. Large cetaceans also make low-frequency noises, some of which change slowly. Both can leave slants on spectrum maps.
+
+But “most secure” is not the same as “verified”. No video, no satellite imagery at the same time, no triangulation of the second independent array, and only one sequence of possibilities by researchers.
+
+## The weight of the name
+
+The name “Slow Down” was remembered earlier than the data.
+
+A name changes the expectations of listeners. If it's called the South Pacific low-frequency event 1997-3, very few people will click on it; if it's the "Slow Down," people will imagine a huge thing slowing down at the bottom of the ocean.
+
+This is the second layer of sound transmission: first, there is an unexplained signal, then there is a good name, and finally there is a much bigger story than a signal.
+
+## Supplementary Notes
+
+The dissemination of the “Slow Down” also reveals a common problem: researchers write “maybe ice-shocks”, the transmitter reads “unexplainable”, and listeners remember “Beasts of the sea”. After the three levels of restatement, a statistical anomaly becomes a monster. It is not the fault of the researchers, nor of the listeners, but the language itself that grows up in the spread.
+
+## Location of the archives
+
+Snow Down and Whittle are often listed together, because they both came from 1997, with low frequency and no answer. But the slow Down drop curve is more complete and lasting seven minutes, enough for researchers to rule out a short explosion. It's more like a process than an object. That's where it's attractive: a process can have many explanations, and an object can only have one identity.
+
+## Memory
+
+Slow Down's seven minutes, just enough for one person to sit and listen. It's not as short as an explosion, and it's not like a whale song. It's a line that keeps changing, and it sounds like something's slowly leaving. People understand that change as a movement, and they understand it as a life. This is the instinct of hearing, and it is the beginning of a story.
+
+This recording doesn't appear again. It's like a half-written line, parked in the 1997 database, waiting for a confirmation that won't come.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The icequake explanation for Slow Down is supported by research; this article separates the recording, the spectral features, and the later identification.

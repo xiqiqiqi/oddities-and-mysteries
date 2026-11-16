@@ -68,6 +68,108 @@ It has become a case study in media history: a blurry image and a big story can 
 
 The alien was made of latex. It lay on a table, was cut open, and was filmed. It never lived, but it became more famous than many real things.
 
+## 1995
+
+In 1995, a black and white video appeared on television.
+
+In the video, an alien was lying on the operating table, and the doctor was dissecting it. The picture was rough, like an old movie.
+
+## Santiri
+
+The video was distributed by Ray Santilli.
+
+He said that the video was taken by the military from the Ruswell incident in 1947.
+
+## Fox
+
+Fox Network, this video was broadcast.
+
+It's called "The Anatomy of Aliens: Facts or Fakes? " . High ratings.
+
+## Broken
+
+There's a lot of cracks in the video.
+
+The surgical device is modern, the anatomists act like actors, and the alien body looks like plastic.
+
+## 2006
+
+In 2006, Santiri acknowledged that the video was reconstructed.
+
+He said that the original film was damaged and he asked someone to re-shoot it. He continued to say that the original film was true.
+
+## Now
+
+The term “anatomy of aliens” became a noun for the scheme.
+
+It states that television can produce “evidence”.
+
+"The anatomy of aliens" became a noun for a scam.
+
+It states that television can produce “evidence”.
+
+## Roswell
+
+In 1947, there was a “flying disk crash” in Roswell, New Mexico, United States.
+
+The military says it's a weather balloon. Civilians say it's an alien ship.
+
+## Video
+
+The 1995 video said it was an alien autopsy of Roswell.
+
+It's black and white, rough, like old movies.
+
+## Television
+
+Fox TV webcasts the video.
+
+It's a very high-visibility show. A lot of people believe that it's true.
+
+After Fox was aired, the video became popular.
+
+TV stations, newspapers, magazines are all talking about it. Nobody asks who took the video.
+
+## Liar
+
+The video is a lot broken.
+
+The surgical device is modern, the alien's body looks like plastic. In 2006, Santiri admitted that the video was reconstructed.
+
+## Supplementary Notes
+
+"The Anatomy of Aliens," is a television-era scam.
+
+It created a “evidence” with video footage, lights and expert faces.
+
+The audience believes because they want to believe.
+
+## Impact
+
+"The anatomy of aliens" became a noun for a scam.
+
+It suggests that television can create “evidence” or “truth”.
+
+## Last
+
+The video is about 17 minutes. The alien in the picture is like plastic, the eye is like glass. The anatomist's movements are like acting. These details are analysed by frame.
+
+Santilly said the original film was real, but he couldn't get it out. The audience remembered the picture, not the statement.
+
+The video can be re-recorded, the statement can be modified. The only thing that can't be modified is the memory of the audience.
+
+Santiri was a special effects artist. He admitted that the alien body was made of him. The room in the video was an apartment in London.
+
+The copyright of the video was sold to the television station. It was cut in different versions and played around the world. The alien in the video had four fingers. The details were discussed by the sci-fi. Santilli said he looked at the pattern in the film.
+
+Santiri later made a sequel. The audience no longer believed it.
+
+The first episode of the video, which is still online, has a lower ratings than the first.
+
+The tape has turned yellow and the sound has been lost.
+
+The controversy over the video has not stopped.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the contents of the film, Santilli's claims, the flaws, and the admission; the 1995 footage was admitted by its distributor to be a reconstruction, and the alleged “original film” has never been independently verified.

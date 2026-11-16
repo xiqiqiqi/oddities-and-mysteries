@@ -74,6 +74,52 @@ Visitors can drive to the area on designated roads, but they must not drive onto
 
 The stones are still there. Most of the time they do not move. In the right few days of winter, they travel a short distance, slowly.
 
+## The track of the lake bed
+
+The dry lake at the racetrack is in the California Dead Valley National Park.
+
+The lake bed is flat and large, water accumulates when it rains and becomes a layer of mud when it is dry. The rocks have long tracks, some straight lines, some turns, some crosses.
+
+These tracks haven't changed for decades, and it looks like stones have walked by themselves.
+
+## Year 2014
+
+In 2014, researchers recorded the movement of stones using GPS and cameras.
+
+During winter, the lake bed is a thin layer of ice. During the day, the ice melts and forms a floating ice. The wind pushes the floating ice, the ice traps the rocks, moves together. The rocks leave tracks in the mud, and the ice melts, and the tracks remain in place.
+
+This mechanism does not require supernatural forces, but only ice, wind and water.
+
+## Why didn't you find out before?
+
+The dry lake at the racetrack is very remote, the winter is cold and the summer is hot.
+
+The conditions for the movement of stones are narrow: it requires rain to form shallow waters first; it requires ice to freeze at night; it requires melting during the day; it requires wind. The researchers wait long enough for a complete record.
+
+The former observers saw only tracks, and they didn't see the movement. The tracks were slow, the rocks could be just a few metres a year, and people couldn't keep them.
+
+## Let's go see it today
+
+Today, the dry lake of the racetrack is part of the national park.
+
+Tourists can see stones and tracks, but they can't take stones with them. Parks warn people not to step on mudslides and push stones. Orbitals are natural heritage, not toys.
+
+"The stone that sails" sounds like a miracle. Its answer is a thin layer of ice and a wind.
+
+## Supplementary Notes
+
+Rocks from dry lakes in the racetrack move very slowly. Researchers record them for a year and find that they only move in a given winter. If one comes only once, it's just static stones. Natural rhythms are sometimes much slower than human patience.
+
+## Location of the archives
+
+The stone that goes is a "natural mechanism" file. It was a supernatural candidate, and it was explained by ice, wind and GPS. The explanation didn't make it boring, it made it more precise: the rock was not walking on its own, but pushed by the wind on a thin ice.
+
+## Memory
+
+The name "Steamy Stones" is a journalist's name. Researchers prefer to call it "Swipes Move." The two names are the same thing, but one sells newspapers and one writes papers. The choice of names determines whether readers see miracles first or mechanisms first.
+
+Rocks don't walk by themselves. They just get on a thin ice, they're pushed by the wind, and they walk a little bit.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The movement mechanism at the Racetrack has direct observational support; this article separates earlier guesses from the 2014 observations.

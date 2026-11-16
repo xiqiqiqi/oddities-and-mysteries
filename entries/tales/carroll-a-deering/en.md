@@ -66,6 +66,106 @@ Books and articles about the case keep appearing. The theories multiply; the evi
 
 When the ship was towed off the shoal, the lifeboats, the instruments, and the eleven men were all missing. What remained was a meal in the galley and a cat with six toes.
 
+## Boat
+
+The Carol A. Dilling is a dhow.
+
+It started in Virginia in 1921, carrying wood to New York.
+
+## Diamond beach
+
+The ship was stranded near the diamond beach.
+
+Diamonds are on the outer beaches of North Carolina, windy and violent.
+
+## The crew
+
+The crew is missing.
+
+There's no one on board, no bodies, no lifeboats. Just cats, and some personal effects.
+
+## Where did it come from?
+
+Where the boat comes from, nobody knows.
+
+It could come from South America, it could come from the Caribbean. The food on the ship came from different places.
+
+## Investigations
+
+Coast Guard investigated it.
+
+No conclusion. Some say it's pirates; others say it's storms; others say it's crews who abandon ships.
+
+## Now
+
+The Carol A. Dilling is a classic of the Ghost Boat.
+
+It's a story that's still on the beach.
+
+## Outer beach
+
+Outside beach, North Carolina.
+
+It's a narrow sandy, windy, stormy place. A lot of boats are stranded here.
+
+## The sailboat
+
+The Carol A. Dilling is a dhow.
+
+It transports timber from Virginia to New York.
+
+## Lifeboats
+
+The lifeboat's gone.
+
+The crew may have been on a lifeboat, or they may have been swept away by the waves.
+
+## Supplementary Notes
+
+The Carol A. Dilling is a dhow.
+
+It transports timber from Virginia to New York. There are crews, food and cats on board.
+
+## Remember that
+
+The Carol A. Dilling is a dhow.
+
+It transports timber from Virginia to New York. There are crews, food and cats on board.
+
+The lifeboat is missing. The crew may be on the lifeboat or they may be swept away by the waves.
+
+## Last
+
+The cats on the ship are the only living thing. They were rescued and later adopted. The ship was dragged back to the port, but no one could explain why the crew left.
+
+Things on the boat are still there, people are gone. The wind on the beach, it's been blowing the story for 100 years.
+
+The boat was dragged back to the port, the story was left on the surface. People were gone and cats were still there.
+
+## Archives
+
+In 1921, the dhow Carol A. Dilling was found on the beach off North Carolina. The lifeboat on board was missing and 10 crew members were missing. The boat was towed back to the port, but no one could explain why the crew left.
+
+The cargo on board is wood. The hull is not broken, the anchor is still in place. The crew's stuff is in the cabin.
+
+When the ship was found, the sails were down, the wheels were intact. There was no storm record at sea.
+
+There was no distress call from the crew before they disappeared. There were no names in the port records.
+
+No one knows the answer.
+
+None of the ten men on the boat left a last message. The search ship was searched for 10 days and nothing was found.
+
+The ship's name came from its first owner. It was a rich businessman. It was dragged back to the port and it was used as an exhibition. It was later dismantled.
+
+The crew members waited for years. No result.
+
+No one explained why the boat was not sinking.
+
+The boat was later dismantled into wood, with only photographs left.
+
+The story of the boat has no ending.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the voyage record, the condition of the ship, and the various theories; the fate of the crew is unresolved, and mutiny, piracy, and smuggling remain hypotheses.

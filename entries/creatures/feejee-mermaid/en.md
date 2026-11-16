@@ -68,6 +68,48 @@ The specimen of 1842 sewed the two together — an old mistake and a modern mark
 
 *Original schematic: the monkey torso and fish tail, the New York exhibition of 1842, and the later collection history. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
 
+## Banham's marketing
+
+Banam is not a scientist, he is a businessman.
+
+In 1842, he ran the American Museum on Broadway, New York. He borrowed Kimble's mermaids, hung up posters, wrote, "From Fiji, alive, to make specimens." The poster didn't say it was real, but it made the viewers imagine it.
+
+He also printed a fake letter saying that a British museum scientist, Dr. Griffin, had studied the specimens. Then he had an actor who told him to speak as Dr. Griffin in New York. After the audience had listened to the script, the story was closed.
+
+One of the best things Banham understands is that disputes are better sold than facts. The newspapers argue that it's true, and the argument itself is advertising.
+
+## Japanese manfishing process
+
+The upper half of the Fijian mermaid is a monkey and the lower half is a fish.
+
+This is not Banem's idea. Japanese craftsmen have long been man-fish craftsmen: head and torso of monkeys, sewed on the back of the fish, sewn into “man-fish” specimens, sold to sailors, collectors and curious tourists.
+
+These crafts are traded through the Pacific and taken to Europe and the United States. Banham changed his place of production to Fiji, because Fiji is more distant and mysterious and sounds more like a "real mermaid."
+
+## Collections and Depositions
+
+Banham's museum burned down in 1865.
+
+Kimble's collection was later transferred to Harvard University's Peabody Museum. Peabody had a mermaid, but no one could determine if it was the one that was displayed in 1842. Its monkey portion and fish tails were not exactly the same as the original painting.
+
+The original version may be destroyed by fire, or it may be modified, copied, and resold. Most of what you see in the museum today is copies or later collage.
+
+## The mermaid's misunderstanding
+
+In earlier history, mermaids were not a scam, they were misperceptions.
+
+Sea cattle and burrows are mammals, breathing from their lungs, breastfed in the water. Their front limbs are like arms, rough body, far from being seen, and they are a bit human. In 1493, Columbus wrote that he had seen the mermaids, but they were not as beautiful as the paintings. He probably saw the sea cattle.
+
+The story of the Fijian mermaid ended up as an exercise on "Being in." The audience knew it was sewn out and still wanted to line up. They bought not a fish, but an afternoon that they could believe for a while.
+
+When Barnham died, his museum and collection were scattered. Mermaid specimens were copied, turned, and copied. Each copy made the originals a little further away. And, finally, it was a question whether the originals actually existed.
+
+## Supplementary Notes
+
+Fiji Mermaids are still on display today at the Peabody Museum. The sign is clear: it's made of monkeys and fish. The audience is standing in front of the glass cabinet, looking not just at a specimen, but also at a history of deception, trade and curiosity.
+
+The fish later appeared at the American Museum in Barnham. It was promoted as a specimen of the half-fish and half-man. The viewers were in line and people believed that someone was laughing. The original version of the fish could be destroyed by the fire.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1842 exhibition, the construction of the specimen, the Fiji story and the mermaid tradition; the Feejee Mermaid was a composite hoax, and the fate of the original is uncertain. The illustration is a scene reconstruction, not a photograph of the object.

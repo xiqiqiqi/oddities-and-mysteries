@@ -84,6 +84,42 @@ Perhaps the truth was ordinary: a captain made a bad judgment, a lifeboat was lo
 
 But the empty ship was real.
 
+## The surface
+
+December 1872, Atlantic Ocean.
+
+A British merchant ship, the De Grazia, saw a sailboat. It was called the Mary Celeste.
+
+## The boat
+
+There's no one on board.
+
+The cargo is still there, the food is there, the valuables are there. The lifeboat is gone.
+
+## Investigations
+
+The boat was taken to Gibraltar.
+
+The Navy investigated it. No conclusions.
+
+## Explanation
+
+There are many explanations: pirates, storms, alcohol, tsunamis, aliens.
+
+The most acceptable was that the captain decided to abandon the ship and that the crew was on a lifeboat and then disappeared.
+
+## The story
+
+The Mary Celeste became the pronoun for the Ghost Boat.
+
+It's a story written in books, movies and documentaries.
+
+## Answer
+
+There is no answer.
+
+The boat's still here, man.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and reconstruction illustrations are licensed under CC BY-SA 4.0. Reconstruction illustrations are not historical photographs. Many popular versions of the Mary Celeste story come from fiction and the press, not from the inquiry record.

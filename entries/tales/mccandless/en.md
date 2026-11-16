@@ -80,6 +80,98 @@ Some call him brave, some call him foolish, some call him a young man ruined by 
 
 *Original schematic: five stages from graduation to the discovery of the body, Bus 142 and the debate over the cause of death. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
+## Graduation
+
+Chris McKandells, college graduate, 1990.
+
+He gave up his job, gave up his name, started wandering. He called himself Alex.
+
+## Let's go
+
+He rides, walks, rows.
+
+He went to the west, Mexico, Alaska. He wanted to stay away from society and look for freedom.
+
+## Alaska
+
+In 1992, he entered the wilderness of Alaska.
+
+He found an abandoned bus and lived in it. He hunted, picked fruit, read.
+
+## Death
+
+In August 1992, he died in a bus.
+
+The cause of death was hunger. He ate the wrong plant or didn't have enough food.
+
+He died of hunger.
+
+He ate the wrong plant or didn't have enough food.
+
+## Bus
+
+The bus became a attraction.
+
+Some people were on pilgrimages, some people were taking pictures. The bus was later removed.
+
+The bus that McKandris lives in is an abandoned school bus.
+
+It stopped by a small road, near a river.
+
+The bus he lives in is an abandoned school bus.
+
+It stopped by a small road, near a river.
+
+## The story
+
+The story of McCandris, written into books and filmed.
+
+Some think he's brave, some think he's stupid.
+
+His story is written into books and films.
+
+Some think he's brave, some think he's stupid.
+
+## The wilderness
+
+Alaska's wilderness, big.
+
+There are forests, rivers, mountains and snow. People go in, they get lost.
+
+## Supplementary Notes
+
+Macandres, an idealist.
+
+He gave up his job, gave up his name, went to the wilderness to find freedom.
+
+He found his freedom and he found his death.
+
+## Film
+
+His story was filmed as "Survival in the Wild."
+
+It's beautiful. It's cold.
+
+## Last
+
+He died in August 1992. The body was found a few weeks ago. His diary, parked on the last page.
+
+His story became a fable of freedom and cost. He was followed, and he was persuaded not to.
+
+## Archives
+
+In April 1992, McCandris walked into the Alaskan wilderness. Four months later, the hunter found him dead in an abandoned bus.
+
+He has not brought enough food. He mistook a plant for food.
+
+He left the camera, took the last selfie. In the photo, he was thin. In his diary, he said, "Happiness is real only when it's shared." The phrase was later printed in the book.
+
+His sister later wrote a memoir. The book said that he always wanted to go home.
+
+The dispute did not stop after the publication of the book.
+
+His story, no finish.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the known biography, the diary, the official cause of death and the debate over the cause; starvation is the official conclusion, and the ODAP hypothesis is still discussed. The illustration is a scene reconstruction, not a photograph of the site.
