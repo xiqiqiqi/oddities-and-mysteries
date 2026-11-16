@@ -1,7 +1,10 @@
 {
   "total": 151,
-  "verified": 651,
-  "partial": 27,
-  "review": 121,
-  "no_source": 85
+  "verified": 860,
+  "partial": 35,
+  "review": 135,
+  "no_source": 65,
+  "entriesWithFiveMappedFacts": 151,
+  "mappedFacts": 755,
+  "gateC": "151/151 entries have at least 5 mapped hard facts"
 }

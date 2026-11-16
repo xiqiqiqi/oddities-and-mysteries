@@ -78,6 +78,7 @@ Selma also became part of the local economy. In the twentieth century the lake m
 What remains of Selma is mostly testimony, newspaper cuttings and local telling. The famous story of 1880, in which a man cut the serpent in two with an oar, is the best-known episode, but it is still a story. It left nothing that can be examined. Later, a hydroelectric scheme changed the water level, and sightings grew rarer. The story did not disappear; it moved from the news page to the tourist brochure.
 
 The sign by the lake still shows a serpent. It is a symbol of local identity, not a record of a sighting. That may be Selma's real value: it gives a lake a name, and reminds people that a name is not evidence.
+The lake is deep enough to keep a secret, and old enough to have kept one for two centuries. That is the whole story, and it is enough.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the early sightings, the 1880 event, the lack of evidence, and the possible explanations; there is no photograph or specimen of Selma, and the serpent on the coat of arms is a symbol, not a record of a sighting.

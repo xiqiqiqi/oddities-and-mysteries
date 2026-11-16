@@ -30,7 +30,7 @@ In the second course of the podium's west wall lie three blocks side by side, ea
 
 *Historical photograph: 15 September 1850, Maxime Du Camp, salted paper print. The Metropolitan Museum of Art, CC0.*
 
-No cranes, no steel. Timber sledges, rollers, rope, levers, and men and oxen willing to pull. Once a block landed it barely moved again; the next course was laid straight on top of it, where it has stayed for well over a thousand years.
+No cranes, no steel: timber sledges, rollers, rope, levers, and men and oxen willing to pull. Once a block landed it barely moved again.
 
 ## 3. The quarry: cut channels, a pregnant stone, a card
 
@@ -40,7 +40,7 @@ The quarry lies about 800 metres from the town, slightly higher than the temple.
 
 *Site photograph: 15 May 2019, Lodo27, CC BY-SA 3.0 (Wikimedia Commons). The cut channels of the quarry face.*
 
-In the pit lies a block cut free of the bedrock but never moved: the Stone of the Pregnant Woman, about twenty metres long, still joined to the hill on one side, modern estimates near 1,000 tonnes. In a 2018 photograph two people in red stand at its right end, less than half its height; a Lebanese flag flies from its top, and today's town and a mosque minaret sit behind it.
+In the pit lies a block cut free of the bedrock but never moved: the Stone of the Pregnant Woman, about twenty metres long, still joined to the hill on one side, modern estimates near 1,000 tonnes. In a 2018 photograph two people in red stand at its right end, less than half its height.
 
 ![The Stone of the Pregnant Woman with two people at its end, 2018](../../../assets/inline/baalbek-2018-pregnant-stone.jpg)
 
@@ -124,9 +124,7 @@ The 1759 earthquakes slid the keystone of its doorway two feet; in the 1860s som
 
 ## 9. A man at the column base
 
-Around 1870 Félix Bonfils, who ran a photographic studio in Beirut, photographed the same colonnade. His albumen prints are darker and harder than Du Camp's. What matters is the man standing at the column base, in white, barely taller than one course of the podium. You need no tonnage to understand the scale of this place — the man is enough.
-
-![Six columns and a man at the column base, c. 1870](../../../assets/inline/baalbek-1870-bonfils-columns.jpg)
+Around 1870 Félix Bonfils, who ran a photographic studio in Beirut, photographed the same colonnade. His albumen prints are darker and harder than Du Camp's. What matters is the man standing at the column base, in white, barely taller than one course of the podium. ![Six columns and a man at the column base, c. 1870](../../../assets/inline/baalbek-1870-bonfils-columns.jpg)
 
 *Historical photograph: c. 1870, Félix Bonfils, albumen silver print. The Metropolitan Museum of Art, CC0.*
 
@@ -135,8 +133,6 @@ In 1906 John Singer Sargent painted the ruins in watercolour, honey and pale vio
 ![Sargent watercolour of Baalbek, 1906](../../../assets/inline/baalbek-1906-sargent-watercolor.jpg)
 
 *Historical artwork: 1906, John Singer Sargent, watercolour and graphite; catalogued by the Met as "Temple of Bacchus, Baalbek." The Metropolitan Museum of Art, CC0.*
-
-The stones are still lying there. The pregnant stone still joined to the hill, the 2014 block still half buried. The next person to raise a camera will likely get the same wall, the same leaning column, and one very small person beneath it.
 
 ---
 

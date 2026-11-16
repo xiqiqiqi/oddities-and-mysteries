@@ -62,6 +62,8 @@ The hardest things in this case are a few timestamps: the ATM at 15:15:37, the c
 
 Someone spoke with her in those nineteen minutes. The last thing that person heard was "I've already called for help." After that she walked out of the frame, out of the record, out of every search's range. The bend on Route 112 is still there, the place the car stood is still there; only the person left nothing that can be pinned down.
 
+The case remains open.
+The file is still open.
 ---
 
 **Sources and licenses**: factual sources are in the ledger S1–S5 below. Text and original schematics are CC BY-SA 4.0. The ATM surveillance is public domain; the Woodsville photograph and postcard are credited / public-domain Wikimedia Commons works, licenses in the ledger. The cause of the disappearance is unresolved; "voluntary departure" and "suspicious" are police characterisations at different stages, presented here in parallel without adjudication.

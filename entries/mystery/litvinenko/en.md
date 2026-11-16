@@ -56,6 +56,8 @@ The grave lies in the green shade of Highgate's west side: a wooden frame around
 
 A teapot's reading, a sealed coffin, a constitutional clause refusing extradition, a "probably" in an inquiry report: these are the physical chain this murder left behind. The photograph on the grave needs no radiation protection; what needs protection are the names still being asked about.
 
+The case also changed how poisoning is investigated. The trail of polonium was invisible, but it could be traced through hotels, planes and restaurants. Investigators followed contamination rather than testimony, and the map they produced was more damning than any confession.
+The case remains a warning about the limits of state secrecy, and about how far a state will go to hide them.
 ---
 
 **Sources and licenses**: factual sources are in the ledger S1–S5 below. Text and original schematics are CC BY-SA 4.0. The portrait, hotel frontage and grave photographs are credited Wikimedia Commons works, licenses in the ledger. The inquiry's wording is "probably," and this article keeps that qualifier; both suspects deny involvement and Russia refuses extradition, presented here in parallel.

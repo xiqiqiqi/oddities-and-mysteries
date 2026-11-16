@@ -74,6 +74,8 @@ In 1953 fluorine testing exposed the assembly: the skull and jaw had such differ
 Charles Dawson is the main suspect. He had motive and opportunity, but whether he had accomplices has never been settled. Suggestions have included colleagues, a French palaeontologist and even Conan Doyle, but none has been proved.
 
 The lesson is direct: evidence that fits a theory too perfectly may deserve a second look precisely because it is so perfect. Science does not keep its reputation by never making mistakes. It keeps it by being able to find them.
+The forgery also had a long afterlife in textbooks. Generations of students learned a version of human evolution that had already been dismantled in the museum basement. Corrections travel slowly; a clean diagram is easier to teach than a disputed one. That is why the Piltdown affair is still taught: not as a fossil, but as a lesson in how knowledge is repaired, and how long repair can take.
+The lesson has not aged. It is still being relearned, slowly, unevenly, incompletely. Truly.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, its scientific reception, the 1953 examination, and the speculation about who was responsible; the culprit is still disputed, and Dawson is the main suspect rather than the only one.

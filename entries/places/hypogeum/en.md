@@ -56,6 +56,8 @@ Eighty is a conservation number, and also a metaphor: a building that holds seve
 
 The street wall is still there, the letters still there. Below it, in three levels of rock, the spirals remain on the ceilings and the solstice light touches the Holy of Holies' facade once a year. Beyond the eighty tickets, it quietly continues what it has done for six thousand years: holding the dead, waiting for light.
 
+The Hypogeum also raises a question about access. A site cut into soft limestone cannot bear unlimited visitors; breath, humidity and touch all leave marks. The limit on daily entries is not bureaucracy. It is the price of keeping a carved chamber open at all. That tension between access and survival is now part of the site's story.
+The chamber is not a museum of the past; it is a place that is still changing.
 ---
 
 **Sources and licenses**: factual sources are in the ledger S1–S5 below. Text and original schematics are CC BY-SA 4.0. The entrance, model and Ellis photographs are public domain (Wikimedia Commons), credited in the ledger. Dates and head-counts are archaeological estimates; the solstice orientation of the Holy of Holies is an archaeoastronomical interpretation and is presented as such.

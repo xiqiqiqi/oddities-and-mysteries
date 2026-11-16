@@ -76,6 +76,7 @@ The picture of Jack with the spring leg appeared in the old newspaper. He was we
 
 The portrait is not signed. The author is who, no one knows.
 
+The Jack story also shows how a single unexplained encounter can become a recurring character. Newspapers gave him a name, a costume and a chronology; later witnesses described what the papers had taught them to expect. Whether or not a man ever jumped over a wall, the figure on the page learned to jump. By the end of the century he had moved from news columns to penny dreadfuls and music halls. The further he travelled from the original streets, the more elaborate his escapes became. That is how an urban legend grows: not by evidence, but by repetition.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the contemporary newspaper reports, the later popular-literature figure, and modern explanations; it does not identify Spring-Heeled Jack as a confirmed creature.

@@ -80,6 +80,7 @@ Poe later wrote that he found the sight of crowds buying up the paper funny. He 
 The affair did not ruin Poe. It became a footnote to his career. What he really knew was how to keep readers in a state of half-belief. The balloon story, the moon story and the reasoning in his detective tales all rely on the same skill: arranging details neatly enough that readers are willing to follow.
 
 New York in 1844 had no photographs, no live broadcasts and no fact-checking. It had newspapers, rumour and word of mouth. Poe's story landed right among them.
+The hoax also helped invent the modern byline, or at least the modern distrust of one.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1844 report, Poe's involvement, the public reaction, and the real crossing records; the Sun admitted the report was false two days later.

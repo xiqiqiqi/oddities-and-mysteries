@@ -80,6 +80,7 @@ The ancient writers were not interested in classifying Leviathan. They were inte
 Leviathan left no bones, but it left a name. Hobbes used it for the state; Melville sent Ahab after "the Leviathan of the deep"; palaeontologists gave a huge extinct whale the name Livyatan. Every borrowing is a fresh interpretation.
 
 The more the name is used, the less it belongs to a single sea monster. In the end it is almost an adjective: huge, uncontrollable, untameable. It no longer lives in the sea. It lives in sentences about power and fear.
+The name outlived the myth.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ancient texts, the Ugaritic myth, later interpretations and the palaeontological name; Leviathan is a mythological creature with no biological evidence, and "Livyatan" merely borrows the name. The illustration is a scene reconstruction, not a photograph of an artefact.

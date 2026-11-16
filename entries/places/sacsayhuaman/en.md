@@ -70,6 +70,8 @@ One more point is often missed: Sacsayhuamán was not built in one go. Walls fro
 Sacsayhuamán is now one of Cusco's best-known sites and the setting for the Sun Festival. Visitors climb the steps and see walls, platforms and the city below. The blocks still lock together without mortar or steel.
 
 It does not need a mystical explanation. It needs a great many people, a very long time, and the patience to treat stone as a puzzle. Understanding that is harder than repeating "a knife blade cannot fit", and more worthwhile.
+The site also shows how archaeology and tourism can pull in different directions. Every visitor stands on the same stones; every stone carries the wear of feet and weather. Conservation is not a separate task from presentation. It is the condition that makes presentation possible. A wall that is loved to death is still a wall that is being lost.
+The stones have outlasted every explanation offered for them. So far, yes.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the physical site, Inca stoneworking, and hypotheses about transport; “a knife blade cannot fit” is a popular saying, not a precise measurement.

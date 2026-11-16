@@ -74,6 +74,7 @@ Sipán also changed how Moche power was understood. Before the tomb, scholars mo
 In 2002 the Royal Tombs of Sipán Museum opened in Lambayeque. Its building resembles a Moche pyramid; visitors enter by a ramp, and the lighting concentrates on the gold. For local people it is not only a tourist attraction but a place where a looted past has been taken back.
 
 The mask still sits in the central case. The gold is not bright; its colour is deep. It reminds visitors that the tomb matters because it was not emptied — the archaeologists preserved a funeral, not just gold.
+The tomb also made clear that Moche power was regional, not a single kingdom with one capital. That distinction still shapes how the period is studied.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, the tomb structure, the identity of the Lord, and the later excavations; estimates of his age and cause of death vary.

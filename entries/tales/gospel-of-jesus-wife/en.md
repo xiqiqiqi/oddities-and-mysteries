@@ -78,6 +78,8 @@ The dispute has three layers. The first is textual: what do the words say, and w
 Tests in 2014 found the papyrus and ink consistent with ancient dates; the provenance investigation of 2016 tipped the balance towards forgery. Even if it is fake, the affair shows how much people want to find the parts of early Christianity that were left out.
 
 It is now used as a teaching case: how to authenticate an ancient text, how to trace provenance, and how to be cautious when evidence is thin. That may be the most fitting place for it.
+The fragment also became a case study in how a single object can outrun the scholar who published it. King's caution was lost in the headlines; the object became a headline before it became evidence. That is the modern fate of contested relics.
+The story is still being written.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the fragment's text, its 2012 publication, the 2014 laboratory tests, the 2016 provenance investigation and the theological debate; the fragment's authenticity remains disputed, and most later reporting leans towards forgery. The illustration is a scene reconstruction, not a photograph of an artefact.

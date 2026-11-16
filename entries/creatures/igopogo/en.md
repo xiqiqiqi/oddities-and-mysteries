@@ -84,6 +84,7 @@ There is another function to a lake-monster story: it links people across genera
 Visit Lake Simcoe today and what you will most likely see is boats, docks, fishing line and evening wind. Now and then someone raises a phone, catches a blurred patch of water, and posts it. The picture usually shows ripples, or a floating log.
 
 That does not stop Igopogo from existing. It is no longer an animal waiting to be caught. It is a way the place talks about its lake: the lake is large, the water is deep, and human sight is short. Every "I saw it" says those three things again.
+The lake keeps its own record, written in ripples rather than ink, and nobody has learned to read it.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the newspaper record, the witnesses' descriptions and explanations such as the sturgeon; no specimen or clear photograph confirms the creature. The illustration is a scene reconstruction, not a photograph of the site.
