@@ -6,7 +6,7 @@ lang: en
 
 ## 1. The Night Road
 
-A driver sees a girl waving at the roadside.
+The story usually goes like this. A driver sees a girl waving at the roadside.
 
 It is the early age of the motor car. The road is straight, the headlights yellow. The girl stands on the shoulder; her white dress flashes once in the light.
 
