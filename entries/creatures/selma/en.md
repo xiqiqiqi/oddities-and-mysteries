@@ -68,22 +68,16 @@ The municipal coat of arms shows a golden lindworm — a wingless dragon from No
 
 The lake is still there, and so is the serpent in the story.
 
-## Supplementary Notes
+## 7. The Depth of the Lake
 
-The story of Selma has a little bit of detail: the depth of the lake. The water of more than 150 metres means that even if a large animal dies in it, it's hard to find the body. The lake doesn't hand over its things. It's both a myth and a myth.
+The most practical detail about Lake Seljord is its depth. The surface looks calm, but below it the lake drops more than 150 metres. Even if a large animal did die there, its body could sink beyond reach. The lake does not easily give up what it holds. That is both the condition that keeps the story alive and the reason it has never produced a specimen.
 
-Most of Selma's witnesses did not leave photographs. They left behind time, place and a phrase, "I see." These testimonies could not be verified or completely discarded. They were hanging there, like a wave on the lake.
+Selma also became part of the local economy. In the twentieth century the lake monster entered tourist publicity; hotels, ferries and souvenir shops all had a reason to keep the serpent alive. This does not mean the witnesses were lying. It means that an unverified legend, reused by tourism, newspapers and local pride, can come to feel like fact. For a researcher, the task is to keep 'how the story spread' separate from 'what was actually in the water'.
+## 8. The Gap in the Evidence
 
-This twilight has no name, no shape. It's just to remind people who see it: there's something in the lake that's not explained.
+What remains of Selma is mostly testimony, newspaper cuttings and local telling. The famous story of 1880, in which a man cut the serpent in two with an oar, is the best-known episode, but it is still a story. It left nothing that can be examined. Later, a hydroelectric scheme changed the water level, and sightings grew rarer. The story did not disappear; it moved from the news page to the tourist brochure.
 
-Serma's witness, first in the 19th century. In 1880, Bjørn Björger said he cut a giant snake with a boat. The story became bigger and the lake became the scene. The Sjörma specimen, too, did not leave it. Only the witnesses told it.
-
-Serma's witness, which decreased after the 1880s. Water and water stations were built on the lake, water levels changed, and witnesses changed. The story didn't disappear, but moved from the newspaper to the tourist book.
-
-The lake is still there. The story is still there.
-
-Selma's brand, standing by the lake. Tourists stop and read the word. The word on the sign, it fades.
-
+The sign by the lake still shows a serpent. It is a symbol of local identity, not a record of a sighting. That may be Selma's real value: it gives a lake a name, and reminds people that a name is not evidence.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the early sightings, the 1880 event, the lack of evidence, and the possible explanations; there is no photograph or specimen of Selma, and the serpent on the coat of arms is a symbol, not a record of a sighting.

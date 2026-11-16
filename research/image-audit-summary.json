@@ -4,5 +4,9 @@
   "review": 0,
   "missing": 0,
   "cover": 151,
-  "inline": 291
+  "inline": 291,
+  "metadataComplete": 442,
+  "creditPresent": 442,
+  "licensePresent": 442,
+  "notes": "442 张图逐行核对作者、许可、来源与标题匹配；151 张封面补齐署名与 CC BY-SA 4.0 许可；291 张内文图逐条记录来源。"
 }

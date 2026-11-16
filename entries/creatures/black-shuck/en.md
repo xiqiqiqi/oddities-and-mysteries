@@ -50,4 +50,8 @@ The most common explanation is thunder strike. The storm of 4 August 1577 wa
 
 ## Why the church?
 
-The Black Dog story chose the church, not by chance. In Britain in the sixteenth century, the church was the strongest and most common building
+The Black Dog story chose the church, not by chance. In Britain in the sixteenth century, the church was the strongest and most familiar building in the village, and the place where the boundary between the natural and the supernatural was most often tested. A black dog in a church was not just a monster; it was a theological argument.
+
+---
+
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1577 accounts, the physical marks in the churches, and the explanations offered for them; the scorch marks prove a fire, not a dog. The illustrations are scene reconstructions, not historical photographs.

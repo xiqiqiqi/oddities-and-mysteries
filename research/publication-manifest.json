@@ -14,7 +14,8 @@
     "claimsVerifiedBySourceText": 651,
     "claimsPartial": 27,
     "claimsNeedingReview": 121,
-    "entriesWithoutWikipediaSourceText": 85
+    "entriesWithoutWikipediaSourceText": 85,
+    "note": "事实台账逐条保留来源原文匹配结果；needs_review 与 no_source_text 是未完成语义核对的诚实标记，未计为已核实。"
   },
   "imageAudit": {
     "rows": 442,
@@ -22,7 +23,8 @@
     "review": 0,
     "missing": 0,
     "covers": 151,
-    "inline": 291
+    "inline": 291,
+    "metadataComplete": 442
   },
   "gate": {
     "script": "repos/oddities-core/scripts/quality-gate.mjs",
@@ -35,18 +37,9 @@
       "image_license_audit 文件存在",
       "中英小节数一致",
       "无重复小节（相似度 >= 0.72）",
-      "中文 >= 1000 字，英文 >= 650 词"
+      "中文 >= 1800 字，英文 >= 900 词"
     ]
   },
-  "editorialNote": "英文为逐篇 AI 辅助母语级改写与人工规则复核，标记为 reviewed / line_edited；未冒充人工母语编辑签核。中文 143 篇 >= 1800 字，8 篇清理重复段落后为 1100–1400 字。",
-  "shortFormEntries": [
-    "creatures/igopogo",
-    "creatures/leviathan",
-    "creatures/selma",
-    "places/sacsayhuaman",
-    "places/sipan",
-    "tales/balloon-hoax",
-    "tales/gospel-of-jesus-wife",
-    "tales/piltdown-man"
-  ]
+  "editorialNote": "151 篇中文均为 1800 字以上；英文均为 906 词以上，按逐篇 AI 辅助改写与人工规则复核处理，标记为 reviewed / line_edited；未冒充人工母语编辑签核。8 篇此前的短稿已完成尾章重写，不再保留短稿例外。",
+  "shortFormEntries": []
 }

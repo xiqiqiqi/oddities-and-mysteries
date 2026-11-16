@@ -64,14 +64,20 @@ It may be a fragment of a genuine ancient text, or a twentieth-century forgery. 
 
 *Original schematic: the text, the 2012 announcement, the 2014 tests and the 2016 provenance investigation. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
 
-## Archives
+## 7. The Weight of a Scrap
 
-In 2012, Harvard scholar Karen King published a piece of paper lawn, which says, "Jesus told them that my wife," and the Church thought it was a forgery.
+The fragment is only eight centimetres long, with a few lines of Coptic text. It became world news not because it proved anything, but because it touched an unfinished question: did Jesus have a wife?
 
-The years of paper straw are still debating.
+The four Gospels do not mention Jesus marrying, and later church tradition holds that he did not. At most, the sentence on the scrap shows that a century or two after Jesus, some Christians were discussing whether he had a wife. That is a later argument, not a contemporary record.
 
-The source of the paper straw, no one can say.
+The scrap also exposes a problem in academic publication: when a piece of evidence touches faith, media and a university's reputation at once, caution is often overtaken by speed. The 2012 announcement, the 2014 tests and the 2016 investigation all happened in public. Scholarship needs time; the news cycle does not wait.
+## 8. How to Read It
 
+The dispute has three layers. The first is textual: what do the words say, and which period do the grammar and spelling belong to? The second is material: are the papyrus and ink ancient, and why are the edges so neat? The third is provenance: where did it come from, through whose hands, and why did the owner change his account?
+
+Tests in 2014 found the papyrus and ink consistent with ancient dates; the provenance investigation of 2016 tipped the balance towards forgery. Even if it is fake, the affair shows how much people want to find the parts of early Christianity that were left out.
+
+It is now used as a teaching case: how to authenticate an ancient text, how to trace provenance, and how to be cautious when evidence is thin. That may be the most fitting place for it.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the fragment's text, its 2012 publication, the 2014 laboratory tests, the 2016 provenance investigation and the theological debate; the fragment's authenticity remains disputed, and most later reporting leans towards forgery. The illustration is a scene reconstruction, not a photograph of an artefact.

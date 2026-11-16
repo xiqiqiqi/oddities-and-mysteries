@@ -62,20 +62,18 @@ What makes the tomb important is not only the gold. It is that the tomb was not 
 
 The looters took the gold. The archaeologists kept the funeral.
 
-## Archives
+## 7. What the Tomb Records
 
-King Sipan's tomb was found in 1987. It contains gold masks, gold ornaments and companions. It is one of the most important archaeological discoveries in America.
+The importance of Sipán lies not in the weight of the gold but in the position of things. Looters usually take the gold and leave disturbed earth; archaeologists record the whole chamber: who lay where, which way the mask faced, how attendants and animals were placed, how pottery and fabric were distributed. Those relationships are what allow a funeral to be read again.
 
-The discovery of King Sipan’s tomb was made by local police capturing the grave robbers.
+The gold mask, ear ornaments, chest pieces and sceptre show that the dead man could command rare materials and skilled craftsmen. The attendants show that this power extended over human lives as well. Seen together, Sipán is not only a treasury but evidence of Moche social order.
 
-There are men, women, and children in the grave. They may be servants, or they may be voluntary. There's a dog in the grave. It may be a hound or a guide.
+Sipán also changed how Moche power was understood. Before the tomb, scholars mostly inferred nobles from pottery images; after it, the figures, dress and rituals in those images could be matched to real objects and a real body. That correspondence is more valuable than any single gold piece. It turns a vanished society from a set of pictures into a measurable life.
+## 8. After the Museum
 
-The gold in the grave weighs a few kilos.
+In 2002 the Royal Tombs of Sipán Museum opened in Lambayeque. Its building resembles a Moche pyramid; visitors enter by a ramp, and the lighting concentrates on the gold. For local people it is not only a tourist attraction but a place where a looted past has been taken back.
 
-There's pottery in the grave.
-
-There's pottery and fabric in the grave.
-
+The mask still sits in the central case. The gold is not bright; its colour is deep. It reminds visitors that the tomb matters because it was not emptied — the archaeologists preserved a funeral, not just gold.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, the tomb structure, the identity of the Lord, and the later excavations; estimates of his age and cause of death vary.

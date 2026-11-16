@@ -66,20 +66,20 @@ It shows that a story that looks like news, with the right format and enough det
 
 Poe did not become famous for it. He is remembered for “The Raven” and his detective stories. The balloon was just one of his many hoaxes.
 
-## Archives
+## 7. The Form of News
 
-In 1844, the New York newspaper reported three people crossing the Atlantic Ocean in balloons. The story was a series of days, and it was finally revealed as a trick by the slope.
+The balloon hoax worked largely because it looked like news rather than fiction. The report had a date, a byline, a "special correspondent" dateline, and a message forwarded from Norfolk. Every formal detail told the reader: this is fact sent back from outside, not a story written in an office.
 
-The hill wrote this story under a false name. He didn't think that the readers would be serious.
+The form of news is a promise. It promises that the report has been gathered, transmitted and edited. Readers in 1844 had no other way to check; they could only trust the form. That is exactly what Poe used.
 
-The newspaper later apologized, but sales have increased.
+There is another side to the story: readers were not merely victims. They were willing to believe in a balloon crossing because they had already read about so many technological marvels in the papers. Expectation was part of the hoax. Poe did not create that expectation; he merely wrote it up as something that had already happened.
+## 8. Poe's Joke
 
-This story was later taken into the book of the slopes.
+Poe later wrote that he found the sight of crowds buying up the paper funny. He did not expose it at once; he waited for the Sun to discover it. Two days later the paper admitted the report was false.
 
-The slope didn't admit it until after death.
+The affair did not ruin Poe. It became a footnote to his career. What he really knew was how to keep readers in a state of half-belief. The balloon story, the moon story and the reasoning in his detective tales all rely on the same skill: arranging details neatly enough that readers are willing to follow.
 
-When the scam was uncovered, the slopes were not explained.
-
+New York in 1844 had no photographs, no live broadcasts and no fact-checking. It had newspapers, rumour and word of mouth. Poe's story landed right among them.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1844 report, Poe's involvement, the public reaction, and the real crossing records; the Sun admitted the report was false two days later.

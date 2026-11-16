@@ -92,4 +92,8 @@ The other explanation is combing. Such animals are not afraid of humans, they ar
 
 There is also a darker argument: a serial killer uses the rumours of “beasts” to cover up crimes. There is no direct evidence for this hypothesis, but it reminds us that historical “monsters” are sometimes just another name for human violence.
 
-Today's Gevodang is already a quiet agricultural area. Wolves are long gone, and forests are cut off
+Today's Gévaudan is a quiet agricultural area. Wolves are long gone, and the forests have been cut back. The beast survives in prints, in local memory, and in the question that never quite closes: what killed those people?
+
+---
+
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the attacks, the hunts, the official record and the competing explanations; the identity of the beast is still disputed. The illustrations are scene reconstructions, not historical photographs.

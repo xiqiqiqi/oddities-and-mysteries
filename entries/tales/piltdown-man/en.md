@@ -60,10 +60,20 @@ He had motive and opportunity: he wanted academic recognition from a major disco
 
 The lesson of Piltdown is direct: evidence that fits a theory too perfectly may be worth a second look precisely because it is so perfect.
 
-## Archives
+## 7. The Lesson of an Assembly
 
-In 1912, Charles Dawson published the skull of the Python. It was considered to be ape and human transition. In 1953, it was proved to be a forgery.
+Piltdown was not a simple fake. It was a fake that fitted too well. Its large brain and ape-like jaw matched an evolutionary order that some people already believed: intelligence first, standing upright later. Its date was convenient, and so was its place — Britain wanted an early human fossil of its own.
 
+Because it met expectations, scepticism never became mainstream for long. Some noticed that the jaw and skull did not join properly; others thought the teeth wore oddly. But scattered doubts could not beat a complete story.
+
+Piltdown also shows that a forgery does not succeed through one man alone. It needs a community willing to believe: museums need exhibits, textbooks need examples, and a nation needs ancestors of its own. Dawson supplied a set of assembled bones. What kept it alive for forty years was the institutional expectation around it.
+## 8. Who Was Fooled
+
+In 1953 fluorine testing exposed the assembly: the skull and jaw had such different fluorine levels that they could not come from the same individual or the same period. The skull was modern human, the jaw belonged to an ape, the teeth had been filed, and the bones had been stained dark.
+
+Charles Dawson is the main suspect. He had motive and opportunity, but whether he had accomplices has never been settled. Suggestions have included colleagues, a French palaeontologist and even Conan Doyle, but none has been proved.
+
+The lesson is direct: evidence that fits a theory too perfectly may deserve a second look precisely because it is so perfect. Science does not keep its reputation by never making mistakes. It keeps it by being able to find them.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, its scientific reception, the 1953 examination, and the speculation about who was responsible; the culprit is still disputed, and Dawson is the main suspect rather than the only one.

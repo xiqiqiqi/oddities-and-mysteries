@@ -89,4 +89,8 @@ Sharon Hill and Snopes have checked the public records, and they have not found 
 
 ## Why is the baby so scary?
 
-In our daily experience, children represent harmlessness and protection. Black‑eyed children turn this expectation on its head: people in need of protection become untrustworthy;
+In our daily experience, children represent harmlessness and protection. Black-eyed children turn this expectation on its head: people in need of protection become threatening, and a child's plea becomes a trap. That inversion is what makes the story durable.
+
+---
+
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the original account, its spread on the internet, and the explanations offered by sceptics; there is no verified police record, photograph or second witness. The illustrations are scene reconstructions, not photographs of an event.

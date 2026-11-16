@@ -72,14 +72,18 @@ The lake is still there. So are the boats.
 
 *Original schematic: the newspaper record from the 1860s to 2005, the descriptions and the lake sturgeon comparison. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
-## Supplementary Notes
+## 7. Local Memory
 
-Igor Bogo's name came from the newspaper and lived in the newspaper. It did not become an international monster, but it became local knowledge of Lake Simco: the boatman knew which part of the water was the easiest to see, and the hotel owner knew how to speak to the guests. An animal that had not been confirmed had just entered the daily language.
+Igopogo never became an international monster. Its name stayed on the pages of local newspapers and in the ordinary talk of lakeside towns. A boatman will say that a certain stretch of water is the likeliest place to see a hump at dusk; a hotel owner will print the 1963 headline on the back of a menu; an archivist will number each old report, photograph it, and file it away. A legend does not survive on proof. It survives on occasions for retelling.
 
-Igopogo's witness, mostly in Lake Simco. Witnesses say it's like a long snake, throwing up its body on the surface. The lake sorghum and driftwood are the most common explanations. Igorpogo's name may come from a joke called “I go, I go.” No one can be sure.
+That local quality matters. It turns an unverifiable sighting into shared memory, and it tells later readers that people were seeing something in these waters more than a century ago. The archive does not say what it was.
 
-Igopogo's sight, mostly in summer. Campers at the lake say it's floating out of the water at dusk. The lake can be seen as a long snake.
+There is another function to a lake-monster story: it links people across generations. The nineteenth-century reporter, the twentieth-century boatman and today's phone photographer are all talking about the same water with different tools. Each generation adds a line and removes one. In the end Igopogo belongs less to a single sighting than to the lake's habit of telling stories.
+## 8. Still Unconfirmed
 
+Visit Lake Simcoe today and what you will most likely see is boats, docks, fishing line and evening wind. Now and then someone raises a phone, catches a blurred patch of water, and posts it. The picture usually shows ripples, or a floating log.
+
+That does not stop Igopogo from existing. It is no longer an animal waiting to be caught. It is a way the place talks about its lake: the lake is large, the water is deep, and human sight is short. Every "I saw it" says those three things again.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the newspaper record, the witnesses' descriptions and explanations such as the sturgeon; no specimen or clear photograph confirms the creature. The illustration is a scene reconstruction, not a photograph of the site.

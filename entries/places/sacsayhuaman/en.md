@@ -58,10 +58,18 @@ Visitors climb the steps and see the walls, the platforms, and the city below. T
 
 It does not need an alien explanation. It needs a great many people, a very long time, and the patience to treat stone as a puzzle.
 
-## Archives
+## 7. The Ledger of Stone
 
-The great stones of Sarkevaman weigh hundreds of tons. The sews are tight, they can't even fit in the blades. The Spaniards later tear down the stone and build the church.
+What is easy to overlook at Sacsayhuamán is how incomplete it is. The walls visible today are only part of the original complex. The Spanish took stones away to build churches and houses in Cusco; earthquakes, weathering and later excavation changed the site again. So when visitors marvel at the size of the blocks and the tightness of the joints, they are looking at a reduced work.
 
+The ledger of stone records something else as well: the Inca had no iron tools, but they could organise labour on a huge scale. Quarrying, transport, shaping, dry-fitting and lifting each required thousands of people and long organisation. To hand all this to "aliens" erases the part that is genuinely astonishing.
+
+One more point is often missed: Sacsayhuamán was not built in one go. Walls from different phases differ in how the blocks were cut, how densely they were packed and how the joints were finished. Archaeologists use those differences to decide which parts are early and which were added or rebuilt later. Stone can speak, but someone has to crouch down and read it block by block.
+## 8. How to See It Today
+
+Sacsayhuamán is now one of Cusco's best-known sites and the setting for the Sun Festival. Visitors climb the steps and see walls, platforms and the city below. The blocks still lock together without mortar or steel.
+
+It does not need a mystical explanation. It needs a great many people, a very long time, and the patience to treat stone as a puzzle. Understanding that is harder than repeating "a knife blade cannot fit", and more worthwhile.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the physical site, Inca stoneworking, and hypotheses about transport; “a knife blade cannot fit” is a popular saying, not a precise measurement.
