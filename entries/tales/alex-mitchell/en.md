@@ -68,7 +68,9 @@ The television was still on. His wife was beside him. On the screen the bagpipes
 
 Mitchell did not see the end. He fell back on the sofa, and he was still laughing when he went.
 
-The next day his wife wrote to the three Goodies to thank them for making his last moments so pleasant. The cast later said the letter stayed with them.
+Later his wife wrote to the three Goodies to thank them for making his last moments so pleasant.
+
+The same show produced another physiological event. On 1 November 1977 a 32-year-old housewife in Leicester, Seema Bakewell, went into labour while laughing at a different Goodies sketch. She refused to leave for the hospital until the episode had finished, and watched it to the end.
 
 In 2007 the American band The White Stripes released an album called Icky Thump, named after "Ecky-Thump" in that sketch, with one letter changed to make the title easier for an American teenage audience. A bricklayer's death in King's Lynn and a rock album are joined by a blood sausage.
 
