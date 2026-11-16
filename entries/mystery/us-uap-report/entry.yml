@@ -21,18 +21,39 @@ sources:
   - id: S1
     title: "ODNI · Preliminary Assessment: Unidentified Aerial Phenomena"
     publisher: Office of the Director of National Intelligence
-    url: https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf
+    url: https://www.govinfo.gov/content/pkg/GOVPUB-PREX28-PURL-gpo156940/pdf/GOVPUB-PREX28-PURL-gpo156940.pdf
     year: "2021"
     license: 美国政府公开文件；仅作事实参考
-    usage: 144 起报告、80 起多传感器、18 起异常机动、一起气球解释
+    usage: 2021 年 6 月 25 日、九页、参议院报告 116-233 与 180 天期限、2004 年 11 月至 2021 年 3 月、144 起、80 起多传感器、18 起/21 份异常机动、一起漏气气球、五种解释类别、无外星或外国突破技术证据、飞行安全
   - id: S2
     title: "AARO · All-domain Anomaly Resolution Office"
     publisher: U.S. Department of Defense
     url: https://www.aaro.mil/
     year: "2026"
     license: 美国政府公开资料；仅作事实参考
-    usage: 2022 年成立、后续年度报告与案件分类
+    usage: 2022 年成立、2022 年 510 起/171 起未归类、2023 年 801 起/291 起新增、2024 年 757 起新增/1,652 起累计/21 起待分析、无地外技术证据
   - id: S3
+    title: "Preliminary Assessment UAP cover（报告封面）"
+    publisher: Office of the Director of National Intelligence / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Preliminary-Assessment-Unidentified-Aerial-Phenomena-cover.jpg
+    year: "2021"
+    license: 公有领域
+    usage: 2021 年报告官方封面
+  - id: S4
+    title: "Reported-UAP Hotspots（AARO 热点图）"
+    publisher: U.S. Air Force All-domain Anomaly Resolution Office / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Reported-UAP_Hotspots_according_to_AARO_UAP_Reporting_Trends_May_2023_Slide_presented_to_the_public_and_the_NASA_UAP_study_team.png
+    year: "2023"
+    license: 公有领域
+    usage: AARO 向 NASA 独立研究团队展示的 UAP 报告热点图
+  - id: S5
+    title: "AARO logo（机构标志）"
+    publisher: U.S. Department of Defense / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:All-domain_Anomaly_Resolution_Office_Logo.webp
+    year: "2023"
+    license: 公有领域
+    usage: 全域异常解决办公室官方标志
+  - id: S6
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）
     url: https://xiqiqi.com/

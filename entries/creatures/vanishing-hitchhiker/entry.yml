@@ -3,8 +3,8 @@ type: creature
 slug: vanishing-hitchhiker
 title_zh: 路边的搭车人
 title_en: The Hitchhiker at the Roadside
-era: "古代起"
-era_en: "Ancient–present"
+era: "1602 年起（现存记录）"
+era_en: "From 1602 (earliest record)"
 region: 全球
 region_en: "Worldwide"
 coords: null
@@ -23,14 +23,14 @@ sources:
     url: https://en.wikipedia.org/wiki/Vanishing_hitchhiker
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 传说类型、各地变体、民俗学研究与解释
+    usage: 1981 年布鲁万德《消失的搭车人》、可追溯至 1870 年代、英/埃塞俄比亚/朝鲜/法国/南非/沙俄/美国华人/摩门/欧扎克变体、1602 年瑞典约恩·彼得里·克林特手稿与烛节集市/麦芽/橡子/血/战争瘟疫预言、比尔德斯利-汉基 79 份记录、鲍曼母题 E332.3.3.1 及 a-j 分类、E332.3.3.2 神祇搭车人、圣克里斯托弗、迈克尔·戈斯与乔·尼克尔怀疑论
   - id: S2
-    title: "Wikipedia · Resurrection Mary"
-    publisher: Wikipedia contributors
-    url: https://en.wikipedia.org/wiki/Resurrection_Mary
-    year: "2026"
-    license: CC BY-SA 4.0
-    usage: 芝加哥阿彻大道版本、墓地与 1930 年代背景
+    title: "Resurrection Cemetery Justice IL（复活公墓照片）"
+    publisher: MrHarman / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Resurrection_Cemetery_Justice_IL_1.jpg
+    year: "2006"
+    license: CC BY-SA 3.0
+    usage: 芝加哥复活公墓现场照片
   - id: S3
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）

@@ -23,15 +23,29 @@ sources:
     url: https://en.wikipedia.org/wiki/Kusanagi_no_Tsurugi
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 神话来源、三神器、热田神宫与未经展示的现状
+    usage: 八岐大蛇与栉名田比卖、八个酒桶与十拳剑、天丛云剑改名草薙剑、日本武尊火攻、688 年因天武天皇生病移出皇宫至热田、《平家物语》1371 年成书与坛之浦、平时子带走剑与勾玉、神镜被救回、勾玉浮匣找回、热田称被带走的是复制品、新罗僧人与十二世纪复制品说、即位仪式上侍从长捧箱、长光/行平佩剑、皇太子佩剑、剑从未公开展示
   - id: S2
-    title: "Britannica · Atsuta Shrine"
-    publisher: Encyclopaedia Britannica
-    url: https://www.britannica.com/topic/Atsuta-Shrine
-    year: "2026"
-    license: 版权归 Encyclopaedia Britannica；仅作事实参考
-    usage: 热田神宫的历史与草薙剑的祭祀地位
+    title: "Atsuta Shrine（热田神宫照片）"
+    publisher: Bariston / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Atsuta_Shrine.jpg
+    year: "2019"
+    license: CC BY-SA 4.0
+    usage: 热田神宫本宫一带现场照片
   - id: S3
+    title: "Atsuta Shrine honden（热田神宫本殿照片）"
+    publisher: Nesnad / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Atsuta_Shrine_honden_-_2014_-_march_18.jpg
+    year: "2014"
+    license: CC BY-SA 4.0
+    usage: 热田神宫本殿现场照片
+  - id: S4
+    title: "Yamata no Orochi（八岐大蛇版画）"
+    publisher: Toyohara Chikanobu / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:YamataNoOrochi.jpg
+    year: "1870s"
+    license: 公有领域
+    usage: 须佐之男斩杀八岐大蛇的历史画作
+  - id: S5
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）
     url: https://xiqiqi.com/

@@ -2,7 +2,7 @@ channel: objects
 type: object
 slug: stigmata
 title_zh: 手上的伤
-title_en: The Wounds
+title_en: The Wounds in the Hands
 era: "1224 年起"
 era_en: "From 1224"
 region: 意大利，阿西西 / 全球
@@ -23,22 +23,29 @@ sources:
     url: https://en.wikipedia.org/wiki/Stigmata
     year: "2026"
     license: CC BY-SA 4.0
-    usage: 圣痕的定义、方济各、比奥神父、教会调查与医学解释
+    usage: 希腊语 stigma 词源、五处伤口、女性占 80% 以上、安斯伯特 695 年、方济各 1224 年拉维纳山四十天斋与六翼天使、切拉诺的托马斯 1230 年传记、哈通 1935 年沙眼与四日疟/紫癜说、1987 年麻风说、比奥 1918 年与五十年伤口、罗曼内利/梅拉/费斯塔检查、杰梅利 1922 年歇斯底里判断、卢扎托 1919 年石炭酸与藜芦碱证词、无指手套、去世时皮肤无伤、2002 年封圣、玛格达莱娜·德·拉·克鲁斯承认造假、厌食与自我伤害、特蕾莎·诺伊曼 2002 年精神分析、安贝尔-古贝雷 280 女/41 男、安特卫普 2019 年 244 人 92% 女性、伊里奇引语、哈里森无单一机制、乔·尼克尔与造假无法区分、1997 年 7 位圣人、近百年约 200 人
   - id: S2
-    title: "Britannica · Stigmata"
-    publisher: Encyclopaedia Britannica
-    url: https://www.britannica.com/topic/stigmata
-    year: "2026"
-    license: 版权归 Encyclopaedia Britannica；仅作事实参考
-    usage: 宗教背景、历史案例与教会立场
+    title: "Giotto · Saint Francis Receiving the Stigmata（乔托画作）"
+    publisher: Giotto di Bondone / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Giotto._Stigmatization_of_St_Francis._1295-1300._314x162cm._Louvre,_Paris.jpg
+    year: "1295–1300"
+    license: 公有领域
+    usage: 方济各接受圣痕的历史画作
   - id: S3
-    title: "Smithsonian Magazine · The Mystery of the Five Wounds"
-    publisher: Smithsonian Magazine
-    url: https://www.smithsonianmag.com/history/the-mystery-of-the-five-wounds-361799/
-    year: "2026"
-    license: 版权归 Smithsonian Magazine；仅作事实参考
-    usage: 心理、自我暗示与造假案例的讨论
+    title: "El Greco · Saint Francis Receiving the Stigmata（埃尔·格列柯画作）"
+    publisher: El Greco / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:El_Greco_-_Saint_Francis_Receiving_the_Stigmata_-_WGA10473.jpg
+    year: "1585–1590"
+    license: 公有领域
+    usage: 方济各接受圣痕的历史画作
   - id: S4
+    title: "Padre Pio of Pietrelcina with the stigmata（1919 年照片）"
+    publisher: Placido Bux / Wikimedia Commons
+    url: https://commons.wikimedia.org/wiki/File:Padre_Pio_of_Pietrelcina_with_the_stigmata.jpg
+    year: "1919"
+    license: 公有领域
+    usage: 比奥神父手部圣痕的历史照片
+  - id: S5
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）
     url: https://xiqiqi.com/
