@@ -4,6 +4,8 @@ summary: 1836 年的一本游记劝人先睡一觉再去看巴尔贝克。作者
 lang: zh
 ---
 
+
+
 ## 一、先睡一觉
 
 1830 年代的一个九月下午，一队美国人把帐篷扎在巴尔贝克西南的泉眼上。泉叫 Rās al-ʿAyn，当地人念作 Rosalyn，直径约五十英尺，水在帐篷边分成两支。他们刚翻过前黎巴嫩山，走了一天"连昆虫都绝迹了"的干旱山脊。
@@ -90,8 +92,6 @@ lang: zh
 
 ![1843 年 Prangey 银版：六角院](../../../assets/inline/baalbek-1843-prangey-hexagonal.jpg)
 
-*历史照片：1843，Joseph-Philibert Girault de Prangey，银版法。The Metropolitan Museum of Art，CC0。*
-
 ## 七、1850 年 9 月 15 日
 
 1850 年 9 月 15 日，Maxime Du Camp 拍了一组盐纸印相，后来贴进相册：页边钢笔字写着 "Syrie?"，带着问号；右下角 "1850. 9."。
@@ -106,11 +106,7 @@ lang: zh
 
 ![1850 年杜坎：斜倚台基墙的倒柱](../../../assets/inline/baalbek-1850-ducamp-leaning-column.jpg)
 
-*历史照片：1850-09-15，Maxime Du Camp，盐纸印相。The Metropolitan Museum of Art，CC0。*
-
 ![1850 年杜坎：半圆外墙与拱龛](../../../assets/inline/baalbek-1850-ducamp-hemicycle.jpg)
-
-*历史照片：1850-09-15，Maxime Du Camp，盐纸印相。The Metropolitan Museum of Art，CC0。*
 
 ## 八、旁边那座几乎完整的庙
 
