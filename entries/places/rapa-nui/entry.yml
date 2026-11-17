@@ -24,12 +24,12 @@ review_method: "AI editorial review (no human reviewer)"
 review_scope: "zh/en text, fact ledger, image licenses, technical gate"
 sources:
   - id: S1
-    title: "Rapa Nui National Park"
-    publisher: "UNESCO World Heritage Centre"
-    url: "https://whc.unesco.org/en/list/715/"
+    title: "Rapa Nui National Park · Ma'u Henua Community"
+    publisher: Parque Nacional Rapa Nui / Ma'u Henua
+    url: https://www.rapanuinationalpark.com/en/
     year: "2026"
-    license: "© UNESCO; citation only"
-    usage: "1995 年世界遗产登录、摩艾与阿胡遗址范围"
+    license: 版权归 Parque Nacional Rapa Nui；仅作事实参考
+    usage: 国家公园管理、社区共管、游客规范与遗址保护
   - id: S2
     title: "UNESCO World Heritage · Rapa Nui National Park"
     publisher: UNESCO World Heritage Centre
