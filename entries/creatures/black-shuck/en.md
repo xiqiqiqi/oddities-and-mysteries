@@ -36,50 +36,6 @@ The most common explanation is lightning. The storm was severe, and the church m
 
 The north door of Holy Trinity, Blythburgh, is still there. The scorch marks are still visible, and the church is a local landmark. A notice inside tells the story of the black dog of 1577. St Mary’s in Bungay is still standing too, and visitors can go inside. A dog ran through a church in less than a minute. People have told the story for more than four hundred years.
 
-## The Black Dog of East Anglia
-
-The legend of the black dog is not exclusive to Bongas. 
-
-Across the marshes, coastlines, and country lanes of East Anglia, an enormous black canine has long been whispered about. Locals dubbed it “Blackshack,” “Old Shack,” and even “Hell‑dog.” The creature is reported to appear alone or in packs, merely passing through, or to be a harbinger of death. 
-
-No single, consistent image has emerged. In some accounts, its eyes burn red; others claim it has no eyes at all. Descriptions vary from the size of a calf to that of a ordinary dog. The unifying detail is its midnight hue. 
-
-The black dog is repeatedly linked with storms, swamps, crossroads, and churches—places that are frightening after dark and prone to mishaps. These settings are marked as “dangerous” in the tales.
-
----
-
-## The 1577 Pamphlet
-
-The events at Bongas and Blishburg were recorded in an 18‑page pamphlet of the era. 
-
-Authored by Reverend Abraham Fleming, a clergyman, the pamphlet, titled *A Strange and Terrifying Marvel*, was printed shortly after the incident. It chronicled the sequence of events at the two churches, casualties, and eyewitness testimonies. Fleming’s tone was solemn and admonishing, filled with words like “warning,” “punishment,” and “repentance.” 
-
-He never visited the site himself; his account was assembled from others’ reports and his own interpretations. While the storm, lightning strikes, and damaged churches are plausible, the claim that a black dog traversed the sanctuary and left scorched marks is the most difficult to verify.
-
----
-
-## Lightning and Scorch Mark
-
-The prevailing theory attributes the damage to a lightning strike.
-
-On 4 August 1577 a fierce storm struck. Lightning hit the church, likely setting loose stone carvings, catching the timber in flame, and causing casualties. In the ensuing chaos, a frightened dog—sudden thunder as a cue—could have darted into the nave, a sight that later observers might have described as the “black dog.” 
-
-The north door of Trisypur’s Trinity Church bears scorch marks. These could be from the lightning itself, or from a later fire or repair. The door’s preservation lent itself to the tale: it stands as physical evidence of fire, but it cannot confirm the presence of a canid.
-
----
-
-## Why Churches
-
-The choice of a church is deliberate.
-
-In 16th‑century England, the church was the village’s most robust, communal structure. Lightning striking a church was interpreted as a divine warning. A black dog breaching a sanctuary carried more symbolic weight than entering a barn—it crossed the very threshold of safety. 
-
-Fleming’s pamphlet served a theological need. Amid the Reformation’s turmoil, Catholic rites were being abolished and Protestant clergy sought to prove that God condemns irreverence. A blustery tragedy, two deaths, and a black dog together formed an ethical parable. 
-
-The legend persisted beyond the aftermath of the storm, drifting into taverns, postcards, and local ghost‑story itineraries. A dog, frightened by thunder, became one of East Anglia’s enduring myths. 
-
-Today, Bongas’s church remains open. Visitors can walk through the north door and see the charred wood. Guides may say it was left by the black dog; others claim the lightning. Either way, the same timber tells both tales.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1577 accounts, the physical marks in the churches, and the explanations offered for them; the scorch marks prove a fire, not a dog. The illustrations are scene reconstructions, not historical photographs.

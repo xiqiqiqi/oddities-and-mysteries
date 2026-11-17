@@ -62,50 +62,6 @@ The name “Foo Fighters” was later adopted by an American rock band. Dave Gro
 
 For a wartime nickname, that is an odd afterlife: it once described a group of unsettling lights, and now more people hear it and think of a song.
 
-## Night Battle 1944
-
-The name "Foo Fighter" comes from the night fighter pilots of World War II.
-
-In the winter of 1944, Allied pilots flew night missions over Europe. They said they had seen glowing spheres or spots of light near the plane, with colors ranging from red, yellow, orange and white. They will follow the plane or suddenly accelerate and disappear.
-
-These lights do not attack or dodge. The pilot couldn't catch up or hit him. They seemed to be watching on purpose.
-
-## Origin of Name
-
-The word "Foo" comes from the popular comic "Smokey Stover" at the time.
-
-There is a catchphrase in the comics "where there's foo, there's fire", which means "where there's smoke, there's fire." Pilots call those unknown lights "foo fighters," with a bit of joking and a bit of annoyance.
-
-The name was later borrowed by UFO culture. But in 1944, it was just wartime slang, not synonymous with an alien spacecraft.
-
-## Balloons and Glitter
-
-After the war, researchers proposed several explanations.
-
-The first type is enemy balloons. Germany used aluminum foil-carrying balloons late in the war to jam radar. Aluminum foil will reflect light in the moonlight and look like points of light.
-
-The second type is aircraft lighting. Night fighters have navigation lights, identification lights, and tail lights that are refracted and magnified in clouds and fog, making them appear to be moving.
-
-The third type is visual fatigue. When pilots stare at instruments and the sky for long periods of time in the dark, their eyes can develop flashes, floaters, and optical illusions.
-
-## Wartime Narrative
-
-"Foo Fighter" was important because it took "UFOs" from folklore to military reporting.
-
-Pilots are trained observers. Their reports carry more weight than ordinary eyewitness accounts. But military reporting also has its limitations: wartime tensions, information blockades, and reporters’ desire to be taken seriously.
-
-After the war, these reports were collected by UFO researchers and became the basis for the theory that the government knew about aliens. There is no such conclusion in the original document. They simply said: The pilot saw an unidentifiable light.
-
-## Supplementary Note
-
-The term "Foo Fighter" was borrowed by rock bands after the war and became something completely different. A wartime slang term that passed through comics, music and UFO culture to become a crossover name. A name sometimes outlives the phenomenon it refers to.
-
-## Archive Location
-Foo Fighter is where war meets legend. It started with reports from pilots and was later taken over by UFO culture. Archives preserve the distinction: The 1944 pilot spoke of "unidentified lights," not "alien craft." This distinction was often erased in later dissemination.
-
-## Further Notes
-After the war, many pilots stopped talking about the lights. Some people think that if they say it, they will be regarded as nervous, some think that it is the enemy's secret weapon, and some just regard it as part of the night shift. It wasn’t until the rise of UFO culture that these old reports were resurfaced. The same report will turn into different stories in different eras.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the pilots' descriptions, the wartime investigation, and the post-war explanations in separate layers rather than treating any one of them as final.

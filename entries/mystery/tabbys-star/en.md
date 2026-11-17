@@ -62,45 +62,6 @@ The case leaves a clear set of layers: the dimming is real and the data is publi
 
 A single star's light has kept this many people looking up for this long. That is rare in itself.
 
-## People Who Look at Data
-
-Tabby's Star's real name is KIC 8462852, a star located in the constellation Cygnus.
-
-In 2015, astronomer Tabetha Boyajian and her team published a paper saying the star had experienced an unusual decrease in brightness. The descent is not regular, nor is it as neat as a planet's transit. Sometimes it loses a few percent within a few days, and sometimes it slowly darkens over a few months.
-
-The Kepler telescope recorded the light curves of a large number of stars. Most curves have periods, Tabby's Star curve does not.
-
-## 2017
-
-In 2017, Tabby's star dimmed again.
-
-This time the decline was larger and lasted longer. Observers tracked it with ground telescopes and multi-band instruments and found that the dimming method was not "the whole star dimmed", but that certain colors were blocked more.
-
-This detail is important. If a solid object blocks the star, all colors should dim together; if it's dust, different colors of light will be scattered to varying degrees.
-
-## Dust
-
-Later studies favored dust.
-
-Dust clouds can move around stars and have irregular shapes, causing irregular brightness changes when blocking starlight. The particle size, distribution and motion of the dust can explain why some bands are much darker and some are much darker.
-
-But where does the dust come from? It could be the disintegration of a comet, it could be a planetary collision, it could be material thrown off by the star itself. Each explanation requires more observations.
-
-## Alien Architecture
-
-After the 2015 paper was published, some people put forward the hypothesis of "alien megastructures."
-
-The hypothesis was easy to propagate: an irregular darkness, a cluster of possible civilizations, a sufficiently large structure. But it has no observational support. Subsequent infrared observations found no waste heat, and the spectra revealed no signatures of artificial materials.
-
-The mainstream attitude in the scientific community is: look for natural explanations first. Not because of exclusion, but because natural explanations are easier to test. Tabby's Planet remains a mystery, but it's not a "confirmed alien structure."
-
-## Supplementary Note
-
-The story of Tabby Star has also become a case of science communication. A paper, a press conference, and a few online videos can turn a distant star into a candidate for an "alien civilization." Later observations did not confirm this hypothesis, but the public memory remained. Science takes time, stories don’t.
-
-## Archive Location
-Tabby's Star is an archive of the "Unsolved Science" category. It has a real observational object, a real set of data, and an explanation that has yet to be determined. It reminds people that scientific uncertainty is not a blank, but a structured uncertainty: we know which explanations have been ruled out and which are still candidates.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the observations, the popular story, and the later research; the “alien megastructure” was a historical candidate hypothesis.

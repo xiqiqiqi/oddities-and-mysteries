@@ -68,45 +68,6 @@ The south slope of Phoenix Mountain is still there. The white thing did not come
 
 *Original schematic: the June–July 1994 timeline, the south-slope sighting and the investigation. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## The Chinese UFO Craze of 1994
-
-The Phoenix Mountain incident is not isolated.
-
-Around 1994, a large number of UFO reports appeared across China. Newspapers, television and popular science magazines were all discussing "flying saucers". Qigong craze and mysticism were also popular at the same time. A forestry worker who says he saw something white in the mountains easily fits into the national narrative.
-
-Phoenix Mountain is located in the Hongqi Forest Farm of Shanhetun Forestry Bureau, Wuchang City, Heilongjiang Province, and belongs to Zhangguangcai Ridge in the Changbai Mountains. There are virgin forests, swamps and logging roads in the mountains. June is the season for picking wild vegetables. There are many people going up the mountain, so there are channels for spreading sightings.
-
-## Memory and Hypnosis
-
-In 2005, CCTV's "Approaching Science" asked psychologists to analyze Meng Zhaoguo's narrative.
-
-Psychologists' explanation is that he may have experienced a strong psychological event, and then made up his imagination into memory through repeated narration, questions from others, and media attention. This is not conscious lying, but the normal way memory works.
-
-People are prone to vivid hallucinations when they are highly stressed, sleep deprived or physically unwell. Later, if people around you press for details, these hallucinations will be sorted into a coherent story. The more the story is told, the more the narrator believes he has experienced it.
-
-## Physical Evidence
-
-The investigation team measured radiation in Meng Zhao's country and found no abnormalities.
-
-No white object was found on the hillside, no wreckage, no photos, no samples. The "elastic things picked out from the skin" mentioned by Meng Zhaoguo have not been preserved either.
-
-The only thing left were the red marks and scars on his body, and his own narrative. Red marks can be interpreted as skin diseases, scratches or burns; scars can be interpreted as old injuries. They do not prove extraterrestrial contact, nor do they deny it outright.
-
-## Mountains and Stories
-
-The southern slope of Phoenix Mountain is still there.
-
-The white thing didn't come back, and life on the forest farm didn't change. Meng Zhaoguo continues to live nearby and occasionally gives interviews. The story has been written into books, programs and online articles, with ever-increasing editions.
-
-Could one man invent such a story? Investigators argued that year. But it’s more worth asking: why would one need such a story? In a remote forest farm, an ordinary worker suddenly became the center of national attention. The story gave him a place.
-
-## Supplementary Note
-
-After the Phoenix Mountain incident, many "eyewitnesses" appeared in the local area. Some people say that they have also seen white light, and some people say that there are other objects in the mountains. Most of these claims have gone undocumented and uninvestigated. After a story is established, it will attract more stories. This is a common phenomenon in the spread of legends.
-
-## Archive Location
-Phoenix Mountain is a typical example of "personal testimony" archives. It has no physical evidence, no photographs, only the memory of a narrator and the records of a group of investigators. The file is not responsible for judging whether he is lying, but is only responsible for separating self-reports, observations by fellow travelers, survey results and psychological analysis. Once separated, the reader can see how the story grows layer by layer.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Meng's account, the witnesses' observations, the investigation and the psychological explanations; no physical evidence confirms an alien contact. The illustration is a scene reconstruction, not a photograph of the site.

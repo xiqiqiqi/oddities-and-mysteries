@@ -70,42 +70,6 @@ The name survives in books, on websites, and in the coastal legends of Vancouver
 
 The sea is large enough to hold many stories. Caddy is one of them.
 
-## 1930s Newspapers
-
-The name “Caddy” was coined by the press. In the 1930s, newspapers on Vancouver Island and mainland Victoria began reporting on a “sea serpent” in the Gulf. They labeled it Cadborosaurus, which readers soon shortened to Caddy. This type of tale—local, mysterious, requiring no hard evidence, and able to attract tourists—loved the papers.
-
-Witnesses were mostly mariners, fishermen, and boaters. Their long years at sea meant they’d seen whales, seals, seaweed, and driftwood. Yet glare, distance, and fatigue could make a snapped neck appear as a creature.
-
-## The 1937 Body
-
-In October 1937, at a whaling station in Naden Harbour, workers discovered a curled carcass inside the stomach of an orca. It measured about three metres, slender, with a small head and a pair of fins. A photograph of it found its way into the papers, and for a moment it did look like a little sea serpent.
-
-The provincial museum curator, Francis Keamode, examined it and identified it as a juvenile sperm whale. A fetus swallowed by a whale can be digested, compressed, and distorted—longer neck, smaller head, paler skin—producing a silhouette that could be mistaken for a mythic creature. The explanation did not silence the tale; instead it added another layer: a picture and two interpretations.
-
-## Scientific Name
-
-In 1995, two researchers proposed that, if Caddy truly existed, it should bear a Latin binomen: *Cadborosaurus willsi*. Without a type specimen—no physical skeleton, no tissue that could yield DNA—any proposed name remains just a suggestion. The International Commission on Zoological Nomenclature did not accept it, and later scholars have treated it as an informal label rather than a valid species.
-
-A name can be coined before a specimen exists, but the specimen must exist before the name can be formally adopted. The crux of the Caddy debate is not the absence of a name but the lack of evidence.
-
-## Misidentifications on the Surface
-
-Most Caddy sightings can be explained by ordinary sea‑surface phenomena. A seal’s neck as it surfaces can resemble a long‑necked animal; a sea otter swimming upside‑down might look like a sliver of dark wood; a whale’s arched back can appear as a series of humps; drifting seaweed and floating timber can give the impression of movement.
-
-The 1937 carcass, the most plausible explanation being a whale fetus, neither proves Caddy’s existence nor discredits all prior sightings. It simply illustrates that an image resembling a sea monster could arise from a drowned whale.
-
-The story of Caddy continues to the present. Reports of “long‑snouted” creatures persist on the coast of British Columbia, at Wena Bean Lake, and in Okanagan Lake, using the same vocabulary—humps, necks, black silhouettes. What they share is the same fundamental problem: no specimen.
-
-Caddy never entered the scientific literature, but it entered place names and tourist guides. There are still vessels and shops on Victoria’s waterfront named after it. An uncaptured animal has become a brand.
-
-## Supplementary Notes
-
-The most valuable parts of Caddy’s dossier are not the conclusion that it exists but the precise locations of the sightings: Victoria Harbour, Naden Harbour, the British Columbian coast. These coordinates pin an unsubstantiated creature onto an actual map. Future researchers may follow them to either investigate or remain skeptical.
-
-Finally, most reports of Caddy lack detailed coordinates and weather records, making it hard for later scholars to revisit sites or exclude familiar explanations such as seals, seaweed, or wave action. The coarse nature of the evidence is itself part of the story.
-
----
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the sighting descriptions, the 1937 carcass, the naming, and the possible explanations; the Naden Harbour carcass was identified by the museum as a fetal baleen whale, and there is no reliable specimen or photograph of Caddy.

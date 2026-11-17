@@ -82,53 +82,6 @@ Some places do not need an answer. They need a storyteller and a flashlight.
 
 *Original schematic: the clearing, the bent trees and the 1953 and 1968 sightings. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## City ​​edge
-
-Hoiabachiu Forest, near Cluj-Napoca, Romania.
-
-It is a forest on the edge of the city. It is not large and can be walked through in a few hours. There are hills, valleys and clearings in the forest.
-
-## The Name
-The name "Hoya Bachu" comes from a shepherd.
-
-Legend has it that he led his flock into the forest and never came out. The name became a mystery.
-
-## Tree
-
-Some of the trees in the forest are bent.
-
-The tree trunk twisted and fell sideways. Some people say it is the magnetic field; some people say it is the characteristics of the tree species.
-
-## Space
-
-There is a circular clearing in the forest.
-
-There were no trees or grass in the clearing. Some say it is where UFOs landed.
-
-## Photo
-
-There are many "supernatural photos" in the forest.
-
-Some photos have light spots, some have fog, and some have human figures. Most can be explained by cameras, flash, and long exposures.
-
-## Missing
-
-The legend of someone missing in the forest.
-
-Some people say that whoever goes in does not come out. There are no reliable records of disappearances.
-
-## Business
-
-Hoya Bachu is a tourist spot.
-
-The tour guide takes people into the forest and tells ghost stories. Forest's fame comes from the Internet and television.
-
-## Linzi
-
-A forest is still a forest.
-
-The trees are growing and the road is moving. The story is on the tree, not in the tree.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the geography and tree forms, the local legends, the photograph controversy and the tourist trade; the bent trees and the clearing are real, while the saucer and disappearance stories have no verifiable evidence. The illustration is a scene reconstruction, not a photograph of the site.

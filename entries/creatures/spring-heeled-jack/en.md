@@ -58,22 +58,6 @@ No body, no capture, no reliable photograph. What remains is a stack of newspape
 
 He may have been one man. He may have been several. He may have been a story told too many times.
 
-## Supplementary Note
-
-The story of Spring Heeled Jack overlaps with the history of London's nighttime lighting. Gaslight made the streets brighter than before and made the shadows more sudden. A person jumps from the light into the dark and then from the dark to the wall, seemingly disappearing. Technology has changed cities, and it has also changed the way monsters appear. Before gas lights, the streets at night were not clearly visible, and monsters did not need special movements; gas lights cut the streets into bright and dark blocks, and a person who jumped from the light into the dark had the effect of "disappearing". The story of Spring Heeled Jack is stuck at this turning point.
-
-Spring Heeled Jack has never been identified. Some say he is a noble, some say he is an actor, some say he is a collective prank of a group of people. Every theory is missing a final link, and the missing link is what keeps the story going.
-
-He doesn't need a real name. All he needed was a night and a dark enough street. For researchers, the value of this case is also here: it records how fear is told, printed, performed, and finally turned into a character that does not need a prototype.
-
-The image later left London. Stage plays took him to other provinces, cheap books printed him as illustrations, and comics and movies borrowed him. Each adaptation gives him a different set of clothes, but keeps the same actions: jumping, jumping over walls, and disappearing. The name also became fixed and became a ready-made metaphor in English - when a person suddenly disappears from sight, it can be said that he "jumped away like Spring Heeled Jack".
-
-To today's readers, he is more like a mirror: how a city molds its fears at night into a character that can be told over and over again. Gaslight, newspapers, cheap reading materials and the stage pushed him away layer by layer, but also made him clearer layer by layer.
-
-His leaps grew taller in every retelling, until the wall itself became part of the legend. The story moved from newspaper columns into penny dreadfuls, music halls and, eventually, cinema.
-
-That is why he remains useful: not as a case to be solved, but as a story that shows how a city turns anxiety into a figure people can recognize.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the contemporary newspaper reports, the later popular-literature figure, and modern explanations; it does not identify Spring-Heeled Jack as a confirmed creature.

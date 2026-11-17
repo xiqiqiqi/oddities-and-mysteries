@@ -46,34 +46,6 @@ Today there is no photograph and no specimen, only testimony and press coverage.
 
 The story has no definitive conclusion. It is a legend that grew out of one place, in a particular decade.
 
-## Newspaper and Title
-
-In 1991, Linda Goffrey penned the first article on the Beast of Braley Road in the Waldorf County Herald. As the local reporter she interviewed several people who claimed to have seen a large creature along the roadside. The piece ran, and calls grew, turning the tale into regional folklore.
-
-Goffrey later compiled the interviews into a book, titling it simply “The Beast of Braley Road.” She neither dismissed the witnesses as liars nor claimed the creature as fact. Instead she documented each account with dates and locations, allowing readers to judge for themselves.
-
-This practice anchored the story in written form. Prior it existed only in tavern gossip, gas‑station chats, and family meals; afterward anyone could cross‑check the book with their memories of the route.
-
-## Werewolf Shape
-
-The Beast of Braley Road is often likened to a werewolf because its depiction carries both wolf and human traits.
-
-The wolf elements include head shape, muzzle, ears, and coat; the human traits are upright posture, height, and shoulder breadth. Combined, they mirror the European werewolf archetype. Wisconsin’s sizable German‑Polish descendant community is no stranger to werewolf lore. A late‑century sighting slipped neatly into that older narrative.
-
-Yet “werewolf” is a cultural label, not a zoological conclusion. Witnesses describe an object resembling a wolf, not a human morphing into one. Subsequent books, television shows, and websites blur the distinction.
-
-## Road and Night
-
-Braley Road is a typical country lane bordered by cornfields, pastures, and scattered woods. It lacks lighting; headlights illuminate only a short stretch ahead. In the dark the roadside strip of reflective tape, glinting eyes, or fluttering plastic bags appear as tiny points of light.
-
-In such conditions distance and size are hard to gauge. An animal on the shoulder may look closer or taller than it is; a person at the edge of a cornfield may be perceived as a “shadow emerging from the earth.”
-
-Thus most sightings occur at night, often without clear photographs. Not every witness lies; the darkness itself can exaggerate ordinary objects.
-
-The tale underscores that legends don’t require a crisp image. They thrive on a sufficiently dark road, willing storytellers, and a local paper ready to reprint the story. With photographs absent, imagination fills the void.
-
-Today Braley Road remains a drivable lane, unlined by fencing or a “beast present” sign. Yet when night falls and headlights sweep into the corn, those who remember the stories feel the relevance of the legend.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the early record, the 1990s sightings, the reporter’s investigation, and the possible explanations; there is no photograph and no specimen, only testimony and press coverage.

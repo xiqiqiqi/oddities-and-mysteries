@@ -72,40 +72,6 @@ In recent years some people have proposed translating the Chinese dragon as “l
 
 *Original schematic: the features of the Chinese dragon and the Western dragon compared. Not a photograph of an object. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## The Word “Dragon”
-
-Chinese lóng (“dragon”) and English “dragon” are not the same word. The former appears as early as the oracle‑bone script and depicts an amalgamation: a serpent body, deer antlers, fish scales, and bird talons—capable of flight, diving, and size change. It is a composite of traits rather than a fixed organism.
-
-“Dragon” comes from Greek *drakon*, meaning “serpent” or “guardian.” In Greek mythology, dragons guard treasure or springs; in the Bible, the dragon becomes a metaphor for Satan. The image evolves, its orientation shifting: Western dragons increasingly resemble lizards, emphasising wings and fire.
-
-## Dragon‑Kings and Rain
-
-In China, the dragon’s most common function is to control rain. Agriculture depends on rain, and the divine manages it. Dragon‑king temples sit in almost every farming district, each with its own jurisdiction, shrine, and birthday. During droughts, people parade dragon‑king statues to beg rain; during floods, they ask the dragon to stop.
-
-Dragons are also intertwined with imperial authority. The emperor wears a dragon robe, sits on a dragon throne, and employs the dragon in palace names and era titles. Thus the dragon becomes an icon of power—belonging to no single individual yet worn by one.
-
-## The Western Dragon’s Antagonist Role
-
-Western dragons frequently act as adversaries. They guard gold, kidnap princesses, and burn villages. Defeating a dragon validates the hero. Saint George’s slaying of a dragon became England’s patron legend; the dragon in *Beowulf* meets its doom with the hero; the Norse *Fafnir*, once human, turns into a dragon for greed.
-
-In these tales, the dragon is the thing to be conquered—paganism, greed, chaos, the old world. Slaying it establishes order.
-
-## Fossils and Dinosaurs
-
-“dragon bones” (lónggǔ) is a Chinese folk medicine ingredient. It reflects that when ancient people unearthed unexplainable gigantic bones, they used familiar names to describe them. The dragon was a ready‑made explanation.
-
-In 1842, British anatomist Richard Owen coined *Dinosauria* (“terrible lizard”), a name unrelated to “dragon,” but it carried the same dread: gigantic, extinct, bone‑only relics.
-
-The dragon’s imagery crosses cultures because it can serve as a vessel for ideas. Chinese dragons embody rain and imperial power; European dragons carry tales of paganism and greed; modern dragons encapsulate fear and wonder. An empty container proves more useful than a real animal.
-
-Today, dragons swing between directions: they are a zodiac animal and a video‑game boss; a temple deity and a children’s picture‑book figure. They remain outside science because they never belonged to it.
-
-## Supplementary Notes
-
-When treated as a cultural symbol rather than a biological entity, many contradictions dissolve. Chinese dragons may control rain or symbolize the emperor. Western dragons guard treasure or embody the devil. They need not share a body; their shared place is at the edge of human imagination.
-
----
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the Chinese dragon, the Western dragon, fossils and real animals; dragons are mythical creatures with no biological evidence, and “dragon bones” are fossils, not the remains of dragons. The illustration is a scene reconstruction, not a photograph of an object.

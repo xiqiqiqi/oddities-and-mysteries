@@ -72,32 +72,6 @@ A glowing sphere moving in the night sky, hovering, and vanishing suddenly does 
 
 Not every unexplained light is ball lightning, of course. The atmosphere contains many phenomena we do not fully understand. Ball lightning is simply the oldest, most specific, and most elusive of them.
 
-## Laboratory
-
-The most difficult thing about ball lightning is that it is difficult to repeat.
-
-There are many sighting reports, few photos, and even fewer instrumental records. Researchers can only simulate it in the laboratory: using discharges, microwaves, evaporating metal or soil to create glowing plasma balls. These balls usually only last a few milliseconds to a few seconds, which is far from the tens of seconds that witnesses said.
-
-In 2014, Chinese researchers used soil vapor and high-voltage electric discharges to create luminous objects that resembled ball lightning. It floats, glows, and lasts longer than previous experiments. This result supports the "silica vapor in soil" hypothesis.
-
-## Nature
-
-Ball lightning may not be a thing, but a class of phenomena.
-
-When lightning strikes the ground, silicon, carbon and water in the soil are vaporized, forming a cloud of high-temperature gas. As the gas cools, it may condense into glowing particles that form into spheres. It moves along the airflow and explodes when it encounters obstacles.
-
-Another explanation is plasma bubbles, or clumps of charged dust. Each explanation can explain some features, but not all.
-
-## Safety
-
-Eyewitnesses of ball lightning usually describe it entering indoors.
-
-It can pass through windows, doors, or even chimneys. It does not follow the path of ordinary objects, nor does it necessarily obey gravity. It floats, rolls, and suddenly explodes.
-
-If you do encounter one, the safest thing to do is to stay away, don't touch, and don't chase. It's not a toy and it's not a UFO. It's a physical phenomenon, it's just not fully understood yet.
-
-The ball lightning file ended with two words: undecided. It's not a UFO, and it's not a complete mystery. It is a physical phenomenon that has been seen many times but has not been fully reproduced.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The cause of ball lightning remains disputed; this article separates eyewitness reports, laboratory results, and interpretive hypotheses.

@@ -74,42 +74,6 @@ The paper of 1909 is long gone. The monster is still around, printed on T-shirts
 
 *Original schematic: the 1909 series in the Middletown Valley Register, the features of the creature and the spread of the story. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Midlothian Valley Gazette
-
-In February 1909, the *Midlothian Valley Gazette* of Frederick County, Maryland, ran a sprawling front‑page story. Over the next several weeks, the paper almost daily delivered fresh updates: the Smithsonian Institution was reportedly preparing to dispatch experts, and President Theodore Roosevelt himself might attend the manhunt.
-
-## German Immigrant Terminology
-
-Snanly is a low hill and farmland area in Frederick County. By 1909, the term had morphed into “snallygaster”—a German word that English newspapers had repurposed as the name of a monster.
-
-## The Jersey Devil
-
-The snallygaster did not materialize out of nothing.
-
-## The Seven‑Spoked Star
-
-Many local families painted a seven‑spoked star on barn doors, supposedly to ward off the beast. The star is a long‑standing protective symbol in European folklore, commonly brought by immigrants to America and affixed to barns, lintels, and stalls. The 1909 monster scare gave this motif a fresh purpose.
-
-## The Hoax
-
-The series of reports continued for several weeks. Eventually, editor George C. Rodrick and reporter Ralph S. Wolf admitted that the story was fabricated—there was no creature, no steel claws, no Roosevelt‑led raid. Nevertheless, the paper’s circulation rose. A faked tale created to boost sales outlived the newspaper itself. Today, it appears on T‑shirts, bar walls, and serves as a mascot for Frederick County.
-
-The snallygaster narrative is a snapshot of the print era. It shows that a sufficiently compelling monster can be invented in weeks and yet persist for a century. Modern social media simply compresses that span from weeks to days.
-
-Later, the snallygaster appeared on bar signs, fire‑department insignia, and local school handbooks. A confessed fraud ultimately became a joke that the community chose to cherish.
-
-## Afterword
-
-Once the snallygaster hoax was acknowledged, the story became safer—no one needed to prove its existence or deny it. It could comfortably exist as a mascot on fire trucks, coffee mugs, and children’s drawings. An unmasked monster can live more lightly than one believed.
-
-In 1909, the Midlothian paper described the snallygaster as a flying creature that stole livestock and drank blood. The tale spread from Baltimore to Washington and later inspired the names of local bars and teams. The coverage contained no photographs or specimens, existing only in old newspapers.
-
-The reports focused on 1909, depicting the creature as half‑bird, half‑serpent. The name was later adopted by a local tavern, and eventually became a team mascot.
-
-The old newspapers survive. They can be found on microfilm in libraries, which must be hand‑cranked to view.
-
-The spelling of snallygaster varied widely; no definitive version exists. The historic microfilm, however, remains a tangible link to the legend.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1909 newspaper series, the description of the creature, the influence of the Jersey Devil and the admitted hoax; the Snallygaster was invented by the paper's editor and reporter, and there is no physical evidence for it. The illustration is a scene reconstruction, not a historical photograph.

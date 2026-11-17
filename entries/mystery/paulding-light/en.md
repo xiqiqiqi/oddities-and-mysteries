@@ -66,46 +66,6 @@ The light usually appears. It comes from a highway several kilometres away, prod
 
 *Original schematic: the viewing point, the old railroad grade and US-45, with the path of the headlights. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Paul Ding
-
-Paulding is in the Upper Peninsula of Michigan, USA, near the Wisconsin border.
-
-It was a mix of forests, swamps and logging roads. At night, looking from a lonely road, a point of light will appear above the woods. It moves, splits, merges, sometimes like a lamp, sometimes like a fire.
-
-Locals said it was a woman holding a lamp, or a dead railroad worker. There are many versions of the story, but the common point is: the light is in the woods, not on the road.
-
-## 2010
-
-In 2010, a television program team came to investigate.
-
-They took cameras, spectrometers and a car and drove up and down the road. Finally, they found that the location of the light spot was related to the direction of the distant headlights. When a car turns from a distance and its headlights pass through the gap in the woods, a moving point of light will be formed.
-
-The program explained the car lights. But the story doesn't end there. Locals still say that the light sometimes appears when there are no cars; tourists are still willing to wait on the roadside.
-
-## Headlight Geometry
-
-The headlight explanation works because of the topography of that road.
-
-The road is on a slope, there is a gap in the woods, and there is a higher road in the distance. The car lights shine in through the gap and become a blur of light after being filtered by fog, branches and leaves. When the car moves, the light moves; when the car turns, the light splits or disappears.
-
-It is difficult for the human eye to judge distance at night. A distant headlight will be seen as a small point of light above the trees. Without reference, light loses its scale.
-
-## Legendary Location
-
-Paul Ding's light has become part of the place.
-
-There are signs on the roadside, sighting maps on websites, and people in bars talking about it. Even as the headlight explanation was brought up again and again, the story stayed alive. Because what the story provides is not an answer, but a place to go at night: you can drive there, turn off the engine, and wait for a light.
-
-## Supplementary Note
-
-Paul Ding's light is most easily photographed as "evidence". Mobile phone cameras will extend the exposure at night, turning car lights into light trails, and turning distant point light sources into a ball of light. The photos look more mysterious than the naked eye. Technology doesn't create lies, it just changes the proportions of seeing.
-
-## Archive Location
-Paul Ding's Light is a typical example of the "misidentification" type of archives. It has a reasonable explanation and a story that is still popular. Explanation does not kill the story because the story provides not facts but a place to spend the night. People need something they can wait for.
-
-## Further Notes
-Pauldine's legend has a very practical effect: it gives an ordinary highway a destination. People drove by, parked on the side of the road, and waited for a light. Even if the last thing I saw were car lights, the journey was not in vain. Stories sometimes don't provide answers, just a reason to go out.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the location, the legend, the 2010 investigation and the headlight explanation; the Paulding Light can be reproduced with car headlights, but some witnesses do not accept the explanation. The illustration is a scene reconstruction, not a photograph of the site.

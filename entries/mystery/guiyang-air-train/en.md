@@ -78,44 +78,6 @@ A thunderstorm, a downburst, a forest broken in half, and lights and noise in th
 
 *Original schematic: the damage bands at Duxi, the location of the factory and the wind of a downburst. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Downburst
-
-A downburst is a downdraft in a thunderstorm cloud.
-
-Water droplets and ice crystals in the clouds evaporate and melt as they fall, absorbing heat. The air becomes colder and heavier, accelerating sinking. After reaching the ground, it spreads out in all directions, forming strong winds for a short period of time. Wind speeds can exceed thirty meters per second and last from a few minutes to more than ten minutes.
-
-Its damage has obvious directionality: trees fell in the same direction, roofs were lifted, and the damage zone was narrow and long. The fallen trees in Duxi Forest Farm are similar to this feature.
-
-## Tornado
-
-Another possibility is a landspout.
-
-Tornadoes have higher wind speeds and more concentrated damage, usually with a narrow and deep zone of damage. But a tornado requires a funnel cloud, which witnesses should be able to see. Witnesses that night did not describe a funnel cloud, only seeing lights and hearing sounds.
-
-A downburst does not require a funnel cloud. It smashes down from the cloud base and looks like a black cloud or a rainstorm. At night, clouds and rain obscure the structure, and people can only see the light and hear the roar.
-
-## After the Disaster
-
-Post-disaster surveys left behind a lot of data.
-
-The direction in which the tree fell, the height of the break, and the width of the damage zone were all measured. Damage to factories and greenhouses was also recorded. The data support the "strong wind" explanation but not the "aircraft" explanation.
-
-But the data can't explain all sightings. Some people said they saw a "carriage-like thing", and some people said they saw a fireball. Thunderstorms at night, blown debris, and distant lights may all be regarded as "strange cars."
-
-## Narrative
-
-The name "Monster Car" is easier to remember than "Downstream".
-
-It turns a meteorological disaster into a tellable story. There is sound, light, and a car without wheels. It requires no evidence, just a night.
-
-The trees at Duxi Forest Farm have grown again. The damage zone is no longer visible. But the "strange car" is still driving in the short video, running farther than the wind.
-
-The wind disaster at Duxi Forest Farm was later included in a meteorological case. It shows that a thunderstorm without a funnel cloud can still leave tornado-level damage on the ground. The story of the strange car obscured this more valuable discovery.
-
-The strange car can continue to drive, but the evidence left by the wind is more worth remembering.
-
-This is a wind that can be measured, not a car that cannot be measured.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the physical damage, the witness accounts, the meteorological investigation and the UFO claims; the event left extensive physical traces, a downburst or landspout is the best-supported explanation, and the UFO claims have no physical evidence. The illustration is a scene reconstruction, not a photograph of the site.

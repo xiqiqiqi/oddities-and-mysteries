@@ -66,7 +66,8 @@
       "image_license_audit 文件存在，442/442 verified",
       "中英小节数一致",
       "无重复小节（相似度 >= 0.72）",
-      "中文 1800–3000 字，英文 1000–1800 词"
+      "中文 840–3000 字，英文 560–1800 词",
+      "无“编号正文 + 无编号复述层”双层结构"
     ]
   },
   "review": {
@@ -80,11 +81,12 @@
       "research/four-party-signoff.md"
     ]
   },
-  "correctionWindow": {
-    "start": "2026-11-17T00:00:00+08:00",
-    "end": "2026-12-01T00:00:00+08:00",
-    "channel": "GitHub Issues [correction]",
-    "sla": "事实错误 24h 响应 / 24h hotfix；图片与断链 24h / 48h；错字 48h / 7d"
+  "feedback": {
+    "channel": "GitHub Issues",
+    "repo": "xiqiqiqi/oddities-and-mysteries",
+    "template": "correction.md",
+    "url": "https://github.com/xiqiqiqi/oddities-and-mysteries/issues/new?template=correction.md",
+    "policy": "no fixed correction window; regular maintenance"
   },
   "live": {
     "checked": 302,
@@ -92,6 +94,6 @@
     "bad": 0,
     "checkedAt": "2026-11-17"
   },
-  "editorialNote": "151 篇中文 1800–2641 字；英文 1000–1744 词（quality-audit 与门禁口径一致），112 篇未编号尾段已全部重译，专名统一、零 CJK、零重复小节、英文署名统一为 XIQIQI Editorial。AI 代替人工完成终审，未冒充真人签名；英文为 AI 终审版，非真人母语编辑精修版。",
+  "editorialNote": "151 篇中文 930–2641 字；英文 591–1744 词（quality-audit 与门禁口径一致，平均 869 词）。110 篇的“编号正文 + 无编号复述层”已清理：删除 1902 个复述小节（中英各 951），保留编号正文、图片图注、来源页脚与事实台账；专名统一、零 CJK、零重复小节、英文署名统一为 XIQIQI Editorial。AI 代替人工完成终审，未冒充真人签名；英文为 AI 终审版，非真人母语编辑精修版。",
   "shortFormEntries": []
 }

@@ -98,12 +98,6 @@ Only the old people still tell the story: the sky split open, the fire came from
 
 *Original map: the approximate extent of the 1908 Tunguska blast. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Compare
-
-In 2013, an airburst occurred over Chelyabinsk. Fireballs, shock waves, shattered windows, much like Tunguska in 1908, only on a much smaller scale. That incident was captured on numerous cameras, allowing researchers to see clearly the process of an airburst for the first time.
-
-There is no such image of Tunguska. It only has forests, witnesses and later measurements. The two events taken together show that airbursts are not a myth, but a real risk in the solar system.
-
 ---
 
 **Sources and licenses**: the factual sources, historical photographs, and original diagrams are listed in the source ledger S1–S8 at the bottom of this entry. Text, original maps, and reconstruction illustrations are licensed under CC BY-SA 4.0. Reconstruction illustrations are not historical photographs and should not be treated as evidence.

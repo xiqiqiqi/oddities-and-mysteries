@@ -68,38 +68,6 @@ It is not a completely unsolved mystery either. There was a powder depot, an off
 
 What unsettles people are the details in the records: the clothes, the trees, the stone lions, the strange cloud. They are like footnotes that refuse to stay in order. Even when the cause is broadly known, a disaster always leaves something that will not fit neatly into the file.
 
-## Gunpowder
-
-Wang Gong Factory was the gunpowder depot of the Ministry of Industry of the Ming Dynasty.
-
-The main ingredients of gunpowder in the Ming Dynasty were saltpeter, sulfur and charcoal. The formulas have different proportions and different powers. Gunpowder is prone to moisture, heat, and spontaneous combustion during storage, transportation, and manufacturing. There were many gunpowder explosions in Beijing during the Ming Dynasty, and this was not the first time at Wang Gong Factory.
-
-But Wang Gong Factory is very large. It supplies Beijing camps and city defenses, and there will be no shortage of inventory. The explosion occurred in the morning, when people in the city were busy, so the casualties were particularly heavy.
-
-## Equivalent
-
-Modern researchers try to estimate the power of the explosion.
-
-Some say the equivalent of several thousand tons of TNT, others say less. The difficulty in estimating is that there are no reliable figures for the inventory, the quality of the gunpowder is unclear, and the constraints of the explosion are not known. Wang Gongchang is in the city, surrounded by houses, walls and streets. The explosion waves will be reflected and superimposed, making the damage range more difficult to calculate than on the open ground.
-
-Without this data, "equivalent" can only be a range, not an exact value.
-
-## Historical Data
-
-Wang Gongchang's records mainly come from Di's newspapers, memorials and personal notes.
-
-These materials serve different purposes. Officials needed to report disasters and hold people responsible; scholars needed to record visions and express political criticism; people needed to spread stories and explain fears. Each type of record will choose the details that it cares about.
-
-It is difficult to find out where details such as "clothes were blown away", "stone lions flew away" and "ganoderma clouds" first appeared. They may come from the scene, but they may also come from copying and exaggeration. What historians can do is juxtapose different sources and point out which accounts have multiple versions.
-
-## In Conclusion
-
-The core facts of the Wang Gong Factory explosion are clear: a powder magazine explosion occurred in Beijing, causing a large number of casualties.
-
-Details are still disputed: how large the inventory was, how powerful it was, why the damage was so widespread, and how to explain those strange phenomena. Controversy does not mean there is no solution, it just shows that at the scene of historical disasters, there will always be something left behind that cannot be neatly archived.
-
-Thinking of it as an "alien explosion" is not an explanation, but an escape. The real difficulty is facing an incomplete file.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. Modern explanations of the cause are disputed; this article separates official records, contemporary rumors, and later speculation.

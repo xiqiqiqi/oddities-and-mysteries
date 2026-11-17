@@ -60,50 +60,6 @@ The Dancing Forest is one of the best-known sites on the Curonian Spit. Visitors
 
 The trees keep growing. The bends will not disappear; they will only thicken with each ring. Which tree was shaped by wind and which by insects will probably never be settled.
 
-## The Woods on the Sand Spit
-
-"Dancing Forest" in the Curonian Spit of Kaliningrad Oblast, Russia.
-
-This is a narrow strip of sand with the Baltic Sea on one side and the Curonian Lagoon on the other. There are pine forests, sand dunes and wetlands on the spit. The Dancing Forest is in a pine forest. The tree trunks are bent and twisted, some are close to the ground, and some are in circles.
-
-From the air, it looks like a piece of grass blown by the wind. Looking closer, each tree has its own shape.
-
-## Why Bend
-
-The most common explanation is wind.
-
-The wind on the Curonian Spit is strong, and the sea breeze carries salt through the pine forests. When young trees grow in the wind, the top buds are blown away, and the trunks bend in the other direction in order to maintain balance. Over time, the tree grows into a curve.
-
-Another explanation is snow. In winter, the snow presses on the saplings and bends them; when the snow melts in spring, the trees do not recover and continue to bend.
-
-Others said it was sand. The sand dunes move, burying part of the tree trunk, and the tree grows upward and sideways to chase the light.
-
-## Insect
-
-Others attribute the curvature to bugs.
-
-After a pine tree is bitten by insects, the top buds die, side branches take over, and the trunk will bifurcate and bend. But the bending direction of Dancing Forest is more consistent, unlike random insect infestations.
-
-Researchers prefer wind and snow because the curved shape matches the prevailing local wind direction. Insect damage can explain individual trees, but not the entire forest.
-
-## Afforestation
-
-Dancing Forest is not a virgin forest.
-
-This pine forest was artificially planted in the mid-20th century to stabilize the dunes and protect the coast. The tree planters arranged the seedlings in rows, not expecting that the wind, snow and sand would shape them into another shape.
-
-A plantation that grew into what looks like a natural wonder. This in itself is a reminder: the line between natural and artificial is blurry than we think.
-
-## Supplementary Note
-
-The trees in the dancing forest are not uniform in their curved shapes. Some are like arches, some are like spirals, and some are close to the ground. This diversity suggests that wind, snow, sand and genes all play a role. There is no single cause and no single pattern. Nature rarely gives neat answers.
-
-## Archive Location
-Dancing Forest is a "Natural Wonders" category archive. It doesn’t need monsters, it doesn’t need aliens. A forest of artificially planted pine trees, shaped into strange shapes by wind, snow and sand, is enough to make one stop. The mystery of nature sometimes does not require the supernatural.
-
-## Further Notes
-Dancing Forest is now a tourist spot. Visitors walk along the wooden boardwalk and cannot leave the trail or touch the trees. The curved tree trunks are enclosed like exhibits. Once a natural wonder is protected, it becomes a museum; if not, it may be trampled upon. This is a difficult choice to have both ways.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article presents wind, insects, moving sand, and human planting side by side, without treating any one as the only cause.

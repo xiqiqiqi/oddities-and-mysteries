@@ -68,47 +68,6 @@ In a world where every monster wants to eat you, a creature that cries itself aw
 
 *Original schematic: the folklore elements, Cox's 1910 record and the later popular culture. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Logging Camp
-
-Skonk's story, from a logging camp in northern Pennsylvania.
-
-In the late 19th and early 20th centuries, loggers lived in the hemlock forests for months at a time. Winter is very long, and the wind blows through the trees at night, sounding like someone crying. Some people say that it is not the wind, but an animal.
-
-The life of a lumberjack is hard and boring. They needed stories to pass the night and stories to scare the new workers. Skonk was one of them: an ugly thing who cried all the time and turned into a puddle of tears when pushed.
-
-## 1910 book
-
-Skonk was first written about in 1910.
-
-## Tears
-
-The core of Skonk's setting is tears.
-
-It is not a man-eating monster, nor is it a demon that curses people. It's just ugly, it's just sad, it just doesn't want to be seen. When hunted by a hunter, it turns into a pool of tears and disappears without a trace.
-
-This setting is strange, but also very effective. Most monsters bite and claw; all Skonk does is cry and disappear. It's not scary, it's a little sad.
-
-## Later History
-In 1976, the British band Genesis wrote a song called "Squonk."
-
-In the song, Skonk hides in the mountains and cries because he is too ugly. In the end, he is surrounded by hunters and turns into a pool of tears. Later, it appeared in games, comics, and the Monster Manual.
-
-There's nothing scary about Skonk's story. It just sat on the edge of the forest and cried until the ground was wet and turned into a puddle of water. Perhaps because of this, it has not been forgotten: in a place where all monsters want to eat people, a monster that can only be sad is the most like a human.
-
-Skonk left no footprints and no specimens. What it left behind was a sentence: There is a thing deep in the forest. It is too ugly, so it cries. People who hear this sentence will remember that forest.
-
-## Supplementary Note
-
-There are no heroes or victims in Skonk's story. When the hunter chases it, it cries; when the hunter approaches, it turns into a pool of tears. This ending offers neither victory nor explanation. It just puts a stop to the pursuit. This is rare in an age where all the stories are about teaching people how to kill monsters.
-
-Skonk's story has no ending. It cries, it melts, it disappears. The next time someone walks into the woods, it will still be there. A monster that only disappears is the hardest to drive away completely.
-
-It does not chase people, nor does it wait for people. It only cries when it is seen and then disappears.
-
-Skonks are the sad monsters of logging culture. It hid in the mountains and cried until its body melted. This image later found its way into children's books and advertisements. Skonk's tears are said to heal wounds. This is campfire talk, not science.
-
-Skonk's story was later written into a children's book. It stopped crying and turned into a cute character. The sad monster of the logging camp was tamed in this way.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the lumberjack folklore, the 1910 written record and later popular culture; the Squonk is a folkloric creature with no physical evidence. The illustration is a scene reconstruction, not a photograph of a site.

@@ -64,56 +64,6 @@ Blood Falls is one of the most recognisable landmarks in the Dry Valleys. Its re
 
 Beneath ice with no sunlight, iron, salt, and water maintain a small world. It flows slowly, and it has been flowing for a very long time.
 
-## 1911
-
-Blood Falls at Taylor Glacier in McMurdo Dry Valleys, Antarctica.
-
-In 1911, geologist Griffith Taylor discovered a red stream of water at the front of the glacier during an inspection. It seeped out of the ice and flowed onto the surface like a rust-colored gash.
-
-Investigators at the time believed that the red color came from some kind of red algae. This statement has been circulating for a long time.
-
-## Not a Waterfall
-
-The name "Blood Falls" is a bit misleading.
-
-It is not a waterfall falling from a high place, but a stream of salt water seeping from the cracks in the glacier. The amount of water is very small, the flow rate is very slow, and it still remains liquid in an environment of more than ten degrees below zero.
-
-Salt water has a high concentration and a low freezing point. It comes from the seawater residue inside the glacier, and after decades of concentration, it turns into a dark red brine.
-
-## Red
-
-The red color comes from iron.
-
-Brine contains ferrous iron. When it comes into contact with air, the iron is oxidized to ferric iron, forming red iron hydroxide. This process is the same as iron rusting.
-
-Therefore, the color of the blood waterfall is not the color of biology, but the color of chemistry. As soon as water comes into contact with air, it begins to "rust".
-
-## Life Under Ice
-
-What’s even more surprising is that there are microorganisms in the brine.
-
-These microorganisms survive in a lightless, low-temperature, high-salt environment and obtain energy from chemical reactions of iron and sulfur. They don't need sunlight or oxygen.
-
-Blood Falls has thus become an astrobiological research site. If life can survive in such a place, then there may be similar life in the subglacial oceans of other planets.
-
-## How to Study
-
-Researchers used ice augers to take samples and analyze the chemical composition and microbial DNA of the brine.
-
-They found that the brine came from an ancient seawater pocket inside the glacier and had been sealed for at least hundreds of thousands of years. The microorganisms in the water have been isolated from the outside world for a long time, forming an independent ecosystem.
-
-The redness of the blood waterfall is the chemistry of iron; its value is the limit of life.
-
-## Supplementary Note
-
-The red color of Blood Falls was once regarded as evidence of "glacier bleeding". Today's chemical explanation is simple: iron encounters air and oxidizes and turns red. But simplicity does not mean boring. A saltwater lake that still flows at more than ten degrees below zero is a miracle of extreme environment in itself.
-
-## Archive Location
-Blood Falls is an "Extreme Environment" type file. Its redness has a chemical explanation, its life a biological meaning. The two stacked together make it neither mysterious nor ordinary. It is a place that can be studied and marveled at.
-
-## Further Notes
-Blood Falls is located in McMurdo Dry Valleys and has limited access. Researchers need to apply for permission, and tourists are not allowed to approach at will. Its remoteness protects its chemical and biological environment and makes samples precious. The harder a place is to get to, the easier it is for the imagination to fill its story.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1911 observation, later chemical analysis, and microbiological research; “Blood Falls” is a stain formed by seepage, not a waterfall in the usual sense.

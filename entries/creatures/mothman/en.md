@@ -62,46 +62,6 @@ Point Pleasant has a Mothman statue, a museum, and an autumn festival.
 
 It is no longer just a sighting from 1966. It is a local symbol: a small city remembered for a bridge disaster, and a red-eyed shadow flying over the treetops at night.
 
-## Winter 1966
-
-November 1966, Point Pleasant.
-
-Two young couples drive through the abandoned TNT area. They later told police they saw a large, human-like, bird-like thing standing on the side of the road. It has wings, red eyes, and makes no sound when it flies.
-
-Over the next few months, reports of sightings mounted. Some said it was chasing cars, some said it was standing on the roof, some said it had no head and eyes on its chest.
-
-These descriptions are inconsistent. But "red eyes" and "wings" appear repeatedly and become fixed features of Mothman.
-
-## Keel's Book
-
-In 1975, author John Keel published The Mothman Prophecy .
-
-## Birds and Panic
-
-The most common explanation is misidentification.
-
-All versions lack testable physical evidence, which is why it remains at the level of legend.
-
-Mothman is more than just a monster today. It's Point Pleasant's introduction to itself: We've had a bridge disaster here, and we've got a red eye story. When two things are put together, it is difficult to separate them.
-
-Point Pleasant hosts the Mothman Festival every year. The streets sell T-shirts, keychains and cookies with red eyes. The wreckage of the Silver Bridge is long gone, but the name of the bridge disaster remains. Monsters and disasters have become the memory of the town.
-
-## Supplementary Note
-
-The image of Mothman has been rewritten many times by movies and the Internet. Some versions make it predict disasters, some make it cause disasters, and some versions turn it into a comedy character. The red-eyed figure at Pleasant Point became increasingly blurry. The more popular the story, the more distant the origin.
-
-The story of Mothman ultimately comes down to a simple question: What kind of memories do people need after a disaster strikes a place? The victims of Silver Bridge need to be remembered, and Mothman provides an image that won't fade.
-
-The first pair of witnesses saw a red-eyed humanoid figure near Point Pleasant in November 1966. They chase in a car and the monster spreads its wings and flies away. After the Silver Bridge accident, sighting reports decreased. The Mothman became popular culture in the 1970s. The Mothman Festival is held annually in Point Pleasant. In the museum, there are models, newspaper clippings and T-shirts.
-
-Mothman sightings were concentrated between November 1966 and December 1967. Some say it appeared to warn of the Silver Bridge accident. There is no evidence for this statement. After the Silver Bridge accident, sightings declined, but the stories remained.
-
-The Mothman's red eyes later became a symbol. This image is on T-shirts, posters and movies. It’s no longer just a sighting, it’s a brand.
-
-A model of Mothman, on display in the museum. Tourists take photos with it. The red-eyed lights flashed on and off. Museum tickets are selling well.
-
-The lights in the museum are always on. The tourists are gone, but it’s still there.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the sighting record, the Silver Bridge investigation, and the later association with disaster; it does not identify Mothman as the cause of the bridge collapse.

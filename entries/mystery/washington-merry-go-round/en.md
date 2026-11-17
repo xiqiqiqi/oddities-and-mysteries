@@ -54,53 +54,6 @@ The Washington case left no physical object — only radar records, radio traffi
 
 More than seventy years later, the same scene still plays out. The radar is better and the cameras are everywhere. The answers have not become simpler.
 
-## Radar in 1952
-
-July 1952, Washington, DC.
-
-For several nights in a row, a number of targets appeared on the radar screen of the National Airport. They appear near the no-fly zone, move slowly, sometimes disperse and sometimes gather together. They don't look like airplanes, the radar operator said.
-
-Similar targets were reported from airport towers, Andrews Air Force Base and nearby weather radar on July 19 and 20. The fighter jet took off urgently, and the pilot said he saw some light spots, but after catching up, the light spots disappeared.
-
-## Press Conference
-
-On July 29, the Air Force held a press conference in Washington.
-
-At the meeting, officials showed radar records and acknowledged that "there were indeed things picked up on the radar," but did not confirm that they were alien spacecraft. This statement was cautious, but it was enough to make the front page of the newspaper.
-
-The name "Washington Carousel" appeared at this time. It describes those targets moving around on the radar like a carousel in an amusement park.
-
-## Inversion Layer
-
-Later investigations gave a very common explanation: an inversion layer.
-
-On summer nights, the ground cools quickly, and there is a layer of warm air above, creating a temperature inversion. Radar waves are refracted in the inversion layer, and the echoes from objects on the ground — trucks, buildings, trees — can be bent onto the radar screen, making them look like targets in the sky.
-
-This phenomenon is called "radar propagation anomaly". It can make a ground target appear in an impossible position, and can also cause a target to split into multiple.
-
-## Robertson Group
-
-In late 1952, the CIA organized a team of scientists, chaired by physicist H. P. Robertson, to evaluate UFO reports.
-
-The team looked at many cases, including the Washington incident, and concluded that most can be explained by natural phenomena or misidentification, and a few cannot be explained, but there is no evidence that they are alien spacecraft.
-
-This conclusion does not end the debate. It just removed "alien spacecraft" from official documents and left "unexplained" among the people.
-
-## Radar Also Tells Stories
-
-The Washington incident was important because it brought "radar evidence" into public view for the first time.
-
-In the eyes of many people, radar is an objective machine that can see things that humans cannot. But radar is not a camera. It shows echoes, not objects. The atmosphere, ground surface, equipment settings and operator judgment all change the image on the screen.
-
-A light spot may be an airplane, a truck, a temperature inversion layer, or a noise on the screen. Confirming what it was would require another radar, another pair of eyes, and recordings from the same time.
-
-## Supplementary Note
-
-After the Washington incident, the Air Force established more formal UFO investigation procedures. Project Blue Book collected tens of thousands of reports, most of which were interpreted and a few were marked as "unidentified." This classification remains to this day. It acknowledges the unknown and limits the scope of the unknown.
-
-## Archive Location
-The Washington incident was the beginning of the radar era. It made the public believe for the first time that machines could see things that humans couldn’t. Later research showed that machines can also be tricked by the atmosphere. This lesson has always been useful: the more technical the form of evidence, the greater the need to understand the boundaries of the technology.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the radar records, the pilots' sightings, and the later official explanation in separate layers rather than treating any one of them as the whole answer.

@@ -74,50 +74,6 @@ Visitors can drive to the area on designated roads, but they must not drive onto
 
 The stones are still there. Most of the time they do not move. In the right few days of winter, they travel a short distance, slowly.
 
-## Tracks on the Lake Bed
-
-Racetrack Dry Lake in Death Valley National Park, California, USA.
-
-The lake bed is flat and large. Water accumulates when it rains and turns into a mud crust during drought. There are long tracks on the stone, some straight, some turning, and some crossing each other.
-
-These tracks have not changed in decades and look like the stones have traveled by themselves.
-
-## 2014
-
-In 2014, researchers used GPS and cameras to record the stone's movement.
-
-In winter, the lake bed is covered with a thin layer of ice. During the day, the ice melts, forming patches of ice floes. The wind pushes the ice floes away, and the ice floes clamp the stones and move them together. The stones leave tracks in the mud, and after the ice floes melt, the tracks stay in place.
-
-This mechanic requires no supernatural powers, just ice, wind, and water.
-
-## Why Wasn't It Discovered Before?
-
-Racecourse Dry Lake is remote, cold in the winter and hot in the summer.
-
-The conditions for stone movement are very narrow: it needs to rain first to form shallow water; it needs to freeze at night; it needs to melt during the day; and it needs wind. Researchers waited a long time for a complete record.
-
-Previous observers saw only the trajectory, not the movement. The trajectory is very slow, and the stone may only move a few meters a year, so it is impossible for people to keep track of it all the time.
-
-## Go See It Today
-
-Today, Racecourse Dry Lake is part of the national park.
-
-Visitors can see the stones and tracks, but cannot take away the stones. The park will remind people not to step on mud shells or push rocks. Tracks are natural heritage, not toys.
-
-"Sailable Stone" sounds like a miracle. Its answer is a thin layer of ice and a gust of wind.
-
-## Supplementary Note
-
-The stones in the dry lake at the racecourse move very slowly. Researchers used GPS records for a year and found that they only move around during certain winters. If a person comes only once, all he sees is static stones. The rhythm of nature is sometimes much slower than human patience.
-
-## Archive Location
-The walking stone is a "natural mechanism" type file. Once a candidate for the supernatural, it was later explained by ice, wind and GPS. Instead of making it boring, the explanation makes it more precise: the stone is not "walking on its own" but is being pushed by the wind on a thin layer of ice.
-
-## Further Notes
-The name "Sailing Stone" was given by a reporter. Researchers prefer to call it "ice rafting". The two names say the same thing, but one sells newspapers and the other writes papers. The choice of name determines whether readers see the miracle first or the mechanism first.
-
-Stones don't move by themselves. They just hitched a thin layer of ice and were pushed by the wind for a short distance.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The movement mechanism at the Racetrack has direct observational support; this article separates earlier guesses from the 2014 observations.

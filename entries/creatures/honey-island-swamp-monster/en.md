@@ -66,45 +66,6 @@ Sixty years on, the clearest evidence is still a few plaster casts and one old r
 
 *Original schematic: the 1963–2019 sightings, the plaster tracks and the film evidence. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## 1963 flight
-
-Harlan Ford and Billy Mills are air traffic controllers.
-
-They flew through the honey island swamp, saw a camp, and then went in. Ford said he saw a big thing in front of him, thinking it was a bear. It turned around, stood up, seven feet long, hairy and eyes amber.
-
-He didn't shoot. He said it was so human.
-
-This detail is important. It changes the story from "hunter meets a monster" to "man meets another possible person." Ford talks about it all over again, but it's getting more and more, and the color, the eyes and the smell are changing.
-
-## 1974 Footprints
-
-Eleven years later, Ford and Mills entered the swamp again.
-
-They said they found strange footprints, a dead boar, and their throats were torn open. Ford made a mold of footprints with gypsum. The footprints had four toes and a toe between them were stunned.
-
-It's not like any known primates. It's more like an amphibian, or an exaggerated footprint. The gypsum is left, and the replicas pass through the fans.
-
-## Film
-
-The film does not prove the existence of a monster, but it is the story’s closest approximation to “visual evidence.”
-
-## The Swamp
-The Honey Island Swamp lies near Slidell, Louisiana, covering roughly 70 000 acres. It is dominated by bald cypress, purple willow, water hyacinth, and alligators. The waterways are narrow and the surface is overgrown with vegetation, so a boat appearing on the water feels as though it is lifting a curtain.
-
-Such a place hides things easily and misleads the eye. Shadows, fallen trees, wildlife, swamp gases, and light refractions all warp perception. Ford’s story survived not merely because of the footprints and the film, but because it occurred in a vast, dark, and difficult‑to‑verify environment.
-
-Honey Island Swamp remains a mix of private land and wilderness. No systematic scientific survey has been undertaken, and there is no enough underwater equipment to scan every channel. The evidence gap is as wide as the swamp itself.
-
-Ford’s film can still be projected today, though the image is clearer on the story than on the footage. It proves neither the monster nor a hoax. It simply shows that in 1960s Louisiana, someone was willing to load a small aircraft with a camera and fly into a roadless swamp.
-
-## Afterword
-
-The legend of Honey Island Swamp has not ended in doubt. Hunters, naturalists, and television crews continue to enter the marsh each year, bringing cameras, recorders, and footprint casts. They often return with nothing but mud. Yet new entrants will always appear.
-
-The myth was popularized in the 1950s by hunter Ford, who filmed the creature and left a letter. Television programs later re‑created the footage with costume and concluded it was a misidentification. The farm on Honey Island fell into neglect. The swamp persists, and the story endures.
-
-Honey Island Swamp was eventually designated a natural preserve. No specimen of the monster exists, and the reserve contains only mosquitoes and mud. The tale lives on, as does the name of hunter Ford.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the witnesses' descriptions, the tracks and film, and the sceptics' explanations; no body or clear photograph confirms the creature. The illustration is a scene reconstruction, not a photograph of the site.

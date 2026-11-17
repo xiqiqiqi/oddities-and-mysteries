@@ -64,47 +64,6 @@ Boulia's tourist material often mentions the Min Min light. Locals tell the stor
 
 For researchers, it is a problem in optics. For drivers, it is a light that should not be on the road ahead.
 
-## Night Road in Bolia
-
-Min Min Guang is a legend from western Queensland, Australia.
-
-The town of Bulia is inland, surrounded by plains, bush and dirt roads. People who drive at night say they see a light spot in the distance and follow the car. Sometimes it is in front, sometimes to the side, and sometimes it suddenly disappears and appears again in another direction.
-
-The light is usually white or yellowish, not large, like a car light. It doesn't light up the road and it doesn't make any sound.
-
-## The Name
-The name "Min Min" comes from a place near Bulia.
-
-Some say it comes from the local Min Min hotel; others say it comes from a word in an Aboriginal language. Different theories coexist, none of which can be completely confirmed.
-
-The exact origin of the name is not important. Importantly, it turns the light of a place into something that can be talked about. When tourists come to Bulia, they will ask “Where can I see the Minmin light?”; locals will tell me which way to drive and when is the easiest time to see it.
-
-## Car Lights
-
-The most common explanation is car lights.
-
-In the flat outback, distant car lights will be refracted in the air layer. During temperature inversions, lights can be bent in unexpected directions and appear to be moving. Two cars, one car and reflective signs on the roadside can also create the effect of "light spots following you".
-
-Another explanation is an optical illusion. When people drive at night, their eyes will look for bright spots; if a distant light changes its relative position as the car moves, it will be felt as "it is moving."
-
-## Inland Light
-
-Min Minguang’s story is inseparable from the environment of the Australian outback.
-
-The road there is straight, there are few cars, it is dark, and the field of vision can extend to dozens of kilometers. A distant light will be magnified in such an environment. Without the distraction of city lights, every bit of light looks special.
-
-The story also reminds drivers: Don’t chase lights at night. There is no end to the road in the outback, and the fuel gauge is more realistic than legend.
-
-## Supplementary Note
-
-In Min Minguang’s story, there is a detail that is rarely mentioned: the place where light appears is often at a distance that can be illuminated by car lights but cannot be clearly seen by humans. This distance is just enough for the brain to complete the shape. Too close and the light is car lights; too far and the light is stars. The middle section is where the legend grows.
-
-## Archive Location
-Min Min Guang is a "local legend" type file. It doesn't have a national name or an international case number. Its power comes from place: a road, a town, a group of people driving at night. Leave that place and half the story is lost.
-
-## Further Notes
-For drivers, the most important thing about sensitive light is not what it is, but where it appears. The light is in the distance and the road is under your feet. People who chase light tend to forget to look at the gas gauge and the road shoulder. The legend can be heard, but the steering wheel cannot be loosened. This is the most practical folk wisdom on outback roads.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the sightings, the place-name story, and the common explanations separate, and does not identify the light as a known creature or craft.

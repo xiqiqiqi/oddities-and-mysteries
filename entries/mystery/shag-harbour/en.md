@@ -66,50 +66,6 @@ The people of Shag Harbour did not forget. A local society collected testimony, 
 
 For a small fishing village, it is a story that can last generations. For the archive, it is a single page without a conclusion: on a certain night, an unidentified object fell into the sea, and the search found nothing.
 
-## Autumn 1967
-
-The Shag Harbor incident occurred on the night of October 4, 1967.
-
-The location is on the southern coast of Nova Scotia, Canada, on the sea near Shag Harbor. Witnesses said that a light object descended from the sky and did not explode or sink after touching the water. Instead, it floated for a while and then disappeared.
-
-The person who called the police was a local resident, and later the Royal Canadian Mounted Police and the Coast Guard arrived at the scene. The search lasted several days and found no wreckage or what witnesses described as "foam" or "debris."
-
-## Cold War Sea
-
-The North Atlantic in 1967 was a Cold War surveillance zone.
-
-Canada's east coast has naval bases, anti-submarine patrol aircraft and sonar nets. Any unknown underwater objects will be taken seriously. This is also the reason why the Shag Harbor incident was later studied repeatedly: it was not seen by just one fisherman, but had the testimony of police, military and multiple civilians.
-
-But "taking it seriously" does not mean "confirming identity." The navy's search range is limited, the seabed terrain is complex, and visibility is poor at night. An object that sinks quickly or is carried away by currents can leave the search area within hours.
-
-## No Wreckage
-
-Shag Harbor's most famous saying is: "Nothing found."
-
-No metal flakes, no oil, no radiation anomalies, no underwater debris. Sonar scanned the seafloor and found no large foreign objects. This makes the incident neither confirmed nor denied.
-
-Some say the object was later taken away by the U.S. Navy; some say it was a crashed plane; some say it was a decoy for a Soviet submarine. None of these claims are supported by documentation.
-
-## Archives and Memory
-
-The Shag Harbor incident was later included in Canada's UFO archives and was also made into a documentary.
-
-Its vitality does not lie in what the light is, but in the place where it occurs: in a quiet fishing village, police, soldiers and reporters suddenly arrived. For the first time, the villagers discovered that the sea in front of their homes might be related to national security.
-
-Today, Shag Harbor is still a fishing port. The sea is wide and the sky is blue. The light didn't come back that night, and the file didn't give an answer.
-
-## Supplementary Note
-
-What is clearest about the Shag Harbor archives is not the object, but the search process. The police, fishermen, coast guard and navy each recorded what they saw. These records complement and contradict each other. The more seriously an incident is investigated, the more different versions will emerge.
-
-## Archive Location
-Shag Harbor is a prime example of the "official sightings" category. It has multiple testimonies from police, soldiers, fishermen and journalists, but no physical evidence. Multiple testimonies make the incident credible, but the absence of physical evidence makes it impossible to close the case. The archive retains this tension and does not choose sides for the reader.
-
-## Further Notes
-Portions of Shag Harbor's official archives were later released. The documents include search routes, sighting times and phone records, as well as the conclusion that "no wreckage has been found." They don't provide answers, but they provide a skeleton that can be checked. Legend has it that the most fearful thing is not suspicion, but someone turning out the original records page by page.
-
-After the search, the sea calmed down. The light that night left no trace, only a few pages of reports and the memory of a village.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. “UFO” here is the term used in the official file at the time; it does not mean an alien spacecraft. Later stories are not presented as established fact.

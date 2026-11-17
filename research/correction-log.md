@@ -1,6 +1,6 @@
 # 修正记录（Correction Log）
 
-窗口：2026-11-17 至 2026-12-01（北京时间）
+反馈通道：GitHub Issues（`xiqiqiqi/oddities-and-mysteries`，模板 `correction.md`）；不设固定修正窗口，按常规维护处理。
 
 | 编号 | 日期 | 条目 | 问题类型 | 反馈来源 | 核实结论 | 修正 commit | 上线时间 | 状态 |
 |---|---|---|---|---|---|---|---|---|

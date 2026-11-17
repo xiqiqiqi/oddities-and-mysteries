@@ -64,48 +64,6 @@ The Florence case of 1954 remains in the fortean files: a description, a few pho
 
 It may have been spider silk. It may have been something else. Without a sample, there is no final answer.
 
-## Italy in 1954
-
-Autumn 1954, Florence, Italy.
-
-A football match was going on, and suddenly someone in the audience pointed to the sky. Later, people in the square and on the outskirts of the city also reported that a thin white thread had fallen from the sky. It's like spider silk, but lighter and shinier, and disappears quickly when it falls on your hands.
-
-This was the height of UFO reporting in Europe. Newspapers put this kind of white silk together with "flying saucers" and called it "angel hair."
-
-## Spider Silk
-
-The most likely source of "angel hair" is spiders.
-
-When many spiderlings leave their nests, they climb to high places, release a few strands of silk, and let the wind carry them away. This phenomenon is called "ballooning." If a large group of spiderlings take off at the same time, a large number of filaments will appear in the air and land on roofs, branches and people's clothes.
-
-Spider silk is very light, very thin, and shines in the sun. It also breaks easily and quickly shrinks into a ball when it hits the skin, making it look like it "disappears."
-
-## Sample
-
-At that time, someone collected samples and sent them for testing.
-
-The results are inconsistent. Some samples were identified as spider silk, some contained plant fibers, and some could not be identified. Analytical techniques were limited in 1954, and samples could have been contaminated during collection and preservation.
-
-More importantly, the sample did not establish a direct connection with the "flying saucer". When the white threads fall, there may not be objects in the sky; when there are objects, there may not be white threads. The two events were lumped together in the newspapers because they happened in the same week.
-
-## UFO Craze
-
-The year 1954 was the peak of UFO reporting in Italy.
-
-Newspapers need stories, readers need surprise, and witnesses need explanations. A white thing appears in the sky and will soon be put into the frame of the "flying saucer". The same goes for angel hair: it was originally a natural phenomenon, but it was regarded as "a trace left by an aircraft."
-
-Today, scientists prefer to call it "spider balloon flight." The name isn't as nice as "angel," but it explains most cases.
-
-## Supplementary Note
-
-"Angel hair" later appeared in UFO reports from other countries. Some samples were identified as spider silk, some as plant fibers, and some could not be identified. Each identification can only handle one sample, not the entire story. Stories run faster than samples.
-
-## Archive Location
-Angel Hair is a story about "samples". People collected white silk and did tests, but they did not connect the samples to objects in the sky. Testing can tell you what silk is, but not where it comes from. A link in the chain of evidence breaks and the story takes over the rest.
-
-## Further Notes
-An Italian newspaper in 1954 put angel hair and flying saucers on the same page. Layout is an interpretation: if two things are next to each other, the reader will think they are related. The same goes for today's social media. When a video and an old news are put together, a new story will grow. Typography is never just typesetting.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the sightings, the material descriptions, and the common explanations separate; it does not claim a verified link between the object and the threads.

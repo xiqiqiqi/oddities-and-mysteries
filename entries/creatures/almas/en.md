@@ -62,34 +62,6 @@ There is no clear photograph, no verified specimen, and no skeleton accepted by 
 
 The mountains are still there. So are the stories. What lies below the snow line has no answer yet.
 
-## Name and Map
-
-"Almas" is not a single species designation but rather a collection of local appellations. In Mongolian the term appears, in Russian scholarship it is often rendered as "almasty," and the Kazakh and Kyrgyz verbal traditions include other variants. Though the names differ, the descriptions are remarkably similar: upright posture, long fur, timidity around humans, and a predilection for mountainous habitats.
-
-Travelers who traversed Mongolia and Central Asia in the nineteenth century recorded the various forms of the tale in their journals. They brought back place‑names, pastoral anecdotes, and fragments of unusable fur, but no skeletons, teeth, or clear photographs. Subsequent expeditions followed those place‑names into the mountains, yet the evidence remained largely oral.
-
-This dispersion is the crux of the Almas puzzle: sightings span from the Caucasus to western Mongolia, a stretch of several thousand kilometres of highland. Each report is filtered through the local fauna, clothing, and terrain, so conflating them into one creature feels as if many disparate things are compressed into a single name.
-
-## Fur and Footprints
-
-Soviet‑era teams collected fur, footprints, and purported bone fragments.
-
-Fur is the most plentiful “physical evidence.” It is easy to gather but also prone to misidentification. Fur from bears, sheep, horses, or humans shows microscopic distinctions, yet lengthy storage, contamination, and resampling can compromise reliability. Some samples were identified as known animals, while others were dismissed as too scant to conclude.
-
-Footprints were similarly problematic. Tracks on snow, mud, or sand morph with temperature, humidity, and weathering. A bear’s print, where the hind and fore feet overlap, may appear as a “large sole”; a human track overwritten by another can widen or lengthen beyond recognition.
-
-No complete skull, no teeth, no sizable bone segment was ever recovered that could yield sufficient DNA. Without those, the Almas cannot be incorporated into formal taxonomy.
-
-## Mountain and Memory
-
-The Almas narrative is inseparable from mountain life.
-
-Pastoralists graze their flocks away from settlements, camp in tents at night, and hear stones roll, wolves howl, and wind flare through crevices. An upright silhouette might be a bear or a lost traveller. The next day the figure is recounted to neighbours, and over time it becomes “the thing in the mountains.”
-
-The stories are not proof; they are map markers. They caution children against venturing too far and warn hunters to avoid solitary night treks. The name “Almas” carries these warnings, not an actual captured animal.
-
-Its persistence lies in its lack of specificity; it merely acknowledges that the mountains hold uncharted spaces. As long as a map has blank spots, the name remains alive.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the oral descriptions, the documented expeditions, and the explanations; no specimen exists.

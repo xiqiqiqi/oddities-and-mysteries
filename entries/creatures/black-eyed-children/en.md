@@ -63,38 +63,6 @@ The story places “someone who needs help” and “something that cannot be tr
 
 The parking lot in 1996 may have held two boys in contact lenses, or nothing at all. But the story found a structure that holds, and it is still being told.
 
-## From Email Lists to Television
-
-Betters' account first surfaced not in a newspaper but on an email list dedicated to ghosts and monsters.
-
-In 1998, he composed a lengthy post detailing that night and sent it to the list. The post was archived, forwarded, and translated, eventually traveling through English‑language forums over the next few years. In 2012, he recounted the same tale on television, this time with lighting, camera work, and music.
-
-The change in medium shifted the story’s focus. The email‑list version is longer, retaining Betters’ hesitation and self‑doubt; the TV version is briefer, emphasizing the “completely black eyes” and the “irrational fear.” Subsequent retellings deleted names and locations, reducing the narrative to a template that could occur in any parking lot.
-
-## The Story’s Structure
-
-The black‑eyed‑children narrative follows a remarkably consistent template.
-
-Typically, it occurs at night in an empty parking lot, roadside, or doorway. Two children appear nearby with pale skin, ordinary clothes, and polite speech. They make a concrete request—an offer of a lift, a call, or an invitation to enter. The witness feels terror, refuses, and departs. When they look back, the children are gone.
-
-This framework mirrors other urban legends such as the “missing car‑pooler” and the “knocking vampire”: an unfamiliar person seeking help, a request that cannot be neither accepted nor declined, and a figure that vanishes after the refusal.
-
-## Why Verification Is Impossible
-
-There is no police record, no photographs, and no second eyewitness.
-
-Betters himself does not claim the beings were ghosts. He says he does not know what he saw, only that he felt the fear. That uncertainty makes the story harder to refute and more believable: an uncertain witness sounds more credible than a confident fraudster.
-
-Sullivan Hill and Snopes examined public records and found no independently verifiable incident. Possibilities such as black contact lenses, a prank, a robbery setup, or nighttime visual distortion can explain the event, but they only show it could be false; they do not reveal what Betters perceived that night.
-
-## Why the Children Are Creepy
-
-In everyday life, children signify innocence, dependency, and honesty.
-
-Black‑eyed‑children invert that expectation: the protected become untrustworthy; the moment we would open the door turns into the most perilous. The witness’s fear stems not only from the black eyes but from realizing that common sense cannot be applied to the two figures before him.
-
-The story does not offer an answer, nor does it need one. It merely requires a parking lot, a yellow lamp, and two children standing by a car window.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the original account, its spread on the internet, and the explanations offered by sceptics; there is no verified police record, photograph or second witness. The illustrations are scene reconstructions, not photographs of an event.

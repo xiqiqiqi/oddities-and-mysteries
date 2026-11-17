@@ -66,26 +66,6 @@ It appears in prints, novels, films, and folk tales, described as a werewolf, a 
 
 Today, a museum in Gévaudan still displays its image. It looks like an oversized wolf, staring out of the frame.
 
-## Numbers and Records
-
-The death toll from the Gevaudan attacks never settled into a single figure.
-
-Parish registers, administrative reports, and later historical studies range from about sixty to over a hundred fatalities. Injuries were more numerous, but many were unrecorded. Rural eighteenth‑century villages lacked modern forensic methods; when a body surfaced it was often already gnawed by scavengers, leaving only circumstantial evidence.
-
-All these documents share one focus: “humans attacked by a beast,” not “what the beast was.” Villagers noted wounds, footprints, and severed corpses; officials dealt with a public crisis; the church interpreted the events as divine judgment. Each record tended to echo its audience’s preoccupations.
-
-## Hunting
-
-In 1765 a royal wolf‑hunter, Antoine, led a squad of dogs and soldiers into the mountains. He killed a large wolf and brought the carcass back to Versailles. The Crown felt the threat neutralised, yet attacks continued.
-
-Two animals, two “ends,” yet two more years of violence lie between them. That chronology suggests the Gevaudan beast was unlikely a single creature. Perhaps killing one wolf merely forced the remaining pack to retreat. Dates from hunting logs also mismatch parish accounts, varying by jurisdiction.
-
-## Wolves and Rural France
-
-In eighteenth‑century France, wolves genuinely posed a threat. They ate sheep, calves, and dogs, and winter scarcities drew them closer to settlements. While wolf attacks on people were infrequent, hunger, illness, or provocation could render them dangerous. The Gevaudan killings targeted women, children
-
-The beast became a local industry: inns, postcards, and guided walks along the route where witnesses said it crossed.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the attacks, the hunts, the official record and the competing explanations; the identity of the beast is still disputed. The illustrations are scene reconstructions, not historical photographs.

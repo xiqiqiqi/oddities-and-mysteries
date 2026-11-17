@@ -62,45 +62,6 @@ Fish rain is uncommon, but it is a reminder that the atmosphere and water can mo
 
 If you see a fish on the ground after a storm, do not rush to invent a story. Take a photo, note the place and time, and check whether there were waterspout reports nearby. It may really have fallen from the sky.
 
-## After the Rain Stops
-
-Fish rain is a phenomenon that sounds like a fairy tale: after a rain, fish appear on the ground.
-
-There is a legend in the Yoro Province of Honduras that every spring, fish will fall from the sky. The locals would pick it up with buckets, but the fish would still be alive. The legend has been written into tourist brochures and also appeared on television.
-
-In 2010, another fish rain was reported in the Rajamanu district. In the photo, small fish are scattered on the ground and villagers are picking them up.
-
-## Waterspout
-
-The most likely mechanism for the fish rain is a waterspout.
-
-A waterspout is a vortex formed by a tornado on the water. It sucks water, fish, mud and debris into the air, and then moves with the wind and falls in the distance. Fish are heavier than water, but if the updraft of the vortex is strong enough, it can bring small fish up.
-
-When it falls, the fish may be dead or still alive. If a waterspout passes through shallow water, there is a greater chance that fish will be picked up.
-
-## Why Not All Fish Rain Can be Trusted
-
-There are many stories about Yuyu, but few of them are credible.
-
-Some are scams: people put the fish on the ground, take pictures, and say it fell from the sky. Some are mistaken: floods wash up fish, or birds drop fish on the ground. Others are hearsay: one person hears it from another, the place and time has changed.
-
-Confirming a fish shower requires the scene, photos, witnesses, fish species and weather records. Most stories are missing a few of these.
-
-## Animal Rain
-
-Fish aren't the only animals falling from the sky.
-
-Frogs, crabs, birds, and even rats have all been reported to "fall from the sky." The mechanism is usually related to waterspouts, strong winds, and the transport of birds. Frogs, like fish, live in shallow water and are easily swept up.
-
-"Animal rain" sounds supernatural, but it is actually a coincidence of weather and geography. A waterspout passes through the fish pond and carries the fish several kilometers away, creating a fish rain.
-
-## Supplementary Note
-
-The story of fish rain has become a tourism brand in Honduras. There is a "Fish Rain Festival" every year, where shops sell fish patterns and tour guides talk about fish in the sky. A meteorological phenomenon finally became a place’s ID card. Authenticity is no longer the only issue, the story itself becomes the resource.
-
-## Archive Location
-Yuyu is a "weather anomaly" type file. It has a physical mechanism and a bunch of unverifiable rumors. Archives preserve both: waterspouts could carry fish aloft, but most fish rain stories lack live evidence. A real phenomenon does not mean that every story is true.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The mechanism of fish rain is broadly understood, but individual cases vary in credibility; this article separates verified phenomena, local legend, and unconfirmed reports.

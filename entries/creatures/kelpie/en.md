@@ -66,41 +66,6 @@ In 2014, two huge horse-head sculptures called The Kelpies were built at Falkirk
 
 A story meant to warn children ended up as a tourist landmark. The horse is still there; it just no longer drags anyone into the water.
 
-## The Water Horse and the Each‑Uisge
-
-In Scotland there are more than one kind of water horse. The one that haunts lowlands and still lakes is called a “Cù Chnuchaidh” (Kilpie); the one that prowls the sea and deep lochs is the each‑uisge. Though the names are often used interchangeably, the danger they pose differs. The Kilpie occasionally drags people into the water, whereas the each‑uisge will actually devour them.
-
-Folklore says that when an each‑uisge takes on human form, it hides sand or aquatic plants in its hair. Detecting those strands—perhaps an otherwise normal-looking market‑seller whose hair carries the scent of seaweed—can reveal the creature.
-
-## The Head
-The Kilpie is not completely untamable. Knowledgeable folk have strategies, though each carries risk. The creature is clever, pretending to be compliant until the moment of vulnerability to pull the victim under. Stories of “taming” it are never safe; they merely offer a fleeting respite.
-
-## The Drowning Explanation
-
-The tales of the Kilpie likely serve as a safety warning, a cautionary narrative about the hazards of water.
-
-## Folk‑Kirke
-
-In 2014, the Scottish town of Folk‑Kirke erected two massive horse‑head sculptures, titled “Cù Chnuchaidh”.
-
-Standing thirty metres tall, made of steel, and placed beside a canal, they glow at night. Designer Andy Scott fashioned the heads in an abstract geometric style that, from a distance, resembles towers; up close, they are unmistakable horse heads.
-
-The Cù Chnuchaidh is often conflated with the Loch‑Ness monster, yet their histories differ sharply. The monster emerged from newspapers and photographs; the Cù Chnuchaidh originates from oral tradition and warnings. One requires evidence, the other does not.
-
-These legends have not vanished with superstition. They have become part of Scottish tourism and a staple in children’s literature. The sole constant remains the water‑side caution: never approach alone.
-
-## Additional Notes
-
-In the Kilpie stories the horse itself is not the scariest element. The real terror lies in its seeming rideability. It stands calm and appealing on the shore, inviting a rider, only to rush into deep water. The danger is not its appearance but the false sense of trust it engenders—a motif many horror tales later adopted.
-
-The tales also remind us that folklore is not always one‑sided. It offers no protection, only a warning. If you heed the lesson, you survive; if you ignore it, the waters claim you. The rule is straightforward and brutally honest.
-
-In various versions of the legend, the Kilpie may even take on the guise of a handsome man, a trick that further lures victims. Whether in the Lowlands or the Highlands, the creature—sometimes depicted as a horse, sometimes as a cow—always leads people into the water. These stories continue to instruct children to stay away from deep pools and explain the real danger of drowning.
-
-Furthermore, the Kilpie may transform into a human in marketplaces, silent and merely smiling. After its grin, the water surges past the horse’s back.
-
-Poets have also rendered the legend in verse, likening the water‑side horse to temptation. In these poems, the horse symbolizes desire, yet it bears no name.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the legendary forms, the story types, the counters, and the warning function; the kelpie is folklore, with no physical evidence, and The Kelpies at Falkirk is a modern public artwork completed in 2014.

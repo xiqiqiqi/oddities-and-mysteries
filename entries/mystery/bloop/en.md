@@ -72,47 +72,6 @@ The same hydrophone array also recorded “Slow Down” and “Whistle.” All t
 
 They are like three brothers: one low, one slowly descending, one whistle-like. Heard together, they really do sound like something communicating in the deep. The spectrograms tell a plainer story: ice is moving, and the ocean is loud.
 
-## Hydrophone
-
-The Bloop is a sound recorded by NOAA's Pacific Marine Environmental Laboratory.
-
-In 1997, a hydrophone array captured a low-frequency signal in the South Pacific that lasted about a minute. Its frequency is very low, its energy is very strong, and its propagation range is very long. Researchers gave it a name: Bloop.
-
-This name is not a formal scientific name, but a working code name. It sounded like a muffled sound, low and distant, like something turning over on the bottom of the sea.
-
-## Ice
-
-In 2005, researchers had an explanation: icebergs.
-
-Glaciers in Antarctica will break, and huge ice masses will collapse into the sea, producing low-frequency sounds. When sound travels through water, it deforms and elongates, making it sound like an animal. The frequency, duration and waveform of the Bloop are very close to those recorded in icequakes.
-
-This explanation did not satisfy everyone. Because it means that the sound that sounds like a giant beast is actually a piece of ice cracking. The story needed a monster, and science gave it a piece of ice.
-
-## Whale
-
-Another possibility is a whale.
-
-Large whales emit low-frequency calls, some of which can be heard hundreds of kilometers away. Whale songs have complex structures, but at a distance, processed by hydrophones, all that may remain is a low pulse.
-
-The difference between a Bloop and a whale song is the repetition. While whale songs usually repeat the same melody, Bloop appears only once. At one time, it was difficult to tell whether a sound was an animal or a physical event.
-
-## Network
-
-Bloop was later posted online, complete with images and captions.
-
-The picture usually shows a huge, squid-like, whale-like thing swimming in the dark sea. No one has seen it, but the pictures look very real. The sound is amplified, slowed down, and sounds more terrifying.
-
-This is the standard process for spreading "strange ocean sounds": a real recording, a nice name, an imaginary picture, and an animal that no one has ever seen. The fewer elements of truth there are, the more complete the story.
-
-## Later History
-After the Bloop, hydrophones recorded many similar sounds.
-
-Some have been interpreted as ice quakes, some as whales, and some are still inconclusive. Researchers no longer name each sound because a name turns it into a story. They prefer to call it an "unclassified low-frequency event."
-
-The ocean is big and there are a lot of sounds. What we hear is only a small part of it.
-
-Blop didn't ring a second time. It remained in the database of 1997, a voice that was interpreted but still told.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The icequake explanation for Bloop is supported by research; this article separates the recording, the popular story, and the later identification.

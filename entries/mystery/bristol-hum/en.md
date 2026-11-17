@@ -66,38 +66,6 @@ Low-frequency noise remains a real urban problem. Fans, compressors, transformer
 
 The Bristol Hum endures not because it has a dramatic answer, but because it puts a question on the table: if you are the only one who can hear a sound, does it count as real?
 
-## Low Frequency Sound
-
-The key to Bristol's buzz lies in the two words "low frequency".
-
-The frequency that the human ear can hear is approximately 20 Hz to 20,000 Hz. Sounds below 20 Hz are called infrasound, which is inaudible but can be felt by the body. In the Bristol report, many people described not "hearing" but "feeling": windows shaking, chest tightness, and being unable to sleep at night.
-
-Low-frequency sounds come from many sources: factories, fans, compressors, traffic, distant ocean waves. It passes through walls and floors and decays slowly, making it difficult to determine direction. One person thinks the sound is coming from outside the window, another person may think it's coming from the basement. If the sound has no direction, it is easy for people to think further about the source.
-
-## Investigative Methods
-
-To investigate low-frequency noise, you cannot rely solely on your ears.
-
-Researchers will use microphones and spectrum analyzers to record sound pressure levels and frequencies at different locations. They also turn off suspicious devices, one at a time, to see if the sound goes away. If the buzzing noise disappears after turning off a certain machine, the source will be clear.
-
-But investigations often fail because the sound is too weak or comes from too many sources. There may be dozens of devices in a community, each contributing a little bit of low frequency. Taken together, it becomes a “hum” whose origin is unclear.
-
-## Healthy
-
-Research results on the health effects of low-frequency noise are inconsistent.
-
-Some people experience irritability, insomnia, headaches, and decreased concentration. Others live in the same environment and feel nothing at all. Differences may come from ear sensitivity, sleep habits, and psychological expectations.
-
-There’s also a social dimension to the “buzz.” When a person says he hears sounds that others cannot hear, people around him may be suspicious of him. This feeling of not being believed can make symptoms worse. The issue of sound turned into an issue of trust.
-
-## City
-
-The Bristol buzz isn't completely gone.
-
-It became an urban legend and an environmental issue. The denser the city and the more machines there are, the harder it is to avoid low-frequency sounds. There is no such thing as a completely silent city, the question is how much is too much.
-
-Today, researchers are more concerned with “soundscapes”: not just one source of noise, but many sounds stacked together to form a continuous background. When people live in this kind of background for a long time, they will regard it as silence. Until one day, it was suddenly heard.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S2 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The specific source of the Bristol Hum remains disputed; this article separates recorded reports and investigations from interpretive hypotheses.

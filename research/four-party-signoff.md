@@ -14,11 +14,11 @@
 
 ## 签核顺序
 
-1. 英文终审逐篇重译 112 篇未编号尾段，统一专名，清除中文残留与重复节；写 `ai-native-review-packet.md`；通过后把 `translation_status` 改为 `native_reviewed`，并写 `reviewed_by` / `reviewed_at` / `review_method`。
+1. 英文终审：删除 110 篇的“编号正文 + 无编号复述层”，共 951 个英文复述小节；保留编号正文并统一专名、清除中文残留与重复节；写 `ai-native-review-packet.md`；通过后把 `translation_status` 改为 `native_reviewed`，并写 `reviewed_by` / `reviewed_at` / `review_method`。
 2. 中文终审抽检 30 篇 + 全库标题/结尾/重复检查。
 3. 事实终审逐条处理 `needs_review` 与 `no_source_text`；235 条残留全部标记为 `ai_reviewed` / `artifact_excluded`，0 条未解决。
 4. 版权终审复核 442 行图片台账与线上图注。
-5. 五项全部通过后，勾选计划第 12 节“发布”清单，并开启两周修正窗口。
+5. 五项全部通过后，勾选计划第 12 节“发布”清单；反馈统一走内容仓 GitHub Issues（模板 `correction.md`），不设固定修正窗口。
 
 ## 透明声明
 

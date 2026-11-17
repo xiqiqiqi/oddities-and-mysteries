@@ -72,22 +72,6 @@ The herders' accounts are still there. Researchers still record them, but a reco
 
 A lot can be hidden under sand. There can also be nothing at all.
 
-## Andrews
-
-In the 1920s, American explorer Roy Chapman Andrews conducted a survey of the Gobi desert. While speaking with nomads, he heard a story about a poisonous insect that could kill anyone who came into contact with its sand. He noted the tale, but never acquired a specimen. Subsequent books and television programs amplified the account—adding details such as acid spray, electrical discharge, and toxic fumes. These embellishments were not part of Andrews’ original field notes; they were later creative additions by storytellers. A simple “poisonous insect” became, through retelling, an “electric‑discharging monster.”
-
-## Sand Boa
-
-The Mongolian sand boa thrives in the dunes of the Gobi. Its stout, short body blends with the sand, and it spends much of its time buried, exposing only a sliver of skin. When threatened, the snake hisses and adopts an aggressive posture. It is not red, it does not spray acid, and it does not emit electricity. Nevertheless, its size, burrowing habits, and sudden appearance resemble the mythic “sand‑dwelling worm.” A nomad once witnessed a twisted creature near the dune’s edge, described it as a “red worm,” and with additional touches of “poison” and “electrical danger,” the legend grew new characteristics.
-
-## Gobi
-
-The Gobi is a harsh and unforgiving landscape. The tale of the death worm fits perfectly here; it need only be remembered that something lies beneath the sand. The mere thought of a hidden danger lingers longer than any actual predator. Even today, travelers to the Gobi hear the saga. Guides may laugh, but the nomads remain solemn. A story mocked by the outside world remains, locally, a warning: “stay on the path and you’ll survive.”
-
-## Addendum
-
-The death worm legend is often misread as a claim that Mongolia harbors monsters. More accurately, it is a parable about the environment: the Gobi’s vastness, the sand’s hidden traps, and the peril of wandering too far. Turning that peril into the tale of a worm is more memorable than framing it as getting lost or suffering a sandstorm. The myth has persisted even after scientific scrutiny. It has simply shifted from being a “potential discovery” to part of the Gobi’s folk knowledge—a boundary that is trickier than most would assume. The story, written into books in the 1920s, was amplified by television worldwide, yet no specimen of the death worm has ever been found. The legend’s persistence is tied to sandstorms, oxygen shortage, and lost travelers, and it continues to be told by herders to visiting tourists.
-
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the herders' tradition, the expedition record, the media additions, and the biological explanation; there is currently no specimen, photograph, or biological sample proving that the animal exists.
