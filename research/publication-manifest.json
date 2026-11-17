@@ -1,6 +1,14 @@
 {
   "version": "v3.0-publication",
   "generatedAt": "2026-11-17",
+  "release": {
+    "contentCommit": "2c0b59d",
+    "coreCommit": "02cc974",
+    "tags": {
+      "oddities-and-mysteries": "v3.0-publication",
+      "oddities-core": "v3.0-publication"
+    }
+  },
   "entries": 151,
   "channels": {
     "creatures": 30,
@@ -38,7 +46,14 @@
     "missing": 0,
     "covers": 151,
     "inline": 291,
-    "metadataComplete": 442
+    "metadataComplete": 442,
+    "captionTypes": {
+      "generated_reconstruction": 194,
+      "original_diagram": 152,
+      "historical_or_site_photo": 85,
+      "third_party_public_domain": 11
+    },
+    "realImageryShare": "19.2%"
   },
   "gate": {
     "script": "repos/oddities-core/scripts/quality-gate.mjs",
@@ -76,6 +91,6 @@
     "bad": 0,
     "checkedAt": "2026-11-17"
   },
-  "editorialNote": "151 篇中文 1800–2641 字；英文 979–1744 词（quality-audit 口径）/ 1000–1800 词（门禁口径），112 篇未编号尾段已全部重译，专名统一、零 CJK、零重复小节。AI 代替人工完成终审，未冒充真人签名；英文为 AI 终审版，非真人母语编辑精修版。",
+  "editorialNote": "151 篇中文 1800–2641 字；英文 1000–1744 词（quality-audit 与门禁口径一致），112 篇未编号尾段已全部重译，专名统一、零 CJK、零重复小节、英文署名统一为 XIQIQI Editorial。AI 代替人工完成终审，未冒充真人签名；英文为 AI 终审版，非真人母语编辑精修版。",
   "shortFormEntries": []
 }
