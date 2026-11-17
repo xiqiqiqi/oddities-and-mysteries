@@ -25,9 +25,9 @@ sources:
     license: CC BY-SA 4.0
     usage: 建筑、宾夕法尼亚制、著名犯人、关闭与博物馆化
   - id: S2
-    title: "Eastern State Penitentiary · History"
+    title: "Eastern State Penitentiary · America's First Penitentiary"
     publisher: Eastern State Penitentiary Historic Site
-    url: https://www.easternstate.org/explore/history
+    url: https://easternstate.org/
     year: "2026"
     license: 版权归 Eastern State Penitentiary；仅作事实参考
     usage: 建狱理念、牢房布局、卡彭与萨顿的服刑记录
@@ -44,7 +44,7 @@ related:
   - winchester-mystery-house
 status: published
 featured: false
-translation_status: native_reviewed
+translation_status: reviewed
 editorial_status: ai_final_reviewed
 fact_ledger: research/fact-ledgers/places/eastern-state-penitentiary.md
 image_license_audit: research/image-audit.csv

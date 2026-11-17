@@ -1,3 +1,8 @@
+---
+title: "The Nine Cities of Troy"
+summary: "At Hisarlik in northwestern Turkey there is a mound. It looks like an ordinary hill, but inside it are nine cities. From about 3000 BCE to the Roman period, people built, destroyed, and rebuilt on the same spot. In 1873, Heinrich Schliemann found a hoard of gold there and announced that he had found Homer's Troy."
+lang: en
+---
 
 ## 1. A mound
 
@@ -55,18 +60,9 @@ In 2018, the Troy Museum opened near the site, displaying pottery, bronze object
 
 Nine cities are stacked on top of one another: a Roman theatre at the top, a small Bronze Age citadel at the bottom. One mound holds three thousand years of war, trade, and daily life.
 
-## Timeline
-
-- **1870**: In 1870, the German businessman Heinrich Schliemann arrived.
-- **1873**: In 1873 he announced that he had found “Priam's Treasure”: a hoard of gold
-- **1180**: Troy VIIa was destroyed around 1180 BCE. The layer shows signs of fire
-- **1998**: In 1998, Troy became a World Heritage Site.
-- **2018**: In 2018, the Troy Museum opened near the site, displaying pottery, bronze objects, bones, and architectural ...
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S1 (UNESCO World Heritage Centre) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Nine Cities of Troy”, the factual trail runs mainly through S1–S3: S1 is “UNESCO · Archaeological Site of Troy” and S2 is “Wikipedia · Troy”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -74,14 +70,10 @@ Troy's archive is a layered excavation archive, from Schliemann's trenches to mo
 
 ## Limits of the record
 
-Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Nine Cities of Troy”, the checkable coordinates are Hisarlik, Çanakkale, Turkey, c. 3000 BCE–500 CE, and the source-ledger entries S1 “UNESCO · Archaeological Site of Troy” and S2 “Wikipedia · Troy”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The ruins of Troy, Hisarlik in northwestern Türkiye.
 
 It is a mound, dozens of meters high, with a nine-story city underneath. Each level belongs to a different era, from the Early Bronze Age to the Roman era. The earliest settlement was around 3000 BC.
 

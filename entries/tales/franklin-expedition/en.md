@@ -1,3 +1,8 @@
+---
+title: "The Franklin Expedition: 129 Men and the Northwest Passage"
+summary: "In 1845 Sir John Franklin led two Royal Navy ships and 129 men into the Canadian Arctic in search of the Northwest Passage. The expedition vanished. The wrecks, relics, and graves found since then provide only part of the answer about lead poisoning, starvation, and survival."
+lang: en
+---
 
 ## 1. Departure and mission
 
@@ -31,20 +36,11 @@ Cut marks on bones, lead in pots, the sealing of tinned food, dental evidence of
 
 The two Franklin wrecks were designated Canadian National Historic Sites around 2015 and are protected under underwater heritage law. Climate change is transforming the Arctic: less sea ice, stronger storms, and warmer water make searching and archaeology easier but also accelerate the decay of wooden hulls and artefacts. Inuit communities are demanding a larger voice in research, naming, and tourism revenue. The 'heroic' Franklin narrative is being rewritten: it is no longer only an imperial exploration story but also a story of Inuit knowledge, colonial violence, and environmental change.
 
-## Timeline
-
-- **May 1845**: Erebus and Terror leave Britain
-- **July 1845**: last seen by European whalers in Baffin Bay
-- **September 1846**: trapped in ice near King William Island
-- **June 1847**: Franklin believed dead
-- **April 1848**: survivors abandon the ships and head south
-- **2014/2016**: both wrecks found
-
 ## Sources and evidence
 
-The checkable material in this entry rests mainly on S1 and S2: S1 supplies the official site or object record and basic chronology, while S2 supplies independent research or archival context. S3 covers the editorial cover and diagrams; it is visual explanation, not historical evidence. Dates, quantities, places, and attributions in the text are traced back to specific S1/S2 pages wherever possible. Claims that cannot be tied to a page are flagged under 'Limits of the record'.
+For “The Franklin Expedition: 129 Men and the Northwest Passage”, the factual trail runs mainly through S1–S3: S1 is “Franklin Expedition” and S2 is “The Franklin Expedition”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
-The cover is an AI-assisted reconstruction, not a site photograph. The two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in `research/image-audit.csv`.
+The cover is an AI-assisted reconstruction of “The Franklin Expedition: 129 Men and the Northwest Passage”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
 
@@ -53,7 +49,6 @@ The Franklin archive is distributed across Canada, Britain, and Inuit communitie
 ## Limits of the record
 
 No single cause explains the deaths of the Franklin expedition. Lead poisoning, tuberculosis, scurvy, starvation, cold, and cannibalism all appear in the evidence, but their relative weight is still argued; early searchers' records, Inuit testimony, and bone analysis do not always align. The discovery of the wrecks answered 'where are the ships' but not 'how did the men die'. This entry treats the timeline supported by artefacts and archives as fact, sets out cause models as competing hypotheses, and marks the place of Inuit testimony in the narrative.
-
 
 ---
 

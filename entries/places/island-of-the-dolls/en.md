@@ -1,3 +1,8 @@
+---
+title: "The Dolls in the Trees"
+summary: "In the canals of Xochimilco, south of Mexico City, there is a small island covered with broken dolls. Its keeper, Julián Santana Barrera, said he was appeasing the spirit of a drowned girl. In 2001 he was found drowned in the canal beside the island."
+lang: en
+---
 
 ## 1. The canals
 
@@ -65,26 +70,16 @@ Was the girl real? There is no record, no name, no body report. No second person
 
 A man lived alone on a small island for fifty years, collected hundreds of dolls, and died in the same water. That is enough by itself. The ghost story grew afterwards.
 
-## Timeline
-
-- **1987**: It was once an Aztec farming district. People piled earth in the shallow water to make narrow artificial islands called chinampas. They grew vegetables and flowers
-- **2001**: On 17 April 2001, Santana's nephew came to look for him and found him drowned in the canal near the island.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (Atlas Obscura) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Dolls in the Trees”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Island of the Dolls” and S2 is “Atlas Obscura · Island of the Dolls”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Dolls in the Trees”, the checkable coordinates are Xochimilco, Mexico City, Mexico, Since the 1950s, and the source-ledger entries S1 “Wikipedia · Island of the Dolls” and S2 “Atlas Obscura · Island of the Dolls”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The story of Island of the Dolls is about loneliness and remembrance.
 
 A man lives on an island and fills trees with dolls. He had no idea the dolls would be turned into attractions or that they would be made into horror films.
 

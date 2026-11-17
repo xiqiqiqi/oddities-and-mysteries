@@ -1,3 +1,8 @@
+---
+title: "Washington on Radar"
+summary: "On two weekends in July 1952, radar at Washington National Airport picked up a group of slow-moving targets. Jets took off and the targets vanished; the jets left and they came back. The newspapers called the chase the “Washington Merry-Go-Round.”"
+lang: en
+---
 
 ## 1. That summer
 
@@ -46,27 +51,16 @@ The report was later declassified. It did not say every sighting was false, but 
 ## 7. What remains
 The Washington case left no physical object. What survives is a paper trail: radar scope logs, radio transcripts, weather records, and the pilots' written statements. The files are held in U.S. military and civil-aviation archives, and not all of them are digitised. That is the material this entry can check; the rest of the story is later retelling.
 
-## Timeline
-
-- **1952**: July: radar targets over Washington National Airport, followed by press coverage and Air Force responses.
-- **1953**: January: the Robertson Panel reviews reports and recommends a policy of reducing public attention.
-
 ## Sources and evidence
 
-This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · 1952 Washington, D.C. UFO incident” and S2 is “Wikipedia · Robertson Panel”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “Washington on Radar”, the checkable coordinates are Washington, D.C., United States, July 1952, and the source-ledger entries S1 “Wikipedia · 1952 Washington, D.C. UFO incident” and S2 “Wikipedia · Robertson Panel”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The Washington incident was the beginning of the radar era. It made the public believe for the first time that machines could see things that humans couldn’t. Later research showed that machines can also be tricked by the atmosphere. This lesson has always been useful: the more technical the form of evidence, the greater the need to understand the boundaries of the technology.
-On July 29, the Air Force held a press conference in Washington.
 
 At the meeting, officials showed radar records and acknowledged that "there were indeed things picked up on the radar," but did not confirm that they were alien spacecraft. This statement was cautious, but it was enough to make the front page of the newspaper.
 
@@ -80,4 +74,4 @@ A light spot may be an airplane, a truck, a temperature inversion layer, or a no
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the radar records, the pilots' sightings, and the later official explanation in separate layers rather than treating any one of them as the whole answer.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the radar records, the pilots' sightings, and the later official explanation in separate layers rather than treating any one of them as the whole answer.

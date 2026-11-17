@@ -1,3 +1,8 @@
+---
+title: "The Temple Underground"
+summary: "In a valley in the Peruvian Andes, more than three thousand metres above sea level, stands a temple built about three thousand years ago. Beneath its platforms run narrow stone galleries with ventilation shafts, drainage channels, and a stone statue more than four metres high. A person walking inside hears water, echoes, and strange low sounds. Archaeologists think the sounds were designed."
+lang: en
+---
 
 ## 1. The valley
 
@@ -55,27 +60,16 @@ The 1970 earthquake damaged parts of the buildings, and later restoration used m
 
 A temple three thousand years old used darkness, narrow passages, and sound to make people believe that a god was just behind the wall.
 
-## Timeline
-
-- **2001**: In 2001, the team found more than twenty conch-shell trumpets at the site. The instrument, called a pututu, ...
-- **1985**: In 1985, Chavín de Huántar became a World Heritage Site.
-- **1970**: The 1970 earthquake damaged parts of the buildings
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S1 (UNESCO World Heritage Centre) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Temple Underground”, the factual trail runs mainly through S1–S3: S1 is “UNESCO · Chavín (Archaeological Site)” and S2 is “Wikipedia · Chavín de Huántar”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Temple Underground”, the checkable coordinates are Chavín de Huántar, Áncash, Peru, c. 900–200 BCE, and the source-ledger entries S1 “UNESCO · Chavín (Archaeological Site)” and S2 “Wikipedia · Chavín de Huántar”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Chavín is a tourist spot in Peru.
 
 Visitors can see ruins, museums and stone carvings. Some areas are high in altitude and require adaptation.
 

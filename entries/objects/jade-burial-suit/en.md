@@ -1,3 +1,8 @@
+---
+title: "The Jade Suit Sewn with Gold"
+summary: "In 1968, a construction crew in Mancheng, Hebei, broke into a large Han dynasty tomb. Inside was a burial suit made of more than two thousand jade plaques and about a kilogram of gold wire. It wrapped the dead from head to foot like a suit of jade armour. The ancients believed jade could preserve the body."
+lang: en
+---
 
 ## 1. Mancheng, 1968
 
@@ -61,25 +66,16 @@ They sit in climate-controlled cases. Light comes from the side, and the jade pl
 
 A garment made for “immortality” failed to preserve the body, but it preserved the craftsmanship and beliefs of the Han dynasty in remarkable detail.
 
-## Timeline
-
-- **1968**: In 1968, a construction crew digging an air-raid shelter in Mancheng, Hebei, hit a hard stone wall.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S4 (an institutional source) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Jade Suit Sewn with Gold”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Jade burial suit” and S2 is “Wikipedia · Mancheng Han tombs”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Jade Suit Sewn with Gold”, the checkable coordinates are Mancheng, Hebei, China, Western Han (about the 2nd century BCE), and the source-ledger entries S1 “Wikipedia · Jade burial suit” and S2 “Wikipedia · Mancheng Han tombs”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The jade clothes in the museum have been restored.
 
 The archaeological team collected the scattered jade pieces and put them together according to their shapes and numbers. The gold thread is a later imitation, not the original.
 
@@ -98,4 +94,4 @@ This is the whole secret of jade clothing: it cannot make people immortal, it ca
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation record, the jade-suit system, burial beliefs, and the later ban; the suits did not prevent the bodies from decaying.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation record, the jade-suit system, burial beliefs, and the later ban; the suits did not prevent the bodies from decaying.

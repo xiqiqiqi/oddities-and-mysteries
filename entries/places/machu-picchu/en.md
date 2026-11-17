@@ -1,3 +1,8 @@
+---
+title: "Machu Picchu: An Inca Estate Above the Clouds"
+summary: "Machu Picchu sits on a ridge above the Urubamba River in Peru, at about 2,430 metres. Its stone walls, terraces, plazas, temples, and water system show that it was not a lost 'city in the clouds' but a carefully sited Inca royal estate."
+lang: en
+---
 
 ## 1. A city on a ridge
 
@@ -31,19 +36,11 @@ Machu Picchu was inscribed as a World Heritage Site in 1983. Twentieth-century c
 
 Around 2011 Yale University returned thousands of objects Bingham had taken to Peru and helped establish a research institution in Cusco. The return resolved part of the ownership dispute but did not end research debate: the objects' dates, functions, and find spots need rechecking, and errors in early records need correction. Machu Picchu is not a site whose file is 'finished'; its archive is still being reread.
 
-## Timeline
-
-- **c. 1450**: main construction, roughly during Pachacuti's reign
-- **1533**: Spanish conquest of Cusco; Inca state collapses
-- **1911**: Bingham is led to Machu Picchu by local guides
-- **1983**: inscribed as a World Heritage Site
-- **2011**: Yale returns Bingham's objects to Peru
-
 ## Sources and evidence
 
-The checkable material in this entry rests mainly on S1 and S2: S1 supplies the official site or object record and basic chronology, while S2 supplies independent research or archival context. S3 covers the editorial cover and diagrams; it is visual explanation, not historical evidence. Dates, quantities, places, and attributions in the text are traced back to specific S1/S2 pages wherever possible. Claims that cannot be tied to a page are flagged under 'Limits of the record'.
+For “Machu Picchu: An Inca Estate Above the Clouds”, the factual trail runs mainly through S1–S3: S1 is “Historic Sanctuary of Machu Picchu” and S2 is “Ministerio de Cultura”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
-The cover is an AI-assisted reconstruction, not a site photograph. The two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in `research/image-audit.csv`.
+The cover is an AI-assisted reconstruction of “Machu Picchu: An Inca Estate Above the Clouds”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
 
@@ -52,7 +49,6 @@ Machu Picchu's archive falls into three sets: the Bingham expedition diaries, ph
 ## Limits of the record
 
 The builders, function, and abandonment of Machu Picchu remain disputed. Whether it was a royal estate of Pachacuti, whether it combined religious and administrative functions, and when it was finally emptied after the Spanish conquest all lack a single answer. The walls visitors see have been restored, and reconstruction in some areas changed the original appearance; early explorers' accounts also carried a 'discovery of emptiness' bias. This entry puts survey, excavation, and restoration records first and the romantic 'lost city' narrative second.
-
 
 ---
 

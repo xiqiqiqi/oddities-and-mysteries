@@ -1,3 +1,8 @@
+---
+title: "The House That Spoke"
+summary: "In August 1977, in Enfield, north London, furniture in a family home began to move. Eleven-year-old Janet was thrown into the air, and a gravelly male voice spoke through her. Investigators from the Society for Psychical Research moved in, took photographs and made recordings. The children later admitted that some of it was faked."
+lang: en
+---
 
 ## 1. 284 Green Street
 
@@ -71,15 +76,9 @@ An ordinary house, an eleven-year-old girl, the voice of a dead old man. Believe
 
 *Original schematic: the timeline of 1977–1979, the investigators and the types of evidence. Not a photograph of the house. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1977**: In 1977 Peggy Hodgson lived at number 284 with four children: Margaret
-- **2016**: In 2016 The Conjuring 2 used the Enfield case.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (Society for Psychical Research) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The House That Spoke”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Enfield poltergeist” and S2 is “Psi Encyclopedia · Enfield Poltergeist”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -87,14 +86,10 @@ The Enfield case is documented mainly through the 1977 local press, police call-
 
 ## Limits of the record
 
-Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The House That Spoke”, the checkable coordinates are Enfield, London, United Kingdom, 1977–1979, and the source-ledger entries S1 “Wikipedia · Enfield poltergeist” and S2 “Psi Encyclopedia · Enfield Poltergeist”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The most common explanation is children's pranks and psychological pressure.
 
 Adolescent girls may make sounds and move objects unintentionally. The family's fear and the media's attention made the incident bigger and bigger.
 

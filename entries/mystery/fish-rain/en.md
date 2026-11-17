@@ -1,3 +1,8 @@
+---
+title: "When Fish Fall from the Sky"
+summary: "After the rain stops, fish are lying on the ground. This is not a metaphor; it is a recorded natural phenomenon. It has happened in Yoro, Honduras, in Lajamanu, Australia, and in India and Sri Lanka. The fish do not grow in clouds. They are lifted by waterspouts and dropped downwind."
+lang: en
+---
 
 ## 1. After the rain
 
@@ -57,26 +62,16 @@ Fish rain is uncommon, but it is a reminder that the atmosphere and water can mo
 
 If you see a fish on the ground after a storm, do not rush to invent a story. Take a photo, note the place and time, and check whether there were waterspout reports nearby. It may really have fallen from the sky.
 
-## Timeline
-
-- **2010**: In 2010, after a storm, residents found fish on the ground. The fish were small, and some were still alive. ...
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (BBC) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “When Fish Fall from the Sky”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Rain of fish” and S2 is “BBC · Fish rain coverage”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “When Fish Fall from the Sky”, the checkable coordinates are Worldwide (Honduras, Australia, India, and elsewhere), reported for centuries, and the source-ledger entries S1 “Wikipedia · Rain of fish” and S2 “BBC · Fish rain coverage”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The story of fish rain has become a tourism brand in Honduras. There is a "Fish Rain Festival" every year, where shops sell fish patterns and tour guides talk about fish in the sky. A meteorological phenomenon finally became a place’s ID card. Authenticity is no longer the only issue, the story itself becomes the resource.
-There are many stories about Yuyu, but few of them are credible.
 
 Some are scams: people put the fish on the ground, take pictures, and say it fell from the sky. Some are mistaken: floods wash up fish, or birds drop fish on the ground. Others are hearsay: one person hears it from another, the place and time has changed.
 

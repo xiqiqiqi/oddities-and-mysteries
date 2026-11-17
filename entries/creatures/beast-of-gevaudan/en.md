@@ -1,3 +1,8 @@
+---
+title: "The Wolf That Killed Dozens"
+summary: "Between 1764 and 1767, a wolf-like beast repeatedly attacked people and livestock in the Gévaudan region of southern France. Estimates of the dead range from sixty to more than a hundred. The king sent his huntsman; local men organised drives. In the end, a local hunter killed it."
+lang: en
+---
 
 ## 1. The mountain villages of 1764
 
@@ -61,27 +66,16 @@ It appears in prints, novels, films, and folk tales, described as a werewolf, a 
 
 Today, a museum in Gévaudan still displays its image. It looks like an oversized wolf, staring out of the frame.
 
-## Timeline
-
-- **1764**: In the summer of 1764, women and children began to disappear in the hills. At first people assumed wolves. W...
-- **1765**: In 1765, Louis XV sent his chief wolf hunter, François Antoine, with hounds and soldiers. In September, Anto...
-- **1767**: In June 1767, a local hunter, Jean Chastel, killed a large animal in the hills. After that, the attacks stop...
-
 ## Sources and evidence
 
-This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Beast of Gévaudan” and S2 is “Wikipedia · Jean Chastel”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Wolf That Killed Dozens”, the checkable coordinates are Gévaudan, Lozère, France, 1764–1767, and the source-ledger entries S1 “Wikipedia · Beast of Gévaudan” and S2 “Wikipedia · Jean Chastel”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The death toll from the Gevaudan attacks never settled into a single figure.
 
 Parish registers, administrative reports, and later historical studies range from about sixty to over a hundred fatalities. Injuries were more numerous, but many were unrecorded. Rural eighteenth‑century villages lacked modern forensic methods; when a body surfaced it was often already gnawed by scavengers, leaving only circumstantial evidence.
 
@@ -89,4 +83,4 @@ All these documents share one focus: “humans attacked by a beast,” not “wh
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the attacks, the hunts, the official record and the competing explanations; the identity of the beast is still disputed. The illustrations are scene reconstructions, not historical photographs.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the attacks, the hunts, the official record and the competing explanations; the identity of the beast is still disputed. The illustrations are scene reconstructions, not historical photographs.

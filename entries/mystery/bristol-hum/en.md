@@ -1,3 +1,8 @@
+---
+title: "The Bristol Hum"
+summary: "In the 1970s, some residents of Bristol heard a persistent low-frequency drone at night. It was not a truck, and it was not the refrigerator. They turned off the power and changed rooms; the sound remained. Investigations went on for years without producing an answer everyone accepted."
+lang: en
+---
 
 ## 1. A sound at night
 
@@ -61,14 +66,9 @@ Low-frequency noise remains a real urban problem. Fans, compressors, transformer
 
 The Bristol Hum endures not because it has a dramatic answer, but because it puts a question on the table: if you are the only one who can hear a sound, does it count as real?
 
-## Timeline
-
-- **2011**: The Taos Hum in New Mexico drew wide attention in the 1990s. The Windsor Hum in Canada was widely reported around 2011. The Kokomo Hum in Indiana produced similar complaints.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (BBC) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Bristol Hum”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Bristol Hum” and S2 is “BBC · Bristol Hum coverage”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -76,14 +76,10 @@ The Bristol hum file is mostly a local-government and public-health paper trail:
 
 ## Limits of the record
 
-The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Bristol Hum”, the checkable coordinates are Bristol, England, 1970s, and the source-ledger entries S1 “Wikipedia · Bristol Hum” and S2 “BBC · Bristol Hum coverage”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-To investigate low-frequency noise, you cannot rely solely on your ears.
 
 Researchers will use microphones and spectrum analyzers to record sound pressure levels and frequencies at different locations. They also turn off suspicious devices, one at a time, to see if the sound goes away. If the buzzing noise disappears after turning off a certain machine, the source will be clear.
 
@@ -91,4 +87,4 @@ But investigations often fail because the sound is too weak or comes from too ma
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S2 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The specific source of the Bristol Hum remains disputed; this article separates recorded reports and investigations from interpretive hypotheses.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The specific source of the Bristol Hum remains disputed; this article separates recorded reports and investigations from interpretive hypotheses.

@@ -14,7 +14,7 @@ channel: "tales"
 slug: "amelia-earhart"
 status: "published"
 featured: false
-translation_status: "native_reviewed"
+translation_status: reviewed
 editorial_status: "ai_final_reviewed"
 fact_ledger: "research/fact-ledgers/tales/amelia-earhart.md"
 image_license_audit: "research/image-audit.csv"
@@ -31,12 +31,12 @@ sources:
     license: "© Smithsonian Institution; citation only"
     usage: "飞行生涯、Electra 飞机与失踪背景"
   - id: S2
-    title: "Amelia Earhart Collection"
-    publisher: "Purdue University"
-    url: "https://www.purdue.edu/amelia-earhart/"
+    title: "Amelia Earhart: Purdue aviation legend"
+    publisher: Purdue University Stories
+    url: https://stories.purdue.edu/amelia-earhart-aviator-legend-boilermaker/
     year: "2026"
-    license: "© Purdue University; citation only"
-    usage: "飞行计划、通信、档案与搜索记录"
+    license: 版权归 Purdue University；仅作事实参考
+    usage: 馆藏规模、飞行日志、通信、档案与搜索记录
   - id: S3
     title: "场景复原插图与原创示意图"
     publisher: "稀奇奇编辑部（AI 辅助生成）"

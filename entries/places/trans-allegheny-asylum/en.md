@@ -1,3 +1,8 @@
+---
+title: "The Wards on the Hill"
+summary: "In 1858 Virginia began building a mental hospital at Weston, in what is now West Virginia. It was designed on the Kirkbride plan for 250 patients; by the 1950s it held more than 2,400. It closed in 1994 and reopened as a tourist site in 2008. The tours now sell ghosts. The records tell a different story."
+lang: en
+---
 
 ## 1. The Hill, 1858
 
@@ -63,33 +68,16 @@ The ghosts came later. The wards were real.
 
 *Original schematic: the 1858–2008 timeline, the Kirkbride plan and the overcrowding figures. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1858**: In 1858 the Virginia General Assembly authorized a mental hospital at Weston, in what is now West Virginia.
-- **1861**: In 1861 the war stopped construction.
-- **1862**: The unfinished hospital and its grounds became Camp Tyler for the Union army. The completed south wing served as barracks
-- **1864**: In October 1864 the hospital admitted its first patients. The building was not finished until 1881.
-- **1913**: In 1913 the hospital was renamed Weston State Hospital.
-- **1990**: In 1990 the building was designated a National Historic Landmark.
-- **1994**: In May 1994 the hospital closed. The patients were transferred, and the building stood empty.
-- **2007**: In August 2007 the contractor Joe Jordan bought the complex at auction for $1.5 million. In March 2008 it reopened as a historic site. By day it tells the story of the building and its medicine
-
 ## Sources and evidence
 
-The factual base of this entry rests on 2 independent source(s). S1 (Trans-Allegheny Lunatic Asylum) covers the relevant institutional record.
-S2 (Trans-Allegheny Lunatic Asylum) provides cross-checks on related records.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Wards on the Hill”, the factual trail runs mainly through S1–S4: S1 is “Trans-Allegheny Lunatic Asylum · Explore Our History” and S2 is “Trans-Allegheny Lunatic Asylum · The Civil War”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Wards on the Hill”, the checkable coordinates are Weston, West Virginia, USA, 1864–1994, and the source-ledger entries S1 “Trans-Allegheny Lunatic Asylum · Explore Our History” and S2 “Trans-Allegheny Lunatic Asylum · The Civil War”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The hospital's files contain the patient's name, age, diagnosis and date of admission.
 
 Many diagnoses are no longer used today: mania, depression, dementia, alcoholism. They are not categories of modern medicine but nineteenth-century descriptions.
 During the Civil War, the hospital was taken over by the military.

@@ -76,4 +76,4 @@ The stelae are still there. Some stand, some lie down, one went away and came ba
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S5 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the archaeology and history of Aksum, the removal and return of the stele, and the traditions of the Queen of Sheba and the Ark; the stelae and the imperial site rest on archaeology, the Ark claim cannot be verified. The photographs and the 1809 print are historical and site images; the schematic is not.
+**Sources and licenses**: sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the archaeology and history of Aksum, the removal and return of the stele, and the traditions of the Queen of Sheba and the Ark; the stelae and the imperial site rest on archaeology, the Ark claim cannot be verified. The photographs and the 1809 print are historical and site images; the schematic is not.

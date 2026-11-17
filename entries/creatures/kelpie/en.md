@@ -1,3 +1,8 @@
+---
+title: "The Horse in the Water"
+summary: "By a Scottish loch, a black horse sometimes stands at the water's edge. It is beautiful, its coat glossy, like a lost farm horse. But if you climb on its back, its skin sticks to you, and it walks into the water. This is the kelpie, the water horse of Scottish folklore. It is not a monster so much as a warning — stay away from deep water."
+lang: en
+---
 
 ## 1. The horse by the water
 
@@ -61,25 +66,16 @@ In 2014, two huge horse-head sculptures called The Kelpies were built at Falkirk
 
 A story meant to warn children ended up as a tourist landmark. The horse is still there; it just no longer drags anyone into the water.
 
-## Timeline
-
-- **2014**: In 2014, two huge horse-head sculptures called The Kelpies were built at Falkirk in Scotland. They are thirt...
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S1 (Scottish Language Dictionaries) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Horse in the Water”, the factual trail runs mainly through S1–S3: S1 is “Dictionaries of the Scots Language · Kelpie” and S2 is “Wikipedia · Kelpie”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Horse in the Water”, the checkable coordinates are Scotland, United Kingdom, Folklore, and the source-ledger entries S1 “Dictionaries of the Scots Language · Kelpie” and S2 “Wikipedia · Kelpie”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-In the Kilpie stories the horse itself is not the scariest element. The real terror lies in its seeming rideability. It stands calm and appealing on the shore, inviting a rider, only to rush into deep water. The danger is not its appearance but the false sense of trust it engenders—a motif many horror tales later adopted.
 
 The tales also remind us that folklore is not always one‑sided. It offers no protection, only a warning. If you heed the lesson, you survive; if you ignore it, the waters claim you. The rule is straightforward and brutally honest.
 

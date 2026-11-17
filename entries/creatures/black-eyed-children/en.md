@@ -1,3 +1,8 @@
+---
+title: "The Black-Eyed Children"
+summary: "In 1996 a reporter in Abilene, Texas, was sitting in a parking lot when two children knocked on his car window. They were pale, their eyes were black from lid to lid, and they asked for a ride. He refused and drove away. Two years later he wrote it down and posted it to a ghost mailing list. The black-eyed children have been with us ever since."
+lang: en
+---
 
 ## 1. The parking lot
 
@@ -58,27 +63,16 @@ The story places “someone who needs help” and “something that cannot be tr
 
 The parking lot in 1996 may have held two boys in contact lenses, or nothing at all. But the story found a structure that holds, and it is still being told.
 
-## Timeline
-
-- **1996**: In 1996 Brian Bethel was a reporter for a newspaper in Abilene, Texas.
-- **1998**: In 1998 Bethel posted a detailed account to a ghost‑related mailing list. The post was forwarded
-- **2012**: He changed jobs and moved, and people kept asking him about it. In 2012 he told the story again on a televis...
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (World Urban Legend) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Black-Eyed Children”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Black-eyed children” and S2 is “World Urban Legend · Black-Eyed Kids: The Real Origin of the Urban Legend”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Black-Eyed Children”, the checkable coordinates are Abilene, Texas, United States, Since 1996, and the source-ledger entries S1 “Wikipedia · Black-eyed children” and S2 “World Urban Legend · Black-Eyed Kids: The Real Origin of the Urban Legend”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The black‑eyed‑children narrative follows a remarkably consistent template.
 
 Typically, it occurs at night in an empty parking lot, roadside, or doorway. Two children appear nearby with pale skin, ordinary clothes, and polite speech. They make a concrete request—an offer of a lift, a call, or an invitation to enter. The witness feels terror, refuses, and departs. When they look back, the children are gone.
 

@@ -1,3 +1,8 @@
+---
+title: "The City Dug from the Earth"
+summary: "West of Turpan in Xinjiang, an ancient city stands on a loess plateau. Its streets, houses, temples, and wells were not built up from brick and stone. They were dug down into the raw earth. Two rivers run beside it, and the cliffs serve as its walls."
+lang: en
+---
 
 ## 1. Between two rivers
 
@@ -59,14 +64,9 @@ The ruins are open to visitors, but many areas are fenced off. Loess is fragile;
 
 It looks like an abandoned city, but it is closer to a huge sculpture slowly weathering away. The city was dug out of the earth, and the wind and rain are digging it back in.
 
-## Timeline
-
-- Background: about 100 BCE – 14th century
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S4 (an institutional source) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The City Dug from the Earth”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Jiaohe Ruins” and S2 is “Wikipedia · Turpan”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -76,14 +76,10 @@ Jiaohe's paper trail runs through excavation reports, conservation files, and th
 
 ## Limits of the record
 
-Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The City Dug from the Earth”, the checkable coordinates are Turpan, Xinjiang, China, about 100 BCE – 14th century, and the source-ledger entries S1 “Wikipedia · Jiaohe Ruins” and S2 “Wikipedia · Turpan”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Jiaohe Ancient City is threatened by sandstorms and tourists.
 
 Protectors strengthen walls, clear sand, and restrict access.
 
@@ -93,4 +89,4 @@ After the city was abandoned, wind and sand slowly buried the streets and houses
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the layout, the historical sequence, and the explanations for abandonment; the abandonment is not attributed to a single event.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the layout, the historical sequence, and the explanations for abandonment; the abandonment is not attributed to a single event.

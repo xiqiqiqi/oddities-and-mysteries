@@ -1,3 +1,8 @@
+---
+title: "The Bodies Kept in the Bog"
+summary: "In 1950, two brothers cutting peat in a Danish bog uncovered a human face. They thought it was a recent murder and called the police. The body turned out to be more than two thousand years old — skin, hair, stubble, and the rope around its neck were still there. The bog had preserved him."
+lang: en
+---
 
 ## 1. A face in the peat
 
@@ -63,15 +68,9 @@ Conservation remains difficult. Once a bog body meets the air, it can dry, shrin
 
 A man died more than two thousand years ago, and his skin is still there, his hair still reddish. It is not because he was treated specially, but because he fell into a place that would not let him rot.
 
-## Timeline
-
-- **1950**: In May 1950, two brothers were cutting peat in the Bjældskovdal bog on the Jutland peninsula in Denmark.
-- **2011**: In 2011, peat cutters in County Laois, Ireland, found Cashel Man. He died around 2000 BCE and is the oldest ...
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S4 (National Museum of Ireland) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Bodies Kept in the Bog”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Bog body” and S2 is “Wikipedia · Tollund Man”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -79,10 +78,10 @@ Bog-body research is grounded in museum conservation files, forensic reports, an
 
 ## Limits of the record
 
-Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Bodies Kept in the Bog”, the checkable coordinates are Denmark, Ireland, Britain, and elsewhere in Europe, 8000 BCE – 1st century CE, and the source-ledger entries S1 “Wikipedia · Bog body” and S2 “Wikipedia · Tollund Man”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, the preservation mechanism, the causes of death, and the ritual interpretations; both the cause of death and the reason for deposition remain debated.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.

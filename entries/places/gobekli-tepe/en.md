@@ -86,4 +86,4 @@ Standing on the boardwalk, you see a T-shaped pillar, its surface weathered whit
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and reconstruction illustrations are licensed under CC BY-SA 4.0. Reconstruction illustrations are not historical photographs. The purpose and identity of the builders of Göbekli Tepe remain debated; this article separates confirmed archaeological facts from interpretive hypotheses.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S5 at the bottom of this entry. Text and reconstruction illustrations are licensed under CC BY-SA 4.0. Reconstruction illustrations are not historical photographs. The purpose and identity of the builders of Göbekli Tepe remain debated; this article separates confirmed archaeological facts from interpretive hypotheses.

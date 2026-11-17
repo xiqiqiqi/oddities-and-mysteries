@@ -1,3 +1,8 @@
+---
+title: "Bigfoot: Footprints, Film, and an Unconfirmed Primate"
+summary: "From giant footprints in northern California to the 1967 Patterson–Gimlin film, the image of Bigfoot was assembled in the twentieth century from Indigenous stories, frontier tales, carnival publicity, and eyewitness accounts. Hair, footprints, films, and DNA samples have all been offered; none has yet survived independent verification."
+lang: en
+---
 
 ## 1. Name and image
 
@@ -31,19 +36,11 @@ Bigfoot is not only a zoological question but part of North American folk cultur
 
 Today Bigfoot supports an industry of tourism, podcasts, documentaries, and merchandise: towns have statues and festivals, organisations keep sighting databases, and enthusiasts hold annual gatherings. For participants it is adventure and community; for science it remains an unconfirmed hypothesis. The most useful attitude is neither ridicule nor credulity but a demand for evidence: where did the sample come from, who handled it, can it be repeated, and has it been independently verified? That question trains judgment better than 'does Bigfoot exist'.
 
-## Timeline
-
-- **premodern**: Indigenous and settler stories of forest beings
-- **1958**: large footprints in Humboldt County; the name spreads
-- **1967**: Patterson–Gimlin film shot
-- **2014**: Sykes et al. publish hair DNA analysis; no unknown primate
-- **21st century**: Bigfoot tourism, podcasts, and community industry
-
 ## Sources and evidence
 
-The checkable material in this entry rests mainly on S1 and S2: S1 supplies the official site or object record and basic chronology, while S2 supplies independent research or archival context. S3 covers the editorial cover and diagrams; it is visual explanation, not historical evidence. Dates, quantities, places, and attributions in the text are traced back to specific S1/S2 pages wherever possible. Claims that cannot be tied to a page are flagged under 'Limits of the record'.
+For “Bigfoot: Footprints, Film, and an Unconfirmed Primate”, the factual trail runs mainly through S1–S3: S1 is “Why Bigfoot Doesn't Exist” and S2 is “American Folklore Society”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
-The cover is an AI-assisted reconstruction, not a site photograph. The two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in `research/image-audit.csv`.
+The cover is an AI-assisted reconstruction of “Bigfoot: Footprints, Film, and an Unconfirmed Primate”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
 
@@ -52,7 +49,6 @@ Bigfoot has no type specimen and therefore no museum-grade biological archive; e
 ## Limits of the record
 
 Bigfoot is not scientifically confirmed, and there is no body, skeleton, or reproducible DNA sample. The 'evidence' consists mainly of footprints, hair, audio, sightings, and images, many of which can be explained by bears, humans, known animals, or hoaxes. Folk narrative, Indigenous stories, and modern popular culture are layered together and cannot be read simply as biological records. This entry separates 'what people have reported' from 'whether an unconfirmed large primate exists': the first can be studied, the second still lacks evidence.
-
 
 ---
 

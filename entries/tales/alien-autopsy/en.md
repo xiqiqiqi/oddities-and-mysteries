@@ -1,3 +1,8 @@
+---
+title: "The Alien Autopsy Tape"
+summary: "In 1995, a black-and-white film was shown on television. It appeared to show people in protective suits dissecting an alien body, and it was presented as a genuine record of the 1947 Roswell incident. Ten years later, the man who released it admitted that the alien was fake and the footage had been shot much later."
+lang: en
+---
 
 ## 1. The film of 1995
 
@@ -63,17 +68,9 @@ It has become a case study in media history: a blurry image and a big story can 
 
 The alien was made of latex. It lay on a table, was cut open, and was filmed. It never lived, but it became more famous than many real things.
 
-## Timeline
-
-- **1995**: May 1995, London.
-- **1947**: A music producer named Ray Santilli held a press conference. He said he had a film. It was black and white
-- **2006**: In 2006, Santilli finally admitted that the footage was not from 1947. It had been shot in a London flat in ...
-- **1992**: He still insisted that he had seen a real film in 1992
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (Hoaxes.org) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Alien Autopsy Tape”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Alien autopsy” and S2 is “Hoaxes.org · Alien Autopsy (1995)”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -83,14 +80,10 @@ The alien-autopsy file is a television archive: broadcast masters, ratings cover
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'hoax'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Alien Autopsy Tape”, the checkable coordinates are London, United Kingdom (set in Roswell, USA), 1995, and the source-ledger entries S1 “Wikipedia · Alien autopsy” and S2 “Hoaxes.org · Alien Autopsy (1995)”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “hoax”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The Fox television network aired the footage.
 
 The show's ratings are high. Many people believe that it is true.
 

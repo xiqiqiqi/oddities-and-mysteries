@@ -1,3 +1,8 @@
+---
+title: "The War With One Shot"
+summary: "In 1784, the Austrian emperor wanted to open the Scheldt estuary to shipping. The Dutch refused. An Austrian ship sailed into the estuary, and a Dutch warship fired one shot. The shot hit a kettle on board. The “war” never fired a second shot, but it left a name — the Kettle War."
+lang: en
+---
 
 ## 1. A locked river
 
@@ -61,26 +66,16 @@ The episode reappeared in cartoons, prints, and popular histories. The kettle be
 
 It does not belong in the great-battles chapter of military history. It belongs in a footnote about how diplomacy avoids wars. Both sides got an acceptable result. The price was a kettle.
 
-## Timeline
-
-- **1784**: In 1784, Emperor Joseph II decided to test the arrangement. He demanded that the Dutch open the Scheldt to n...
-- **1785**: In 1785, the two sides signed the Treaty of Fontainebleau.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S4 (Rijksmuseum / Europeana) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The War With One Shot”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Kettle War” and S2 is “Wikipedia · Scheldt”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The War With One Shot”, the checkable coordinates are the Scheldt estuary, Dutch Republic and Austria, 1784, and the source-ledger entries S1 “Wikipedia · Kettle War” and S2 “Wikipedia · Scheldt”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-In 1785, a treaty was signed between the two countries.
 
 Boundaries were drawn and conflicts ended. The kettle became a symbol: a war without bloodshed.
 
@@ -117,4 +112,4 @@ A kettle in exchange for a boundary. History is so light sometimes.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the documented diplomatic and military course from the widely repeated kettle detail; the exact manner in which the kettle was hit comes from later accounts.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the documented diplomatic and military course from the widely repeated kettle detail; the exact manner in which the kettle was hit comes from later accounts.

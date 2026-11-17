@@ -1,3 +1,8 @@
+---
+title: "The Lighthouse That Sank"
+summary: "A lighthouse more than a hundred metres tall once stood at the entrance to Alexandria's harbour. A fire burned at the top at night, and a mirror was said to reflect the sun by day. It stood for over a thousand years before earthquakes brought it down and its stones fell into the sea. In the 1990s, divers found the remains on the harbour floor."
+lang: en
+---
 
 ## 1. The door to the harbour
 
@@ -59,28 +64,16 @@ The Antiquities Museum at the Bibliotheca Alexandrina has a collection of object
 
 A building made to guide ships ended up sinking into the harbour it once guarded.
 
-## Timeline
-
-- **1303**: Earthquakes weakened it. Major tremors struck the region in 956
-- **1480**: In 1480, Sultan Qaitbay built a fortress on the site. The building material came from the fallen lighthouse:...
-- **1994**: In 1994, the French underwater archaeologist Jean-Yves Empereur took a diving team into the Eastern Harbour.
-- **1993**: Diving was difficult. In 1993, hundreds of concrete blocks had been dropped into the harbour to protect the ...
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (Ministère de la Culture (France)) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Lighthouse That Sank”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Lighthouse of Alexandria” and S2 is “Underwater archaeology · Alexandria (Egypt)”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Lighthouse That Sank”, the checkable coordinates are Alexandria, Egypt, c. 280 BCE, and the source-ledger entries S1 “Wikipedia · Lighthouse of Alexandria” and S2 “Underwater archaeology · Alexandria (Egypt)”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Stones on the ocean floor were measured, photographed and numbered.
 
 Some stones have inscriptions on them, and some have carvings. They cannot put the entire tower back together, but they can prove its existence.
 

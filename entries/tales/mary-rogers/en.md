@@ -1,3 +1,8 @@
+---
+title: "The Girl in the Cigar Shop"
+summary: "In July 1841 a New York cigar girl, Mary Rogers, disappeared. Three days later her body was pulled from the Hudson River. The papers put her face on the front page, Edgar Allan Poe turned her into fiction, and the case was never solved."
+lang: en
+---
 
 ## 1. Behind the counter
 
@@ -69,27 +74,16 @@ The case was never officially closed.
 
 Mary Rogers's name survived in a story by Poe. The cause of her death survived in the newspapers of 1841. Both outlived her.
 
-## Timeline
-
-- **1838**: In 1838, Mary disappeared for a few days.
-- **1841**: In 1841, Mary was engaged to Daniel Payne. He was a cork-cutter, and he also lived in her mother's boarding ...
-- **1842**: In 1842, Edgar Allan Poe serialised “The Mystery of Marie Rogêt” in Snowden's Ladies' Companion.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S1 (Smithsonian Magazine) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Girl in the Cigar Shop”, the factual trail runs mainly through S1–S3: S1 is “Smithsonian Magazine · Edgar Allan Poe Tried and Failed to Crack the Mysterious Murder Case of Mary Rogers” and S2 is “Wikipedia · Mary Rogers”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Girl in the Cigar Shop”, the checkable coordinates are Hoboken, New Jersey, United States, 1841, and the source-ledger entries S1 “Smithsonian Magazine · Edgar Allan Poe Tried and Failed to Crack the Mysterious Murder Case of Mary Rogers” and S2 “Wikipedia · Mary Rogers”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-In July 1841, the body of Mary Rogers was discovered in the Hudson River. Her death became a New York newspaper drama.
 
 The case was not solved. The newspaper's sales increased because of this story.
 

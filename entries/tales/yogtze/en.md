@@ -1,3 +1,8 @@
+---
+title: "Six Letters"
+summary: "In October 1984 a German man, Günter Stoll, wrote six letters on a piece of paper — YOGTZE — and went out. Hours later he was found badly injured in his crashed car, and died that night. The case ran for forty years until police closed it in 2025 as a single-car accident. The six letters have never been explained."
+lang: en
+---
 
 ## 1. 25 October 1984
 
@@ -77,23 +82,16 @@ YOGTZE belongs to no language and has left no verifiable meaning. It is six lett
 
 What he understood that night, no one knows.
 
-## Timeline
-
-- **1984**: Günter Stoll was thirty-four and lived in Anzhausen
-- **1985**: In April 1985 the case was shown on the German television programme Aktenzeichen XY … ungelöst.
-- **2025**: On 3 April 2025, the public prosecutor's office and the police in Hagen held a press conference.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (The True Crime Database) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “Six Letters”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · YOGTZE case” and S2 is “The True Crime Database · YOGTZE Case”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “Six Letters”, the checkable coordinates are Near Hagen, North Rhine-Westphalia, Germany, 1984, and the source-ledger entries S1 “Wikipedia · YOGTZE case” and S2 “The True Crime Database · YOGTZE Case”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the movements of that night, the crash scene, the note, and the investigation; in April 2025 the Hagen prosecutor's office and police concluded that the death was a single-car accident, and the meaning of YOGTZE remains unexplained. The illustration is a scene reconstruction, not a historical photograph.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.

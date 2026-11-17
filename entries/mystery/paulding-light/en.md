@@ -1,3 +1,8 @@
+---
+title: "The Light in the Woods"
+summary: "Near Paulding in Michigan's Upper Peninsula, an old railroad grade runs through the forest. After dark, people standing at the roadside see a white light in the trees, dimming and drifting. Local legend says it is the lantern of a decapitated railroad worker. In 2010 a group of students traced it to car headlights on a highway several kilometres away."
+lang: en
+---
 
 ## 1. Paulding
 
@@ -61,26 +66,16 @@ The light usually appears. It comes from a highway several kilometres away, prod
 
 *Original schematic: the viewing point, the old railroad grade and US-45, with the path of the headlights. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **2010**: In 2010 a group of students at Michigan Technological University decided to find out.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (CBS News Detroit) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Light in the Woods”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Paulding Light” and S2 is “CBS Detroit · Michigan Tech Solves Mystery Of UP Lights”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Light in the Woods”, the checkable coordinates are Paulding, Michigan, United States, Since the 1960s, and the source-ledger entries S1 “Wikipedia · Paulding Light” and S2 “CBS Detroit · Michigan Tech Solves Mystery Of UP Lights”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Paul Ding's light is most easily photographed as "evidence". Mobile phone cameras will extend the exposure at night, turning car lights into light trails, and turning distant point light sources into a ball of light. The photos look more mysterious than the naked eye. Technology doesn't create lies, it just changes the proportions of seeing.
-Paul Ding's light has become part of the place.
 
 There are signs on the roadside, sighting maps on websites, and people in bars talking about it. Even as the headlight explanation was brought up again and again, the story stayed alive. Because what the story provides is not an answer, but a place to go at night: you can drive there, turn off the engine, and wait for a light.
 Paul Ding's Light is a typical example of the "misidentification" type of archives. It has a reasonable explanation and a story that is still popular. Explanation does not kill the story because the story provides not facts but a place to spend the night. People need something they can wait for.

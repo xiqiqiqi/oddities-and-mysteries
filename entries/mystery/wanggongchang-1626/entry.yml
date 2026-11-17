@@ -26,9 +26,9 @@ sources:
     license: CC BY-SA 4.0
     usage: 日期、地点、死伤数字、目击记载
   - id: S2
-    title: "Wikipedia · Wanggongchang explosion"
+    title: "Wikipedia · Wanggongchang Explosion"
     publisher: Wikipedia contributors
-    url: https://en.wikipedia.org/wiki/Wanggongchang_explosion
+    url: https://en.wikipedia.org/wiki/Wanggongchang_Explosion
     year: "2026"
     license: CC BY-SA 4.0
     usage: 交叉核对、现代解释
@@ -52,7 +52,7 @@ related:
   - bristol-hum
 status: published
 featured: false
-translation_status: native_reviewed
+translation_status: reviewed
 editorial_status: ai_final_reviewed
 fact_ledger: research/fact-ledgers/mystery/wanggongchang-1626.md
 image_license_audit: research/image-audit.csv

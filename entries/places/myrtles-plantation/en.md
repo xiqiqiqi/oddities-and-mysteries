@@ -1,3 +1,8 @@
+---
+title: "The Shot on the Porch"
+summary: "In 1796 David Bradford built an eight-room house in Louisiana and called it Laurel Grove. It later became the Myrtles Plantation, one of America's most famous haunted houses. The legends include ten murders, an enslaved woman named Chloe and a mirror that will not stay clean. The record contains one murder, when William Winter was shot on the porch in 1871."
+lang: en
+---
 
 ## 1. 1796
 
@@ -57,32 +62,16 @@ The ghosts were added later. The house was already heavy enough.
 
 *Original schematic: the 1796–1992 timeline, the 1871 shooting on the porch and the spread of the Chloe legend. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1796**: In 1796, in Spanish West Florida near St. Francisville, David Bradford bought six hundred acres and built an...
-- **1817**: Bradford's daughter Sarah Mathilda married his law student, Clark Woodruff, in 1817.
-- **1823**: In 1823 Sarah died of yellow fever. The next year two of their children
-- **1834**: In 1834 Woodruff sold the house to Ruffin Grey Stirling.
-- **1854**: Stirling died of tuberculosis in 1854. His wife
-- **1871**: On 26 January 1871, Winter was teaching a Sunday school lesson in the house.
-- **1992**: In 1992 Frances Kermeen published *The Myrtles Plantation: The True Story of America's Most Haunted House*
-
 ## Sources and evidence
 
-The factual base of this entry rests on 2 independent source(s). S2 (The Myrtles Plantation) covers the relevant institutional record.
-S3 (American Hauntings) provides cross-checks on related records.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Shot on the Porch”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · The Myrtles” and S2 is “The Myrtles · History & Culture”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Shot on the Porch”, the checkable coordinates are St. Francisville, Louisiana, USA, 1796, and the source-ledger entries S1 “Wikipedia · The Myrtles” and S2 “The Myrtles · History & Culture”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The history of plantations is related to yellow fever.
 
 In the 1790s, yellow fever was epidemic in Louisiana. Many people died, slaves and masters alike. The house and cemetery leave this history behind.
 

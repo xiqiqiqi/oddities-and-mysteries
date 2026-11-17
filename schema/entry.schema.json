@@ -120,7 +120,32 @@
       "type": "boolean"
     },
     "translation_status": {
-      "enum": ["zh_only", "translated", "reviewed"]
+      "enum": ["zh_only", "translated", "reviewed", "line_edited", "native_reviewed"],
+      "description": "reviewed 表示 AI 编辑流程已完成全文复核；native_reviewed 仅保留给真人母语编辑签核，当前 AI-only 发布不使用。"
+    },
+    "editorial_status": {
+      "type": "string",
+      "description": "AI 编辑流程的内部状态，例如 ai_final_reviewed。"
+    },
+    "fact_ledger": {
+      "type": "string",
+      "description": "相对于内容仓根目录的事实台账路径。"
+    },
+    "image_license_audit": {
+      "type": "string",
+      "description": "相对于内容仓根目录的图片许可审计文件路径。"
+    },
+    "reviewed_by": {
+      "type": "string"
+    },
+    "reviewed_at": {
+      "type": "string"
+    },
+    "review_method": {
+      "type": "string"
+    },
+    "review_scope": {
+      "type": "string"
     }
   }
 }

@@ -1,3 +1,8 @@
+---
+title: "The Mask with Bulging Eyes"
+summary: "In 1986, a bronze mask came out of a sacrificial pit at Sanxingdui in Guanghan, Sichuan. It is 66 centimetres high and 138 centimetres wide. Its eyes are like two cylinders projecting 16 centimetres forward, and its ears are as large as wings. It is called the “mask with protruding eyes”, and some people say it looks alien. It is not alien; it is a god or ancestor imagined by the ancient Shu people."
+lang: en
+---
 
 ## 1. The pit of 1986
 
@@ -61,27 +66,16 @@ It is one of the most famous objects from the site and the source of the “alie
 
 It is not an alien. It is a god imagined by people three thousand years ago.
 
-## Timeline
-
-- **1986**: 1986, Guanghan, Sichuan, Sanxingdui.
-- **1131**: Recent dating places the burial of the pits between 1131 and 1012 BCE, in the late Shang period.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 2 independent source(s). S1 (an institutional source) covers the relevant institutional record.
-S2 (a second institutional source) provides cross-checks on related records.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Mask with Bulging Eyes”, the factual trail runs mainly through S1–S3: S1 is “Sichuan Provincial Cultural Relics Bureau · Bronze Mask with Protruding Eyes” and S2 is “Shanghai Museum · Bronze Mask with Protruding Eyes and Kui-dragon Crown”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Mask with Bulging Eyes”, the checkable coordinates are Guanghan, Sichuan, China, Late Shang, c. 12th–11th century BCE, and the source-ledger entries S1 “Sichuan Provincial Cultural Relics Bureau · Bronze Mask with Protruding Eyes” and S2 “Shanghai Museum · Bronze Mask with Protruding Eyes and Kui-dragon Crown”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-After the bronze masks are unearthed, they will oxidize and corrode.
 
 Conservation personnel should control the humidity, remove soil and salt from the surface, and treat it with corrosion inhibitors. The gold mask is more fragile, the gold foil is easy to fall off, and cannot be touched casually.
 

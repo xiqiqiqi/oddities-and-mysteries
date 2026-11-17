@@ -1,3 +1,8 @@
+---
+title: "Antarctica on the Map"
+summary: "In 1513 the Ottoman admiral Piri Reis drew a world map. In 1929 a fragment was found at Topkapı Palace. Some said it showed Antarctica without ice, proof that ancient people had charted the continent. Mainstream cartographers say the landmass is a stretched and rotated South America."
+lang: en
+---
 
 ## 1. 1513
 
@@ -57,30 +62,16 @@ Some people still say the southern landmass is Antarctica. It is more likely Sou
 
 *Original schematic: the area covered by the surviving fragment, Hapgood's Antarctica hypothesis and the mainstream rebuttal. Not a photograph of the artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1513**: In 1513 Piri Reis was an Ottoman naval officer and a cartographer.
-- **1517**: In 1517 the Ottoman Empire conquered Egypt. Piri Reis presented the map to Sultan Selim I.
-- **1929**: In 1929, while Topkapı Palace was being reorganised as a museum, the map was found among its collections.
-- **1966**: In 1966 the American professor Charles Hapgood published a book called Maps of the Ancient Sea Kings.
-- **1820**: Antarctica was not confirmed to exist until 1820. A map of 1513 could not have drawn its ice-free coastline.
-- **1553**: Piri Reis continued as a naval commander and was executed in 1553 after a campaign. His map became part of the collections of the Topkapı Palace Museum in Istanbul.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (Encyclopaedia Britannica) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “Antarctica on the Map”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Piri Reis map” and S2 is “Britannica · Piri Reis”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “Antarctica on the Map”, the checkable coordinates are Istanbul, Ottoman Empire, 1513, and the source-ledger entries S1 “Wikipedia · Piri Reis map” and S2 “Britannica · Piri Reis”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The map is now in the Topkapı Palace Museum.
 
 It is not often on display because the parchment is sensitive to light. The digitized version can be viewed online.
 

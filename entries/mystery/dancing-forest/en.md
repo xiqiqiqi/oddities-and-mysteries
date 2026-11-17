@@ -1,3 +1,8 @@
+---
+title: "The Dancing Pines"
+summary: "On the Curonian Spit in Kaliningrad, Russia, there is a pine forest where the trunks do not grow straight up. They twist, bend, and curl as if someone had wrung them in the middle. Some blame the sea wind, some blame insects, and some suspect human hands. The trees cannot speak; the answer has to come from rings and soil."
+lang: en
+---
 
 ## 1. A forest on the spit
 
@@ -55,27 +60,16 @@ The Dancing Forest is one of the best-known sites on the Curonian Spit. Visitors
 
 The trees keep growing. The bends will not disappear; they will only thicken with each ring. Which tree was shaped by wind and which by insects will probably never be settled.
 
-## Timeline
-
-- **1961**: The Dancing Forest stands on the Russian side
-
 ## Sources and evidence
 
-This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Dancing Forest” and S2 is “Wikipedia · Curonian Spit”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Dancing Pines”, the checkable coordinates are Curonian Spit, Kaliningrad Oblast, Russia, planted in 1961, and the source-ledger entries S1 “Wikipedia · Dancing Forest” and S2 “Wikipedia · Curonian Spit”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Dancing Forest is a "Natural Wonders" category archive. It doesn’t need monsters, it doesn’t need aliens. A forest of artificially planted pine trees, shaped into strange shapes by wind, snow and sand, is enough to make one stop. The mystery of nature sometimes does not require the supernatural.
-The trees in the dancing forest are not uniform in their curved shapes. Some are like arches, some are like spirals, and some are close to the ground. This diversity suggests that wind, snow, sand and genes all play a role. There is no single cause and no single pattern. Nature rarely gives neat answers.
-Dancing Forest is not a virgin forest.
 
 This pine forest was artificially planted in the mid-20th century to stabilize the dunes and protect the coast. The tree planters arranged the seedlings in rows, not expecting that the wind, snow and sand would shape them into another shape.
 
@@ -83,4 +77,4 @@ A plantation that grew into what looks like a natural wonder. This in itself is 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article presents wind, insects, moving sand, and human planting side by side, without treating any one as the only cause.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article presents wind, insects, moving sand, and human planting side by side, without treating any one as the only cause.

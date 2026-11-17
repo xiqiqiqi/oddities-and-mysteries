@@ -1,3 +1,8 @@
+---
+title: "The Gold-Covered Chest"
+summary: "The Ark of the Covenant was a wooden chest covered in gold, holding the stone tablets of the Ten Commandments. It stood in the innermost room of the Temple in Jerusalem, which only the high priest entered once a year. In 586 BCE the Babylonians burned the Temple, and the Ark disappeared. Ethiopia says it is in Aksum."
+lang: en
+---
 
 ## 1. The chest
 
@@ -61,25 +66,16 @@ The guardian monk is still in Aksum. The Holy of Holies in Jerusalem is only sto
 
 *Original schematic: the construction of the Ark, its capture by the Philistines, the destruction of the Temple and the Ethiopian tradition. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- Background: c. 10th century BCE
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (National Geographic) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Gold-Covered Chest”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Ark of the Covenant” and S2 is “National Geographic · What happened to the Ark of the Covenant?”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Gold-Covered Chest”, the checkable coordinates are Jerusalem, Israel, c. 10th century BCE, and the source-ledger entries S1 “Wikipedia · Ark of the Covenant” and S2 “National Geographic · What happened to the Ark of the Covenant?”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The Ark of the Covenant is a box.
 
 Its meaning is not in the wood and gold, but in the contract it represents.
 

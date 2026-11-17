@@ -1,3 +1,8 @@
+---
+title: "The Creature That Cried Itself Away"
+summary: "Lumberjacks in northern Pennsylvania said the woods held the ugliest animal alive. It cried constantly and left a trail of tears. Cornered, it dissolved into a pool of tears and vanished. In 1910 a state forester put the story into a book."
+lang: en
+---
 
 ## 1. Crying in the Woods
 
@@ -63,15 +68,9 @@ In a world where every monster wants to eat you, a creature that cries itself aw
 
 *Original schematic: the folklore elements, Cox's 1910 record and the later popular culture. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1910**: The Squonk first appeared in print in 1910.
-- **1976**: In 1976 the British band Genesis wrote a song called "Squonk". In the song the creature hides in the mountains because it is so ugly
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (OutdoorHub) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Creature That Cried Itself Away”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Squonk” and S2 is “OutdoorHub · Squonk: The Legend of Pennsylvania”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -79,14 +78,10 @@ The Squonk is a literary and lumber-camp invention more than a field report; its
 
 ## Limits of the record
 
-Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Creature That Cried Itself Away”, the checkable coordinates are Pennsylvania, United States, 1910, and the source-ledger entries S1 “Wikipedia · Squonk” and S2 “OutdoorHub · Squonk: The Legend of Pennsylvania”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-There are no heroes or victims in Skonk's story. When the hunter chases it, it cries; when the hunter approaches, it turns into a pool of tears. This ending offers neither victory nor explanation. It just puts a stop to the pursuit. This is rare in an age where all the stories are about teaching people how to kill monsters.
 
 Skonk's story has no ending. It cries, it melts, it disappears. The next time someone walks into the woods, it will still be there. A monster that only disappears is the hardest to drive away completely.
 

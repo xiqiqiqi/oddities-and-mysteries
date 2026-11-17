@@ -1,3 +1,8 @@
+---
+title: "The Poet and the Tortoise"
+summary: "The Greek tragedian Aeschylus died at Gela in Sicily. Ancient writers said an eagle mistook his bald head for a rock and dropped the tortoise it was carrying to crack its shell. The tortoise hit his head, and the poet died. The story has been repeated for two thousand years, but his actual cause of death is unknown."
+lang: en
+---
 
 ## 1. The end at Gela
 
@@ -57,25 +62,16 @@ The tortoise story is still repeated in trivia books, histories of drama, and tr
 
 A man who wrote so much about revenge, oracles, and blood debts was finished off by a tortoise. The ending is too neat, as if someone else had written it for him.
 
-## Timeline
-
-- Background: c. 456 BCE
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (Loeb Classical Library) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Poet and the Tortoise”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Aeschylus” and S2 is “Valerius Maximus · Memorable Doings and Sayings, Book IX”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Poet and the Tortoise”, the checkable coordinates are Gela, Sicily, Italy, c. 456 BCE, and the source-ledger entries S1 “Wikipedia · Aeschylus” and S2 “Valerius Maximus · Memorable Doings and Sayings, Book IX”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The plays of Aeschylus are the starting point of ancient Greek drama.
 
 Only seven complete plays by Aeschylus have survived. He wrote more than seventy works, most of which only fragments remain. His death is more absurd than his play, and more like a myth. Only seven of Aeschylus's plays have survived in their entirety.
 

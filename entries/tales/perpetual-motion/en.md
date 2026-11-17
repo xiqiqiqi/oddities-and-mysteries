@@ -1,3 +1,8 @@
+---
+title: "The Wheel That Would Not Stop"
+summary: "From twelfth-century India to eighteenth-century Germany to nineteenth-century Philadelphia, people believed that the right arrangement of hammers, hinges and wheels would turn forever. Some became famous, some charged admission, some fooled a prince. The wheels always stopped."
+lang: en
+---
 
 ## 1. The Wheel
 
@@ -69,27 +74,16 @@ The wheel stops. Physics does not.
 
 *Original schematic: the overbalanced wheel, the Bessler and Redheffer cases, and a thermodynamics timeline. Not a historical drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1712**: In 1712 the German Johann Bessler, who called himself Orffyreus, built a "self-moving wheel".
-- **1717**: In 1717, at Weissenstein Castle in Kassel, one of his wheels was locked in a room and the doors and windows ...
-- **1812**: In 1812 the American Charles Redheffer exhibited a machine in Philadelphia and charged admission.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (Encyclopaedia Britannica) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Wheel That Would Not Stop”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Perpetual motion” and S2 is “Britannica · Perpetual motion”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'hoax'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Wheel That Would Not Stop”, the checkable coordinates are Europe and the United States, 13th–19th century, and the source-ledger entries S1 “Wikipedia · Perpetual motion” and S2 “Britannica · Perpetual motion”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “hoax”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-In the 12th century, the Indian mathematician Vaskara described an "automatic wheel." He didn't mean that it actually moved forever, he was just using it to discuss motion. The dream of a perpetual motion machine has never come true. It only proves that energy is not free.
 
 The wheel of Bashikara relies on counterweight and swing. It looks like it's always moving, but it actually stops.
 

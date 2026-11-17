@@ -19,9 +19,9 @@ collections: []
 credibility: folklore
 sources:
   - id: S1
-    title: "Wikipedia · The Myrtles"
+    title: "Wikipedia · Myrtles Plantation"
     publisher: Wikipedia contributors
-    url: https://en.wikipedia.org/wiki/The_Myrtles
+    url: https://en.wikipedia.org/wiki/Myrtles_Plantation
     year: "2026"
     license: CC BY-SA 4.0
     usage: 1796 年建屋、布拉德福德与斯特林家族、1871 年温特谋杀
@@ -52,7 +52,7 @@ related:
   - cecil-hotel
 status: published
 featured: false
-translation_status: native_reviewed
+translation_status: reviewed
 editorial_status: ai_final_reviewed
 fact_ledger: research/fact-ledgers/places/myrtles-plantation.md
 image_license_audit: research/image-audit.csv

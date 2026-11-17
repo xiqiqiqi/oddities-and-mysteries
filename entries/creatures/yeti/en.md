@@ -1,3 +1,8 @@
+---
+title: "Footprints Above the Snowline"
+summary: "In 1951, the mountaineer Eric Shipton photographed a line of large footprints in the Himalayan snow. The picture spread around the world, and the yeti became one of the most famous cryptids. Expeditions searched for decades without finding a body or a bone. In 2017, DNA testing produced a less mysterious answer — most of the “yeti” samples came from bears."
+lang: en
+---
 
 ## 1. The photograph of 1951
 
@@ -57,27 +62,16 @@ The yeti still appears in books, films, and tourism advertising. Himalayan villa
 
 The 2017 DNA results did not make the story disappear. They moved it from “unknown primate” back to “bears we know”. In the mountains, a brown bear standing upright, seen at a hundred metres, can indeed look like a tall dark figure.
 
-## Timeline
-
-- **1951**: In 1951, a British mountaineering team was working in the Himalayas.
-- **1921**: In 1921, Henry Newman, a journalist with the British Everest reconnaissance expedition, put these accounts i...
-- **2017**: In 2017, an international team tested nine samples said to come from yetis.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (The Royal Society) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “Footprints Above the Snowline”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Yeti” and S2 is “Proceedings B · Evolutionary history of enigmatic bears in the Tibetan Plateau–Himalaya region and the identity of the yeti”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “Footprints Above the Snowline”, the checkable coordinates are Nepal, Tibet, and the Himalayas, Folklore, and the source-ledger entries S1 “Wikipedia · Yeti” and S2 “Proceedings B · Evolutionary history of enigmatic bears in the Tibetan Plateau–Himalaya region and the identity of the yeti”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The evidence for the Yeti mainly comes from testimonies and "relics" in temples.
 
 Some temples preserve so-called "snowman scalps", "snowman hand bones" and hair. Pilgrims and climbers would show them to visitors, saying they were passed down from their ancestors.
 

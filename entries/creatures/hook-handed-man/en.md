@@ -84,4 +84,4 @@ And when the story ends, what does the listener do? Check the door.
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S5 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the story versions, the 1950s setting, the Texarkana case of 1946 and the film adaptations; no real case supports the hook man, and Mikkelson's suggestion is only a possibility. The reconstruction is not a historical photograph.
+**Sources and licenses**: sources are listed in the ledger S1–S3 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the story versions, the 1950s setting, the Texarkana case of 1946 and the film adaptations; no real case supports the hook man, and Mikkelson's suggestion is only a possibility. The reconstruction is not a historical photograph.

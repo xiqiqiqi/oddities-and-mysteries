@@ -25,12 +25,12 @@ sources:
     license: CC BY-SA 4.0
     usage: 1924 年开业、建筑、黑色大丽花、拉米雷斯、翁特韦格、蓝可儿与 2021 年改造
   - id: S2
-    title: "Los Angeles Times · Cecil Hotel"
-    publisher: Los Angeles Times
-    url: https://www.latimes.com/topic/cecil-hotel
+    title: "Friends of the Hotel Cecil · Current Community"
+    publisher: Friends of the Hotel Cecil
+    url: https://hotelcecil.org/
     year: "2026"
-    license: 版权归 Los Angeles Times；仅作事实参考
-    usage: 旅馆现状、2023 年居住条件报道与市政府改造背景
+    license: 版权归 Friends of the Hotel Cecil；仅作事实参考
+    usage: 旅馆转为支持性住房后的现状与社区服务
   - id: S3
     title: 场景复原插图与原创示意图
     publisher: 稀奇奇编辑部（AI 辅助生成）
@@ -44,7 +44,7 @@ related:
   - queen-mary
 status: published
 featured: false
-translation_status: native_reviewed
+translation_status: reviewed
 editorial_status: ai_final_reviewed
 fact_ledger: research/fact-ledgers/places/cecil-hotel.md
 image_license_audit: research/image-audit.csv

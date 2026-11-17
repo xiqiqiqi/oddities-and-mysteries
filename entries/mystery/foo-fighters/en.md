@@ -1,3 +1,8 @@
+---
+title: "The Lights That Followed the Fighters"
+summary: "In the winter of 1944, Allied night pilots over Europe reported a strange kind of light — small orange or red balls that flew alongside their aircraft, did not attack, and could not be shaken off. The pilots called them “foo fighters.” After the war, no such weapon was found, and no single explanation covered every report."
+lang: en
+---
 
 ## 1. A winter night in 1944
 
@@ -57,14 +62,9 @@ The name “Foo Fighters” was later adopted by an American rock band. Dave Gro
 
 For a wartime nickname, that is an odd afterlife: it once described a group of unsettling lights, and now more people hear it and think of a song.
 
-## Timeline
-
-- **1944**: In November 1944, night operations over Europe were intense. Allied night fighters took off from airfields i...
-
 ## Sources and evidence
 
-This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Foo fighter” and S2 is “Wikipedia · 415th Night Fighter Squadron”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -72,15 +72,10 @@ Foo-fighter reports are preserved mainly in wartime unit histories, pilot interv
 
 ## Limits of the record
 
-The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Lights That Followed the Fighters”, the checkable coordinates are the skies over Europe, especially the Rhine valley, 1944–1945, and the source-ledger entries S1 “Wikipedia · Foo fighter” and S2 “Wikipedia · 415th Night Fighter Squadron”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-After the war, many pilots stopped talking about the lights. Some people think that if they say it, they will be regarded as nervous, some think that it is the enemy's secret weapon, and some just regard it as part of the night shift. It wasn’t until the rise of UFO culture that these old reports were resurfaced. The same report will turn into different stories in different eras.
-"Foo Fighter" was important because it took "UFOs" from folklore to military reporting.
 
 Pilots are trained observers. Their reports carry more weight than ordinary eyewitness accounts. But military reporting also has its limitations: wartime tensions, information blockades, and reporters’ desire to be taken seriously.
 
@@ -88,4 +83,4 @@ After the war, these reports were collected by UFO researchers and became the ba
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the pilots' descriptions, the wartime investigation, and the post-war explanations in separate layers rather than treating any one of them as final.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the pilots' descriptions, the wartime investigation, and the post-war explanations in separate layers rather than treating any one of them as final.

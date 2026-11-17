@@ -1,3 +1,8 @@
+---
+title: "Stonehenge: Stones, Bones, and the Turning Year"
+summary: "Stonehenge stands on Salisbury Plain in Wiltshire, England. It is not a stone circle built in one go but a place repeatedly rebuilt, extended, and abandoned over more than three thousand years. Stones, trilithons, ditches, avenues, and burials together form a prehistoric landscape."
+lang: en
+---
 
 ## 1. The stone setting
 
@@ -31,20 +36,11 @@ Building on this scale took many hands: transport, shaping, raising, and repeate
 
 The roads around Stonehenge have long been a problem. The A303 runs close to the monument, and traffic and noise affect the landscape; a tunnel scheme has been discussed for years, with supporters stressing transport and landscape and opponents fearing damage to buried remains. The public is still allowed into the stone circle at specific times around midwinter and midsummer, but ordinary visits follow an outer path. Conservation, visitor access, and road demand remain in tension.
 
-## Timeline
-
-- **c. 3000 BCE**: ditch, bank, and Aubrey Holes; early cremations
-- **c. 2600–2400 BCE**: sarsen circle and five trilithons
-- **c. 2400–2200 BCE**: bluestones arrive and are rearranged
-- **c. 1500 BCE**: main building ends; later burials continue
-- **1986**: inscribed as a World Heritage Site
-- **2013**: new visitor centre opens
-
 ## Sources and evidence
 
-The checkable material in this entry rests mainly on S1 and S2: S1 supplies the official site or object record and basic chronology, while S2 supplies independent research or archival context. S3 covers the editorial cover and diagrams; it is visual explanation, not historical evidence. Dates, quantities, places, and attributions in the text are traced back to specific S1/S2 pages wherever possible. Claims that cannot be tied to a page are flagged under 'Limits of the record'.
+For “Stonehenge: Stones, Bones, and the Turning Year”, the factual trail runs mainly through S1–S3: S1 is “Stonehenge: History and Stories” and S2 is “Stonehenge, Avebury and Associated Sites”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
-The cover is an AI-assisted reconstruction, not a site photograph. The two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in `research/image-audit.csv`.
+The cover is an AI-assisted reconstruction of “Stonehenge: Stones, Bones, and the Turning Year”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
 
@@ -53,7 +49,6 @@ The paper record for Stonehenge is held in several places: English Heritage mana
 ## Limits of the record
 
 Three questions about Stonehenge still lack agreed answers: how the bluestones were moved from Wales, who directed each stage of the building sequence, and what the monument's central function was while it was in use. Stratigraphy can establish order but not motive; there are no written records, and later legends cannot be treated as testimony from the builders. This entry therefore separates 'the stones were raised' from 'why they were raised': the first can be described, the second can only be set out as competing hypotheses.
-
 
 ---
 

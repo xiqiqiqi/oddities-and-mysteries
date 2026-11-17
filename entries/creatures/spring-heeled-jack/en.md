@@ -1,3 +1,8 @@
+---
+title: "Spring-Heeled Jack"
+summary: "In the London fog of 1837, a figure appeared who could jump. He wore a strange helmet, had red eyes and claw-like hands, and could leap from the ground to a rooftop. The newspapers called him Spring-Heeled Jack. No one caught him, and no one proved who he was."
+lang: en
+---
 
 ## 1. A jump in the fog
 
@@ -53,15 +58,9 @@ No body, no capture, no reliable photograph. What remains is a stack of newspape
 
 He may have been one man. He may have been several. He may have been a story told too many times.
 
-## Timeline
-
-- **1837**: London, 1837.
-- **1838**: In 1838, a letter to the Lord Mayor brought the matter to public attention.
-
 ## Sources and evidence
 
-This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Spring-heeled Jack” and S2 is “Wikipedia · Penny dreadful”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Editorial note
 
@@ -75,10 +74,10 @@ The Spring-heeled Jack file is further complicated by the way later memoirs reus
 
 ## Limits of the record
 
-Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “Spring-Heeled Jack”, the checkable coordinates are London and elsewhere in Britain, 1837–1904, and the source-ledger entries S1 “Wikipedia · Spring-heeled Jack” and S2 “Wikipedia · Penny dreadful”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the contemporary newspaper reports, the later popular-literature figure, and modern explanations; it does not identify Spring-Heeled Jack as a confirmed creature.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.

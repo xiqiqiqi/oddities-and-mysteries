@@ -1,3 +1,8 @@
+---
+title: "The Writing from the Spring Outing"
+summary: "In the spring of 353, Wang Xizhi and forty-one friends drank and wrote poems beside a stream at the Orchid Pavilion. He wrote a 324-character preface while drunk. The original is said to have gone into a Tang emperor's tomb. What survives are Tang-dynasty copies."
+lang: en
+---
 
 ## 1. The Spring of 353
 
@@ -67,25 +72,16 @@ No one knows whether the original lies in Zhaoling. But the 324 characters survi
 
 *Original schematic: a timeline from the 353 gathering to the Tang copies and the 1965 debate. Not the original calligraphy. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1965**: In 1965 the scholar Guo Moruo argued that the preface might not be by Wang Xizhi at all
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (Encyclopaedia Britannica) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Writing from the Spring Outing”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Lantingji Xu” and S2 is “Britannica · Wang Xizhi”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Writing from the Spring Outing”, the checkable coordinates are Shaoxing, Zhejiang, China, 353, and the source-ledger entries S1 “Wikipedia · Lantingji Xu” and S2 “Britannica · Wang Xizhi”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-"Lanting Preface" is not only a calligraphy painting, but also an article.
 
 At the beginning of the article, write the time, place and people of the party. In the middle, write streams, wine glasses, and poems. Later, I write about extreme joy and sorrow, thinking about the short life, as the ancients said, "Death and life are also big things."
 

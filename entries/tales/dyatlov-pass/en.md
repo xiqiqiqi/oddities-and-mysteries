@@ -1,3 +1,8 @@
+---
+title: "The Tent Cut From Inside"
+summary: "In February 1959, nine experienced ski hikers disappeared in the Ural Mountains. When searchers found their tent, it had been cut open from the inside. Shoes, food, and coats were still there. The people had walked into a night of twenty or thirty degrees below zero, some of them barefoot."
+lang: en
+---
 
 ## 1. February 1959
 
@@ -53,27 +58,16 @@ Dyatlov Pass is now a marked route, and hikers still pass through every year. A 
 
 The case is discussed not only because of the deaths but because the scene left such an improbable combination: a tent cut from inside, barefoot people, bodies without coats, severe internal injuries, and a night with no witnesses.
 
-## Timeline
-
-- **1959**: At the end of January 1959, a group of nine set out from a village in the northern Ural Mountains.
-- **2021**: In 2021, a study published in Communications Earth & Environment used computer modelling of the terrain to a...
-- **2020**: The official Russian investigation concluded in 2020 that an avalanche was responsible. For the families and many researchers
-
 ## Sources and evidence
 
-This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Dyatlov Pass incident” and S2 is “Wikipedia · Kholat Syakhl”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Tent Cut From Inside”, the checkable coordinates are Kholat Syakhl, northern Ural Mountains, Russia, February 1959, and the source-ledger entries S1 “Wikipedia · Dyatlov Pass incident” and S2 “Wikipedia · Kholat Syakhl”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Five bodies were in the snow and four in the ravine.
 
 Some people froze to death and some were injured. One player had a cracked skull, one had broken ribs, and one had a missing tongue.
 
@@ -95,4 +89,4 @@ The team members' clothing, shoes and food are left in the tent.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the recorded scene, the forensic findings, and the various explanations; details such as the missing tongue are conditions of the remains, not direct evidence of homicide.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the recorded scene, the forensic findings, and the various explanations; details such as the missing tongue are conditions of the remains, not direct evidence of homicide.

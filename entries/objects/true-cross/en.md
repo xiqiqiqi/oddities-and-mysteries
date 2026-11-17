@@ -1,3 +1,8 @@
+---
+title: "Splinters of the Cross"
+summary: "Around 326 CE Helena, the mother of Constantine, travelled to Jerusalem. Tradition says she dug up three pieces of wood at Golgotha, and one of them was identified as the cross of Jesus. Since then the wood has been cut into fragments and sent to churches across Europe. Today there are enough claimed pieces of the True Cross to fill a ship."
+lang: en
+---
 
 ## 1. Helena
 
@@ -61,25 +66,16 @@ For historians, it is a story about relics, power and piety. One piece of wood w
 
 *Original schematic: Helena's discovery, the distribution of the cross and the spread of fragments. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- Background: c. 326 CE
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (Catholic World Report) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “Splinters of the Cross”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · True Cross” and S2 is “Catholic World Report · Legends and History of the True Cross”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “Splinters of the Cross”, the checkable coordinates are Jerusalem, Israel, c. 326 CE, and the source-ledger entries S1 “Wikipedia · True Cross” and S2 “Catholic World Report · Legends and History of the True Cross”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Scientists have tried radiocarbon dating.
 
 But fragments of sacred relics are often small, and sampling would destroy the artifacts. Furthermore, the wood may have been treated by later generations, and surface coatings and preservation materials may affect the results. Carbon dating gives the age of the wood but does not prove which tree it came from.
 

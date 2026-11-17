@@ -84,4 +84,4 @@ The 2019 DNA study did not find a monster, and it did not reduce the number of v
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and reconstruction illustrations are licensed under CC BY-SA 4.0. Reconstruction illustrations are not historical photographs. The Loch Ness Monster is folklore, not a confirmed animal.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S5 at the bottom of this entry. Text and reconstruction illustrations are licensed under CC BY-SA 4.0. Reconstruction illustrations are not historical photographs. The Loch Ness Monster is folklore, not a confirmed animal.

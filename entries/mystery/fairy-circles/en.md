@@ -1,3 +1,8 @@
+---
+title: "The Circles in the Grass"
+summary: "From the air, the grassland at the edge of the Namib Desert looks as if someone punched rows of circular holes into it. The centre of each circle is bare; the rim is ringed by taller grass. Some say termites made them. Others say the grass is competing for water. Both explanations have support, and neither has settled the question."
+lang: en
+---
 
 ## 1. From the air
 
@@ -55,14 +60,9 @@ Fairy circles remain one of the most striking features of the Namib. They do not
 
 A circle looks simple. Explaining it means understanding termites, grass, water, and soil at the same time.
 
-## Timeline
-
-- Background: long-standing; systematically studied since the 2000s
-
 ## Sources and evidence
 
-This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Fairy circle” and S2 is “Wikipedia · Namib”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -70,15 +70,10 @@ Fairy-circle research is split between long-term field plots, aerial photography
 
 ## Limits of the record
 
-The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Circles in the Grass”, the checkable coordinates are Namib Desert, Namibia, long-standing; systematically studied since the 2000s, and the source-ledger entries S1 “Wikipedia · Fairy circle” and S2 “Wikipedia · Namib”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The study of fairy circles eventually became an interdisciplinary issue. Ecology, soil science, hydrology and termite behavior all look for answers in the same circle. A seemingly simple pattern turns out to be a whole set of relationships when taken apart. The beauty of nature often comes from many invisible interactions.
-In ecology, there is rarely one cause that explains everything.
 
 Termites, water, grass, soil, fire, may all work together. Termites transform the soil, water determines whether grass will live or die, and fire periodically clears the ground. The circle is the result of the superposition of these forces, not the work of a single cause.
 
@@ -86,4 +81,4 @@ The name of the Fairy Circle comes from legend. The answers given by science are
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article presents the termite hypothesis and the vegetation self-organisation hypothesis side by side, without treating either as the only answer.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article presents the termite hypothesis and the vegetation self-organisation hypothesis side by side, without treating either as the only answer.

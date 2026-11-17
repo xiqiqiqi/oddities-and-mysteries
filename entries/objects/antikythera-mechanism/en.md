@@ -1,3 +1,8 @@
+---
+title: "The Antikythera Mechanism: A Clockwork Cosmos from a Shipwreck"
+summary: "Recovered in 1901 from a shipwreck near Antikythera, a corroded assembly of bronze gears and dials modelled the movements of the sun, moon, and planets. It dates to around the second century BCE. No surviving text says who built this clockwork cosmos, or why."
+lang: en
+---
 
 ## 1. A wreck, a crate, a geared object
 
@@ -31,21 +36,11 @@ In 1902 the archaeologist Valerios Stais noticed the gears; in 1959 the historia
 
 The mechanism is held in the National Archaeological Museum in Athens; the original is rarely displayed for long because of corrosion and fragility. Research teams have built interactive replicas and digital models to explain how the gears turn; these are interpretive tools, not the original. Open questions include whether it was unique or part of a series, the original appearance of the frame and pointers, how far the planetary display went, and why it sank with a cargo of statues. Later surveys of the wreck found more cargo and hull structure, but the device's 'birthplace' remains blank.
 
-## Timeline
-
-- **c. 2nd century BCE**: mechanism made (date range still debated)
-- **c. 1st century BCE**: lost with the ship
-- **1900–1901**: sponge divers find and recover the cargo
-- **1902**: Stais notices the gears
-- **1959**: Price publishes a systematic study
-- **2006**: CT reconstruction confirms gear train and astronomy
-- **2021**: 'cosmos' reconstruction published
-
 ## Sources and evidence
 
-The checkable material in this entry rests mainly on S1 and S2: S1 supplies the official site or object record and basic chronology, while S2 supplies independent research or archival context. S3 covers the editorial cover and diagrams; it is visual explanation, not historical evidence. Dates, quantities, places, and attributions in the text are traced back to specific S1/S2 pages wherever possible. Claims that cannot be tied to a page are flagged under 'Limits of the record'.
+For “The Antikythera Mechanism: A Clockwork Cosmos from a Shipwreck”, the factual trail runs mainly through S1–S3: S1 is “The Antikythera Mechanism” and S2 is “A Model of the Cosmos in the ancient Greek Antikythera Mechanism”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
-The cover is an AI-assisted reconstruction, not a site photograph. The two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in `research/image-audit.csv`.
+The cover is an AI-assisted reconstruction of “The Antikythera Mechanism: A Clockwork Cosmos from a Shipwreck”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
 
@@ -54,7 +49,6 @@ The mechanism's archival core is in Athens: the National Archaeological Museum h
 ## Limits of the record
 
 The Antikythera Mechanism left no direct text naming its maker, place of use, or purpose. Its gear count, missing parts, and original layout are inferred from corroded fragments, X-ray imaging, and reconstruction; different reconstructions disagree in detail. 'The world's first computer' is a popular label, not an ancient term; the device calculated certain astronomical cycles, which is not the same as simulating all planetary motion. This entry treats imaged gears, readable inscriptions, and museum records as fact, and reconstruction models as conditional interpretation.
-
 
 ---
 

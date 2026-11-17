@@ -92,4 +92,4 @@ Comparing the records, researchers find the name, tonnage and route broadly cons
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the Gibraltar inquiry, the crew list, the cargo manifest, and the later novel and newspaper retellings; it does not treat Conan Doyle’s fiction as history.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the Gibraltar inquiry, the crew list, the cargo manifest, and the later novel and newspaper retellings; it does not treat Conan Doyle’s fiction as history.

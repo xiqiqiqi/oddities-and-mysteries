@@ -1,3 +1,8 @@
+---
+title: "Churches Carved from Rock"
+summary: "In Lalibela, Ethiopia, eleven churches were not built up from the ground. They were cut down into volcanic rock. They sit below the surface, linked by trenches, tunnels, and passages. The most famous is a single cross-shaped building."
+lang: en
+---
 
 ## 1. A new Jerusalem
 
@@ -55,14 +60,9 @@ Their main threat is not visitors but water and time. Rain seeps into the rock, 
 
 The stone churches are still in use, and they are still ageing. They were not built up but “subtracted” from the rock; now weathering and erosion are doing the opposite.
 
-## Timeline
-
-- **1978**: In 1978, the rock-hewn churches of Lalibela were inscribed as a UNESCO World Heritage site.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S4 (UNESCO World Heritage Centre) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “Churches Carved from Rock”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Lalibela” and S2 is “Wikipedia · Rock-hewn Churches of Lalibela”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -70,14 +70,10 @@ Lalibela's archive combines church records, conservation reports, and travel acc
 
 ## Limits of the record
 
-Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “Churches Carved from Rock”, the checkable coordinates are Lalibela, Ethiopia, about the 12th–13th century, and the source-ledger entries S1 “Wikipedia · Lalibela” and S2 “Wikipedia · Rock-hewn Churches of Lalibela”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The church is not made of stone, but hewn out of the rock.
 
 The craftsmen first drew lines on the mountain, and then dug down to dig out the church's shape, roof, doors and windows. The church is connected to the ground, like a building growing out of the earth.
 Lalibela has 11 rock churches, all carved downwards from the rock walls. The most famous is the Church of St. George, shaped like a cross. Listed as a World Heritage Site in 1978. The church is still in use today and pilgrims come from all over.
@@ -92,4 +88,4 @@ The windows of the church are cut into the shape of a cross. The door of the chu
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architecture, historical background, traditional accounts, and modern conservation; estimates of the construction period vary.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architecture, historical background, traditional accounts, and modern conservation; estimates of the construction period vary.

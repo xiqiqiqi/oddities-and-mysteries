@@ -1,3 +1,8 @@
+---
+title: "The Werewolf by the Road"
+summary: "Bray Road in Wisconsin is an ordinary country road. In the late 1980s and early 1990s, people reported seeing something between a wolf and a man — six to seven feet tall, gray-brown fur, amber eyes, able to stand upright and run on four legs. A local reporter, Linda Godfrey, collected dozens of accounts, but no one got a clear photograph."
+lang: en
+---
 
 ## 1. Bray Road
 
@@ -41,26 +46,16 @@ Today there is no photograph and no specimen, only testimony and press coverage.
 
 The story has no definitive conclusion. It is a legend that grew out of one place, in a particular decade.
 
-## Timeline
-
-- **1936**: The earliest documented sighting dates to 1936. A local claimed that
-- **1991**: In 1991, local reporter Linda Godfrey began investigating the stories. She wrote about them for the *Walwort...
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (Prairie Oak Press) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Werewolf by the Road”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Beast of Bray Road” and S2 is “Linda S. Godfrey · The Beast of Bray Road: Tailing Wisconsin's Werewolf”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Werewolf by the Road”, the checkable coordinates are Elkhorn, Wisconsin, United States, 1936; 1989–1992, and the source-ledger entries S1 “Wikipedia · Beast of Bray Road” and S2 “Linda S. Godfrey · The Beast of Bray Road: Tailing Wisconsin's Werewolf”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The Beast of Braley Road is often likened to a werewolf because its depiction carries both wolf and human traits.
 
 The wolf elements include head shape, muzzle, ears, and coat; the human traits are upright posture, height, and shoulder breadth. Combined, they mirror the European werewolf archetype. Wisconsin’s sizable German‑Polish descendant community is no stranger to werewolf lore. A late‑century sighting slipped neatly into that older narrative.
 
@@ -77,4 +72,4 @@ Today Braley Road remains a drivable lane, unlined by fencing or a “beast pres
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the early record, the 1990s sightings, the reporter’s investigation, and the possible explanations; there is no photograph and no specimen, only testimony and press coverage.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the early record, the 1990s sightings, the reporter’s investigation, and the possible explanations; there is no photograph and no specimen, only testimony and press coverage.

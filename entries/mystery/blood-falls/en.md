@@ -1,3 +1,8 @@
+---
+title: "The Red Water Under the Glacier"
+summary: "In 1911, a geologist saw a patch of rust-coloured ice at the end of Taylor Glacier in the McMurdo Dry Valleys. Red water was seeping out of the ice and staining the white surface. At the time, some thought it was red algae. Later research gave a stranger answer — it was ancient, iron-rich brine."
+lang: en
+---
 
 ## 1. 1911
 
@@ -59,28 +64,17 @@ Blood Falls is one of the most recognisable landmarks in the Dry Valleys. Its re
 
 Beneath ice with no sunlight, iron, salt, and water maintain a small world. It flows slowly, and it has been flowing for a very long time.
 
-## Timeline
-
-- **1911**: In 1911, the British geologist Thomas Griffith Taylor was surveying the area. At the terminus of the glacier...
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S4 (United States Antarctic Program Data Center (NSF)) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Red Water Under the Glacier”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Blood Falls” and S2 is “Wikipedia · Taylor Glacier”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Red Water Under the Glacier”, the checkable coordinates are Taylor Glacier, McMurdo Dry Valleys, Antarctica, discovered in 1911; brine isolated for about two million years, and the source-ledger entries S1 “Wikipedia · Blood Falls” and S2 “Wikipedia · Taylor Glacier”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The red color of Blood Falls was once regarded as evidence of "glacier bleeding". Today's chemical explanation is simple: iron encounters air and oxidizes and turns red. But simplicity does not mean boring. A saltwater lake that still flows at more than ten degrees below zero is a miracle of extreme environment in itself.
-Blood Falls is located in McMurdo Dry Valleys and has limited access. Researchers need to apply for permission, and tourists are not allowed to approach at will. Its remoteness protects its chemical and biological environment and makes samples precious. The harder a place is to get to, the easier it is for the imagination to fill its story.
-Blood Falls is an "Extreme Environment" type file. Its redness has a chemical explanation, its life a biological meaning. The two stacked together make it neither mysterious nor ordinary. It is a place that can be studied and marveled at.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1911 observation, later chemical analysis, and microbiological research; “Blood Falls” is a stain formed by seepage, not a waterfall in the usual sense.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1911 observation, later chemical analysis, and microbiological research; “Blood Falls” is a stain formed by seepage, not a waterfall in the usual sense.

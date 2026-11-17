@@ -25,11 +25,11 @@ sources:
     license: CC BY-SA 4.0
     usage: 玉衣制度、材质、等级与历史背景
   - id: S2
-    title: "Wikipedia · Mancheng Han tombs"
-    publisher: Wikipedia contributors
-    url: https://en.wikipedia.org/wiki/Mancheng_Han_tombs
+    title: "Tombs of Han at Mancheng"
+    publisher: China Culture
+    url: http://en.chinaculture.org/library/2008-01/15/content_39374.htm
     year: "2026"
-    license: CC BY-SA 4.0
+    license: 版权归 China Culture；仅作事实参考
     usage: 满城汉墓、刘胜与窦绾玉衣的出土情况
   - id: S3
     title: 场景复原插图与原创示意图
@@ -51,7 +51,7 @@ related:
   - iron-pillar-delhi
 status: published
 featured: false
-translation_status: native_reviewed
+translation_status: reviewed
 editorial_status: ai_final_reviewed
 fact_ledger: research/fact-ledgers/objects/jade-burial-suit.md
 image_license_audit: research/image-audit.csv

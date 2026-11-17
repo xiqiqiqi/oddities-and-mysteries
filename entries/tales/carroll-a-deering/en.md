@@ -1,3 +1,8 @@
+---
+title: "The Ship With No Crew"
+summary: "In January 1921, a five-masted schooner ran aground on Diamond Shoals off North Carolina. When the Coast Guard boarded her, there was no one aboard — the lifeboats and navigation instruments were gone, and a meal was still in the galley. The eleven crew members were never found."
+lang: en
+---
 
 ## 1. A ship on Diamond Shoals
 
@@ -61,27 +66,16 @@ Books and articles about the case keep appearing. The theories multiply; the evi
 
 When the ship was towed off the shoal, the lifeboats, the instruments, and the eleven men were all missing. What remained was a meal in the galley and a cat with six toes.
 
-## Timeline
-
-- **1921**: On 31 January 1921, off Cape Hatteras, North Carolina.
-- **1919**: The Deering was launched in 1919, a coastal freighter built to carry timber and coal.
-- **1920**: In September 1920 she left Norfolk
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (U.S. National Park Service) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Ship With No Crew”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Carroll A. Deering” and S2 is “National Park Service · The Ghost Ship of the Outer Banks”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Ship With No Crew”, the checkable coordinates are Cape Hatteras, North Carolina, United States, 1921, and the source-ledger entries S1 “Wikipedia · Carroll A. Deering” and S2 “National Park Service · The Ghost Ship of the Outer Banks”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The cat on the ship is the only living thing. They were rescued and later adopted. The ship was towed back to port, but no one could explain why the crew left.
 
 The things on the boat are still there, but the people are gone. The wind on the Bund has blown the story for a hundred years.
 

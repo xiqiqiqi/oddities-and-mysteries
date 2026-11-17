@@ -1,3 +1,8 @@
+---
+title: "The Light That Fell into the Sea"
+summary: "Late on 4 October 1967, residents of Shag Harbour, Nova Scotia, saw a row of yellow lights descend low over the water. The lights vanished into the sea, leaving a patch of yellow foam. The RCMP and the coast guard searched for hours and found nothing. The official file says “UFO.”"
+lang: en
+---
 
 ## 1. Shag Harbour
 
@@ -61,26 +66,16 @@ The people of Shag Harbour did not forget. A local society collected testimony, 
 
 For a small fishing village, it is a story that can last generations. For the archive, it is a single page without a conclusion: on a certain night, an unidentified object fell into the sea, and the search found nothing.
 
-## Timeline
-
-- **1967**: Wednesday, 4 October 1967. Around 11:20 p.m., several residents were still outside.
-
 ## Sources and evidence
 
-This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Shag Harbour UFO incident” and S2 is “Wikipedia · Shag Harbour, Nova Scotia”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Light That Fell into the Sea”, the checkable coordinates are Shag Harbour, Nova Scotia, Canada, 4 October 1967, and the source-ledger entries S1 “Wikipedia · Shag Harbour UFO incident” and S2 “Wikipedia · Shag Harbour, Nova Scotia”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Shag Harbor is a prime example of the "official sightings" category. It has multiple testimonies from police, soldiers, fishermen and journalists, but no physical evidence. Multiple testimonies make the incident credible, but the absence of physical evidence makes it impossible to close the case. The archive retains this tension and does not choose sides for the reader.
-The Shag Harbor incident was later included in Canada's UFO archives and was also made into a documentary.
 
 Its vitality does not lie in what the light is, but in the place where it occurs: in a quiet fishing village, police, soldiers and reporters suddenly arrived. For the first time, the villagers discovered that the sea in front of their homes might be related to national security.
 
@@ -91,4 +86,4 @@ After the search, the sea calmed down. The light that night left no trace, only 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. “UFO” here is the term used in the official file at the time; it does not mean an alien spacecraft. Later stories are not presented as established fact.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. “UFO” here is the term used in the official file at the time; it does not mean an alien spacecraft. Later stories are not presented as established fact.

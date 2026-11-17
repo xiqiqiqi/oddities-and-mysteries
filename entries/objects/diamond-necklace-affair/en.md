@@ -1,3 +1,8 @@
+---
+title: "The Queen's Necklace"
+summary: "In 1785, Paris jewellers made a diamond necklace worth two million livres and tried to sell it to Queen Marie Antoinette. She did not buy it. A woman claiming to be the Queen's friend used a forged letter to convince a cardinal that the Queen wanted the necklace. The cardinal bought it and handed it to the woman's associate. The necklace was broken up and sold in London."
+lang: en
+---
 
 ## 1. A necklace
 
@@ -61,29 +66,16 @@ Three years later, the French Revolution began. Marie Antoinette was sent to the
 
 The necklace was never seen intact again. Its diamonds were scattered across crowns and jewellery in Europe, leaving only a story of greed, credulity, and court politics.
 
-## Timeline
-
-- **1774**: It held more than six hundred diamonds
-- **1784**: In August 1784, in the gardens of Versailles, the Cardinal met a “Queen” at midnight. She wore a hat and a s...
-- **1786**: The King ordered an investigation. The Cardinal was arrested
-- **1793**: Three years later, the French Revolution began. Marie Antoinette was sent to the guillotine in 1793.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 2 independent source(s). S1 (History Today) covers the relevant institutional record.
-S2 (World History Encyclopedia) provides cross-checks on related records.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Queen's Necklace”, the factual trail runs mainly through S1–S3: S1 is “History Today · The Affair of the Diamond Necklace” and S2 is “World History Encyclopedia · The Affair of the Diamond Necklace”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Queen's Necklace”, the checkable coordinates are Paris, France, 1785, and the source-ledger entries S1 “History Today · The Affair of the Diamond Necklace” and S2 “World History Encyclopedia · The Affair of the Diamond Necklace”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The story of this necklace is a case about "belief".
 
 No one has actually seen the Queen buy a necklace, but many believe she would. The scam exploited not greed but people's imagination of the court.
 

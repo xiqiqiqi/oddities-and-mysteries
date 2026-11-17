@@ -1,3 +1,8 @@
+---
+title: "The Ship Behind the Comet"
+summary: "In March 1997, in a rented mansion in Rancho Santa Fe, California, 39 people in black clothes and Nike shoes took poison in shifts. They believed they would board a spacecraft hidden behind Comet Hale-Bopp. It remains one of the most notorious cult deaths in American history."
+lang: en
+---
 
 ## 1. A House
 
@@ -71,54 +76,22 @@ What those 39 people believed in did not return. Their story remains as a remind
 
 *Original schematic: the timeline from the 1970s to 1997 and the relation between the comet and the group's beliefs. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1997**: On 26 March 1997, police in Rancho Santa Fe, California, found 39 bodies in a rented mansion.
-- **1931**: Its leader was Marshall Applewhite
-- **1985**: Nettles died of cancer in 1985. Applewhite continued to lead the group.
-- **1995**: Comet Hale-Bopp was discovered in 1995. It became very bright and made global news.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (A&E Television Networks) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Ship Behind the Comet”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Heaven's Gate (religious group)” and S2 is “A&E · Heaven's Gate: Marshall Applewhite”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Ship Behind the Comet”, the checkable coordinates are Rancho Santa Fe, California, 1997, and the source-ledger entries S1 “Wikipedia · Heaven's Gate (religious group)” and S2 “A&E · Heaven's Gate: Marshall Applewhite”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
 
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Heaven's Gate is a story about expectations.
+They believed that a spacecraft would arrive behind the comet, that the comet was the door, and that leaving the earth was the only way to survive its transformation. The door did not open.
 
-They are looking forward to the spaceship, looking forward to leaving, looking forward to a new world. Comet comes and goes. The spaceship didn't come.
+In March 1997, police found 39 members dead in a rented mansion in Rancho Santa Fe. They wore identical clothing, lay on the same beds, had luggage beside them, and covered themselves with purple cloth. The deaths were suicides, carried out as the group's final act.
 
-The comet left, but the spaceship did not come. 39 people, remained in the house.
-
-They believed that the spaceship would come, that the comet was the door. The door didn't open, but the story stayed in the news.
-
-The door is not opened, the story is not closed.
-In March 1997, 39 members committed suicide in the house.
-
-They were wearing the same clothes and lying on the same bed. They believe that they can leave the earth in this way.
-
-39 members, committed suicide in the house.
-
-They were wearing sportswear, covered with purple cloth, and had luggage beside them. This, they believe, is "leaving."
-
-39 members, committed suicide in the house.
-
-They were wearing the same clothes and lying on the same bed.
-The teachings are a mixture of Christianity, UFO and New Age thought.
-
-They believe that the earth is about to be destroyed and that they can only be saved by leaving the earth. They believed that UFOs were coming to pick them up.
-
-The teachings of Heaven's Gate are a mixture of Christianity, UFOs, and New Age thought.
-
-They believe that the earth is about to be destroyed and that they can only be saved by leaving the earth.
+The teachings mixed Christianity, UFO culture, and New Age ideas: the earth was about to be destroyed, and a UFO would carry them away. The story stayed in the news because the comet was bright, the group was orderly, and the gap between their expectation and the empty sky was complete.
 
 ---
 

@@ -102,4 +102,4 @@ At dusk, if a horse is standing still by the water and is not afraid of you, it 
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S5 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the Scottish and Irish folklore records, the place-name legends and modern tourist telling; the water horse is a folkloric creature with no physical evidence. The reconstruction is not a historical photograph, and Draper's painting is a kelpie, not an each-uisge.
+**Sources and licenses**: sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the Scottish and Irish folklore records, the place-name legends and modern tourist telling; the water horse is a folkloric creature with no physical evidence. The reconstruction is not a historical photograph, and Draper's painting is a kelpie, not an each-uisge.

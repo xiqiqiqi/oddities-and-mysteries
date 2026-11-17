@@ -68,7 +68,7 @@
 
 ## 9. Machine-translation cleanup checklist
 
-Before an entry can be marked `native_reviewed`:
+Before an entry can be marked `reviewed`:
 
 - [ ] No literal Chinese syntax: “the boat was made to turn back”, “people have no way to know”.
 - [ ] No wrong concrete nouns: “canteen” for kettle, “dysentery” for hysteria, “breed” for snowman monkey.
@@ -82,6 +82,6 @@ Before an entry can be marked `native_reviewed`:
 ## 10. Review states
 
 - `machine`: raw MT, not acceptable for publication.
-- `edited`: human/AI line edit, facts checked against Chinese, not yet native sign-off.
-- `reviewed`: English editor has read the whole entry against sources.
-- `native_reviewed`: native-level editor has signed the entry; publication gate B passed.
+- `edited`: human/AI line edit, facts checked against Chinese, not yet a full review.
+- `reviewed`: AI editorial or human editor has read the whole entry against sources. The current AI-only release uses this state.
+- `native_reviewed`: a human native-level editor has signed the entry. This state is not used in the AI-only release.

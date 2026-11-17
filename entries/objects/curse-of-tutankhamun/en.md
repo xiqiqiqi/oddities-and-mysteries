@@ -1,3 +1,8 @@
+---
+title: "The Pharaoh's Curse"
+summary: "In November 1922 Howard Carter opened the tomb of Tutankhamun. Five months later his sponsor, Lord Carnarvon, died of an infection. The newspapers called it the curse of the pharaoh. The inscription about death coming on swift wings was never in the tomb."
+lang: en
+---
 
 ## 1. November 1922
 
@@ -65,27 +70,16 @@ The curse became part of popular culture. Films, novels and souvenirs use it. Th
 
 *Original schematic: the discovery in 1922, Carnarvon's death in 1923, and the newspaper stories about the curse. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1922**: On 4 November 1922, a workman for the archaeologist Howard Carter uncovered a step. Below it was a sealed do...
-- **1923**: In March 1923 Carnarvon was bitten by a mosquito on the cheek.
-- **1939**: But the list was selected. Dozens of people entered the tomb
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (Weird Science History) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Pharaoh's Curse”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Curse of the pharaohs” and S2 is “Weird Science History · The Mummy's Curse That Missed Its Main Target”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Pharaoh's Curse”, the checkable coordinates are Valley of the Kings, Luxor, Egypt, 1922, and the source-ledger entries S1 “Wikipedia · Curse of the pharaohs” and S2 “Weird Science History · The Mummy's Curse That Missed Its Main Target”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The "cursed death list" was compiled by newspapers.
 
 The people on the list died over a wide span of time and had different causes of death. Some people die from disease, some die from accidents, some die from old age. Put them together and they become a "curse chain".
 

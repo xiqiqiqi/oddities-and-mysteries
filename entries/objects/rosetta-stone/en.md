@@ -1,3 +1,8 @@
+---
+title: "The Rosetta Stone: Three Scripts and a Key"
+summary: "Found near Rashid (Rosetta) in 1799, a broken basalt slab carries the same decree in Egyptian hieroglyphs, demotic script, and Greek. The parallel texts became the key that opened the decipherment of Egyptian hieroglyphs."
+lang: en
+---
 
 ## 1. A stone found in a fort
 
@@ -31,20 +36,11 @@ The stone was a war trophy of Napoleon's expedition and was later taken by Brita
 
 Today the stone's text has been fully translated, while scholars still study the decree's administrative details, the stone's manufacture, and the provenance of the fragment. CT and 3D scanning make the internal structure and surface cuts clearer, and replicas let more visitors see it. 'Rosetta Stone' has also become a general metaphor for anything that provides a key comparison and opens an unknown field. The metaphor is convenient but tends to obscure the fact that the stone supplied only a limited parallel text; actual decipherment depended on generations of papyrus, inscription, and grammar research.
 
-## Timeline
-
-- **196 BCE**: decree issued at Memphis
-- **1799**: French soldiers find the stone at Rashid
-- **1801**: French surrender; stone transferred to Britain
-- **1802**: enters the British Museum
-- **1822**: Champollion announces decipherment
-- **2022**: bicentenary exhibitions and research
-
 ## Sources and evidence
 
-The checkable material in this entry rests mainly on S1 and S2: S1 supplies the official site or object record and basic chronology, while S2 supplies independent research or archival context. S3 covers the editorial cover and diagrams; it is visual explanation, not historical evidence. Dates, quantities, places, and attributions in the text are traced back to specific S1/S2 pages wherever possible. Claims that cannot be tied to a page are flagged under 'Limits of the record'.
+For “The Rosetta Stone: Three Scripts and a Key”, the factual trail runs mainly through S1–S3: S1 is “The Rosetta Stone” and S2 is “The Rosetta Stone”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
-The cover is an AI-assisted reconstruction, not a site photograph. The two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in `research/image-audit.csv`.
+The cover is an AI-assisted reconstruction of “The Rosetta Stone: Three Scripts and a Key”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
 
@@ -53,7 +49,6 @@ The stone's archive is mainly at the British Museum: accession registers, the 18
 ## Limits of the record
 
 The discovery, transfer, and early decipherment of the stone are well documented, but 'who decoded it first' is often reduced to a single-hero story. In fact Young's work on cartouches and papyri, Champollion's comparison with Coptic, and correspondence among contemporaries together produced the breakthrough. The stone itself is a fragmentary decree, not a complete language textbook; it offers three scripts in parallel, not a word-by-word translation. This entry separates the readable text from its later symbolic meaning.
-
 
 ---
 

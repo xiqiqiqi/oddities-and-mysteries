@@ -1,3 +1,8 @@
+---
+title: "The Wild Man of the Snow Line"
+summary: "In the mountains and steppes of Central Asia, people tell of a wild man called the Almas. Herders say it is covered in hair, walks upright, comes out at night, and avoids people. Soviet researchers went looking for it several times. What they found were footprints, rumours, and stories."
+lang: en
+---
 
 ## 1. A legend in the mountains
 
@@ -57,14 +62,9 @@ There is no clear photograph, no verified specimen, and no skeleton accepted by 
 
 The mountains are still there. So are the stories. What lies below the snow line has no answer yet.
 
-## Timeline
-
-- Background: old legends; several 20th-century expeditions
-
 ## Sources and evidence
 
-This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Almas (cryptozoology)” and S2 is “Wikipedia · Boris Porshnev”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -72,14 +72,10 @@ The Almas material consists mainly of nineteenth- and twentieth-century Central 
 
 ## Limits of the record
 
-Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Wild Man of the Snow Line”, the checkable coordinates are Central Asia, including Kazakhstan and Mongolia, old legends; several 20th-century expeditions, and the source-ledger entries S1 “Wikipedia · Almas (cryptozoology)” and S2 “Wikipedia · Boris Porshnev”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-"Almas" is not a single species designation but rather a collection of local appellations. In Mongolian the term appears, in Russian scholarship it is often rendered as "almasty," and the Kazakh and Kyrgyz verbal traditions include other variants. Though the names differ, the descriptions are remarkably similar: upright posture, long fur, timidity around humans, and a predilection for mountainous habitats.
 
 Travelers who traversed Mongolia and Central Asia in the nineteenth century recorded the various forms of the tale in their journals. They brought back place‑names, pastoral anecdotes, and fragments of unusable fur, but no skeletons, teeth, or clear photographs. Subsequent expeditions followed those place‑names into the mountains, yet the evidence remained largely oral.
 
@@ -87,4 +83,4 @@ This dispersion is the crux of the Almas puzzle: sightings span from the Caucasu
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the oral descriptions, the documented expeditions, and the explanations; no specimen exists.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the oral descriptions, the documented expeditions, and the explanations; no specimen exists.

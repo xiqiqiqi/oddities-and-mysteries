@@ -1,3 +1,8 @@
+---
+title: "The Mound of the Dead"
+summary: "Beside the Indus in Pakistan stands a city five thousand years old. Its streets follow a grid, its houses are built of standard-sized bricks, its streets have covered drains, and its courtyards have wells and bathrooms. The city has no obvious palace and left no readable signs. Its name is Mohenjo-daro, which means “Mound of the Dead”."
+lang: en
+---
 
 ## 1. The mound of the dead
 
@@ -55,16 +60,9 @@ There is no reliable basis for these claims. The so-called vitrification is slag
 
 The real threat is natural. Rising groundwater, salt crystallisation, and floods have been eroding the mud brick for decades. In 1980 Mohenjo-daro became a World Heritage Site, and conservation work has not stopped since.
 
-## Timeline
-
-- **1922**: The name comes from Sindhi and means “Mound of the Dead”. Local people had long known that something lay under the mound
-- **1900**: Around 1900 BCE, the city was abandoned.
-- **1980**: The real threat is natural. Rising groundwater
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (UNESCO World Heritage Centre) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Mound of the Dead”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Mohenjo-daro” and S2 is “UNESCO · Archaeological Ruins at Moenjodaro”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -74,15 +72,10 @@ Mohenjo-daro's archive is an excavation archive first: plans, photographs, and o
 
 ## Limits of the record
 
-Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Mound of the Dead”, the checkable coordinates are Sindh, Pakistan, on the Indus, c. 2500 BCE, and the source-ledger entries S1 “Wikipedia · Mohenjo-daro” and S2 “UNESCO · Archaeological Ruins at Moenjodaro”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Mohenjo-daro was inscribed as a UNESCO World Heritage Site in 1980. Its mud-brick walls remain vulnerable to water, salt and the pressure of visitors.
-Some people associate Mohenjo-Daro with "ancient nuclear explosions."
 
 They said the site contained vitrified stone, radiation and dead bodies. There is no scientific evidence for these claims. The ruins of the ruins come from weathering, flooding and salinity.
 

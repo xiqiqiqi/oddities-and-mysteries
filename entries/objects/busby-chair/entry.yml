@@ -25,12 +25,12 @@ sources:
     license: CC BY-SA 4.0
     usage: 1702 年谋杀与处决、桑达顿路口与酒馆改名、二战加拿大飞行员、1978 年捐赠与吊挂、家具史学者断代 1840 年之后
   - id: S2
-    title: "Wikipedia · Busby Stoop（地名条目）"
-    publisher: Wikipedia contributors
-    url: https://en.wikipedia.org/wiki/Busby_Stoop
+    title: "Closed Pubs · Busby Stoop Inn, Thirsk"
+    publisher: The Share Gallery
+    url: http://www.closedpubs.thesharegallery.co.uk/yorkshire/thirsk_busbystoop.html
     year: "2026"
-    license: CC BY-SA 4.0
-    usage: 桑达顿路口、A61 与 A167 交叉口、酒馆位置
+    license: 版权归 The Share Gallery；仅作事实参考
+    usage: 桑达顿路口、A61 与 A167 交叉口、酒馆位置与停业后用途
   - id: S3
     title: "Busby Stoop Chair: 138 years too young（时间线整理）"
     publisher: Enigma Atlas
@@ -72,7 +72,7 @@ related:
   - winchester-mystery-house
 status: published
 featured: false
-translation_status: native_reviewed
+translation_status: reviewed
 editorial_status: ai_final_reviewed
 fact_ledger: research/fact-ledgers/objects/busby-chair.md
 image_license_audit: research/image-audit.csv

@@ -1,3 +1,8 @@
+---
+title: "The Sound That Slowed Down"
+summary: "In 1997, NOAA hydrophones recorded a sound lasting about seven minutes. Its frequency fell steadily, as if something were sinking slowly into the deep. It was called Slow Down. Like Bloop, it was later identified as an icequake, not a deep-sea creature."
+lang: en
+---
 
 ## 1. Seven minutes
 
@@ -63,25 +68,16 @@ A smooth descent looks more like a physical process: a bubble contracting, a pie
 
 Sounds have shapes. We usually listen with our ears, not our eyes.
 
-## Timeline
-
-- **1997**: In 1997, hydrophones deployed by NOAA in the equatorial Pacific recorded a very long sound.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (NOAA Pacific Marine Environmental Laboratory) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Sound That Slowed Down”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · List of unexplained sounds” and S2 is “NOAA PMEL Acoustics · underwater sound monitoring”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Sound That Slowed Down”, the checkable coordinates are South Pacific Ocean, recorded in 1997; later identified as an icequake, and the source-ledger entries S1 “Wikipedia · List of unexplained sounds” and S2 “NOAA PMEL Acoustics · underwater sound monitoring”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The most reliable explanation still points to ice earthquakes or cetaceans.
 
 Icebergs in the South Pacific break off, and the sound produced when they break can travel great distances. Large cetaceans also emit low-frequency calls, some of which change slowly in frequency. Both can leave sloping lines on the spectrogram.
 

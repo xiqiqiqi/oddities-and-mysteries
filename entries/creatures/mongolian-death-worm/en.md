@@ -1,3 +1,8 @@
+---
+title: "The Worm Beneath the Gobi"
+summary: "Herders in the South Gobi say a red worm lives under the sand, more than a metre long, able to spit acid and discharge electricity. Expeditions have searched for it many times without finding a specimen or a photograph. Some say it is a misidentified sand boa; others say the story itself belongs to the desert."
+lang: en
+---
 
 ## 1. A Gobi legend
 
@@ -67,26 +72,17 @@ The herders' accounts are still there. Researchers still record them, but a reco
 
 A lot can be hidden under sand. There can also be nothing at all.
 
-## Timeline
-
-- **1990**: The Czech explorer Ivan Mackerle made two expeditions
-
 ## Sources and evidence
 
-This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Mongolian death worm” and S2 is “Wikipedia · Eryx tataricus”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Worm Beneath the Gobi”, the checkable coordinates are South Gobi, Mongolia, Folklore, and the source-ledger entries S1 “Wikipedia · Mongolian death worm” and S2 “Wikipedia · Eryx tataricus”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The death worm legend is often misread as a claim that Mongolia harbors monsters. More accurately, it is a parable about the environment: the Gobi’s vastness, the sand’s hidden traps, and the peril of wandering too far. Turning that peril into the tale of a worm is more memorable than framing it as getting lost or suffering a sandstorm. The myth has persisted even after scientific scrutiny. It has simply shifted from being a “potential discovery” to part of the Gobi’s folk knowledge—a boundary that is trickier than most would assume. The story, written into books in the 1920s, was amplified by television worldwide, yet no specimen of the death worm has ever been found. The legend’s persistence is tied to sandstorms, oxygen shortage, and lost travelers, and it continues to be told by herders to visiting tourists.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the herders' tradition, the expedition record, the media additions, and the biological explanation; there is currently no specimen, photograph, or biological sample proving that the animal exists.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the herders' tradition, the expedition record, the media additions, and the biological explanation; there is currently no specimen, photograph, or biological sample proving that the animal exists.

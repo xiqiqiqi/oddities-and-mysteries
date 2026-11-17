@@ -1,3 +1,8 @@
+---
+title: "The City That Danced"
+summary: "In July 1518, a woman began dancing in the street in Strasbourg. Within days, dozens had joined her; within a month, the number may have reached several hundred. They danced for days and nights. Some collapsed. Some kept going. The city first hired musicians, then banned music, and finally sent the dancers on pilgrimage."
+lang: en
+---
 
 ## 1. Strasbourg in July
 
@@ -55,14 +60,9 @@ Each explanation has supporters. None fully reconstructs the scene in 1518.
 
 What it leaves is not just a horror story but a window: when a group shares the same fear, the same belief, and the same physical language, what can happen?
 
-## Timeline
-
-- **1518**: July 1518, Strasbourg. It was a free city then, with churches, guilds, markets, and narrow streets inside it...
-
 ## Sources and evidence
 
-This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Dancing plague of 1518” and S2 is “Wikipedia · Strasbourg”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -72,14 +72,10 @@ The dancing-plague archive is a chronicle archive: town records, sermons, and la
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The City That Danced”, the checkable coordinates are Strasbourg (now in France), July 1518, and the source-ledger entries S1 “Wikipedia · Dancing plague of 1518” and S2 “Wikipedia · Strasbourg”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Mass hysteria is a psychological phenomenon.
 
 When people are under stress, they will experience physical symptoms: convulsions, fainting, and dancing. Symptoms are contagious.
 
@@ -96,4 +92,4 @@ No one knows why she started jumping, no one knows why they stopped. The city ca
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the chronicle accounts, the city's response, and modern explanations; both the death toll and the number of participants vary between sources.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the chronicle accounts, the city's response, and modern explanations; both the death toll and the number of participants vary between sources.

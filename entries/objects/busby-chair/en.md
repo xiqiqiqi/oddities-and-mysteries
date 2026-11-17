@@ -86,4 +86,4 @@ A man was hanged at a crossroads; that is true. A post stood there and later rot
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the 1702 murder and execution, the nineteenth-century shaping of the legend, the twentieth-century death stories and the museum's handling of the chair after 1978; the murder and execution are documented, the curse is not. The reconstruction is not a photograph of the artefact.
+**Sources and licenses**: sources are listed in the ledger S1–S7 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the 1702 murder and execution, the nineteenth-century shaping of the legend, the twentieth-century death stories and the museum's handling of the chair after 1978; the murder and execution are documented, the curse is not. The reconstruction is not a photograph of the artefact.

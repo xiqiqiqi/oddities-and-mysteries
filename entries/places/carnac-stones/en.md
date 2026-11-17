@@ -1,3 +1,8 @@
+---
+title: "The Endless Rows of Stone"
+summary: "At Carnac in Brittany, France, more than three thousand standing stones are arranged in long rows that cross fields and scrub for kilometres. They were erected in the Neolithic, long before the pyramids. Who raised them, and why, is still unresolved."
+lang: en
+---
 
 ## 1. The stones of Brittany
 
@@ -59,14 +64,9 @@ The stones are fenced and protected; visitors cannot wander freely through the f
 
 The rows are still there, one after another. They do not need a legend to stand: several thousand years ago, a group of people raised several thousand stones here, and then left.
 
-## Timeline
-
-- Background: about 4500–3300 BCE
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S4 (Alignements de Carnac / Centre des monuments nationaux) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Endless Rows of Stone”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Carnac stones” and S2 is “Wikipedia · Carnac”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -74,14 +74,10 @@ The Carnac record begins with nineteenth-century antiquarianism, passes through 
 
 ## Limits of the record
 
-Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Endless Rows of Stone”, the checkable coordinates are Carnac, Brittany, France, about 4500–3300 BCE, and the source-ledger entries S1 “Wikipedia · Carnac stones” and S2 “Wikipedia · Carnac”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-A Breton legend says that the stone was transformed by Roman soldiers.
 
 Saint Cornely turned soldiers into stone to hide from his pursuers. This legend explains why the stone formations are lined up.
 
@@ -99,4 +95,4 @@ They will still stand for a long time.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the stones themselves, the dating, and the hypotheses about their purpose; the stories of Saint Cornely and Merlin are later legends, not archaeological conclusions.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the stones themselves, the dating, and the hypotheses about their purpose; the stories of Saint Cornely and Merlin are later legends, not archaeological conclusions.

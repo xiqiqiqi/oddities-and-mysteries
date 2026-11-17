@@ -1,3 +1,8 @@
+---
+title: "The Prison of One Man"
+summary: "In 1829 a castle-like prison opened north of Philadelphia. Each inmate lived alone, in silence, with a Bible. Its warders believed solitude would produce repentance. Dickens visited and called it worse than physical torture. Closed in 1971, it is now a ruin overgrown with weeds."
+lang: en
+---
 
 ## 1. A Castle
 
@@ -65,30 +70,16 @@ A building can do nothing but stand there and still make people uneasy. Eastern 
 
 *Original schematic: the radial cellblock plan, the separate system and the 1829–1971 timeline. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1829**: October 1829, north of Philadelphia. A grey stone building opened under the name Eastern State Penitentiary.
-- **1842**: In 1842 Charles Dickens visited. In American Notes he wrote that this solitude was a slow torture of the mind
-- **1929**: In 1929 Al Capone served eight months here for carrying a concealed weapon. His cell was furnished with rugs
-- **1945**: The bank robber Willie Sutton spent eleven years at Eastern State. In 1945 he and ten other prisoners tunnelled out
-- **1971**: The prison closed in 1971.
-- **1994**: In 1994 it opened as a museum. Visitors walk through empty cells and see flaking plaster and rusted iron doors.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (Eastern State Penitentiary Historic Site) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Prison of One Man”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Eastern State Penitentiary” and S2 is “Eastern State Penitentiary · History”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Prison of One Man”, the checkable coordinates are Philadelphia, Pennsylvania, United States, 1829–1971, and the source-ledger entries S1 “Wikipedia · Eastern State Penitentiary” and S2 “Eastern State Penitentiary · History”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-During the nineteenth century, reformers in Europe and the United States criticized this system.
 
 Long-term solitary confinement, they say, is not repentance but torture. People lose language, memory and social skills. Prison should re-enter society, not turn people into shadows.
 

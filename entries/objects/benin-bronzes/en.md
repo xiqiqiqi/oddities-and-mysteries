@@ -1,3 +1,8 @@
+---
+title: "The Benin Bronzes: Palace, Punitive Expedition, and Return"
+summary: "Palace workshops in the kingdom of Benin made bronze and brass plaques, ancestor heads, and ritual objects for the oba, recording kingship, military success, and sacrifice. After the British punitive expedition of 1897, large numbers were taken to Europe. Their display and return remain unresolved questions for museums today."
+lang: en
+---
 
 ## 1. A palace workshop
 
@@ -31,19 +36,11 @@ Most of these objects are brass (a copper-zinc alloy) rather than strict 'bronze
 
 Returned objects need new conditions for conservation, research, and display. Nigeria plans a museum in Benin City and the reinstallation of some works in palaces and sites; electricity, climate control, security, and staff training remain practical issues. Return is not an endpoint: it changes ownership and the right to narrate. The next questions are who has the authority to interpret these objects, and whether audiences can see them where they were made.
 
-## Timeline
-
-- **c. 13th–15th century**: palace workshops rise; plaques and heads
-- **16th–18th century**: Benin expands; European trade grows
-- **1897**: British punitive expedition; palace burned, objects removed
-- **1970s**: some objects transferred to Nigeria
-- **2021–2022**: German and British institutions begin returns or title transfers
-
 ## Sources and evidence
 
-The checkable material in this entry rests mainly on S1 and S2: S1 supplies the official site or object record and basic chronology, while S2 supplies independent research or archival context. S3 covers the editorial cover and diagrams; it is visual explanation, not historical evidence. Dates, quantities, places, and attributions in the text are traced back to specific S1/S2 pages wherever possible. Claims that cannot be tied to a page are flagged under 'Limits of the record'.
+For “The Benin Bronzes: Palace, Punitive Expedition, and Return”, the factual trail runs mainly through S1–S3: S1 is “Benin Bronzes” and S2 is “Benin Bronzes”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
-The cover is an AI-assisted reconstruction, not a site photograph. The two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in `research/image-audit.csv`.
+The cover is an AI-assisted reconstruction of “The Benin Bronzes: Palace, Punitive Expedition, and Return”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
 
@@ -52,7 +49,6 @@ The Benin archive has two layers, 'origin' and 'present': the British Museum, th
 ## Limits of the record
 
 'Benin Bronzes' is a collective label covering plaques, heads, figures, ivory, and metalwork made over several centuries in more than one workshop. How many objects were taken in the 1897 expedition is uncertain, and museum holdings and archival counts do not agree; some pieces passed through several owners, auctions, and private collections. Legal routes to return differ by country, and EU, UK museum law, and Nigerian collection policy are not uniform. This entry separates checkable expedition records, museum numbers, and completed returns.
-
 
 ---
 

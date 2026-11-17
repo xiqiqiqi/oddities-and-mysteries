@@ -1,3 +1,8 @@
+---
+title: "The White Thing on the Mountain"
+summary: "In June 1994, herb pickers at the Hongqi Forest Farm in Wuchang, Heilongjiang, said there was a white object on the south slope of Phoenix Mountain. Worker Meng Zhaoguo and a relative went up to look and said they were driven back by an electric shock at 150 metres. On 9 June he led a group up and collapsed. On 16 July he said he had been taken inside the object and shown a comet hitting Jupiter. The investigation found no physical evidence. Psychologists said his memory may have filled in the gaps."
+lang: en
+---
 
 ## 1. June 1994
 
@@ -63,29 +68,16 @@ The south slope of Phoenix Mountain is still there. The white thing did not come
 
 *Original schematic: the June–July 1994 timeline, the south-slope sighting and the investigation. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1994**: From 4 to 6 June 1994, Meng Zhaoguo and the herb pickers who went up the mountain said there was a white obj...
-- **2005**: In 2005 CCTV's *Approaching Science* covered the case. Psychologists suggested that Meng may have had a special psychological experience and then filled the gaps in his memory. It was not deliberate deception
-
 ## Sources and evidence
 
-The factual base of this entry rests on 2 independent source(s). S1 (an institutional source) covers the relevant institutional record.
-S2 (a second institutional source) provides cross-checks on related records.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The White Thing on the Mountain”, the factual trail runs mainly through S1–S3: S1 is “CCTV · Approach to Science: Close Encounters, Part 2” and S2 is “CCTV · Investigation of Chinese UFO Cases”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The White Thing on the Mountain”, the checkable coordinates are Wuchang, Heilongjiang, China, 1994, and the source-ledger entries S1 “CCTV · Approach to Science: Close Encounters, Part 2” and S2 “CCTV · Investigation of Chinese UFO Cases”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Phoenix Mountain is a typical example of "personal testimony" archives. It has no physical evidence, no photographs, only the memory of a narrator and the records of a group of investigators. The file is not responsible for judging whether he is lying, but is only responsible for separating self-reports, observations by fellow travelers, survey results and psychological analysis. Once separated, the reader can see how the story grows layer by layer.
-After the Phoenix Mountain incident, many "eyewitnesses" appeared in the local area. Some people say that they have also seen white light, and some people say that there are other objects in the mountains. Most of these claims have gone undocumented and uninvestigated. After a story is established, it will attract more stories. This is a common phenomenon in the spread of legends.
-The investigation team measured radiation in Meng Zhao's country and found no abnormalities.
 
 No white object was found on the hillside, no wreckage, no photos, no samples. The "elastic things picked out from the skin" mentioned by Meng Zhaoguo have not been preserved either.
 

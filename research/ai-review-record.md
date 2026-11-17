@@ -51,7 +51,7 @@
 - 标题机翻（`Box`、`The Holy House`、`He's been robbed`、`Summing up`、`Last`、`Remember`）
 - 生硬短句与错误搭配（`The locker is a wooden box.`、`It's stainless`、`The emperors...`）
 
-这不是“个别错字”，而是翻译层缺陷。按 `native_reviewed` 直接签核会名不副实，必须先重写尾段。
+这不是“个别错字”，而是翻译层缺陷。按真人母语签核标准直接标记会名不副实，必须先重写尾段。
 
 ### 2.4 尾段处理的实际路径
 

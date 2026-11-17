@@ -64,4 +64,4 @@ Comparing it to other legends sharpens the point: Bloody Mary's curse forces a n
 
 ---
 
-**Sources and licenses**: factual sources are in the ledger S1–S3 below. Text and original schematics are CC BY-SA 4.0. The picture-book image is a credited Wikimedia Commons scan (CC BY-SA 4.0), source in the ledger; its identification as Kuchisake-onna is disputed and noted here. Kuchisake-onna is an urban-legend / folklore figure, not a verified being; the two origin datings are presented in parallel.
+**Sources and licenses**: factual sources are in the ledger S1–S4 below. Text and original schematics are CC BY-SA 4.0. The picture-book image is a credited Wikimedia Commons scan (CC BY-SA 4.0), source in the ledger; its identification as Kuchisake-onna is disputed and noted here. Kuchisake-onna is an urban-legend / folklore figure, not a verified being; the two origin datings are presented in parallel.

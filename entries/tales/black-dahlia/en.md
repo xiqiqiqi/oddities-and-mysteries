@@ -1,3 +1,8 @@
+---
+title: "The Black Dahlia"
+summary: "On 15 January 1947, a woman's body was found in a vacant lot on South Norton Avenue in Los Angeles. She was Elizabeth Short, twenty-two years old. The newspapers called her the Black Dahlia. The LAPD investigated hundreds of suspects, and no one was ever convicted."
+lang: en
+---
 
 ## 1. January 1947
 
@@ -61,29 +66,16 @@ Elizabeth Short was twenty-two when she died. She wanted to be an actress. What 
 
 *Original schematic: the timeline of January 1947, the newspaper coverage and the main suspects. Not a photograph of the scene. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1924**: Elizabeth Short was born in Medford, Massachusetts, in 1924, one of five children.
-- **1947**: On 9 January 1947 she was seen in downtown Los Angeles. After that, she disappeared.
-- **1946**: The name “Black Dahlia” was coined by newspaper editors. It borrowed from the 1946 film The Blue Dahlia and echoed Short's black hair and the black clothes she often wore.
-- **1949**: The police received thousands of tips and formally interviewed more than 150 suspects. In 1949 a grand jury heard the case
-- **2003**: Some named Manley. Some named Dr George Hodel
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (HISTORY) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Black Dahlia”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Black Dahlia” and S2 is “HISTORY · Who Killed the Black Dahlia?”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Black Dahlia”, the checkable coordinates are Los Angeles, California, United States, 1947, and the source-ledger entries S1 “Wikipedia · Black Dahlia” and S2 “HISTORY · Who Killed the Black Dahlia?”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The Black Dahlia is a media name.
 
 Short's life was reduced to a morality tale by newspapers. Her death was written as a performance. The case was not solved, but the name remained.
 

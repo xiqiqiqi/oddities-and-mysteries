@@ -1,3 +1,8 @@
+---
+title: "The Library Buried in Mud"
+summary: "In 79 CE, Mount Vesuvius erupted and Herculaneum was buried by pyroclastic flows and mud. In the eighteenth century, excavators found a villa containing more than a thousand carbonized papyrus scrolls. They had been burned into black lumps, yet the volcanic material sealed them in and preserved them."
+lang: en
+---
 
 ## 1. The eruption of 79 CE
 
@@ -51,15 +56,9 @@ Part of the site is open to visitors, including the seaside boathouses. In the 1
 
 Most of the Villa of the Papyri is still underground. It is like a sealed library: the books are on the shelves, the words are in the books, and no one has yet been able to read them all.
 
-## Timeline
-
-- **2023**: In recent years, researchers have tried X-rays, infrared imaging, and artificial intelligence to read the su...
-- **1997**: In 1997, Herculaneum was inscribed as a World Heritage site together with Pompeii and Torre Annunziata.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S4 (Patrimonio UNESCO (Italian Ministry of Culture)) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Library Buried in Mud”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Herculaneum” and S2 is “Wikipedia · Villa of the Papyri”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -67,14 +66,10 @@ The Herculaneum record has three sets of material: excavation records since the 
 
 ## Limits of the record
 
-Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Library Buried in Mud”, the checkable coordinates are Ercolano, Italy, 79 CE, and the source-ledger entries S1 “Wikipedia · Herculaneum” and S2 “Wikipedia · Villa of the Papyri”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-After the scroll is carbonized, it is very fragile.
 
 Open a roll and it may crumble to dust. Early scholars tried incision and peeling, but suffered great losses. Later, researchers used X-ray, infrared and computer technology to try to read the text.
 Researchers used laser scanning, photogrammetry and 3D modeling to document the ruins.
@@ -94,4 +89,4 @@ It is on the Bay of Naples, with Pompeii, Herculaneum and Naples nearby. The eru
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the burial process, the villa's ownership, the number of scrolls, and the reading technology; estimates of the owner and the number of scrolls vary, and the Vesuvius Challenge is still in progress.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the burial process, the villa's ownership, the number of scrolls, and the reading technology; estimates of the owner and the number of scrolls vary, and the Vesuvius Challenge is still in progress.

@@ -1,3 +1,8 @@
+---
+title: "The Long Neck in the Sea"
+summary: "Since the 1930s, people have reported a long-necked sea creature in Cadboro Bay, British Columbia, Canada. It is called “Cadborosaurus”, or “Caddy”. In 1937, whalers found a strange carcass in the stomach of a sperm whale, and photographs of it went into the newspapers. The museum director who examined it said it was a fetal whale."
+lang: en
+---
 
 ## 1. Cadboro Bay
 
@@ -65,26 +70,16 @@ The name survives in books, on websites, and in the coastal legends of Vancouver
 
 The sea is large enough to hold many stories. Caddy is one of them.
 
-## Timeline
-
-- **1937**: October 1937, the Naden Harbour whaling station.
-- **1995**: In 1995, two researchers proposed that, if the animal existed, it should have the scientific name “Cadborosa...
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (Enigma Atlas) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Long Neck in the Sea”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Cadborosaurus” and S2 is “Enigma Atlas · Cadborosaurus”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Long Neck in the Sea”, the checkable coordinates are Cadboro Bay, British Columbia, Canada, Since the 1930s, and the source-ledger entries S1 “Wikipedia · Cadborosaurus” and S2 “Enigma Atlas · Cadborosaurus”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The most valuable parts of Caddy’s dossier are not the conclusion that it exists but the precise locations of the sightings: Victoria Harbour, Naden Harbour, the British Columbian coast. These coordinates pin an unsubstantiated creature onto an actual map. Future researchers may follow them to either investigate or remain skeptical.
 
 Finally, most reports of Caddy lack detailed coordinates and weather records, making it hard for later scholars to revisit sites or exclude familiar explanations such as seals, seaweed, or wave action. The coarse nature of the evidence is itself part of the story.
 The name “Caddy” was coined by the press. In the 1930s, newspapers on Vancouver Island and mainland Victoria began reporting on a “sea serpent” in the Gulf. They labeled it Cadborosaurus, which readers soon shortened to Caddy. This type of tale—local, mysterious, requiring no hard evidence, and able to attract tourists—loved the papers.

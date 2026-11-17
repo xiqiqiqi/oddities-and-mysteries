@@ -1,3 +1,8 @@
+---
+title: "The Last Mouthful"
+summary: "On 25 February 1983, the playwright Tennessee Williams was found dead in his New York hotel room. He was 71. The medical examiner said he had choked to death — a plastic bottle cap was lodged in his throat. The cap came from the eye-drop bottle he used often. He had a habit of holding the cap between his front teeth."
+lang: en
+---
 
 ## 1. 25 February 1983
 
@@ -65,50 +70,22 @@ Today, Tennessee Williams's death is still told as a curiosity, a “writer's de
 
 But it is also a reminder that a life can fill a stage and still be ended by something tiny. One bottle cap, one breath, one second.
 
-## Timeline
-
-- **1911**: Tennessee Williams was born Thomas Lanier Williams in Mississippi in 1911.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 2 independent source(s). S1 (CBS New York) covers the relevant institutional record.
-S2 (Mental Floss) provides cross-checks on related records.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Last Mouthful”, the factual trail runs mainly through S1–S3: S1 is “CBS New York · 30 Years Ago Today: Tennessee Williams Dies In Manhattan Hotel Suite” and S2 is “Mental Floss · 13 Authors Whose Deaths Were Stranger Than Fiction”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Last Mouthful”, the checkable coordinates are New York, United States, 1983, and the source-ledger entries S1 “CBS New York · 30 Years Ago Today: Tennessee Williams Dies In Manhattan Hotel Suite” and S2 “Mental Floss · 13 Authors Whose Deaths Were Stranger Than Fiction”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
 
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-"Tennessee" is his pen name.
+"Tennessee" was a pen name. Thomas Lanier Williams took it from his father's Tennessee heritage, partly to separate his writing life from a family he did not want implicated in it.
 
-He didn't want to use his original name and didn't want his family to be implicated. The pen name comes from his father's Tennessee roots.
+After his death, the plays kept working: The Glass Menagerie continued to be staged, A Streetcar Named Desire continued to be adapted, and the South he wrote about kept changing around the characters who seemed unable to leave it. The stage South is often more vivid than the mapped one.
 
-"Tennessee" is a pen name.
-
-It comes from the father's Tennessee heritage. Williams did not want to use his original name and did not want his family to be implicated.
-After Williams' death, his drama continued.
-
-"The Glass Menagerie" is still being performed, and "A Streetcar Named Desire" is still being adapted. The South he wrote about has changed; the people he wrote about are still there.
-
-The characters he writes are always escaping from their families and always returning to their families. The South on the stage is more real than the South on the map.
-
-He writes about the South and himself. The family on stage is more real than reality.
-
-The South on the stage is more real than the South on the map.
-Williams died in a New York hotel on February 25, 1983.
-
-The official story was suffocation and the cause was a bottle cap. He was filling a bottle cap with medicine and it fell into his throat.
-
-There are many versions of Williams' death.
-
-Some said he drank wine and took medicine; some said the bottle cap got stuck in his throat; some said he died alone in the hotel.
-
-There are many versions of Williams' death.
+Williams died in a New York hotel on 25 February 1983. The official account is that he choked on a bottle cap while trying to take medicine; other versions circulated, involving wine, pills, or his isolation in the suite. The uncertainty belongs to the record, not to a single definitive story.
 
 Bottle caps, drugs, alcohol, it's all possible. The autopsy report did not fully explain.
 Williams wrote many plays.

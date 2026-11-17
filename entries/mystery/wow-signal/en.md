@@ -1,3 +1,8 @@
+---
+title: "The Wow Signal: Seventy-Two Seconds of Narrowband Radio"
+summary: "On 15 August 1977 the Ohio State University 'Big Ear' telescope recorded a strong narrowband signal from the direction of Sagittarius that lasted 72 seconds. The duty astronomer wrote 'Wow!'. Later observations found nothing, and the source remains unidentified."
+lang: en
+---
 
 ## 1. The Big Ear observation
 
@@ -31,19 +36,11 @@ The original printout, observing log, and Big Ear survey records were later pres
 
 The 'Wow!' annotation turned a technical record into a cultural symbol. It appears in textbooks, documentaries, science fiction, and stamps, and is often cited as evidence that humanity may not be alone. But the symbol also invites misreading: the signal was not a continuing broadcast, not a decodable message, and has no confirmed civilisational source. For SETI it is a reminder that an anomaly needs repetition, independent confirmation, and multi-band observation before it moves from 'interesting' to 'known'.
 
-## Timeline
-
-- **15 August 1977**: Big Ear records a 72-second narrowband signal
-- **August 1977**: Jerry Ehman writes 'Wow!' on the printout
-- **after 1977**: repeated searches detect nothing
-- **2017**: comet 266P/Christensen hypothesis proposed and disputed
-- **1998**: Big Ear ceases operation
-
 ## Sources and evidence
 
-The checkable material in this entry rests mainly on S1 and S2: S1 supplies the official site or object record and basic chronology, while S2 supplies independent research or archival context. S3 covers the editorial cover and diagrams; it is visual explanation, not historical evidence. Dates, quantities, places, and attributions in the text are traced back to specific S1/S2 pages wherever possible. Claims that cannot be tied to a page are flagged under 'Limits of the record'.
+For “The Wow Signal: Seventy-Two Seconds of Narrowband Radio”, the factual trail runs mainly through S1–S3: S1 is “Big Ear Radio Observatory” and S2 is “The Wow Signal”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
-The cover is an AI-assisted reconstruction, not a site photograph. The two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in `research/image-audit.csv`.
+The cover is an AI-assisted reconstruction of “The Wow Signal: Seventy-Two Seconds of Narrowband Radio”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
 
@@ -52,7 +49,6 @@ The Wow signal's archive is mainly in Ohio: Ohio State University Libraries hold
 ## Limits of the record
 
 The Wow signal was recorded once and never independently repeated. Its frequency is close to the hydrogen line at 1420 MHz and its intensity curve looks like a drift, but the source direction, polarisation, bandwidth, and follow-up searches never closed the loop. Comet, satellite, ground interference, hydrogen cloud, and extraterrestrial explanations each account for some features but not all at once. This entry separates the record from the explanation: the record is real, the source remains unknown.
-
 
 ---
 

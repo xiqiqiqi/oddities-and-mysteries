@@ -64,4 +64,4 @@ Stand on the gravel road at the swamp's edge and all you see is green wall, towe
 
 ---
 
-**Sources and licenses**: factual sources are in the ledger S1–S5 below. Text and original schematics are CC BY-SA 4.0. The three site photographs are credited Wikimedia Commons works, licenses in the ledger. All paranormal items are "reported," not "verified"; the curse account is of doubtful reliability and is presented as legend.
+**Sources and licenses**: factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The three site photographs are credited Wikimedia Commons works, licenses in the ledger. All paranormal items are "reported," not "verified"; the curse account is of doubtful reliability and is presented as legend.

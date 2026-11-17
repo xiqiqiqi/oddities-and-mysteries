@@ -1,3 +1,8 @@
+---
+title: "The Day Beijing Shook"
+summary: "On May 30, 1626, the Wanggongchang gunpowder depot in Beijing exploded, killing thousands. The official explanation was a gunpowder accident, but accounts of clothes blown off, trees uprooted, and a strange cloud kept the disaster in the archive of the inexplicable."
+lang: en
+---
 
 ## 1. The sixth day of the fifth month
 
@@ -63,14 +68,9 @@ It is not a completely unsolved mystery either. There was a powder depot, an off
 
 What unsettles people are the details in the records: the clothes, the trees, the stone lions, the strange cloud. They are like footnotes that refuse to stay in order. Even when the cause is broadly known, a disaster always leaves something that will not fit neatly into the file.
 
-## Timeline
-
-- **1626**: May 30, 1626. The sixth day of the fifth lunar month, in the sixth year of the Tianqi reign. Around nine in ...
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S3 (an institutional source) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Day Beijing Shook”, the factual trail runs mainly through S1–S4: S1 is “the source listed as S1 in the ledger” and S2 is “Wikipedia · Wanggongchang explosion”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -78,10 +78,10 @@ The Wanggongchang disaster is documented mainly through Ming official memorials,
 
 ## Limits of the record
 
-The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Day Beijing Shook”, the checkable coordinates are Beijing, Ming China, 1626, and the source-ledger entries S1 “the source listed as S1 in the ledger” and S2 “Wikipedia · Wanggongchang explosion”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. Modern explanations of the cause are disputed; this article separates official records, contemporary rumors, and later speculation.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.

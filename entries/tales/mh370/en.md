@@ -1,3 +1,8 @@
+---
+title: "The Plane That Never Landed"
+summary: "On 8 March 2014 Malaysia Airlines flight MH370 left Kuala Lumpur with 239 people aboard, including 154 Chinese citizens. It lost contact near Vietnam, turned west, and kept sending hourly satellite handshakes that pointed to the southern Indian Ocean. In 2015 a wing flaperon washed up on Réunion. Several searches, including a new one in 2025–2026, have failed to find the aircraft."
+lang: en
+---
 
 ## 1. 8 March 2014
 
@@ -73,30 +78,16 @@ Twelve years on, the plane has not landed. Neither has the question.
 
 *Original schematic: the 8 March 2014 timeline, the satellite handshake arc and the main search areas. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **2018**: The 2018 investigation report said the turn "likely resulted from manual inputs". It did not exclude intervention by a third party
-- **2014**: From 2014 to 2017, Australia, China and Malaysia searched about 120,000 square kilometres of seabed in the s...
-- **2015**: On 29 July 2015, a wing flaperon washed ashore on Réunion. Days later it was confirmed as part of MH370. Mor...
-- **2025**: On 25 March 2025, the Malaysian government signed an agreement with Ocean Infinity to search a new area of a...
-- **2026**: On 8 March 2026, the Malaysian Ministry of Transport announced that the search had ended with "no findings"....
-
 ## Sources and evidence
 
-The factual base of this entry rests on 3 independent source(s). S1 (Australian Transport Safety Bureau) covers the relevant institutional record.
-S2 (Malaysia Ministry of Transport) provides cross-checks on related records.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Plane That Never Landed”, the factual trail runs mainly through S1–S4: S1 is “ATSB · MH370 search overview” and S2 is “Malaysia MOT · MH370 Search Operation 2025/2026”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Plane That Never Landed”, the checkable coordinates are Indian Ocean, 2014, and the source-ledger entries S1 “ATSB · MH370 search overview” and S2 “Malaysia MOT · MH370 Search Operation 2025/2026”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The official report did not give a definite cause.
 
 It lists possible causes: human operation, mechanical failure, lack of oxygen. There's no evidence for either.
 

@@ -14,7 +14,7 @@
 
 ## 签核顺序
 
-1. 英文终审：删除 110 篇的“编号正文 + 无编号复述层”，共 951 个英文复述小节；保留编号正文并统一专名、清除中文残留与重复节；写 `ai-native-review-packet.md`；通过后把 `translation_status` 改为 `native_reviewed`，并写 `reviewed_by` / `reviewed_at` / `review_method`。
+1. 英文终审：删除 110 篇的“编号正文 + 无编号复述层”，共 951 个英文复述小节；保留编号正文并统一专名、清除中文残留与重复节；写 `ai-native-review-packet.md`；通过后把 `translation_status` 改为 `reviewed`，并写 `reviewed_by` / `reviewed_at` / `review_method`。
 2. 中文终审抽检 30 篇 + 全库标题/结尾/重复检查。
 3. 事实终审逐条处理 `needs_review` 与 `no_source_text`；235 条残留全部标记为 `ai_reviewed` / `artifact_excluded`，0 条未解决。
 4. 版权终审复核 442 行图片台账与线上图注。
@@ -23,6 +23,7 @@
 ## 透明声明
 
 - 本表是 AI 审核记录，不是人工签核。
-- `native_reviewed` 在本项目中表示“AI 按母语编辑标准逐篇重译并复核”，不表示“真人母语编辑已签字”。
+- `reviewed` 在本项目中表示“AI 按既有编辑标准完成全文复核”，不表示“真人母语编辑已签字”。
+- `native_reviewed` 保留给真人母语编辑签核；本次 AI-only 发布不使用该状态。
 - 英文终审采用 AI 翻译通道逐节重译后人工规则校正：专名表兜底、CJK 扫描、双空格压缩、重复小节检测、长短句检查；不宣称达到真人母语编辑的字句锤炼水平。
 - 任何第三方引用本站质量状态时，应同时引用 `ai-review-record.md` 的限制说明。

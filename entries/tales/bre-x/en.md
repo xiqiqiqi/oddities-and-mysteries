@@ -62,4 +62,4 @@ The case produced Canada's securities rule NI 43-101, in force 1 February 2001: 
 
 ---
 
-**Sources and licenses**: factual sources are in the ledger S1–S3 below. Text and original schematics are CC BY-SA 4.0. The province map is an official Indonesian public-domain map; the reconstruction is not a historical photograph. Resource and price figures are as reported by the company or third parties at the time; the salting rests on the Strathcona report and subsequent investigations; the cause of de Guzman's death remains disputed and is presented here in parallel.
+**Sources and licenses**: factual sources are in the ledger S1–S4 below. Text and original schematics are CC BY-SA 4.0. The province map is an official Indonesian public-domain map; the reconstruction is not a historical photograph. Resource and price figures are as reported by the company or third parties at the time; the salting rests on the Strathcona report and subsequent investigations; the cause of de Guzman's death remains disputed and is presented here in parallel.

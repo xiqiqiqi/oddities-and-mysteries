@@ -14,7 +14,7 @@ channel: "places"
 slug: "rapa-nui"
 status: "published"
 featured: false
-translation_status: "native_reviewed"
+translation_status: reviewed
 editorial_status: "ai_final_reviewed"
 fact_ledger: "research/fact-ledgers/places/rapa-nui.md"
 image_license_audit: "research/image-audit.csv"
@@ -31,12 +31,12 @@ sources:
     license: "© UNESCO; citation only"
     usage: "1995 年世界遗产登录、摩艾与阿胡遗址范围"
   - id: S2
-    title: "Monumentos Nacionales"
-    publisher: "Consejo de Monumentos Nacionales, Chile"
-    url: "https://www.monumentosnacionales.cl/"
+    title: "UNESCO World Heritage · Rapa Nui National Park"
+    publisher: UNESCO World Heritage Centre
+    url: https://whc.unesco.org/en/list/715/
     year: "2026"
-    license: "© Chilean government; citation only"
-    usage: "智利国家纪念物体系、遗址保护与社区背景"
+    license: 版权归 UNESCO；仅作事实参考
+    usage: 拉帕努伊国家公园的世界遗产地位、遗址保护与管理背景
   - id: S3
     title: "场景复原插图与原创示意图"
     publisher: "稀奇奇编辑部（AI 辅助生成）"

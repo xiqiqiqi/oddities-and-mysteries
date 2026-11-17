@@ -1,3 +1,8 @@
+---
+title: "The Painting Cut in Two"
+summary: "In the Yuan dynasty, Huang Gongwang painted Dwelling in the Fuchun Mountains, a handscroll about seven and a half metres long. In the early Qing, a collector tried to have it burned with him as he died. It was rescued, but the fire had split it in two. The first part is in Hangzhou, the second in Taipei. In 2011 they were shown together for the first time."
+lang: en
+---
 
 ## 1. A long scroll
 
@@ -59,27 +64,16 @@ Remaining Mountain in Hangzhou is not often displayed, and the Master Wuyong Scr
 
 A painting was cut by fire and then preserved by two different people. It was not restored to its original state, but it survived.
 
-## Timeline
-
-- **1269**: Huang Gongwang was born in 1269 and died in 1354.
-- **1948**: The second part is longer. It is called the Master Wuyong Scroll
-- **2011**: In June 2011, the two halves were shown together for the first time at the National Palace Museum in Taipei.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S1 (an institutional source) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Painting Cut in Two”, the factual trail runs mainly through S1–S3: S1 is “Zhejiang Provincial Department of Culture, Radio, Television and Tourism · Dwelling in the Fuchun Mountains on Display” and S2 is “Wikipedia · Dwelling in the Fuchun Mountains”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Painting Cut in Two”, the checkable coordinates are Fuchun River, Zhejiang, China; split between Hangzhou and Taipei, c. 1350 (Yuan dynasty), and the source-ledger entries S1 “Zhejiang Provincial Department of Culture, Radio, Television and Tourism · Dwelling in the Fuchun Mountains on Display” and S2 “Wikipedia · Dwelling in the Fuchun Mountains”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-There are many inscriptions and postscripts at the back of the long scroll.
 
 The inscription and postscript are the impressions, research and praise written by later people. They circulate with the painting and become part of the work. Some inscriptions and postscripts are very long, while others are only a few lines.
 

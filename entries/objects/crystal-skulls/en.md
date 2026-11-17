@@ -1,3 +1,8 @@
+---
+title: "The Crystal Skull Hoax"
+summary: "In a museum case sits a skull carved from a single piece of rock crystal. It has been described as a Maya or Aztec relic, complete with curses, prophecies, and hidden powers. But when researchers put it under a microscope, they found tool marks that only a nineteenth-century European workshop would leave."
+lang: en
+---
 
 ## 1. The skull in the case
 
@@ -53,27 +58,16 @@ It is too good to look at: transparent, symmetrical, face-like, and bright under
 
 The museum label says “nineteenth century, Europe.” The exhibition poster still shows the glowing skull.
 
-## Timeline
-
-- **2012**: Some say the skulls glow, some say they move at night, some say they cause strange dreams. Others link them ...
-- **1924**: It is said that in 1924, Anna Mitchell-Hedges found the skull at the ruins of Lubaantun in British Honduras....
-- **2008**: Around 2008, researchers at the British Museum and the Smithsonian Institution examined several crystal skul...
-
 ## Sources and evidence
 
-This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Crystal skull” and S2 is “Wikipedia · Lubaantun”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'hoax'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Crystal Skull Hoax”, the checkable coordinates are Mesoamerica and European museums, made in the 19th century; presented as ancient in the 20th, and the source-ledger entries S1 “Wikipedia · Crystal skull” and S2 “Wikipedia · Lubaantun”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
 
+The entry is currently labelled “hoax”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Experimental archaeologists have tried replicating crystal skulls.
 
 They spent hundreds of hours using copper wheels, sand and water to create a skull that may look similar to ancient ones. This shows that ancient craftsmen could theoretically do it, but there is no evidence that they actually did it.
 
@@ -91,4 +85,4 @@ The Mayans had jade, obsidian, and sand with which to polish stone. However, the
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the collecting story, the folklore, and the scientific examination; the reported discovery of the Mitchell-Hedges skull is disputed and is not treated here as established fact.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the collecting story, the folklore, and the scientific examination; the reported discovery of the Mitchell-Hedges skull is disputed and is not treated here as established fact.

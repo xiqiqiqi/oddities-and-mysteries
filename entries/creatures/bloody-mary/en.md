@@ -1,3 +1,8 @@
+---
+title: "The Woman in the Mirror"
+summary: "Turn off the lights, light a candle, stand before a mirror and say \"Bloody Mary\" three times. It is one of the most famous sleepover games in the English-speaking world. Something does appear in the mirror, but it is your brain, not a ghost."
+lang: en
+---
 
 ## 1. The Bathroom
 
@@ -53,17 +58,9 @@ The real Bloody Mary was a queen in history. The one in the mirror was made by s
 
 *Original schematic: the common steps of the mirror ritual, Mary I, and the psychological explanation of the mirror illusion. Not a photograph of a ritual. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1553**: Mary reigned from 1553 to 1558. She restored Catholicism and burned several hundred Protestants
-- **1976**: In 1976 an American anthology of children's folklore included the Mary Worth story. In 1978 the folklorist Janet Langlois wrote an academic paper on the ritual.
-- **2010**: In 2010 the Italian psychologist Giovanni Caputo ran an experiment. He seated sixty-six volunteers about forty centimetres from a mirror and asked them to look at their own faces for one minute. About two-thirds reported significant distortions
-
 ## Sources and evidence
 
-The factual base of this entry rests on 2 independent source(s). S2 (Encyclopaedia Britannica) covers the relevant institutional record.
-S3 (Scientific American) provides cross-checks on related records.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Woman in the Mirror”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Bloody Mary (folklore)” and S2 is “Britannica · Mary I”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -71,15 +68,10 @@ The Bloody Mary material is mostly oral and commercial: school playgrounds, film
 
 ## Limits of the record
 
-Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Woman in the Mirror”, the checkable coordinates are Worldwide, 1970s–present, and the source-ledger entries S1 “Wikipedia · Bloody Mary (folklore)” and S2 “Britannica · Mary I”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-It should be noted that the ritual varies widely across schools and countries. Some versions call for the lights to be turned off, others for a candle to be lit, some require midnight, and others simply an inky bathroom. The name also shifts—sometimes “Bloody Mary,” sometimes “Mary Woss,” sometimes a nameless woman. The sheer variety underscores that the legend is not a fixed ghost but a game that localizes itself.
-Another frequently cited name is “Mary Woss.” According to various accounts, she was a colonial‑era woman who either was executed for witchcraft or died in front of a mirror due to a disfigurement. The story shifts under different timelines, spellings, and accusations. In 1978, folklorist Janet Langloua published a paper tracing the spread of the Mary Woss legend in summer camps and on campuses, noting that the tale lacks a fixed historical basis. The name first emerged; the narrative then filled in to accommodate it.
 
 ---
 

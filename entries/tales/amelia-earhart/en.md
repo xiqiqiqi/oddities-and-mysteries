@@ -1,3 +1,8 @@
+---
+title: "Amelia Earhart: The Last Leg That Never Landed"
+summary: "In 1937 Amelia Earhart and navigator Fred Noonan set out to fly around the world and disappeared on the final Pacific leg. Her earlier transatlantic and transpacific flights had made her one of aviation's most famous women; the cause of the loss remains unresolved."
+lang: en
+---
 
 ## 1. A flying career
 
@@ -31,20 +36,11 @@ Purdue University's Earhart archive holds flight plans, correspondence, photogra
 
 Earhart became a symbol of women's aviation, adventure, and celebrity culture. Her disappearance entered books, films, songs, and conspiracy theories, with Nikumaroro, Howland, and Japanese camps becoming narrative locations. For researchers, the priority is to separate symbol from evidence: her flight records can be verified, her final hours cannot. Searches continue, but every new image or document needs the same tests: provenance, chain of custody, and reproducibility.
 
-## Timeline
-
-- **1897**: Earhart born in Atchison, Kansas
-- **1928**: transatlantic flight as a passenger
-- **1932**: solo transatlantic flight
-- **29 June 1937**: departs Lae for Howland
-- **2 July 1937**: lost near Howland
-- **July 1937**: major US Navy and Coast Guard search
-
 ## Sources and evidence
 
-The checkable material in this entry rests mainly on S1 and S2: S1 supplies the official site or object record and basic chronology, while S2 supplies independent research or archival context. S3 covers the editorial cover and diagrams; it is visual explanation, not historical evidence. Dates, quantities, places, and attributions in the text are traced back to specific S1/S2 pages wherever possible. Claims that cannot be tied to a page are flagged under 'Limits of the record'.
+For “Amelia Earhart: The Last Leg That Never Landed”, the factual trail runs mainly through S1–S3: S1 is “Amelia Earhart” and S2 is “Amelia Earhart Collection”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
-The cover is an AI-assisted reconstruction, not a site photograph. The two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in `research/image-audit.csv`.
+The cover is an AI-assisted reconstruction of “Amelia Earhart: The Last Leg That Never Landed”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
 
@@ -53,7 +49,6 @@ Earhart's archive has three main lines: Purdue University holds flight plans, co
 ## Limits of the record
 
 The final location of Earhart and Noonan has not been confirmed. The crash-and-sink, Nikumaroro strandings, and Japanese capture hypotheses all lack decisive physical evidence; radio signals, photographs, bones, and sonar images each support a part but do not complete a chain. The 1937 search records, US Navy and Coast Guard logs, Purdue archives, and private investigations differ in quality and purpose. This entry separates the confirmed route and loss time from later speculation and does not treat a documentary or a single photograph as closing evidence.
-
 
 ---
 

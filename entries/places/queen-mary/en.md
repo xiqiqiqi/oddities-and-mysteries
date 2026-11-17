@@ -1,3 +1,8 @@
+---
+title: "The Hotel at Sea"
+summary: "The Queen Mary made her maiden voyage in 1936 and was one of the most luxurious ocean liners of the 1930s. In the Second World War she became a troopship and sank a British cruiser in a collision. Retired in 1967, she was towed to Long Beach, California, and turned into a hotel and museum. The crew say a young man still lives in one of her watertight doors."
+lang: en
+---
 
 ## 1. 1936
 
@@ -69,29 +74,16 @@ Guests sleep on board, lie in bed and hear the ship making sounds. Some say it i
 
 *Original schematic: the maiden voyage in 1936, the 1942 collision, the move to Long Beach in 1967 and the ghost stories. Not a photograph of the ship. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1934**: She was constructed at Clydebank in Scotland
-- **1939**: In 1939 the Second World War began.
-- **1942**: On 2 October 1942 the Queen Mary was sailing near Ireland.
-- **1967**: In 1967 the Queen Mary was retired.
-- **1966**: On 10 July 1966, while the ship was still in service, a young crewman died.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (The Queen Mary) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Hotel at Sea”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · RMS Queen Mary” and S2 is “Queen Mary · History and Fun Facts”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Hotel at Sea”, the checkable coordinates are Long Beach, California, United States, 1936–1967, and the source-ledger entries S1 “Wikipedia · RMS Queen Mary” and S2 “Queen Mary · History and Fun Facts”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The "supernatural phenomena" on the ship can be explained by ordinary reasons.
 
 The metal of the old ship will expand and contract due to heat and cold, making noises; water in the pipes will flow, causing the sound of footsteps; lights and ventilation equipment will suddenly activate. Visitors in dark corridors can easily interpret ordinary sounds as ghosts.
 

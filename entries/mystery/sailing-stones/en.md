@@ -1,3 +1,8 @@
+---
+title: "The Stones That Walk"
+summary: "At the Racetrack Playa in Death Valley, stones weighing tens or even hundreds of kilograms leave long trails across a dry lakebed. No one pushes them, and almost no one sees them move. In 2014, researchers finally filmed the answer — a thin layer of winter ice and a little wind."
+lang: en
+---
 
 ## 1. Trails on the lakebed
 
@@ -69,28 +74,16 @@ Visitors can drive to the area on designated roads, but they must not drive onto
 
 The stones are still there. Most of the time they do not move. In the right few days of winter, they travel a short distance, slowly.
 
-## Timeline
-
-- **1915**: People have recorded these trails since 1915. For decades, no one saw the stones move.
-- **2014**: In 2014, a research team finally got the chance.
-- **2013**: They placed GPS-tagged stones on the playa and set up time-lapse cameras for the winter. From December 2013 to January 2014
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (National Park Service) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Stones That Walk”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Sailing stones” and S2 is “National Park Service · Death Valley National Park / Racetrack Playa”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Stones That Walk”, the checkable coordinates are Racetrack Playa, Death Valley, California, USA, studied 1915–2014; mechanism observed in 2014, and the source-ledger entries S1 “Wikipedia · Sailing stones” and S2 “National Park Service · Death Valley National Park / Racetrack Playa”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The stones in the dry lake at the racecourse move very slowly. Researchers used GPS records for a year and found that they only move around during certain winters. If a person comes only once, all he sees is static stones. The rhythm of nature is sometimes much slower than human patience.
-Racecourse Dry Lake is remote, cold in the winter and hot in the summer.
 
 The conditions for stone movement are very narrow: it needs to rain first to form shallow water; it needs to freeze at night; it needs to melt during the day; and it needs wind. Researchers waited a long time for a complete record.
 

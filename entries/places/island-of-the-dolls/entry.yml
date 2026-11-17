@@ -27,7 +27,7 @@ sources:
   - id: S2
     title: "Atlas Obscura · Island of the Dolls"
     publisher: Atlas Obscura
-    url: https://www.atlasobscura.com/places/island-of-the-dolls
+    url: https://www.atlasobscura.com/places/la-isla-de-las-munecas
     year: "2026"
     license: 版权归 Atlas Obscura；仅作事实参考
     usage: 岛屿现状、娃娃的来源与旅游信息
@@ -44,7 +44,7 @@ related:
   - black-shuck
 status: published
 featured: false
-translation_status: native_reviewed
+translation_status: reviewed
 editorial_status: ai_final_reviewed
 fact_ledger: research/fact-ledgers/places/island-of-the-dolls.md
 image_license_audit: research/image-audit.csv

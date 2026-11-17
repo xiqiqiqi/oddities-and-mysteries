@@ -1,3 +1,8 @@
+---
+title: "The Golden Man"
+summary: "In 1969 archaeologists opened a burial mound beside the Issyk River in Kazakhstan and found a young person covered in gold. More than four thousand gold objects and a 63-centimetre headdress turned the \"Golden Man\" into a national symbol. Whether the body was male or female is still debated."
+lang: en
+---
 
 ## 1. 1969
 
@@ -67,25 +72,16 @@ Whether the person was male or female, a prince or a princess, a warrior or a pr
 
 *Original schematic: the main motifs of the headdress, the side chamber at Issyk and the 1969 discovery. Not a photograph of an artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1969**: 1969, beside the Issyk River in Kazakhstan, fifty kilometres east of Almaty.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (e-history.kz) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Golden Man”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Issyk kurgan” and S2 is “e-history.kz · Who Was the Golden Man Really?”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Golden Man”, the checkable coordinates are Issyk, Kazakhstan, c. 4th century BCE, and the source-ledger entries S1 “Wikipedia · Issyk kurgan” and S2 “e-history.kz · Who Was the Golden Man Really?”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The tomb of the Jin people is a large tomb.
 
 There are wooden structures, horses, weapons and food in the tomb. The tomb owner is placed in the center, dressed in gold. The size of the tomb indicates that he/she had a high status in society.
 

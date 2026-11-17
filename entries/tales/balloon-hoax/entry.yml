@@ -18,9 +18,9 @@ collections: []
 credibility: hoax
 sources:
   - id: S1
-    title: "Wikipedia · Balloon-Hoax"
+    title: "Wikipedia · The Balloon-Hoax"
     publisher: Wikipedia contributors
-    url: https://en.wikipedia.org/wiki/Balloon-Hoax
+    url: https://en.wikipedia.org/wiki/The_Balloon-Hoax
     year: "2026"
     license: CC BY-SA 4.0
     usage: 1844 年报道、情节、爱伦·坡的参与与后续
@@ -44,7 +44,7 @@ related:
   - alien-autopsy
 status: published
 featured: false
-translation_status: native_reviewed
+translation_status: reviewed
 editorial_status: ai_final_reviewed
 fact_ledger: research/fact-ledgers/tales/balloon-hoax.md
 image_license_audit: research/image-audit.csv

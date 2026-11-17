@@ -116,4 +116,4 @@ It knows light. Whichever way the light comes from, it sends it back.
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S4 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the 1905 discovery, the 1907 purchase and presentation, the 1908 cutting, the dispersal of the nine stones and the Crown Jewels, and the argument over return; the weights, cuts and settings are on the public record. The illustrations are historical photographs, a reconstruction and a schematic, not site photographs.
+**Sources and licenses**: sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the 1905 discovery, the 1907 purchase and presentation, the 1908 cutting, the dispersal of the nine stones and the Crown Jewels, and the argument over return; the weights, cuts and settings are on the public record. The illustrations are historical photographs, a reconstruction and a schematic, not site photographs.

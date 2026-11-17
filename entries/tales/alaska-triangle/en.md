@@ -1,3 +1,8 @@
+---
+title: "The Triangle's Ledger"
+summary: "On 16 October 1972 a Cessna 310 flew from Anchorage to Juneau with House Majority Leader Hale Boggs and Congressman Nick Begich aboard. It never arrived. Later stories said the Alaska Triangle had swallowed twenty thousand people. The real number is 1,334 unsolved missing-person cases in Alaska since 1948. The triangle is drawn by people. The disappearances are real."
+lang: en
+---
 
 ## 1. 16 October 1972
 
@@ -61,30 +66,16 @@ But the real ledger has 1,334 names. They did not disappear inside a triangle. T
 
 *Original schematic: the triangle, the 1972 Cessna 310 route and the missing-person statistics. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1972**: The most common claim about the triangle is that twenty thousand people have disappeared inside it since 1972.
-- **2025**: As of 2025, Alaska had 1,334 unsolved missing-person cases going back to 1948. By population, that is 177 pe...
-- **2001**: It is not in the newspapers, government files or search reports of that year. It first appeared on televisio...
-- **1978**: Earlier, in 1978, the Alaska poet Sheila Nickerson used the phrase "Alaska's Bermuda Triangle" in a poem. In...
-- **1947**: In Alaska, only five aircraft have vanished without a trace: 1947, 1951, 1972, 1992 and 2013.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 3 independent source(s). S1 (Brian Dunning / Skeptoid) covers the relevant institutional record.
-S2 (Alaska Department of Public Safety) provides cross-checks on related records.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Triangle's Ledger”, the factual trail runs mainly through S1–S4: S1 is “Skeptoid · The Alaska Triangle” and S2 is “Alaska Department of Public Safety · Missing Persons Clearinghouse”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Triangle's Ledger”, the checkable coordinates are Alaska, USA, From 1972, and the source-ledger entries S1 “Skeptoid · The Alaska Triangle” and S2 “Alaska Department of Public Safety · Missing Persons Clearinghouse”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Alaska’s disappearance rate is indeed higher than the U.S. average.
 
 The reasons are environment, transportation and population distribution, not "supernatural". People in remote areas are more likely to get lost, injured or killed in the wild.
 

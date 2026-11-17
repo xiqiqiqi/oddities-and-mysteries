@@ -1,3 +1,8 @@
+---
+title: "The Bus in the Wild"
+summary: "In April 1992 Christopher McCandless walked into the Alaskan wilderness and moved into an abandoned bus. He stayed there for 113 days, living on squirrels, birds, roots and seeds. In August he died inside it. On 6 September hunters found his body in the bus."
+lang: en
+---
 
 ## 1. Graduation
 
@@ -75,31 +80,16 @@ Some call him brave, some call him foolish, some call him a young man ruined by 
 
 *Original schematic: five stages from graduation to the discovery of the body, Bus 142 and the debate over the cause of death. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1968**: Christopher McCandless was born in California in 1968.
-- **1990**: In 1990 he graduated from Emory University
-- **1992**: In April 1992 he hitchhiked to Fairbanks, Alaska.
-- **2013**: Why he starved has been argued about ever since. In 2013 the writer Jon Krakauer proposed in The New Yorker that McCandless had eaten the seeds of a wild potato
-- **2015**: A 2015 study supported the idea. Other researchers argue that he died of starvation itself
-- **1996**: In 1996 Krakauer published Into the Wild. In 2007 Sean Penn made it into a film.
-- **2020**: In 2020 Alaska lifted the bus out of the wilderness and moved it to the Museum of the North in Fairbanks. It is no longer a place of pilgrimage. It is an exhibit.
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (The New Yorker) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Bus in the Wild”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Christopher McCandless” and S2 is “The New Yorker · How Chris McCandless Died”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Bus in the Wild”, the checkable coordinates are Stampede Trail, Alaska, United States, 1992, and the source-ledger entries S1 “Wikipedia · Christopher McCandless” and S2 “The New Yorker · How Chris McCandless Died”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The bus became an attraction.
 
 Some people come for pilgrimage and some come to take photos. Later, the bus was removed.
 

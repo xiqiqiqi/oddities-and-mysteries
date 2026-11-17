@@ -1,3 +1,8 @@
+---
+title: "The War That Wounded One Man"
+summary: "In 1835, Ohio and the Michigan Territory nearly went to war over a strip of swamp around Toledo. Both sides called out militia and shots were fired, but almost nobody was hurt. The only blood came from a deputy sheriff stabbed in the thigh with a penknife. In the end, Congress gave Toledo to Ohio and the Upper Peninsula to Michigan."
+lang: en
+---
 
 ## 1. A line drawn from bad maps
 
@@ -55,28 +60,16 @@ It runs through fields, woods, and roads, with no fence and no guard post. Drive
 
 The name “Toledo War” came later. Toledo was not incorporated until 1837, and the conflict was closer to a border dispute that dragged on for a year. But the name stuck, along with the deputy sheriff who was stabbed with a penknife.
 
-## Timeline
-
-- **1787**: In 1787, the U.S. Congress passed the Northwest Ordinance, which set out how new states would be carved from...
-- **1835**: In 1835, Ohio's governor, Robert Lucas, decided to settle the matter. He organised a new county in the dispu...
-- **1836**: On 14 December 1836, Michigan accepted a compromise: the Toledo Strip went to Ohio, and Michigan received a ...
-- **1837**: The name “Toledo War” came later. Toledo was not incorporated until 1837
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S4 (Michigan State University Department of Geography) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The War That Wounded One Man”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Toledo War” and S2 is “Wikipedia · Toledo Strip”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The War That Wounded One Man”, the checkable coordinates are Ohio and Michigan, United States, 1835–1836, and the source-ledger entries S1 “Wikipedia · Toledo War” and S2 “Wikipedia · Toledo Strip”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
 
+The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-Congress assigned the Upper Peninsula to Michigan.
 
 The Upper Peninsula has copper, iron, forests and lakeshores. Michigan accepted the compensation.
 
@@ -106,4 +99,4 @@ Michigan gets the Upper Peninsula and Ohio gets the Toledo Strip.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the boundary dispute, the militia standoff, the stabbing, and the congressional compromise; “war” is the conventional name, and no deaths were recorded.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the boundary dispute, the militia standoff, the stabbing, and the congressional compromise; “war” is the conventional name, and no deaths were recorded.

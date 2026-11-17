@@ -1,3 +1,8 @@
+---
+title: "Petra: A Caravan Capital in the Canyon"
+summary: "Petra was not a secret city hidden in a gorge but a capital that used the gorge itself as infrastructure. The Siq controls movement, while channels and pipes cut into the rock divert flash floods into cisterns; the façade of al-Khazneh is only the most famous face of that system."
+lang: en
+---
 
 ## 1. Through the Siq
 
@@ -31,20 +36,11 @@ A major earthquake in 363 CE damaged much of Petra, and the city declined therea
 
 Petra was inscribed as a World Heritage Site in 1985. Today it faces rock weathering, salt erosion, flash floods, earthquake risk, and heavy visitation. Paths, steps, and tomb chambers are repeatedly trampled, and some areas have had to restrict access. Relations between local communities and site managers are also complex: tourism income, relocation, grazing rights, and heritage protection often conflict. Conservation is not a matter of sealing the site off but of finding a sustainable balance between rock stability, flood management, and local livelihoods.
 
-## Timeline
-
-- **c. 4th century BCE**: Nabataean kingdom takes shape around Petra
-- **1st century BCE–1st century CE**: main rock-cut façades, including al-Khazneh
-- **106 CE**: Roman annexation of the Nabataean kingdom
-- **363 CE**: major earthquake damages Petra
-- **1812**: Burckhardt enters Petra
-- **1985**: inscribed as a World Heritage Site
-
 ## Sources and evidence
 
-The checkable material in this entry rests mainly on S1 and S2: S1 supplies the official site or object record and basic chronology, while S2 supplies independent research or archival context. S3 covers the editorial cover and diagrams; it is visual explanation, not historical evidence. Dates, quantities, places, and attributions in the text are traced back to specific S1/S2 pages wherever possible. Claims that cannot be tied to a page are flagged under 'Limits of the record'.
+For “Petra: A Caravan Capital in the Canyon”, the factual trail runs mainly through S1–S3: S1 is “Petra” and S2 is “Petra”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
-The cover is an AI-assisted reconstruction, not a site photograph. The two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in `research/image-audit.csv`.
+The cover is an AI-assisted reconstruction of “Petra: A Caravan Capital in the Canyon”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
 
@@ -53,7 +49,6 @@ Petra's archive is made up of records from Jordan's Department of Antiquities, t
 ## Limits of the record
 
 Many buildings at Petra carry no inscriptions, so their dates must be inferred from style, structural relationships, and a few texts. The Nabataeans' religious practice, social stratification, and daily life left few traces in written sources, and depend more on the site itself and comparisons with neighbouring regions. The function of the Treasury, the monument visitors know best, remains disputed; treating 'Treasury' as a settled name is a misunderstanding left by tourism. This entry layers measurable architecture, readable inscriptions, and later legend separately.
-
 
 ---
 

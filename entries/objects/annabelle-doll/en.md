@@ -66,4 +66,4 @@ The case is still there, the bell is still there, the warning sign is still ther
 
 ---
 
-**Sources and licenses**: factual sources are in the ledger S1–S5 below. Text and original schematics are CC BY-SA 4.0. The three site photographs are credited Wikimedia Commons works (CC BY 4.0 / CC0), licenses in the ledger. The Warrens' paranormal claims have no third-party corroboration and are presented here as claims made, not as facts.
+**Sources and licenses**: factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The three site photographs are credited Wikimedia Commons works (CC BY 4.0 / CC0), licenses in the ledger. The Warrens' paranormal claims have no third-party corroboration and are presented here as claims made, not as facts.

@@ -1,3 +1,8 @@
+---
+title: "The Monkey with a Fish Tail"
+summary: "In 1842 Barnum's museum in New York exhibited a “Feejee mermaid” — a monkey's head and torso sewn to a fish tail and preserved as a specimen. Crowds queued to see it. It became one of the most successful hoaxes in American show business."
+lang: en
+---
 
 ## 1. New York, 1842
 
@@ -63,27 +68,16 @@ The specimen of 1842 sewed the two together — an old mistake and a modern mark
 
 *Original schematic: the monkey torso and fish tail, the New York exhibition of 1842, and the later collection history. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Timeline
-
-- **1842**: In the summer of 1842, Barnum's American Museum on Broadway put up a poster.
-- **1865**: Barnum's museum burned down in 1865. Kimball's collection eventually went to Harvard's Peabody Museum
-- **1493**: In 1493 Columbus wrote in the Caribbean that he had seen “sirens”
-
 ## Sources and evidence
 
-The factual base of this entry rests on 1 independent source(s). S2 (Hoaxes.org) covers the relevant institutional record.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+For “The Monkey with a Fish Tail”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Feejee mermaid” and S2 is “Hoaxes.org · The Feejee Mermaid (1842)”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'hoax'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Monkey with a Fish Tail”, the checkable coordinates are New York, United States, 1842, and the source-ledger entries S1 “Wikipedia · Feejee mermaid” and S2 “Hoaxes.org · The Feejee Mermaid (1842)”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
 
+The entry is currently labelled “hoax”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The Fijian mermaid is still on display at the Peabody Museum today. The placard reads plainly: *“Composite of a monkey and a fish.”* Visitors standing before the glass case see more than a specimen; they glimpse a tale of deception, commerce, and curiosity.
 
 Later, Barnum exhibited the Fijian mermaid at the American Museum, labeling it a “half‑fish, half‑human” curiosity. Queues formed to view it; some laughed, some believed. The original was likely destroyed in the fire, so the current display is almost certainly a reproduction.
 The Fijian mermaid’s upper body is that of a monkey; its lower half is that of a fish.

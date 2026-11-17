@@ -1,3 +1,8 @@
+---
+title: "The Black Dog in the Church"
+summary: "On 4 August 1577, a storm broke over Bungay in Suffolk. According to the legend, a huge black dog burst into the church, knocked people down, left two dead, and vanished. That afternoon, twelve miles away, the dog appeared in another church and left scorch marks on the north door."
+lang: en
+---
 
 ## 1. The storm of 1577
 
@@ -31,14 +36,9 @@ The most common explanation is lightning. The storm was severe, and the church m
 
 The north door of Holy Trinity, Blythburgh, is still there. The scorch marks are still visible, and the church is a local landmark. A notice inside tells the story of the black dog of 1577. St Mary’s in Bungay is still standing too, and visitors can go inside. A dog ran through a church in less than a minute. People have told the story for more than four hundred years.
 
-## Timeline
-
-- **1577**: 4 August 1577 was a Sunday. In the town of Bungay
-
 ## Sources and evidence
 
-This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
-The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Black Shuck” and S2 is “Wikipedia · Black dog (folklore)”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
 
@@ -46,14 +46,10 @@ The Black Shuck material is scattered across parish registers, local newspapers,
 
 ## Limits of the record
 
-Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
-The archive keeps the recording and the unanswered question side by side.
-In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+For “The Black Dog in the Church”, the checkable coordinates are Bungay, Suffolk, England, 1577, and the source-ledger entries S1 “Wikipedia · Black Shuck” and S2 “Wikipedia · Black dog (folklore)”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
 
+The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
 ## Archival note
-
-The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
-The choice of a church is deliberate.
 
 In 16th‑century England, the church was the village’s most robust, communal structure. Lightning striking a church was interpreted as a divine warning. A black dog breaching a sanctuary carried more symbolic weight than entering a barn—it crossed the very threshold of safety.
 
@@ -65,4 +61,4 @@ Today, Bongas’s church remains open. Visitors can walk through the north door 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1577 accounts, the physical marks in the churches, and the explanations offered for them; the scorch marks prove a fire, not a dog. The illustrations are scene reconstructions, not historical photographs.
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1577 accounts, the physical marks in the churches, and the explanations offered for them; the scorch marks prove a fire, not a dog. The illustrations are scene reconstructions, not historical photographs.

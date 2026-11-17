@@ -1,3 +1,8 @@
+---
+title: "The Giza Plateau: Three Pyramids and a Sphinx"
+summary: "The three pyramids on the Giza Plateau belong to Egypt's Fourth Dynasty, roughly 2580–2500 BCE. They are not isolated monuments: temples, causeways, queen's pyramids, tombs, and the Sphinx form a complete ritual and funerary landscape around them."
+lang: en
+---
 
 ## 1. Three pyramids on a plateau
 
@@ -31,19 +36,11 @@ Since the nineteenth century, Giza has been repeatedly written into occultism, n
 
 Giza was inscribed in 1979 as part of 'Memphis and its Necropolis'. Today it faces rising groundwater, salt erosion, urban expansion, looting, and heavy visitation. The opening of the Grand Egyptian Museum near Cairo has diverted some objects and visitor pressure, but the plateau itself still has limited carrying capacity. Conservation plans often choose between openness and closure: total closure slows weathering but separates the site from the public; total openness brings revenue but accelerates wear.
 
-## Timeline
-
-- **c. 2580–2560 BCE**: Great Pyramid of Khufu
-- **c. 2570–2540 BCE**: Khafre's pyramid and Sphinx (traditional dating)
-- **c. 2510–2480 BCE**: Menkaure's pyramid
-- **1979**: inscribed as a World Heritage Site
-- **2025**: Grand Egyptian Museum opens, reshaping visitor flow
-
 ## Sources and evidence
 
-The checkable material in this entry rests mainly on S1 and S2: S1 supplies the official site or object record and basic chronology, while S2 supplies independent research or archival context. S3 covers the editorial cover and diagrams; it is visual explanation, not historical evidence. Dates, quantities, places, and attributions in the text are traced back to specific S1/S2 pages wherever possible. Claims that cannot be tied to a page are flagged under 'Limits of the record'.
+For “The Giza Plateau: Three Pyramids and a Sphinx”, the factual trail runs mainly through S1–S3: S1 is “Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur” and S2 is “Giza Project”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
-The cover is an AI-assisted reconstruction, not a site photograph. The two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in `research/image-audit.csv`.
+The cover is an AI-assisted reconstruction of “The Giza Plateau: Three Pyramids and a Sphinx”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
 
@@ -52,7 +49,6 @@ The archival core for Giza is Harvard's Giza Project, which brings together nine
 ## Limits of the record
 
 Much about Giza's construction organisation remains blank: the exact quarry and transport routes, the building sequence of the individual pyramids, the seasonal rotation of work gangs, and the original form and date of the Sphinx all lack complete evidence. Claims about 'hidden passages' or 'underground palaces' must distinguish published geophysical anomalies from structures that have actually been opened. This entry treats as fact only what excavation, survey, or archival record supports, and leaves models and guesses in the interpretation layer.
-
 
 ---
 
