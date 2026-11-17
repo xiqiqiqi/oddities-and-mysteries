@@ -1,8 +1,3 @@
----
-title: The War With One Shot
-summary: In 1784, the Austrian emperor wanted to open the Scheldt estuary to shipping. The Dutch refused. An Austrian ship sailed into the estuary, and a Dutch warship fired one shot. The shot hit a kettle on board. The “war” never fired a second shot, but it left a name — the Kettle War.
-lang: en
----
 
 ## 1. A locked river
 
@@ -65,6 +60,60 @@ The Kettle War did not change the map of Europe. It compressed a dispute between
 The episode reappeared in cartoons, prints, and popular histories. The kettle became a convenient symbol: a conflict that looked like a war but amounted to one shot.
 
 It does not belong in the great-battles chapter of military history. It belongs in a footnote about how diplomacy avoids wars. Both sides got an acceptable result. The price was a kettle.
+
+## Timeline
+
+- **1784**: In 1784, Emperor Joseph II decided to test the arrangement. He demanded that the Dutch open the Scheldt to n...
+- **1785**: In 1785, the two sides signed the Treaty of Fontainebleau.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S4 (Rijksmuseum / Europeana) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+In 1785, a treaty was signed between the two countries.
+
+Boundaries were drawn and conflicts ended. The kettle became a symbol: a war without bloodshed.
+
+Treaty of 1785, defining the boundaries.
+
+The two sides exchanged land and settled the dispute. The Kettle War became a footnote to the treaty.
+
+In 1785, a treaty was signed between the two countries.
+
+Boundaries were drawn and conflicts ended.
+In 1784, a conflict occurred on the border between the Dutch Republic and the Austrian Netherlands.
+
+The boundaries are not drawn. The two countries compete for sovereignty over a small island near the Meuse River.
+
+The boundaries of 1784 were not drawn.
+
+The Netherlands and Austria both thought they owned the island near the Meuse River.
+An Austrian ship crossed the Dutch border.
+
+The people on the boat were armed and had a kettle with them. The Dutch opened fire and the shells hit the kettle.
+
+Austrian ship crossed the border.
+
+Men on board, with weapons and kettles. They want to assert their sovereignty.
+The Kettle War was a bloodless war.
+
+It fired only once, hitting a kettle. The history books remember the kettle and forget the borders.
+
+A kettle stopped a war. This is probably the cheapest diplomatic victory in history and the most absurd border conflict. There are no deaths in the story, but it leaves a line between countries.
+
+History is sometimes very light, as light as a kettle; but the borders it leaves are so heavy that both countries have to draw a line.
+
+A kettle in exchange for a boundary. History is so light sometimes.
 
 ---
 

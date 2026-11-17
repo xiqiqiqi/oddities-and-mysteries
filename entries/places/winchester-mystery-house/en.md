@@ -1,8 +1,3 @@
----
-title: The House Without an End
-summary: In 1886 Sarah Winchester bought a small farmhouse in San Jose, California, and began to remodel it. The work continued until her death in 1922, thirty-six years without stopping. The house ended up with about 160 rooms, 2,000 doors and 10,000 windows, plus staircases that lead into ceilings and doors that open onto walls.
-lang: en
----
 
 ## 1. San Jose
 
@@ -67,6 +62,45 @@ Sarah left no explanation. She spent her money on a house, and she spent thirty-
 ![The expansion, the 1906 earthquake, and the opening of the house](../../../assets/inline/winchester.svg)
 
 *Original schematic: the phases of construction, the 1906 earthquake and the opening in 1923. Not an architectural survey. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1886**: In 1886 Sarah Winchester bought a two-storey farmhouse there
+- **1866**: In 1866 their daughter Annie died in infancy. In 1881 William died of tuberculosis. Sarah inherited a large fortune
+- **1906**: In 1906 the San Francisco earthquake struck.
+- **1922**: On 5 September 1922 Sarah died in her sleep, aged eighty-three.
+- **1923**: The work stopped at once. Hammers
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Winchester Mystery House) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The Winchester Mystery House archive is mostly the house itself, building permits, and the family's own promotional material; the 'continuous construction' story is part of the interpretation, not an independent record.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Craftsmen lived nearby and worked for Sarah on a long-term basis.
+
+They knew her habits and they knew her money. The houses got bigger and bigger, and more and more workers were hired.
+
+The house took thirty-eight years to build, and the workers changed one batch after another.
+
+Some workers died, some left, and some stayed. Their names were not recorded.
+Sarah Winchester, heir to the Winchester Rifle Company.
+
+Her husband, William Winchester, died in 1881. She inherited a large amount of wealth, and also inherited a saying: the family's wealth comes from rifles, rifles bring death, and death will come to her.
+
+In 1884, she bought a farmhouse outside San Jose and began expanding it. She called architects, craftsmen, and workers and told them to keep building.
 
 ---
 

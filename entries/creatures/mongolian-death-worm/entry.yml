@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与传说分布、证据对照示意；不是目击照片
+  - id: S4
+    title: "Olgoi-Khorkhoi: The Mongolian Death Worm"
+    publisher: "Skeptoid"
+    url: "https://skep.us/episodes/4344"
+    year: "2013"
+    license: "All rights reserved; citation only"
+    usage: "蒙古戈壁传说、1920 年代西方记录与历次考察未获标本"
 cover: ../../../assets/covers/mongolian-death-worm.jpg
 related:
   - loch-ness

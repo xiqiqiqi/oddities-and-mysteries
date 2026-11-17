@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与目击地点示意；不是历史照片
+  - id: S4
+    title: "Spring-heeled Jack: The Terror of London"
+    publisher: "University of Northampton / NECTAR"
+    url: "https://nectar.northampton.ac.uk/id/eprint/9059/7/Mackley20169059.pdf"
+    year: "2016"
+    license: "Academic article; citation only"
+    usage: "1838 年 2 月 Alsop 袭击、报纸报道与“弹簧腿杰克”名称的形成"
 cover: ../../../assets/covers/spring-heeled-jack.jpg
 related:
   - loch-ness

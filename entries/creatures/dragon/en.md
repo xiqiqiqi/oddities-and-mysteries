@@ -1,8 +1,3 @@
----
-title: Two Kinds of Dragon
-summary: The Chinese dragon has no wings, lives in water, controls the rain and stands for the emperor. The European dragon has wings, breathes fire, hoards gold and is the monster a knight must kill. Both are called “dragon”, but they are hardly the same creature.
-lang: en
----
 
 ## 1. Two kinds of dragon
 
@@ -71,6 +66,29 @@ In recent years some people have proposed translating the Chinese dragon as “l
 ![The Chinese dragon and the Western dragon compared](../../../assets/inline/dragon.svg)
 
 *Original schematic: the features of the Chinese dragon and the Western dragon compared. Not a photograph of an object. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1910**: The Komodo dragon was described by science in 1910. It grows to three metres
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Encyclopaedia Britannica) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+When treated as a cultural symbol rather than a biological entity, many contradictions dissolve. Chinese dragons may control rain or symbolize the emperor. Western dragons guard treasure or embody the devil. They need not share a body; their shared place is at the edge of human imagination.
+Chinese lóng (“dragon”) and English “dragon” are not the same word. The former appears as early as the oracle‑bone script and depicts an amalgamation: a serpent body, deer antlers, fish scales, and bird talons—capable of flight, diving, and size change. It is a composite of traits rather than a fixed organism.
+
+“Dragon” comes from Greek *drakon*, meaning “serpent” or “guardian.” In Greek mythology, dragons guard treasure or springs; in the Bible, the dragon becomes a metaphor for Satan. The image evolves, its orientation shifting: Western dragons increasingly resemble lizards, emphasising wings and fire.
 
 ---
 

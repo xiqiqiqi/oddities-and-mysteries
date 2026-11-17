@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与袭击时间线；不是历史画作
+  - id: S4
+    title: "Première agression de la bête du Gévaudan"
+    publisher: "FranceArchives"
+    url: "https://francearchives.gouv.fr/pages_histoire/38726"
+    year: "2023"
+    license: "Public archive; citation only"
+    usage: "1764 年 6 月第一名有记录死者、教区登记与三年袭击序列"
 cover: ../../../assets/covers/beast-of-gevaudan.jpg
 related:
   - loch-ness

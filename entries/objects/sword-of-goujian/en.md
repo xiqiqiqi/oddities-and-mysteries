@@ -1,8 +1,3 @@
----
-title: Still Sharp After 2,000 Years
-summary: In 1965, a Chu tomb in Jiangling, Hubei, yielded a bronze sword. Eight characters on the blade identify it as the personal sword of King Goujian of Yue. After more than two thousand years underground, the edge was still sharp, the pattern clear, and the guard still set with blue glass.
-lang: en
----
 
 ## 1. The tomb of 1965
 
@@ -71,6 +66,40 @@ The identity of the tomb owner is debated. What is clear is that the sword's man
 The Sword of Goujian is one of the most popular objects in the Hubei Provincial Museum.
 
 It sits in a climate-controlled case. Under the lights, the dark pattern on the blade shifts in tone. More than two thousand years later, it still looks like a weapon just drawn from its sheath.
+
+## Timeline
+
+- **1965**: In 1965, archaeologists excavated a Warring States tomb at Wangshan in Jiangling, Hubei.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S4 (an institutional source) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Researchers have tried replicating the sword.
+
+They used bronze, tin and lead to cast them according to the proportions at that time, and then made diamond-shaped dark patterns and surface treatments. The replica can be similar in appearance, but it is difficult to achieve exactly the same metal structure.
+
+The significance of the replication experiment is not to make a fake sword, but to understand the craftsmanship. Every failure illustrates what problem the craftsmen at that time solved.
+There are regular diamond-shaped dark patterns on the sword.
+
+These dark patterns are not painted on, but the patterns of the metal structure itself. The researchers observed with a microscope and found that the tin content in the dark pattern areas was higher, which was different from the surrounding golden areas. When casting, craftsmen may use different alloys and different polishing methods to form layers on the surface.
+
+This process is called "composite metal" or "surface alloying". It requires precise control of temperature, time and materials. The fact that craftsmen could do it more than two thousand years ago shows that the bronze technology at that time was very mature.
+When the sword was unearthed, it was placed in a lacquered wood sword box.
+
+The sword box has decayed, but its shape remains. The scabbard is painted, patterned and has a metal buckle. The sword is in the sheath, the sheath is in the box, and the box is in the tomb. Four layers of protection allow the sword body to avoid water and air.
+
+When the archaeological team opened the box, the sword was almost complete. There are two raised hoops on the hilt with rope wrapped around it. The sword grid is inlaid with blue glass and turquoise.
 
 ---
 

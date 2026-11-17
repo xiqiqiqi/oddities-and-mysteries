@@ -39,6 +39,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面航拍场景复原与圆圈结构示意；不是现场照片
+  - id: S4
+    title: "Evolution at the arid extreme: the influence of climate on sand termite colonies and fairy circles of the Namib Desert"
+    publisher: "Philosophical Transactions of the Royal Society B"
+    url: "https://royalsocietypublishing.org/rstb/article/378/1884/20220149/42844"
+    year: "2023"
+    license: "All rights reserved; citation only"
+    usage: "纳米布仙女环的白蚁假说、气候梯度与长期样地证据"
 cover: ../../../assets/covers/fairy-circles.jpg
 related:
   - sailing-stones

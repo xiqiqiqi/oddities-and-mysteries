@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与泥炭沼剖面示意；不是考古现场照片
+  - id: S4
+    title: "Bog Bodies – National Museum of Ireland Collections Online"
+    publisher: "National Museum of Ireland"
+    url: https://www.museum.ie/collections/nmi_story/kingship-and-sacrifice/bog-bodies/
+    year: "2026"
+    license: "博物馆藏品页；引用与事实核对"
+    usage: 爱尔兰沼泽尸体的年代、死因与藏品记录
 cover: ../../../assets/covers/bog-bodies.jpg
 related:
   - jade-burial-suit

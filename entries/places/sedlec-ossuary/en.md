@@ -1,8 +1,3 @@
----
-title: The Church Made of Bones
-summary: In Sedlec, near Kutná Hora in the Czech Republic, stands a small chapel. Beneath it are the bones of roughly 40,000 to 70,000 people. In 1870 a woodcarver arranged them into a chandelier, a coat of arms, monstrances, and garlands. It is not a cemetery but a chapel decorated with human bone.
-lang: en
----
 
 ## 1. Sedlec
 
@@ -65,6 +60,42 @@ Kutná Hora became a World Heritage Site in 1995, and the Sedlec Ossuary is part
 Large numbers of visitors come every year. The chapel limits the route, forbids touching the bones, and does not allow flash photography. The crypt is cold, and the air smells of stone and old wood.
 
 A basement built to hold the dead has become one of the strangest tourist sites in the Czech Republic.
+
+## Timeline
+
+- **1870**: In 1870, the Schwarzenberg family hired a woodcarver, František Rint, to put the bones in order.
+- **1995**: Kutná Hora became a World Heritage Site in 1995, and the Sedlec Ossuary is part of it.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S1 (Římskokatolická farnost Kutná Hora – Sedlec) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The cemetery became famous in the fourteenth century.
+
+In 1348, the Black Death reached Bohemia. There were not enough cemeteries and bodies were buried in mass graves. Later, the Hussite Wars brought more deaths.
+
+Around the church is a cemetery.
+
+The cemetery has tombstones, crosses and flowers. Some tombs are very old and some are very new.
+The Ossuary is one of the most popular attractions in the Czech Republic.
+
+Tourists come to see the bones and also to see the church. Ticket revenue is used for maintenance.
+
+Bones are not horror decoration. They are all the leftovers of many people, placed in the same room.
+
+The bones in the ossuary come from different eras and different families. They left no names, only bones. The bones are arranged as decoration and as a reminder that death is a common end.
+
+Bones were piled together without names. They only remind the living: there won’t be too many left in the end.
 
 ---
 

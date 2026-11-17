@@ -52,6 +52,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 目击时间线示意、农场街夜路场景复原；不是目击照片
+  - id: S6
+    title: "Dover Demon Revisited"
+    publisher: "Cryptomundo"
+    url: "https://cryptomundo.com/cryptozoo-news/dd-rev11/"
+    year: "2011"
+    license: "All rights reserved; citation only"
+    usage: "1977 年 4 月目击、现场采访与后来《波士顿环球报》的回顾"
 cover: ../../../assets/covers/dover-demon.jpg
 related:
   - mothman

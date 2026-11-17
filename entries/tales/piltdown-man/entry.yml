@@ -39,6 +39,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与伪造手法示意；不是历史照片
+  - id: S4
+    title: "British Museum (Natural History): Department of Palaeontology: Piltdown Man: Records"
+    publisher: "The National Archives (UK)"
+    url: "https://discovery.nationalarchives.gov.uk/details/r/be8a8446-e786-47c9-b941-d68ada893240"
+    year: "2026"
+    license: "Open Government Licence; citation only"
+    usage: "1912–1983 年 Piltdown 档案、标本记录与 1953 年揭穿后的调查材料"
 cover: ../../../assets/covers/piltdown-man.jpg
 related:
   - crystal-skulls

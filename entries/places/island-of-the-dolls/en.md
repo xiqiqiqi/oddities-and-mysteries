@@ -1,8 +1,3 @@
----
-title: The Dolls in the Trees
-summary: In the canals of Xochimilco, south of Mexico City, there is a small island covered with broken dolls. Its keeper, Julián Santana Barrera, said he was appeasing the spirit of a drowned girl. In 2001 he was found drowned in the canal beside the island.
-lang: en
----
 
 ## 1. The canals
 
@@ -69,6 +64,54 @@ The dolls are real. There are hundreds of them, hanging in the trees, faded and 
 Was the girl real? There is no record, no name, no body report. No second person can confirm Santana's account.
 
 A man lived alone on a small island for fifty years, collected hundreds of dolls, and died in the same water. That is enough by itself. The ghost story grew afterwards.
+
+## Timeline
+
+- **1987**: It was once an Aztec farming district. People piled earth in the shallow water to make narrow artificial islands called chinampas. They grew vegetables and flowers
+- **2001**: On 17 April 2001, Santana's nephew came to look for him and found him drowned in the canal near the island.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Atlas Obscura) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The story of Island of the Dolls is about loneliness and remembrance.
+
+A man lives on an island and fills trees with dolls. He had no idea the dolls would be turned into attractions or that they would be made into horror films.
+
+The doll is not a ghost. They're just plastic and cloth, stained by time.
+Island of the Dolls is a tourist spot.
+
+Tourists come by boat, take photos and buy souvenirs. There are no toilets or restaurants on the island, just dolls.
+
+The Island of the Dolls became a tourist attraction.
+
+Tourists come by boat, take photos and buy souvenirs. There are no inhabitants on the island, only dolls.
+The doll is still in the tree and the canal is still flowing. The men on the island are gone, but the story remains.
+
+On the Island of Dolls, some dolls have no heads. Legend has it that it was damaged by tourists or a storm.
+
+The dolls on the island were first placed by local fishermen. Later, tourists also brought dolls. No one has counted the number of dolls. Some say there are thousands.
+Dolls hang from trees, walls and boats.
+
+They were soaked by rain and dried by the sun, their hair fell off and their eyes turned white. Some dolls are missing arms and legs, and some have only one head. They look less like toys and more like remains.
+
+The dolls on the island are no longer just toys.
+
+They are damaged by rain, sun and birds. Some have lost their hair, some have lost their eyes. They look human, but not human.
+
+The doll on the island was hung by Julian.
+
+Why he died, no one knows. Some say commemoration, some say exorcism, some say just loneliness.
 
 ---
 

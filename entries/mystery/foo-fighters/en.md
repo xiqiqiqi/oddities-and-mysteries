@@ -1,8 +1,3 @@
----
-title: The Lights That Followed the Fighters
-summary: In the winter of 1944, Allied night pilots over Europe reported a strange kind of light — small orange or red balls that flew alongside their aircraft, did not attack, and could not be shaken off. The pilots called them “foo fighters.” After the war, no such weapon was found, and no single explanation covered every report.
-lang: en
----
 
 ## 1. A winter night in 1944
 
@@ -61,6 +56,35 @@ Each explanation covers some reports. None covers all of them. That is why foo f
 The name “Foo Fighters” was later adopted by an American rock band. Dave Grohl has said the name came from the strange lights seen by Second World War pilots.
 
 For a wartime nickname, that is an odd afterlife: it once described a group of unsettling lights, and now more people hear it and think of a song.
+
+## Timeline
+
+- **1944**: In November 1944, night operations over Europe were intense. Allied night fighters took off from airfields i...
+
+## Sources and evidence
+
+This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+Foo-fighter reports are preserved mainly in wartime unit histories, pilot interviews, and postwar aviation-medicine studies; the files rarely include instrument data, which is why the phenomenon remains a category rather than a single object.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+After the war, many pilots stopped talking about the lights. Some people think that if they say it, they will be regarded as nervous, some think that it is the enemy's secret weapon, and some just regard it as part of the night shift. It wasn’t until the rise of UFO culture that these old reports were resurfaced. The same report will turn into different stories in different eras.
+"Foo Fighter" was important because it took "UFOs" from folklore to military reporting.
+
+Pilots are trained observers. Their reports carry more weight than ordinary eyewitness accounts. But military reporting also has its limitations: wartime tensions, information blockades, and reporters’ desire to be taken seriously.
+
+After the war, these reports were collected by UFO researchers and became the basis for the theory that the government knew about aliens. There is no such conclusion in the original document. They simply said: The pilot saw an unidentifiable light.
 
 ---
 

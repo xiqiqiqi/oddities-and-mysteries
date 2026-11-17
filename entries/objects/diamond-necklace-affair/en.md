@@ -1,8 +1,3 @@
----
-title: The Queen's Necklace
-summary: In 1785, Paris jewellers made a diamond necklace worth two million livres and tried to sell it to Queen Marie Antoinette. She did not buy it. A woman claiming to be the Queen's friend used a forged letter to convince a cardinal that the Queen wanted the necklace. The cardinal bought it and handed it to the woman's associate. The necklace was broken up and sold in London.
-lang: en
----
 
 ## 1. A necklace
 
@@ -65,6 +60,40 @@ It became a symbol of corruption at court. People believed that the Queen could 
 Three years later, the French Revolution began. Marie Antoinette was sent to the guillotine in 1793.
 
 The necklace was never seen intact again. Its diamonds were scattered across crowns and jewellery in Europe, leaving only a story of greed, credulity, and court politics.
+
+## Timeline
+
+- **1774**: It held more than six hundred diamonds
+- **1784**: In August 1784, in the gardens of Versailles, the Cardinal met a “Queen” at midnight. She wore a hat and a s...
+- **1786**: The King ordered an investigation. The Cardinal was arrested
+- **1793**: Three years later, the French Revolution began. Marie Antoinette was sent to the guillotine in 1793.
+
+## Sources and evidence
+
+The factual base of this entry rests on 2 independent source(s). S1 (History Today) covers the relevant institutional record.
+S2 (World History Encyclopedia) provides cross-checks on related records.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The story of this necklace is a case about "belief".
+
+No one has actually seen the Queen buy a necklace, but many believe she would. The scam exploited not greed but people's imagination of the court.
+
+The necklace disappears, but the story remains. It reminds people: A rumor does not need evidence as long as it conforms to people's impression of a person.
+This necklace became one of the triggers of the French Revolution.
+
+Not because of how much it was worth, but because it led people to believe that the palace was engaged in secret dealings, squandering, and deception. A scam, more dangerous than a necklace.
+Marie Antoinette did not buy that necklace.
+
+But the public didn't believe her. She is already known for her luxury, and the story of the necklace fits people's impression. A transaction that didn't happen became evidence of her "squandering".
 
 ---
 

@@ -1,8 +1,3 @@
----
-title: The Sound That Slowed Down
-summary: In 1997, NOAA hydrophones recorded a sound lasting about seven minutes. Its frequency fell steadily, as if something were sinking slowly into the deep. It was called Slow Down. Like Bloop, it was later identified as an icequake, not a deep-sea creature.
-lang: en
----
 
 ## 1. Seven minutes
 
@@ -67,6 +62,38 @@ On a spectrogram, it is a clean downhill line. You do not need to hear it to see
 A smooth descent looks more like a physical process: a bubble contracting, a piece of ice cracking, or a body of water changing shape. Animal calls rarely slide downward so neatly.
 
 Sounds have shapes. We usually listen with our ears, not our eyes.
+
+## Timeline
+
+- **1997**: In 1997, hydrophones deployed by NOAA in the equatorial Pacific recorded a very long sound.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (NOAA Pacific Marine Environmental Laboratory) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The most reliable explanation still points to ice earthquakes or cetaceans.
+
+Icebergs in the South Pacific break off, and the sound produced when they break can travel great distances. Large cetaceans also emit low-frequency calls, some of which change slowly in frequency. Both can leave sloping lines on the spectrogram.
+
+But "the most reliable" does not mean "proven". Without video, without satellite imagery from the same time, without triangulation from a second independent array, the researchers could only rank the possibilities.
+Slow Down's seven minutes is just enough time for one person to sit down and listen to it. It's not as brief as an explosion, nor as repetitive as a whale song. It's a continuously changing line that sounds like something is slowly moving away. People will understand this change as action, and action as life. This is the instinct of hearing and the beginning of the story.
+
+This recording did not appear a second time. It's like a half-written line parked in a 1997 database, waiting for a confirmation that won't come.
+The name "Slow Down" is remembered earlier than the data.
+
+A name changes the listener's expectations. If it were called "South Pacific Low Frequency Event 1997-3," few people would click on it; if it were called "Slow Down," people would imagine something huge slowing down on the ocean floor.
+
+This is the second layer of sound transmission: first there is an unexplainable signal, then there is a nice name, and finally there is a story that is much bigger than the signal.
 
 ---
 

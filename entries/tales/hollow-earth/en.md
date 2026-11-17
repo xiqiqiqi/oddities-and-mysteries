@@ -1,8 +1,3 @@
----
-title: Inside the Earth
-summary: In 1692 Halley proposed that the Earth was made of concentric shells. In 1818 Symmes asked the government to send a ship to the North Pole to find the entrance. In the nineteenth century Teed argued that we live on the inside of the sphere. Seismic waves, gravity and satellites say otherwise. The idea never quite disappeared.
-lang: en
----
 
 ## 1. Halley
 
@@ -67,6 +62,41 @@ Halley, Symmes and Teed were not frauds. They drew wrong conclusions from the ev
 ![Concentric shells, polar openings and the scientific rebuttal](../../../assets/inline/hollow-earth.svg)
 
 *Original schematic: Halley's concentric shells, Symmes's polar openings, Teed's concave Earth and the seismic evidence. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1692**: In 1692 the English astronomer Edmond Halley presented a paper to the Royal Society.
+- **1818**: In 1818 the American John Cleves Symmes Jr. offered a more specific version.
+- **1829**: Symmes lectured, wrote to congressmen, and even got Congress to debate the idea. He never got his expedition...
+- **1869**: In 1869 the American physician Cyrus Teed said he had received a revelation.
+- **1897**: Teed founded a religious community in New York
+- **1957**: In 1957 satellites began photographing the Earth from orbit. There are no openings at the poles.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Encyclopaedia Britannica) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The earth is not hollow.
+
+Seismic waves, gravity, and magnetic fields all prove that the earth is solid.
+
+Hollow Earth, inconsistent with physics.
+
+If the Earth were hollow, seismic waves would change speed and gravity would be different.
+
+Seismic waves, gravity, and magnetic fields all prove that the earth is solid.
+
+Hollow Earth, inconsistent with physics.
 
 ---
 

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-17T02:39:37.967Z",
-  "entries": 151,
+  "generatedAt": "2026-11-17T08:18:46.101Z",
+  "entries": 163,
   "channels": {
-    "creatures": 30,
-    "mystery": 31,
-    "objects": 30,
-    "places": 30,
-    "tales": 30
+    "creatures": 31,
+    "mystery": 32,
+    "objects": 33,
+    "places": 35,
+    "tales": 32
   },
-  "imageAuditRows": 442,
-  "imageAuditVerified": 442,
+  "imageAuditRows": 478,
+  "imageAuditVerified": 478,
   "errors": [],
   "warnings": []
 }

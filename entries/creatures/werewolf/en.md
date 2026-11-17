@@ -1,8 +1,3 @@
----
-title: The Man in the Wolf Skin
-summary: In 1589 a farmer in Bedburg, Germany, was accused of being a werewolf. Under torture he confessed to a belt given by the devil that turned him into a wolf, and to killing people and livestock. On 31 October he was executed. His case is the most famous of the European werewolf trials.
-lang: en
----
 
 ## 1. Wolves
 
@@ -77,6 +72,34 @@ There was no werewolf in Bedburg in 1589. There was a farmer tortured into a con
 ![The Bedburg trial, the elements of the legend, and the medical explanations](../../../assets/inline/werewolf.svg)
 
 *Original schematic: the timeline of the 1589 Bedburg trial, the elements of the werewolf legend and the medical explanations. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1589**: Peter Stumpp was a wealthy farmer with land and a family. In 1589 he was arrested on charges of witchcraft
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (University of Saskatchewan Undergraduate Research Journal) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The story of the werewolf continues today, but the stage has changed. It moved from village courts to movies, games and novels. The new werewolves are no longer judged, but explained: genes, curses, the moon, love. The more explanations, the weaker the original fear becomes, but the "man turns into a wolf" moment is still valid.
+
+Numerous werewolf trials were recorded in French and Swiss courts during the 16th century. The defendant admitted his transformation under torture and revealed his accomplices. Historians believe that these trials were related to religious conflicts and land disputes at the time. The image of a werewolf was later changed to a full moon transformation in the movie. Medieval legends do not have this rule.
+
+The peak of werewolf trials was in the 16th century. In France's Besançon region, dozens of people have been charged over several years. Records show that judgment often coincided with bad harvests and plagues. The defendant's confession was obtained under torture.
+
+The trial records were later uncovered by historians. They became the basis for research on witch hunts. It also became a prop in the movie.
+
+Werewolf movies have been around since the silent era. The werewolf on screen is simpler than in legend. The werewolf in the movie can transform. The legendary werewolf would have it.
 
 ---
 

@@ -39,6 +39,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与两段目击时间线；不是历史照片
+  - id: S4
+    title: "Phoenix Lights Revisited"
+    publisher: "NICAP"
+    url: "https://www.nicap.org/articles/PhoenixLights_MUJ_Feb1999.pdf"
+    year: "1999"
+    license: "All rights reserved; citation only"
+    usage: "1997 年 3 月 13 日目击、军方照明弹解释与目击者访谈"
 cover: ../../../assets/covers/phoenix-lights.jpg
 related:
   - washington-merry-go-round

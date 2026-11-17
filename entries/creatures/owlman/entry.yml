@@ -45,6 +45,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 1976–2013 时间线示意、教堂墓地暮色场景复原；不是目击照片
+  - id: S5
+    title: "Owlman: Did a Mysterious Creature Really Haunt the Cornish Town of Mawnan?"
+    publisher: "Curious Archive"
+    url: "https://curiousarchive.com/owlman-mawnan-cornwall"
+    year: "2021"
+    license: "All rights reserved; citation only"
+    usage: "1976 年 Mawnan 教堂目击、女孩素描与 Tony Shiels 的传播角色"
 cover: ../../../assets/covers/owlman.jpg
 related:
   - mothman

@@ -1,8 +1,3 @@
----
-title: The Mask with Bulging Eyes
-summary: In 1986, a bronze mask came out of a sacrificial pit at Sanxingdui in Guanghan, Sichuan. It is 66 centimetres high and 138 centimetres wide. Its eyes are like two cylinders projecting 16 centimetres forward, and its ears are as large as wings. It is called the “mask with protruding eyes”, and some people say it looks alien. It is not alien; it is a god or ancestor imagined by the ancient Shu people.
-lang: en
----
 
 ## 1. The pit of 1986
 
@@ -65,6 +60,42 @@ The mask is in the Sanxingdui Museum.
 It is one of the most famous objects from the site and the source of the “alien” stories. Standing in front of it, visitors feel that it is looking at them: two cylindrical eyes passing through the crowd and staring into the distance.
 
 It is not an alien. It is a god imagined by people three thousand years ago.
+
+## Timeline
+
+- **1986**: 1986, Guanghan, Sichuan, Sanxingdui.
+- **1131**: Recent dating places the burial of the pits between 1131 and 1012 BCE, in the late Shang period.
+
+## Sources and evidence
+
+The factual base of this entry rests on 2 independent source(s). S1 (an institutional source) covers the relevant institutional record.
+S2 (a second institutional source) provides cross-checks on related records.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+After the bronze masks are unearthed, they will oxidize and corrode.
+
+Conservation personnel should control the humidity, remove soil and salt from the surface, and treat it with corrosion inhibitors. The gold mask is more fragile, the gold foil is easy to fall off, and cannot be touched casually.
+
+The protection of cultural relics in Sanxingdui uses many modern technologies: three-dimensional scanning, X-rays, microscopes, and environmental monitoring. Archeology is not only excavation, but also preservation.
+There were large quantities of ivory in the sacrificial pits.
+
+Ivory is not a common local material. The ivory in Sanxingdui may have come from Yunnan, Myanmar or further afield. Transporting ivory requires routes, manpower and supplies.
+
+The existence of ivory shows that the ancient Shu Kingdom was not closed. It has trade, exchanges, and resource networks with the outside world.
+Similar masks were unearthed from the Jinsha site in Chengdu.
+
+Jinsha's mask is smaller and the eyes are not as protruding, but the style is similar. The two sites are not far apart and overlap in age. They may belong to the same cultural tradition, or they may have a sequential relationship.
+
+Gold masks, sun bird gold ornaments and jade articles were also unearthed in Jinsha. These objects show that the ancient Shu civilization was not isolated. It had its own technology, beliefs and trade networks.
 
 ---
 

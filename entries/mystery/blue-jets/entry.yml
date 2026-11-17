@@ -39,6 +39,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与大气分层示意；不是现场照片
+  - id: S4
+    title: "The Role of the Space Shuttle Videotapes in the Discovery of Sprites, Jets, and ELVES"
+    publisher: "NASA Earthdata"
+    url: https://www.earthdata.nasa.gov/learn/data-in-action/role-space-shuttle-videotapes-discovery-sprites-jets-elves
+    year: "2025"
+    license: "NASA 公开资料；引用与事实核对"
+    usage: 蓝色喷流的命名、观测与发现史
 cover: ../../../assets/covers/blue-jets.jpg
 related:
   - ball-lightning

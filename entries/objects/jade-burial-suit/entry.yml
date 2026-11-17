@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与玉衣结构示意；不是文物照片
+  - id: S4
+    title: "汉世雄风——纪念满城汉墓考古发掘50周年特展：金缕玉衣"
+    publisher: "中国国家博物馆"
+    url: https://www.chnmuseum.cn/Portals/0/web/exhibition/exhibitions/201812han/43.html
+    year: "2018"
+    license: "博物馆展览页；引用与事实核对"
+    usage: 满城汉墓金缕玉衣的形制、玉片与金丝数据
 cover: ../../../assets/covers/jade-burial-suit.jpg
 related:
   - sword-of-goujian

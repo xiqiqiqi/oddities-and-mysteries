@@ -39,6 +39,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与树干弯曲形态示意；不是现场照片
+  - id: S4
+    title: "Kuršių Nerija (Curonian Spit) National Park"
+    publisher: "State Service for Protected Areas, Lithuania"
+    url: "https://saugoma.lt/en/territories/kursiu-nerija-curonian-spit-national-park"
+    year: "2026"
+    license: "© Lithuanian government; citation only"
+    usage: "库尔斯沙嘴国家公园的保护范围与管理背景；舞动森林位于该保护区内"
 cover: ../../../assets/covers/dancing-forest.jpg
 related:
   - fairy-circles

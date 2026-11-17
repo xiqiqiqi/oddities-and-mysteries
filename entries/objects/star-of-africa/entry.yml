@@ -52,6 +52,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面切割作坊场景复原、切割方案与权杖示意；不是历史照片
+  - id: S6
+    title: "The Cullinan Diamond"
+    publisher: "Royal Collection Trust"
+    url: https://www.rct.uk/collection/stories/the-crown-jewels/the-cullinan-diamond
+    year: "2026"
+    license: "皇家收藏基金会页面；引用与事实核对"
+    usage: 库里南钻石的发现、切磨与库里南一号
 cover: ../../../assets/covers/star-of-africa.jpg
 related:
   - hope-diamond

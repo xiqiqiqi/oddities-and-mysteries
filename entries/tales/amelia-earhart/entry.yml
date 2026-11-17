@@ -1,0 +1,47 @@
+type: "story"
+title_zh: "埃尔哈特：最后一段没有降落的航线"
+title_en: "Amelia Earhart: The Last Leg That Never Landed"
+era: "1937 年 7 月 2 日"
+era_en: "2 July 1937"
+region: "太平洋，莱城至豪兰岛航线"
+region_en: "Pacific Ocean, Lae to Howland Island"
+coords: [0.8, 176.6]
+tags: ["埃尔哈特", "航空", "太平洋", "失踪", "1937"]
+collections: []
+credibility: "verified"
+related: ["mh370", "carroll-a-deering"]
+channel: "tales"
+slug: "amelia-earhart"
+status: "published"
+featured: false
+translation_status: "native_reviewed"
+editorial_status: "ai_final_reviewed"
+fact_ledger: "research/fact-ledgers/tales/amelia-earhart.md"
+image_license_audit: "research/image-audit.csv"
+reviewed_by: "XIQIQI AI Editorial"
+reviewed_at: "2026-11-17"
+review_method: "AI editorial review (no human reviewer)"
+review_scope: "zh/en text, fact ledger, image licenses, technical gate"
+sources:
+  - id: S1
+    title: "Amelia Earhart"
+    publisher: "Smithsonian National Air and Space Museum"
+    url: "https://airandspace.si.edu/"
+    year: "2026"
+    license: "© Smithsonian Institution; citation only"
+    usage: "飞行生涯、Electra 飞机与失踪背景"
+  - id: S2
+    title: "Amelia Earhart Collection"
+    publisher: "Purdue University"
+    url: "https://www.purdue.edu/amelia-earhart/"
+    year: "2026"
+    license: "© Purdue University; citation only"
+    usage: "飞行计划、通信、档案与搜索记录"
+  - id: S3
+    title: "场景复原插图与原创示意图"
+    publisher: "稀奇奇编辑部（AI 辅助生成）"
+    url: "https://xiqiqi.com/"
+    year: "2026"
+    license: "CC BY-SA 4.0；不含第三方版权素材"
+    usage: "封面与两张原创示意图；不是历史照片或测绘图"
+cover: ../../../assets/covers/amelia-earhart.jpg

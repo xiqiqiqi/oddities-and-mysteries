@@ -1,8 +1,3 @@
----
-title: The Temple in the Jungle
-summary: Outside Siem Reap in Cambodia stands a stone temple city ringed by a moat. It was built in the twelfth century, its five towers represent the mythical Mount Meru, and its walls are covered with reliefs. The capital was later abandoned, but the temple remained, with monks and local people living nearby. In the nineteenth century a French visitor carried its name back to Europe, and it became a symbol of the city “discovered” in the jungle.
-lang: en
----
 
 ## 1. Towers inside a moat
 
@@ -65,6 +60,49 @@ Today it appears on the Cambodian flag and in countless tourist photographs. Eve
 The stone is weathering, the trees are growing, and the visitors keep coming. Conservation teams are always at work; some towers are wrapped in scaffolding, and some reliefs have been replaced with copies.
 
 A temple built for gods and kings has become the symbol of a nation.
+
+## Timeline
+
+- **1113**: Angkor Wat was built in the twelfth century, roughly between 1113 and 1150.
+- **2015**: In 2015, LiDAR scanning revealed more streets, ponds, and buildings beneath the jungle. Angkor was far large...
+- **1992**: In 1992, Angkor Wat became a World Heritage Site.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (APSARA National Authority (Cambodia)) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Angkor is the tourist center of Cambodia.
+
+Tourists come to see the sunrise, reliefs and towers. Tourism revenue is used for conservation.
+
+Angkor is the tourist center of Cambodia.
+
+Tourists come to see the sunrise, reliefs and towers. Tourism revenue is used for conservation.
+
+A temple, a city, a forest.
+Angkor Wat is a UNESCO World Heritage Site.
+
+It has been restored, strengthened, and some areas are restricted to visitors. The reliefs were copied, recorded, and protected from weathering.
+
+A temple, a moat, a city. Angkor is not a miracle, it is the labor of many people.
+There are long reliefs on the walls of the cloister.
+
+The reliefs tell the story of Hindu mythology: the churning of the sea of ​​milk, the battle between gods and demons, and the incarnation of Vishnu. There are also the king's armies, markets and daily life. They are not decorations but a combination of words and images.
+Researchers used LiDAR to scan Angkor's forests.
+
+They discover hidden roads, canals and buildings. Angkor is much bigger than on the map.
+
+A temple, a city, a forest. The story of Angkor is still being discovered.
 
 ---
 

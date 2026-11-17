@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与事件地点、记载对照示意；不是历史画作
+  - id: S4
+    title: "The Black Dog of Bungay: Religious Conflict and Supernatural Terror in a Suffolk Parish"
+    publisher: "Journal of Religious History / Wiley"
+    url: "https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9809.13099"
+    year: "2024"
+    license: "All rights reserved; citation only"
+    usage: "1577 年 Bungay 教区记录、宗教冲突与黑狗叙事的史料批判"
 cover: ../../../assets/covers/black-shuck.jpg
 related:
   - mothman

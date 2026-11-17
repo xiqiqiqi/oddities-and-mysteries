@@ -52,6 +52,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面神宫夜景复原、神话时间线与剑的封存示意；不是文物照片
+  - id: S6
+    title: "Atsuta-jingu Shrine"
+    publisher: "Japan National Tourism Organization"
+    url: "https://www.japan.travel/en/spot/1231/"
+    year: "2026"
+    license: "© JNTO; citation only"
+    usage: "草薙剑在热田神宫的供奉位置、非公开展示状态与神社历史"
 cover: ../../../assets/covers/kusanagi.jpg
 related:
   - sword-of-goujian

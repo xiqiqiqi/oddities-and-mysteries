@@ -1,8 +1,3 @@
----
-title: The Day Beijing Shook
-summary: On May 30, 1626, the Wanggongchang gunpowder depot in Beijing exploded, killing thousands. The official explanation was a gunpowder accident, but accounts of clothes blown off, trees uprooted, and a strange cloud kept the disaster in the archive of the inexplicable.
-lang: en
----
 
 ## 1. The sixth day of the fifth month
 
@@ -67,6 +62,25 @@ Wanggongchang often appears on lists of “UFO explosions” or “alien inciden
 It is not a completely unsolved mystery either. There was a powder depot, an official investigation, and a large documentary record. The core facts are clear: an explosion in a powder depot inside Beijing caused enormous loss of life.
 
 What unsettles people are the details in the records: the clothes, the trees, the stone lions, the strange cloud. They are like footnotes that refuse to stay in order. Even when the cause is broadly known, a disaster always leaves something that will not fit neatly into the file.
+
+## Timeline
+
+- **1626**: May 30, 1626. The sixth day of the fifth lunar month, in the sixth year of the Tianqi reign. Around nine in ...
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S3 (an institutional source) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The Wanggongchang disaster is documented mainly through Ming official memorials, local gazetteers, private notes, and later studies of seismology and gunpowder. The explosion of 30 May 1626 caused wide destruction, but 'nuclear blast' and 'meteor' claims are mostly twentieth-century additions. The original records differ on sound, fire, collapse direction, and casualties; official memorials also had relief and accountability contexts. This entry separates 'a disaster happened' from 'whether gunpowder, an earthquake, or something else caused it'.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
 
 ---
 

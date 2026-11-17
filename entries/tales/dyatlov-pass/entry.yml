@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与事件地点示意；不是历史照片
+  - id: S4
+    title: "Prosecution agencies rule out authorities’ involvement in 1959 Dyatlov Pass incident"
+    publisher: "TASS"
+    url: "https://tass.com/society/1043155"
+    year: "2019"
+    license: "© TASS; citation only"
+    usage: "2019 年俄罗斯检察院复查、75 种版本与雪崩/飓风假说"
 cover: ../../../assets/covers/dyatlov-pass.jpg
 related:
   - mary-celeste

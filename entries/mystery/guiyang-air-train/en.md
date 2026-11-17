@@ -1,8 +1,3 @@
----
-title: The Thing That Roared Over Guiyang
-summary: On 30 November 1994 a thunderstorm destroyed four hundred mu of pine forest at Duxi Farm north of Guiyang. The trees were snapped in half and laid out in several separate bands, while a nearby plastic greenhouse was untouched. Witnesses said a “strange vehicle” crossed the sky with fire and a roar. Investigators explained it as a downburst or a landspout.
-lang: en
----
 
 ## 1. Three in the morning
 
@@ -77,6 +72,31 @@ A thunderstorm, a downburst, a forest broken in half, and lights and noise in th
 ![The damage bands, the factory and the downburst](../../../assets/inline/guiyang.svg)
 
 *Original schematic: the damage bands at Duxi, the location of the factory and the wind of a downburst. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1994**: On 30 November 1994, a little after three in the morning.
+
+## Sources and evidence
+
+The factual base of this entry rests on 2 independent source(s). S1 (an institutional source) covers the relevant institutional record.
+S2 (a second institutional source) provides cross-checks on related records.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Post-disaster surveys left behind a lot of data.
+
+The direction in which the tree fell, the height of the break, and the width of the damage zone were all measured. Damage to factories and greenhouses was also recorded. The data support the "strong wind" explanation but not the "aircraft" explanation.
+
+But the data can't explain all sightings. Some people said they saw a "carriage-like thing", and some people said they saw a fireball. Thunderstorms at night, blown debris, and distant lights may all be regarded as "strange cars."
 
 ---
 

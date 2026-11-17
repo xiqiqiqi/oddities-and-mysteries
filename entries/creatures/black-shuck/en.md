@@ -1,8 +1,3 @@
----
-title: The Black Dog in the Church
-summary: On 4 August 1577, a storm broke over Bungay in Suffolk. According to the legend, a huge black dog burst into the church, knocked people down, left two dead, and vanished. That afternoon, twelve miles away, the dog appeared in another church and left scorch marks on the north door.
-lang: en
----
 
 ## 1. The storm of 1577
 
@@ -35,6 +30,38 @@ The most common explanation is lightning. The storm was severe, and the church m
 ## 6. Now
 
 The north door of Holy Trinity, Blythburgh, is still there. The scorch marks are still visible, and the church is a local landmark. A notice inside tells the story of the black dog of 1577. St Mary’s in Bungay is still standing too, and visitors can go inside. A dog ran through a church in less than a minute. People have told the story for more than four hundred years.
+
+## Timeline
+
+- **1577**: 4 August 1577 was a Sunday. In the town of Bungay
+
+## Sources and evidence
+
+This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The Black Shuck material is scattered across parish registers, local newspapers, and later folklore columns; no single archive holds a complete run, and the same story often appears in several counties under different names.
+
+## Limits of the record
+
+Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The choice of a church is deliberate.
+
+In 16th‑century England, the church was the village’s most robust, communal structure. Lightning striking a church was interpreted as a divine warning. A black dog breaching a sanctuary carried more symbolic weight than entering a barn—it crossed the very threshold of safety.
+
+Fleming’s pamphlet served a theological need. Amid the Reformation’s turmoil, Catholic rites were being abolished and Protestant clergy sought to prove that God condemns irreverence. A blustery tragedy, two deaths, and a black dog together formed an ethical parable.
+
+The legend persisted beyond the aftermath of the storm, drifting into taverns, postcards, and local ghost‑story itineraries. A dog, frightened by thunder, became one of East Anglia’s enduring myths.
+
+Today, Bongas’s church remains open. Visitors can walk through the north door and see the charred wood. Guides may say it was left by the black dog; others claim the lightning. Either way, the same timber tells both tales.
 
 ---
 

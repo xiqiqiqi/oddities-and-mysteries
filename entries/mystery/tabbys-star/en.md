@@ -1,8 +1,3 @@
----
-title: The Star That Kept Dimming
-summary: In 2015, amateur astronomers found something odd in the public data from the Kepler space telescope. A star was dimming at irregular intervals, sometimes by more than twenty percent. Someone suggested an alien megastructure, and the media ran with it. Later observations pointed to dust — though where the dust comes from is still not fully settled.
-lang: en
----
 
 ## 1. The people reading the data
 
@@ -61,6 +56,35 @@ Tabby's Star is still monitored by ground-based telescopes. Its dimming is not a
 The case leaves a clear set of layers: the dimming is real and the data is public; the “alien megastructure” was an early hypothesis, not a conclusion; dust is currently the strongest explanation, but its exact source is still being studied.
 
 A single star's light has kept this many people looking up for this long. That is rare in itself.
+
+## Timeline
+
+- **2009**: In 2009, the Kepler space telescope went into orbit. It stared at a patch of sky in Cygnus and measured the ...
+- **2015**: In 2015, a team led by Tabetha Boyajian published a paper describing a star catalogued as KIC 8462852. Its b...
+- **2011**: It would fade over several days
+- **2017**: After 2017, ground-based telescopes observed several new dimming events at multiple wavelengths. The results...
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Boyajian et al.) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Tabby's Star is an archive of the "Unsolved Science" category. It has a real observational object, a real set of data, and an explanation that has yet to be determined. It reminds people that scientific uncertainty is not a blank, but a structured uncertainty: we know which explanations have been ruled out and which are still candidates.
+The story of Tabby Star has also become a case of science communication. A paper, a press conference, and a few online videos can turn a distant star into a candidate for an "alien civilization." Later observations did not confirm this hypothesis, but the public memory remained. Science takes time, stories don’t.
+Later studies favored dust.
+
+Dust clouds can move around stars and have irregular shapes, causing irregular brightness changes when blocking starlight. The particle size, distribution and motion of the dust can explain why some bands are much darker and some are much darker.
+
+But where does the dust come from? It could be the disintegration of a comet, it could be a planetary collision, it could be material thrown off by the star itself. Each explanation requires more observations.
 
 ---
 

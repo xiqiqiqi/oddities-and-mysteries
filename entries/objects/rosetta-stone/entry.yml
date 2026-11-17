@@ -1,0 +1,47 @@
+type: "object"
+title_zh: "罗塞塔石碑：三种文字与一把钥匙"
+title_en: "The Rosetta Stone: Three Scripts and a Key"
+era: "公元前 196 年"
+era_en: "196 BCE"
+region: "埃及，尼罗河三角洲，拉希德（罗塞塔）"
+region_en: "Rashid (Rosetta), Nile Delta, Egypt"
+coords: [31.404, 30.416]
+tags: ["罗塞塔石碑", "埃及学", "象形文字", "大英博物馆", "翻译"]
+collections: []
+credibility: "verified"
+related: ["dead-sea-scrolls", "voynich-manuscript"]
+channel: "objects"
+slug: "rosetta-stone"
+status: "published"
+featured: false
+translation_status: "native_reviewed"
+editorial_status: "ai_final_reviewed"
+fact_ledger: "research/fact-ledgers/objects/rosetta-stone.md"
+image_license_audit: "research/image-audit.csv"
+reviewed_by: "XIQIQI AI Editorial"
+reviewed_at: "2026-11-17"
+review_method: "AI editorial review (no human reviewer)"
+review_scope: "zh/en text, fact ledger, image licenses, technical gate"
+sources:
+  - id: S1
+    title: "The Rosetta Stone"
+    publisher: "The British Museum"
+    url: "https://www.britishmuseum.org/collection/object/Y_EA24"
+    year: "2026"
+    license: "© The Trustees of the British Museum; citation only"
+    usage: "原件收藏、尺寸、铭文与展示记录"
+  - id: S2
+    title: "The Rosetta Stone"
+    publisher: "Napoleon.org"
+    url: "https://www.napoleon.org/en/history-of-the-two-empires/articles/the-rosetta-stone/"
+    year: "2026"
+    license: "© Fondation Napoléon; citation only"
+    usage: "1799 年发现、1801 年转移与早期释读背景"
+  - id: S3
+    title: "场景复原插图与原创示意图"
+    publisher: "稀奇奇编辑部（AI 辅助生成）"
+    url: "https://xiqiqi.com/"
+    year: "2026"
+    license: "CC BY-SA 4.0；不含第三方版权素材"
+    usage: "封面与两张原创示意图；不是历史照片或测绘图"
+cover: ../../../assets/covers/rosetta-stone.jpg

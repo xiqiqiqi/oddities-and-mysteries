@@ -1,8 +1,3 @@
----
-title: The Hotel on Main Street
-summary: In 1924 a fourteen-storey marble hotel opened in downtown Los Angeles. It declined into cheap rooms. The Black Dahlia was last seen here, the Night Stalker stayed here, and Elisa Lam died in a rooftop water tank. In 2021 it became housing for homeless residents.
-lang: en
----
 
 ## 1. 1924
 
@@ -65,6 +60,52 @@ The Black Dahlia, the Night Stalker and Elisa Lam are all genuinely connected to
 ![The timeline, location and events of the Cecil Hotel](../../../assets/inline/cecil-hotel.svg)
 
 *Original schematic: the 1924–2021 timeline, the Main Street location and the associated cases. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1924**: December 1924, Main Street, downtown Los Angeles. The Cecil Hotel opened.
+- **1947**: On 9 January 1947 Elizabeth Short — later known as the Black Dahlia — was seen near the Cecil Hotel on Main Street. Some accounts say she went into the hotel bar and drank with a man.
+- **1964**: In 1964 a retired telephone operator named Goldie Osgood was killed in her room at the hotel. She was known for feeding pigeons. That case was never solved either.
+- **1985**: In 1985 Richard Ramirez — the "Night Stalker" — stayed at the Cecil while he was killing across Los Angeles. He reportedly stayed on the fourteenth floor and returned to the hotel after his crimes
+- **1991**: In 1991 the Austrian journalist and murderer Jack Unterweger stayed at the Cecil. He was in Los Angeles researching a story while committing murders. He was later convicted of killing nine women.
+- **2013**: On 26 January 2013 Elisa Lam, a 21-year-old Canadian student, checked into the Cecil — then called Stay on M...
+- **2011**: In 2011 the hotel was renamed Stay on Main. Renovation began in 2017 and stopped during the pandemic in 2020.
+- **2021**: On 13 December 2021 the Cecil reopened
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Los Angeles Times) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+In 2021, the hotel closed and was later converted into apartments.
+
+It no longer accepts tourists and is no longer a "haunted house" attraction. The new owners plan to convert the rooms into residences while retaining some of the historic elements.
+
+A hotel turned into a residence. People who live in it may or may not know its story.
+The Cecil Hotel is on the edge of Old Town Los Angeles.
+
+Nearby are stations, shops, churches and apartments. During the day, there are people walking on the streets; at night, some people have no place to live.
+
+The price of the hotel is low and the guests are mixed. It is not a "scary castle", but a city's underlying space.
+Cecil Hotel, in downtown Los Angeles.
+
+It was built in 1924 and has a dozen floors. It has an ordinary appearance and an elevator, corridors and guest rooms inside. It was once a residence for business travelers and later turned into a budget hotel.
+
+The location of the hotel, close to the old town, station and nightlife area. People come and go, identities are complicated. This environment provides the background for subsequent stories.
+The story of the Cecil Hotel is the story of the city.
+
+It's not in the suburbs, it's not in the wilderness, it's in the heart of the city. Its ghosts are not the ghosts in the castle, but the death, poverty and loneliness in the city.
+
+People like to write about it as "The Most Haunted Hotel in America." This label masks something more complex: homelessness, mental illness, crime, and urban renewal.
 
 ---
 

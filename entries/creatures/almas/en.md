@@ -1,8 +1,3 @@
----
-title: The Wild Man of the Snow Line
-summary: In the mountains and steppes of Central Asia, people tell of a wild man called the Almas. Herders say it is covered in hair, walks upright, comes out at night, and avoids people. Soviet researchers went looking for it several times. What they found were footprints, rumours, and stories.
-lang: en
----
 
 ## 1. A legend in the mountains
 
@@ -61,6 +56,34 @@ The Almas survives in stories.
 There is no clear photograph, no verified specimen, and no skeleton accepted by science. Researchers can record oral accounts, compare descriptions, and analyse supposed samples, but the material is not enough to prove that an unknown large primate lives in Central Asia.
 
 The mountains are still there. So are the stories. What lies below the snow line has no answer yet.
+
+## Timeline
+
+- Background: old legends; several 20th-century expeditions
+
+## Sources and evidence
+
+This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The Almas material consists mainly of nineteenth- and twentieth-century Central Asian travel accounts, local ethnography, and Soviet-era survey reports. Witnesses were mostly herders and hunters; their descriptions focus on height, hair, foot shape, and avoidance of people. There are no clear photographs, bones, or independently examinable physical remains. Soviet scholars once linked the Almas to a surviving Neanderthal population, but the hypothesis lacks genetic evidence. This entry separates 'a wild man in oral tradition' from 'an unidentified species'.
+
+## Limits of the record
+
+Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+"Almas" is not a single species designation but rather a collection of local appellations. In Mongolian the term appears, in Russian scholarship it is often rendered as "almasty," and the Kazakh and Kyrgyz verbal traditions include other variants. Though the names differ, the descriptions are remarkably similar: upright posture, long fur, timidity around humans, and a predilection for mountainous habitats.
+
+Travelers who traversed Mongolia and Central Asia in the nineteenth century recorded the various forms of the tale in their journals. They brought back place‑names, pastoral anecdotes, and fragments of unusable fur, but no skeletons, teeth, or clear photographs. Subsequent expeditions followed those place‑names into the mountains, yet the evidence remained largely oral.
+
+This dispersion is the crux of the Almas puzzle: sightings span from the Caucasus to western Mongolia, a stretch of several thousand kilometres of highland. Each report is filtered through the local fauna, clothing, and terrain, so conflating them into one creature feels as if many disparate things are compressed into a single name.
 
 ---
 

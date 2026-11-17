@@ -52,6 +52,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面教堂与双手场景复原、案例时间线与解释分层；不是医疗照片
+  - id: S6
+    title: "A Psychopathological Reading of the Blood Sweat Phenomenon and Religious Stigmas: The Case of Blessed Elena Aiello"
+    publisher: "PubMed / Turkish Psychiatry"
+    url: "https://pubmed.ncbi.nlm.nih.gov/41070472/"
+    year: "2025"
+    license: "Academic article; citation only"
+    usage: "圣痕案例的医学与精神病学讨论、教会认可程序与自然解释争议"
 cover: ../../../assets/covers/stigmata.jpg
 related:
   - shroud-of-turin

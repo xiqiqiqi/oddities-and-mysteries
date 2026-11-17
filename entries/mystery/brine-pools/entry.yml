@@ -39,6 +39,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与海底盆地剖面示意；不是现场照片
+  - id: S4
+    title: "Investigations of Chemosynthetic Communities on the Lower Continental Slope of the Gulf of Mexico (2006)"
+    publisher: "NOAA National Centers for Environmental Information"
+    url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncei:DeepSlope2006;view=iso
+    year: "2006"
+    license: "美国政府公开资料；引用与事实核对"
+    usage: 墨西哥湾深海卤水池的实地观测与生态记录
 cover: ../../../assets/covers/brine-pools.jpg
 related:
   - blood-falls

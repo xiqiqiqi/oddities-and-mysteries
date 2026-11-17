@@ -1,8 +1,3 @@
----
-title: The Plane That Never Landed
-summary: On 8 March 2014 Malaysia Airlines flight MH370 left Kuala Lumpur with 239 people aboard, including 154 Chinese citizens. It lost contact near Vietnam, turned west, and kept sending hourly satellite handshakes that pointed to the southern Indian Ocean. In 2015 a wing flaperon washed up on Réunion. Several searches, including a new one in 2025–2026, have failed to find the aircraft.
-lang: en
----
 
 ## 1. 8 March 2014
 
@@ -77,6 +72,55 @@ Twelve years on, the plane has not landed. Neither has the question.
 ![The MH370 timeline, the satellite arc and the search areas](../../../assets/inline/mh370.svg)
 
 *Original schematic: the 8 March 2014 timeline, the satellite handshake arc and the main search areas. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **2018**: The 2018 investigation report said the turn "likely resulted from manual inputs". It did not exclude intervention by a third party
+- **2014**: From 2014 to 2017, Australia, China and Malaysia searched about 120,000 square kilometres of seabed in the s...
+- **2015**: On 29 July 2015, a wing flaperon washed ashore on Réunion. Days later it was confirmed as part of MH370. Mor...
+- **2025**: On 25 March 2025, the Malaysian government signed an agreement with Ocean Infinity to search a new area of a...
+- **2026**: On 8 March 2026, the Malaysian Ministry of Transport announced that the search had ended with "no findings"....
+
+## Sources and evidence
+
+The factual base of this entry rests on 3 independent source(s). S1 (Australian Transport Safety Bureau) covers the relevant institutional record.
+S2 (Malaysia Ministry of Transport) provides cross-checks on related records.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The official report did not give a definite cause.
+
+It lists possible causes: human operation, mechanical failure, lack of oxygen. There's no evidence for either.
+
+Official reports did not give a definite cause.
+
+It lists possible causes: human operation, mechanical failure, lack of oxygen.
+The search for MH370 was one of the longest in modern aviation history.
+
+Satellites, ships, airplanes, and submersibles are all used. Still no subject found. What the family wants is not a conspiracy, but a position.
+
+The sea is big and the answer is small. 239 people, still waiting.
+
+The plane didn't come back, and the questions didn't come back. The sea is still there and the waiting is still there.
+Records from satellite company Inmarsat show that the plane still had a "handshake" signal with the satellite after it lost contact.
+
+The signal lasted for several hours. Last call, pointing to the southern Indian Ocean.
+
+Inmarsat's satellite is more than 30,000 kilometers away from the earth.
+
+The aircraft's "handshake" signal is transmitted to the satellite and then to the ground. The signal is weak, but it gives an arc.
+
+Inmarsat satellites recorded the aircraft's "handshake" signal.
+
+The signal is weak, but it gives an arc. The arc points to the southern Indian Ocean.
 
 ---
 

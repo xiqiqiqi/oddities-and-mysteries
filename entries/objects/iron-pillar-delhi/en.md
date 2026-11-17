@@ -1,8 +1,3 @@
----
-title: The Iron Pillar That Won't Rust
-summary: In the Qutb complex in south Delhi stands an iron pillar about seven metres tall. It has been outdoors for more than sixteen hundred years of monsoons and dust, yet its surface shows no large patches of rust. It is not stainless steel, and it is not magic. A very thin protective film is doing the work.
-lang: en
----
 
 ## 1. The pillar in the courtyard
 
@@ -61,6 +56,43 @@ The pillar is part of the Qutb complex and a classic case in the history of meta
 It is often called a “miracle of ancient Indian metallurgy.” A more accurate description is this: ancient smiths used the technology they had to make an iron pillar with a suitable composition and structure, and Delhi's climate stretched its life into more than a millennium.
 
 A column, standing in the open, without a glass case. It does not need a miracle to make people stop and look.
+
+## Timeline
+
+- Background: 4th–5th century CE
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S4 (Corrosion Science (Elsevier)) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The Iron Pillar is a monument in Delhi.
+
+Visitors can look, but not touch. The Indian government fenced it off and installed surveillance.
+
+An iron pillar that proves ancient craftsmen could control the purity of iron. It also proves that protecting the environment is harder than creating miracles.
+Delhi’s iron pillars are not a myth that “won’t rust”.
+
+It has a thin layer of rust, it just rusts slowly. Its purity, phosphorus content and environment all work together to protect it.
+
+An iron pillar proves the height of ancient metallurgy and the influence of the environment on materials.
+
+The iron pillar is still in the yard. The wind blows and the rain falls, it slowly rusts and is slowly remembered.
+
+One pillar stood for over a thousand years, longer than most dynasties. It doesn't beat time, it just sucks a little slower than the stuff around it.
+
+Iron will rot, stones will break, but the story will always stand.
+
+It is just an iron pillar, but it makes time seem less absolute.
 
 ---
 

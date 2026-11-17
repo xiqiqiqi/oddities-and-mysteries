@@ -1,8 +1,3 @@
----
-title: The Wolf That Killed Dozens
-summary: Between 1764 and 1767, a wolf-like beast repeatedly attacked people and livestock in the Gévaudan region of southern France. Estimates of the dead range from sixty to more than a hundred. The king sent his huntsman; local men organised drives. In the end, a local hunter killed it.
-lang: en
----
 
 ## 1. The mountain villages of 1764
 
@@ -65,6 +60,32 @@ The Beast of Gévaudan became one of France's most famous monster legends.
 It appears in prints, novels, films, and folk tales, described as a werewolf, a demon, or a punishment from heaven. The real story is often buried: a poor mountain region where people died for three years, and where the surviving records are incomplete.
 
 Today, a museum in Gévaudan still displays its image. It looks like an oversized wolf, staring out of the frame.
+
+## Timeline
+
+- **1764**: In the summer of 1764, women and children began to disappear in the hills. At first people assumed wolves. W...
+- **1765**: In 1765, Louis XV sent his chief wolf hunter, François Antoine, with hounds and soldiers. In September, Anto...
+- **1767**: In June 1767, a local hunter, Jean Chastel, killed a large animal in the hills. After that, the attacks stop...
+
+## Sources and evidence
+
+This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The death toll from the Gevaudan attacks never settled into a single figure.
+
+Parish registers, administrative reports, and later historical studies range from about sixty to over a hundred fatalities. Injuries were more numerous, but many were unrecorded. Rural eighteenth‑century villages lacked modern forensic methods; when a body surfaced it was often already gnawed by scavengers, leaving only circumstantial evidence.
+
+All these documents share one focus: “humans attacked by a beast,” not “what the beast was.” Villagers noted wounds, footprints, and severed corpses; officials dealt with a public crisis; the church interpreted the events as divine judgment. Each record tended to echo its audience’s preoccupations.
 
 ---
 

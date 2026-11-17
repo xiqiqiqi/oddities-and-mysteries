@@ -1,8 +1,3 @@
----
-title: The Alien Autopsy Tape
-summary: In 1995, a black-and-white film was shown on television. It appeared to show people in protective suits dissecting an alien body, and it was presented as a genuine record of the 1947 Roswell incident. Ten years later, the man who released it admitted that the alien was fake and the footage had been shot much later.
-lang: en
----
 
 ## 1. The film of 1995
 
@@ -67,6 +62,42 @@ No one treats the film as evidence today.
 It has become a case study in media history: a blurry image and a big story can fool a great many people very quickly. Later audiences learned to check film stock, ask about provenance, and compare equipment, but the same thing still happens.
 
 The alien was made of latex. It lay on a table, was cut open, and was filmed. It never lived, but it became more famous than many real things.
+
+## Timeline
+
+- **1995**: May 1995, London.
+- **1947**: A music producer named Ray Santilli held a press conference. He said he had a film. It was black and white
+- **2006**: In 2006, Santilli finally admitted that the footage was not from 1947. It had been shot in a London flat in ...
+- **1992**: He still insisted that he had seen a real film in 1992
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Hoaxes.org) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The 'alien autopsy' is not an archive but a history of television production. The pay-TV programme of the 1990s, the Fox special, and later internet cuts share a visual grammar: black-and-white film, surgical lamps, figures in protective suits, and a body kept partly out of frame. The material has no checkable shooting location, date, crew, or original negative; the 'film-speed' and 'lamp-reflection' analyses tend to cite one another inside and outside the programme. This entry treats it as media hoax and television history, not as evidence for Roswell.
+
+The alien-autopsy file is a television archive: broadcast masters, ratings coverage, and later interviews with the producers. There is no medical record, no chain of custody, and no original film element.
+
+## Limits of the record
+
+Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'hoax'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The Fox television network aired the footage.
+
+The show's ratings are high. Many people believe that it is true.
+
+After Fox aired it, the video became a hit.
+
+TV stations, newspapers, and magazines are all discussing it. No one asked who took the video.
+The affair left a mark on television culture: audiences learned that a convincing image could be manufactured, and that a hoax could travel further than its correction.
 
 ---
 

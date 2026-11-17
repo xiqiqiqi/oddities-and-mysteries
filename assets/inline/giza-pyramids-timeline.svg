@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="1200" height="760" fill="#f7f4ee"/>
+<text x="60" y="70" font-family="Georgia, serif" font-size="40" fill="#1d1b18">吉萨高原的建造顺序</text>
+<text x="60" y="108" font-family="Arial, sans-serif" font-size="20" fill="#5b554c">三座主金字塔与狮身人面像的传统断代</text>
+<line x1="60" y1="132" x2="1140" y2="132" stroke="#b9ad98" stroke-width="2"/>
+<line x1="80" y1="430" x2="1120" y2="430" stroke="#8a7b63" stroke-width="4"/>
+<circle cx="80" cy="430" r="12" fill="#8c3b2e"/>
+<text x="80" y="396" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1d1b18">2580 BCE</text>
+<line x1="80" y1="444" x2="80" y2="458" stroke="#b9ad98" stroke-width="1.5"/>
+<text x="80" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#3d3831">Khufu</text>
+<circle cx="340" cy="430" r="12" fill="#8c3b2e"/>
+<text x="340" y="396" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1d1b18">2570 BCE</text>
+<line x1="340" y1="444" x2="340" y2="528" stroke="#b9ad98" stroke-width="1.5"/>
+<text x="340" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#3d3831">Khafre</text>
+<circle cx="600" cy="430" r="12" fill="#8c3b2e"/>
+<text x="600" y="396" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1d1b18">2510 BCE</text>
+<line x1="600" y1="444" x2="600" y2="458" stroke="#b9ad98" stroke-width="1.5"/>
+<text x="600" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#3d3831">Menkaure</text>
+<circle cx="860" cy="430" r="12" fill="#8c3b2e"/>
+<text x="860" y="396" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1d1b18">2500 BCE</text>
+<line x1="860" y1="444" x2="860" y2="528" stroke="#b9ad98" stroke-width="1.5"/>
+<text x="860" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#3d3831">Sphinx</text>
+<circle cx="1120" cy="430" r="12" fill="#8c3b2e"/>
+<text x="1120" y="396" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1d1b18">1979</text>
+<line x1="1120" y1="444" x2="1120" y2="458" stroke="#b9ad98" stroke-width="1.5"/>
+<text x="1120" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#3d3831">UNESCO</text>
+<text x="60" y="730" font-family="Arial, sans-serif" font-size="14" fill="#7a7163">原创示意图 · 稀奇奇编辑部 · CC BY-SA 4.0 · 不是测绘图或历史照片</text>
+</svg>

@@ -39,6 +39,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与石墙拼合示意；不是现场照片
+  - id: S4
+    title: "Parque Arqueologico Nacional de Saqsaywaman"
+    publisher: "Direccion Desconcentrada de Cultura de Cusco"
+    url: https://www.culturacusco.gob.pe/parques-arqueologicos/saqsaywaman/
+    year: "2024"
+    license: "政府文化机构页面；引用与事实核对"
+    usage: 萨克塞瓦曼国家考古公园的管理与保护
 cover: ../../../assets/covers/sacsayhuaman.jpg
 related:
   - gobekli-tepe

@@ -1,8 +1,3 @@
----
-title: The Manuscript No One Can Read
-summary: A small fifteenth-century book of more than two hundred pages, filled with plants that do not exist, women bathing in pools, and zodiac symbols. The text runs left to right. The letters look like Latin, but they spell no known language. For more than a century people have claimed to decipher it, yet no complete translation has been accepted.
-lang: en
----
 
 ## 1. A book without a title
 
@@ -57,6 +52,43 @@ Most of these explanations account for only part of the evidence. People have an
 The manuscript is held at Yale, and high-resolution images are available online. Anyone can download it and try to read it.
 
 It may be a cipher, a lost language, or a book that was never meant to be understood. What is certain is that it has existed for six hundred years and has still not given up its answer.
+
+## Timeline
+
+- **1912**: In 1912 he bought a collection of old books in Italy
+- **2009**: In 2009, the University of Arizona radiocarbon-dated several pages. The results fell between 1404 and 1438. ...
+- **1665**: A letter from 1665 says the manuscript once belonged to Rudolf II
+- **1969**: It later passed through Jesuits and collectors before reaching Voynich. In 1969
+
+## Sources and evidence
+
+This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Many attempts were made to decipher it, but none succeeded.
+
+During World War II, American cryptographers tried it; during the Cold War, computer scientists tried it; in recent years, artificial intelligence has also tried it. Each claim of progress has not been independently verified.
+
+The difficulty with the Voynich manuscript is not just the code. We have no reference text, no known language, no life of the author. Without these, deciphering is like looking for a lock in a room without a key.
+The Voynich Manuscript is an illustrated manuscript.
+
+It has no title, no author, no definite date. The pages are of parchment, measuring approximately 23 × 16 cm, and approximately 240 pages exist. Some pages are missing and some are folded.
+
+There are many illustrations in the book: plants, constellations, baths, pipes, women. Plants are not real species, and constellations are not standard zodiac signs. They are like some kind of lost knowledge system.
+The author of the manuscript is uncertain.
+
+Some said it was Roger Bacon, some said it was John Dee, some said it was an Italian scholar, some said it was a woman. In 2019, one researcher suggested that the manuscript's language might be characteristic of a "female author," but this hypothesis was not widely accepted.
+
+There is a small painting in the book of a woman and a child with text next to it. This was interpreted by some as "the author is a woman" and by others as "illustrated content".
 
 ---
 

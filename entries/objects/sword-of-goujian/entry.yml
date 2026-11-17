@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与剑身结构示意；不是文物照片
+  - id: S4
+    title: "越王勾践剑"
+    publisher: "湖北省博物馆"
+    url: https://www.hbww.org.cn/zgzb/p/4694.html
+    year: "2026"
+    license: "博物馆藏品页；引用与事实核对"
+    usage: 越王勾践剑的出土、尺寸、铭文与保存状况
 cover: ../../../assets/covers/sword-of-goujian.jpg
 related:
   - iron-pillar-delhi

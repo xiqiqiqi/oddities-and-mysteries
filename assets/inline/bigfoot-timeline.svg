@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="1200" height="760" fill="#f7f4ee"/>
+<text x="60" y="70" font-family="Georgia, serif" font-size="40" fill="#1d1b18">大脚怪证据的时间轴</text>
+<text x="60" y="108" font-family="Arial, sans-serif" font-size="20" fill="#5b554c">名称、影片、DNA 与旅游</text>
+<line x1="60" y1="132" x2="1140" y2="132" stroke="#b9ad98" stroke-width="2"/>
+<line x1="80" y1="430" x2="1120" y2="430" stroke="#8a7b63" stroke-width="4"/>
+<circle cx="80" cy="430" r="12" fill="#8c3b2e"/>
+<text x="80" y="396" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1d1b18">1958</text>
+<line x1="80" y1="444" x2="80" y2="458" stroke="#b9ad98" stroke-width="1.5"/>
+<text x="80" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#3d3831">name</text>
+<circle cx="427" cy="430" r="12" fill="#8c3b2e"/>
+<text x="427" y="396" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1d1b18">1967</text>
+<line x1="427" y1="444" x2="427" y2="528" stroke="#b9ad98" stroke-width="1.5"/>
+<text x="427" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#3d3831">film</text>
+<circle cx="773" cy="430" r="12" fill="#8c3b2e"/>
+<text x="773" y="396" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1d1b18">2014</text>
+<line x1="773" y1="444" x2="773" y2="458" stroke="#b9ad98" stroke-width="1.5"/>
+<text x="773" y="480" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#3d3831">DNA</text>
+<circle cx="1120" cy="430" r="12" fill="#8c3b2e"/>
+<text x="1120" y="396" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#1d1b18">21st c.</text>
+<line x1="1120" y1="444" x2="1120" y2="528" stroke="#b9ad98" stroke-width="1.5"/>
+<text x="1120" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#3d3831">tourism</text>
+<text x="60" y="730" font-family="Arial, sans-serif" font-size="14" fill="#7a7163">原创示意图 · 稀奇奇编辑部 · CC BY-SA 4.0 · 不是测绘图或历史照片</text>
+</svg>

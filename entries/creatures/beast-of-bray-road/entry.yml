@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面乡间公路与狼人场景复原、目击时间线示意；不是目击照片
+  - id: S4
+    title: "All about Wisconsin's notorious Beast of Bray Road"
+    publisher: "Up North News"
+    url: "https://upnorthnewswi.com/community/all-about-wisconsins-notorious-beast-of-bray-road/"
+    year: "2025"
+    license: "All rights reserved; citation only"
+    usage: "1936 年看夜人叙述、1990 年代 Linda Godfrey 报道与 Walworth County 目击"
 cover: ../../../assets/covers/beast-of-bray-road.jpg
 related:
   - mothman

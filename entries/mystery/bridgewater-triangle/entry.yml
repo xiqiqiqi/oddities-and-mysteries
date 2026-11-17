@@ -52,6 +52,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 三角地点与报告类型示意
+  - id: S6
+    title: "Into the Hockomock: Where wildlife and stories dwell"
+    publisher: "Mass.gov"
+    url: "https://www.mass.gov/news/into-the-hockomock-where-wildlife-and-stories-dwell"
+    year: "2025"
+    license: "© Commonwealth of Massachusetts; citation only"
+    usage: "Hockomock 沼泽生态、地方历史与“Bridgewater Triangle”传说的官方介绍"
 cover: ../../../assets/covers/bridgewater-triangle.jpg
 related:
   - dover-demon

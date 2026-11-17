@@ -1,8 +1,3 @@
----
-title: The Prison of One Man
-summary: In 1829 a castle-like prison opened north of Philadelphia. Each inmate lived alone, in silence, with a Bible. Its warders believed solitude would produce repentance. Dickens visited and called it worse than physical torture. Closed in 1971, it is now a ruin overgrown with weeds.
-lang: en
----
 
 ## 1. A Castle
 
@@ -69,6 +64,49 @@ A building can do nothing but stand there and still make people uneasy. Eastern 
 ![The radial plan, solitary confinement and timeline of Eastern State Penitentiary](../../../assets/inline/eastern-state.svg)
 
 *Original schematic: the radial cellblock plan, the separate system and the 1829–1971 timeline. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1829**: October 1829, north of Philadelphia. A grey stone building opened under the name Eastern State Penitentiary.
+- **1842**: In 1842 Charles Dickens visited. In American Notes he wrote that this solitude was a slow torture of the mind
+- **1929**: In 1929 Al Capone served eight months here for carrying a concealed weapon. His cell was furnished with rugs
+- **1945**: The bank robber Willie Sutton spent eleven years at Eastern State. In 1945 he and ten other prisoners tunnelled out
+- **1971**: The prison closed in 1971.
+- **1994**: In 1994 it opened as a museum. Visitors walk through empty cells and see flaking plaster and rusted iron doors.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Eastern State Penitentiary Historic Site) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+During the nineteenth century, reformers in Europe and the United States criticized this system.
+
+Long-term solitary confinement, they say, is not repentance but torture. People lose language, memory and social skills. Prison should re-enter society, not turn people into shadows.
+
+Dongzhou Correctional Facility was later renovated, adding public labor and collective activities. But it remains a closed, harsh place.
+Dongzhou Correctional Institution is said to be "haunted".
+
+Some people said that cries, footsteps and the sound of iron doors closing could be heard in the cell. Some people said they saw the shadow of the prisoner.
+
+There is no evidence for these stories. But the atmosphere of the prison is very heavy, with stones, iron doors and corridors, it is easy to imagine.
+In 1971, the prison closed.
+
+The building was abandoned, with leaking roofs and peeling siding. Later, it was converted into a museum and historical site. Visitors can walk into the cells and see beds, tables and iron doors.
+
+The ruins have not been fully restored. Some places were left as they were, and some were supported. Visitors can see the traces left by time.
+
+After the prison closed, the building fell into ruins.
+
+The roof leaked, the walls peeled off, and the iron doors rusted. The beauty of the ruins attracts photographers and film directors.
 
 ---
 

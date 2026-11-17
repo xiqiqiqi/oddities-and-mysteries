@@ -1,8 +1,3 @@
----
-title: The Painting Cut in Two
-summary: In the Yuan dynasty, Huang Gongwang painted Dwelling in the Fuchun Mountains, a handscroll about seven and a half metres long. In the early Qing, a collector tried to have it burned with him as he died. It was rescued, but the fire had split it in two. The first part is in Hangzhou, the second in Taipei. In 2011 they were shown together for the first time.
-lang: en
----
 
 ## 1. A long scroll
 
@@ -63,6 +58,42 @@ Dwelling in the Fuchun Mountains is still divided between the two sides of the s
 Remaining Mountain in Hangzhou is not often displayed, and the Master Wuyong Scroll in Taipei is a restricted exhibit. Both have reproductions and digital images, but no reproduction, however complete, can close the burn.
 
 A painting was cut by fire and then preserved by two different people. It was not restored to its original state, but it survived.
+
+## Timeline
+
+- **1269**: Huang Gongwang was born in 1269 and died in 1354.
+- **1948**: The second part is longer. It is called the Master Wuyong Scroll
+- **2011**: In June 2011, the two halves were shown together for the first time at the National Palace Museum in Taipei.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S1 (an institutional source) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+There are many inscriptions and postscripts at the back of the long scroll.
+
+The inscription and postscript are the impressions, research and praise written by later people. They circulate with the painting and become part of the work. Some inscriptions and postscripts are very long, while others are only a few lines.
+
+The title and postscript will also be faked. Later generations can add, delete, and replace. The circulation history of a painting is not only in the painting, but also in these words.
+There are many copies of "Dwelling in the Fuchun Mountains".
+
+Painters of the Ming and Qing Dynasties liked to copy it and learn from Huang Gongwang's brushwork. Some of the copies are very similar, and some are very free. They are distributed in museums and private collections in China.
+
+The copy cannot replace the original work, but it can illustrate the influence of the original work. If no one copies a painting, it may just be the work of one person; if someone copies it repeatedly, it becomes a tradition.
+A long scroll is not a painting, but a period of time that can be unfolded.
+
+To read a long scroll, read it section by section: first look at the tree at the beginning, then at the river bank, then at the mountains, then at the fishing boat. As your eyes move along the scroll, it's like taking a boat down the river.
+
+The length of "Dwelling in the Fuchun Mountains" is just right for this kind of viewing. It does not pursue a fixed focus, but allows the scenery to unfold in time. The mountains are not far away, the water is not urgent, and the people are small.
 
 ---
 

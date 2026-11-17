@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与目击时间线；不是历史照片
+  - id: S4
+    title: "Mothman of Point Pleasant: How a Bird Monster Became Appalachian Folklore"
+    publisher: "Appalachian Historian"
+    url: "https://appalachianhistorian.org/the-mothman-of-point-pleasant-how-a-bird-monster-became-appalachian-folklore/"
+    year: "2025"
+    license: "All rights reserved; citation only"
+    usage: "1966 年 11 月首批报纸报道、目击者叙述与地方传说形成过程"
 cover: ../../../assets/covers/mothman.jpg
 related:
   - spring-heeled-jack

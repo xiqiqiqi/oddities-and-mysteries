@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与城市布局示意；不是现场照片
+  - id: S4
+    title: "丝绸之路：长安—天山廊道的路网"
+    publisher: "国家文物局"
+    url: http://www.ncha.gov.cn/art/2024/8/8/art_2791_190636.html
+    year: "2024"
+    license: "政府文物局页面；引用与事实核对"
+    usage: 交河故城作为丝绸之路世界遗产的构成与价值
 cover: ../../../assets/covers/jiaohe.jpg
 related:
   - gobekli-tepe

@@ -1,8 +1,3 @@
----
-title: The Nine Cities of Troy
-summary: At Hisarlik in northwestern Turkey there is a mound. It looks like an ordinary hill, but inside it are nine cities. From about 3000 BCE to the Roman period, people built, destroyed, and rebuilt on the same spot. In 1873, Heinrich Schliemann found a hoard of gold there and announced that he had found Homer's Troy.
-lang: en
----
 
 ## 1. A mound
 
@@ -59,6 +54,48 @@ In 1998, Troy became a World Heritage Site.
 In 2018, the Troy Museum opened near the site, displaying pottery, bronze objects, bones, and architectural fragments. A modern wooden horse stands in front of the ruins for tourists to photograph.
 
 Nine cities are stacked on top of one another: a Roman theatre at the top, a small Bronze Age citadel at the bottom. One mound holds three thousand years of war, trade, and daily life.
+
+## Timeline
+
+- **1870**: In 1870, the German businessman Heinrich Schliemann arrived.
+- **1873**: In 1873 he announced that he had found “Priam's Treasure”: a hoard of gold
+- **1180**: Troy VIIa was destroyed around 1180 BCE. The layer shows signs of fire
+- **1998**: In 1998, Troy became a World Heritage Site.
+- **2018**: In 2018, the Troy Museum opened near the site, displaying pottery, bronze objects, bones, and architectural ...
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S1 (UNESCO World Heritage Centre) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+Troy's archive is a layered excavation archive, from Schliemann's trenches to modern stratigraphic work; the Homeric story and the mound are two different records, and the entry does not fuse them.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The ruins of Troy, Hisarlik in northwestern Türkiye.
+
+It is a mound, dozens of meters high, with a nine-story city underneath. Each level belongs to a different era, from the Early Bronze Age to the Roman era. The earliest settlement was around 3000 BC.
+
+Mounds are formed because people repeatedly build, demolish, and rebuild in the same location. The ruins of each generation become the foundation of the next.
+Homer's epic poem "The Iliad" tells the story of the tenth year of the Trojan War.
+
+It is not a historical record but poetry. It mixes gods, heroes, and war, and the characters have names, personalities, and destinies. It has been circulating for thousands of years and has become one of the sources of Western literature.
+
+Schliemann believed in Homer, archaeologists did not. Later research, somewhere in between: the ruins are real, the war may be real, but the epic is not news.
+Archaeologists later rearranged the strata.
+
+Troy I to IX, representing nine major periods. Troy VI and VII, possibly Homer's Troy. Troy VII has obvious layers of damage, possibly from war or earthquakes.
+
+Whether the "Trojan War" actually happened or not is uncertain. The ruins are damaged, with walls and towers, but there are no written records to prove the war.
 
 ---
 

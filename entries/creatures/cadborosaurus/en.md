@@ -1,8 +1,3 @@
----
-title: The Long Neck in the Sea
-summary: Since the 1930s, people have reported a long-necked sea creature in Cadboro Bay, British Columbia, Canada. It is called “Cadborosaurus”, or “Caddy”. In 1937, whalers found a strange carcass in the stomach of a sperm whale, and photographs of it went into the newspapers. The museum director who examined it said it was a fetal whale.
-lang: en
----
 
 ## 1. Cadboro Bay
 
@@ -69,6 +64,39 @@ Today there is no photograph, skeleton, or body of Caddy.
 The name survives in books, on websites, and in the coastal legends of Vancouver Island. Occasionally someone stands by the sea for a long time, hoping to see that long neck break the surface.
 
 The sea is large enough to hold many stories. Caddy is one of them.
+
+## Timeline
+
+- **1937**: October 1937, the Naden Harbour whaling station.
+- **1995**: In 1995, two researchers proposed that, if the animal existed, it should have the scientific name “Cadborosa...
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Enigma Atlas) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The most valuable parts of Caddy’s dossier are not the conclusion that it exists but the precise locations of the sightings: Victoria Harbour, Naden Harbour, the British Columbian coast. These coordinates pin an unsubstantiated creature onto an actual map. Future researchers may follow them to either investigate or remain skeptical.
+
+Finally, most reports of Caddy lack detailed coordinates and weather records, making it hard for later scholars to revisit sites or exclude familiar explanations such as seals, seaweed, or wave action. The coarse nature of the evidence is itself part of the story.
+The name “Caddy” was coined by the press. In the 1930s, newspapers on Vancouver Island and mainland Victoria began reporting on a “sea serpent” in the Gulf. They labeled it Cadborosaurus, which readers soon shortened to Caddy. This type of tale—local, mysterious, requiring no hard evidence, and able to attract tourists—loved the papers.
+
+Witnesses were mostly mariners, fishermen, and boaters. Their long years at sea meant they’d seen whales, seals, seaweed, and driftwood. Yet glare, distance, and fatigue could make a snapped neck appear as a creature.
+Most Caddy sightings can be explained by ordinary sea‑surface phenomena. A seal’s neck as it surfaces can resemble a long‑necked animal; a sea otter swimming upside‑down might look like a sliver of dark wood; a whale’s arched back can appear as a series of humps; drifting seaweed and floating timber can give the impression of movement.
+
+The 1937 carcass, the most plausible explanation being a whale fetus, neither proves Caddy’s existence nor discredits all prior sightings. It simply illustrates that an image resembling a sea monster could arise from a drowned whale.
+
+The story of Caddy continues to the present. Reports of “long‑snouted” creatures persist on the coast of British Columbia, at Wena Bean Lake, and in Okanagan Lake, using the same vocabulary—humps, necks, black silhouettes. What they share is the same fundamental problem: no specimen.
+
+Caddy never entered the scientific literature, but it entered place names and tourist guides. There are still vessels and shops on Victoria’s waterfront named after it. An uncaptured animal has become a brand.
 
 ---
 

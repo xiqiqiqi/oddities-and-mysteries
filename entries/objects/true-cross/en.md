@@ -1,8 +1,3 @@
----
-title: Splinters of the Cross
-summary: Around 326 CE Helena, the mother of Constantine, travelled to Jerusalem. Tradition says she dug up three pieces of wood at Golgotha, and one of them was identified as the cross of Jesus. Since then the wood has been cut into fragments and sent to churches across Europe. Today there are enough claimed pieces of the True Cross to fill a ship.
-lang: en
----
 
 ## 1. Helena
 
@@ -65,6 +60,40 @@ For historians, it is a story about relics, power and piety. One piece of wood w
 ![The discovery, distribution and fragments of the True Cross](../../../assets/inline/true-cross.svg)
 
 *Original schematic: Helena's discovery, the distribution of the cross and the spread of fragments. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- Background: c. 326 CE
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Catholic World Report) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Scientists have tried radiocarbon dating.
+
+But fragments of sacred relics are often small, and sampling would destroy the artifacts. Furthermore, the wood may have been treated by later generations, and surface coatings and preservation materials may affect the results. Carbon dating gives the age of the wood but does not prove which tree it came from.
+
+There is a mark in Rome called "ROMA" or "OPPOSE". Some people say that this is the early church's certification of holy objects; others say that this was added later. The label itself also needs to be authenticated.
+Pilgrims in the Middle Ages would bring back a small piece of the cross.
+
+They put it in a silver box, hung it around their neck, or put it in a church reliquary. Pilgrimage is a kind of travel and consumption. Relics are souvenirs of travel and evidence of faith.
+
+The more pilgrims there are, the more fragments there are. The church needs sacred objects to attract people, and sacred objects need stories to prove themselves. This is a cycle.
+There is a limit to what science can do.
+
+Carbon dating can tell the age of a piece of wood, but it cannot prove that it belonged to Jesus. DNA cannot be extracted from dead wood. Historical documents can be traced and circulated, but they cannot prove miracles.
+
+The question of the True Cross is not a scientific question. It belongs to faith, to tradition, and to a two-thousand-year-old story. Science can participate, but cannot rule.
 
 ---
 

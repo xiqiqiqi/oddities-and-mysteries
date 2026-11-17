@@ -1,8 +1,3 @@
----
-title: The Canals of Mars
-summary: In 1877 the Italian astronomer Schiaparelli drew dozens of straight lines on Mars and called them canali, or channels. English newspapers translated the word as canals. For nearly a century, a story about Martians digging irrigation ditches lived in telescopes, maps and novels, until a spacecraft arrived above the planet.
-lang: en
----
 
 ## 1. 1877
 
@@ -79,6 +74,30 @@ Sometimes an error tells a better story than the fact.
 ![The observation history of the Martian canals and the spacecraft results](../../../assets/inline/martian-canals.svg)
 
 *Original schematic: a timeline from the canali of 1877 and Lowell's maps to the results of Mariner 4. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1877**: In 1877 Mars came close to Earth.
+- **1894**: In 1894 the American businessman Percival Lowell built an observatory at Flagstaff, Arizona.
+- **1898**: In 1898 H. G. Wells published The War of the Worlds
+- **1907**: The American astronomer Edward Barnard observed Mars through one of the largest telescopes of the day and said he saw not a single canal. The British naturalist Alfred Russel Wallace published a book in 1907
+- **1965**: In July 1965 the American probe Mariner 4 flew past Mars and took twenty-one photographs.
+- **1971**: In 1971 Mariner 9 entered orbit and spent months mapping the whole planet. It found enormous volcanoes
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (NASA Science) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The Martian canals are a history of observation and print culture. Late nineteenth-century astronomy, Lowell's observatory notes, and popular astronomy books turned faint lines seen through low-resolution telescopes into 'canals'; later spacecraft imaging showed that the lines were largely observational artifacts and cartographic products. This entry separates 'what astronomers thought they saw' from 'what is on Mars' and does not treat old maps as geomorphological evidence.
+
+## Limits of the record
+
+Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
 
 ---
 

@@ -1,8 +1,3 @@
----
-title: The Crystal Skull Hoax
-summary: In a museum case sits a skull carved from a single piece of rock crystal. It has been described as a Maya or Aztec relic, complete with curses, prophecies, and hidden powers. But when researchers put it under a microscope, they found tool marks that only a nineteenth-century European workshop would leave.
-lang: en
----
 
 ## 1. The skull in the case
 
@@ -57,6 +52,42 @@ The crystal skull story did not disappear after the analysis.
 It is too good to look at: transparent, symmetrical, face-like, and bright under a display light. It is also too good to tell: ancient civilisations, lost knowledge, prophecy, and curses are hard to resist.
 
 The museum label says “nineteenth century, Europe.” The exhibition poster still shows the glowing skull.
+
+## Timeline
+
+- **2012**: Some say the skulls glow, some say they move at night, some say they cause strange dreams. Others link them ...
+- **1924**: It is said that in 1924, Anna Mitchell-Hedges found the skull at the ruins of Lubaantun in British Honduras....
+- **2008**: Around 2008, researchers at the British Museum and the Smithsonian Institution examined several crystal skul...
+
+## Sources and evidence
+
+This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'hoax'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Experimental archaeologists have tried replicating crystal skulls.
+
+They spent hundreds of hours using copper wheels, sand and water to create a skull that may look similar to ancient ones. This shows that ancient craftsmen could theoretically do it, but there is no evidence that they actually did it.
+
+"Can do" and "been done" are two different things. The controversy surrounding the Crystal Skull does not lie in the technical possibilities, but in the unearthed background and tool marks.
+The market for crystal skulls has existed since the 19th century.
+
+European collectors liked "exotic" objects. Crafts from Mexico, Peru, and Egypt were brought to Paris, London, and New York. Businessmen will make up stories and raise prices.
+
+The "Mayan crystal skull" is a good selling point: ancient, mysterious and prophetic. It does not require unearthed records, only a legend.
+Scientists use a microscope to examine the surface of the skull.
+
+They found traces of modern tools: the arc of the rotating grinding wheel, the grains of polish, the direction of the cut. These traces are inconsistent with the way ancient Maya tools were used.
+
+The Mayans had jade, obsidian, and sand with which to polish stone. However, the hardness of crystal is high and the processing time is long. A skull this precise requires hundreds of hours of polishing and is prone to chipping.
 
 ---
 

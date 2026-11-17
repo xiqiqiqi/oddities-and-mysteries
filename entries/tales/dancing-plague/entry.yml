@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与事件时间线；不是历史画作
+  - id: S4
+    title: "Alors, on danse! Propos sur les épidémies de fièvre dansante au début de l’ère moderne"
+    publisher: "Société Française d’Histoire de la Médecine / Sorbonne"
+    url: "https://numerabilis.u-paris.fr/ressources/pdf/sfhm/esfhm/esfhmx2019x04/esfhmx2019x04x018.pdf"
+    year: "2019"
+    license: "Academic article; citation only"
+    usage: "1518 年斯特拉斯堡舞蹈瘟疫的编年史、城市议事记录与医学史解释"
 cover: ../../../assets/covers/dancing-plague.jpg
 related:
   - wanggongchang-1626

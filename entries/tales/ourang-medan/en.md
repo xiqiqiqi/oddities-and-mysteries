@@ -1,8 +1,3 @@
----
-title: The Last Signal
-summary: In 1947, ships in the Strait of Malacca picked up a Morse code message. It came from a Dutch freighter called the Ourang Medan. The message said the captain and officers were dead, and probably the whole crew. The last words were “I die.” When a rescue ship arrived, the crew were indeed all dead, their faces frozen in fear. Then the ship caught fire.
-lang: en
----
 
 ## 1. The signal
 
@@ -69,6 +64,49 @@ Today the Ourang Medan still appears on lists of ghost ships.
 No one has found its wreck, and no one has found its registration. The story is still told, but it is closer to an urban legend than to a maritime disaster.
 
 It is a reminder that a story repeated often enough begins to look like fact. But check the register, and it may be nothing more than a name.
+
+## Timeline
+
+- **1947**: June 1947, the Strait of Malacca.
+- **1948**: The story first appeared in a Dutch-Indonesian newspaper in 1948 and was later repeated in books about ghost ships. Each retelling added detail: the faces of the dead
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S1 (Skeptoid Media) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+No one knew who the body was.
+
+Some said it was pirates who killed him; some said it was poison gas; some said it was fire. There is no autopsy report.
+
+The body was photographed and published in the newspapers.
+
+The photo is blurry and the face cannot be seen clearly. Some say they are pirates; some say they are crew members.
+
+No autopsy, no names.
+Who is the radioman?
+
+No one knows. The signal may be sent by him, or it may be sent by someone else. The ship's radio was later removed.
+
+Radio is the only link between the ship and the shore.
+
+At sea, there are no cell phones, no internet. The signal went out and the ship disappeared.
+American ships arrived on the scene.
+
+They saw the Orange Meydan. The ship is still there, there are bodies on the deck, there are bodies in the wheelhouse, there are bodies in the radio room. No one alive.
+
+After receiving the distress signal, the American ship rushed to the scene.
+
+They saw the ship drifting, bodies on the deck, and bodies in the cabins. No one alive.
 
 ---
 

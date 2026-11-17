@@ -1,8 +1,3 @@
----
-title: The Black Dahlia
-summary: On 15 January 1947, a woman's body was found in a vacant lot on South Norton Avenue in Los Angeles. She was Elizabeth Short, twenty-two years old. The newspapers called her the Black Dahlia. The LAPD investigated hundreds of suspects, and no one was ever convicted.
-lang: en
----
 
 ## 1. January 1947
 
@@ -65,6 +60,50 @@ Elizabeth Short was twenty-two when she died. She wanted to be an actress. What 
 ![The Black Dahlia timeline, newspaper coverage and suspects](../../../assets/inline/black-dahlia.svg)
 
 *Original schematic: the timeline of January 1947, the newspaper coverage and the main suspects. Not a photograph of the scene. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1924**: Elizabeth Short was born in Medford, Massachusetts, in 1924, one of five children.
+- **1947**: On 9 January 1947 she was seen in downtown Los Angeles. After that, she disappeared.
+- **1946**: The name “Black Dahlia” was coined by newspaper editors. It borrowed from the 1946 film The Blue Dahlia and echoed Short's black hair and the black clothes she often wore.
+- **1949**: The police received thousands of tips and formally interviewed more than 150 suspects. In 1949 a grand jury heard the case
+- **2003**: Some named Manley. Some named Dr George Hodel
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (HISTORY) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The Black Dahlia is a media name.
+
+Short's life was reduced to a morality tale by newspapers. Her death was written as a performance. The case was not solved, but the name remained.
+
+The case was not solved. The name stayed.
+The newspapers called her the "Black Dahlia."
+
+The name comes from a movie and her black hair. Newspapers like this name because it's short, exciting, and easy to remember.
+
+Newspapers wrote of her death as the "Black Dahlia."
+
+The name comes from her black hair and black clothes. The newspaper sold many copies using this name.
+
+The newspapers called her the "Black Dahlia."
+Case files, partially made public.
+
+Photos, testimonies, clues are all in the archives. The archives offer no answers.
+
+Elizabeth Short was found dead in Los Angeles in January 1947. She was known as the "Black Dahlia". The case remains unsolved. Newspapers wrote about her as a "fallen woman" and the case as a morality tale.
+
+She was last seen in a Hollywood hotel before her death.
 
 ---
 

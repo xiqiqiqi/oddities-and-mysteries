@@ -1,8 +1,3 @@
----
-title: The Bodies Kept in the Bog
-summary: In 1950, two brothers cutting peat in a Danish bog uncovered a human face. They thought it was a recent murder and called the police. The body turned out to be more than two thousand years old — skin, hair, stubble, and the rope around its neck were still there. The bog had preserved him.
-lang: en
----
 
 ## 1. A face in the peat
 
@@ -67,6 +62,26 @@ His body is kept elsewhere; the display shows the head and the cap. Grauballe Ma
 Conservation remains difficult. Once a bog body meets the air, it can dry, shrink, and grow mould. Researchers have to choose between display and preservation.
 
 A man died more than two thousand years ago, and his skin is still there, his hair still reddish. It is not because he was treated specially, but because he fell into a place that would not let him rot.
+
+## Timeline
+
+- **1950**: In May 1950, two brothers were cutting peat in the Bjældskovdal bog on the Jutland peninsula in Denmark.
+- **2011**: In 2011, peat cutters in County Laois, Ireland, found Cashel Man. He died around 2000 BCE and is the oldest ...
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S4 (National Museum of Ireland) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+Bog-body research is grounded in museum conservation files, forensic reports, and peat-chemistry studies; the same body can be an archaeological find, a legal case, and a folk story, and the entry keeps those registers apart.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
 
 ---
 

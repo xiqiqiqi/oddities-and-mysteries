@@ -1,8 +1,3 @@
----
-title: The Poet and the Tortoise
-summary: The Greek tragedian Aeschylus died at Gela in Sicily. Ancient writers said an eagle mistook his bald head for a rock and dropped the tortoise it was carrying to crack its shell. The tortoise hit his head, and the poet died. The story has been repeated for two thousand years, but his actual cause of death is unknown.
-lang: en
----
 
 ## 1. The end at Gela
 
@@ -61,6 +56,42 @@ Today, most scholars of ancient Greece accept that Aeschylus died at Gela, but t
 The tortoise story is still repeated in trivia books, histories of drama, and travel guides. Gela has a tomb traditionally attributed to him.
 
 A man who wrote so much about revenge, oracles, and blood debts was finished off by a tortoise. The ending is too neat, as if someone else had written it for him.
+
+## Timeline
+
+- Background: c. 456 BCE
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Loeb Classical Library) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The plays of Aeschylus are the starting point of ancient Greek drama.
+
+Only seven complete plays by Aeschylus have survived. He wrote more than seventy works, most of which only fragments remain. His death is more absurd than his play, and more like a myth. Only seven of Aeschylus's plays have survived in their entirety.
+
+He died in the fifth century BC, but his plays continue to be performed to this day. A man who was killed by a turtle left the starting point of Western drama.
+His death is a legend.
+
+The eagle threw the turtle on his head, because he was as bald as a stone.
+
+His death was an accident.
+
+His death was an accident. The eagle, the turtle, and the bald head, when these three things come together, they become a story.
+His play tells a myth in three parts. Only the Oresteia remains intact.
+
+Aeschylus fought in the Battle of Marathon. On his tombstone, he only wrote about his bravery in battle and did not mention drama. His plays are still performed to this day.
+
+His tombstone is said to have been written by himself. It only mentions the marathon, not the drama. The reputation of a warrior overshadows the reputation of a poet.
 
 ---
 

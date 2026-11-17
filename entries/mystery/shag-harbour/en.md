@@ -1,8 +1,3 @@
----
-title: The Light That Fell into the Sea
-summary: Late on 4 October 1967, residents of Shag Harbour, Nova Scotia, saw a row of yellow lights descend low over the water. The lights vanished into the sea, leaving a patch of yellow foam. The RCMP and the coast guard searched for hours and found nothing. The official file says “UFO.”
-lang: en
----
 
 ## 1. Shag Harbour
 
@@ -65,6 +60,34 @@ Each explanation covers part of the case and leaves the rest. The file stayed op
 The people of Shag Harbour did not forget. A local society collected testimony, clippings, and official documents. Every October, someone in the village still brings up that night.
 
 For a small fishing village, it is a story that can last generations. For the archive, it is a single page without a conclusion: on a certain night, an unidentified object fell into the sea, and the search found nothing.
+
+## Timeline
+
+- **1967**: Wednesday, 4 October 1967. Around 11:20 p.m., several residents were still outside.
+
+## Sources and evidence
+
+This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Shag Harbor is a prime example of the "official sightings" category. It has multiple testimonies from police, soldiers, fishermen and journalists, but no physical evidence. Multiple testimonies make the incident credible, but the absence of physical evidence makes it impossible to close the case. The archive retains this tension and does not choose sides for the reader.
+The Shag Harbor incident was later included in Canada's UFO archives and was also made into a documentary.
+
+Its vitality does not lie in what the light is, but in the place where it occurs: in a quiet fishing village, police, soldiers and reporters suddenly arrived. For the first time, the villagers discovered that the sea in front of their homes might be related to national security.
+
+Today, Shag Harbor is still a fishing port. The sea is wide and the sky is blue. The light didn't come back that night, and the file didn't give an answer.
+Portions of Shag Harbor's official archives were later released. The documents include search routes, sighting times and phone records, as well as the conclusion that "no wreckage has been found." They don't provide answers, but they provide a skeleton that can be checked. Legend has it that the most fearful thing is not suspicion, but someone turning out the original records page by page.
+
+After the search, the sea calmed down. The light that night left no trace, only a few pages of reports and the memory of a village.
 
 ---
 

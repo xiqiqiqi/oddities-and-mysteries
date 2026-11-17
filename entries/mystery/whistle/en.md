@@ -1,8 +1,3 @@
----
-title: The Whistle from the Deep
-summary: In 1997, NOAA hydrophones recorded a sound like a whistle. It was not a whale song or a ship; it sounded like someone whistling far away in the deep. It was called Whistle. Like Bloop and Slow Down, it was later identified as an icequake.
-lang: en
----
 
 ## 1. Like a whistle
 
@@ -63,6 +58,37 @@ The answer to Whistle is not romantic: ice is moving, and the ocean is loud.
 But that does not make it less interesting. Once you know it is an icequake, the whistle becomes a record of an invisible process: an ice shelf cracking, a block rolling, pressure changing, sound crossing thousands of kilometres.
 
 It is still a sound from the deep. The speaker has simply changed from “monster” to “ice.”
+
+## Timeline
+
+- **1997**: In 1997, NOAA hydrophones in the Pacific recorded a sound.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (NOAA Pacific Marine Environmental Laboratory) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The whistle archive is unusually thin: a few newspaper items, a family story, and later compilations. No early recording or independent witness statement survives, so the entry keeps the sound and the explanation in separate columns.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+There is another detail worth preserving: the original file of this recording has not been fully released to the public. What the researchers released were processed spectrums and fragments, and the coordinates, array numbers, and original waveforms were not all released. This is both to protect the location of the device and because the data itself belongs to a military system. The less that is disclosed, the more speculation there is. A clipped sound is more likely to become a legend than a complete sound.
+，“”。、、，。 The original file is actually very short and has such low frequency that it is almost inaudible to the human ear.“”，。
+In the strange classification, Whistle belongs to the category of "records and no objects". It has recordings, spectrums, and researchers' notes, but no source that can be identified.，，：，。
+The most overlooked thing about "Whistle"'s archives is that it has not been recorded twice.
+
+A single signal, no independent confirmation from a second array, no contemporaneous photos, and no traceable source. It can only remain in the database as an "event", not as an "object".
+
+The ocean is huge and there are very few hydrophones. What we hear is only a small part of the sound the ocean makes. The rest of the story is unrecorded and unanswered.
 
 ---
 

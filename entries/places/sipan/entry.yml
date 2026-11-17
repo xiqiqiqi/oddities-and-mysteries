@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与墓室结构示意；不是出土现场照片
+  - id: S4
+    title: "Visitar el Museo Tumbas Reales de Sipan"
+    publisher: "Ministerio de Cultura del Peru"
+    url: https://www.gob.pe/10982-visitar-el-museo-tumbas-reales-de-sipan
+    year: "2025"
+    license: "政府门户；引用与事实核对"
+    usage: 西潘王陵博物馆与西潘领主的官方说明
 cover: ../../../assets/covers/sipan.jpg
 related:
   - jade-burial-suit

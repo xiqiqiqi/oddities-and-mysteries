@@ -1,0 +1,47 @@
+type: "place"
+title_zh: "复活节岛：石像、祖先与一座岛的账"
+title_en: "Rapa Nui: Stone Ancestors and an Island's Ledger"
+era: "约 1250–1888 年"
+era_en: "c. 1250–1888 CE"
+region: "智利，瓦尔帕莱索大区，复活节岛"
+region_en: "Easter Island, Valparaíso Region, Chile"
+coords: [-27.1258, -109.2767]
+tags: ["复活节岛", "摩艾", "拉帕努伊", "智利", "波利尼西亚"]
+collections: []
+credibility: "verified"
+related: ["machu-picchu", "sacsayhuaman"]
+channel: "places"
+slug: "rapa-nui"
+status: "published"
+featured: false
+translation_status: "native_reviewed"
+editorial_status: "ai_final_reviewed"
+fact_ledger: "research/fact-ledgers/places/rapa-nui.md"
+image_license_audit: "research/image-audit.csv"
+reviewed_by: "XIQIQI AI Editorial"
+reviewed_at: "2026-11-17"
+review_method: "AI editorial review (no human reviewer)"
+review_scope: "zh/en text, fact ledger, image licenses, technical gate"
+sources:
+  - id: S1
+    title: "Rapa Nui National Park"
+    publisher: "UNESCO World Heritage Centre"
+    url: "https://whc.unesco.org/en/list/715/"
+    year: "2026"
+    license: "© UNESCO; citation only"
+    usage: "1995 年世界遗产登录、摩艾与阿胡遗址范围"
+  - id: S2
+    title: "Monumentos Nacionales"
+    publisher: "Consejo de Monumentos Nacionales, Chile"
+    url: "https://www.monumentosnacionales.cl/"
+    year: "2026"
+    license: "© Chilean government; citation only"
+    usage: "智利国家纪念物体系、遗址保护与社区背景"
+  - id: S3
+    title: "场景复原插图与原创示意图"
+    publisher: "稀奇奇编辑部（AI 辅助生成）"
+    url: "https://xiqiqi.com/"
+    year: "2026"
+    license: "CC BY-SA 4.0；不含第三方版权素材"
+    usage: "封面与两张原创示意图；不是历史照片或测绘图"
+cover: ../../../assets/covers/rapa-nui.jpg

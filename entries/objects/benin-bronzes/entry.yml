@@ -1,0 +1,47 @@
+type: "object"
+title_zh: "贝宁青铜：宫殿、远征与归还"
+title_en: "The Benin Bronzes: Palace, Punitive Expedition, and Return"
+era: "约 13–19 世纪；1897 年流散"
+era_en: "c. 13th–19th centuries; dispersed in 1897"
+region: "尼日利亚，埃多州，贝宁城"
+region_en: "Benin City, Edo State, Nigeria"
+coords: [6.335, 5.626]
+tags: ["贝宁青铜", "尼日利亚", "贝宁王国", "归还", "殖民"]
+collections: []
+credibility: "verified"
+related: ["jade-burial-suit", "tutankhamun-mask"]
+channel: "objects"
+slug: "benin-bronzes"
+status: "published"
+featured: false
+translation_status: "native_reviewed"
+editorial_status: "ai_final_reviewed"
+fact_ledger: "research/fact-ledgers/objects/benin-bronzes.md"
+image_license_audit: "research/image-audit.csv"
+reviewed_by: "XIQIQI AI Editorial"
+reviewed_at: "2026-11-17"
+review_method: "AI editorial review (no human reviewer)"
+review_scope: "zh/en text, fact ledger, image licenses, technical gate"
+sources:
+  - id: S1
+    title: "Benin Bronzes"
+    publisher: "The British Museum"
+    url: "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/benin-bronzes"
+    year: "2026"
+    license: "© The Trustees of the British Museum; citation only"
+    usage: "1897 年远征、馆藏与归还讨论"
+  - id: S2
+    title: "Benin Bronzes"
+    publisher: "National Museum of African Art, Smithsonian Institution"
+    url: "https://africa.si.edu/"
+    year: "2026"
+    license: "© Smithsonian Institution; citation only"
+    usage: "贝宁青铜的来源研究、展示与归还背景"
+  - id: S3
+    title: "场景复原插图与原创示意图"
+    publisher: "稀奇奇编辑部（AI 辅助生成）"
+    url: "https://xiqiqi.com/"
+    year: "2026"
+    license: "CC BY-SA 4.0；不含第三方版权素材"
+    usage: "封面与两张原创示意图；不是历史照片或测绘图"
+cover: ../../../assets/covers/benin-bronzes.jpg

@@ -1,8 +1,3 @@
----
-title: The Town Under the Ash
-summary: Around 1600 BCE a volcano buried the Bronze Age town of Akrotiri on Santorini. Streets, three-storey houses, frescoes and pottery were sealed under ash. The excavators found almost no human remains. The people seem to have left before the eruption.
-lang: en
----
 
 ## 1. Santorini
 
@@ -79,6 +74,27 @@ The volcano is still there. The Santorini caldera is active, and its last erupti
 ![The streets, the frescoes, and the ash layers at Akrotiri](../../../assets/inline/akrotiri.svg)
 
 *Original schematic: the layout of the streets, the positions of the frescoes and the ash layers. Not a survey drawing. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1967**: In 1967 the Greek archaeologist Spyridon Marinatos began to excavate at Akrotiri.
+- **1600**: Around 1600 BCE the volcano on Santorini erupted.
+- **1950**: The volcano is still there. The Santorini caldera is active
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Smithsonian Magazine) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The Akrotiri record has three parts: excavation reports from the Greek Archaeological Society and the French School at Athens, which supply architecture, frescoes, pottery, and stratigraphy; volcanological and chronological studies, which debate the date of the eruption and the ash layers; and site-management conservation records, which show which frescoes and structures were moved to museums and which remain in place. These parts operate on different time scales and cannot substitute for one another. This entry separates the fact that the site was buried in ash from the still-debated question of the eruption year.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
 
 ---
 

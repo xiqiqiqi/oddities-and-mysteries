@@ -1,0 +1,47 @@
+type: "place"
+title_zh: "佩特拉：峡谷里的商队首都"
+title_en: "Petra: A Caravan Capital in the Canyon"
+era: "约公元前 4 世纪–公元 4 世纪"
+era_en: "c. 4th century BCE–4th century CE"
+region: "约旦，马安省，瓦迪穆萨"
+region_en: "Wadi Musa, Ma'an Governorate, Jordan"
+coords: [30.3285, 35.4444]
+tags: ["佩特拉", "纳巴泰", "岩凿建筑", "约旦", "商队"]
+collections: []
+credibility: "verified"
+related: ["jiaohe", "troy"]
+channel: "places"
+slug: "petra"
+status: "published"
+featured: false
+translation_status: "native_reviewed"
+editorial_status: "ai_final_reviewed"
+fact_ledger: "research/fact-ledgers/places/petra.md"
+image_license_audit: "research/image-audit.csv"
+reviewed_by: "XIQIQI AI Editorial"
+reviewed_at: "2026-11-17"
+review_method: "AI editorial review (no human reviewer)"
+review_scope: "zh/en text, fact ledger, image licenses, technical gate"
+sources:
+  - id: S1
+    title: "Petra"
+    publisher: "UNESCO World Heritage Centre"
+    url: "https://whc.unesco.org/en/list/326/"
+    year: "2026"
+    license: "© UNESCO; citation only"
+    usage: "1985 年世界遗产登录、遗址范围与保护状况"
+  - id: S2
+    title: "Petra"
+    publisher: "Jordan Tourism Board"
+    url: "https://www.visitjordan.com/"
+    year: "2026"
+    license: "© Jordan Tourism Board; citation only"
+    usage: "佩特拉的地理、主要建筑与旅游管理背景"
+  - id: S3
+    title: "场景复原插图与原创示意图"
+    publisher: "稀奇奇编辑部（AI 辅助生成）"
+    url: "https://xiqiqi.com/"
+    year: "2026"
+    license: "CC BY-SA 4.0；不含第三方版权素材"
+    usage: "封面与两张原创示意图；不是历史照片或测绘图"
+cover: ../../../assets/covers/petra.jpg

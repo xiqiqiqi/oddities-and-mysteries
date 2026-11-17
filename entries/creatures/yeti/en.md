@@ -1,8 +1,3 @@
----
-title: Footprints Above the Snowline
-summary: In 1951, the mountaineer Eric Shipton photographed a line of large footprints in the Himalayan snow. The picture spread around the world, and the yeti became one of the most famous cryptids. Expeditions searched for decades without finding a body or a bone. In 2017, DNA testing produced a less mysterious answer — most of the “yeti” samples came from bears.
-lang: en
----
 
 ## 1. The photograph of 1951
 
@@ -61,6 +56,51 @@ No museum holds a yeti specimen.
 The yeti still appears in books, films, and tourism advertising. Himalayan villages still tell the story, and climbers still look for footprints in the snow.
 
 The 2017 DNA results did not make the story disappear. They moved it from “unknown primate” back to “bears we know”. In the mountains, a brown bear standing upright, seen at a hundred metres, can indeed look like a tall dark figure.
+
+## Timeline
+
+- **1951**: In 1951, a British mountaineering team was working in the Himalayas.
+- **1921**: In 1921, Henry Newman, a journalist with the British Everest reconnaissance expedition, put these accounts i...
+- **2017**: In 2017, an international team tested nine samples said to come from yetis.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (The Royal Society) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The evidence for the Yeti mainly comes from testimonies and "relics" in temples.
+
+Some temples preserve so-called "snowman scalps", "snowman hand bones" and hair. Pilgrims and climbers would show them to visitors, saying they were passed down from their ancestors.
+
+In 1960, an expedition organized by Edmund Hillary brought back one of these "scalps." It was later determined that it came from a bear. This conclusion does not make the temple relics less meaningful; they are still religious objects, just not yeti bodies.
+How tall can a brown bear stand?
+
+Himalayan brown bears can reach more than two meters when standing. It walks in the snow, and its footprints will be enlarged by the snow; it stands upright in the distance, with an outline like a tall, shouldered person. Separated by a hundred meters, a layer of fog and a bunch of legends, it could easily turn into a "snowman".
+
+Today, no museum houses a specimen of the Yeti. Snowmen still appear in books, movies and travel ads. The 2017 DNA results didn’t make the story go away, it just pushed it back from “unknown primates” to “bears we know.”
+
+The snowman didn't disappear, he just changed his position. It was dropped from the zoological to-be-confirmed list to legends and travel brochures. The mountain is still there, the bear is still there, and the story has material to continue telling.
+
+The snowman's story didn't end, it just became quieter. It no longer occupies the front pages of newspapers, but it is still on climbers' walkie-talkies and in teahouse conversations. The mountain is large enough to accommodate an unconfirmed name.
+
+The Tibetan name of the snowman is "migoi", which means "savage". The Sherpas regard it as a real but rare creature. In 1951, British mountaineer Shipton took a photo of a huge footprint near Mount Everest. The photos were later interpreted as bear or snow leopard tracks. In 2013, researchers analyzed the DNA of Yeti samples. Result: bears and dogs. The legend did not disappear.
+
+The Snowman story became popular in the West starting in 1951. That year, mountaineer Shipton photographed a large footprint on the Menlang Glacier. The photo was published in the newspaper, and the snowman became a mystery on Mount Everest. The Sherpas don't like this statement. They have their own names and rules.
+
+The snowman's footprints turned out to be those of a bear. But the story didn't stop. Every year, some people go to Mount Everest to look for footprints.
+
+The story of the snowman has also been made into a documentary. In the documentary, the footprints and hair were taken out and studied. The research was inconclusive.
+
+The research was inconclusive. The footprints are still there.
 
 ---
 

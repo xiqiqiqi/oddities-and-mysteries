@@ -1,8 +1,3 @@
----
-title: The Temple Underground
-summary: In a valley in the Peruvian Andes, more than three thousand metres above sea level, stands a temple built about three thousand years ago. Beneath its platforms run narrow stone galleries with ventilation shafts, drainage channels, and a stone statue more than four metres high. A person walking inside hears water, echoes, and strange low sounds. Archaeologists think the sounds were designed.
-lang: en
----
 
 ## 1. The valley
 
@@ -59,6 +54,46 @@ In 1985, Chavín de Huántar became a World Heritage Site.
 The 1970 earthquake damaged parts of the buildings, and later restoration used modern materials, which caused controversy. Today visitors can enter some of the galleries, but many areas are closed to protect the structure and the carvings.
 
 A temple three thousand years old used darkness, narrow passages, and sound to make people believe that a god was just behind the wall.
+
+## Timeline
+
+- **2001**: In 2001, the team found more than twenty conch-shell trumpets at the site. The instrument, called a pututu, ...
+- **1985**: In 1985, Chavín de Huántar became a World Heritage Site.
+- **1970**: The 1970 earthquake damaged parts of the buildings
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S1 (UNESCO World Heritage Centre) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Chavín is a tourist spot in Peru.
+
+Visitors can see ruins, museums and stone carvings. Some areas are high in altitude and require adaptation.
+
+Chavín is a tourist spot in Peru.
+
+Visitors can see ruins, museums and stone carvings. The altitude is high and requires adaptation.
+
+A temple in a valley predates the Inca Empire by more than two thousand years.
+
+Lan Song is still in the dark. It doesn't speak, but everyone who walks into the passage will hear their own footsteps.
+Chavin is a UNESCO World Heritage Site.
+
+The ruins have been restored and strengthened, and some areas are open to tourists. Stone sculptures, pottery and goldware are on display in the museum.
+
+A temple in a valley predates the Inca Empire by more than two thousand years. It proves that Andean civilization did not appear suddenly, but has long roots.
+There is a narrow passage underground in the old temple.
+
+There are steps, vents and stonework in the passage. At the end is a room with a stone pillar called "Lanzón". Carved on the pillar is a hybrid of feline and humanoid forms, with tusks and snakes.
 
 ---
 

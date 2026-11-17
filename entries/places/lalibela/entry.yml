@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与教堂剖面示意；不是现场照片
+  - id: S4
+    title: "Rock-Hewn Churches, Lalibela"
+    publisher: "UNESCO World Heritage Centre"
+    url: https://whc.unesco.org/en/list/18/
+    year: "1978"
+    license: "UNESCO 世界遗产页面；引用与事实核对"
+    usage: 拉利贝拉岩石教堂的列入时间、数量与价值
 cover: ../../../assets/covers/lalibela.jpg
 related:
   - gobekli-tepe

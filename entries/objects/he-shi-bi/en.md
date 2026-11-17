@@ -1,8 +1,3 @@
----
-title: The Jade in the Stone
-summary: A man in Chu found a stone that he insisted contained jade. He presented it to two kings, was called a fraud both times, and lost both feet. A third king had the stone cut open and found the jade inside. The object became the He Shi Bi — and, by legend, the imperial seal of China.
-lang: en
----
 
 ## 1. Jingshan
 
@@ -87,6 +82,29 @@ One stone became a symbol of the state because one man kept insisting there was 
 ![The route from Jingshan to the imperial seal](../../../assets/inline/he-shi-bi.svg)
 
 *Original schematic: Bian He's presentation of the jade, the return of the jade to Zhao, and the later legend of the imperial seal. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- Background: Spring and Autumn to Warring States period
+
+## Sources and evidence
+
+The factual base of this entry rests on 3 independent source(s). S1 (an institutional source) covers the relevant institutional record.
+S2 (a second institutional source) provides cross-checks on related records.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The idiom "returning the jade to Zhao intact" comes from this incident.
+
+Lin Xiangru's bravery and resourcefulness allowed He Shibi to return to Zhao. But the authenticity of this story is disputed by historians. It could be a diplomatic story, it didn't necessarily happen.
 
 ---
 

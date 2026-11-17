@@ -52,6 +52,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 三层结构与冬至光路示意
+  - id: S6
+    title: "State of the Heritage Report 2005: The Hal-Saflieni Hypogeum"
+    publisher: "Superintendence of Cultural Heritage, Malta"
+    url: https://schmalta.mt/wp-content/uploads/2022/09/SoH-2005.pdf
+    year: "2005"
+    license: "政府文化遗产报告；引用与事实核对"
+    usage: 哈尔萨夫利尼地下墓室的世遗列入与保护状况
 cover: ../../../assets/covers/hypogeum.jpg
 related:
   - gobekli-tepe

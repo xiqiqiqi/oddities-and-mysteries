@@ -1,8 +1,3 @@
----
-title: The Tracks in the Swamp
-summary: In 1963 two air traffic controllers in Louisiana's Honey Island Swamp saw a seven-foot grey figure. In 1974 they produced plaster casts of four-toed, webbed tracks and said they had found a wild boar with its throat torn open. A 1978 television episode made the story national. There is no body and no clear photograph, only casts, a reel of Super 8 film and a lot of people who are not sure.
-lang: en
----
 
 ## 1. Honey Island
 
@@ -65,6 +60,38 @@ Sixty years on, the clearest evidence is still a few plaster casts and one old r
 ![The sightings, tracks and film evidence of the Honey Island Swamp Monster](../../../assets/inline/honey-island-swamp-monster.svg)
 
 *Original schematic: the 1963–2019 sightings, the plaster tracks and the film evidence. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1963**: In 1963 they flew over a remote part of the swamp
+- **1978**: In 1978 the television series *In Search Of...* devoted an episode to the swamp monster. Ford appeared and described what he had seen.
+- **1980**: Ford withdrew from public attention. He died in 1980.
+- **2001**: In 2001 the investigator Joe Nickell toured the swamp with the ecologist Paul Wagner. They found no evidence. Neither did most of the people who worked on the water every day.
+- **2019**: In 2019 the Irish novelist Eoin Colfer used the creature in his novel *Highfire*.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Gods and Monsters) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The Honey Island material consists of local newspaper features, hunter interviews, and later tourism copy; no specimen, track cast, or photograph has been independently verified.
+
+## Limits of the record
+
+Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The legend of Honey Island Swamp has not ended in doubt. Hunters, naturalists, and television crews continue to enter the marsh each year, bringing cameras, recorders, and footprint casts. They often return with nothing but mud. Yet new entrants will always appear.
+
+The myth was popularized in the 1950s by hunter Ford, who filmed the creature and left a letter. Television programs later re‑created the footage with costume and concluded it was a misidentification. The farm on Honey Island fell into neglect. The swamp persists, and the story endures.
+
+Honey Island Swamp was eventually designated a natural preserve. No specimen of the monster exists, and the reserve contains only mosquitoes and mud. The tale lives on, as does the name of hunter Ford.
 
 ---
 

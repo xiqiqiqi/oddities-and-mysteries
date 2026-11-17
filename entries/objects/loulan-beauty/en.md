@@ -1,8 +1,3 @@
----
-title: The Girl in the Desert
-summary: In 1980, archaeologists found a female mummy at the Tieban River in the Lop Nur region of Xinjiang. She was about forty-five when she died, 1.57 metres tall, and lived around 3,800 years ago. The dry desert preserved her — dark brown hair, a high nose, a woolen hat, and leather boots. Japanese media called her the “Loulan Beauty”, and the name stuck.
-lang: en
----
 
 ## 1. The Tieban River, 1980
 
@@ -61,6 +56,38 @@ She was later taken to the Xinjiang Museum. The museum built a special case with
 Today she is on display at the Xinjiang Museum.
 
 “Loulan Beauty” has become a tourist label and a symbol of Xinjiang's ancient history. But for her, she was a middle-aged woman who died in the desert, was buried by sand for three thousand years, and was dug up by an archaeological team.
+
+## Timeline
+
+- **1980**: In 1980, a team led by Mu Shunying of the Xinjiang Institute of Archaeology excavated at the Tieban River, a...
+
+## Sources and evidence
+
+The factual base of this entry rests on 2 independent source(s). S1 (an institutional source) covers the relevant institutional record.
+S2 (a second institutional source) provides cross-checks on related records.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Loulan beauties are not "Loulan natives".
+
+She lived before the ancient city of Loulan and was an earlier resident of Lop Nur. Her name was given by someone later.
+
+She is preserved, not because of spices or technology, but because of the desert. Drying is the best preservative.
+
+Her face is preserved, her name is not. The desert has remembered her body, and history has forgotten her voice.
+
+She was lying in the sand, her hair still there, her eyelashes still there. Three thousand years have passed, and the desert has preserved her body, but not her name.
+Carbon dating shows she lived around 1800 BC.
+
+This is earlier than the ancient city of Loulan. She is not from Loulan, but an earlier resident of Lop Nur. Archaeologists call her the "Tiebanhe Female Corpse" and the media calls her the "Loulan Beauty".
 
 ---
 

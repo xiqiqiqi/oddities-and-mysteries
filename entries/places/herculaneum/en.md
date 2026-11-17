@@ -1,8 +1,3 @@
----
-title: The Library Buried in Mud
-summary: In 79 CE, Mount Vesuvius erupted and Herculaneum was buried by pyroclastic flows and mud. In the eighteenth century, excavators found a villa containing more than a thousand carbonized papyrus scrolls. They had been burned into black lumps, yet the volcanic material sealed them in and preserved them.
-lang: en
----
 
 ## 1. The eruption of 79 CE
 
@@ -55,6 +50,47 @@ In 1997, Herculaneum was inscribed as a World Heritage site together with Pompei
 Part of the site is open to visitors, including the seaside boathouses. In the 1980s, archaeologists found about 300 skeletons there; the people had not managed to reach the boats and were killed by the pyroclastic flow.
 
 Most of the Villa of the Papyri is still underground. It is like a sealed library: the books are on the shelves, the words are in the books, and no one has yet been able to read them all.
+
+## Timeline
+
+- **2023**: In recent years, researchers have tried X-rays, infrared imaging, and artificial intelligence to read the su...
+- **1997**: In 1997, Herculaneum was inscribed as a World Heritage site together with Pompeii and Torre Annunziata.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S4 (Patrimonio UNESCO (Italian Ministry of Culture)) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The Herculaneum record has three sets of material: excavation records since the eighteenth century, conservation and site-management files of the Italian cultural heritage service, and papyrological and volcanological research. The site was buried under volcanic debris, preserving organic material better than Pompeii; the papyrus scrolls from the Villa of the Papyri are still being read. The streets and houses visitors see are a version shaped by excavation, restoration, and display. This entry separates stratigraphy, restoration intervention, and tourist presentation.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+After the scroll is carbonized, it is very fragile.
+
+Open a roll and it may crumble to dust. Early scholars tried incision and peeling, but suffered great losses. Later, researchers used X-ray, infrared and computer technology to try to read the text.
+Researchers used laser scanning, photogrammetry and 3D modeling to document the ruins.
+
+Digital models can be used for research, display and conservation. The model can serve as a reference if the site is damaged.
+
+Researchers used X-rays, infrared light and artificial intelligence to read the scrolls.
+
+Every time you pronounce a letter, it takes a long time to calculate. Progress is slow, but every bit is new.
+The eruption of Mount Vesuvius lasted for several days.
+
+On the first day, volcanic ash drifted into Rome. Pompeii was buried the next day. Herculaneum was buried by volcanic mudflows, which were hot and fast.
+
+Mount Vesuvius is an active volcano.
+
+It is on the Bay of Naples, with Pompeii, Herculaneum and Naples nearby. The eruption of AD 79 is the most famous.
 
 ---
 

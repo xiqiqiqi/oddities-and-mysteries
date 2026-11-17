@@ -1,0 +1,47 @@
+type: "place"
+title_zh: "马丘比丘：云端上的印加庄园"
+title_en: "Machu Picchu: An Inca Estate Above the Clouds"
+era: "约 1450–1572 年"
+era_en: "c. 1450–1572 CE"
+region: "秘鲁，库斯科大区，乌鲁班巴省"
+region_en: "Urubamba Province, Cusco Region, Peru"
+coords: [-13.1631, -72.545]
+tags: ["马丘比丘", "印加", "安第斯", "秘鲁", "考古"]
+collections: []
+credibility: "verified"
+related: ["sacsayhuaman", "sipan"]
+channel: "places"
+slug: "machu-picchu"
+status: "published"
+featured: false
+translation_status: "native_reviewed"
+editorial_status: "ai_final_reviewed"
+fact_ledger: "research/fact-ledgers/places/machu-picchu.md"
+image_license_audit: "research/image-audit.csv"
+reviewed_by: "XIQIQI AI Editorial"
+reviewed_at: "2026-11-17"
+review_method: "AI editorial review (no human reviewer)"
+review_scope: "zh/en text, fact ledger, image licenses, technical gate"
+sources:
+  - id: S1
+    title: "Historic Sanctuary of Machu Picchu"
+    publisher: "UNESCO World Heritage Centre"
+    url: "https://whc.unesco.org/en/list/274/"
+    year: "2026"
+    license: "© UNESCO; citation only"
+    usage: "1983 年世界遗产登录、遗址范围、保护与旅游管理"
+  - id: S2
+    title: "Ministerio de Cultura"
+    publisher: "Gobierno del Perú"
+    url: "https://www.gob.pe/cultura"
+    year: "2026"
+    license: "© Government of Peru; citation only"
+    usage: "秘鲁文化部的遗址管理、修复与文物归还背景"
+  - id: S3
+    title: "场景复原插图与原创示意图"
+    publisher: "稀奇奇编辑部（AI 辅助生成）"
+    url: "https://xiqiqi.com/"
+    year: "2026"
+    license: "CC BY-SA 4.0；不含第三方版权素材"
+    usage: "封面与两张原创示意图；不是历史照片或测绘图"
+cover: ../../../assets/covers/machu-picchu.jpg

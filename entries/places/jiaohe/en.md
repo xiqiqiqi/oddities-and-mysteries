@@ -1,8 +1,3 @@
----
-title: The City Dug from the Earth
-summary: West of Turpan in Xinjiang, an ancient city stands on a loess plateau. Its streets, houses, temples, and wells were not built up from brick and stone. They were dug down into the raw earth. Two rivers run beside it, and the cliffs serve as its walls.
-lang: en
----
 
 ## 1. Between two rivers
 
@@ -63,6 +58,38 @@ Jiaohe is a national protected site in China and part of the UNESCO World Herita
 The ruins are open to visitors, but many areas are fenced off. Loess is fragile; a heavy rain or a single careless footstep can cause irreversible damage.
 
 It looks like an abandoned city, but it is closer to a huge sculpture slowly weathering away. The city was dug out of the earth, and the wind and rain are digging it back in.
+
+## Timeline
+
+- Background: about 100 BCE – 14th century
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S4 (an institutional source) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The record of Jiaohe falls into three layers: the UNESCO Silk Roads inscription and nomination texts set out the property's extent, dates, and outstanding universal value; surveys by Xinjiang cultural-relic and Turpan studies institutions describe the city's zones, temples, tombs, and excavated documents; tourist signs and guidebooks simplify those conclusions. The city sits on a plateau in the Yarnaz valley, with the walled site itself about 37.6 hectares and the cemeteries to the north and west counted separately. This entry keeps the nomination framework apart from the excavation detail and does not treat guidebook wording as an excavation report.
+
+Jiaohe's paper trail runs through excavation reports, conservation files, and the Silk Roads nomination; the site's own ruins are the primary document, and the entry returns to them whenever the written record thins.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Jiaohe Ancient City is threatened by sandstorms and tourists.
+
+Protectors strengthen walls, clear sand, and restrict access.
+
+The water of the Jiaohe River once flowed from both sides. The city is abandoned, but the river is still there, just in a different direction.
+
+After the city was abandoned, wind and sand slowly buried the streets and houses. People today dig through the sand and see a city without a roof. It doesn't disappear, it just exists in a different way.
 
 ---
 

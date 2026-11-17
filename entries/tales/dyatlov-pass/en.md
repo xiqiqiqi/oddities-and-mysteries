@@ -1,8 +1,3 @@
----
-title: The Tent Cut From Inside
-summary: In February 1959, nine experienced ski hikers disappeared in the Ural Mountains. When searchers found their tent, it had been cut open from the inside. Shoes, food, and coats were still there. The people had walked into a night of twenty or thirty degrees below zero, some of them barefoot.
-lang: en
----
 
 ## 1. February 1959
 
@@ -57,6 +52,46 @@ The official Russian investigation concluded in 2020 that an avalanche was respo
 Dyatlov Pass is now a marked route, and hikers still pass through every year. A memorial stands at the site, with the names of the dead carved in stone.
 
 The case is discussed not only because of the deaths but because the scene left such an improbable combination: a tent cut from inside, barefoot people, bodies without coats, severe internal injuries, and a night with no witnesses.
+
+## Timeline
+
+- **1959**: At the end of January 1959, a group of nine set out from a village in the northern Ural Mountains.
+- **2021**: In 2021, a study published in Communications Earth & Environment used computer modelling of the terrain to a...
+- **2020**: The official Russian investigation concluded in 2020 that an avalanche was responsible. For the families and many researchers
+
+## Sources and evidence
+
+This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Five bodies were in the snow and four in the ravine.
+
+Some people froze to death and some were injured. One player had a cracked skull, one had broken ribs, and one had a missing tongue.
+
+Avalanches cannot explain all injuries.
+
+A cracked skull, broken ribs, and a missing tongue required a lot of force. Avalanches can crush people, but they don't necessarily cause those injuries.
+
+Five bodies were in the snow and four in the ravine.
+
+Some people froze to death and some were injured. One player suffered a cracked skull and another suffered broken ribs.
+In February 1959, nine climbers died in the Ural Mountains. The tent was cut open from the inside, and the team members ran barefoot into the snow.
+On February 1, they camped on a hillside.
+
+The tent was buried in snow and partially cut open. The team members' clothing, shoes and food are left in the tent.
+
+The tent was buried in snow and partially cut open.
+
+The team members' clothing, shoes and food are left in the tent.
 
 ---
 

@@ -1,8 +1,3 @@
----
-title: The City of Stone
-summary: In southern Zimbabwe stands a city of stone. Its walls are built of granite blocks without mortar, and the highest rise more than ten metres. It was built between the eleventh and fifteenth centuries as the capital of the Shona, and it is one of the largest ancient stone structures in sub-Saharan Africa. In the colonial era, Europeans refused to believe Africans had built it and invented foreign founders.
-lang: en
----
 
 ## 1. The city of stone
 
@@ -59,6 +54,45 @@ The causes may have included shifting trade routes, overgrazing, drought, or ove
 In 1986, Great Zimbabwe became a World Heritage Site.
 
 Today it is the country's most important archaeological site and a symbol of national identity. The walls are weathering, roots are growing, and some sections need reinforcement. Excavation continues, and so does research on the city's population, kingship, and trade.
+
+## Timeline
+
+- **1980**: After Zimbabwe's independence in 1980
+- **1986**: In 1986, Great Zimbabwe became a World Heritage Site.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S1 (UNESCO World Heritage Centre) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The Great Zimbabwe record spans archaeology, architectural history, and colonial-era political argument. Excavations have established the dates and building sequence of the stone walls, the Hill Complex, and the surrounding settlement; early European travellers and colonial officials, by contrast, long used the question of 'who built it' as an argument about civilizational ownership. Current museum and university research places the masonry, cattle keeping, and gold trade within the internal development of southern Africa. This entry separates stratigraphy from colonial-era interpretation and does not repeat the old 'foreign builder' claim.
+
+Great Zimbabwe's archive is split between the stone evidence and the paper trail of who was allowed to interpret it; the entry follows the stone first and the colonial argument second.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Great Zimbabwe, there is a museum.
+
+It tells the history, trade and architecture of the Shona people. The museum has pottery, goldware and tools.
+
+Stone Town is no mystery. It was a city built by Africans themselves, but later generations did not want to believe it.
+
+The existence of Stone Town does not need to be recognized by the colonists. There it was, built of granite and standing for hundreds of years. Africa’s history does not need to be proven by others.
+
+The wall is still there, and so is the name.
+
+Stone Town needs no justification, it just stands.
+
+Stone City is still there, and so are the stories.
 
 ---
 

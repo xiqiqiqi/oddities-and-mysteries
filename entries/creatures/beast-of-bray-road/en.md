@@ -1,8 +1,3 @@
----
-title: The Werewolf by the Road
-summary: Bray Road in Wisconsin is an ordinary country road. In the late 1980s and early 1990s, people reported seeing something between a wolf and a man — six to seven feet tall, gray-brown fur, amber eyes, able to stand upright and run on four legs. A local reporter, Linda Godfrey, collected dozens of accounts, but no one got a clear photograph.
-lang: en
----
 
 ## 1. Bray Road
 
@@ -45,6 +40,40 @@ A third explanation is “contagion”: the first person tells a story, and late
 Today there is no photograph and no specimen, only testimony and press coverage. of the Beast of Bray Road, no hair, no footprint, and no body. Bray Road remains, as do the fields. Occasionally people drive slowly along it, hoping to catch a glimpse. Local bars and shops sell T‑shirts and signs featuring the werewolf.
 
 The story has no definitive conclusion. It is a legend that grew out of one place, in a particular decade.
+
+## Timeline
+
+- **1936**: The earliest documented sighting dates to 1936. A local claimed that
+- **1991**: In 1991, local reporter Linda Godfrey began investigating the stories. She wrote about them for the *Walwort...
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Prairie Oak Press) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The Beast of Braley Road is often likened to a werewolf because its depiction carries both wolf and human traits.
+
+The wolf elements include head shape, muzzle, ears, and coat; the human traits are upright posture, height, and shoulder breadth. Combined, they mirror the European werewolf archetype. Wisconsin’s sizable German‑Polish descendant community is no stranger to werewolf lore. A late‑century sighting slipped neatly into that older narrative.
+
+Yet “werewolf” is a cultural label, not a zoological conclusion. Witnesses describe an object resembling a wolf, not a human morphing into one. Subsequent books, television shows, and websites blur the distinction.
+Braley Road is a typical country lane bordered by cornfields, pastures, and scattered woods. It lacks lighting; headlights illuminate only a short stretch ahead. In the dark the roadside strip of reflective tape, glinting eyes, or fluttering plastic bags appear as tiny points of light.
+
+In such conditions distance and size are hard to gauge. An animal on the shoulder may look closer or taller than it is; a person at the edge of a cornfield may be perceived as a “shadow emerging from the earth.”
+
+Thus most sightings occur at night, often without clear photographs. Not every witness lies; the darkness itself can exaggerate ordinary objects.
+
+The tale underscores that legends don’t require a crisp image. They thrive on a sufficiently dark road, willing storytellers, and a local paper ready to reprint the story. With photographs absent, imagination fills the void.
+
+Today Braley Road remains a drivable lane, unlined by fencing or a “beast present” sign. Yet when night falls and headlights sweep into the corn, those who remember the stories feel the relevance of the legend.
 
 ---
 

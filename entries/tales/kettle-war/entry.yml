@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与事件时间线；不是历史画作
+  - id: S4
+    title: "Spotprent op de prins, de hertog en de politieke toestand van Nederland in 1784"
+    publisher: "Rijksmuseum / Europeana"
+    url: https://www.europeana.eu/nl/item/90402/RP_P_OB_85_365
+    year: "1784"
+    license: "公有领域"
+    usage: 1784 年荷兰政治危机的讽刺版画，作为时代背景；不是凯特尔战争本身记录
 cover: ../../../assets/covers/kettle-war.jpg
 related:
   - dancing-plague

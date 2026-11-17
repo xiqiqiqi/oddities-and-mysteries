@@ -1,8 +1,3 @@
----
-title: A Three-Century Curse
-summary: It weighs only 45.52 carats, yet it has passed through kings, queens, bankers, and socialites. Some say it carries a curse. Others say that is just a story. The real history of the Hope Diamond is stranger than the curse.
-lang: en
----
 
 ## 1. The blue stone in the glass case
 
@@ -67,6 +62,26 @@ In one, it carries a curse, and misfortune follows everyone who touches it. This
 In the other, it is a rare blue diamond that passed through war, theft, resale, and media hype. This version is less dramatic, but every part of it can be traced.
 
 The two versions are not entirely incompatible. The stone is real. The misfortunes were real. The question is whether we are willing to fill the gap between them with a good story.
+
+## Timeline
+
+- **1792**: In 1792, the crown jewels were looted in Paris. The French Blue disappeared.
+- **1812**: Twenty years later, a 45.52-carat blue diamond appeared in London. No one could prove it was the French Blue...
+- **1909**: In 1909, the jeweller Pierre Cartier bought the stone from the Hope family. To convince American clients tha...
+- **1911**: In 1911, the Washington socialite Evalyn Walsh McLean bought it. She was not afraid of the curse; she found ...
+- **1958**: In 1958, the jeweller Harry Winston donated it to the Smithsonian. Since then it has lain in a glass case, s...
+
+## Sources and evidence
+
+The factual base of this entry rests on 2 independent source(s). S1 (Smithsonian Institution) covers the relevant institutional record.
+S2 (Britannica editors) provides cross-checks on related records.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
 
 ---
 

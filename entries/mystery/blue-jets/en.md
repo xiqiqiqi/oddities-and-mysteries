@@ -1,8 +1,3 @@
----
-title: Blue Lightning Above the Clouds
-summary: In 1994, researchers working from high-altitude aircraft and the space shuttle clearly recorded a blue cone of light shooting upward from the top of a thundercloud. It lasted only a few hundred milliseconds, yet reached more than forty kilometres up. It did not strike the ground. It went toward space.
-lang: en
----
 
 ## 1. The 1994 records
 
@@ -61,6 +56,36 @@ Only after low-light and high-speed cameras became common did blue jets move fro
 Blue jets are now part of atmospheric electricity research. The question is no longer whether they are real, but how they form and what they do to the atmosphere.
 
 They do not change the weather, they do not reach the ground, and they do not hit cities the way they do in films. They are a brief signature left by a thunderstorm high above, a reminder that another discharge system is running above the cloud tops.
+
+## Timeline
+
+- **1994**: In 1994, high-altitude aircraft and space shuttle observations captured the same thing: a blue, cone-shaped ...
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S4 (NASA Earthdata) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+Blue-jet observations sit between aviation reports, satellite instruments, and atmospheric physics; the same event can appear as a pilot's description, a camera frame, and a model, and none of these is complete on its own.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Blue jets are one of the few cases where "eyewitness legend" has become "atmospheric physics". Once a secret among pilots, it became the object of study by cameras and satellites. This transformation illustrates that the unknown does not always remain unknown; sometimes there is just a lack of a suitable instrument.
+Photos of blue jets are mostly from low-light cameras. What the human eye sees is a flash, but what the camera sees is a structure of tens of milliseconds. Technology took it apart for a moment, and researchers could see clearly that it was not a ball, but an upward jet. Many times, the unknown is simply too fast.
+Blue jets occur on top of thunderstorm clouds at an altitude of thirty to fifty kilometers.
+
+Ordinary planes cannot fly there, satellite transit time is limited, and ground cameras will be blocked by clouds and rain. Capturing it requires a low-light camera, a telephoto lens, precise timing and a bit of luck.
+
+That's why there are so few photos of it. It’s not that it doesn’t exist, but that it appears too high, too fast, and too dim.
 
 ---
 

@@ -52,6 +52,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 2006–2021 时间线示意
+  - id: S6
+    title: "Litvinenko Inquiry: Statement to the House of Commons"
+    publisher: "UK Parliament (Hansard)"
+    url: https://hansard.parliament.uk/Commons/2016-01-21/debates/16012124000003/LitvinenkoInquiry
+    year: "2016"
+    license: "Open Parliament Licence"
+    usage: 英国议会关于利特维年科调查结论的官方记录
 cover: ../../../assets/covers/litvinenko.jpg
 related:
   - maura-murray

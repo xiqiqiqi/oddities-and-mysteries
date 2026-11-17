@@ -39,6 +39,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与目击路线示意；不是现场照片
+  - id: S4
+    title: "Outback Queensland is something else"
+    publisher: "Queensland, Australia"
+    url: "https://www.queensland.com/gb/en/outback-queensland-is-something-else"
+    year: "2026"
+    license: "© Tourism and Events Queensland; citation only"
+    usage: "Boulia 地区 Min Min Light 的地方口述、1912 年客栈火灾后的早期叙述"
 cover: ../../../assets/covers/min-min-lights.jpg
 related:
   - hessdalen-lights

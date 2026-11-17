@@ -52,6 +52,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 2004 年 2 月时间线与十九分钟空窗示意
+  - id: S6
+    title: "Frederick J. Murray v. New Hampshire Division of State Police, Special Investigation Unit & a."
+    publisher: "New Hampshire Supreme Court / Justia"
+    url: "https://cases.justia.com/new-hampshire/supreme-court/murra152.pdf"
+    year: "2007"
+    license: "Public court record; citation only"
+    usage: "2004 年 2 月 9 日失踪、车辆发现经过与警方档案调阅诉讼"
 cover: ../../../assets/covers/maura-murray.jpg
 related:
   - litvinenko

@@ -52,6 +52,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 1970 年代至 2025 时间线示意
+  - id: S6
+    title: "About Us"
+    publisher: "Haunted Warren Museum"
+    url: "https://hauntedwarrenmuseum.com/about-us/"
+    year: "2026"
+    license: "© museum; citation only"
+    usage: "Annabelle 娃娃的现藏地、展陈方式与 Warren 博物馆的官方叙述"
 cover: ../../../assets/covers/annabelle-doll.jpg
 related:
   - busby-chair

@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 储量膨胀与股价曲线示意、丛林钻探营地场景复原；不是历史照片
+  - id: S4
+    title: "Re: John Felderhof & Bre-X Minerals Ltd."
+    publisher: "Ontario Securities Commission"
+    url: "https://www.osc.ca/en/news-events/news/re-john-felderhof-bre-x-minerals-ltd"
+    year: "1999"
+    license: "© OSC; citation only"
+    usage: "Bre-X 欺诈案的监管指控、内幕交易与安大略证券法程序"
 cover: ../../../assets/covers/bre-x.jpg
 related:
   - piltdown-man

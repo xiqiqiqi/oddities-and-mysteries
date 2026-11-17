@@ -1,8 +1,3 @@
----
-title: The Lights in the Valley
-summary: In the Hessdalen valley in central Norway, people have reported strange lights since the 1930s. Between 1981 and 1984 the sightings became so frequent that locals and researchers could no longer ignore them. More than forty years later, automatic cameras are still pointed at the valley, and the source of the lights is still unknown.
-lang: en
----
 
 ## 1. The valley
 
@@ -75,6 +70,33 @@ There is a research station in the valley, automatic cameras, and the occasional
 What are they? There is no settled answer.
 
 What is clear is this: they are not proven alien spacecraft, and they are not pure invention. They are a set of lights that have been repeatedly recorded, observed, and discussed, and still have not been fully explained.
+
+## Timeline
+
+- **1981**: The years that made Hessdalen famous were 1981 to 1984.
+- **1984**: After 1984 the frequency dropped, but the lights did not disappear. People still report them today.
+- **1983**: In 1983, the Norwegian researcher Erling Strand started Project Hessdalen.
+- **1998**: He set up an observation station in the valley with cameras
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Hessdalen Project / Østfold University College) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Spectrum is the key to judging the nature of light.
+
+Different light sources have different spectra: sodium lamps are yellow, mercury lamps are blue-green, flames have a continuous spectrum, and plasmas have specific emission lines. Researchers compared Hessdalen's spectra with known light sources and found that some were close to combustion and some were close to discharge.
+
+But no one spectrum can account for all lights. Some lights are too dim and the spectrum is incomplete; some lights appear too short and the instrument has no time to record them. The more data, the more granular the questions.
 
 ---
 

@@ -1,8 +1,3 @@
----
-title: The Ruby That Wasn't
-summary: A deep red stone of about 170 carats sits at the front of the British Imperial State Crown. For centuries it has been called the Black Prince's Ruby. It is not a ruby at all, but a spinel. A hole was drilled through it long ago, and a small ruby was later set into the hole.
-lang: en
----
 
 ## 1. The front of the crown
 
@@ -61,6 +56,42 @@ The Imperial State Crown is kept in the Jewel House at the Tower of London.
 The display light falls on the front. The red stone looks dark, with a rim of gold. Visitors file past and have a few seconds to look.
 
 It is not a ruby. But it has seen a battle in 1367, another in 1415, a civil war, and a coronation. The name is wrong; the history is real.
+
+## Timeline
+
+- **1367**: Edward was the eldest son of Edward III
+- **1376**: Edward died in 1376, and the stone remained with the English crown. It was set into different crowns and pas...
+- **1415**: Tradition says Henry V wore the stone at the Battle of Agincourt in 1415.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Royal Collection Trust) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+There is a small hole in the gemstone.
+
+Legend has it that it was drilled and used for threading or fixing. The hole reduces the value of the gem and leaves a trace of history. Later inlays obscured it, but it can still be seen if you look closely.
+
+The cut of the gemstone is also not a modern cut. It was re-sharpened many times, its shape changed, and so did its weight. The stone today is not what it was originally.
+The value of gemstones lies not only in their material.
+
+It's in history: The Black Prince, Agincourt, Henry V, The Imperial Crown. Every piece of history adds a story to the gem. The story cannot be cut or scaled, but it can make the stone more expensive.
+
+A spinel, if placed in a jewelry store, might just be a red stone. Placed on the crown, it is the symbol of the empire.
+This spinel comes from Central Asia.
+
+In the fourteenth century, gemstones entered Europe via the Silk Road or Indian Ocean trade. It probably belonged to the Moorish king of Granada and was later taken by the king of Castile.
+
+Edward, the "Black Prince" acquired it during the Spanish campaign. He brought it back to England and mounted it on his helmet. Later, it became part of the British Crown.
 
 ---
 

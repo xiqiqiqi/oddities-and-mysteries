@@ -1,8 +1,3 @@
----
-title: Washington on Radar
-summary: On two weekends in July 1952, radar at Washington National Airport picked up a group of slow-moving targets. Jets took off and the targets vanished; the jets left and they came back. The newspapers called the chase the “Washington Merry-Go-Round.”
-lang: en
----
 
 ## 1. That summer
 
@@ -49,10 +44,39 @@ In January 1953 the CIA convened a panel chaired by the physicist Howard Roberts
 The report was later declassified. It did not say every sighting was false, but it changed how the government handled such cases: less explanation, less publicity, and an effort to let the subject cool down.
 
 ## 7. What remains
+The Washington case left no physical object. What survives is a paper trail: radar scope logs, radio transcripts, weather records, and the pilots' written statements. The files are held in U.S. military and civil-aviation archives, and not all of them are digitised. That is the material this entry can check; the rest of the story is later retelling.
 
-The Washington case left no physical object — only radar records, radio traffic, and pilots' reports. It became a template: radar sees something, people see something, jets scramble, nothing is caught.
+## Timeline
 
-More than seventy years later, the same scene still plays out. The radar is better and the cameras are everywhere. The answers have not become simpler.
+- **1952**: July: radar targets over Washington National Airport, followed by press coverage and Air Force responses.
+- **1953**: January: the Robertson Panel reviews reports and recommends a policy of reducing public attention.
+
+## Sources and evidence
+
+This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The Washington incident was the beginning of the radar era. It made the public believe for the first time that machines could see things that humans couldn’t. Later research showed that machines can also be tricked by the atmosphere. This lesson has always been useful: the more technical the form of evidence, the greater the need to understand the boundaries of the technology.
+On July 29, the Air Force held a press conference in Washington.
+
+At the meeting, officials showed radar records and acknowledged that "there were indeed things picked up on the radar," but did not confirm that they were alien spacecraft. This statement was cautious, but it was enough to make the front page of the newspaper.
+
+The name "Washington Carousel" appeared at this time. It describes those targets moving around on the radar like a carousel in an amusement park.
+After the Washington incident, the Air Force established more formal UFO investigation procedures. Project Blue Book collected tens of thousands of reports, most of which were interpreted and a few were marked as "unidentified." This classification remains to this day. It acknowledges the unknown and limits the scope of the unknown.
+The Washington incident was important because it brought "radar evidence" into public view for the first time.
+
+In the eyes of many people, radar is an objective machine that can see things that humans cannot. But radar is not a camera. It shows echoes, not objects. The atmosphere, ground surface, equipment settings and operator judgment all change the image on the screen.
+
+A light spot may be an airplane, a truck, a temperature inversion layer, or a noise on the screen. Confirming what it was would require another radar, another pair of eyes, and recordings from the same time.
 
 ---
 

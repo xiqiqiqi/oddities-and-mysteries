@@ -1,8 +1,3 @@
----
-title: The Golden Man
-summary: In 1969 archaeologists opened a burial mound beside the Issyk River in Kazakhstan and found a young person covered in gold. More than four thousand gold objects and a 63-centimetre headdress turned the "Golden Man" into a national symbol. Whether the body was male or female is still debated.
-lang: en
----
 
 ## 1. 1969
 
@@ -71,6 +66,40 @@ Whether the person was male or female, a prince or a princess, a warrior or a pr
 ![The headdress motifs, tomb layout and discovery of the Golden Man](../../../assets/inline/scythian-gold-man.svg)
 
 *Original schematic: the main motifs of the headdress, the side chamber at Issyk and the 1969 discovery. Not a photograph of an artefact. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1969**: 1969, beside the Issyk River in Kazakhstan, fifty kilometres east of Almaty.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (e-history.kz) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The tomb of the Jin people is a large tomb.
+
+There are wooden structures, horses, weapons and food in the tomb. The tomb owner is placed in the center, dressed in gold. The size of the tomb indicates that he/she had a high status in society.
+
+However, there is no written proof of the identity of the tomb owner. We don’t know his/her name, age, position. We only know that he/she was called the "Golden Man" by future generations.
+The clothes of the golden man are not a whole piece of gold, but thousands of gold ornaments sewn on cloth or leather.
+
+Gold decorations include animal patterns, geometric patterns and human patterns. Animal prints are the most common: deer, tiger, eagle, and horse. These animals are not randomly selected, they are related to life, belief and power on the grassland.
+
+The golden man's hat is very tall and decorated with gold pieces. The hat is shaped like a tower and may symbolize identity or the universe.
+The gold ornaments of the golden man are made.
+
+Craftsmen hammered the gold nuggets into thin sheets and cut them into animal, geometric and human shapes. There are small holes in the gold pieces and they are sewn onto the clothes with threads. Some gold ornaments are embossed, and some are hollowed out.
+
+The craftsmanship of the gold jewelry shows that the Cypriots have professional metal craftsmen. They can control the purity of gold and create fine patterns. Gold is not used casually, it is the material of power.
 
 ---
 

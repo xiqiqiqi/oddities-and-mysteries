@@ -39,6 +39,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与冰川剖面示意；不是现场照片
+  - id: S4
+    title: "MIDGE: Blood Falls, McMurdo Dry Valleys"
+    publisher: "United States Antarctic Program Data Center (NSF)"
+    url: https://www.usap-dc.org/view/project/p0000002
+    year: "2012"
+    license: "公开科研项目页面；引用与事实核对"
+    usage: 血瀑布的卤水、微生物与实地研究项目记录
 cover: ../../../assets/covers/blood-falls.jpg
 related:
   - sailing-stones

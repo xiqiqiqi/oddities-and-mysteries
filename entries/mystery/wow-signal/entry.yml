@@ -1,0 +1,47 @@
+type: "phenomenon"
+title_zh: "Wow 信号：72 秒的窄带无线电"
+title_en: "The Wow Signal: Seventy-Two Seconds of Narrowband Radio"
+era: "1977 年 8 月 15 日"
+era_en: "15 August 1977"
+region: "美国，俄亥俄州，特拉华"
+region_en: "Delaware, Ohio, United States"
+coords: [40.25, -83.05]
+tags: ["Wow信号", "SETI", "射电天文", "俄亥俄州", "外星文明"]
+collections: []
+credibility: "verified"
+related: ["tabbys-star", "hessdalen-lights"]
+channel: "mystery"
+slug: "wow-signal"
+status: "published"
+featured: false
+translation_status: "native_reviewed"
+editorial_status: "ai_final_reviewed"
+fact_ledger: "research/fact-ledgers/mystery/wow-signal.md"
+image_license_audit: "research/image-audit.csv"
+reviewed_by: "XIQIQI AI Editorial"
+reviewed_at: "2026-11-17"
+review_method: "AI editorial review (no human reviewer)"
+review_scope: "zh/en text, fact ledger, image licenses, technical gate"
+sources:
+  - id: S1
+    title: "Big Ear Radio Observatory"
+    publisher: "Ohio State University Libraries"
+    url: "https://library.osu.edu/"
+    year: "2026"
+    license: "© Ohio State University; citation only"
+    usage: "大耳朵望远镜、巡天记录与 Wow 信号档案"
+  - id: S2
+    title: "The Wow Signal"
+    publisher: "North American Astrophysical Observatory (NAAPO)"
+    url: "https://www.naapo.org/"
+    year: "2026"
+    license: "© NAAPO; citation only"
+    usage: "信号记录、设备背景与后续搜索资料"
+  - id: S3
+    title: "场景复原插图与原创示意图"
+    publisher: "稀奇奇编辑部（AI 辅助生成）"
+    url: "https://xiqiqi.com/"
+    year: "2026"
+    license: "CC BY-SA 4.0；不含第三方版权素材"
+    usage: "封面与两张原创示意图；不是历史照片或测绘图"
+cover: ../../../assets/covers/wow-signal.jpg

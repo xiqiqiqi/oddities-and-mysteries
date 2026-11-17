@@ -1,8 +1,3 @@
----
-title: The Creature That Cried Itself Away
-summary: Lumberjacks in northern Pennsylvania said the woods held the ugliest animal alive. It cried constantly and left a trail of tears. Cornered, it dissolved into a pool of tears and vanished. In 1910 a state forester put the story into a book.
-lang: en
----
 
 ## 1. Crying in the Woods
 
@@ -67,6 +62,39 @@ In a world where every monster wants to eat you, a creature that cries itself aw
 ![The Squonk's appearance, folklore elements and later life](../../../assets/inline/squonk.svg)
 
 *Original schematic: the folklore elements, Cox's 1910 record and the later popular culture. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1910**: The Squonk first appeared in print in 1910.
+- **1976**: In 1976 the British band Genesis wrote a song called "Squonk". In the song the creature hides in the mountains because it is so ugly
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (OutdoorHub) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The Squonk is a literary and lumber-camp invention more than a field report; its archive is the published tall tale, the song, and the later children's book, not a record of a captured animal.
+
+## Limits of the record
+
+Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+There are no heroes or victims in Skonk's story. When the hunter chases it, it cries; when the hunter approaches, it turns into a pool of tears. This ending offers neither victory nor explanation. It just puts a stop to the pursuit. This is rare in an age where all the stories are about teaching people how to kill monsters.
+
+Skonk's story has no ending. It cries, it melts, it disappears. The next time someone walks into the woods, it will still be there. A monster that only disappears is the hardest to drive away completely.
+
+It does not chase people, nor does it wait for people. It only cries when it is seen and then disappears.
+
+Skonks are the sad monsters of logging culture. It hid in the mountains and cried until its body melted. This image later found its way into children's books and advertisements. Skonk's tears are said to heal wounds. This is campfire talk, not science.
+
+Skonk's story was later written into a children's book. It stopped crying and turned into a cute character. The sad monster of the logging camp was tamed in this way.
 
 ---
 

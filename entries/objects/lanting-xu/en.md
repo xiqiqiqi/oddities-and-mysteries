@@ -1,8 +1,3 @@
----
-title: The Writing from the Spring Outing
-summary: In the spring of 353, Wang Xizhi and forty-one friends drank and wrote poems beside a stream at the Orchid Pavilion. He wrote a 324-character preface while drunk. The original is said to have gone into a Tang emperor's tomb. What survives are Tang-dynasty copies.
-lang: en
----
 
 ## 1. The Spring of 353
 
@@ -71,6 +66,40 @@ No one knows whether the original lies in Zhaoling. But the 324 characters survi
 ![The text, the lost original and the copies of the Lantingji Xu](../../../assets/inline/lanting-xu.svg)
 
 *Original schematic: a timeline from the 353 gathering to the Tang copies and the 1965 debate. Not the original calligraphy. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1965**: In 1965 the scholar Guo Moruo argued that the preface might not be by Wang Xizhi at all
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Encyclopaedia Britannica) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+"Lanting Preface" is not only a calligraphy painting, but also an article.
+
+At the beginning of the article, write the time, place and people of the party. In the middle, write streams, wine glasses, and poems. Later, I write about extreme joy and sorrow, thinking about the short life, as the ancients said, "Death and life are also big things."
+
+The text is very flat, without fancy allusions. It is like a diary and a philosophical essay. The characters and the text have the same temperament: natural, smooth, and slightly sad.
+There are two types of copies: one is tracing, which involves covering the paper with the original and writing according to the strokes; the other is copying, which involves looking at the original and writing.
+
+Tracing can preserve the font shape, but it is easy to get stiff; writing can preserve the strokes, but it is easy to lose shape. A good copy is somewhere in between: the font shape is accurate but the meaning of the writing is still there.
+
+The strokes in Shenlong's book are very thin and the threads are very clear. It allows us to see the speed and rhythm of Wang Xizhi's writing, even if it is not the original.
+The value of "Lanting Preface" is not just a piece of calligraphy.
+
+It is an article about time, life and parties. The beginning is about scenery, the middle is about music, and the back is about "the pitch and the pitch have become obsolete". The words and text are complete when they are combined together.
+
+The words from that day are long gone. But the wind, wine and laughter that day are still in the text.
 
 ---
 

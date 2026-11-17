@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与边界示意；不是历史照片
+  - id: S4
+    title: "The Toledo War"
+    publisher: "Michigan State University Department of Geography"
+    url: https://project.geo.msu.edu/geogmich/toledo_war.html
+    year: "2026"
+    license: "大学教学资料；引用与事实核对"
+    usage: 托莱多战争的边界争议与 1836 年妥协
 cover: ../../../assets/covers/toledo-war.jpg
 related:
   - kettle-war

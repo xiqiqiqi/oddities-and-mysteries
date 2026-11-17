@@ -1,8 +1,3 @@
----
-title: The White Threads That Fell from the Sky
-summary: In October 1954, reports from Florence, Italy, described an object in the sky and, soon afterward, white threads falling to the ground. The threads were light, like cobweb on the hand, and within a short time they dried, broke, and disappeared. Some called it “angel hair.” Others said it was simply spider silk.
-lang: en
----
 
 ## 1. Florence, 1954
 
@@ -63,6 +58,32 @@ Fourth, an unknown source. Some cases genuinely lack a good natural explanation,
 The Florence case of 1954 remains in the fortean files: a description, a few photographs, conflicting analysis reports, and a sample that was never preserved.
 
 It may have been spider silk. It may have been something else. Without a sample, there is no final answer.
+
+## Timeline
+
+- **1954**: 27 October 1954, Florence.
+
+## Sources and evidence
+
+This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Angel Hair is a story about "samples". People collected white silk and did tests, but they did not connect the samples to objects in the sky. Testing can tell you what silk is, but not where it comes from. A link in the chain of evidence breaks and the story takes over the rest.
+An Italian newspaper in 1954 put angel hair and flying saucers on the same page. Layout is an interpretation: if two things are next to each other, the reader will think they are related. The same goes for today's social media. When a video and an old news are put together, a new story will grow. Typography is never just typesetting.
+The year 1954 was the peak of UFO reporting in Italy.
+
+Newspapers need stories, readers need surprise, and witnesses need explanations. A white thing appears in the sky and will soon be put into the frame of the "flying saucer". The same goes for angel hair: it was originally a natural phenomenon, but it was regarded as "a trace left by an aircraft."
+
+Today, scientists prefer to call it "spider balloon flight." The name isn't as nice as "angel," but it explains most cases.
 
 ---
 

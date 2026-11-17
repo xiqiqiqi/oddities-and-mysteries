@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与保护层示意；不是文物照片
+  - id: S4
+    title: "On the Corrosion Resistance of the Delhi Iron Pillar"
+    publisher: "Corrosion Science (Elsevier)"
+    url: https://doi.org/10.1016/S0010-938X(00)00046-9
+    year: "2000"
+    license: "学术论文；引用与事实核对"
+    usage: 德里铁柱的耐腐蚀机制与冶金分析
 cover: ../../../assets/covers/iron-pillar-delhi.jpg
 related:
   - gobekli-tepe

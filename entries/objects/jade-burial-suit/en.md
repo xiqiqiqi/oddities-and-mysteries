@@ -1,8 +1,3 @@
----
-title: The Jade Suit Sewn with Gold
-summary: In 1968, a construction crew in Mancheng, Hebei, broke into a large Han dynasty tomb. Inside was a burial suit made of more than two thousand jade plaques and about a kilogram of gold wire. It wrapped the dead from head to foot like a suit of jade armour. The ancients believed jade could preserve the body.
-lang: en
----
 
 ## 1. Mancheng, 1968
 
@@ -65,6 +60,41 @@ The suits of Liu Sheng and Dou Wan are now in the Hebei Museum.
 They sit in climate-controlled cases. Light comes from the side, and the jade plaques glow a pale green. The gold wire is thin, darkened at some joints, but the suits are still intact.
 
 A garment made for “immortality” failed to preserve the body, but it preserved the craftsmanship and beliefs of the Han dynasty in remarkable detail.
+
+## Timeline
+
+- **1968**: In 1968, a construction crew digging an air-raid shelter in Mancheng, Hebei, hit a hard stone wall.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S4 (an institutional source) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The jade clothes in the museum have been restored.
+
+The archaeological team collected the scattered jade pieces and put them together according to their shapes and numbers. The gold thread is a later imitation, not the original.
+
+A jade garment is a joint work of archeology, restoration and display.
+Jade clothing with golden threads is the Han Dynasty people’s understanding of death.
+
+They believed jade could protect the body and gold could symbolize status. Yuyi sewed the two together.
+
+Today we see craftsmanship and power. To the people of the Han Dynasty, it was a piece of clothing leading to another world.
+
+Jade clothes cannot make people immortal. It only makes the dead look like the living.
+
+The jade pieces are cold and the gold threads sparkle. They wrap up a corpse and also wrap up an era’s imagination of eternal life.
+
+This is the whole secret of jade clothing: it cannot make people immortal, it can only make death look more respectable.
 
 ---
 

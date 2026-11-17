@@ -1,8 +1,3 @@
----
-title: The Mound of the Dead
-summary: Beside the Indus in Pakistan stands a city five thousand years old. Its streets follow a grid, its houses are built of standard-sized bricks, its streets have covered drains, and its courtyards have wells and bathrooms. The city has no obvious palace and left no readable signs. Its name is Mohenjo-daro, which means “Mound of the Dead”.
-lang: en
----
 
 ## 1. The mound of the dead
 
@@ -59,6 +54,37 @@ They said Mohenjo-daro had been destroyed by an ancient nuclear explosion. The e
 There is no reliable basis for these claims. The so-called vitrification is slag formed by pottery and brick at high temperatures, possibly from kilns or fires; the “radioactive skeletons” have no original test reports; the damage to the streets comes from floods and salt, not from a blast.
 
 The real threat is natural. Rising groundwater, salt crystallisation, and floods have been eroding the mud brick for decades. In 1980 Mohenjo-daro became a World Heritage Site, and conservation work has not stopped since.
+
+## Timeline
+
+- **1922**: The name comes from Sindhi and means “Mound of the Dead”. Local people had long known that something lay under the mound
+- **1900**: Around 1900 BCE, the city was abandoned.
+- **1980**: The real threat is natural. Rising groundwater
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (UNESCO World Heritage Centre) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The public record of Mohenjo-daro comes mainly from excavation reports since the 1920s, conservation files of Pakistan's archaeology department, and studies of early urban planning and water management. The street grid, drains, Great Bath, and residential quarters are repeatedly described, but the script remains undeciphered and the ethnic and linguistic affiliations are still open. The so-called 'nuclear blast traces' have no reliable publication and belong to a later legendary layer. This entry separates urban archaeology from pseudo-scientific claims and does not treat an undeciphered script as known history.
+
+Mohenjo-daro's archive is an excavation archive first: plans, photographs, and object registers made before conservation and later urban pressure changed the site.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Mohenjo-daro was inscribed as a UNESCO World Heritage Site in 1980. Its mud-brick walls remain vulnerable to water, salt and the pressure of visitors.
+Some people associate Mohenjo-Daro with "ancient nuclear explosions."
+
+They said the site contained vitrified stone, radiation and dead bodies. There is no scientific evidence for these claims. The ruins of the ruins come from weathering, flooding and salinity.
 
 ---
 

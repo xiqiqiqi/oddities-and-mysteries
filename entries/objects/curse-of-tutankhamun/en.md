@@ -1,8 +1,3 @@
----
-title: The Pharaoh's Curse
-summary: In November 1922 Howard Carter opened the tomb of Tutankhamun. Five months later his sponsor, Lord Carnarvon, died of an infection. The newspapers called it the curse of the pharaoh. The inscription about death coming on swift wings was never in the tomb.
-lang: en
----
 
 ## 1. November 1922
 
@@ -69,6 +64,42 @@ The curse became part of popular culture. Films, novels and souvenirs use it. Th
 ![The discovery, Carnarvon's death, and the newspaper curse](../../../assets/inline/tut-curse.svg)
 
 *Original schematic: the discovery in 1922, Carnarvon's death in 1923, and the newspaper stories about the curse. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1922**: On 4 November 1922, a workman for the archaeologist Howard Carter uncovered a step. Below it was a sealed do...
+- **1923**: In March 1923 Carnarvon was bitten by a mosquito on the cheek.
+- **1939**: But the list was selected. Dozens of people entered the tomb
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Weird Science History) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'folklore'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The "cursed death list" was compiled by newspapers.
+
+The people on the list died over a wide span of time and had different causes of death. Some people die from disease, some die from accidents, some die from old age. Put them together and they become a "curse chain".
+
+The list also left out many people: archaeological team members who continued to work, Egyptian workers, and porters. They didn't die, and they weren't included in the story.
+Newspapers from the 1920s, like "The Curse of the Pharaoh."
+
+The discovery of Tutankhamun's tomb is global news. Reporters need continuous reporting and new suspense. Curses, gold, and mysterious deaths are the best material.
+
+Newspapers also compete with each other. If one family writes "curse", the other family will write "a more terrible curse". Stories are amplified by competition.
+The "Pharaoh's Curse" was created by newspapers.
+
+In the 1920s, competition among newspapers was fierce. Tutankhamun's tomb was the biggest news at the time, and reporters needed a new angle. Curses, gold, and death sell better than archaeological reports.
+
+Egyptologists were also involved in the spread. Carter and Carnarvon's team needed money and public attention. A "cursed" story that brings patronage and tourists.
 
 ---
 

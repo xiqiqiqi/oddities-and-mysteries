@@ -1,8 +1,3 @@
----
-title: The Beard That Was Glued Back
-summary: Tutankhamun's gold mask was placed over the face of a teenage pharaoh more than three thousand years ago. In 2014, the mask's beard came off during cleaning, and staff glued it back with epoxy. The glue spilled and left scratches on the gold. A German-Egyptian team later removed the epoxy and reattached the beard with beeswax.
-lang: en
----
 
 ## 1. The tomb in 1925
 
@@ -57,6 +52,44 @@ In October 2025, the mask was moved from the Egyptian Museum in Cairo to the Gra
 It has a gallery of its own. The light is low, and the mask is lit separately. Visitors look at it through glass and move on quickly.
 
 A king who died at eighteen or nineteen still has a gold face three thousand years later. Someone broke his beard while fixing a lamp and glued it back with the wrong adhesive. Those marks are now part of its history too.
+
+## Timeline
+
+- **1925**: On 28 October 1925, Howard Carter opened Tutankhamun's coffin.
+- **2014**: In August 2014, the display case light at the Egyptian Museum needed repair.
+- **2015**: At the end of 2015, a German-Egyptian conservation team began work on the mask.
+- **1923**: After Tutankhamun's tomb was opened, its patron Lord Carnarvon died in 1923.
+- **2025**: In October 2025, the mask was moved from the Egyptian Museum in Cairo to the Grand Egyptian Museum in Giza.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (National Geographic) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The gold foil of the mask is very thin.
+
+Craftsmen hammered the gold nuggets into thin slices, then cut, shaped and set them. The thickness of the gold foil is uneven, thick in some places and thin in others. This is not a mistake, but evidence of handiwork.
+
+The plaster and wood underneath the gold leaf determine the shape of the mask. The gold foil is just the skin, the skeleton is inside. Over time, the skeleton will deform and the gold foil will crack.
+The main material of the mask is gold.
+
+The gold leaf is supported by plaster and wood. The gold content in different parts is not exactly the same, some are of higher purity and some have more alloys. The inlaid stones are also particular: lapis lazuli comes from Afghanistan, turquoise comes from Sinai, and carnelian comes from the eastern desert of Egypt.
+
+These materials show that Egypt's trade network was farther than many people imagined. A pharaoh's funeral included stones from several countries.
+Cultural relic protection is not just about repairing something.
+
+It also includes recording, monitoring, restricting access, and training personnel. Every movement of the mask must be approved. Every time you clean, use the softest tools possible.
+
+A mask has been buried, discovered, transported, restored, and exhibited for more than three thousand years. Its history is longer than that of Pharaoh.
 
 ---
 

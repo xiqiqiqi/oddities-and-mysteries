@@ -1,0 +1,47 @@
+type: "place"
+title_zh: "吉萨高原：三座金字塔与一座狮身人面像"
+title_en: "The Giza Plateau: Three Pyramids and a Sphinx"
+era: "约公元前 2580–前 2500 年"
+era_en: "c. 2580–2500 BCE"
+region: "埃及，吉萨，开罗西南"
+region_en: "Giza, southwest of Cairo, Egypt"
+coords: [29.9792, 31.1342]
+tags: ["吉萨", "金字塔", "埃及", "第四王朝", "考古"]
+collections: []
+credibility: "verified"
+related: ["troy", "atlantis"]
+channel: "places"
+slug: "giza-pyramids"
+status: "published"
+featured: false
+translation_status: "native_reviewed"
+editorial_status: "ai_final_reviewed"
+fact_ledger: "research/fact-ledgers/places/giza-pyramids.md"
+image_license_audit: "research/image-audit.csv"
+reviewed_by: "XIQIQI AI Editorial"
+reviewed_at: "2026-11-17"
+review_method: "AI editorial review (no human reviewer)"
+review_scope: "zh/en text, fact ledger, image licenses, technical gate"
+sources:
+  - id: S1
+    title: "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur"
+    publisher: "UNESCO World Heritage Centre"
+    url: "https://whc.unesco.org/en/list/86/"
+    year: "2026"
+    license: "© UNESCO; citation only"
+    usage: "1979 年世界遗产登录、吉萨遗址范围与保护状况"
+  - id: S2
+    title: "Giza Project"
+    publisher: "Harvard University"
+    url: "https://giza.fas.harvard.edu/"
+    year: "2026"
+    license: "© Harvard University; citation only"
+    usage: "吉萨的发掘档案、测绘记录与工匠聚落研究"
+  - id: S3
+    title: "场景复原插图与原创示意图"
+    publisher: "稀奇奇编辑部（AI 辅助生成）"
+    url: "https://xiqiqi.com/"
+    year: "2026"
+    license: "CC BY-SA 4.0；不含第三方版权素材"
+    usage: "封面与两张原创示意图；不是历史照片或测绘图"
+cover: ../../../assets/covers/giza-pyramids.jpg

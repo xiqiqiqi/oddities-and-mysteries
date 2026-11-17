@@ -1,8 +1,3 @@
----
-title: The Lighthouse That Sank
-summary: A lighthouse more than a hundred metres tall once stood at the entrance to Alexandria's harbour. A fire burned at the top at night, and a mirror was said to reflect the sun by day. It stood for over a thousand years before earthquakes brought it down and its stones fell into the sea. In the 1990s, divers found the remains on the harbour floor.
-lang: en
----
 
 ## 1. The door to the harbour
 
@@ -63,6 +58,41 @@ Its walls contain stones from the lighthouse. Visitors can see the harbour and t
 The Antiquities Museum at the Bibliotheca Alexandrina has a collection of objects raised from the Eastern Harbour and Abukir Bay. Statues and blocks sit in glass cases, with the depth they came from written on the labels.
 
 A building made to guide ships ended up sinking into the harbour it once guarded.
+
+## Timeline
+
+- **1303**: Earthquakes weakened it. Major tremors struck the region in 956
+- **1480**: In 1480, Sultan Qaitbay built a fortress on the site. The building material came from the fallen lighthouse:...
+- **1994**: In 1994, the French underwater archaeologist Jean-Yves Empereur took a diving team into the Eastern Harbour.
+- **1993**: Diving was difficult. In 1993, hundreds of concrete blocks had been dropped into the harbour to protect the ...
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Ministère de la Culture (France)) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Stones on the ocean floor were measured, photographed and numbered.
+
+Some stones have inscriptions on them, and some have carvings. They cannot put the entire tower back together, but they can prove its existence.
+
+The lighthouse fell, but the name remains. It became a common word and the memory of a port.
+
+The light from the lighthouse shines on the sea and the direction of the ship. Without it, nights in port would be much longer. There is still a lighthouse in Alexandria today, but it has just changed its appearance.
+
+The lighthouse is gone, but the port is still there. The ship came and went, and the light shone on the sea in a different way.
+
+The light will disappear, the direction will not.
+
+The memory of a lighthouse is longer than its stones. The wind on the seaside, still remember it.
 
 ---
 

@@ -1,8 +1,3 @@
----
-title: The Cup That Changes Colour
-summary: In the British Museum stands a Roman glass cup. Lit from the front, it is green; hold it up to the light, and it turns red. The effect comes from gold and silver nanoparticles suspended in the glass. The Romans made it without knowing how it worked. More than a thousand years later, scientists saw the particles under an electron microscope.
-lang: en
----
 
 ## 1. The cup in the British Museum
 
@@ -63,6 +58,36 @@ The Lycurgus Cup is on display in the Roman gallery of the British Museum.
 The case lighting is arranged so that visitors can see both the green and the red. The museum has also made replicas that imitate the nanoparticle effect with modern technology, but the colour is still not quite the same.
 
 The Romans made a nanomaterial without knowing what a nanomaterial was. They saw colour; we see the mechanism. The cup has not changed. What changed is the way we look at it.
+
+## Timeline
+
+- **1957**: It probably surfaced in a European collection during the Renaissance. In the nineteenth century it entered the Rothschild collection. In 1957 the British Museum acquired it.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (The British Museum) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Cups may be made using a "dip plating" or "sandwich" process.
+
+Craftsmen dissolve a compound of gold and silver into the glass and then heat it to precipitate the metal into particles. The temperature and time must be controlled very accurately, otherwise the particles will be too large and the glass will become cloudy.
+Glass craftsmanship was very developed in ancient Rome.
+
+Craftsmen can blow, mold, cut and carve intricate objects. Researchers have different opinions on whether the reliefs on the ancient Lycu cup were carved after the glass was cooled or formed using molds.
+The color change of the Lycu Cup is not magic.
+
+It is the absorption and scattering of light by nanoparticles. Fourth-century craftsmen didn't understand physics, but they knew how to control fire, metal, and glass.
+
+A cup that connects ancient craftsmanship with modern science. It proves that the history of technology is longer than we think.
 
 ---
 

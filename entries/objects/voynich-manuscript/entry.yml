@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与手稿结构示意；不是手稿影印
+  - id: S4
+    title: "Can I view the Voynich Manuscript?"
+    publisher: "Yale University Library"
+    url: "https://ask.library.yale.edu/faq/174903"
+    year: "2024"
+    license: "© Yale University; citation only"
+    usage: "手稿的保存状态、数字化影像与调阅限制"
 cover: ../../../assets/covers/voynich-manuscript.jpg
 related:
   - crystal-skulls

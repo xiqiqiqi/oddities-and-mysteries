@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与目击描述示意；不是现场照片
+  - id: S4
+    title: "The Legend of the Almas: A Comparative and Critical Analysis"
+    publisher: "SIT Digital Collections"
+    url: "https://digitalcollections.sit.edu/cgi/viewcontent.cgi?article=1780&context=isp_collection"
+    year: "2026"
+    license: "Academic thesis; citation only"
+    usage: "阿尔玛斯口述传统、苏联考察与尼安德特人假说的批判性回顾"
 cover: ../../../assets/covers/almas.jpg
 related:
   - loch-ness

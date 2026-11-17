@@ -1,0 +1,47 @@
+type: "object"
+title_zh: "安提基特拉机械：沉船里的齿轮宇宙"
+title_en: "The Antikythera Mechanism: A Clockwork Cosmos from a Shipwreck"
+era: "约公元前 2 世纪–前 1 世纪"
+era_en: "c. 2nd–1st century BCE"
+region: "希腊，安提基特拉岛附近海域"
+region_en: "Waters off Antikythera, Greece"
+coords: [35.861, 23.306]
+tags: ["安提基特拉", "古希腊", "天文", "齿轮", "考古"]
+collections: []
+credibility: "verified"
+related: ["lycurgus-cup", "piri-reis-map"]
+channel: "objects"
+slug: "antikythera-mechanism"
+status: "published"
+featured: false
+translation_status: "native_reviewed"
+editorial_status: "ai_final_reviewed"
+fact_ledger: "research/fact-ledgers/objects/antikythera-mechanism.md"
+image_license_audit: "research/image-audit.csv"
+reviewed_by: "XIQIQI AI Editorial"
+reviewed_at: "2026-11-17"
+review_method: "AI editorial review (no human reviewer)"
+review_scope: "zh/en text, fact ledger, image licenses, technical gate"
+sources:
+  - id: S1
+    title: "The Antikythera Mechanism"
+    publisher: "National Archaeological Museum, Athens"
+    url: "https://www.namuseum.gr/en/collection/"
+    year: "2026"
+    license: "© National Archaeological Museum; citation only"
+    usage: "原件收藏、展览与基本描述"
+  - id: S2
+    title: "A Model of the Cosmos in the ancient Greek Antikythera Mechanism"
+    publisher: "Scientific Reports / Nature Portfolio"
+    url: "https://www.nature.com/articles/s41598-021-84310-w"
+    year: "2021"
+    license: "© The Authors; citation only"
+    usage: "齿轮结构、天文功能与 2021 年复原研究"
+  - id: S3
+    title: "场景复原插图与原创示意图"
+    publisher: "稀奇奇编辑部（AI 辅助生成）"
+    url: "https://xiqiqi.com/"
+    year: "2026"
+    license: "CC BY-SA 4.0；不含第三方版权素材"
+    usage: "封面与两张原创示意图；不是历史照片或测绘图"
+cover: ../../../assets/covers/antikythera-mechanism.jpg

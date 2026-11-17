@@ -1,8 +1,3 @@
----
-title: The Night Over Phoenix
-summary: On the evening of 13 March 1997, hundreds of people across Arizona looked up and saw a row of lights. Some described a V-shaped formation; others saw only a few hovering points. Two sightings, one video, and one military explanation turned the night into two separate stories.
-lang: en
----
 
 ## 1. 7:55 p.m.
 
@@ -57,6 +52,36 @@ That is what makes the case awkward: the most widely seen footage happens to be 
 After the Phoenix event, unofficial research groups in Arizona began collecting witness testimony. Every March, people there still bring up that night.
 
 For the witnesses, it was the strangest thing they had ever seen. For researchers, it is a question that was split in two: one half answered, one half not.
+
+## Timeline
+
+- **1997**: Thursday, 13 March 1997. It was already dark.
+- **2007**: Years later, Symington changed his account. In 2007 he said in interviews and a documentary that he had seen...
+
+## Sources and evidence
+
+This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The Phoenix Lights file includes pilot reports, police logs, television footage, and later flare explanations; the strongest material is the timing and direction of the sightings, not the shape of the lights.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The flare explanation is supported by evidence.
+
+Training records, time, location and eyewitness descriptions matched. Flares burn in the air with high brightness, long duration, and are arranged in rows. From a distance, they look like a row of stopped light spots.
+
+But flares cannot account for V-shaped light arrays. V-shaped sightings occur earlier, are more widespread, and have more witnesses. It has no training records for the same time.
+Phoenix Light is a "collective witnessing" type of archive. It has numerous witnesses, several videos, and two distinct phenomena. The value of the archive lies in separating the V-shaped light array and the flares, rather than merging them into a more easily disseminated story.
 
 ---
 

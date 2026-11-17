@@ -59,6 +59,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 1981–1986 时间线示意
+  - id: S7
+    title: "The 1984 Rajneeshee Bioterrorism Attack: An Example of Biological Warfare by Violent Non-state Actors"
+    publisher: "PMC / National Library of Medicine"
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12369568/
+    year: "2025"
+    license: "开放获取学术论文；引用与事实核对"
+    usage: 1984 年拉杰尼希生物恐怖袭击与调查
 cover: ../../../assets/covers/rajneeshee.jpg
 related:
   - litvinenko

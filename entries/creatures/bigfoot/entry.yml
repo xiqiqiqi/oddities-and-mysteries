@@ -1,0 +1,47 @@
+type: "creature"
+title_zh: "大脚怪：脚印、影像与一个未确认的灵长类"
+title_en: "Bigfoot: Footprints, Film, and an Unconfirmed Primate"
+era: "20 世纪以来（民间叙事更早）"
+era_en: "20th century onward (older folk narrative)"
+region: "北美，太平洋西北部"
+region_en: "Pacific Northwest, North America"
+coords: [41.0, -123.7]
+tags: ["大脚怪", "Sasquatch", "民间传说", "北美", "神秘动物学"]
+collections: []
+credibility: "verified"
+related: ["yeti", "almas"]
+channel: "creatures"
+slug: "bigfoot"
+status: "published"
+featured: false
+translation_status: "native_reviewed"
+editorial_status: "ai_final_reviewed"
+fact_ledger: "research/fact-ledgers/creatures/bigfoot.md"
+image_license_audit: "research/image-audit.csv"
+reviewed_by: "XIQIQI AI Editorial"
+reviewed_at: "2026-11-17"
+review_method: "AI editorial review (no human reviewer)"
+review_scope: "zh/en text, fact ledger, image licenses, technical gate"
+sources:
+  - id: S1
+    title: "Why Bigfoot Doesn't Exist"
+    publisher: "Smithsonian Magazine"
+    url: "https://www.smithsonianmag.com/science-nature/why-bigfoot-doesnt-exist-180964531/"
+    year: "2026"
+    license: "© Smithsonian Institution; citation only"
+    usage: "大脚怪证据、DNA 检验与科学解释"
+  - id: S2
+    title: "American Folklore Society"
+    publisher: "American Folklore Society"
+    url: "https://www.afsnet.org/"
+    year: "2026"
+    license: "© American Folklore Society; citation only"
+    usage: "民间传说、原住民叙事与神秘动物学研究背景"
+  - id: S3
+    title: "场景复原插图与原创示意图"
+    publisher: "稀奇奇编辑部（AI 辅助生成）"
+    url: "https://xiqiqi.com/"
+    year: "2026"
+    license: "CC BY-SA 4.0；不含第三方版权素材"
+    usage: "封面与两张原创示意图；不是历史照片或测绘图"
+cover: ../../../assets/covers/bigfoot.jpg

@@ -1,8 +1,3 @@
----
-title: The Light That Followed the Car
-summary: In the outback of Queensland, Australia, night drivers sometimes see a light that should not be there. It waits ahead like another car's headlights; speed up and it speeds up; get close and it vanishes. Locals call it the Min Min light.
-lang: en
----
 
 ## 1. The night road at Boulia
 
@@ -63,6 +58,32 @@ Each explanation fits some reports. None explains every detail. That is why the 
 Boulia's tourist material often mentions the Min Min light. Locals tell the story not only because they believe it, but because it belongs to the country: the road is long, the night is dark, and there ought to be something out there.
 
 For researchers, it is a problem in optics. For drivers, it is a light that should not be on the road ahead.
+
+## Timeline
+
+- Background: recorded since the 19th century
+
+## Sources and evidence
+
+This entry currently relies mainly on public summaries and original illustrations; independent archival sources are still being added. Dates, places, and names follow the lowest common denominator of the available material.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Min Minguang’s story is inseparable from the environment of the Australian outback.
+
+The road there is straight, there are few cars, it is dark, and the field of vision can extend to dozens of kilometers. A distant light will be magnified in such an environment. Without the distraction of city lights, every bit of light looks special.
+
+The story also reminds drivers: Don’t chase lights at night. There is no end to the road in the outback, and the fuel gauge is more realistic than legend.
+In Min Minguang’s story, there is a detail that is rarely mentioned: the place where light appears is often at a distance that can be illuminated by car lights but cannot be clearly seen by humans. This distance is just enough for the brain to complete the shape. Too close and the light is car lights; too far and the light is stars. The middle section is where the legend grows.
+For drivers, the most important thing about sensitive light is not what it is, but where it appears. The light is in the distance and the road is under your feet. People who chase light tend to forget to look at the gas gauge and the road shoulder. The legend can be heard, but the steering wheel cannot be loosened. This is the most practical folk wisdom on outback roads.
 
 ---
 

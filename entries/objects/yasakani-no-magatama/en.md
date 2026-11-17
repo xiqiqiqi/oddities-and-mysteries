@@ -1,8 +1,3 @@
----
-title: The Jewel in the Box
-summary: The sword is at Atsuta Shrine, the mirror at Ise, and the jewel in Tokyo's Imperial Palace. Known as Yasakani no Magatama, it is never shown in public, and no one opens its box. Myth says it was hung outside a cave; in 1185 it sank with a child emperor and was fished out again. No one alive knows its shape.
-lang: en
----
 
 ## 1. A Room in the Palace
 
@@ -69,6 +64,41 @@ On that day in 2019, the box was carried down a corridor and set down. The cerem
 ![The three regalia, Dan-no-ura and the jewel in its box](../../../assets/inline/yasakani-no-magatama.svg)
 
 *Original schematic: the three regalia, the 1185 battle of Dan-no-ura and the box in the palace. Not a photograph of an artefact. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **2019**: On 1 May 2019, Emperor Naruhito acceded to the throne.
+- **1185**: In 1185, at the naval battle of Dan-no-ura, the Taira clan was defeated.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Kokugakuin University) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The three artifacts have symbolic meaning in the enthronement ceremony of the Japanese emperor.
+
+But "symbol" is not the same as "legal document". Neither the Meiji Constitution nor the post-war imperial model listed the three artifacts as necessary conditions for ascending to the throne. They were more of a ritual confirmation that the new emperor was inheriting not just power but a set of objects passed down from mythology.
+
+The legitimacy of this set of objects comes from narratives "from ancient times" rather than from a single archaeological discovery. No one can prove that they are the three things in the myth.
+There are many replicas of the three artifacts in Japan.
+
+There are replicas in museums, shrines and tourist shops. Mirrors, swords and jade are made into keychains, ornaments and souvenirs. Some of the shapes of the replicas are based on ancient paintings, some are based on legends, and some are completely imagined.
+
+The more copies there are, the more mysterious the original becomes. One can buy an "Eight-foot Magatama", but the real one is still in the Imperial Palace and is not displayed to the public.
+When the emperor ascends the throne, three artifacts appear in ceremonies.
+
+But the ceremony was closed to the media. The outside world can only know what happened through announcements from the Imperial Household Agency and descriptions from participants. There are few photos and even less detail.
+
+This closure allows the artifact to retain its mythical status. If they were placed in a museum glass case, measured, photographed, and studied, they might become "artifacts." Today, they remain "artifacts."
 
 ---
 

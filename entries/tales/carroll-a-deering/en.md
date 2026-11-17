@@ -1,8 +1,3 @@
----
-title: The Ship With No Crew
-summary: In January 1921, a five-masted schooner ran aground on Diamond Shoals off North Carolina. When the Coast Guard boarded her, there was no one aboard — the lifeboats and navigation instruments were gone, and a meal was still in the galley. The eleven crew members were never found.
-lang: en
----
 
 ## 1. A ship on Diamond Shoals
 
@@ -65,6 +60,53 @@ The Deering's wreck is long gone. After the dynamiting, the fragments were scatt
 Books and articles about the case keep appearing. The theories multiply; the evidence does not. The crew's families waited for years and finally accepted that there was no answer.
 
 When the ship was towed off the shoal, the lifeboats, the instruments, and the eleven men were all missing. What remained was a meal in the galley and a cat with six toes.
+
+## Timeline
+
+- **1921**: On 31 January 1921, off Cape Hatteras, North Carolina.
+- **1919**: The Deering was launched in 1919, a coastal freighter built to carry timber and coal.
+- **1920**: In September 1920 she left Norfolk
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (U.S. National Park Service) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The cat on the ship is the only living thing. They were rescued and later adopted. The ship was towed back to port, but no one could explain why the crew left.
+
+The things on the boat are still there, but the people are gone. The wind on the Bund has blown the story for a hundred years.
+
+The ship was towed back to port and the story was left on the surface. The man is gone, but the cat is still there.
+In 1921, the five-masted schooner Carroll A. Deering was discovered on the Outer Banks of North Carolina. The ship's lifeboat was missing and ten crew members were missing. The ship was towed back to port, but no one could explain why the crew left.
+
+The cargo on board was timber. There was no damage to the hull and the anchor was still there. The crew's belongings were left in the cabin.
+
+When the ship was found, the sails were lowered and the steering wheel was intact. No storms were recorded at sea.
+
+No one sent a distress signal before the crew disappeared. Their names are not in the port records.
+
+No one knows the answer.
+
+None of the ten people on board left any last words. Search boats searched for ten days and found nothing.
+
+The ship's name comes from its first owner. That was a wealthy businessman. After the ship was towed back to port, it was used as an exhibition. Later, it was demolished.
+
+The families of the crew have been waiting for many years. No result.
+
+No one explained why the ship didn't sink.
+
+The boat was later dismantled into timber and only the photos remain.
+
+The story of the ship has no ending.
 
 ---
 

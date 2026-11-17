@@ -39,6 +39,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与石阵排列示意；不是现场照片
+  - id: S4
+    title: "The Carnac alignments: a spectacular landscape"
+    publisher: "Alignements de Carnac / Centre des monuments nationaux"
+    url: https://www.menhirs-carnac.fr/en/content/download/9853053/file/ALIGNEMENTS%20CARNAC_EN_web.pdf?version=14&inLanguage=eng-GB
+    year: "2026"
+    license: "法国官方遗址资料；引用与事实核对"
+    usage: 卡纳克石阵的新石器时代背景、保护史与传说
 cover: ../../../assets/covers/carnac-stones.jpg
 related:
   - gobekli-tepe

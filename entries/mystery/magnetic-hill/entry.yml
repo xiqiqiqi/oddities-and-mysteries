@@ -39,6 +39,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与坡度示意；不是现场照片
+  - id: S4
+    title: "Magnetic Hill Illusion"
+    publisher: "City of Moncton"
+    url: https://www.moncton.ca/en/magnetic-hill-illusion
+    year: "2026"
+    license: "政府网站内容；引用与事实核对"
+    usage: 磁山的官方说明与重力丘错觉
 cover: ../../../assets/covers/magnetic-hill.jpg
 related:
   - sailing-stones

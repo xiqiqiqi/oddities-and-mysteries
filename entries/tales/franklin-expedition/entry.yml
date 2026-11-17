@@ -1,0 +1,47 @@
+type: "story"
+title_zh: "富兰克林探险队：西北航道上的 129 人"
+title_en: "The Franklin Expedition: 129 Men and the Northwest Passage"
+era: "1845–1848 年（搜索延续至今）"
+era_en: "1845–1848 (search continues)"
+region: "加拿大北极群岛，威廉王岛附近"
+region_en: "Arctic Archipelago, near King William Island, Canada"
+coords: [68.5, -98.8]
+tags: ["富兰克林", "北极", "西北航道", "探险", "考古"]
+collections: []
+credibility: "verified"
+related: ["dyatlov-pass", "mh370"]
+channel: "tales"
+slug: "franklin-expedition"
+status: "published"
+featured: false
+translation_status: "native_reviewed"
+editorial_status: "ai_final_reviewed"
+fact_ledger: "research/fact-ledgers/tales/franklin-expedition.md"
+image_license_audit: "research/image-audit.csv"
+reviewed_by: "XIQIQI AI Editorial"
+reviewed_at: "2026-11-17"
+review_method: "AI editorial review (no human reviewer)"
+review_scope: "zh/en text, fact ledger, image licenses, technical gate"
+sources:
+  - id: S1
+    title: "Franklin Expedition"
+    publisher: "Parks Canada"
+    url: "https://parks.canada.ca/culture/decouverte-discovery/franklin-expedition"
+    year: "2026"
+    license: "© Government of Canada; citation only"
+    usage: "探险队时间线、沉船发现与国家历史遗址管理"
+  - id: S2
+    title: "The Franklin Expedition"
+    publisher: "Royal Museums Greenwich"
+    url: "https://www.rmg.co.uk/stories/topics/franklin-expedition"
+    year: "2026"
+    license: "© Royal Museums Greenwich; citation only"
+    usage: "1845 年出发、搜索史与因纽特证词背景"
+  - id: S3
+    title: "场景复原插图与原创示意图"
+    publisher: "稀奇奇编辑部（AI 辅助生成）"
+    url: "https://xiqiqi.com/"
+    year: "2026"
+    license: "CC BY-SA 4.0；不含第三方版权素材"
+    usage: "封面与两张原创示意图；不是历史照片或测绘图"
+cover: ../../../assets/covers/franklin-expedition.jpg

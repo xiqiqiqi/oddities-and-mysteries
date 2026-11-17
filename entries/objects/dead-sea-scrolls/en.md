@@ -1,8 +1,3 @@
----
-title: The Scrolls in the Caves
-summary: In 1947, a Bedouin shepherd found pottery jars containing ancient scrolls in a cave near the Dead Sea. Over the next decade, archaeologists recovered about nine hundred manuscripts from eleven caves. They are roughly a thousand years older than the oldest surviving Hebrew Bible texts. Later, some of the “new fragments” that reached the market were exposed as modern forgeries.
-lang: en
----
 
 ## 1. The shepherd of 1947
 
@@ -65,6 +60,40 @@ Most of the Dead Sea Scrolls are kept at the Israel Museum in Jerusalem, in the 
 It is a white domed building with a dark interior, where the Great Isaiah Scroll turns slowly in a glass case. Other fragments are kept in storage, and some have been digitised and can be viewed online.
 
 They did not overturn the Bible or solve every mystery. What they did was put the people who copied, read, and hid these texts two thousand years ago back into history.
+
+## Timeline
+
+- **1947**: In 1947, on the western shore of the Dead Sea, near Qumran.
+- **2002**: After 2002, “new” Dead Sea Scroll fragments began to appear on the market.
+- **2009**: They were sold to collectors, museums, and evangelical institutions at high prices. The Museum of the Bible ...
+- **2020**: In 2020, an independent investigation funded by the museum concluded that all sixteen were modern forgeries....
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Museum of the Bible) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The Scrolls archive is a conservation and scholarly record: cave finds, acquisition histories, editorial reconstructions, and museum display. The text is often incomplete, and every translation is an interpretation of gaps as well as letters.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+There are differences between the biblical text in the scroll and the later Masoretic text.
+
+These differences allow researchers to see changes in the biblical text as it spreads. It was not written in one sitting but transcribed, revised and edited.
+The Dead Sea Scrolls are not a book.
+
+It is a collection of books, fragments and community records. They come from different authors and different eras.
+
+The scrolls allow us to see how the biblical text changed as it circulated. It's not a fixed version, it's a process.
 
 ---
 

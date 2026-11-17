@@ -1,0 +1,47 @@
+type: "place"
+title_zh: "巨石阵：石头、尸骨与转折的年"
+title_en: "Stonehenge: Stones, Bones, and the Turning Year"
+era: "约公元前 3000–前 1500 年"
+era_en: "c. 3000–1500 BCE"
+region: "英国，威尔特郡，埃姆斯伯里"
+region_en: "Amesbury, Wiltshire, England"
+coords: [51.1789, -1.8262]
+tags: ["巨石阵", "新石器时代", "巨石建筑", "英国", "考古"]
+collections: []
+credibility: "verified"
+related: ["carnac-stones", "troy"]
+channel: "places"
+slug: "stonehenge"
+status: "published"
+featured: false
+translation_status: "native_reviewed"
+editorial_status: "ai_final_reviewed"
+fact_ledger: "research/fact-ledgers/places/stonehenge.md"
+image_license_audit: "research/image-audit.csv"
+reviewed_by: "XIQIQI AI Editorial"
+reviewed_at: "2026-11-17"
+review_method: "AI editorial review (no human reviewer)"
+review_scope: "zh/en text, fact ledger, image licenses, technical gate"
+sources:
+  - id: S1
+    title: "Stonehenge: History and Stories"
+    publisher: "English Heritage"
+    url: "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/"
+    year: "2026"
+    license: "© English Heritage; citation only"
+    usage: "遗址分期、石头来源、至点对齐与当前管理"
+  - id: S2
+    title: "Stonehenge, Avebury and Associated Sites"
+    publisher: "UNESCO World Heritage Centre"
+    url: "https://whc.unesco.org/en/list/373/"
+    year: "2026"
+    license: "© UNESCO; citation only"
+    usage: "1986 年世界遗产登录、突出普遍价值与保护范围"
+  - id: S3
+    title: "场景复原插图与原创示意图"
+    publisher: "稀奇奇编辑部（AI 辅助生成）"
+    url: "https://xiqiqi.com/"
+    year: "2026"
+    license: "CC BY-SA 4.0；不含第三方版权素材"
+    usage: "封面与两张原创示意图；不是历史照片或测绘图"
+cover: ../../../assets/covers/stonehenge.jpg

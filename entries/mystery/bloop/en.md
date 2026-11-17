@@ -1,8 +1,3 @@
----
-title: The Bloop from the Deep
-summary: In 1997, NOAA hydrophones in the South Pacific recorded an ultra-low-frequency sound. It was loud, deep, and about a minute long, strong enough to be picked up thousands of kilometres away. Some called it a deep-sea monster; others linked it to Cthulhu. Later, researchers offered a less romantic answer — an iceberg breaking apart.
-lang: en
----
 
 ## 1. Hydrophones in 1997
 
@@ -71,6 +66,34 @@ Bloop was not the only strange sound recorded in 1997.
 The same hydrophone array also recorded “Slow Down” and “Whistle.” All three were given vivid names, all three were suspected of being unknown creatures, and all three were later linked to icequakes.
 
 They are like three brothers: one low, one slowly descending, one whistle-like. Heard together, they really do sound like something communicating in the deep. The spectrograms tell a plainer story: ice is moving, and the ocean is loud.
+
+## Timeline
+
+- **1997**: In 1997, the US National Oceanic and Atmospheric Administration (NOAA) had a set of hydrophones deployed in ...
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (NOAA Pacific Marine Environmental Laboratory) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The Bloop record comes from the 1997 Pacific hydrophone array, NOAA's public statements, and later spectral analyses. The signal was short, low-frequency, and heard on more than one array; researchers later compared it to iceberg calving and ice seismicity. The original waveform, array coordinates, and processing parameters were not all released, limiting independent recomputation. This entry separates 'a sound was recorded' from 'we know what made it'.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Another possibility is a whale.
+
+Large whales emit low-frequency calls, some of which can be heard hundreds of kilometers away. Whale songs have complex structures, but at a distance, processed by hydrophones, all that may remain is a low pulse.
+
+The difference between a Bloop and a whale song is the repetition. While whale songs usually repeat the same melody, Bloop appears only once. At one time, it was difficult to tell whether a sound was an animal or a physical event.
 
 ---
 

@@ -1,8 +1,3 @@
----
-title: The Monster the Newspapers Built
-summary: In February 1909 a small newspaper in Frederick County, Maryland, began a series about a one-eyed, winged beast with steel claws. It said the Smithsonian was sending experts and that President Roosevelt might join the hunt. Weeks later the paper admitted that the stories had been invented to sell copies.
-lang: en
----
 
 ## 1. South Mountain
 
@@ -73,6 +68,38 @@ The paper of 1909 is long gone. The monster is still around, printed on T-shirts
 ![The 1909 reports, the creature, and the spread of the story](../../../assets/inline/snallygaster.svg)
 
 *Original schematic: the 1909 series in the Middletown Valley Register, the features of the creature and the spread of the story. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1909**: By 1909 the word had become “snallygaster”.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Maryland Historical Trust) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The Snallygaster file is a sample of newspaper archive work. Nineteenth- and early twentieth-century local papers in Pennsylvania and Maryland mixed sightings, tavern stories, and political cartoons; later local-history writing then treated those pages as 'tradition'. There are no photographs, specimens, or a coherent chain of sightings, only repeatedly copied woodcuts and descriptions. This entry separates the history of a newspaper image from a zoological question and does not treat an illustration as witness evidence.
+
+## Limits of the record
+
+Most sightings are recollections set down after the fact. Clear images, plaster casts, and independently examinable physical traces are missing; the richer the folklore, the more carefully 'someone said so' must be separated from 'it happened'.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'hoax'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+Once the snallygaster hoax was acknowledged, the story became safer—no one needed to prove its existence or deny it. It could comfortably exist as a mascot on fire trucks, coffee mugs, and children’s drawings. An unmasked monster can live more lightly than one believed.
+
+In 1909, the Midlothian paper described the snallygaster as a flying creature that stole livestock and drank blood. The tale spread from Baltimore to Washington and later inspired the names of local bars and teams. The coverage contained no photographs or specimens, existing only in old newspapers.
+
+The reports focused on 1909, depicting the creature as half‑bird, half‑serpent. The name was later adopted by a local tavern, and eventually became a team mascot.
+
+The old newspapers survive. They can be found on microfilm in libraries, which must be hand‑cranked to view.
+
+The spelling of snallygaster varied widely; no definitive version exists. The historic microfilm, however, remains a tangible link to the legend.
 
 ---
 

@@ -1,8 +1,3 @@
----
-title: The Face on the Shroud
-summary: In Turin Cathedral there is a linen cloth more than four metres long, carrying the front and back image of a bearded man with wounds from whipping, nails and something like a crown of thorns. In 1898 a photographic negative made the face suddenly clear. In 1988 three laboratories dated the cloth to between 1260 and 1390. The argument has not stopped since.
-lang: en
----
 
 ## 1. A piece of cloth
 
@@ -79,6 +74,29 @@ Pollen, dust and iron particles have been found on the cloth. Each has been used
 The Church has not declared the shroud authentic, and has not declared it a fake. It is kept and venerated as an icon.
 
 One cloth, one face, one date. Put the three together and they still do not add up to an answer everyone accepts.
+
+## Timeline
+
+- **1898**: In 1898 the Italian photographer Secondo Pia was allowed to photograph the shroud.
+- **1354**: Around 1354, the knight Geoffroi de Charny exhibited the cloth in the village of Lirey, in Champagne. He fou...
+- **1389**: In 1389 Pierre d'Arcis, bishop of Troyes, wrote to Pope Clement VII. He said the cloth was a painting. A pre...
+- **1453**: In 1453 the Charny family transferred the cloth to the House of Savoy.
+- **1532**: In December 1532 the chapel in Chambéry where it was kept caught fire. The silver reliquary melted
+- **1578**: In 1578 the cloth was moved to Turin, where it has remained.
+- **1997**: In 1997 Turin Cathedral caught fire again, and a firefighter dragged the shroud out of the building.
+- **1988**: In 1988 the Vatican agreed to radiocarbon dating.
+
+## Sources and evidence
+
+The factual base of this entry rests on 2 independent source(s). S2 (STURP / Shroud.com) covers the relevant institutional record.
+S3 (Skeptic Magazine) provides cross-checks on related records.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Context of excavation, restored sections, and material analysis are central to dating and craft interpretation. Public pages often give the conclusion without the full chain of evidence.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
 
 ---
 

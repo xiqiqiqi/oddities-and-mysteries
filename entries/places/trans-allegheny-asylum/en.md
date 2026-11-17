@@ -1,8 +1,3 @@
----
-title: The Wards on the Hill
-summary: In 1858 Virginia began building a mental hospital at Weston, in what is now West Virginia. It was designed on the Kirkbride plan for 250 patients; by the 1950s it held more than 2,400. It closed in 1994 and reopened as a tourist site in 2008. The tours now sell ghosts. The records tell a different story.
-lang: en
----
 
 ## 1. The Hill, 1858
 
@@ -67,6 +62,57 @@ The ghosts came later. The wards were real.
 ![The Kirkbride plan, the Civil War and the timeline of the asylum](../../../assets/inline/trans-allegheny-asylum.svg)
 
 *Original schematic: the 1858–2008 timeline, the Kirkbride plan and the overcrowding figures. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
+
+## Timeline
+
+- **1858**: In 1858 the Virginia General Assembly authorized a mental hospital at Weston, in what is now West Virginia.
+- **1861**: In 1861 the war stopped construction.
+- **1862**: The unfinished hospital and its grounds became Camp Tyler for the Union army. The completed south wing served as barracks
+- **1864**: In October 1864 the hospital admitted its first patients. The building was not finished until 1881.
+- **1913**: In 1913 the hospital was renamed Weston State Hospital.
+- **1990**: In 1990 the building was designated a National Historic Landmark.
+- **1994**: In May 1994 the hospital closed. The patients were transferred, and the building stood empty.
+- **2007**: In August 2007 the contractor Joe Jordan bought the complex at auction for $1.5 million. In March 2008 it reopened as a historic site. By day it tells the story of the building and its medicine
+
+## Sources and evidence
+
+The factual base of this entry rests on 2 independent source(s). S1 (Trans-Allegheny Lunatic Asylum) covers the relevant institutional record.
+S2 (Trans-Allegheny Lunatic Asylum) provides cross-checks on related records.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Construction dates, building sequence, and later alterations need archaeological reports and conservation records to corroborate one another; a single visitor description or plan is not enough.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'verified'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+The hospital's files contain the patient's name, age, diagnosis and date of admission.
+
+Many diagnoses are no longer used today: mania, depression, dementia, alcoholism. They are not categories of modern medicine but nineteenth-century descriptions.
+During the Civil War, the hospital was taken over by the military.
+
+It was used by both Union and Confederate armies. Some buildings were converted into barracks, and some were converted into prisons. After the war, the hospital reopened but left traces of the military.
+
+West Virginia was a border state during the war and had a complicated position. The location of the hospital makes it a facility needed by both parties.
+The hospital now has “haunted house” tours.
+
+The tour guide tells ghost stories and tourists take photos. Some people also come during the day to see the architecture and history. Two visits, two narratives.
+
+The hospital is now a historic site.
+
+Some people come to take pictures of ghosts, some come to learn architecture, and some come to name their families. Same place, different purpose.
+The hospital is now a historical landmark.
+
+Some people organize visits, some do restorations, and some record the names of patients. It is no longer a hospital but a site of the history of mental health.
+
+Visitors see not only ghost stories, but also wards, beds and corridors. Those things are more real than ghosts.
+
+The building's stone walls are weathering and its roof is leaking.
+
+Conservators require money, time, and craftsmanship. They are repairing and opening up at the same time. The speed of repair cannot keep up with the speed of damage.
 
 ---
 

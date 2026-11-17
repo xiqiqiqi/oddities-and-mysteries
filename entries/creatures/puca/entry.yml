@@ -45,6 +45,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面月夜黑马场景复原、变形形态与传说要素示意；不是现场照片
+  - id: S5
+    title: "The Púca"
+    publisher: "Fingal County Council"
+    url: "https://www.fingal.ie/puca"
+    year: "2026"
+    license: "© Fingal County Council; citation only"
+    usage: "爱尔兰地方口述传统中的 Púca 故事与万圣节习俗"
 cover: ../../../assets/covers/puca.jpg
 related:
   - kelpie

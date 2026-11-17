@@ -1,8 +1,3 @@
----
-title: The Small Sun in the Storm
-summary: Ball lightning is not ordinary lightning. It is a floating sphere of light that can pass through a window, roll along a wall, and then vanish silently or explode. In 1838, Arago presented a survey to the French Academy. Today, there is still no universally accepted explanation.
-lang: en
----
 
 ## 1. The 1838 report
 
@@ -71,6 +66,27 @@ Ball lightning is often mistaken for a UFO.
 A glowing sphere moving in the night sky, hovering, and vanishing suddenly does look like something from science fiction. But ball lightning has a clear thunderstorm context, a short duration, and recurring features. It does not need an alien spacecraft.
 
 Not every unexplained light is ball lightning, of course. The atmosphere contains many phenomena we do not fully understand. Ball lightning is simply the oldest, most specific, and most elusive of them.
+
+## Timeline
+
+- **1838**: In 1838, the French physicist François Arago presented a report to the French Academy of Sciences.
+- **1886**: In 1886, the British physicist Oliver Lodge tried to make ball lightning in the laboratory. He passed discha...
+- **2000**: Soil nanoparticles**: in 2000, two researchers proposed that ordinary lightning striking soil vaporizes sili...
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S2 (Britannica editors) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Archive location
+
+The ball-lightning record spans meteorology, plasma physics, and witness tradition. Laboratory experiments have produced short-lived plasma balls, and field reports contain many close sightings, but no complete chain links the two: there is no field ball lightning recorded simultaneously by instruments, and no model reproduces every reported feature. This entry separates 'a similar phenomenon can be made in the lab' from 'that ball in the sky was it'.
+
+## Limits of the record
+
+The records show that something was reported or measured; they do not necessarily show what caused it. The distance between observation, instrument data, and explanation is the space this archive keeps open.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
 
 ---
 

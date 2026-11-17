@@ -38,6 +38,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 两轮问答分支与逃法示意
+  - id: S4
+    title: "Kuchisake-onna"
+    publisher: "YOKAI.JP"
+    url: "https://yokai.jp/en/yokai/kuchisake-onna"
+    year: "2026"
+    license: "All rights reserved; citation only"
+    usage: "1978–1979 年岐阜起源、1979 年日本全国性恐慌与口述版本"
 cover: ../../../assets/covers/kuchisake-onna.jpg
 related:
   - bloody-mary

@@ -1,8 +1,3 @@
----
-title: The Girl in the Cigar Shop
-summary: In July 1841 a New York cigar girl, Mary Rogers, disappeared. Three days later her body was pulled from the Hudson River. The papers put her face on the front page, Edgar Allan Poe turned her into fiction, and the case was never solved.
-lang: en
----
 
 ## 1. Behind the counter
 
@@ -73,6 +68,52 @@ The story did not fit the autopsy in every detail. Mary's body showed signs of a
 The case was never officially closed.
 
 Mary Rogers's name survived in a story by Poe. The cause of her death survived in the newspapers of 1841. Both outlived her.
+
+## Timeline
+
+- **1838**: In 1838, Mary disappeared for a few days.
+- **1841**: In 1841, Mary was engaged to Daniel Payne. He was a cork-cutter, and he also lived in her mother's boarding ...
+- **1842**: In 1842, Edgar Allan Poe serialised “The Mystery of Marie Rogêt” in Snowden's Ladies' Companion.
+
+## Sources and evidence
+
+The factual base of this entry rests on 1 independent source(s). S1 (Smithsonian Magazine) covers the relevant institutional record.
+The original illustrations are scene reconstructions, diagrams, or maps, not historical photographs. The text separates documented record, later interpretation, and folklore; where sources disagree, the disagreement is left visible rather than smoothed away.
+
+## Limits of the record
+
+Official records, witness testimony, and later retellings are shaped by interests and memory. The more famous the story, the easier it is to mistake later additions for original fact.
+The archive keeps the recording and the unanswered question side by side.
+In credibility terms, this entry is marked 'disputed'. The label describes the present state of evidence, not a final verdict on the story; it should change when new archival material appears.
+
+## Archival note
+
+The following note preserves archival sides of the story that the main text does not expand: provenance, technical detail, and aftermath.
+In July 1841, the body of Mary Rogers was discovered in the Hudson River. Her death became a New York newspaper drama.
+
+The case was not solved. The newspaper's sales increased because of this story.
+
+Edgar Allan Poe's novel changed her name and also changed the ending. In reality, cases have no ending.
+
+Her death caused New York newspapers to start paying attention to the cases of ordinary people. Her fiancé became a suspect. But the evidence was insufficient and the case did not go to court. The newspaper serialization finally stopped.
+
+There is no case written on her tombstone. Just the name and date.
+
+Her story has been repeatedly rewritten by subsequent generations. Reality and fiction, mixed together. That serialization was not finished.
+
+The case remains in the file and is not closed.
+
+Her name is on the old newspaper.
+
+The newspaper later stopped.
+
+Her case was later included in the criminal history. The name speaks louder than the truth.
+
+Her case was later included in the criminal history. The name speaks louder than the truth. The newspapers are sold out, but the mystery remains.
+
+The mystery remains. The name is still there.
+
+Mary's name remains in the book. The case is not closed, but the book is still being read. The book has been reprinted many times.
 
 ---
 

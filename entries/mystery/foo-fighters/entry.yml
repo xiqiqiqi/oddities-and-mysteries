@@ -39,6 +39,13 @@ sources:
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
     usage: 封面场景复原与目击区域示意；不是历史照片
+  - id: S4
+    title: "Royal Air Force combat reports 1939-1945"
+    publisher: "The National Archives (UK)"
+    url: "http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/raf-combat-reports-1939-1945"
+    year: "2026"
+    license: "Open Government Licence; citation only"
+    usage: "二战飞行员战斗报告档案的范围与查档方法；foo fighter 报告所属的记录类型"
 cover: ../../../assets/covers/foo-fighters.jpg
 related:
   - ball-lightning
