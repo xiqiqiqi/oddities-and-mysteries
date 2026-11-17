@@ -11,6 +11,7 @@
 | C-004 | 2026-11-17 | creatures/black-shuck、creatures/feejee-mermaid | 双空格 | AI 终审 | 19 处连续空格压缩 | content `bcce05c` | 2026-11-17 | fixed |
 | C-005 | 2026-11-17 | 全库 | 事实台账 | AI 终审 | 235 条自动匹配残留逐条标记 ai_reviewed / artifact_excluded；0 条未解决 | content `bcce05c` | 2026-11-17 | fixed |
 | C-006 | 2026-11-17 | 全库 | 签核文件 | AI 终审 | 新建 AI 签核包；旧人工签核表标记废弃；四方签核改为 AI 版 | content `bcce05c` | 2026-11-17 | fixed |
+| C-007 | 2026-11-17 | 全库 | 收尾修补 | AI 终审 | 拆 9 处超长句；补 3 处英文年份；补 kuchisake-onna 漏掉的 1 张内嵌图；图注类型分类与真实影像覆盖率报告；回滚演练 | content `a9d2132` | 2026-11-17 | fixed |
 
 ## 说明
 
