@@ -66,7 +66,7 @@ That has not stopped it from surviving. Every age needs something enormous, unex
 
 ![The textual sources and later images of Leviathan](../../../assets/inline/leviathan.svg)
 
-*Original schematic: a timeline from the Ugaritic Lotan and Job 41 to Hobbes and modern palaeontology. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: a timeline from the Ugaritic Lotan and Job 41 to Hobbes and modern palaeontology. Not a photograph of an artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 7. A Boundary
 

@@ -80,7 +80,7 @@ Some places do not need an answer. They need a storyteller and a flashlight.
 
 ![The clearing, the bent trees and the 1968 sighting at Hoia Baciu](../../../assets/inline/hoia-baciu.svg)
 
-*Original schematic: the clearing, the bent trees and the 1953 and 1968 sightings. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the clearing, the bent trees and the 1953 and 1968 sightings. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## City ​​edge
 

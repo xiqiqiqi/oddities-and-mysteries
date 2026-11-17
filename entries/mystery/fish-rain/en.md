@@ -44,7 +44,7 @@ The fish do not always die. A short trip through the air can leave them stunned 
 
 ![Fish rain: how a waterspout carries fish inland](../../../assets/inline/fish-rain-diagram.svg)
 
-*Original schematic: a waterspout lifts fish from shallow water and drops them downwind. Not to scale. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: a waterspout lifts fish from shallow water and drops them downwind. Not to scale. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 5. Why not every fish rain is credible
 

@@ -24,7 +24,7 @@ Because the work went downward, no scaffolding was needed and no material had to
 
 ![Section through a Lalibela rock church](../../../assets/inline/lalibela-section.svg)
 
-*Original schematic: a Lalibela church cut down from the bedrock, with its surrounding trench. Not a precise survey. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: a Lalibela church cut down from the bedrock, with its surrounding trench. Not a precise survey. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Eleven churches
 

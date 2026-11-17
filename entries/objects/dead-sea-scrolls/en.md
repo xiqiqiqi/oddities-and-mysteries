@@ -24,7 +24,7 @@ The French archaeologist Roland de Vaux excavated the site at Qumran. On the pla
 
 ![The caves of Qumran, the main types of scrolls, and the authentication process](../../../assets/inline/dead-sea-scrolls.svg)
 
-*Original schematic: the caves at Qumran, the types of scrolls, and the authentication process. Not an archaeological survey drawing. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the caves at Qumran, the types of scrolls, and the authentication process. Not an archaeological survey drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. What was in the scrolls
 

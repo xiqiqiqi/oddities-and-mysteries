@@ -24,11 +24,11 @@ On a misty morning, the rows look most like a road. The first stones begin at yo
 
 ![The Carnac rows in mist](../../../assets/inline/carnac-rows-mist.jpg)
 
-*Reconstruction: the Carnac alignments in morning mist. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the Carnac alignments in morning mist. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ![Plan of the Carnac alignments](../../../assets/inline/carnac-stones-plan.svg)
 
-*Original schematic: several groups of stones at Carnac and the way their sizes change along the rows. Not a precise survey. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: several groups of stones at Carnac and the way their sizes change along the rows. Not a precise survey. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Dating
 

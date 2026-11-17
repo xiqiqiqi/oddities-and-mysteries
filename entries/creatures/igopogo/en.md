@@ -16,7 +16,7 @@ At dusk the lake is flat. When the wind drops, the water becomes a sheet of dark
 
 ![The hump on Lake Simcoe](../../../assets/inline/igopogo-hump.jpg)
 
-*Reconstruction: a small boat and a distant hump on Lake Simcoe at dusk. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: a small boat and a distant hump on Lake Simcoe at dusk. Not a photograph of a sighting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. The 1860s
 
@@ -70,7 +70,7 @@ The lake is still there. So are the boats.
 
 ![Newspaper reports, descriptions and the sturgeon comparison](../../../assets/inline/igopogo.svg)
 
-*Original schematic: the newspaper record from the 1860s to 2005, the descriptions and the lake sturgeon comparison. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the newspaper record from the 1860s to 2005, the descriptions and the lake sturgeon comparison. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 7. Local Memory
 

@@ -16,7 +16,7 @@ The car moves. It rolls slowly backward, apparently uphill.
 
 ![Reconstruction of a car at Magnetic Hill](../../../assets/inline/magnetic-hill-road.jpg)
 
-*Reconstruction: a car stopped at the marker, with the misleading slope line. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: a car stopped at the marker, with the misleading slope line. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 The people inside instinctively hit the brake. Then they let go, and the car moves again.
 
@@ -30,7 +30,7 @@ From the roadside, the road surface clearly appears to rise. The distant tree li
 
 ![The optical illusion and real slope at Magnetic Hill](../../../assets/inline/magnetic-hill-diagram.svg)
 
-*Original schematic: visual references, the real slope, and the direction the car rolls at Magnetic Hill. Not a precise survey. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: visual references, the real slope, and the direction the car rolls at Magnetic Hill. Not a precise survey. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Does water flow uphill?
 

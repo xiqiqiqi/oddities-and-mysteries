@@ -14,7 +14,7 @@ The Ptolemies built a lighthouse there. It was completed around 280 BCE, and its
 
 ![The harbour of Alexandria and the site of the lighthouse](../../../assets/inline/pharos-harbor-map.svg)
 
-*Original schematic: the Eastern Harbour, the island of Pharos, the lighthouse, and the later Qaitbay fortress. Not a precise chart. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the Eastern Harbour, the island of Pharos, the lighthouse, and the later Qaitbay fortress. Not a precise chart. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. A tower in three stages
 

@@ -64,7 +64,7 @@ The radio recording is still there. A twenty-year-old man, flying toward an isla
 
 ![Valentich's route, radio timeline, and search area](../../../assets/inline/valentich.svg)
 
-*Original schematic: the departure from Moorabbin, the destination at King Island, the radio timeline, and the search area. Not an accident diagram. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the departure from Moorabbin, the destination at King Island, the radio timeline, and the search area. Not an accident diagram. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Flight
 

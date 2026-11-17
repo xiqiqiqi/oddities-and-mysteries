@@ -24,7 +24,7 @@ Five thousand years ago, urban infrastructure like this was extremely rare.
 
 ![The streets, drainage, and Great Bath of Mohenjo-daro](../../../assets/inline/mohenjo-layout.svg)
 
-*Original schematic: the street layout, drainage, and Great Bath of Mohenjo-daro. Not an archaeological survey drawing. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the street layout, drainage, and Great Bath of Mohenjo-daro. Not an archaeological survey drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The Great Bath
 

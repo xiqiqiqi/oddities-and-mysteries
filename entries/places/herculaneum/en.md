@@ -22,7 +22,7 @@ Archaeologists have found carbonized furniture, bread, beans, rope, and even a f
 
 ![The burial of Herculaneum and the Villa of the Papyri](../../../assets/inline/herculaneum-section.svg)
 
-*Original schematic: the burial layers, the seaside position, and the Villa of the Papyri at Herculaneum. Not a precise survey. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the burial layers, the seaside position, and the Villa of the Papyri at Herculaneum. Not a precise survey. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The Villa of the Papyri
 

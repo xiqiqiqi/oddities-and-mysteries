@@ -28,7 +28,7 @@ The share price went from penny stock to a split-adjusted C$286.50 in May 1996, 
 
 ![Bre-X inflating estimates and the share-price curve, 1995-1997](../../../assets/inline/bre-x-estimates.svg)
 
-*Original schematic: the stepwise inflation of claimed resource and the share price from peak to six cents. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the stepwise inflation of claimed resource and the share price from peak to six cents. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. A camp in the jungle
 
@@ -36,7 +36,7 @@ The site sat in lowland rainforest: a drill derrick, core boxes, red laterite, a
 
 ![Reconstruction: the Busang jungle drill camp and core boxes, 1995](../../../assets/inline/bre-x-busang-camp.jpg)
 
-*Reconstruction: an imagined 1995 view of the Busang rainforest drill camp, core boxes and helicopter strip. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: an imagined 1995 view of the Busang rainforest drill camp, core boxes and helicopter strip. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 On 21 February Placer Dome cancelled its takeover offer. On 10 March Freeport's due diligence came back: the mine contained an insignificant amount of gold.
 

@@ -60,7 +60,7 @@ Rajneesh was arrested on landing in North Carolina on 27 October 1985 and resolv
 
 ![Rajneeshee bioterror timeline, 1981 to 1986](../../../assets/inline/rajneeshee-timeline.svg)
 
-*Original schematic: from incorporation and poisoning to the turnout that defeated the plot, the strain match and the pleas. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: from incorporation and poisoning to the turnout that defeated the plot, the strain match and the pleas. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 7. The salad bar
 

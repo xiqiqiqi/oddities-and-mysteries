@@ -22,7 +22,7 @@ In ancient Egypt, a mask was not decoration. It protected the face of the dead, 
 
 ![The structure of Tutankhamun's mask and the beard repair](../../../assets/inline/tut-mask-structure.svg)
 
-*Original schematic: the main parts of the mask and the repair of the beard in 2014–2016. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the main parts of the mask and the repair of the beard in 2014–2016. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The beard came off
 

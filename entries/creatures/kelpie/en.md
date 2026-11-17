@@ -20,7 +20,7 @@ At dusk the loch is lead grey. The horse stands at the water's edge, hooves sunk
 
 ![A black horse at the edge of a loch](../../../assets/inline/kelpie-loch.jpg)
 
-*Reconstruction: a black water horse at a Highland loch at dusk. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: a black water horse at a Highland loch at dusk. Not a photograph of a sighting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. The stories
 
@@ -40,7 +40,7 @@ But these methods are risky. The kelpie is clever; it may pretend to submit, wai
 
 ![The elements of the kelpie legend and the lochside scene](../../../assets/inline/kelpie.svg)
 
-*Original schematic: the kelpie's forms, the elements of the legend, and its warning function. Not a photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the kelpie's forms, the elements of the legend, and its warning function. Not a photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. Why the story exists
 

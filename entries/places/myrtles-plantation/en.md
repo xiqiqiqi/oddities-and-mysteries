@@ -60,7 +60,7 @@ The ghosts were added later. The house was already heavy enough.
 
 ![The Myrtles family timeline, the porch and the Chloe legend](../../../assets/inline/myrtles-plantation.svg)
 
-*Original schematic: the 1796–1992 timeline, the 1871 shooting on the porch and the spread of the Chloe legend. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the 1796–1992 timeline, the 1871 shooting on the porch and the spread of the Chloe legend. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 1796
 

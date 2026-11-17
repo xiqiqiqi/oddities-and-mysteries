@@ -26,7 +26,7 @@ The Coast Guard tried to pull the ship off the shoal, but she was stuck fast. On
 
 ![The Deering's route, her last leg, and what was missing from the ship](../../../assets/inline/deering-route.svg)
 
-*Original schematic: the Deering's last voyage, the grounding site, and the items missing from the ship. Not a nautical chart. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the Deering's last voyage, the grounding site, and the items missing from the ship. Not a nautical chart. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Where she came from
 

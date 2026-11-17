@@ -66,7 +66,7 @@ Halley, Symmes and Teed were not frauds. They drew wrong conclusions from the ev
 
 ![Concentric shells, polar openings and the scientific rebuttal](../../../assets/inline/hollow-earth.svg)
 
-*Original schematic: Halley's concentric shells, Symmes's polar openings, Teed's concave Earth and the seismic evidence. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: Halley's concentric shells, Symmes's polar openings, Teed's concave Earth and the seismic evidence. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Harley
 

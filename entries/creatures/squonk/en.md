@@ -66,7 +66,7 @@ In a world where every monster wants to eat you, a creature that cries itself aw
 
 ![The Squonk's appearance, folklore elements and later life](../../../assets/inline/squonk.svg)
 
-*Original schematic: the folklore elements, Cox's 1910 record and the later popular culture. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the folklore elements, Cox's 1910 record and the later popular culture. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Logging Camp
 

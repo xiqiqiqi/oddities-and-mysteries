@@ -16,7 +16,7 @@ The first time you see it, you assume it is a car. A white glare like high beams
 
 ![The Min Min light on an outback road](../../../assets/inline/min-min-road.jpg)
 
-*Reconstruction: a night road in outback Queensland, with a white light hovering ahead. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: a night road in outback Queensland, with a white light hovering ahead. Not a photograph of a sighting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. What it looks like
 
@@ -28,7 +28,7 @@ It makes no sound. It does not flicker, and it does not light up the ground arou
 
 ![Schematic of Min Min light sightings](../../../assets/inline/min-min-lights-map.svg)
 
-*Original schematic: the sighting region in outback Queensland and the reported “light follows the car” behaviour. Not a precise map. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the sighting region in outback Queensland and the reported “light follows the car” behaviour. Not a precise map. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Where the name comes from
 

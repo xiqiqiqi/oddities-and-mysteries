@@ -16,7 +16,7 @@ At dusk, stand at the edge of the plateau. Wind comes up from the valley carryin
 
 ![The plateau and cliffs of Jiaohe](../../../assets/inline/jiaohe-cliffs.jpg)
 
-*Reconstruction: the plateau, cliffs, and earth-cut streets of Jiaohe at dusk. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the plateau, cliffs, and earth-cut streets of Jiaohe at dusk. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. A city dug downward
 
@@ -30,7 +30,7 @@ Because the edges of the plateau are cliffs, the city needed no separate wall. T
 
 ![Layout and earth-cut architecture at Jiaohe](../../../assets/inline/jiaohe-plan.svg)
 
-*Original schematic: the plateau, main streets, and a section through the earth-cut buildings at Jiaohe. Not a precise survey. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the plateau, main streets, and a section through the earth-cut buildings at Jiaohe. Not a precise survey. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Who lived here
 

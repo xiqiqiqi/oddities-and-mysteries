@@ -26,7 +26,7 @@ That roughness made many people believe it was real.
 
 ![The path of the film and the key details in the footage](../../../assets/inline/alien-autopsy-tape.svg)
 
-*Original schematic: how the footage circulated, the key details in the image, and the later admission. Not historical footage. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: how the footage circulated, the key details in the image, and the later admission. Not historical footage. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The flaws
 

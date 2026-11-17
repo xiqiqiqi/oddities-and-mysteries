@@ -16,7 +16,7 @@ When the passage was opened, the air inside was cold. A torch beam swung across 
 
 ![The collapsed jade suit as found](../../../assets/inline/jade-suit-tomb.jpg)
 
-*Reconstruction: the collapsed jade suit and scattered plaques in the Mancheng tomb, 1968. Not a photograph of the excavation. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the collapsed jade suit and scattered plaques in the Mancheng tomb, 1968. Not a photograph of the excavation. XIQIQI Editorial, CC BY-SA 4.0.*
 
 Gold wire still linked the plaques. When the light moved, the wire flashed, thin as hair.
 
@@ -30,7 +30,7 @@ The face cover has shapes for the eyes, nose, and mouth. The gloves have five fi
 
 ![Structure of the jade burial suit](../../../assets/inline/jade-suit-structure.svg)
 
-*Original schematic: the components of a gold-thread jade suit and how the plaques were linked. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the components of a gold-thread jade suit and how the plaques were linked. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Who could wear one
 
@@ -70,7 +70,7 @@ A garment made for “immortality” failed to preserve the body, but it preserv
 
 In 1968, two Han tombs were discovered in Mancheng, Hebei Province.
 
-The owners of the tomb are Liu Sheng, Prince Jing of Zhongshan, and his wife Dou Wan. The tomb is in the mountain, and the chamber is carved out of stone. It is very large. Cultural relics such as jade burial suit, Changxin palace lanterns, and Cuojin Boshan furnace were unearthed from the tomb.
+The owners of the tomb are Liu Sheng, Prince Jing of Zhongshan, and his wife Dou Wan. The tomb is in the mountain, and the chamber is carved out of stone. It is very large. Artifacts unearthed from the tomb include the jade burial suit, the Changxin Palace Lantern, and the gold-inlaid Boshan incense burner.
 
 ## Jade Clothes
 

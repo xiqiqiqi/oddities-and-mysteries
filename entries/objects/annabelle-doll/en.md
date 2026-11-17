@@ -52,7 +52,7 @@ In July 2025 the tour's organiser and host, Dan Rivera, died unexpectedly in Get
 
 ![Annabelle timeline, 1970s to 2025](../../../assets/inline/annabelle-timeline.svg)
 
-*Original schematic: from a nurse's apartment to a glass case, a film universe, closure and a tour. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: from a nurse's apartment to a glass case, a film universe, closure and a tour. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 6. What scholars say
 

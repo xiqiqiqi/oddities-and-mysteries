@@ -64,7 +64,7 @@ The Black Dahlia, the Night Stalker and Elisa Lam are all genuinely connected to
 
 ![The timeline, location and events of the Cecil Hotel](../../../assets/inline/cecil-hotel.svg)
 
-*Original schematic: the 1924–2021 timeline, the Main Street location and the associated cases. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the 1924–2021 timeline, the Main Street location and the associated cases. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Architecture
 

@@ -64,7 +64,7 @@ The guardian monk is still in Aksum. The Holy of Holies in Jerusalem is only sto
 
 ![The Ark from Sinai to Jerusalem and Aksum](../../../assets/inline/ark.svg)
 
-*Original schematic: the construction of the Ark, its capture by the Philistines, the destruction of the Temple and the Ethiopian tradition. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the construction of the Ark, its capture by the Philistines, the destruction of the Temple and the Ethiopian tradition. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Box
 

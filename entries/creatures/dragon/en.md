@@ -70,7 +70,7 @@ In recent years some people have proposed translating the Chinese dragon as “l
 
 ![The Chinese dragon and the Western dragon compared](../../../assets/inline/dragon.svg)
 
-*Original schematic: the features of the Chinese dragon and the Western dragon compared. Not a photograph of an object. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the features of the Chinese dragon and the Western dragon compared. Not a photograph of an object. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## The Word “Dragon”
 

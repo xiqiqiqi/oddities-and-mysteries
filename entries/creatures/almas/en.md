@@ -24,7 +24,7 @@ These details come from oral accounts over many years and many places. They supp
 
 ![Almas sightings and distribution](../../../assets/inline/almas-map.svg)
 
-*Original schematic: the main areas associated with Almas legends and the common descriptions. Not a precise map. Oddity Archive, CC BY‑SA 4.0.*
+*Original schematic: the main areas associated with Almas legends and the common descriptions. Not a precise map. XIQIQI Editorial, CC BY‑SA 4.0.*
 
 ## 3. The Soviet expeditions
 

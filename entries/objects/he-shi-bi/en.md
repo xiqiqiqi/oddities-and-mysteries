@@ -86,7 +86,7 @@ One stone became a symbol of the state because one man kept insisting there was 
 
 ![The route from Jingshan to the imperial seal](../../../assets/inline/he-shi-bi.svg)
 
-*Original schematic: Bian He's presentation of the jade, the return of the jade to Zhao, and the later legend of the imperial seal. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: Bian He's presentation of the jade, the return of the jade to Zhao, and the later legend of the imperial seal. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Jingshan
 

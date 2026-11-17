@@ -24,7 +24,7 @@ It was the closest thing to a battle in the whole affair.
 
 ![The Toledo Strip and the rival boundary claims](../../../assets/inline/toledo-war-map.svg)
 
-*Original schematic: the Toledo Strip, the two boundary claims, and the key dates of 1835–1836. Not a historical map. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the Toledo Strip, the two boundary claims, and the key dates of 1835–1836. Not a historical map. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The only man who bled
 

@@ -34,7 +34,7 @@ The scene is an inference, but each part leaves a trace at the site: the carving
 
 ![Reconstruction of Göbekli Tepe around 9500 BCE](../../../assets/inline/gobekli-tepe-9500bce.jpg)
 
-*Reconstruction: hunter-gatherers gathering in an enclosure at Göbekli Tepe around 9500 BCE. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: hunter-gatherers gathering in an enclosure at Göbekli Tepe around 9500 BCE. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ![The enclosure plan and the timeline of Göbekli Tepe](../../../assets/inline/gobekli-tepe-plan.svg)
 

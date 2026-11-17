@@ -64,7 +64,7 @@ Elizabeth Short was twenty-two when she died. She wanted to be an actress. What 
 
 ![The Black Dahlia timeline, newspaper coverage and suspects](../../../assets/inline/black-dahlia.svg)
 
-*Original schematic: the timeline of January 1947, the newspaper coverage and the main suspects. Not a photograph of the scene. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the timeline of January 1947, the newspaper coverage and the main suspects. Not a photograph of the scene. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 1947
 

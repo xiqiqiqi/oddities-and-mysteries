@@ -14,7 +14,7 @@ On the desk were a lamp, a typewriter, a few books and several medicine bottles.
 
 ![Reconstruction of the hotel room desk in 1983](../../../assets/inline/tennessee-williams-desk.jpg)
 
-*Reconstruction: the desk and typewriter in the Hotel Elysée room in 1983. Not a photograph of the scene. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the desk and typewriter in the Hotel Elysée room in 1983. Not a photograph of the scene. XIQIQI Editorial, CC BY-SA 4.0.*
 
 On 25 February he did not appear as usual. Hotel staff opened the door and found him on the floor, not breathing.
 
@@ -34,7 +34,7 @@ Later reports and autopsy records noted that he had also been taking barbiturate
 
 ![The timeline, the bottle cap, and the hotel room](../../../assets/inline/tennessee-williams.svg)
 
-*Original schematic: the timeline of 25 February 1983, the bottle cap and eye-drop bottle, and the layout of the hotel room. Not a photograph of the scene. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the timeline of 25 February 1983, the bottle cap and eye-drop bottle, and the layout of the hotel room. Not a photograph of the scene. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. His life
 

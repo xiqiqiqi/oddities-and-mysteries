@@ -24,11 +24,11 @@ Dusk comes early in the hills. Once the sun drops, the pasture turns grey and a 
 
 ![The edge of the wood above a Gévaudan village](../../../assets/inline/gevaudan-edge.jpg)
 
-*Reconstruction: a Gévaudan village, pasture, and the animal at the treeline in the 1760s. Not a historical painting. Oddity Archive, CC BY‑SA 4.0.*
+*Reconstruction: a Gévaudan village, pasture, and the animal at the treeline in the 1760s. Not a historical painting. XIQIQI Editorial, CC BY‑SA 4.0.*
 
 ![Timeline of the Beast of Gévaudan](../../../assets/inline/gevaudan-timeline.svg)
 
-*Original schematic: the attacks and hunts in Gévaudan, 1764–1767. Not a historical painting. Oddity Archive, CC BY‑SA 4.0.*
+*Original schematic: the attacks and hunts in Gévaudan, 1764–1767. Not a historical painting. XIQIQI Editorial, CC BY‑SA 4.0.*
 
 ## 3. What it looked like
 

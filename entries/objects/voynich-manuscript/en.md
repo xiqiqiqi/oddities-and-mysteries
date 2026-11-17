@@ -24,7 +24,7 @@ Text and images are mixed. Some pages are almost all text; some are almost all p
 
 ![Schematic of the Voynich manuscript's structure](../../../assets/inline/voynich-structure.svg)
 
-*Original schematic: the common sections and page structure of the Voynich manuscript. Not a facsimile. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the common sections and page structure of the Voynich manuscript. Not a facsimile. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The writing
 

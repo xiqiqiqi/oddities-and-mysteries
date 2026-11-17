@@ -26,11 +26,11 @@ The Dutch sent the warship De Dolfijn. The two met in the estuary.
 
 ![Reconstruction of the standoff at the Scheldt estuary, 1784](../../../assets/inline/kettle-war-scheldt.jpg)
 
-*Reconstruction: the Austrian ship and the Dutch warship at the Scheldt estuary in 1784. Not a historical painting. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the Austrian ship and the Dutch warship at the Scheldt estuary in 1784. Not a historical painting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ![Timeline of the Kettle War](../../../assets/inline/kettle-war-timeline.svg)
 
-*Original schematic: the timeline of the 1784 Scheldt estuary incident, from the single shot to the kettle and the treaty. Not a historical painting. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the timeline of the 1784 Scheldt estuary incident, from the single shot to the kettle and the treaty. Not a historical painting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. One shot
 

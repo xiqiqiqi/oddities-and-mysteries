@@ -64,7 +64,7 @@ Those who accept the dating reply that none of these claims has been independent
 
 ![The layout of the shroud and its key dates](../../../assets/inline/shroud.svg)
 
-*Original schematic: the front and back image, the dimensions, and the key dates from 1354 to 1988. Not a photograph of the relic. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the front and back image, the dimensions, and the key dates from 1354 to 1988. Not a photograph of the relic. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 7. The image
 

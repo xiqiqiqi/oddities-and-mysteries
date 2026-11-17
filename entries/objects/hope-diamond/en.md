@@ -28,7 +28,7 @@ It was a chaotic autumn. In September 1792, thieves broke into the royal storeho
 
 ![Reconstruction of the 1792 theft at the royal storehouse](../../../assets/inline/hope-diamond-1792.jpg)
 
-*Reconstruction: the morning after the 1792 theft in Paris, the blue diamond resting on scattered velvet. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the morning after the 1792 theft in Paris, the blue diamond resting on scattered velvet. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 Twenty years later, a 45.52-carat blue diamond appeared in London. No one could prove it was the French Blue, but the cut, colour, and weight matched. In 1812, the British banker Henry Philip Hope bought it. The stone had its modern name.
 

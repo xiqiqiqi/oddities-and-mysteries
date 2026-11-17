@@ -16,7 +16,7 @@ The submersible moves forward and the lamp dips. The “surface” appears: not 
 
 ![A brine pool under submersible lights](../../../assets/inline/brine-pool-floor.jpg)
 
-*Reconstruction: a brine pool, its “shore”, and the mussel beds at the rim under submersible lights. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: a brine pool, its “shore”, and the mussel beds at the rim under submersible lights. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. Why it has a shore
 
@@ -28,7 +28,7 @@ The “shore” is the edge of the seafloor basin. Brine fills the low ground, a
 
 ![Cross-section of a brine pool](../../../assets/inline/brine-pools-section.svg)
 
-*Original schematic: a brine pool in a seafloor depression, with its density interface and rim communities. Not a precise geological section. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: a brine pool in a seafloor depression, with its density interface and rim communities. Not a precise geological section. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Atlantis II Deep in the Red Sea
 

@@ -72,7 +72,7 @@ The paper of 1909 is long gone. The monster is still around, printed on T-shirts
 
 ![The 1909 reports, the creature, and the spread of the story](../../../assets/inline/snallygaster.svg)
 
-*Original schematic: the 1909 series in the Middletown Valley Register, the features of the creature and the spread of the story. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the 1909 series in the Middletown Valley Register, the features of the creature and the spread of the story. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Midlothian Valley Gazette
 

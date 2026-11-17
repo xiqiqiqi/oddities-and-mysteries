@@ -114,7 +114,7 @@ Eight hundred years later, people are still arguing about where the wounds came 
 
 ![The cases, the body map and the layers of explanation](../../../assets/inline/stigmata.svg)
 
-*Original schematic: Francis, Padre Pio and the layers of medical explanation. Not a medical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: Francis, Padre Pio and the layers of medical explanation. Not a medical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

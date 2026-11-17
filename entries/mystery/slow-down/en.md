@@ -36,7 +36,7 @@ Slow Down's falling curve matches some icequake signatures.
 
 ![Schematic spectrogram of Slow Down](../../../assets/inline/slow-down-wave.svg)
 
-*Original schematic: the frequency of Slow Down falling over time. Not a measured spectrogram. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the frequency of Slow Down falling over time. Not a measured spectrogram. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. Icequakes
 

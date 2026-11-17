@@ -16,7 +16,7 @@ At the same hour, twelve miles away in Blythburgh, Holy Trinity Church was also 
 
 ![The two churches of 4 August 1577 and the surviving accounts](../../../assets/inline/black-shuck-map.svg)
 
-*Original schematic: the positions of Bungay and Blythburgh, the order of events, and the surviving accounts. Not a historical map. Oddity Archive, CC BY‑SA 4.0.*
+*Original schematic: the positions of Bungay and Blythburgh, the order of events, and the surviving accounts. Not a historical map. XIQIQI Editorial, CC BY‑SA 4.0.*
 
 ## 3. A pamphlet
 

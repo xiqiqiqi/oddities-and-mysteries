@@ -78,7 +78,7 @@ Sometimes an error tells a better story than the fact.
 
 ![The observation history of the Martian canals and the spacecraft results](../../../assets/inline/martian-canals.svg)
 
-*Original schematic: a timeline from the canali of 1877 and Lowell's maps to the results of Mariner 4. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: a timeline from the canali of 1877 and Lowell's maps to the results of Mariner 4. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 1877
 

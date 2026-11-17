@@ -16,7 +16,7 @@ The story never shows the hook man. It shows the hook he left behind.
 
 ![Reconstruction of a 1950s lovers' lane](../../../assets/inline/hook-handed-man-lovers-lane.jpg)
 
-*Reconstruction: a 1950s American lovers' lane and the hook on the door handle. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: a 1950s American lovers' lane and the hook on the door handle. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. The Cars of the 1950s
 
@@ -80,7 +80,7 @@ And when the story ends, what does the listener do? Check the door.
 
 ![The structure, setting and ending of the hook story](../../../assets/inline/hook-handed-man.svg)
 
-*Original schematic: the lovers' lane, the radio warning and the hook on the door. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the lovers' lane, the radio warning and the hook on the door. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

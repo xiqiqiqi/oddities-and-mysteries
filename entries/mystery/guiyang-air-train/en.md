@@ -76,7 +76,7 @@ A thunderstorm, a downburst, a forest broken in half, and lights and noise in th
 
 ![The damage bands, the factory and the downburst](../../../assets/inline/guiyang.svg)
 
-*Original schematic: the damage bands at Duxi, the location of the factory and the wind of a downburst. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the damage bands at Duxi, the location of the factory and the wind of a downburst. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Downburst
 

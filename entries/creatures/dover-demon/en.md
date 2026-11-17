@@ -14,7 +14,7 @@ The car passes. He turns back. The wall is empty.
 
 ![Reconstruction: headlights and the stone wall on Farm Street, 1977](../../../assets/inline/dover-demon-night-road.jpg)
 
-*Reconstruction: an imagined night view of Farm Street in April 1977 — headlights, the stone wall, a crouched figure. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: an imagined night view of Farm Street in April 1977 — headlights, the stone wall, a crouched figure. Not a photograph of a sighting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. A drawing, and a stack of Bibles
 
@@ -42,7 +42,7 @@ Police take statements. No footprints, no hair, no physical trace of any kind. A
 
 ![Sighting timeline and description differences](../../../assets/inline/dover-demon-map.svg)
 
-*Original schematic: the three sighting points, times and description differences of 21–22 April 1977. Not a survey map. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the three sighting points, times and description differences of 21–22 April 1977. Not a survey map. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. It only reaches the press in May
 

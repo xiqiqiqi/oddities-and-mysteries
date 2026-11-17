@@ -32,7 +32,7 @@ The Lanzón is about four and a half metres high and carved with a feline-faced 
 
 ![The underground galleries, the Lanzón, and the acoustic design of Chavín](../../../assets/inline/chavin-galleries.svg)
 
-*Original schematic: the temple platforms, the underground galleries, the position of the Lanzón, and the ventilation, drainage, and acoustic structures. Not a survey drawing. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the temple platforms, the underground galleries, the position of the Lanzón, and the ventilation, drainage, and acoustic structures. Not a survey drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. Sound
 

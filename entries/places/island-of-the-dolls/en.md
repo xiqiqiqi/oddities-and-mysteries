@@ -60,7 +60,7 @@ People who live nearby say the dolls can be heard talking at night. Others say i
 
 ![The island's position, the dolls, and Santana's timeline](../../../assets/inline/dolls-island.svg)
 
-*Original schematic: the canals of Xochimilco, the dolls on the island, and the timeline of Santana's life there. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the canals of Xochimilco, the dolls on the island, and the timeline of Santana's life there. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 7. The story
 

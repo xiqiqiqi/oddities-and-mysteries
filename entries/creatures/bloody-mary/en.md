@@ -56,7 +56,7 @@ The real Bloody Mary was a queen in history. The one in the mirror was made by s
 
 ![The mirror ritual and the science of the mirror illusion](../../../assets/inline/bloody-mary.svg)
 
-*Original schematic: the common steps of the mirror ritual, Mary I, and the psychological explanation of the mirror illusion. Not a photograph of a ritual. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the common steps of the mirror ritual, Mary I, and the psychological explanation of the mirror illusion. Not a photograph of a ritual. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Mary I
 

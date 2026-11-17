@@ -22,7 +22,7 @@ That summer, the small hotels were full, reporters waited on the pier, and shops
 
 ![Reconstruction of a Loch Ness morning in 1933](../../../assets/inline/loch-ness-1934.jpg)
 
-*Reconstruction: a long neck rising from the black water at Loch Ness in 1933, with a car on the new road. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: a long neck rising from the black water at Loch Ness in 1933, with a car on the new road. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. Older stories
 

@@ -16,7 +16,7 @@ On summer nights the pull-off holds a few cars. People sit in folding chairs wit
 
 ![The watchers and the light in the trees](../../../assets/inline/paulding-light.jpg)
 
-*Reconstruction: the pull-off, the old railroad grade, and the white light between the trees. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the pull-off, the old railroad grade, and the white light between the trees. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. The legend
 
@@ -64,7 +64,7 @@ The light usually appears. It comes from a highway several kilometres away, prod
 
 ![The viewing point, the old railroad grade, and the US-45 headlights](../../../assets/inline/paulding.svg)
 
-*Original schematic: the viewing point, the old railroad grade and US-45, with the path of the headlights. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the viewing point, the old railroad grade and US-45, with the path of the headlights. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Paul Ding
 

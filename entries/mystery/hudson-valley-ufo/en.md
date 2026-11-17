@@ -78,7 +78,7 @@ The pilot who said he was getting a big kick out of it probably never imagined t
 
 ![Timeline and explanation of the Hudson Valley sightings](../../../assets/inline/hudson-valley-ufo.svg)
 
-*Original schematic: the sightings of 1983–1984, the V of lights and the Cessna formation explanation. Not a site photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the sightings of 1983–1984, the V of lights and the Cessna formation explanation. Not a site photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

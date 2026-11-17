@@ -72,7 +72,7 @@ The wheel stops. Physics does not.
 
 ![The overbalanced wheel and the history of perpetual motion](../../../assets/inline/perpetual-motion.svg)
 
-*Original schematic: the overbalanced wheel, the Bessler and Redheffer cases, and a thermodynamics timeline. Not a historical drawing. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the overbalanced wheel, the Bessler and Redheffer cases, and a thermodynamics timeline. Not a historical drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Wheel
 

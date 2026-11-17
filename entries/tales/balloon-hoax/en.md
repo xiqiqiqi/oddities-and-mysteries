@@ -26,7 +26,7 @@ These details made it believable. It did not read like a fantasy; it read like a
 
 ![The layout of the hoax, how it spread, and how it was exposed](../../../assets/inline/balloon-hoax.svg)
 
-*Original schematic: the extra's layout, the elements of the story, and the timeline of the exposure. Not a historical newspaper. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the extra's layout, the elements of the story, and the timeline of the exposure. Not a historical newspaper. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Why people believed it
 

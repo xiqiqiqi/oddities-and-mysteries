@@ -16,7 +16,7 @@ When it was cleaned, the blade emerged: long, straight, with a dark diamond patt
 
 ![Reconstruction of the Sword of Goujian in the tomb, 1965](../../../assets/inline/goujian-tomb.jpg)
 
-*Reconstruction: the Sword of Goujian in the Chu tomb at Jiangling, 1965. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the Sword of Goujian in the Chu tomb at Jiangling, 1965. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. The sword
 
@@ -30,7 +30,7 @@ It is now one of the signature objects of the Hubei Provincial Museum.
 
 ![Structure and inscription of the Sword of Goujian](../../../assets/inline/sword-of-goujian-detail.svg)
 
-*Original schematic: the blade, guard, and position of the eight-character inscription on the Sword of Goujian. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the blade, guard, and position of the eight-character inscription on the Sword of Goujian. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The eight characters
 

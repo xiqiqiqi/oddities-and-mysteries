@@ -72,7 +72,7 @@ Guests sleep on board, lie in bed and hear the ship making sounds. Some say it i
 
 ![The Queen Mary timeline, the Curacoa collision and the Long Beach years](../../../assets/inline/queen-mary.svg)
 
-*Original schematic: the maiden voyage in 1936, the 1942 collision, the move to Long Beach in 1967 and the ghost stories. Not a photograph of the ship. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the maiden voyage in 1936, the 1942 collision, the move to Long Beach in 1967 and the ghost stories. Not a photograph of the ship. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## The Ship
 The Queen Mary is a British ocean liner.

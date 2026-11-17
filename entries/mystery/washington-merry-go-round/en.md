@@ -18,7 +18,7 @@ At 11:40 p.m. on 19 July, more targets appeared. They passed near the White Hous
 
 ![Radar returns and intercept course](../../../assets/inline/washington-merry-go-round-radar.svg)
 
-*Original schematic: the radar contacts and intercept course on the night of 19 July 1952. Not a radar photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the radar contacts and intercept course on the night of 19 July 1952. Not a radar photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The jets
 

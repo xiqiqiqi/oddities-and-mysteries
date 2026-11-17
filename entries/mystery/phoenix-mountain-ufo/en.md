@@ -66,7 +66,7 @@ The south slope of Phoenix Mountain is still there. The white thing did not come
 
 ![The Phoenix Mountain timeline, the sighting site and the investigation](../../../assets/inline/phoenix-mountain-ufo.svg)
 
-*Original schematic: the June–July 1994 timeline, the south-slope sighting and the investigation. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the June–July 1994 timeline, the south-slope sighting and the investigation. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## The Chinese UFO Craze of 1994
 

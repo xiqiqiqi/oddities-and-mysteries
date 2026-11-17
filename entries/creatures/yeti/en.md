@@ -22,7 +22,7 @@ In 1921, Henry Newman, a journalist with the British Everest reconnaissance expe
 
 ![The yeti legend's range, the evidence, and the DNA results](../../../assets/inline/yeti-evidence.svg)
 
-*Original schematic: the reported range of the yeti legend, the main pieces of evidence, and the results of the 2017 DNA study. Not a record of a sighting. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the reported range of the yeti legend, the main pieces of evidence, and the results of the 2017 DNA study. Not a record of a sighting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The search
 

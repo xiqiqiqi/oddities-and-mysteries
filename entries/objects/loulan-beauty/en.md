@@ -18,7 +18,7 @@ The wind never stopped during the excavation. The grave was shallow. When the sa
 
 ![The sand pit and grave goods at the Tieban River](../../../assets/inline/loulan-grave.jpg)
 
-*Reconstruction: the Tieban River grave during excavation in 1980, with woollen blanket, pointed hat, and leather boots. Not a photograph of the excavation. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the Tieban River grave during excavation in 1980, with woollen blanket, pointed hat, and leather boots. Not a photograph of the excavation. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. What she looked like
 
@@ -30,7 +30,7 @@ Lice and a bedbug were found in her hair and clothes. They show that life in her
 
 ![The discovery site, date, and clothing of the Loulan Beauty](../../../assets/inline/loulan-beauty.svg)
 
-*Original schematic: the Tieban River site, the chronological scale, and the types of clothing. Not a photograph of the mummy. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the Tieban River site, the chronological scale, and the types of clothing. Not a photograph of the mummy. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Why “Loulan Beauty”
 

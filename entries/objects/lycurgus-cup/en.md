@@ -24,7 +24,7 @@ One cup, two colours. Green when seen by reflected light, red when lit from behi
 
 ![The colour change of the Lycurgus Cup and the nanoparticle effect](../../../assets/inline/lycurgus-effect.svg)
 
-*Original schematic: the colour of the cup in reflected and transmitted light, and the role of gold and silver nanoparticles. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the colour of the cup in reflected and transmitted light, and the role of gold and silver nanoparticles. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Nanoparticles
 

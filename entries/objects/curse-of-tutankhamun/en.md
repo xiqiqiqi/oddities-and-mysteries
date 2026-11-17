@@ -68,7 +68,7 @@ The curse became part of popular culture. Films, novels and souvenirs use it. Th
 
 ![The discovery, Carnarvon's death, and the newspaper curse](../../../assets/inline/tut-curse.svg)
 
-*Original schematic: the discovery in 1922, Carnarvon's death in 1923, and the newspaper stories about the curse. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the discovery in 1922, Carnarvon's death in 1923, and the newspaper stories about the curse. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Carnarvon
 

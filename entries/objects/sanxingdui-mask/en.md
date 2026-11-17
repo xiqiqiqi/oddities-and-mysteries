@@ -14,7 +14,7 @@ The pits were shallow but densely packed. Ivory lay in blackened layers; bronze 
 
 ![The bronze mask in the sacrificial pit](../../../assets/inline/sanxingdui-pit-mask.jpg)
 
-*Reconstruction: the bronze mask among ivory, jade, and bronze objects in Sanxingdui pit 2, 1986. Not a photograph of the excavation. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the bronze mask among ivory, jade, and bronze objects in Sanxingdui pit 2, 1986. Not a photograph of the excavation. XIQIQI Editorial, CC BY-SA 4.0.*
 
 In pit 2, they found a huge bronze mask.
 
@@ -30,7 +30,7 @@ Because of the huge eyes and ears, some call it “a thousand-mile eye and a fav
 
 ![The structure, dimensions, and excavation context of the mask](../../../assets/inline/sanxingdui-mask.svg)
 
-*Original schematic: the mask's dimensions, the structure of the eyes and ears, and the context of the Sanxingdui pits. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the mask's dimensions, the structure of the eyes and ears, and the context of the Sanxingdui pits. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Whose face
 

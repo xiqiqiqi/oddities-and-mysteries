@@ -26,7 +26,7 @@ Low-frequency noise is hard to locate. High sounds can be placed by comparing th
 
 ![Schematic comparison of a low-frequency hum and normal speech](../../../assets/inline/bristol-hum-wave.svg)
 
-*Original schematic: the frequency range of a low-frequency hum compared with normal speech. Not measured data. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the frequency range of a low-frequency hum compared with normal speech. Not measured data. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The investigations
 

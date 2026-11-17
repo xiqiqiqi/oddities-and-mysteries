@@ -26,7 +26,7 @@ For a stable star, that is unusual.
 
 ![Schematic light curve of Tabby's Star](../../../assets/inline/tabbys-star-curve.svg)
 
-*Original schematic: the irregular dimming of Tabby's Star during the Kepler mission. The curve is illustrative, not raw data. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the irregular dimming of Tabby's Star during the Kepler mission. The curve is illustrative, not raw data. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The alien megastructure
 

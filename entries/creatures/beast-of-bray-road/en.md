@@ -22,11 +22,11 @@ Several accounts mentioned claw marks on car doors, chased vehicles, or simply s
 
 ![Headlights and a figure at the edge of Bray Road](../../../assets/inline/bray-road-night.jpg)
 
-*Reconstruction: an upright figure at the edge of the corn under headlights, based on witness descriptions. Not a photograph of a sighting. Oddity Archive, CC BY‑SA 4.0.*
+*Reconstruction: an upright figure at the edge of the corn under headlights, based on witness descriptions. Not a photograph of a sighting. XIQIQI Editorial, CC BY‑SA 4.0.*
 
 ![The sightings and the creature's description](../../../assets/inline/bray-road-map.svg)
 
-*Original schematic: the location of Bray Road, the timeline of sightings, and the creature's features. Not a photograph. Oddity Archive, CC BY‑SA 4.0.*
+*Original schematic: the location of Bray Road, the timeline of sightings, and the creature's features. Not a photograph. XIQIQI Editorial, CC BY‑SA 4.0.*
 
 ## 4. Linda Godfrey
 

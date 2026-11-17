@@ -16,7 +16,7 @@ The newspapers gave it a name: “Cadborosaurus”, or “Caddy”.
 
 ![Reconstruction of the long-necked creature in Cadboro Bay](../../../assets/inline/cadborosaurus-bay.jpg)
 
-*Reconstruction: the long-necked creature in Cadboro Bay in the 1930s. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the long-necked creature in Cadboro Bay in the 1930s. Not a photograph of a sighting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. The description
 
@@ -40,7 +40,7 @@ Part of the carcass was sent to the provincial museum in Victoria. The director,
 
 ![The sightings and the 1937 carcass](../../../assets/inline/cadborosaurus.svg)
 
-*Original schematic: the Cadboro Bay sightings and the 1937 Naden Harbour carcass and identification. Not a photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the Cadboro Bay sightings and the 1937 Naden Harbour carcass and identification. Not a photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. The name
 

@@ -16,7 +16,7 @@ At sunrise, standing at the edge of the grassland, the circles run all the way t
 
 ![Fairy circles at dawn in the Namib](../../../assets/inline/fairy-circles-dawn.jpg)
 
-*Reconstruction: a low aerial view of fairy circles and red sand at dawn. Not an aerial photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: a low aerial view of fairy circles and red sand at dawn. Not an aerial photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. The shape of a circle
 
@@ -28,7 +28,7 @@ They do not appear every year, and they do not all behave the same way. Some exp
 
 ![Fairy circles from above and in section](../../../assets/inline/fairy-circles-diagram.svg)
 
-*Original schematic: the plan arrangement of fairy circles and a section through the grassy rim. Not a precise survey. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the plan arrangement of fairy circles and a section through the grassy rim. Not a precise survey. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The termite explanation
 

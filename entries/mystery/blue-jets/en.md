@@ -26,7 +26,7 @@ Red sprites appear at similar altitudes, but look different: red, clustered, lik
 
 ![Blue jets and upper-atmospheric lightning](../../../assets/inline/blue-jets-altitude.svg)
 
-*Original schematic: the height relationship between cloud tops, blue jets, red sprites, and ELVES. Not a photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the height relationship between cloud tops, blue jets, red sprites, and ELVES. Not a photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Why blue
 

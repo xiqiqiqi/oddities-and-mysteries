@@ -64,7 +64,7 @@ For historians, it is a story about relics, power and piety. One piece of wood w
 
 ![The discovery, distribution and fragments of the True Cross](../../../assets/inline/true-cross.svg)
 
-*Original schematic: Helena's discovery, the distribution of the cross and the spread of fragments. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: Helena's discovery, the distribution of the cross and the spread of fragments. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Helena
 

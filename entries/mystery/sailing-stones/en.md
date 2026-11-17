@@ -56,7 +56,7 @@ The stones do not slide on mud. They are pushed by ice rafts. The shape of the t
 
 ![Sailing stones: the ice raft mechanism](../../../assets/inline/sailing-stones-diagram.svg)
 
-*Original schematic: how thin ice, wind, and stones produce trails. Not to scale. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: how thin ice, wind, and stones produce trails. Not to scale. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 5. Why it is not supernatural
 

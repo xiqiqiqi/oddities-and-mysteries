@@ -52,7 +52,7 @@ The usual image is a string of green or blue-green beads on a cord. Some scholar
 
 ![Reconstruction of the jewel in its box](../../../assets/inline/yasakani-magatama-box.jpg)
 
-*Reconstruction: a magatama on silk inside a lacquered box. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: a magatama on silk inside a lacquered box. Not a photograph of an artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
 It is not even on the list of designated cultural properties. The imperial regalia sit outside that system.
 
@@ -68,7 +68,7 @@ On that day in 2019, the box was carried down a corridor and set down. The cerem
 
 ![The three regalia, Dan-no-ura and the jewel in its box](../../../assets/inline/yasakani-no-magatama.svg)
 
-*Original schematic: the three regalia, the 1185 battle of Dan-no-ura and the box in the palace. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the three regalia, the 1185 battle of Dan-no-ura and the box in the palace. Not a photograph of an artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Magatama
 

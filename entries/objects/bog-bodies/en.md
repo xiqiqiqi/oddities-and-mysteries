@@ -18,7 +18,7 @@ The body became known as Tollund Man. Radiocarbon dating put his death between 4
 
 ![A section through a peat bog and the conditions that preserve a body](../../../assets/inline/bog-body-section.svg)
 
-*Original schematic: the layers of a peat bog, its low-oxygen environment, and where a body is preserved. Not an archaeological survey drawing. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the layers of a peat bog, its low-oxygen environment, and where a body is preserved. Not an archaeological survey drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. Why a bog preserves a body
 

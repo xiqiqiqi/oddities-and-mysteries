@@ -72,7 +72,7 @@ The stelae are still there. Some stand, some lie down, one went away and came ba
 
 ![The stelae, the Red Sea trade and the timeline](../../../assets/inline/aksum.svg)
 
-*Original schematic: the structure of the Aksum stelae, the Red Sea trade and the timeline from the first to the seventh century. Not a site photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the structure of the Aksum stelae, the Red Sea trade and the timeline from the first to the seventh century. Not a site photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

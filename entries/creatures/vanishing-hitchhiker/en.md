@@ -20,7 +20,7 @@ The person is not surprised. They look at the empty car as if they had been wait
 
 ![Reconstruction of the hitchhiker on the night road](../../../assets/inline/vanishing-hitchhiker-road.jpg)
 
-*Reconstruction: a woman in white at the roadside at night. Not a photograph of an event. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: a woman in white at the roadside at night. Not a photograph of an event. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. Sweden, 1602
 
@@ -123,7 +123,7 @@ The back seat is empty. The story is still there.
 
 ![The structure, variations and routes of the legend](../../../assets/inline/vanishing-hitchhiker.svg)
 
-*Original schematic: the night road, the back seat and the cemetery, with variants of the legend. Not a photograph of an event. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the night road, the back seat and the cemetery, with variants of the legend. Not a photograph of an event. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

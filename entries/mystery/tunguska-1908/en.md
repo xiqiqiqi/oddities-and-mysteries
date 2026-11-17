@@ -60,7 +60,7 @@ It also explains why the trees near the centre did not fall. They were in the mi
 
 ![An airburst](../../../assets/inline/tunguska-airburst.svg)
 
-*Original diagram: how an airburst flattens a forest. Oddity Archive, CC BY-SA 4.0.*
+*Original diagram: how an airburst flattens a forest. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 5. What came down
 
@@ -96,7 +96,7 @@ Only the old people still tell the story: the sky split open, the fire came from
 
 ![Map of the Tunguska blast zone](../../../assets/inline/tunguska-map.svg)
 
-*Original map: the approximate extent of the 1908 Tunguska blast. Oddity Archive, CC BY-SA 4.0.*
+*Original map: the approximate extent of the 1908 Tunguska blast. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Compare
 

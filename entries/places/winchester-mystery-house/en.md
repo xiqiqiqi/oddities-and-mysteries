@@ -66,7 +66,7 @@ Sarah left no explanation. She spent her money on a house, and she spent thirty-
 
 ![The expansion, the 1906 earthquake, and the opening of the house](../../../assets/inline/winchester.svg)
 
-*Original schematic: the phases of construction, the 1906 earthquake and the opening in 1923. Not an architectural survey. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the phases of construction, the 1906 earthquake and the opening in 1923. Not an architectural survey. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Sarah
 

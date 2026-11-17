@@ -22,7 +22,7 @@ Some described it as cotton-like; others said it looked like threads pulled from
 
 ![Schematic of the angel hair reports](../../../assets/inline/angel-hair-diagram.svg)
 
-*Original schematic: the reported sequence in Florence in 1954 — an object appears, white threads fall, then quickly disappear. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the reported sequence in Florence in 1954 — an object appears, white threads fall, then quickly disappear. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. It disappeared quickly
 

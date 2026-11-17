@@ -68,11 +68,11 @@ Nobody sees the green-haired beast any more. The terracotta figure from the ditc
 
 ![Reconstruction of La Velue by the Huisne in the Middle Ages](../../../assets/inline/peluda-huisne.jpg)
 
-*Reconstruction: La Velue by the Huisne in the Middle Ages. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: La Velue by the Huisne in the Middle Ages. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ![The beast's anatomy, the river and the folklore trail](../../../assets/inline/peluda.svg)
 
-*Original schematic: the creature's body, the Huisne location and the line of the legend. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the creature's body, the Huisne location and the line of the legend. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

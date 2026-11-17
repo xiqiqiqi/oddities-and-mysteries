@@ -24,7 +24,7 @@ Many people treat the two sightings as one event. They were two hours apart, in 
 
 ![Timeline of the two sightings](../../../assets/inline/phoenix-lights-timeline.svg)
 
-*Original schematic: the two sightings on the evening of 13 March 1997. On the left, the V formation at 7:55 p.m.; on the right, the flares around 10 p.m. Not a photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the two sightings on the evening of 13 March 1997. On the left, the V formation at 7:55 p.m.; on the right, the flares around 10 p.m. Not a photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The governor and the press conference
 

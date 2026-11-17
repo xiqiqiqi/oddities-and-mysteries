@@ -84,7 +84,7 @@ There are fewer Manx versions, but the structure is the same: first the livestoc
 
 ![Reconstruction of the water horse at a Highland loch at dusk](../../../assets/inline/each-uisge-loch.jpg)
 
-*Reconstruction: the water horse by a loch at dusk. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the water horse by a loch at dusk. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 8. The Skin That Holds
 
@@ -98,7 +98,7 @@ At dusk, if a horse is standing still by the water and is not afraid of you, it 
 
 ![The water horse's two forms, sticky skin and loch legend](../../../assets/inline/each-uisge.svg)
 
-*Original schematic: the water horse's horse and human forms, its sticky skin and the dusk warning. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the water horse's horse and human forms, its sticky skin and the dusk warning. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

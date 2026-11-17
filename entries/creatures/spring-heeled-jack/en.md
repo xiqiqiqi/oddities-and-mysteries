@@ -30,7 +30,7 @@ Fear is obvious in these accounts. A figure who could leap between rooftops was 
 
 ![Schematic of Spring-Heeled Jack sightings](../../../assets/inline/spring-heeled-jack-map.svg)
 
-*Original schematic: the areas of London with the most reports in 1837–1838 and the common descriptions. Not a precise map. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the areas of London with the most reports in 1837–1838 and the common descriptions. Not a precise map. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. Newspapers and penny dreadfuls
 

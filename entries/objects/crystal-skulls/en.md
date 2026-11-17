@@ -30,7 +30,7 @@ The problem is that the discovery is poorly documented. There are no contemporar
 
 ![How crystal skulls were identified](../../../assets/inline/crystal-skulls-analysis.svg)
 
-*Original schematic: the lines of evidence that moved crystal skulls from “ancient relic” to “modern manufacture.” Not a photograph of an artifact. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the lines of evidence that moved crystal skulls from “ancient relic” to “modern manufacture.” Not a photograph of an artifact. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. Tool marks
 

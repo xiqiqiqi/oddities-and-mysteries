@@ -70,7 +70,7 @@ No one knows whether the original lies in Zhaoling. But the 324 characters survi
 
 ![The text, the lost original and the copies of the Lantingji Xu](../../../assets/inline/lanting-xu.svg)
 
-*Original schematic: a timeline from the 353 gathering to the Tang copies and the 1965 debate. Not the original calligraphy. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: a timeline from the 353 gathering to the Tang copies and the 1965 debate. Not the original calligraphy. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Yaji
 

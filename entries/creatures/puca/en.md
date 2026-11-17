@@ -18,7 +18,7 @@ This is the púca.
 
 ![Reconstruction of an Irish night road and the black púca](../../../assets/inline/puca-black-horse.jpg)
 
-*Reconstruction: a black horse at a country road at night in Ireland. Not a site photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: a black horse at a country road at night in Ireland. Not a site photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. The Name
 
@@ -86,7 +86,7 @@ The púca has not disappeared. It has changed shape again: from a black horse on
 
 ![The púca's shapes, the ride and Samhain](../../../assets/inline/puca.svg)
 
-*Original schematic: the púca's common shapes, the ride and the date of Samhain. Not a site photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the púca's common shapes, the ride and the date of Samhain. Not a site photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

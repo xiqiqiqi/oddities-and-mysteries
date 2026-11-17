@@ -24,7 +24,7 @@ The largest blocks are estimated at more than a hundred tonnes. They are not reg
 
 ![The walls and block fit at Sacsayhuamán](../../../assets/inline/sacsayhuaman-wall.svg)
 
-*Original schematic: the zigzag arrangement and polygonal block fit at Sacsayhuamán. Not a precise survey. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the zigzag arrangement and polygonal block fit at Sacsayhuamán. Not a precise survey. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. How they were fitted
 

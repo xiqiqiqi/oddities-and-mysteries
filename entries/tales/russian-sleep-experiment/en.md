@@ -16,7 +16,7 @@ On the clipboard outside, the first days are neat: when they ate, when they spok
 
 ![Reconstruction of the sealed observation room](../../../assets/inline/russian-sleep-room.jpg)
 
-*Reconstruction: the sealed observation room of the story. This is an internet horror story, not a historical site. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the sealed observation room of the story. This is an internet horror story, not a historical site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. The Sixth Day
 
@@ -92,7 +92,7 @@ On the thirtieth day the door opens. The one who kept the record is still alive.
 
 ![The structure, origin and real sleep-deprivation record](../../../assets/inline/russian-sleep-experiment.svg)
 
-*Original schematic: the thirty days of the story, the online timeline and the real sleep-deprivation record. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the thirty days of the story, the online timeline and the real sleep-deprivation record. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

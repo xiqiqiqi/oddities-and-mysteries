@@ -24,7 +24,7 @@ Weather had worn the pyramid down to a mound. The looters knew there was somethi
 
 ![The burial chamber of the Lord of Sipán and the arrangement of grave goods](../../../assets/inline/sipan-tomb.svg)
 
-*Original schematic: the layers of the Sipán tomb, the position of the Lord, and the main grave goods. Not an archaeological survey drawing. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the layers of the Sipán tomb, the position of the Lord, and the main grave goods. Not an archaeological survey drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Opening the chamber
 

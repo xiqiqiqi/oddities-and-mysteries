@@ -22,7 +22,7 @@ The witnesses ran to the wharf, rounded up fishermen, and went out in boats. The
 
 ![Search area off Shag Harbour](../../../assets/inline/shag-harbour-search.svg)
 
-*Original schematic: the direction of the sighting, the entry point, and the search area on the night of 4 October 1967. Not a precise chart. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the direction of the sighting, the entry point, and the search area on the night of 4 October 1967. Not a precise chart. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The search
 

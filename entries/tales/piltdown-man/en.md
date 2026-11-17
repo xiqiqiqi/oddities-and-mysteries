@@ -24,7 +24,7 @@ At the time it looked like a perfect “missing link”: an early human with a l
 
 ![The Piltdown composite and its identification](../../../assets/inline/piltdown-analysis.svg)
 
-*Original schematic: how the Piltdown fossils were assembled and the lines of evidence used in 1953. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: how the Piltdown fossils were assembled and the lines of evidence used in 1953. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Why people believed it
 

@@ -78,7 +78,7 @@ The volcano is still there. The Santorini caldera is active, and its last erupti
 
 ![The streets, the frescoes, and the ash layers at Akrotiri](../../../assets/inline/akrotiri.svg)
 
-*Original schematic: the layout of the streets, the positions of the frescoes and the ash layers. Not a survey drawing. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the layout of the streets, the positions of the frescoes and the ash layers. Not a survey drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Santorini
 

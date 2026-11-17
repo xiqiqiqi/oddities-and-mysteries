@@ -54,7 +54,7 @@ The case ran on 20/20 and Disappeared; a 2017 Oxygen documentary series describe
 
 ![Maura Murray timeline, February 2004](../../../assets/inline/maura-murray-timeline.svg)
 
-*Original schematic: the four days before, the fixed times of 9 February, and the nineteen-minute gap between 19:27 and 19:46. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the four days before, the fixed times of 9 February, and the nineteen-minute gap between 19:27 and 19:46. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 6. Nineteen minutes
 

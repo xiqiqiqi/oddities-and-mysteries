@@ -106,7 +106,7 @@ Of the 144, one was a balloon. The rest are still in the files.
 
 ![The 144 reports, unusual flight and later totals](../../../assets/inline/us-uap-report.svg)
 
-*Original schematic: the 144 reports of 2021, the 18 unusual-flight cases and the 2022–2024 totals. Not a photograph of an event. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the 144 reports of 2021, the 18 unusual-flight cases and the 2022–2024 totals. Not a photograph of an event. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

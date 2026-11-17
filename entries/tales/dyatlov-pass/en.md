@@ -24,7 +24,7 @@ Inside the tent were shoes, food, and some coats. Outside, a line of footprints 
 
 ![Schematic of the Dyatlov Pass site](../../../assets/inline/dyatlov-pass-map.svg)
 
-*Original schematic: the camp, the direction of the footprints, and the locations where the bodies were found near Kholat Syakhl. Not a precise map. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the camp, the direction of the footprints, and the locations where the bodies were found near Kholat Syakhl. Not a precise map. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The search
 

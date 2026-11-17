@@ -66,7 +66,7 @@ The specimen of 1842 sewed the two together — an old mistake and a modern mark
 
 ![The specimen, the 1842 exhibition, and the later collections](../../../assets/inline/feejee-mermaid.svg)
 
-*Original schematic: the monkey torso and fish tail, the New York exhibition of 1842, and the later collection history. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the monkey torso and fish tail, the New York exhibition of 1842, and the later collection history. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Barnum’s Marketing
 

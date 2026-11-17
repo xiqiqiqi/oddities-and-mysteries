@@ -82,7 +82,7 @@ The stone of 409 BCE is still there. It has the homicide law, exile, the right o
 
 ![Draco's code, the theatre of Aegina and the timeline](../../../assets/inline/draco.svg)
 
-*Original schematic: the written code of 621 BCE, the harsh penalties and the theatre death around 600 BCE. Not a site photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the written code of 621 BCE, the harsh penalties and the theatre death around 600 BCE. Not a site photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

@@ -14,7 +14,7 @@ The aircraft was a Boeing 777-200ER. There were 239 people aboard: 227 passenger
 
 ![Reconstruction of the departure gate at Kuala Lumpur in 2014](../../../assets/inline/mh370-gate.jpg)
 
-*Reconstruction: the night departure gate at Kuala Lumpur International Airport in 2014. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the night departure gate at Kuala Lumpur International Airport in 2014. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 At 01.19 the crew made their last radio contact with the ground. The captain is recorded saying, "Good night, Malaysia three seven zero."
 
@@ -76,7 +76,7 @@ Twelve years on, the plane has not landed. Neither has the question.
 
 ![The MH370 timeline, the satellite arc and the search areas](../../../assets/inline/mh370.svg)
 
-*Original schematic: the 8 March 2014 timeline, the satellite handshake arc and the main search areas. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the 8 March 2014 timeline, the satellite handshake arc and the main search areas. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2014
 

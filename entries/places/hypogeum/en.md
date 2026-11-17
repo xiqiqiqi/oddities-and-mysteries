@@ -42,7 +42,7 @@ The structure directs light: surface light is channelled down into the lower cha
 
 ![Schematic section of the three levels and the solstice light](../../../assets/inline/hypogeum-section.svg)
 
-*Original schematic: the three rock-cut levels, red-ochre spirals and the solstice light path. Not a survey drawing. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the three rock-cut levels, red-ochre spirals and the solstice light path. Not a survey drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 5. Eighty people a day
 

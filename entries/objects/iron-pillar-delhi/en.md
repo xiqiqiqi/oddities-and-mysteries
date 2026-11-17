@@ -16,7 +16,7 @@ Late in the day the courtyard sandstone turns orange, and the pillar stays black
 
 ![The Iron Pillar in the Qutb complex](../../../assets/inline/iron-pillar-qutb.jpg)
 
-*Reconstruction: the courtyard of the Qutb complex at dusk, with the Iron Pillar and the victory tower. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the courtyard of the Qutb complex at dusk, with the Iron Pillar and the victory tower. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. Size and inscription
 
@@ -28,7 +28,7 @@ The text says the pillar was raised in honour of Vishnu. It may originally have 
 
 ![Inscription and protective layer of the Iron Pillar](../../../assets/inline/iron-pillar-diagram.svg)
 
-*Original schematic: the position of the inscription and the surface layer on the Delhi Iron Pillar. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the position of the inscription and the surface layer on the Delhi Iron Pillar. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Who raised it
 

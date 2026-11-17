@@ -60,7 +60,7 @@ A fifth block, around 1,200 tonnes, lies in the same quarry, also never moved. I
 
 ![Estimated weights of the Baalbek megaliths](../../../assets/inline/baalbek.svg)
 
-*Original graphic: estimated weights of one trilithon block, the pregnant stone (modern and Jones's 1836 figure), the fifth block and the sixth found in 2014. Oddity Archive, CC BY-SA 4.0.*
+*Original graphic: estimated weights of one trilithon block, the pregnant stone (modern and Jones's 1836 figure), the fifth block and the sixth found in 2014. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 5. The part with no record
 
@@ -72,11 +72,11 @@ So the aliens, the giants, the lost civilisations keep their audience. They carr
 
 ![Reconstruction of a Roman lift at the podium](../../../assets/inline/baalbek-roman-lift.jpg)
 
-*Reconstruction: an imagined first-century CE lift, timber shear-legs, rope and capstan. Not a historical photograph and not an archaeological conclusion. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: an imagined first-century CE lift, timber shear-legs, rope and capstan. Not a historical photograph and not an archaeological conclusion. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ![Quarry to podium: hypotheses and no record](../../../assets/inline/baalbek-transport.svg)
 
-*Original schematic: the height difference, three hypotheses and Adam's 1977 estimate. Not a survey drawing. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the height difference, three hypotheses and Adam's 1977 estimate. Not a survey drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 6. 1843: two mirrors
 

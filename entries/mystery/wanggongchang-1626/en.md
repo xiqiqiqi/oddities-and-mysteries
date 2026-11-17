@@ -34,7 +34,7 @@ These details were copied and retold, each version a little stranger. They may n
 
 ![Schematic map of Wanggongchang and Beijing in 1626](../../../assets/inline/wanggongchang-map.svg)
 
-*Original schematic: the approximate location of Wanggongchang within Beijing. Not a historical map, not to scale. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the approximate location of Wanggongchang within Beijing. Not a historical map, not to scale. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. The official account
 

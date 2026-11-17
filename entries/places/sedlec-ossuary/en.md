@@ -24,7 +24,7 @@ The stairs down are narrow, and the temperature drops as you descend. The crypt 
 
 ![The bone chandelier in the ossuary](../../../assets/inline/sedlec-chandelier.jpg)
 
-*Reconstruction: the bone chandelier, garlands, and corner pyramids inside the Sedlec Ossuary. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the bone chandelier, garlands, and corner pyramids inside the Sedlec Ossuary. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Rint's work
 
@@ -38,7 +38,7 @@ The chandelier is said to contain at least one of every type of bone in the huma
 
 ![The decorations of the ossuary and the origin of the bones](../../../assets/inline/sedlec-bones.svg)
 
-*Original schematic: the main types of decoration in the ossuary, the origin of the bones, and the 1870 arrangement. Not a photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the main types of decoration in the ossuary, the origin of the bones, and the 1870 arrangement. Not a photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. What to see
 

@@ -106,7 +106,7 @@ The shrine does not display it and does not allow it to be copied. What the outs
 
 ![The myth, the sealed sword and the timeline of the Kusanagi](../../../assets/inline/kusanagi.svg)
 
-*Original schematic: the Yamata no Orochi myth, the transmission of the sword, Dan-no-ura and the sealed sanctuary at Atsuta. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the Yamata no Orochi myth, the transmission of the sword, Dan-no-ura and the sealed sanctuary at Atsuta. Not a photograph of an artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

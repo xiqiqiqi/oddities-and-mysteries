@@ -36,7 +36,7 @@ They uncovered rammed-earth foundations of palaces, royal tombs and workshops, a
 
 ![Reconstruction of the 1928 dig at Yinxu](../../../assets/inline/yinxu-1928.jpg)
 
-*Reconstruction: trenches and tools at the Yinxu excavation of 1928. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: trenches and tools at the Yinxu excavation of 1928. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ![The royal tomb area at Yinxu](../../../assets/inline/yinxu-site.jpg)
 

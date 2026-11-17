@@ -50,7 +50,7 @@ In October, Payne spent a night drinking in Hoboken. He bought a small vial of l
 
 ![The people, places, and timeline of the Mary Rogers case](../../../assets/inline/mary-rogers.svg)
 
-*Original schematic: the cigar shop, the Hoboken shore, the newspaper front pages, and the timeline of the case. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the cigar shop, the Hoboken shore, the newspaper front pages, and the timeline of the case. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 6. Poe
 

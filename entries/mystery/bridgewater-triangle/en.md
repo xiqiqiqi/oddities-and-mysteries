@@ -54,7 +54,7 @@ The real history is the war itself: King Philip's War of 1675–76 was among New
 
 ![Schematic of Bridgewater Triangle places and report types](../../../assets/inline/bridgewater-map.svg)
 
-*Original schematic: the swamp centre, surrounding places and report types. Not a survey map. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the swamp centre, surrounding places and report types. Not a survey map. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 6. Why here
 

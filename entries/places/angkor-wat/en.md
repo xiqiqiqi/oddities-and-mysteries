@@ -24,7 +24,7 @@ Later, the Khmer Empire turned to Buddhism, and Angkor Wat gradually became a Bu
 
 ![The layout of Angkor Wat and the water system](../../../assets/inline/angkor-layout.svg)
 
-*Original schematic: the temple layout, the moat, and the water system of the Angkor region. Not a survey drawing. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the temple layout, the moat, and the water system of the Angkor region. Not a survey drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Stories in stone
 

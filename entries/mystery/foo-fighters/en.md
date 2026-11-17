@@ -30,7 +30,7 @@ There were common features: the lights usually made no sound, generally did not 
 
 ![Schematic of foo fighter sightings](../../../assets/inline/foo-fighters-map.svg)
 
-*Original schematic: night-fighter areas and witness descriptions around the Rhine valley in the winter of 1944. Not a precise map. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: night-fighter areas and witness descriptions around the Rhine valley in the winter of 1944. Not a precise map. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. Impossible to catch
 

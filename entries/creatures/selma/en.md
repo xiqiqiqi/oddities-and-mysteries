@@ -22,7 +22,7 @@ Sometimes it swam on the surface; sometimes only its head showed. As it moved, i
 
 ![Reconstruction of the serpent in Lake Seljord at dusk](../../../assets/inline/selma-lake-serpent.jpg)
 
-*Reconstruction: Lake Seljord and the legendary serpent at dusk. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: Lake Seljord and the legendary serpent at dusk. Not a photograph of a sighting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 The locals gave it a name: “Selma”.
 
@@ -38,7 +38,7 @@ What happened to Bjorn and his mother afterwards, the story does not say. What r
 
 ![The sightings, the timeline, and the local coat of arms](../../../assets/inline/selma.svg)
 
-*Original schematic: Lake Seljord, the sighting points, the 1880 event, and the local coat of arms. Not a photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: Lake Seljord, the sighting points, the 1880 event, and the local coat of arms. Not a photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. The evidence
 

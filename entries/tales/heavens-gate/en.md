@@ -74,7 +74,7 @@ What those 39 people believed in did not return. Their story remains as a remind
 
 ![The timeline, beliefs and Rancho Santa Fe house of Heaven's Gate](../../../assets/inline/heavens-gate.svg)
 
-*Original schematic: the timeline from the 1970s to 1997 and the relation between the comet and the group's beliefs. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the timeline from the 1970s to 1997 and the relation between the comet and the group's beliefs. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## House
 

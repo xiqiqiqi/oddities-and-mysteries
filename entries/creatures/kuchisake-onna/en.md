@@ -12,7 +12,7 @@ The consequence was concrete: primary-school children began walking home escorte
 
 ![Reconstruction: a masked woman on a dusk street in 1979](../../../assets/inline/kuchisake-1979-street.jpg)
 
-*Reconstruction: an imagined dusk street in a Japanese suburb in 1979, a masked woman carrying scissors. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: an imagined dusk street in a Japanese suburb in 1979, a masked woman carrying scissors. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. Her question
 
@@ -24,7 +24,7 @@ Note the structure: both answers lead to harm; the only "safe" reply lies outsid
 
 ![Diagram of the question, its branches and survival tactics](../../../assets/inline/kuchisake-question.svg)
 
-*Original schematic: the two-round question's branch outcomes and the legend's survival tactics. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the two-round question's branch outcomes and the legend's survival tactics. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Ways out
 

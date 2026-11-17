@@ -64,7 +64,7 @@ Sixty years on, the clearest evidence is still a few plaster casts and one old r
 
 ![The sightings, tracks and film evidence of the Honey Island Swamp Monster](../../../assets/inline/honey-island-swamp-monster.svg)
 
-*Original schematic: the 1963–2019 sightings, the plaster tracks and the film evidence. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the 1963–2019 sightings, the plaster tracks and the film evidence. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 1963 flight
 

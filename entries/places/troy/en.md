@@ -22,7 +22,7 @@ In 1873 he announced that he had found “Priam's Treasure”: a hoard of gold, 
 
 ![The nine layers of Troy and Schliemann's trench](../../../assets/inline/troy-layers.svg)
 
-*Original schematic: the chronological sequence of the nine cities, Schliemann's trench, and the destruction layer of Troy VIIa. Not a survey drawing. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the chronological sequence of the nine cities, Schliemann's trench, and the destruction layer of Troy VIIa. Not a survey drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The nine layers
 

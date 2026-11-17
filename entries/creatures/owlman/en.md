@@ -42,7 +42,7 @@ A barn owl has a heart-shaped white face, flies almost silently, and when startl
 
 ![Reconstruction: a winged figure hovering over the church tower at dusk](../../../assets/inline/owlman-churchyard-night.jpg)
 
-*Reconstruction: an imagined dusk view of a winged figure hovering over Mawnan church tower in 1976. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: an imagined dusk view of a winged figure hovering over Mawnan church tower in 1976. Not a photograph of a sighting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 Put photograph and explanation side by side: the tower is there, the openings are there. The question was never "could a large bird stand on that tower," but "is one glance in dusk enough to identify a species."
 
@@ -58,7 +58,7 @@ It also moved onto screens: a 2009 Lost Tapes episode, "Death Raptor"; an episod
 
 ![Owlman timeline, 1976 to 2013](../../../assets/inline/owlman-timeline.svg)
 
-*Original schematic: the two 1976 sightings, later sporadic reports and screen adaptations. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the two 1976 sightings, later sporadic reports and screen adaptations. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 7. The tower is still there
 

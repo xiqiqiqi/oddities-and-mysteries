@@ -30,7 +30,7 @@ Jeanne told the Cardinal that the Queen did want the necklace, but could not buy
 
 ![The structure of the necklace fraud](../../../assets/inline/diamond-necklace.svg)
 
-*Original schematic: the necklace, the forged letter, the midnight meeting, and the flow of money. Not a historical painting. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the necklace, the forged letter, the midnight meeting, and the flow of money. Not a historical painting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. The fraud
 
@@ -42,7 +42,7 @@ There was no moon that night. Gravel sounded under the Cardinal's shoes as he ca
 
 ![The midnight meeting in the gardens of Versailles](../../../assets/inline/necklace-midnight-garden.jpg)
 
-*Reconstruction: the midnight meeting in the gardens of Versailles, August 1784. Not a historical painting. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the midnight meeting in the gardens of Versailles, August 1784. Not a historical painting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 The “Queen” was a prostitute named Nicole d'Oliva. The letter was forged by Jeanne.
 

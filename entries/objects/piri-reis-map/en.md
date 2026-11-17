@@ -60,7 +60,7 @@ Some people still say the southern landmass is Antarctica. It is more likely Sou
 
 ![The surviving fragment, the Antarctica claim and the timeline of the Piri Reis map](../../../assets/inline/piri-reis-map.svg)
 
-*Original schematic: the area covered by the surviving fragment, Hapgood's Antarctica hypothesis and the mainstream rebuttal. Not a photograph of the artefact. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the area covered by the surviving fragment, Hapgood's Antarctica hypothesis and the mainstream rebuttal. Not a photograph of the artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Map
 

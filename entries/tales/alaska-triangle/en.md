@@ -64,7 +64,7 @@ But the real ledger has 1,334 names. They did not disappear inside a triangle. T
 
 ![The Alaska Triangle, the 1972 flight path and the statistics](../../../assets/inline/alaska-triangle.svg)
 
-*Original schematic: the triangle, the 1972 Cessna 310 route and the missing-person statistics. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the triangle, the 1972 Cessna 310 route and the missing-person statistics. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Geography
 

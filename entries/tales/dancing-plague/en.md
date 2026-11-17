@@ -22,7 +22,7 @@ They were not dancing for pleasure. Some danced until their shoes wore through, 
 
 ![Timeline of the 1518 dancing plague](../../../assets/inline/dancing-plague-timeline.svg)
 
-*Original schematic: the timeline of the 1518 Strasbourg episode and the city's response. Not a historical painting. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the timeline of the 1518 Strasbourg episode and the city's response. Not a historical painting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The city's response
 

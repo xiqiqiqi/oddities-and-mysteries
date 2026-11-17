@@ -70,7 +70,7 @@ The tears collected over four days were analysed and found to be human. Where th
 
 ![Timeline and tests of the weeping Madonna cases](../../../assets/inline/weeping-madonna.svg)
 
-*Original schematic: Syracuse 1953, Civitavecchia 1995 and the tests used. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: Syracuse 1953, Civitavecchia 1995 and the tests used. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

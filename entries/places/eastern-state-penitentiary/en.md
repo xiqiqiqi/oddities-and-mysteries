@@ -16,7 +16,7 @@ Standing in the centre and looking up, you see the octagonal skylight. Seven cor
 
 ![Reconstruction of the central rotunda at Eastern State Penitentiary](../../../assets/inline/eastern-state-rotunda.jpg)
 
-*Reconstruction: the abandoned central rotunda of Eastern State Penitentiary. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the abandoned central rotunda of Eastern State Penitentiary. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. One Man
 
@@ -68,7 +68,7 @@ A building can do nothing but stand there and still make people uneasy. Eastern 
 
 ![The radial plan, solitary confinement and timeline of Eastern State Penitentiary](../../../assets/inline/eastern-state.svg)
 
-*Original schematic: the radial cellblock plan, the separate system and the 1829–1971 timeline. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the radial cellblock plan, the separate system and the 1829–1971 timeline. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Castle
 

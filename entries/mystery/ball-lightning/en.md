@@ -26,7 +26,7 @@ There is also a smell. Some witnesses mention ozone or sulphur, often explained 
 
 ![Ball lightning and three proposed mechanisms](../../../assets/inline/ball-lightning-diagram.svg)
 
-*Original schematic: common forms of ball lightning and three explanatory directions. Not a measured record. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: common forms of ball lightning and three explanatory directions. Not a measured record. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. What witnesses saw
 

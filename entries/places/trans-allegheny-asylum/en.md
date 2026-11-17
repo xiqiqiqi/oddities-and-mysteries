@@ -16,7 +16,7 @@ The building was made of local blue sandstone, cut by German and Irish stonemaso
 
 ![Reconstruction of a long corridor in the Trans-Allegheny asylum](../../../assets/inline/trans-allegheny-corridor.jpg)
 
-*Reconstruction: a long Kirkbride corridor with an abandoned wheelchair. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: a long Kirkbride corridor with an abandoned wheelchair. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. The Civil War
 
@@ -66,7 +66,7 @@ The ghosts came later. The wards were real.
 
 ![The Kirkbride plan, the Civil War and the timeline of the asylum](../../../assets/inline/trans-allegheny-asylum.svg)
 
-*Original schematic: the 1858–2008 timeline, the Kirkbride plan and the overcrowding figures. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the 1858–2008 timeline, the Kirkbride plan and the overcrowding figures. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Architecture
 

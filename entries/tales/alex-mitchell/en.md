@@ -80,11 +80,11 @@ English has a hyperbolic phrase, "I literally died laughing". After 24 March 197
 
 ![Reconstruction of a 1970s English living room](../../../assets/inline/alex-mitchell-living-room.jpg)
 
-*Reconstruction: an English living room in 1975, the television still on. Not a site photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: an English living room in 1975, the television still on. Not a site photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ![Timeline and the physiology of laughter](../../../assets/inline/alex-mitchell.svg)
 
-*Original schematic: the events of 24 March 1975, the sitcom and the physiology of laughter. Not a site photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the events of 24 March 1975, the sitcom and the physiology of laughter. Not a site photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

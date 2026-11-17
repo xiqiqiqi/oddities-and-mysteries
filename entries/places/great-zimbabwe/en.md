@@ -16,7 +16,7 @@ Late in the afternoon, walking up from the valley, you see the wall before you s
 
 ![The Great Enclosure at golden hour](../../../assets/inline/great-zimbabwe-gold.jpg)
 
-*Reconstruction: the Great Enclosure wall, the conical tower, and the surrounding savanna at golden hour. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the Great Enclosure wall, the conical tower, and the surrounding savanna at golden hour. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. How it was built
 
@@ -28,7 +28,7 @@ Inside the Great Enclosure is a solid conical stone tower about nine metres high
 
 ![The complexes, walls, and trade network of Great Zimbabwe](../../../assets/inline/great-zimbabwe.svg)
 
-*Original schematic: the Hill Complex, the Great Enclosure, the Valley Complex, and the Indian Ocean trade network. Not a survey drawing. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the Hill Complex, the Great Enclosure, the Valley Complex, and the Indian Ocean trade network. Not a survey drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Who built it
 

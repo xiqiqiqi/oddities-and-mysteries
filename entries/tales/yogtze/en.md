@@ -54,7 +54,7 @@ YOGTZE is not a German word, or a word in any other language. Someone suggested 
 
 ![Stoll's movements, the note, and the timeline](../../../assets/inline/yogtze.svg)
 
-*Original schematic: the positions of Anzhausen, Wilnsdorf, Haigerseelbach and the Hagen-Süd exit on the A45, and the YOGTZE note. Not a photograph of the scene. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the positions of Anzhausen, Wilnsdorf, Haigerseelbach and the Hagen-Süd exit on the A45, and the YOGTZE note. Not a photograph of the scene. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 6. Forty years
 

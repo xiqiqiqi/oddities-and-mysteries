@@ -40,7 +40,7 @@ Others have linked the black‑eyed children to cars, motels, and hitchhikers at
 
 ![The pattern and spread of the black‑eyed children legend](../../../assets/inline/black-eyed-children.svg)
 
-*Original schematic: the 1996 parking lot, the features of the legend, and its path through the internet. Not a photograph of a sighting. Oddity Archive, CC BY‑SA 4.0.*
+*Original schematic: the 1996 parking lot, the features of the legend, and its path through the internet. Not a photograph of a sighting. XIQIQI Editorial, CC BY‑SA 4.0.*
 
 ## 5. Explanations
 

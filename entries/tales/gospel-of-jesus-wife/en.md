@@ -62,7 +62,7 @@ It may be a fragment of a genuine ancient text, or a twentieth-century forgery. 
 
 ![The text, tests and provenance of the Gospel of Jesus's Wife](../../../assets/inline/gospel-of-jesus-wife.svg)
 
-*Original schematic: the text, the 2012 announcement, the 2014 tests and the 2016 provenance investigation. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the text, the 2012 announcement, the 2014 tests and the 2016 provenance investigation. Not a photograph of an artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 7. The Weight of a Scrap
 

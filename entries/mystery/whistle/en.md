@@ -36,7 +36,7 @@ But a spectrogram does not tell us who made the sound. It only shows frequency a
 
 ![Schematic spectrogram of Whistle](../../../assets/inline/whistle-wave.svg)
 
-*Original schematic: the thin signal of Whistle and icequake features. Not a measured spectrogram. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the thin signal of Whistle and icequake features. Not a measured spectrogram. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. Icequakes
 

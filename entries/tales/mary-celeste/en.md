@@ -22,7 +22,7 @@ The ship had not sunk, and the sails were not fully furled. She looked like some
 
 ![Reconstruction of the Mary Celeste drifting in the Atlantic, 1872](../../../assets/inline/mary-celeste-drift.jpg)
 
-*Reconstruction: the Mary Celeste drifting unmanned in December 1872, her lifeboat gone. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the Mary Celeste drifting unmanned in December 1872, her lifeboat gone. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 The ship was the Mary Celeste.
 

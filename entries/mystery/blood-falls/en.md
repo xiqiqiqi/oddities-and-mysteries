@@ -32,7 +32,7 @@ In other words, the colour of Blood Falls comes from the same kind of reaction a
 
 ![Cross-section of Blood Falls](../../../assets/inline/blood-falls-section.svg)
 
-*Original schematic: the brine channel at the terminus of Taylor Glacier, the red outflow, and the proglacial lake. Not a precise geological section. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the brine channel at the terminus of Taylor Glacier, the red outflow, and the proglacial lake. Not a precise geological section. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. Where the brine comes from
 

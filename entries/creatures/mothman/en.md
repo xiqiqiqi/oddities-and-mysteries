@@ -24,11 +24,11 @@ In November that year, a car turned onto the old TNT road and the headlights rea
 
 ![A winged figure over the TNT area at night](../../../assets/inline/mothman-tnt.jpg)
 
-*Reconstruction: headlights and a winged figure above the treeline at the Point Pleasant TNT area, 1966. Not a photograph of a sighting. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: headlights and a winged figure above the treeline at the Point Pleasant TNT area, 1966. Not a photograph of a sighting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ![Mothman timeline and the Silver Bridge](../../../assets/inline/mothman-timeline.svg)
 
-*Original schematic: the 1966–1967 sightings around Point Pleasant and the location of the Silver Bridge. Not a precise map. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the 1966–1967 sightings around Point Pleasant and the location of the Silver Bridge. Not a precise map. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The Silver Bridge
 

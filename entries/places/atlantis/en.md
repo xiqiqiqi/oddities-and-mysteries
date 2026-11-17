@@ -124,7 +124,7 @@ Two thousand years later we are still answering it. We have only turned it into 
 
 ![The ring city, the sinking and the search](../../../assets/inline/atlantis.svg)
 
-*Original schematic: Plato's ring city, the sinking narrative and the main candidate sites. Not an archaeological photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: Plato's ring city, the sinking narrative and the main candidate sites. Not an archaeological photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

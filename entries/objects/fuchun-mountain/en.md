@@ -30,13 +30,13 @@ The brazier stood by the bed. As soon as the paper met the charcoal its edge cur
 
 ![The scroll pulled from the brazier](../../../assets/inline/fuchun-fire.jpg)
 
-*Reconstruction: a Qing study at night, the handscroll already burning at one end as it is pulled from the brazier. Not a historical painting. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: a Qing study at night, the handscroll already burning at one end as it is pulled from the brazier. Not a historical painting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 His nephew, Wu Jing'an, could not bear it. While no one was looking, he pulled the painting out of the flames. It was already burning; he put out the fire and unrolled it. The long scroll had broken into two pieces.
 
 ![The fire, the split, and the two halves](../../../assets/inline/fuchun-split.svg)
 
-*Original schematic: the original scroll, the burned break, the two collections, and the 2011 reunion. Not a reproduction of the painting. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the original scroll, the burned break, the two collections, and the 2011 reunion. Not a reproduction of the painting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. The two halves
 

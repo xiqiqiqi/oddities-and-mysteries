@@ -16,7 +16,7 @@ They saw something crouched by the wall.
 
 ![Reconstruction of the vacant lot at Varginha, 1996](../../../assets/inline/varginha-1996.jpg)
 
-*Reconstruction: the vacant lot and the creature by the wall at Varginha in 1996. Not a site photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the vacant lot and the creature by the wall at Varginha in 1996. Not a site photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. It
 
@@ -94,7 +94,7 @@ What the three women saw has no name. It is called the Varginha alien, made into
 
 ![Timeline, site and layers of rumour at Varginha](../../../assets/inline/varginha-ufo.svg)
 
-*Original schematic: the sighting of 20 January 1996, the military operation and the later layers of rumour. Not a site photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the sighting of 20 January 1996, the military operation and the later layers of rumour. Not a site photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

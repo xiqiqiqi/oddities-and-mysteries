@@ -16,7 +16,7 @@ The Imperial State Crown is not worn every day. The monarch wears it at the Stat
 
 ![Ruby and spinel, and the travels of the stone](../../../assets/inline/spinel-vs-ruby.svg)
 
-*Original schematic: the crystal structures of ruby and spinel, and the documented stations of the Black Prince's Ruby. Not a gemmological report. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the crystal structures of ruby and spinel, and the documented stations of the Black Prince's Ruby. Not a gemmological report. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. The Black Prince
 

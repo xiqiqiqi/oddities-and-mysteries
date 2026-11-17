@@ -24,7 +24,7 @@ Most of the objects had been smashed and burned before they were carefully burie
 
 ![Reconstruction of the 1986 excavation at Sanxingdui](../../../assets/inline/sanxingdui-pit.jpg)
 
-*Reconstruction: the excavation of a sacrificial pit at Sanxingdui in 1986. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the excavation of a sacrificial pit at Sanxingdui in 1986. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. The Objects
 
@@ -94,7 +94,7 @@ We do not know at what.
 
 ![The bronze masks, the pits and the timeline](../../../assets/inline/sanxingdui.svg)
 
-*Original schematic: the features of the Sanxingdui bronze masks, the layout of the pits and the timeline from 1929 to 2023. Not a photograph of the objects. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the features of the Sanxingdui bronze masks, the layout of the pits and the timeline from 1929 to 2023. Not a photograph of the objects. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

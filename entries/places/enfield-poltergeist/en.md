@@ -74,7 +74,7 @@ An ordinary house, an eleven-year-old girl, the voice of a dead old man. Believe
 
 ![The Enfield timeline, the investigators, and the types of evidence](../../../assets/inline/enfield.svg)
 
-*Original schematic: the timeline of 1977–1979, the investigators and the types of evidence. Not a photograph of the house. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the timeline of 1977–1979, the investigators and the types of evidence. Not a photograph of the house. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Green Street
 

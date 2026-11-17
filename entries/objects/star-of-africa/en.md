@@ -56,7 +56,7 @@ A famous detail surrounds that blow: that Asscher fainted after splitting the st
 
 ![Reconstruction of the Amsterdam cutting workshop, 1908](../../../assets/inline/star-of-africa-cutting.jpg)
 
-*Reconstruction: the diamond-cutting workshop in Amsterdam in 1908, with polishers around the rough Cullinan. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the diamond-cutting workshop in Amsterdam in 1908, with polishers around the rough Cullinan. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 The rough was eventually cut into nine major stones, ninety-six minor brilliants and a number of unpolished fragments. All but the two largest, Cullinans I and II, remained in Amsterdam by arrangement, as Asscher's fee.
 
@@ -112,7 +112,7 @@ It knows light. Whichever way the light comes from, it sends it back.
 
 ![The cutting of the rough, the Star of Africa and the sceptre](../../../assets/inline/star-of-africa.svg)
 
-*Original schematic: the cutting plan for the rough Cullinan, Cullinan I and the Sovereign's Sceptre. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the cutting plan for the rough Cullinan, Cullinan I and the Sovereign's Sceptre. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

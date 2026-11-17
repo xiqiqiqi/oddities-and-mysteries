@@ -24,11 +24,11 @@ The boardwalk runs through the middle of the stand, narrow enough for one person
 
 ![The boardwalk and twisted trunks](../../../assets/inline/dancing-forest-boardwalk.jpg)
 
-*Reconstruction: the boardwalk, sea fog, and knotted pines of the Dancing Forest. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: the boardwalk, sea fog, and knotted pines of the Dancing Forest. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ![Trunk forms in the Dancing Forest](../../../assets/inline/dancing-forest-forms.svg)
 
-*Original schematic: several common trunk shapes in the Dancing Forest. Not a photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: several common trunk shapes in the Dancing Forest. Not a photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Why they bend
 

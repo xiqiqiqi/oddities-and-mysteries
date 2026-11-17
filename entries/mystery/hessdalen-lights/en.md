@@ -28,7 +28,7 @@ After 1984 the frequency dropped, but the lights did not disappear. People still
 
 ![Timeline of Hessdalen light observations](../../../assets/inline/hessdalen-timeline.svg)
 
-*Original schematic: the main observation milestones at Hessdalen. Not a complete record. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the main observation milestones at Hessdalen. Not a complete record. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Project Hessdalen
 

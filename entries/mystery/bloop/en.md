@@ -38,7 +38,7 @@ Bloop's estimated source pointed to a region of the South Pacific.
 
 ![Bloop and the hydrophone array](../../../assets/inline/bloop-map.svg)
 
-*Original schematic: the hydrophone array and the approximate source of Bloop. Not a precise map. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the hydrophone array and the approximate source of Bloop. Not a precise map. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. The answer
 

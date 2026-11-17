@@ -40,7 +40,7 @@ The story first appeared in a Dutch-Indonesian newspaper in 1948 and was later r
 
 ![The timeline of the Ourang Medan and the doubts](../../../assets/inline/ourang-medan.svg)
 
-*Original schematic: the signal, the rescue, the explosion, and the objection that there is no registration record. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the signal, the rescue, the explosion, and the objection that there is no registration record. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 4. What it might have been
 

@@ -48,7 +48,7 @@ A public inquiry opened in January 2015; in January 2016 it concluded that the m
 
 ![Litvinenko case timeline, 2006 to 2021](../../../assets/inline/litvinenko-timeline.svg)
 
-*Original schematic: from the Pine Bar teapot to the European Court of Human Rights. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: from the Pine Bar teapot to the European Court of Human Rights. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 6. The grave at Highgate
 

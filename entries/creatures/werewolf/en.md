@@ -76,7 +76,7 @@ There was no werewolf in Bedburg in 1589. There was a farmer tortured into a con
 
 ![The Bedburg trial, the elements of the legend, and the medical explanations](../../../assets/inline/werewolf.svg)
 
-*Original schematic: the timeline of the 1589 Bedburg trial, the elements of the werewolf legend and the medical explanations. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the timeline of the 1589 Bedburg trial, the elements of the werewolf legend and the medical explanations. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Word
 

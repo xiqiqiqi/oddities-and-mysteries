@@ -24,7 +24,7 @@ Pliny the Elder and Aelian told similar stories. The details differ, but the cor
 
 ![The structure of the story and how it travelled](../../../assets/inline/aeschylus-tortoise.svg)
 
-*Original schematic: the structure of the tortoise story, the ancient accounts, and how it travelled. Not a historical scene. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the structure of the tortoise story, the ancient accounts, and how it travelled. Not a historical scene. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 3. Eagles and tortoises
 

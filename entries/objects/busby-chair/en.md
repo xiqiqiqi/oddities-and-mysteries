@@ -70,7 +70,7 @@ Cooper Harding, the museum's curator, has said that the 1702 assize records are 
 
 ![The chair as it is displayed at Thirsk Museum](../../../assets/inline/busby-chair-museum.jpg)
 
-*Reconstruction: how the chair is displayed on the wall at Thirsk Museum. Not a photograph of the artefact. Oddity Archive, CC BY-SA 4.0.*
+*Reconstruction: how the chair is displayed on the wall at Thirsk Museum. Not a photograph of the artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 8. What Is Actually There
 
@@ -82,7 +82,7 @@ A man was hanged at a crossroads; that is true. A post stood there and later rot
 
 ![Timeline, inn and museum of Busby's chair](../../../assets/inline/busby-chair.svg)
 
-*Original schematic: the 1702 murder, the curse legend and the 1978 move to the museum. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the 1702 murder, the curse legend and the 1978 move to the museum. Not a photograph of an artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ---
 

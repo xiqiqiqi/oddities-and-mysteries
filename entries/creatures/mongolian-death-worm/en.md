@@ -16,7 +16,7 @@ The story has circulated in the Gobi for a long time. Herders lower their voices
 
 ![The legend's range, its claimed features, and the sand boa](../../../assets/inline/death-worm-map.svg)
 
-*Original schematic: the reported range, the claimed features, and the sand boa as a possible source. Not a record of a sighting. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the reported range, the claimed features, and the sand boa as a possible source. Not a record of a sighting. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## 2. How it kills
 

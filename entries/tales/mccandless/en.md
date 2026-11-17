@@ -78,7 +78,7 @@ Some call him brave, some call him foolish, some call him a young man ruined by 
 
 ![McCandless's stages from graduation to Alaska and Bus 142](../../../assets/inline/mccandless.svg)
 
-*Original schematic: five stages from graduation to the discovery of the body, Bus 142 and the debate over the cause of death. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: five stages from graduation to the discovery of the body, Bus 142 and the debate over the cause of death. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Graduate
 

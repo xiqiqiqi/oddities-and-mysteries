@@ -70,7 +70,7 @@ Whether the person was male or female, a prince or a princess, a warrior or a pr
 
 ![The headdress motifs, tomb layout and discovery of the Golden Man](../../../assets/inline/scythian-gold-man.svg)
 
-*Original schematic: the main motifs of the headdress, the side chamber at Issyk and the 1969 discovery. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
+*Original schematic: the main motifs of the headdress, the side chamber at Issyk and the 1969 discovery. Not a photograph of an artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
 ## Issyk-Kul
 
