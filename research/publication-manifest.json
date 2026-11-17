@@ -2,13 +2,13 @@
   "version": "v3.0-publication",
   "generatedAt": "2026-11-17",
   "release": {
-    "contentCommit": "11e9809",
+    "contentCommit": "f875018",
     "coreCommit": "eebbdf7",
     "tags": {
       "oddities-and-mysteries": "v3.0-publication",
       "oddities-core": "v3.0-publication"
     },
-    "docsCommit": "11e9809"
+    "docsCommit": "f875018"
   },
   "entries": 151,
   "channels": {
