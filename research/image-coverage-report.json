@@ -1,21 +1,21 @@
 {
   "generatedAt": "2026-11-17",
-  "totalImages": 442,
-  "covers": 151,
-  "inline": 291,
+  "totalImages": 478,
+  "covers": 163,
+  "inline": 315,
   "captionTypes": {
-    "generated_reconstruction": 194,
-    "original_diagram": 152,
+    "generated_reconstruction": 206,
     "historical_or_site_photo": 85,
+    "original_diagram": 176,
     "third_party_public_domain": 11
   },
   "generatedReconstructionByChannel": {
-    "creatures": 44,
-    "mystery": 37,
-    "objects": 40,
-    "places": 38,
-    "tales": 35
+    "creatures": 45,
+    "mystery": 38,
+    "objects": 43,
+    "places": 43,
+    "tales": 37
   },
-  "historicalPhotoRatio": 0.192,
+  "historicalPhotoRatio": 0.178,
   "note": "场景复原图逐张在图注标注“不是历史照片/不是现场照片”；原创示意图单独归类；真实影像/现场照片单独归类；封面分 AI 生成复原与第三方公有领域两类。"
 }
