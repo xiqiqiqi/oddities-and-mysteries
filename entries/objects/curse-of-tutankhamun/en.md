@@ -70,15 +70,12 @@ The curse became part of popular culture. Films, novels and souvenirs use it. Th
 
 *Original schematic: the discovery in 1922, Carnarvon's death in 1923, and the newspaper stories about the curse. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Pharaoh's Curse”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Curse of the pharaohs” and S2 is “Weird Science History · The Mummy's Curse That Missed Its Main Target”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Pharaoh's Curse”, the checkable coordinates are Valley of the Kings, Luxor, Egypt, 1922, and the source-ledger entries S1 “Wikipedia · Curse of the pharaohs” and S2 “Weird Science History · The Mummy's Curse That Missed Its Main Target”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+“The Pharaoh's Curse” comes mainly from legend, oral tradition, or urban narrative in Valley of the Kings, Luxor, Egypt; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Pharaoh's Curse” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The people on the list died over a wide span of time and had different causes of death. Some people die from disease, some die from accidents, some die from old age. Put them together and they become a "curse chain".
@@ -97,4 +94,4 @@ Egyptologists were also involved in the spread. Carter and Carnarvon's team need
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, Carnarvon's death, the newspaper coverage and the list of deaths; the “death shall come on swift wings” inscription does not exist in the tomb, Carnarvon died of an infection, and there is no evidence for a curse. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: for “The Pharaoh's Curse”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, Carnarvon's death, the newspaper coverage and the list of deaths; the “death shall come on swift wings” inscription does not exist in the tomb, Carnarvon died of an infection, and there is no evidence for a curse. The illustration is a scene reconstruction, not a photograph of the site.

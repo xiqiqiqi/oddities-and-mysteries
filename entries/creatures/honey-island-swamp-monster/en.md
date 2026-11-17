@@ -66,19 +66,16 @@ Sixty years on, the clearest evidence is still a few plaster casts and one old r
 
 *Original schematic: the 1963–2019 sightings, the plaster tracks and the film evidence. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Tracks in the Swamp”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Honey Island Swamp monster” and S2 is “Gods and Monsters · Honey Island Swamp Monster”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Honey Island material consists of local newspaper features, hunter interviews, and later tourism copy; no specimen, track cast, or photograph has been independently verified.
 
 ## Limits of the record
 
-For “The Tracks in the Swamp”, the checkable coordinates are Slidell, Louisiana, USA, From 1963, and the source-ledger entries S1 “Wikipedia · Honey Island Swamp monster” and S2 “Gods and Monsters · Honey Island Swamp Monster”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“The Tracks in the Swamp” comes mainly from legend, oral tradition, or urban narrative in Slidell, Louisiana, USA; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Tracks in the Swamp” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The myth was popularized in the 1950s by hunter Ford, who filmed the creature and left a letter. Television programs later re‑created the footage with costume and concluded it was a misidentification. The farm on Honey Island fell into neglect. The swamp persists, and the story endures.
@@ -87,4 +84,4 @@ Honey Island Swamp was eventually designated a natural preserve. No specimen of 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the witnesses' descriptions, the tracks and film, and the sceptics' explanations; no body or clear photograph confirms the creature. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: for “The Tracks in the Swamp”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the witnesses' descriptions, the tracks and film, and the sceptics' explanations; no body or clear photograph confirms the creature. The illustration is a scene reconstruction, not a photograph of the site.

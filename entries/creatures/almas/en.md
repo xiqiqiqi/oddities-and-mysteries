@@ -62,8 +62,6 @@ There is no clear photograph, no verified specimen, and no skeleton accepted by 
 
 The mountains are still there. So are the stories. What lies below the snow line has no answer yet.
 
-## Sources and evidence
-
 The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Almas (cryptozoology)” and S2 is “Wikipedia · Boris Porshnev”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
@@ -72,9 +70,10 @@ The Almas material consists mainly of nineteenth- and twentieth-century Central 
 
 ## Limits of the record
 
-For “The Wild Man of the Snow Line”, the checkable coordinates are Central Asia, including Kazakhstan and Mongolia, old legends; several 20th-century expeditions, and the source-ledger entries S1 “Wikipedia · Almas (cryptozoology)” and S2 “Wikipedia · Boris Porshnev”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“The Wild Man of the Snow Line” comes mainly from legend, oral tradition, or urban narrative in Central Asia, including Kazakhstan and Mongolia; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Wild Man of the Snow Line” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Travelers who traversed Mongolia and Central Asia in the nineteenth century recorded the various forms of the tale in their journals. They brought back place‑names, pastoral anecdotes, and fragments of unusable fur, but no skeletons, teeth, or clear photographs. Subsequent expeditions followed those place‑names into the mountains, yet the evidence remained largely oral.
@@ -83,4 +82,4 @@ This dispersion is the crux of the Almas puzzle: sightings span from the Caucasu
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the oral descriptions, the documented expeditions, and the explanations; no specimen exists.
+**Sources and licenses**: for “The Wild Man of the Snow Line”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the oral descriptions, the documented expeditions, and the explanations; no specimen exists.

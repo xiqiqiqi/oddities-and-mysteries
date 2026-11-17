@@ -66,15 +66,12 @@ For historians, it is a story about relics, power and piety. One piece of wood w
 
 *Original schematic: Helena's discovery, the distribution of the cross and the spread of fragments. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “Splinters of the Cross”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · True Cross” and S2 is “Catholic World Report · Legends and History of the True Cross”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “Splinters of the Cross”, the checkable coordinates are Jerusalem, Israel, c. 326 CE, and the source-ledger entries S1 “Wikipedia · True Cross” and S2 “Catholic World Report · Legends and History of the True Cross”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “Splinters of the Cross” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“Splinters of the Cross” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 But fragments of sacred relics are often small, and sampling would destroy the artifacts. Furthermore, the wood may have been treated by later generations, and surface coatings and preservation materials may affect the results. Carbon dating gives the age of the wood but does not prove which tree it came from.
@@ -93,4 +90,4 @@ The question of the True Cross is not a scientific question. It belongs to faith
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the tradition of Helena's discovery, the distribution of fragments and Calvin's criticism; no fragment can be independently proved to come from the cross of Jesus. The illustration is a scene reconstruction, not a photograph of the object.
+**Sources and licenses**: for “Splinters of the Cross”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the tradition of Helena's discovery, the distribution of fragments and Calvin's criticism; no fragment can be independently proved to come from the cross of Jesus. The illustration is a scene reconstruction, not a photograph of the object.

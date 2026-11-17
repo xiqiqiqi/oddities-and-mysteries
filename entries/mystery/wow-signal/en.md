@@ -36,10 +36,6 @@ The original printout, observing log, and Big Ear survey records were later pres
 
 The 'Wow!' annotation turned a technical record into a cultural symbol. It appears in textbooks, documentaries, science fiction, and stamps, and is often cited as evidence that humanity may not be alone. But the symbol also invites misreading: the signal was not a continuing broadcast, not a decodable message, and has no confirmed civilisational source. For SETI it is a reminder that an anomaly needs repetition, independent confirmation, and multi-band observation before it moves from 'interesting' to 'known'.
 
-## Sources and evidence
-
-For “The Wow Signal: Seventy-Two Seconds of Narrowband Radio”, the factual trail runs mainly through S1–S3: S1 is “Big Ear Radio Observatory” and S2 is “The Wow Signal”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 The cover is an AI-assisted reconstruction of “The Wow Signal: Seventy-Two Seconds of Narrowband Radio”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
@@ -52,4 +48,4 @@ The Wow signal was recorded once and never independently repeated. Its frequency
 
 ---
 
-**Sources and licenses**: the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: for “The Wow Signal: Seventy-Two Seconds of Narrowband Radio”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.

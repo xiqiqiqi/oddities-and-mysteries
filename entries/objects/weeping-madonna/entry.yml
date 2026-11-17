@@ -30,13 +30,16 @@ sources:
     url: https://www.madonnadellelacrime.it/29-agosto-1953/
     year: "2026"
     license: 版权归 Sanctuary of Our Lady of Tears；仅作事实参考
+    license_en: "© Sanctuary of Our Lady of Tears; citation only"
     usage: 1953 年 8 月 29 日至 9 月 1 日、奥尔蒂街 11 号、伊安努索夫妇、安东尼娜孕期不顺
   - id: S3
     title: "Madonna delle Lacrime di Siracusa（圣人传记百科）"
+    title_en: "Madonna delle Lacrime di Siracusa (hagiography encyclopedia)"
     publisher: Enciclopedia dei Santi
     url: https://www.santiebeati.it/dettaglio/91911
     year: "2026"
     license: 版权归 Enciclopedia dei Santi；仅作事实参考
+    license_en: "© Enciclopedia dei Santi; citation only"
     usage: 9 月 1 日委员会取样、约三十滴、与成人及两岁七个月儿童泪液对照、蛋白与尿酸、无石膏与颜料成分、取样后停止
   - id: S4
     title: "Alla ricerca di miracoli（CICAP）"
@@ -44,9 +47,11 @@ sources:
     url: https://www.cicap.org/articolo/alla-ricerca-di-miracoli
     year: "2006"
     license: 版权归 CICAP；仅作事实参考
+    license_en: "© CICAP; citation only"
     usage: 奇维塔韦基亚 1995 年 2 月 2 日、潘塔诺、43 厘米像、杰西卡、法比奥·格雷戈里、男性血液、实心与拒绝 DNA
   - id: S5
     title: "Santuario della Madonna delle Lacrime（圣殿照片）"
+    title_en: "Santuario della Madonna delle Lacrime (sanctuary photograph)"
     publisher: Salvo Cannizzaro / Wikimedia Commons（panoramio）
     url: https://commons.wikimedia.org/wiki/File:Santuario_della_Madonna_delle_Lacrime_(Siracusa)_-_panoramio.jpg
     year: "2007"
@@ -54,6 +59,7 @@ sources:
     usage: 锡拉库萨泪圣母圣殿外景
   - id: S6
     title: "Weeping Statue of Madonna of the Immaculate Heart（像片）"
+    title_en: "Weeping Statue of Madonna of the Immaculate Heart (photograph)"
     publisher: Julian Lupyan / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Weeping_Statue_of_Madonna_of_the_Immaculate_Heart.jpg
     year: "2025"
@@ -61,10 +67,13 @@ sources:
     usage: 圣殿内展陈的圣母无玷圣心像，玻璃罩内
   - id: S7
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面教堂圣母像场景复原、案例时间线与检验示意；不是文物照片
 cover: ../../../assets/covers/weeping-madonna.jpg
 related:

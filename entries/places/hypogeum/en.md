@@ -60,4 +60,4 @@ The Hypogeum also raises a question about access. A site cut into soft limestone
 The chamber is not a museum of the past; it is a place that is still changing.
 ---
 
-**Sources and licenses**: factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The entrance, model and Ellis photographs are public domain (Wikimedia Commons), credited in the ledger. Dates and head-counts are archaeological estimates; the solstice orientation of the Holy of Holies is an archaeoastronomical interpretation and is presented as such.
+**Sources and licenses**: for “The Hal Saflieni Hypogeum: Three Levels Cut in Rock”, factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The entrance, model and Ellis photographs are public domain (Wikimedia Commons), credited in the ledger. Dates and head-counts are archaeological estimates; the solstice orientation of the Holy of Holies is an archaeoastronomical interpretation and is presented as such.

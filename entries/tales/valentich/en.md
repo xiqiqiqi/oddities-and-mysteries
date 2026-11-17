@@ -82,4 +82,4 @@ The search found some oil traces at sea, but no airframe, no seats, no luggage, 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the tower recording, the official investigation, aviation-history research, and popular speculation; it does not present any one explanation as proven.
+**Sources and licenses**: for “It's Not an Aircraft”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the tower recording, the official investigation, aviation-history research, and popular speculation; it does not present any one explanation as proven.

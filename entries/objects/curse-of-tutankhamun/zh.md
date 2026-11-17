@@ -70,15 +70,12 @@ lang: zh
 
 *原创示意图：1922 年发现、1923 年卡纳冯之死与“诅咒”报道的时间线。不是现场照片。稀奇奇编辑部，CC BY-SA 4.0。*
 
-## 来源与证据
-
-关于「法老的诅咒」，本条目的事实线索主要来自来源台账 S1–S3，其中 S1 为《Wikipedia · Curse of the pharaohs》，S2 为《Weird Science History · The Mummy's Curse That Missed Its Main Target》。正文中的年代、地点与人物按这些来源的最低共识处理；图像说明与许可逐条列在条目底部。
-
 ## 档案空白
 
-关于「法老的诅咒」，可核对的坐标是埃及，卢克索，帝王谷、1922，以及来源台账中的 S1《Wikipedia · Curse of the pharaohs》与 S2《Weird Science History · The Mummy's Curse That Missed Its Main Target》。出土层位、修复记录与成分检测之间仍有缺口；公开页面往往只给结论，不给完整检测链。
+「法老的诅咒」的材料主要来自埃及，卢克索，帝王谷的传说、口述传统或都市叙事；本文记录它如何被讲述，不把故事本身当作已发生的事实。
 
 条目目前标记为“folklore”；这个标签描述的是当前证据状态，不是对题材真伪的终审。
+
 ## 档案补记
 
 名单上的人，死亡时间跨度很大，死因也不同。有人死于疾病，有人死于事故，有人死于年老。把他们放在一起，就成了一条“诅咒链”。

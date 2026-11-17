@@ -66,19 +66,16 @@ Low-frequency noise remains a real urban problem. Fans, compressors, transformer
 
 The Bristol Hum endures not because it has a dramatic answer, but because it puts a question on the table: if you are the only one who can hear a sound, does it count as real?
 
-## Sources and evidence
-
-For “The Bristol Hum”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Bristol Hum” and S2 is “BBC · Bristol Hum coverage”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Bristol hum file is mostly a local-government and public-health paper trail: complaints, council responses, acoustic surveys, and the absence of a source that all investigators could agree on.
 
 ## Limits of the record
 
-For “The Bristol Hum”, the checkable coordinates are Bristol, England, 1970s, and the source-ledger entries S1 “Wikipedia · Bristol Hum” and S2 “BBC · Bristol Hum coverage”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Bristol Hum” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Bristol Hum” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Researchers will use microphones and spectrum analyzers to record sound pressure levels and frequencies at different locations. They also turn off suspicious devices, one at a time, to see if the sound goes away. If the buzzing noise disappears after turning off a certain machine, the source will be clear.
@@ -87,4 +84,4 @@ But investigations often fail because the sound is too weak or comes from too ma
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The specific source of the Bristol Hum remains disputed; this article separates recorded reports and investigations from interpretive hypotheses.
+**Sources and licenses**: for “The Bristol Hum”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The specific source of the Bristol Hum remains disputed; this article separates recorded reports and investigations from interpretive hypotheses.

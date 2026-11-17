@@ -88,4 +88,4 @@ English has a hyperbolic phrase, "I literally died laughing". After 24 March 197
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S3 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the events, the death record, the family's Long QT explanation and the physiology of laughter; Mitchell's death is publicly reported, there is no post-mortem record of the cause, and the Long QT explanation is the family's inference. The illustrations are a reconstruction and a schematic, not site photographs.
+**Sources and licenses**: for “He Died Laughing”, sources are listed in the ledger S1–S3 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the events, the death record, the family's Long QT explanation and the physiology of laughter; Mitchell's death is publicly reported, there is no post-mortem record of the cause, and the Long QT explanation is the family's inference. The illustrations are a reconstruction and a schematic, not site photographs.

@@ -26,6 +26,7 @@ sources:
     usage: 八岐大蛇与栉名田比卖、八个酒桶与十拳剑、天丛云剑改名草薙剑、日本武尊火攻、686 年（维基作 688 年）因天武天皇生病移出皇宫至热田、《平家物语》1371 年成书与坛之浦、平时子带走剑与勾玉、神镜被救回、勾玉浮匣找回、热田称被带走的是复制品、新罗僧人与十二世纪复制品说、即位仪式上侍从长捧箱、长光/行平佩剑、皇太子佩剑、剑从未公开展示
   - id: S2
     title: "Atsuta Shrine（热田神宫照片）"
+    title_en: "Atsuta Shrine (Atsuta Shrine photograph)"
     publisher: Bariston / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Atsuta_Shrine.jpg
     year: "2019"
@@ -33,6 +34,7 @@ sources:
     usage: 热田神宫本宫一带现场照片
   - id: S3
     title: "Atsuta Shrine honden（热田神宫本殿照片）"
+    title_en: "Atsuta Shrine honden (Atsuta Shrine honden photograph)"
     publisher: Nesnad / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Atsuta_Shrine_honden_-_2014_-_march_18.jpg
     year: "2014"
@@ -40,17 +42,22 @@ sources:
     usage: 热田神宫本殿现场照片
   - id: S4
     title: "Yamata no Orochi（八岐大蛇版画）"
+    title_en: "Yamata no Orochi (Yamata no Orochi print)"
     publisher: Toyohara Chikanobu / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:YamataNoOrochi.jpg
     year: "1870s"
     license: 公有领域
+    license_en: "Public domain"
     usage: 须佐之男斩杀八岐大蛇的历史画作
   - id: S5
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面神宫夜景复原、神话时间线与剑的封存示意；不是文物照片
   - id: S6
     title: "Atsuta-jingu Shrine"

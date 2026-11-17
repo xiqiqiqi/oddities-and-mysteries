@@ -30,27 +30,35 @@ sources:
     url: https://www.britannica.com/biography/Draco
     year: "2026"
     license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    license_en: "© Encyclopaedia Britannica; citation only"
     usage: 德拉古的身份、法典背景与“draconian”一词
   - id: S3
     title: "Draco, 1833 engraving（版画）"
+    title_en: "Draco, 1833 engraving (engraving)"
     publisher: Max Karl Baldamus / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Draco_engraving_from_1833_(cropped).jpg
     year: "1833"
     license: 公有领域
+    license_en: "Public domain"
     usage: 1833 年德拉古想象肖像版画
   - id: S4
     title: "Draco on the Supreme Court frieze（浮雕照片）"
+    title_en: "Draco on the Supreme Court frieze (relief photograph)"
     publisher: Supreme Court of the United States / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Draco_on_Supreme_Court_of_the_United_States_South_Frieze_2_(cropped).jpg
     year: "2023"
     license: 公有领域
+    license_en: "Public domain"
     usage: 美国最高法院南面门楣上的德拉古浮雕
   - id: S5
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面雅典剧院与斗篷场景复原、法典与死亡时间线；不是现场照片
 cover: ../../../assets/covers/draco.jpg
 related:

@@ -62,15 +62,14 @@ Point Pleasant has a Mothman statue, a museum, and an autumn festival.
 
 It is no longer just a sighting from 1966. It is a local symbol: a small city remembered for a bridge disaster, and a red-eyed shadow flying over the treetops at night.
 
-## Sources and evidence
-
 The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Mothman” and S2 is “Wikipedia · Silver Bridge”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-For “The Wings with Red Eyes”, the checkable coordinates are Point Pleasant, West Virginia, USA, 1966–1967, and the source-ledger entries S1 “Wikipedia · Mothman” and S2 “Wikipedia · Silver Bridge”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“The Wings with Red Eyes” comes mainly from legend, oral tradition, or urban narrative in Point Pleasant, West Virginia, USA; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Wings with Red Eyes” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The story of Mothman ultimately comes down to a simple question: What kind of memories do people need after a disaster strikes a place? The victims of Silver Bridge need to be remembered, and Mothman provides an image that won't fade.
@@ -87,4 +86,4 @@ The lights in the museum are always on. The tourists are gone, but it’s still 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the sighting record, the Silver Bridge investigation, and the later association with disaster; it does not identify Mothman as the cause of the bridge collapse.
+**Sources and licenses**: for “The Wings with Red Eyes”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the sighting record, the Silver Bridge investigation, and the later association with disaster; it does not identify Mothman as the cause of the bridge collapse.

@@ -62,15 +62,12 @@ Fish rain is uncommon, but it is a reminder that the atmosphere and water can mo
 
 If you see a fish on the ground after a storm, do not rush to invent a story. Take a photo, note the place and time, and check whether there were waterspout reports nearby. It may really have fallen from the sky.
 
-## Sources and evidence
-
-For “When Fish Fall from the Sky”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Rain of fish” and S2 is “BBC · Fish rain coverage”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “When Fish Fall from the Sky”, the checkable coordinates are Worldwide (Honduras, Australia, India, and elsewhere), reported for centuries, and the source-ledger entries S1 “Wikipedia · Rain of fish” and S2 “BBC · Fish rain coverage”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “When Fish Fall from the Sky” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“When Fish Fall from the Sky” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Some are scams: people put the fish on the ground, take pictures, and say it fell from the sky. Some are mistaken: floods wash up fish, or birds drop fish on the ground. Others are hearsay: one person hears it from another, the place and time has changed.
@@ -79,4 +76,4 @@ Confirming a fish shower requires the scene, photos, witnesses, fish species and
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The mechanism of fish rain is broadly understood, but individual cases vary in credibility; this article separates verified phenomena, local legend, and unconfirmed reports.
+**Sources and licenses**: for “When Fish Fall from the Sky”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The mechanism of fish rain is broadly understood, but individual cases vary in credibility; this article separates verified phenomena, local legend, and unconfirmed reports.

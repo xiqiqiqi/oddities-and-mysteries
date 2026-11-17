@@ -80,16 +80,12 @@ The Church has not declared the shroud authentic, and has not declared it a fake
 
 One cloth, one face, one date. Put the three together and they still do not add up to an answer everyone accepts.
 
-## Sources and evidence
-
-For “The Face on the Shroud”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Shroud of Turin” and S2 is “Shroud.com · The Shroud of Turin Website”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Face on the Shroud”, the checkable coordinates are Turin, Italy, Documented since 1354, and the source-ledger entries S1 “Wikipedia · Shroud of Turin” and S2 “Shroud.com · The Shroud of Turin Website”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “The Face on the Shroud” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Face on the Shroud” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: for “The Face on the Shroud”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.

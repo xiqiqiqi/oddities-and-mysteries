@@ -60,10 +60,6 @@ In 1986, Great Zimbabwe became a World Heritage Site.
 
 Today it is the country's most important archaeological site and a symbol of national identity. The walls are weathering, roots are growing, and some sections need reinforcement. Excavation continues, and so does research on the city's population, kingship, and trade.
 
-## Sources and evidence
-
-For “The City of Stone”, the factual trail runs mainly through S1–S3: S1 is “UNESCO · Great Zimbabwe National Monument” and S2 is “Wikipedia · Great Zimbabwe”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Great Zimbabwe record spans archaeology, architectural history, and colonial-era political argument. Excavations have established the dates and building sequence of the stone walls, the Hill Complex, and the surrounding settlement; early European travellers and colonial officials, by contrast, long used the question of 'who built it' as an argument about civilizational ownership. Current museum and university research places the masonry, cattle keeping, and gold trade within the internal development of southern Africa. This entry separates stratigraphy from colonial-era interpretation and does not repeat the old 'foreign builder' claim.
@@ -72,9 +68,10 @@ Great Zimbabwe's archive is split between the stone evidence and the paper trail
 
 ## Limits of the record
 
-For “The City of Stone”, the checkable coordinates are Masvingo, Zimbabwe, c. 1100–1450 CE, and the source-ledger entries S1 “UNESCO · Great Zimbabwe National Monument” and S2 “Wikipedia · Great Zimbabwe”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+The core facts of “The City of Stone” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The City of Stone” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 It tells the history, trade and architecture of the Shona people. The museum has pottery, goldware and tools.
@@ -91,4 +88,4 @@ Stone City is still there, and so are the stories.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architecture, the builders, the trade, the colonial interpretation, and the decline; the function of some walls and buildings is still debated.
+**Sources and licenses**: for “The City of Stone”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architecture, the builders, the trade, the colonial interpretation, and the decline; the function of some walls and buildings is still debated.

@@ -73,6 +73,7 @@ The balloon hoax worked largely because it looked like news rather than fiction.
 The form of news is a promise. It promises that the report has been gathered, transmitted and edited. Readers in 1844 had no other way to check; they could only trust the form. That is exactly what Poe used.
 
 There is another side to the story: readers were not merely victims. They were willing to believe in a balloon crossing because they had already read about so many technological marvels in the papers. Expectation was part of the hoax. Poe did not create that expectation; he merely wrote it up as something that had already happened.
+
 ## 8. Poe's Joke
 
 Poe later wrote that he found the sight of crowds buying up the paper funny. He did not expose it at once; he waited for the Sun to discover it. Two days later the paper admitted the report was false.
@@ -83,4 +84,4 @@ New York in 1844 had no photographs, no live broadcasts and no fact-checking. It
 The hoax also helped invent the modern byline, or at least the modern distrust of one.
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1844 report, Poe's involvement, the public reaction, and the real crossing records; the Sun admitted the report was false two days later.
+**Sources and licenses**: for “The Balloon Across the Atlantic”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1844 report, Poe's involvement, the public reaction, and the real crossing records; the Sun admitted the report was false two days later.

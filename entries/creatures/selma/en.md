@@ -73,6 +73,7 @@ The lake is still there, and so is the serpent in the story.
 The most practical detail about Lake Seljord is its depth. The surface looks calm, but below it the lake drops more than 150 metres. Even if a large animal did die there, its body could sink beyond reach. The lake does not easily give up what it holds. That is both the condition that keeps the story alive and the reason it has never produced a specimen.
 
 Selma also became part of the local economy. In the twentieth century the lake monster entered tourist publicity; hotels, ferries and souvenir shops all had a reason to keep the serpent alive. This does not mean the witnesses were lying. It means that an unverified legend, reused by tourism, newspapers and local pride, can come to feel like fact. For a researcher, the task is to keep 'how the story spread' separate from 'what was actually in the water'.
+
 ## 8. The Gap in the Evidence
 
 What remains of Selma is mostly testimony, newspaper cuttings and local telling. The famous story of 1880, in which a man cut the serpent in two with an oar, is the best-known episode, but it is still a story. It left nothing that can be examined. Later, a hydroelectric scheme changed the water level, and sightings grew rarer. The story did not disappear; it moved from the news page to the tourist brochure.
@@ -81,4 +82,4 @@ The sign by the lake still shows a serpent. It is a symbol of local identity, no
 The lake is deep enough to keep a secret, and old enough to have kept one for two centuries. That is the whole story, and it is enough.
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the early sightings, the 1880 event, the lack of evidence, and the possible explanations; there is no photograph or specimen of Selma, and the serpent on the coat of arms is a symbol, not a record of a sighting.
+**Sources and licenses**: for “The Serpent in the Lake”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the early sightings, the 1880 event, the lack of evidence, and the possible explanations; there is no photograph or specimen of Selma, and the serpent on the coat of arms is a symbol, not a record of a sighting.

@@ -66,15 +66,12 @@ Three years later, the French Revolution began. Marie Antoinette was sent to the
 
 The necklace was never seen intact again. Its diamonds were scattered across crowns and jewellery in Europe, leaving only a story of greed, credulity, and court politics.
 
-## Sources and evidence
-
-For “The Queen's Necklace”, the factual trail runs mainly through S1–S3: S1 is “History Today · The Affair of the Diamond Necklace” and S2 is “World History Encyclopedia · The Affair of the Diamond Necklace”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Queen's Necklace”, the checkable coordinates are Paris, France, 1785, and the source-ledger entries S1 “History Today · The Affair of the Diamond Necklace” and S2 “World History Encyclopedia · The Affair of the Diamond Necklace”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “The Queen's Necklace” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Queen's Necklace” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 No one has actually seen the Queen buy a necklace, but many believe she would. The scam exploited not greed but people's imagination of the court.
@@ -89,4 +86,4 @@ But the public didn't believe her. She is already known for her luxury, and the 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the origin of the necklace, the Queen's refusal, Jeanne's fraud, the trial, and the aftermath; the Queen did not buy or wear the necklace, but the affair badly damaged her reputation.
+**Sources and licenses**: for “The Queen's Necklace”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the origin of the necklace, the Queen's refusal, Jeanne's fraud, the trial, and the aftermath; the Queen did not buy or wear the necklace, but the affair badly damaged her reputation.

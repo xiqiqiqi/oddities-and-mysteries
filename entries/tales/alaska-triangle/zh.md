@@ -66,15 +66,12 @@ lang: zh
 
 *原创示意图：三角范围、1972 年 Cessna 310 航线与失踪统计对比。不是现场照片。稀奇奇编辑部，CC BY-SA 4.0。*
 
-## 来源与证据
-
-关于「三角形的账」，本条目的事实线索主要来自来源台账 S1–S4，其中 S1 为《Skeptoid · The Alaska Triangle》，S2 为《Alaska Department of Public Safety · Missing Persons Clearinghouse》。正文中的年代、地点与人物按这些来源的最低共识处理；图像说明与许可逐条列在条目底部。
-
 ## 档案空白
 
-关于「三角形的账」，可核对的坐标是美国，阿拉斯加、1972 年起，以及来源台账中的 S1《Skeptoid · The Alaska Triangle》与 S2《Alaska Department of Public Safety · Missing Persons Clearinghouse》。官方记录、当事人证词与后来叙述之间仍有缺口；越著名的故事，越容易把后来添加的细节当成原始事实。
+「三角形的账」的核心事实大体成立，但成因、规模或细节仍有争议；本文并列保留 4 条来源中的竞争解释，不把单一假说写成结论。
 
 条目目前标记为“disputed”；这个标签描述的是当前证据状态，不是对题材真伪的终审。
+
 ## 档案补记
 
 原因是环境、交通和人口分布，不是“超自然”。偏远地区的人，更容易在野外迷路、受伤或遇难。

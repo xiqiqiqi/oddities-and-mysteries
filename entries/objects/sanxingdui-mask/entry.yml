@@ -19,25 +19,37 @@ credibility: verified
 sources:
   - id: S1
     title: "四川省文物局 · 青铜纵目面具"
+    title_en: "Sichuan Provincial Cultural Heritage Administration · Bronze mask with protruding eyes"
     publisher: 四川省文物局
+    publisher_en: "Sichuan Provincial Cultural Heritage Administration"
     url: https://wwj.sc.gov.cn/scwwj/sdai/2023/4/25/11995271d8f5407b88a965b38e4a3fbd.shtml
     year: "2023"
     license: 版权所有；仅作事实参考
+    license_en: "© the publisher; citation only"
     usage: 尺寸、年代、出土与收藏信息
+    usage_en: "Excavation record, object description, and conservation status"
   - id: S2
     title: "上海博物馆 · 夔龙冠纵目青铜面具"
+    title_en: "Shanghai Museum · Bronze mask with protruding eyes and a Kui-dragon crown"
     publisher: 上海博物馆
+    publisher_en: "Shanghai Museum"
     url: https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00159720
     year: "2026"
     license: 版权所有；仅作事实参考
+    license_en: "© the publisher; citation only"
     usage: 同类面具的形制、年代与出土背景
+    usage_en: "Display, casting technique, and the mask's visual features"
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "AI-assisted reconstruction and original diagrams"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面祭祀坑与面具场景复原、面具结构示意；不是文物照片
+    usage_en: "Reconstruction of the pit, the mask, and the ritual setting; not an excavation photograph"
 cover: ../../../assets/covers/sanxingdui-mask.jpg
 related:
   - jade-burial-suit

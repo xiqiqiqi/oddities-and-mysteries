@@ -30,13 +30,17 @@ sources:
     url: https://whc.unesco.org/en/list/138/
     year: "2026"
     license: 版权所有；仅作事实参考
+    license_en: "© UNESCO World Heritage Centre; citation only"
     usage: 世界遗产信息、土砖建筑与保护状况
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面城市复原与街区、排水系统示意；不是航拍照片
 cover: ../../../assets/covers/mohenjo-daro.jpg
 related:

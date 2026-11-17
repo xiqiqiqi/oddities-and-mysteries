@@ -33,10 +33,13 @@ sources:
     usage: 遗址位置、莫切文化背景与后续发掘
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面场景复原与墓室结构示意；不是出土现场照片
   - id: S4
     title: "Visitar el Museo Tumbas Reales de Sipan"
@@ -44,6 +47,7 @@ sources:
     url: https://www.gob.pe/10982-visitar-el-museo-tumbas-reales-de-sipan
     year: "2025"
     license: "政府门户；引用与事实核对"
+    license_en: "Citation and factual cross-check"
     usage: 西潘王陵博物馆与西潘领主的官方说明
 cover: ../../../assets/covers/sipan.jpg
 related:

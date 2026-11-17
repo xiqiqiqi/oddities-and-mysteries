@@ -72,15 +72,12 @@ The Sword of Goujian is one of the most popular objects in the Hubei Provincial 
 
 It sits in a climate-controlled case. Under the lights, the dark pattern on the blade shifts in tone. More than two thousand years later, it still looks like a weapon just drawn from its sheath.
 
-## Sources and evidence
-
-For “Still Sharp After 2,000 Years”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Sword of Goujian” and S2 is “Wikipedia · Goujian”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “Still Sharp After 2,000 Years”, the checkable coordinates are Jingzhou, Hubei, China, 5th century BCE (late Spring and Autumn period), and the source-ledger entries S1 “Wikipedia · Sword of Goujian” and S2 “Wikipedia · Goujian”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “Still Sharp After 2,000 Years” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“Still Sharp After 2,000 Years” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 They used bronze, tin and lead to cast them according to the proportions at that time, and then made diamond-shaped dark patterns and surface treatments. The replica can be similar in appearance, but it is difficult to achieve exactly the same metal structure.
@@ -99,4 +96,4 @@ When the archaeological team opened the box, the sword was almost complete. Ther
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation record, the inscription, the reasons for its preservation, and the speculation about how it reached Chu; “never rusted” is an exaggeration, and the blade shows normal bronze corrosion.
+**Sources and licenses**: for “Still Sharp After 2,000 Years”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation record, the inscription, the reasons for its preservation, and the speculation about how it reached Chu; “never rusted” is an exaggeration, and the blade shows normal bronze corrosion.

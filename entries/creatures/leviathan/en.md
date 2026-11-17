@@ -75,6 +75,7 @@ Job 41 does not present Leviathan as a monster waiting to be hunted. God's quest
 This is a common move in ancient texts. The sea, the night, the abyss and the storm all need an opponent that can be named. Calling it Leviathan at least gives fear a shape.
 
 The ancient writers were not interested in classifying Leviathan. They were interested in whether it could be subdued. Putting a sea monster into scripture was a way of placing the unknown sea inside the scope of divine power. The stronger the monster, the stronger the god who subdues it. This is a story about order, not a natural history.
+
 ## 8. The Life of a Name
 
 Leviathan left no bones, but it left a name. Hobbes used it for the state; Melville sent Ahab after "the Leviathan of the deep"; palaeontologists gave a huge extinct whale the name Livyatan. Every borrowing is a fresh interpretation.
@@ -83,4 +84,4 @@ The more the name is used, the less it belongs to a single sea monster. In the e
 The name outlived the myth.
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ancient texts, the Ugaritic myth, later interpretations and the palaeontological name; Leviathan is a mythological creature with no biological evidence, and "Livyatan" merely borrows the name. The illustration is a scene reconstruction, not a photograph of an artefact.
+**Sources and licenses**: for “The Beast in the Sea”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ancient texts, the Ugaritic myth, later interpretations and the palaeontological name; Leviathan is a mythological creature with no biological evidence, and "Livyatan" merely borrows the name. The illustration is a scene reconstruction, not a photograph of an artefact.

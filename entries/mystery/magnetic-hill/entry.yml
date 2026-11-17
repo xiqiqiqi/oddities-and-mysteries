@@ -34,10 +34,13 @@ sources:
     usage: 重力山现象的普遍原理与视错觉解释
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面场景复原与坡度示意；不是现场照片
   - id: S4
     title: "Magnetic Hill Illusion"
@@ -45,6 +48,7 @@ sources:
     url: https://www.moncton.ca/en/magnetic-hill-illusion
     year: "2026"
     license: "政府网站内容；引用与事实核对"
+    license_en: "Citation and factual cross-check"
     usage: 磁山的官方说明与重力丘错觉
 cover: ../../../assets/covers/magnetic-hill.jpg
 related:

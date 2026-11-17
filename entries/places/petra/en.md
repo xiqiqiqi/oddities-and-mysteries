@@ -36,10 +36,6 @@ A major earthquake in 363 CE damaged much of Petra, and the city declined therea
 
 Petra was inscribed as a World Heritage Site in 1985. Today it faces rock weathering, salt erosion, flash floods, earthquake risk, and heavy visitation. Paths, steps, and tomb chambers are repeatedly trampled, and some areas have had to restrict access. Relations between local communities and site managers are also complex: tourism income, relocation, grazing rights, and heritage protection often conflict. Conservation is not a matter of sealing the site off but of finding a sustainable balance between rock stability, flood management, and local livelihoods.
 
-## Sources and evidence
-
-For “Petra: A Caravan Capital in the Canyon”, the factual trail runs mainly through S1–S3: S1 is “Petra” and S2 is “Petra”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 The cover is an AI-assisted reconstruction of “Petra: A Caravan Capital in the Canyon”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
@@ -52,4 +48,4 @@ Many buildings at Petra carry no inscriptions, so their dates must be inferred f
 
 ---
 
-**Sources and licenses**: the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: for “Petra: A Caravan Capital in the Canyon”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.

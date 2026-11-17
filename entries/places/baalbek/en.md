@@ -106,11 +106,11 @@ In another, a fallen column leans against the podium wall as if someone had half
 
 ![A fallen column leaning on the podium wall, 1850](../../../assets/inline/baalbek-1850-ducamp-leaning-column.jpg)
 
-*Historical photograph: 15 September 1850, Maxime Du Camp, salted paper print. The Metropolitan Museum of Art, CC0.*
+*Historical photograph: 15 September 1850, Maxime Du Camp, salted paper print — a fallen column leaning against the podium wall. The Metropolitan Museum of Art, CC0.*
 
 ![The hemicycle wall and arched niches, 1850](../../../assets/inline/baalbek-1850-ducamp-hemicycle.jpg)
 
-*Historical photograph: 15 September 1850, Maxime Du Camp, salted paper print. The Metropolitan Museum of Art, CC0.*
+*Historical photograph: 15 September 1850, Maxime Du Camp, salted paper print — the curved hemicycle wall and its arched niches. The Metropolitan Museum of Art, CC0.*
 
 ## 8. The almost intact temple next door
 
@@ -136,4 +136,4 @@ In 1906 John Singer Sargent painted the ruins in watercolour, honey and pale vio
 
 ---
 
-**Sources and licenses**: factual sources are in the ledger S1–S18 below. Text and original graphics are CC BY-SA 4.0. Met images are CC0 / public domain; Commons images are credited per item in the ledger; the 1900 card is held by SMU with no known copyright restrictions. The reconstruction is not a historical photograph. All weights are estimates; the transport method is unsettled; alien and giant claims have no archaeological evidence. Jones quotations are from his 1836 book (public domain).
+**Sources and licenses**: for “The Stones Under the Temple”, factual sources are in the ledger S1–S18 below. Text and original graphics are CC BY-SA 4.0. Met images are CC0 / public domain; Commons images are credited per item in the ledger; the 1900 card is held by SMU with no known copyright restrictions. The reconstruction is not a historical photograph. All weights are estimates; the transport method is unsettled; alien and giant claims have no archaeological evidence. Jones quotations are from his 1836 book (public domain).

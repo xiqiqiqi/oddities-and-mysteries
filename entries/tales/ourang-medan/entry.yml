@@ -23,6 +23,7 @@ sources:
     url: https://skeptoid.com/episodes/4756
     year: "2026"
     license: 版权所有；仅作事实参考
+    license_en: "© Skeptoid Media; citation only"
     usage: 故事版本、缺乏登记记录与可能解释
   - id: S2
     title: "Wikipedia · SS Ourang Medan"
@@ -33,10 +34,13 @@ sources:
     usage: 电报内容、救援船、报道来源与质疑
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面货船与马六甲海峡场景复原、事件时间线示意；不是历史照片
 cover: ../../../assets/covers/ourang-medan.jpg
 related:

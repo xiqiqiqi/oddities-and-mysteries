@@ -26,6 +26,7 @@ sources:
     usage: 公司创立与亏损、1993 买矿地、梦中钻孔、储量逐级上调与股价、苏哈托家族与 Freeport 结构、德·古兹曼直升机坠亡疑点、Strathcona 加盐报告、6 分钱与破产、损失清单、RCMP 不起诉与费尔德霍夫无罪、沃尔什之死、集体诉讼终结、NI 43-101
   - id: S2
     title: "Atlas SMP BIG - Kalimantan Timur（官方省图）"
+    title_en: "Atlas SMP BIG - Kalimantan Timur (official provincial map)"
     publisher: Geospatial Information Agency of Indonesia / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Atlas_SMP_BIG_-_Kalimantan_Timur.svg
     year: "2022"
@@ -33,10 +34,13 @@ sources:
     usage: 东加里曼丹省官方地图，Busang 矿址所在省份
   - id: S3
     title: 原创示意图与场景复原图
+    title_en: "Original diagram and scene reconstruction"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 储量膨胀与股价曲线示意、丛林钻探营地场景复原；不是历史照片
   - id: S4
     title: "Re: John Felderhof & Bre-X Minerals Ltd."

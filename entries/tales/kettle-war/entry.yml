@@ -33,10 +33,13 @@ sources:
     usage: 斯海尔德河的航运与河口地理
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面场景复原与事件时间线；不是历史画作
   - id: S4
     title: "Spotprent op de prins, de hertog en de politieke toestand van Nederland in 1784"
@@ -44,6 +47,7 @@ sources:
     url: https://www.europeana.eu/nl/item/90402/RP_P_OB_85_365
     year: "1784"
     license: "公有领域"
+    license_en: "Public domain"
     usage: 1784 年荷兰政治危机的讽刺版画，作为时代背景；不是凯特尔战争本身记录
 cover: ../../../assets/covers/kettle-war.jpg
 related:

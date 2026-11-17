@@ -30,13 +30,17 @@ sources:
     url: https://www.thetruecrimedatabase.com/case_file/the-yogtze-case/
     year: "2019"
     license: 版权归 The True Crime Database；仅作事实参考
+    license_en: "© The True Crime Database; citation only"
     usage: 时间线、酒馆与车祸现场细节、2025 年警方通报
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面夜间公路与事故车场景复原、纸条与时间线示意；不是历史照片
 cover: ../../../assets/covers/yogtze.jpg
 related:

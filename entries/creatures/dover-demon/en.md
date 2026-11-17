@@ -80,4 +80,4 @@ No photograph, no specimen, no footprint. The stone wall on Farm Street is still
 
 ---
 
-**Sources and licenses**: factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The illustration, locator map and snowy-owl photograph are credited Wikimedia Commons works, licenses in the ledger; the reconstruction is not a photograph of a sighting. The Dover Demon has no photographic or physical evidence; misidentified animals, hoax and cultural influence are all possible explanations, and this article does not choose between them for the reader.
+**Sources and licenses**: for “The Dover Demon”, factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The illustration, locator map and snowy-owl photograph are credited Wikimedia Commons works, licenses in the ledger; the reconstruction is not a photograph of a sighting. The Dover Demon has no photographic or physical evidence; misidentified animals, hoax and cultural influence are all possible explanations, and this article does not choose between them for the reader.

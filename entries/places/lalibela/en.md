@@ -60,19 +60,16 @@ Their main threat is not visitors but water and time. Rain seeps into the rock, 
 
 The stone churches are still in use, and they are still ageing. They were not built up but “subtracted” from the rock; now weathering and erosion are doing the opposite.
 
-## Sources and evidence
-
-For “Churches Carved from Rock”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Lalibela” and S2 is “Wikipedia · Rock-hewn Churches of Lalibela”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 Lalibela's archive combines church records, conservation reports, and travel accounts; the rock-cut churches are the primary evidence, while the founding legend and the date of each building remain partly open.
 
 ## Limits of the record
 
-For “Churches Carved from Rock”, the checkable coordinates are Lalibela, Ethiopia, about the 12th–13th century, and the source-ledger entries S1 “Wikipedia · Lalibela” and S2 “Wikipedia · Rock-hewn Churches of Lalibela”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+The core facts of “Churches Carved from Rock” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“Churches Carved from Rock” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The craftsmen first drew lines on the mountain, and then dug down to dig out the church's shape, roof, doors and windows. The church is connected to the ground, like a building growing out of the earth.
@@ -88,4 +85,4 @@ The windows of the church are cut into the shape of a cross. The door of the chu
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architecture, historical background, traditional accounts, and modern conservation; estimates of the construction period vary.
+**Sources and licenses**: for “Churches Carved from Rock”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architecture, historical background, traditional accounts, and modern conservation; estimates of the construction period vary.

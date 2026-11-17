@@ -64,15 +64,14 @@ Boulia's tourist material often mentions the Min Min light. Locals tell the stor
 
 For researchers, it is a problem in optics. For drivers, it is a light that should not be on the road ahead.
 
-## Sources and evidence
-
 The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Min Min light” and S2 is “Wikipedia · Boulia, Queensland”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-For “The Light That Followed the Car”, the checkable coordinates are outback Queensland, Australia, recorded since the 19th century, and the source-ledger entries S1 “Wikipedia · Min Min light” and S2 “Wikipedia · Boulia, Queensland”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Light That Followed the Car” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Light That Followed the Car” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The road there is straight, there are few cars, it is dark, and the field of vision can extend to dozens of kilometers. A distant light will be magnified in such an environment. Without the distraction of city lights, every bit of light looks special.
@@ -83,4 +82,4 @@ For drivers, the most important thing about sensitive light is not what it is, b
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the sightings, the place-name story, and the common explanations separate, and does not identify the light as a known creature or craft.
+**Sources and licenses**: for “The Light That Followed the Car”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the sightings, the place-name story, and the common explanations separate, and does not identify the light as a known creature or craft.

@@ -47,10 +47,13 @@ sources:
     usage: 现场照片：高压线走廊穿过沼泽
   - id: S5
     title: 原创地点与报告类型示意图
+    title_en: "Original map of locations and report types"
     publisher: 稀奇奇编辑部
+    publisher_en: "XIQIQI Editorial"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 三角地点与报告类型示意
   - id: S6
     title: "Into the Hockomock: Where wildlife and stories dwell"

@@ -30,6 +30,7 @@ sources:
     url: https://abookofcreatures.com/tag/french-folklore/
     year: "2026"
     license: 版权归 A Book of Creatures；仅作事实参考
+    license_en: "© A Book of Creatures; citation only"
     usage: 拉沃吕外形细节、洪水与毁田、十六世纪“小母羊”笑话与亨利四世、博尔赫斯译名问题
   - id: S3
     title: "Skeptophilia · The shaggy one"
@@ -37,16 +38,20 @@ sources:
     url: https://www.skeptophilia.com/search/label/cryptids
     year: "2026"
     license: 版权归原作者；仅作事实参考
+    license_en: "© Skeptophilia; citation only"
     usage: 保罗·科尔东尼耶-德特里 1954 年研究、伊夫雷莱韦克罗马桥年度纪念延续至十八世纪
   - id: S4
     title: "La Velue（1889 年小册子封面）"
+    title_en: "La Velue (1889 pamphlet cover)"
     publisher: A. Raouleau / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Velue-lebrault.jpg
     year: "1889"
     license: 公有领域
+    license_en: "Public domain"
     usage: 1889 年法国小册子《拉沃吕》封面，标明为萨尔特省水灾灾民义卖、十生丁一份、勒芒 E. Lebrault 印厂印制；传说成形后的完整形象
   - id: S5
     title: "Pont Roman d'Yvré l'évêque（罗马石桥照片）"
+    title_en: "Pont Roman d'Yvré l'évêque (Roman bridge photograph)"
     publisher: Le Mans / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Pont_Roman_d%27Yvr%C3%A9_l%27%C3%A9v%C3%AAque.JPG
     year: "2009"
@@ -54,10 +59,13 @@ sources:
     usage: 伊夫雷莱韦克罗马石桥，传说完结处的地方影像
   - id: S6
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面河畔怪兽场景复原、外形特征与传说要素示意；不是现场照片
 cover: ../../../assets/covers/peluda.jpg
 related:

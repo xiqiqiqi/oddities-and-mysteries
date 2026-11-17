@@ -30,13 +30,17 @@ sources:
     url: https://easternstate.org/
     year: "2026"
     license: 版权归 Eastern State Penitentiary；仅作事实参考
+    license_en: "© Eastern State Penitentiary; citation only"
     usage: 建狱理念、牢房布局、卡彭与萨顿的服刑记录
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面废弃牢房场景复原、放射状平面与时间线；不是现场照片
 cover: ../../../assets/covers/eastern-state.jpg
 related:

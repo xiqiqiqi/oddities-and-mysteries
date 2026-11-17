@@ -30,6 +30,7 @@ sources:
     year: "2026"
     url: https://www.shroud.com/
     license: 版权归 Shroud.com；仅作事实参考
+    license_en: "© Shroud.com; citation only"
     usage: 图像研究、织物与痕迹资料
   - id: S3
     title: "Skeptic · Unraveling the Myths Surrounding the Shroud of Turin"
@@ -37,13 +38,17 @@ sources:
     url: https://www.skeptic.com/article/shroud-of-turin-authenticity-examined/
     year: "2026"
     license: 版权归 Skeptic；仅作事实参考
+    license_en: "© Skeptic; citation only"
     usage: 1988 年测年结果与质疑意见
   - id: S4
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面教堂展陈场景复原、布面与时间线示意；不是文物照片
 cover: ../../../assets/covers/shroud-of-turin.jpg
 related:

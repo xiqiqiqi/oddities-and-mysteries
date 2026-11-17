@@ -66,4 +66,4 @@ The case remains open.
 The file is still open.
 ---
 
-**Sources and licenses**: factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The ATM surveillance is public domain; the Woodsville photograph and postcard are credited / public-domain Wikimedia Commons works, licenses in the ledger. The cause of the disappearance is unresolved; "voluntary departure" and "suspicious" are police characterisations at different stages, presented here in parallel without adjudication.
+**Sources and licenses**: for “Maura Murray: The Nineteen-Minute Gap”, factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The ATM surveillance is public domain; the Woodsville photograph and postcard are credited / public-domain Wikimedia Commons works, licenses in the ledger. The cause of the disappearance is unresolved; "voluntary departure" and "suspicious" are police characterisations at different stages, presented here in parallel without adjudication.

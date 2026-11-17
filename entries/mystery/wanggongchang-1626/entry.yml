@@ -20,6 +20,7 @@ credibility: disputed
 sources:
   - id: S1
     title: "Wikipedia · 王恭厂大爆炸"
+    title_en: "Wikipedia · Wanggongchang Explosion"
     publisher: Wikipedia contributors
     url: https://zh.wikipedia.org/wiki/王恭厂大爆炸
     year: "2026"
@@ -34,17 +35,24 @@ sources:
     usage: 交叉核对、现代解释
   - id: S3
     title: "《明史》相关记载（卷帙待核）"
+    title_en: "Relevant passages from the History of Ming (volume reference pending)"
     publisher: 维基文库
+    publisher_en: "Wikisource"
     url: https://zh.wikisource.org/wiki/明史
     year: "清"
+    year_en: "Qing dynasty"
     license: 公有领域
+    license_en: "Public domain"
     usage: 官方记载与事件背景
   - id: S4
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面场景复原与北京城示意图；不是历史照片
 cover: ../../../assets/covers/wanggongchang-1626.jpg
 related:

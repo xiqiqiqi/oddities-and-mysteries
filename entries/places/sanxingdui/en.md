@@ -98,4 +98,4 @@ We do not know at what.
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S7 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the 1929 discovery, the 1986 and 2021 pits, the Shu culture and the "alien" claim; the site and the objects rest on archaeology, the alien claim has no evidence. The illustrations are a reconstruction, site photographs and a schematic, not conservation images.
+**Sources and licenses**: for “The Bronze Masks”, sources are listed in the ledger S1–S7 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the 1929 discovery, the 1986 and 2021 pits, the Shu culture and the "alien" claim; the site and the objects rest on archaeology, the alien claim has no evidence. The illustrations are a reconstruction, site photographs and a schematic, not conservation images.

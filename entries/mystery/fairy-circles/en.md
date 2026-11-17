@@ -60,8 +60,6 @@ Fairy circles remain one of the most striking features of the Namib. They do not
 
 A circle looks simple. Explaining it means understanding termites, grass, water, and soil at the same time.
 
-## Sources and evidence
-
 The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Fairy circle” and S2 is “Wikipedia · Namib”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
@@ -70,9 +68,10 @@ Fairy-circle research is split between long-term field plots, aerial photography
 
 ## Limits of the record
 
-For “The Circles in the Grass”, the checkable coordinates are Namib Desert, Namibia, long-standing; systematically studied since the 2000s, and the source-ledger entries S1 “Wikipedia · Fairy circle” and S2 “Wikipedia · Namib”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Circles in the Grass” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Circles in the Grass” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Termites, water, grass, soil, fire, may all work together. Termites transform the soil, water determines whether grass will live or die, and fire periodically clears the ground. The circle is the result of the superposition of these forces, not the work of a single cause.
@@ -81,4 +80,4 @@ The name of the Fairy Circle comes from legend. The answers given by science are
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article presents the termite hypothesis and the vegetation self-organisation hypothesis side by side, without treating either as the only answer.
+**Sources and licenses**: for “The Circles in the Grass”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article presents the termite hypothesis and the vegetation self-organisation hypothesis side by side, without treating either as the only answer.

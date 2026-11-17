@@ -30,9 +30,11 @@ sources:
     url: https://whc.unesco.org/en/list/15/
     year: "2026"
     license: 版权归 UNESCO；仅作事实参考
+    license_en: "© UNESCO; citation only"
     usage: 1980 年列入世界遗产、石碑与考古遗存
   - id: S3
     title: "Stelenpark in Axum 2010（石碑群照片）"
+    title_en: "Stelenpark in Axum 2010 (stelae field photograph)"
     publisher: JensiS65 / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Stelenpark_in_Axum_2010.JPG
     year: "2010"
@@ -40,6 +42,7 @@ sources:
     usage: 北石碑公园现场照片，含倒地巨碑残段
   - id: S4
     title: "Church Our Lady Mary Zion Axum（教堂照片）"
+    title_en: "Church Our Lady Mary Zion Axum (church photograph)"
     publisher: Jialiang Gao / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Church_Our_Lady_Mary_Zion_Axum_Ethio.jpg
     year: "2002"
@@ -47,17 +50,22 @@ sources:
     usage: 锡安圣母玛利亚新教堂与钟塔
   - id: S5
     title: "Henry Salt · Obelisk at Axum（1809 年版画）"
+    title_en: "Henry Salt · Obelisk at Axum (1809 engraving)"
     publisher: James Sargant Storer / After Henry Salt / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Henry_Salt_-_Obelisk_at_Axum.jpg
     year: "1809"
     license: 公有领域
+    license_en: "Public domain"
     usage: 1809 年阿克苏姆石碑版画
   - id: S6
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面石碑群场景复原、石碑结构与合作示意；不是现场照片
 cover: ../../../assets/covers/aksum.jpg
 related:

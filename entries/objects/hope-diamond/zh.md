@@ -68,13 +68,9 @@ lang: zh
 
 两个版本并不完全矛盾。石头是真的，人的不幸也是真的。问题在于，我们愿不愿意把两者之间的空白，交给一个好听的故事。
 
-## 来源与证据
-
-关于「一颗被传了三百年的厄运」，本条目的事实线索主要来自来源台账 S1–S4，其中 S1 为《Smithsonian National Museum of Natural History · Hope Diamond》，S2 为《Encyclopaedia Britannica · Hope Diamond》。正文中的年代、地点与人物按这些来源的最低共识处理；图像说明与许可逐条列在条目底部。
-
 ## 档案空白
 
-关于「一颗被传了三百年的厄运」，可核对的坐标是印度 → 法国 → 英国 → 美国、17 世纪，以及来源台账中的 S1《Smithsonian National Museum of Natural History · Hope Diamond》与 S2《Encyclopaedia Britannica · Hope Diamond》。出土层位、修复记录与成分检测之间仍有缺口；公开页面往往只给结论，不给完整检测链。
+「一颗被传了三百年的厄运」的材料主要来自印度 → 法国 → 英国 → 美国的传说、口述传统或都市叙事；本文记录它如何被讲述，不把故事本身当作已发生的事实。
 
 条目目前标记为“folklore”；这个标签描述的是当前证据状态，不是对题材真伪的终审。
 

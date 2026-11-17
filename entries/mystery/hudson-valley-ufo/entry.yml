@@ -30,9 +30,11 @@ sources:
     url: https://skeptoid.com/episodes/4598
     year: "2017"
     license: 版权归 Skeptoid；仅作事实参考
+    license_en: "© Skeptoid; citation only"
     usage: 飞行员编队、同时关灯与“火星人”自嘲的 skeptical 梳理
   - id: S3
     title: "Stormville Airport (N69) in 2025（机场照片）"
+    title_en: "Stormville Airport (N69) in 2025 (airport photograph)"
     publisher: Indefatigable2 / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Stormville_Airport_(N69)_in_2025.jpg
     year: "2025"
@@ -40,6 +42,7 @@ sources:
     usage: 斯特姆维尔机场现场照片
   - id: S4
     title: "Cessna 152 II D-EVUW（机型照片）"
+    title_en: "Cessna 152 II D-EVUW (aircraft type photograph)"
     publisher: Robbie Klinkenberg / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Cessna_152_II_D-EVUW_at_Portim%C3%A3o_Airport_05-08-2020.jpg
     year: "2020"
@@ -47,10 +50,13 @@ sources:
     usage: 州警认定的 Cessna 152 机型照片
   - id: S5
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面夜空 V 形灯光场景复原、目击时间线与解释分层；不是现场照片
 cover: ../../../assets/covers/hudson-valley-ufo.jpg
 related:

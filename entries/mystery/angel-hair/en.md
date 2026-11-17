@@ -64,15 +64,14 @@ The Florence case of 1954 remains in the fortean files: a description, a few pho
 
 It may have been spider silk. It may have been something else. Without a sample, there is no final answer.
 
-## Sources and evidence
-
 The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Angel hair (folklore)” and S2 is “Wikipedia · Spider silk”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-For “The White Threads That Fell from the Sky”, the checkable coordinates are Florence, Italy, October 1954 (Italian reports), and the source-ledger entries S1 “Wikipedia · Angel hair (folklore)” and S2 “Wikipedia · Spider silk”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The White Threads That Fell from the Sky” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The White Threads That Fell from the Sky” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Newspapers need stories, readers need surprise, and witnesses need explanations. A white thing appears in the sky and will soon be put into the frame of the "flying saucer". The same goes for angel hair: it was originally a natural phenomenon, but it was regarded as "a trace left by an aircraft."
@@ -81,4 +80,4 @@ Today, scientists prefer to call it "spider balloon flight." The name isn't as n
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the sightings, the material descriptions, and the common explanations separate; it does not claim a verified link between the object and the threads.
+**Sources and licenses**: for “The White Threads That Fell from the Sky”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the sightings, the material descriptions, and the common explanations separate; it does not claim a verified link between the object and the threads.

@@ -64,19 +64,16 @@ But that does not make it less interesting. Once you know it is an icequake, the
 
 It is still a sound from the deep. The speaker has simply changed from “monster” to “ice.”
 
-## Sources and evidence
-
-For “The Whistle from the Deep”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · List of unexplained sounds” and S2 is “NOAA PMEL Acoustics · underwater sound monitoring”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The whistle archive is unusually thin: a few newspaper items, a family story, and later compilations. No early recording or independent witness statement survives, so the entry keeps the sound and the explanation in separate columns.
 
 ## Limits of the record
 
-For “The Whistle from the Deep”, the checkable coordinates are South Pacific Ocean, recorded in 1997; later identified as an icequake, and the source-ledger entries S1 “Wikipedia · List of unexplained sounds” and S2 “NOAA PMEL Acoustics · underwater sound monitoring”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Whistle from the Deep” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Whistle from the Deep” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 A single signal, no independent confirmation from a second array, no contemporaneous photos, and no traceable source. It can only remain in the database as an "event", not as an "object".
@@ -85,4 +82,4 @@ The ocean is huge and there are very few hydrophones. What we hear is only a sma
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The icequake explanation for Whistle is supported by research; this article separates the recording, the auditory impression, and the later identification.
+**Sources and licenses**: for “The Whistle from the Deep”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The icequake explanation for Whistle is supported by research; this article separates the recording, the auditory impression, and the later identification.

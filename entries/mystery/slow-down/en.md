@@ -68,15 +68,12 @@ A smooth descent looks more like a physical process: a bubble contracting, a pie
 
 Sounds have shapes. We usually listen with our ears, not our eyes.
 
-## Sources and evidence
-
-For “The Sound That Slowed Down”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · List of unexplained sounds” and S2 is “NOAA PMEL Acoustics · underwater sound monitoring”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Sound That Slowed Down”, the checkable coordinates are South Pacific Ocean, recorded in 1997; later identified as an icequake, and the source-ledger entries S1 “Wikipedia · List of unexplained sounds” and S2 “NOAA PMEL Acoustics · underwater sound monitoring”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Sound That Slowed Down” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Sound That Slowed Down” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Icebergs in the South Pacific break off, and the sound produced when they break can travel great distances. Large cetaceans also emit low-frequency calls, some of which change slowly in frequency. Both can leave sloping lines on the spectrogram.
@@ -93,4 +90,4 @@ This is the second layer of sound transmission: first there is an unexplainable 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The icequake explanation for Slow Down is supported by research; this article separates the recording, the spectral features, and the later identification.
+**Sources and licenses**: for “The Sound That Slowed Down”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The icequake explanation for Slow Down is supported by research; this article separates the recording, the spectral features, and the later identification.

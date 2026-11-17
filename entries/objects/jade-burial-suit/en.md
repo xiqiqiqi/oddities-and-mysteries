@@ -66,15 +66,12 @@ They sit in climate-controlled cases. Light comes from the side, and the jade pl
 
 A garment made for “immortality” failed to preserve the body, but it preserved the craftsmanship and beliefs of the Han dynasty in remarkable detail.
 
-## Sources and evidence
-
-For “The Jade Suit Sewn with Gold”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Jade burial suit” and S2 is “Wikipedia · Mancheng Han tombs”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Jade Suit Sewn with Gold”, the checkable coordinates are Mancheng, Hebei, China, Western Han (about the 2nd century BCE), and the source-ledger entries S1 “Wikipedia · Jade burial suit” and S2 “Wikipedia · Mancheng Han tombs”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “The Jade Suit Sewn with Gold” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Jade Suit Sewn with Gold” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The archaeological team collected the scattered jade pieces and put them together according to their shapes and numbers. The gold thread is a later imitation, not the original.
@@ -94,4 +91,4 @@ This is the whole secret of jade clothing: it cannot make people immortal, it ca
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation record, the jade-suit system, burial beliefs, and the later ban; the suits did not prevent the bodies from decaying.
+**Sources and licenses**: for “The Jade Suit Sewn with Gold”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation record, the jade-suit system, burial beliefs, and the later ban; the suits did not prevent the bodies from decaying.

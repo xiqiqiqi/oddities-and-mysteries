@@ -62,15 +62,12 @@ The case leaves a clear set of layers: the dimming is real and the data is publi
 
 A single star's light has kept this many people looking up for this long. That is rare in itself.
 
-## Sources and evidence
-
-For “The Star That Kept Dimming”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Tabby's Star” and S2 is “arXiv · Planet Hunters X. KIC 8462852”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Star That Kept Dimming”, the checkable coordinates are Cygnus, about 1,470 light-years away, anomalous light curve published in 2015 (data from 2009–2013), and the source-ledger entries S1 “Wikipedia · Tabby's Star” and S2 “arXiv · Planet Hunters X. KIC 8462852”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Star That Kept Dimming” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Star That Kept Dimming” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Dust clouds can move around stars and have irregular shapes, causing irregular brightness changes when blocking starlight. The particle size, distribution and motion of the dust can explain why some bands are much darker and some are much darker.
@@ -79,4 +76,4 @@ But where does the dust come from? It could be the disintegration of a comet, it
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the observations, the popular story, and the later research; the “alien megastructure” was a historical candidate hypothesis.
+**Sources and licenses**: for “The Star That Kept Dimming”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the observations, the popular story, and the later research; the “alien megastructure” was a historical candidate hypothesis.

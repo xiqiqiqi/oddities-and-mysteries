@@ -82,4 +82,4 @@ The pilot who said he was getting a big kick out of it probably never imagined t
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S5 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the witnesses' descriptions, the power-plant guards' account and the police and FAA investigation; the case has a clear aircraft explanation, though some witnesses rejected it. The airport and aircraft photographs are site photographs; the schematic is not.
+**Sources and licenses**: for “The V in the Sky”, sources are listed in the ledger S1–S5 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the witnesses' descriptions, the power-plant guards' account and the police and FAA investigation; the case has a clear aircraft explanation, though some witnesses rejected it. The airport and aircraft photographs are site photographs; the schematic is not.

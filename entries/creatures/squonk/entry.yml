@@ -30,13 +30,17 @@ sources:
     url: https://www.outdoorhub.com/stories/2026/02/13/squonk-legend-pennsylvania/
     year: "2026"
     license: 版权归 OutdoorHub；仅作事实参考
+    license_en: "© OutdoorHub; citation only"
     usage: 1910 年考克斯《伐木林里的可怕生物》与伐木营背景
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面森林怪物场景复原、传说要素与传播时间线；不是现场照片
 cover: ../../../assets/covers/squonk.jpg
 related:

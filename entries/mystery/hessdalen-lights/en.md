@@ -76,15 +76,12 @@ What are they? There is no settled answer.
 
 What is clear is this: they are not proven alien spacecraft, and they are not pure invention. They are a set of lights that have been repeatedly recorded, observed, and discussed, and still have not been fully explained.
 
-## Sources and evidence
-
-For “The Lights in the Valley”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Hessdalen lights” and S2 is “Hessdalen Project”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Lights in the Valley”, the checkable coordinates are Hessdalen, Norway, 1981–1984 (reported since the 1930s), and the source-ledger entries S1 “Wikipedia · Hessdalen lights” and S2 “Hessdalen Project”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Lights in the Valley” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Lights in the Valley” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Different light sources have different spectra: sodium lamps are yellow, mercury lamps are blue-green, flames have a continuous spectrum, and plasmas have specific emission lines. Researchers compared Hessdalen's spectra with known light sources and found that some were close to combustion and some were close to discharge.
@@ -93,4 +90,4 @@ But no one spectrum can account for all lights. Some lights are too dim and the 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The cause of the Hessdalen lights remains disputed; this article separates recorded observations and research projects from interpretive hypotheses.
+**Sources and licenses**: for “The Lights in the Valley”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The cause of the Hessdalen lights remains disputed; this article separates recorded observations and research projects from interpretive hypotheses.

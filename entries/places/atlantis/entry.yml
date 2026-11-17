@@ -26,31 +26,40 @@ sources:
     usage: 《蒂迈欧篇》与《克里提亚斯篇》、公元前 360 年、梭伦公元前 590–580 年访埃及、九千年、比利亚与亚洲更大、环形城与波塞冬神庙、对雅典的战争、一夜沉没、影射波斯帝国、叙拉古灵感、亚里士多德认为虚构、克兰托尔与普罗克洛斯、多内利 1882、布拉瓦茨基、凯西、圣托里尼/阿克罗蒂里 1967、赫利克 373 BC、西西里远征 415–413 BC、数十个候选地点、板块构造、赫拉克利翁与卡诺普斯、无遗址/铭文
   - id: S2
     title: "Athanasius Kircher · Atlantis map（基歇尔地图）"
+    title_en: "Athanasius Kircher · Atlantis map (Kircher map)"
     publisher: Athanasius Kircher / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Atlantis_Kircher_Mundus_subterraneus_1678.jpg
     year: "1678"
     license: 公有领域
+    license_en: "Public domain"
     usage: 基歇尔《地下世界》中的亚特兰蒂斯地图
   - id: S3
     title: "Ignatius Donnelly · Atlantis map（多内利地图）"
+    title_en: "Ignatius Donnelly · Atlantis map (Donnelly map)"
     publisher: Ignatius Donnelly / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Atlantis_map_1882_crop.jpg
     year: "1882"
     license: 公有领域
+    license_en: "Public domain"
     usage: 《亚特兰蒂斯：大洪水前的世界》中的帝国地图
   - id: S4
     title: "Santorini caldera from the ISS（圣托里尼卫星照片）"
+    title_en: "Santorini caldera from the ISS (Santorini satellite photograph)"
     publisher: NASA / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:ISS067-E-153820_Santorini_caldera.jpg
     year: "2022"
     license: 公有领域
+    license_en: "Public domain"
     usage: 圣托里尼火山口卫星照片
   - id: S5
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面沉没城市场景复原、环形城示意与时间线；不是考古照片
   - id: S6
     title: "Timaeus (25)"

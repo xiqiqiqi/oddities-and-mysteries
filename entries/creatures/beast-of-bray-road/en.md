@@ -46,15 +46,12 @@ Today there is no photograph and no specimen, only testimony and press coverage.
 
 The story has no definitive conclusion. It is a legend that grew out of one place, in a particular decade.
 
-## Sources and evidence
-
-For “The Werewolf by the Road”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Beast of Bray Road” and S2 is “Linda S. Godfrey · The Beast of Bray Road: Tailing Wisconsin's Werewolf”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Werewolf by the Road”, the checkable coordinates are Elkhorn, Wisconsin, United States, 1936; 1989–1992, and the source-ledger entries S1 “Wikipedia · Beast of Bray Road” and S2 “Linda S. Godfrey · The Beast of Bray Road: Tailing Wisconsin's Werewolf”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“The Werewolf by the Road” comes mainly from legend, oral tradition, or urban narrative in Elkhorn, Wisconsin, United States; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Werewolf by the Road” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The wolf elements include head shape, muzzle, ears, and coat; the human traits are upright posture, height, and shoulder breadth. Combined, they mirror the European werewolf archetype. Wisconsin’s sizable German‑Polish descendant community is no stranger to werewolf lore. A late‑century sighting slipped neatly into that older narrative.
@@ -72,4 +69,4 @@ Today Braley Road remains a drivable lane, unlined by fencing or a “beast pres
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the early record, the 1990s sightings, the reporter’s investigation, and the possible explanations; there is no photograph and no specimen, only testimony and press coverage.
+**Sources and licenses**: for “The Werewolf by the Road”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the early record, the 1990s sightings, the reporter’s investigation, and the possible explanations; there is no photograph and no specimen, only testimony and press coverage.

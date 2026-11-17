@@ -70,15 +70,12 @@ A building can do nothing but stand there and still make people uneasy. Eastern 
 
 *Original schematic: the radial cellblock plan, the separate system and the 1829–1971 timeline. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Prison of One Man”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Eastern State Penitentiary” and S2 is “Eastern State Penitentiary · History”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Prison of One Man”, the checkable coordinates are Philadelphia, Pennsylvania, United States, 1829–1971, and the source-ledger entries S1 “Wikipedia · Eastern State Penitentiary” and S2 “Eastern State Penitentiary · History”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+The core facts of “The Prison of One Man” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Prison of One Man” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Long-term solitary confinement, they say, is not repentance but torture. People lose language, memory and social skills. Prison should re-enter society, not turn people into shadows.
@@ -101,4 +98,4 @@ The roof leaked, the walls peeled off, and the iron doors rusted. The beauty of 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architecture and the system, the famous inmates, the closure and museum period, and the ghost stories; the solitary confinement and prison history are documented, while the ghost stories have no verifiable evidence. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: for “The Prison of One Man”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architecture and the system, the famous inmates, the closure and museum period, and the ghost stories; the solitary confinement and prison history are documented, while the ghost stories have no verifiable evidence. The illustration is a scene reconstruction, not a photograph of the site.

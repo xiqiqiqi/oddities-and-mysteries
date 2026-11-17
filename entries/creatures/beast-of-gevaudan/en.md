@@ -66,15 +66,14 @@ It appears in prints, novels, films, and folk tales, described as a werewolf, a 
 
 Today, a museum in Gévaudan still displays its image. It looks like an oversized wolf, staring out of the frame.
 
-## Sources and evidence
-
 The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Beast of Gévaudan” and S2 is “Wikipedia · Jean Chastel”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-For “The Wolf That Killed Dozens”, the checkable coordinates are Gévaudan, Lozère, France, 1764–1767, and the source-ledger entries S1 “Wikipedia · Beast of Gévaudan” and S2 “Wikipedia · Jean Chastel”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+The core facts of “The Wolf That Killed Dozens” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Wolf That Killed Dozens” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Parish registers, administrative reports, and later historical studies range from about sixty to over a hundred fatalities. Injuries were more numerous, but many were unrecorded. Rural eighteenth‑century villages lacked modern forensic methods; when a body surfaced it was often already gnawed by scavengers, leaving only circumstantial evidence.
@@ -83,4 +82,4 @@ All these documents share one focus: “humans attacked by a beast,” not “wh
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the attacks, the hunts, the official record and the competing explanations; the identity of the beast is still disputed. The illustrations are scene reconstructions, not historical photographs.
+**Sources and licenses**: for “The Wolf That Killed Dozens”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the attacks, the hunts, the official record and the competing explanations; the identity of the beast is still disputed. The illustrations are scene reconstructions, not historical photographs.

@@ -70,15 +70,12 @@ Was the girl real? There is no record, no name, no body report. No second person
 
 A man lived alone on a small island for fifty years, collected hundreds of dolls, and died in the same water. That is enough by itself. The ghost story grew afterwards.
 
-## Sources and evidence
-
-For “The Dolls in the Trees”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Island of the Dolls” and S2 is “Atlas Obscura · Island of the Dolls”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Dolls in the Trees”, the checkable coordinates are Xochimilco, Mexico City, Mexico, Since the 1950s, and the source-ledger entries S1 “Wikipedia · Island of the Dolls” and S2 “Atlas Obscura · Island of the Dolls”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+“The Dolls in the Trees” comes mainly from legend, oral tradition, or urban narrative in Xochimilco, Mexico City, Mexico; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Dolls in the Trees” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 A man lives on an island and fills trees with dolls. He had no idea the dolls would be turned into attractions or that they would be made into horror films.
@@ -110,4 +107,4 @@ Why he died, no one knows. Some say commemoration, some say exorcism, some say j
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the canals and the island, Santana's life, the story of the girl, the dolls, and his death; there is no verifiable record of the girl's identity or drowning, and Santana's death is recorded as drowning. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: for “The Dolls in the Trees”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the canals and the island, Santana's life, the story of the girl, the dolls, and his death; there is no verifiable record of the girl's identity or drowning, and Santana's death is recorded as drowning. The illustration is a scene reconstruction, not a photograph of the site.

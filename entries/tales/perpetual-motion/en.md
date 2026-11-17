@@ -74,15 +74,12 @@ The wheel stops. Physics does not.
 
 *Original schematic: the overbalanced wheel, the Bessler and Redheffer cases, and a thermodynamics timeline. Not a historical drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Wheel That Would Not Stop”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Perpetual motion” and S2 is “Britannica · Perpetual motion”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Wheel That Would Not Stop”, the checkable coordinates are Europe and the United States, 13th–19th century, and the source-ledger entries S1 “Wikipedia · Perpetual motion” and S2 “Britannica · Perpetual motion”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+“The Wheel That Would Not Stop” is strongly evidenced as a fabrication; the entry traces how it was made and spread in 13th–19th century, and why it still finds believers.
 
-The entry is currently labelled “hoax”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Wheel That Would Not Stop” is currently labelled “hoax”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The wheel of Bashikara relies on counterweight and swing. It looks like it's always moving, but it actually stops.
@@ -103,4 +100,4 @@ The dream of perpetual motion is still there.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the historical designs, the Bessler and Redheffer cases and the thermodynamic explanation; perpetual motion violates conservation of energy or the second law, and no machine has passed an independent test. The illustration is a scene reconstruction, not a historical drawing.
+**Sources and licenses**: for “The Wheel That Would Not Stop”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the historical designs, the Bessler and Redheffer cases and the thermodynamic explanation; perpetual motion violates conservation of energy or the second law, and no machine has passed an independent test. The illustration is a scene reconstruction, not a historical drawing.

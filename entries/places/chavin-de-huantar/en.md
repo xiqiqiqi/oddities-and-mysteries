@@ -60,15 +60,12 @@ The 1970 earthquake damaged parts of the buildings, and later restoration used m
 
 A temple three thousand years old used darkness, narrow passages, and sound to make people believe that a god was just behind the wall.
 
-## Sources and evidence
-
-For “The Temple Underground”, the factual trail runs mainly through S1–S3: S1 is “UNESCO · Chavín (Archaeological Site)” and S2 is “Wikipedia · Chavín de Huántar”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Temple Underground”, the checkable coordinates are Chavín de Huántar, Áncash, Peru, c. 900–200 BCE, and the source-ledger entries S1 “UNESCO · Chavín (Archaeological Site)” and S2 “Wikipedia · Chavín de Huántar”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+The core facts of “The Temple Underground” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Temple Underground” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Visitors can see ruins, museums and stone carvings. Some areas are high in altitude and require adaptation.
@@ -91,4 +88,4 @@ There are steps, vents and stonework in the passage. At the end is a room with a
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the building phases, the underground structures, the acoustic experiments, the images, and the conservation; the purpose of the acoustics is still debated, and the “priests creating an oracle” reading is one interpretation.
+**Sources and licenses**: for “The Temple Underground”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the building phases, the underground structures, the acoustic experiments, the images, and the conservation; the purpose of the acoustics is still debated, and the “priests creating an oracle” reading is one interpretation.

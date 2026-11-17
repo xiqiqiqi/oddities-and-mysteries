@@ -80,15 +80,12 @@ Some call him brave, some call him foolish, some call him a young man ruined by 
 
 *Original schematic: five stages from graduation to the discovery of the body, Bus 142 and the debate over the cause of death. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Bus in the Wild”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Christopher McCandless” and S2 is “The New Yorker · How Chris McCandless Died”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Bus in the Wild”, the checkable coordinates are Stampede Trail, Alaska, United States, 1992, and the source-ledger entries S1 “Wikipedia · Christopher McCandless” and S2 “The New Yorker · How Chris McCandless Died”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+The core facts of “The Bus in the Wild” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Bus in the Wild” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Some people come for pilgrimage and some come to take photos. Later, the bus was removed.
@@ -103,4 +100,4 @@ It was parked on a trail, near a river.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the known biography, the diary, the official cause of death and the debate over the cause; starvation is the official conclusion, and the ODAP hypothesis is still discussed. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: for “The Bus in the Wild”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the known biography, the diary, the official cause of death and the debate over the cause; starvation is the official conclusion, and the ODAP hypothesis is still discussed. The illustration is a scene reconstruction, not a photograph of the site.

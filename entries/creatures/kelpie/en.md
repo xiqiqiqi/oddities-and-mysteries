@@ -66,15 +66,12 @@ In 2014, two huge horse-head sculptures called The Kelpies were built at Falkirk
 
 A story meant to warn children ended up as a tourist landmark. The horse is still there; it just no longer drags anyone into the water.
 
-## Sources and evidence
-
-For “The Horse in the Water”, the factual trail runs mainly through S1–S3: S1 is “Dictionaries of the Scots Language · Kelpie” and S2 is “Wikipedia · Kelpie”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Horse in the Water”, the checkable coordinates are Scotland, United Kingdom, Folklore, and the source-ledger entries S1 “Dictionaries of the Scots Language · Kelpie” and S2 “Wikipedia · Kelpie”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“The Horse in the Water” comes mainly from legend, oral tradition, or urban narrative in Scotland, United Kingdom; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Horse in the Water” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The tales also remind us that folklore is not always one‑sided. It offers no protection, only a warning. If you heed the lesson, you survive; if you ignore it, the waters claim you. The rule is straightforward and brutally honest.
@@ -87,4 +84,4 @@ Poets have also rendered the legend in verse, likening the water‑side horse to
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the legendary forms, the story types, the counters, and the warning function; the kelpie is folklore, with no physical evidence, and The Kelpies at Falkirk is a modern public artwork completed in 2014.
+**Sources and licenses**: for “The Horse in the Water”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the legendary forms, the story types, the counters, and the warning function; the kelpie is folklore, with no physical evidence, and The Kelpies at Falkirk is a modern public artwork completed in 2014.

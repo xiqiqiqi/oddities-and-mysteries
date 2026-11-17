@@ -26,6 +26,7 @@ sources:
     usage: 1902 发现与隐瞒、马格里发掘与遗物丢弃、报告遗失、扎米特抢救、1908 开放与 1912 玛丽王后、三层与工具、约 7000 遗骸、红赭石螺旋、至圣所冬至朝向、1990–93 发掘与关闭、每日 80 人、2014 声学、2017 重开、1980 世界遗产、村名含义
   - id: S2
     title: "Hypogeum enter（入口墙）"
+    title_en: "Hypogeum enter (entrance wall)"
     publisher: Andrey BG / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Hypogeum_enter.JPG
     year: "2011"
@@ -33,7 +34,9 @@ sources:
     usage: 现场照片：地面入口墙与街景
   - id: S3
     title: "Hal hypogeum（剖切模型）"
+    title_en: "Hal hypogeum (cutaway model)"
     publisher: 原上传 320rwekfpl / Wikimedia Commons
+    publisher_en: "Original uploader 320rwekfpl / Wikimedia Commons"
     url: https://commons.wikimedia.org/wiki/File:Hal_hypogeum.jpg
     year: "2006"
     license: Public domain
@@ -43,14 +46,18 @@ sources:
     publisher: Richard Ellis / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Richard_Ellis,_Hal_Saflieni_Hypogeum_(large_room_with_painted_ceiling).jpg
     year: "约 1900"
+    year_en: "c. 1900"
     license: Public domain
     usage: 历史照片：彩绘天花板大室，印页含题字与签名
   - id: S5
     title: 原创剖面示意图
+    title_en: "Original cross-section diagram"
     publisher: 稀奇奇编辑部
+    publisher_en: "XIQIQI Editorial"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 三层结构与冬至光路示意
   - id: S6
     title: "State of the Heritage Report 2005: The Hal-Saflieni Hypogeum"
@@ -58,6 +65,7 @@ sources:
     url: https://schmalta.mt/wp-content/uploads/2022/09/SoH-2005.pdf
     year: "2005"
     license: "政府文化遗产报告；引用与事实核对"
+    license_en: "Citation and factual cross-check"
     usage: 哈尔萨夫利尼地下墓室的世遗列入与保护状况
 cover: ../../../assets/covers/hypogeum.jpg
 related:

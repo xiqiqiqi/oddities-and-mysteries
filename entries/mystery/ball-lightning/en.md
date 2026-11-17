@@ -72,20 +72,16 @@ A glowing sphere moving in the night sky, hovering, and vanishing suddenly does 
 
 Not every unexplained light is ball lightning, of course. The atmosphere contains many phenomena we do not fully understand. Ball lightning is simply the oldest, most specific, and most elusive of them.
 
-## Sources and evidence
-
-For “The Small Sun in the Storm”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Ball lightning” and S2 is “Encyclopaedia Britannica · Ball lightning”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The ball-lightning record spans meteorology, plasma physics, and witness tradition. Laboratory experiments have produced short-lived plasma balls, and field reports contain many close sightings, but no complete chain links the two: there is no field ball lightning recorded simultaneously by instruments, and no model reproduces every reported feature. This entry separates 'a similar phenomenon can be made in the lab' from 'that ball in the sky was it'.
 
 ## Limits of the record
 
-For “The Small Sun in the Storm”, the checkable coordinates are Worldwide, 1838 (first scientific survey; older sightings exist), and the source-ledger entries S1 “Wikipedia · Ball lightning” and S2 “Encyclopaedia Britannica · Ball lightning”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Small Sun in the Storm” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Small Sun in the Storm” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: for “The Small Sun in the Storm”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.

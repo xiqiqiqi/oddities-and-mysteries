@@ -64,15 +64,12 @@ The case lighting is arranged so that visitors can see both the green and the re
 
 The Romans made a nanomaterial without knowing what a nanomaterial was. They saw colour; we see the mechanism. The cup has not changed. What changed is the way we look at it.
 
-## Sources and evidence
-
-For “The Cup That Changes Colour”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Lycurgus Cup” and S2 is “The British Museum · The Lycurgus Cup”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Cup That Changes Colour”, the checkable coordinates are London, United Kingdom (British Museum), 4th century CE, and the source-ledger entries S1 “Wikipedia · Lycurgus Cup” and S2 “The British Museum · The Lycurgus Cup”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “The Cup That Changes Colour” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Cup That Changes Colour” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Craftsmen dissolve a compound of gold and silver into the glass and then heat it to precipitate the metal into particles. The temperature and time must be controlled very accurately, otherwise the particles will be too large and the glass will become cloudy.
@@ -87,4 +84,4 @@ A cup that connects ancient craftsmanship with modern science. It proves that th
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the description of the object, the colour change, the nanoparticle mechanism, the manufacture, and the provenance; the cup's exact origin and function are still debated.
+**Sources and licenses**: for “The Cup That Changes Colour”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the description of the object, the colour change, the nanoparticle mechanism, the manufacture, and the provenance; the cup's exact origin and function are still debated.

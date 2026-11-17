@@ -68,19 +68,16 @@ Sarah left no explanation. She spent her money on a house, and she spent thirty-
 
 *Original schematic: the phases of construction, the 1906 earthquake and the opening in 1923. Not an architectural survey. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The House Without an End”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Winchester Mystery House” and S2 is “Winchester Mystery House · History”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Winchester Mystery House archive is mostly the house itself, building permits, and the family's own promotional material; the 'continuous construction' story is part of the interpretation, not an independent record.
 
 ## Limits of the record
 
-For “The House Without an End”, the checkable coordinates are San Jose, California, United States, 1886–1922, and the source-ledger entries S1 “Wikipedia · Winchester Mystery House” and S2 “Winchester Mystery House · History”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+“The House Without an End” comes mainly from legend, oral tradition, or urban narrative in San Jose, California, United States; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The House Without an End” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 They knew her habits and they knew her money. The houses got bigger and bigger, and more and more workers were hired.
@@ -96,4 +93,4 @@ In 1884, she bought a farmhouse outside San Jose and began expanding it. She cal
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the size of the house, Sarah's life, the medium legend and the changes after the earthquake; the room and door counts come from tour statistics, and the medium and curse stories lack contemporary documentary support. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: for “The House Without an End”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the size of the house, Sarah's life, the medium legend and the changes after the earthquake; the room and door counts come from tour statistics, and the medium and curse stories lack contemporary documentary support. The illustration is a scene reconstruction, not a photograph of the site.

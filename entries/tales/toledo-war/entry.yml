@@ -33,10 +33,13 @@ sources:
     usage: 争议地带的范围、面积与上半岛补偿
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面场景复原与边界示意；不是历史照片
   - id: S4
     title: "The Toledo War"
@@ -44,6 +47,7 @@ sources:
     url: https://project.geo.msu.edu/geogmich/toledo_war.html
     year: "2026"
     license: "大学教学资料；引用与事实核对"
+    license_en: "Citation and factual cross-check"
     usage: 托莱多战争的边界争议与 1836 年妥协
 cover: ../../../assets/covers/toledo-war.jpg
 related:

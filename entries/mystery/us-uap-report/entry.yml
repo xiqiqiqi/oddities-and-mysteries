@@ -24,6 +24,7 @@ sources:
     url: https://www.govinfo.gov/content/pkg/GOVPUB-PREX28-PURL-gpo156940/pdf/GOVPUB-PREX28-PURL-gpo156940.pdf
     year: "2021"
     license: 美国政府公开文件；仅作事实参考
+    license_en: "Office of the Director of National Intelligence; citation only"
     usage: 2021 年 6 月 25 日、九页、参议院报告 116-233 与 180 天期限、2004 年 11 月至 2021 年 3 月、144 起、80 起多传感器、18 起/21 份异常机动、一起漏气气球、五种解释类别、无外星或外国突破技术证据、飞行安全
   - id: S2
     title: "AARO · All-domain Anomaly Resolution Office"
@@ -31,34 +32,44 @@ sources:
     url: https://www.aaro.mil/
     year: "2026"
     license: 美国政府公开资料；仅作事实参考
+    license_en: "U.S. Department of Defense; citation only"
     usage: 2022 年成立、2022 年 510 起/171 起未归类、2023 年 801 起/291 起新增、2024 年 757 起新增/1,652 起累计/21 起待分析、无地外技术证据
   - id: S3
     title: "Preliminary Assessment UAP cover（报告封面）"
+    title_en: "Preliminary Assessment UAP cover (report cover)"
     publisher: Office of the Director of National Intelligence / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Preliminary-Assessment-Unidentified-Aerial-Phenomena-cover.jpg
     year: "2021"
     license: 公有领域
+    license_en: "Public domain"
     usage: 2021 年报告官方封面
   - id: S4
     title: "Reported-UAP Hotspots（AARO 热点图）"
+    title_en: "Reported-UAP Hotspots (AARO hotspot map)"
     publisher: U.S. Air Force All-domain Anomaly Resolution Office / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Reported-UAP_Hotspots_according_to_AARO_UAP_Reporting_Trends_May_2023_Slide_presented_to_the_public_and_the_NASA_UAP_study_team.png
     year: "2023"
     license: 公有领域
+    license_en: "Public domain"
     usage: AARO 向 NASA 独立研究团队展示的 UAP 报告热点图
   - id: S5
     title: "AARO logo（机构标志）"
+    title_en: "AARO logo (agency logo)"
     publisher: U.S. Department of Defense / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:All-domain_Anomaly_Resolution_Office_Logo.webp
     year: "2023"
     license: 公有领域
+    license_en: "Public domain"
     usage: 全域异常解决办公室官方标志
   - id: S6
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面简报室场景复原、144 起报告与后续统计示意；不是现场照片
 cover: ../../../assets/covers/us-uap-report.jpg
 related:

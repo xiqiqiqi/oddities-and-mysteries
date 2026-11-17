@@ -74,15 +74,12 @@ The case was never officially closed.
 
 Mary Rogers's name survived in a story by Poe. The cause of her death survived in the newspapers of 1841. Both outlived her.
 
-## Sources and evidence
-
-For “The Girl in the Cigar Shop”, the factual trail runs mainly through S1–S3: S1 is “Smithsonian Magazine · Edgar Allan Poe Tried and Failed to Crack the Mysterious Murder Case of Mary Rogers” and S2 is “Wikipedia · Mary Rogers”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Girl in the Cigar Shop”, the checkable coordinates are Hoboken, New Jersey, United States, 1841, and the source-ledger entries S1 “Smithsonian Magazine · Edgar Allan Poe Tried and Failed to Crack the Mysterious Murder Case of Mary Rogers” and S2 “Wikipedia · Mary Rogers”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+The core facts of “The Girl in the Cigar Shop” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Girl in the Cigar Shop” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The case was not solved. The newspaper's sales increased because of this story.
@@ -111,4 +108,4 @@ Mary's name remains in the book. The case is not closed, but the book is still b
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the disappearance, the discovery of the body, the press coverage, Payne's death, and Loss's deathbed account; no one was ever convicted, Loss's account does not match the autopsy in every detail, and the death of Mary Rogers has no legal conclusion. The illustration is a scene reconstruction, not a historical photograph.
+**Sources and licenses**: for “The Girl in the Cigar Shop”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the disappearance, the discovery of the body, the press coverage, Payne's death, and Loss's deathbed account; no one was ever convicted, Loss's account does not match the autopsy in every detail, and the death of Mary Rogers has no legal conclusion. The illustration is a scene reconstruction, not a historical photograph.

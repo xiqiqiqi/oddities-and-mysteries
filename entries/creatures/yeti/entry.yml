@@ -30,13 +30,17 @@ sources:
     url: https://royalsocietypublishing.org/doi/10.1098/rspb.2017.1804
     year: "2017"
     license: 版权所有；仅作事实参考
+    license_en: "© The Royal Society; citation only"
     usage: 2017 年雪人样本 DNA 鉴定与熊类结论
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面雪线场景与证据、DNA 对照示意；不是目击照片
 cover: ../../../assets/covers/yeti.jpg
 related:

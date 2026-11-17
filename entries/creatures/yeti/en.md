@@ -62,15 +62,12 @@ The yeti still appears in books, films, and tourism advertising. Himalayan villa
 
 The 2017 DNA results did not make the story disappear. They moved it from “unknown primate” back to “bears we know”. In the mountains, a brown bear standing upright, seen at a hundred metres, can indeed look like a tall dark figure.
 
-## Sources and evidence
-
-For “Footprints Above the Snowline”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Yeti” and S2 is “Proceedings B · Evolutionary history of enigmatic bears in the Tibetan Plateau–Himalaya region and the identity of the yeti”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “Footprints Above the Snowline”, the checkable coordinates are Nepal, Tibet, and the Himalayas, Folklore, and the source-ledger entries S1 “Wikipedia · Yeti” and S2 “Proceedings B · Evolutionary history of enigmatic bears in the Tibetan Plateau–Himalaya region and the identity of the yeti”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“Footprints Above the Snowline” comes mainly from legend, oral tradition, or urban narrative in Nepal, Tibet, and the Himalayas; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“Footprints Above the Snowline” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Some temples preserve so-called "snowman scalps", "snowman hand bones" and hair. Pilgrims and climbers would show them to visitors, saying they were passed down from their ancestors.
@@ -98,4 +95,4 @@ The research was inconclusive. The footprints are still there.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the local tradition, the expedition record, the footprint evidence, and the DNA findings; there is no yeti specimen, and the 2017 results support the explanation that the samples came from bears.
+**Sources and licenses**: for “Footprints Above the Snowline”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the local tradition, the expedition record, the footprint evidence, and the DNA findings; there is no yeti specimen, and the 2017 results support the explanation that the samples came from bears.

@@ -60,4 +60,4 @@ The case also changed how poisoning is investigated. The trail of polonium was i
 The case remains a warning about the limits of state secrecy, and about how far a state will go to hide them.
 ---
 
-**Sources and licenses**: factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The portrait, hotel frontage and grave photographs are credited Wikimedia Commons works, licenses in the ledger. The inquiry's wording is "probably," and this article keeps that qualifier; both suspects deny involvement and Russia refuses extradition, presented here in parallel.
+**Sources and licenses**: for “Litvinenko: Polonium in a Teapot”, factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The portrait, hotel frontage and grave photographs are credited Wikimedia Commons works, licenses in the ledger. The inquiry's wording is "probably," and this article keeps that qualifier; both suspects deny involvement and Russia refuses extradition, presented here in parallel.

@@ -30,6 +30,7 @@ sources:
     url: https://www.theatlantic.com/magazine/archive/2016/07/the-unbelievable-tale-of-jesus-wife/485573/
     year: "2016"
     license: 版权归 The Atlantic；仅作事实参考
+    license_en: "© The Atlantic; citation only"
     usage: 物主沃尔特·弗里茨、来源调查与卡伦·金的回应
   - id: S3
     title: "Smithsonian Magazine · The Inside Story of a Controversial New Text About Jesus"
@@ -37,13 +38,17 @@ sources:
     url: https://www.smithsonianmag.com/history/the-inside-story-of-a-controversial-new-text-about-jesus-41078791/
     year: "2012"
     license: 版权归 Smithsonian Magazine；仅作事实参考
+    license_en: "© Smithsonian Magazine; citation only"
     usage: 2012 年发表经过、文本内容与学术争议
   - id: S4
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面纸莎草残片场景复原、文本对照与真伪时间线；不是文物照片
 cover: ../../../assets/covers/gospel-of-jesus-wife.jpg
 related:

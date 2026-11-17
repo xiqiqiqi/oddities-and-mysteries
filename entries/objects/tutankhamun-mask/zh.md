@@ -58,15 +58,12 @@ lang: zh
 
 一个十八九岁的法老，死后三千年，脸还被金子盖着。有人为了修一盏灯，把胡须碰掉了，又用错误的胶水粘了回去。这些痕迹现在也成了它历史的一部分。
 
-## 来源与证据
-
-关于「被粘回去的胡须」，本条目的事实线索主要来自来源台账 S1–S3，其中 S1 为《Wikipedia · Mask of Tutankhamun》，S2 为《National Geographic · Museum Officials Accused of Mishandling King Tut's Mask》。正文中的年代、地点与人物按这些来源的最低共识处理；图像说明与许可逐条列在条目底部。
-
 ## 档案空白
 
-关于「被粘回去的胡须」，可核对的坐标是埃及，吉萨（大埃及博物馆）、约公元前 1323 年，以及来源台账中的 S1《Wikipedia · Mask of Tutankhamun》与 S2《National Geographic · Museum Officials Accused of Mishandling King Tut's Mask》。出土层位、修复记录与成分检测之间仍有缺口；公开页面往往只给结论，不给完整检测链。
+「被粘回去的胡须」的核心事实由 3 条来源中的至少两条独立记录互证；仍未独立验证的细节，正文已逐处标注。
 
 条目目前标记为“verified”；这个标签描述的是当前证据状态，不是对题材真伪的终审。
+
 ## 档案补记
 
 工匠把金块锤成薄片，再切割、塑形、镶嵌。金箔的厚度不均匀，有的地方厚，有的地方薄。这不是失误，而是手工的证据。

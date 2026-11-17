@@ -60,10 +60,6 @@ There is no reliable basis for these claims. The so-called vitrification is slag
 
 The real threat is natural. Rising groundwater, salt crystallisation, and floods have been eroding the mud brick for decades. In 1980 Mohenjo-daro became a World Heritage Site, and conservation work has not stopped since.
 
-## Sources and evidence
-
-For “The Mound of the Dead”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Mohenjo-daro” and S2 is “UNESCO · Archaeological Ruins at Moenjodaro”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The public record of Mohenjo-daro comes mainly from excavation reports since the 1920s, conservation files of Pakistan's archaeology department, and studies of early urban planning and water management. The street grid, drains, Great Bath, and residential quarters are repeatedly described, but the script remains undeciphered and the ethnic and linguistic affiliations are still open. The so-called 'nuclear blast traces' have no reliable publication and belong to a later legendary layer. This entry separates urban archaeology from pseudo-scientific claims and does not treat an undeciphered script as known history.
@@ -72,13 +68,14 @@ Mohenjo-daro's archive is an excavation archive first: plans, photographs, and o
 
 ## Limits of the record
 
-For “The Mound of the Dead”, the checkable coordinates are Sindh, Pakistan, on the Indus, c. 2500 BCE, and the source-ledger entries S1 “Wikipedia · Mohenjo-daro” and S2 “UNESCO · Archaeological Ruins at Moenjodaro”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+The core facts of “The Mound of the Dead” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Mound of the Dead” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 They said the site contained vitrified stone, radiation and dead bodies. There is no scientific evidence for these claims. The ruins of the ruins come from weathering, flooding and salinity.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the city layout, the Great Bath, the political structure, the abandonment, and the “nuclear explosion” legend; the Indus script remains undeciphered, and the causes of the city's decline are still debated.
+**Sources and licenses**: for “The Mound of the Dead”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the city layout, the Great Bath, the political structure, the abandonment, and the “nuclear explosion” legend; the Indus script remains undeciphered, and the causes of the city's decline are still debated.

@@ -72,19 +72,16 @@ The same hydrophone array also recorded “Slow Down” and “Whistle.” All t
 
 They are like three brothers: one low, one slowly descending, one whistle-like. Heard together, they really do sound like something communicating in the deep. The spectrograms tell a plainer story: ice is moving, and the ocean is loud.
 
-## Sources and evidence
-
-For “The Bloop from the Deep”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Bloop” and S2 is “NOAA PMEL Acoustics · underwater sound monitoring”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Bloop record comes from the 1997 Pacific hydrophone array, NOAA's public statements, and later spectral analyses. The signal was short, low-frequency, and heard on more than one array; researchers later compared it to iceberg calving and ice seismicity. The original waveform, array coordinates, and processing parameters were not all released, limiting independent recomputation. This entry separates 'a sound was recorded' from 'we know what made it'.
 
 ## Limits of the record
 
-For “The Bloop from the Deep”, the checkable coordinates are South Pacific Ocean, recorded in 1997; later identified as an icequake, and the source-ledger entries S1 “Wikipedia · Bloop” and S2 “NOAA PMEL Acoustics · underwater sound monitoring”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Bloop from the Deep” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Bloop from the Deep” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Large whales emit low-frequency calls, some of which can be heard hundreds of kilometers away. Whale songs have complex structures, but at a distance, processed by hydrophones, all that may remain is a low pulse.
@@ -93,4 +90,4 @@ The difference between a Bloop and a whale song is the repetition. While whale s
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The icequake explanation for Bloop is supported by research; this article separates the recording, the popular story, and the later identification.
+**Sources and licenses**: for “The Bloop from the Deep”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The icequake explanation for Bloop is supported by research; this article separates the recording, the popular story, and the later identification.

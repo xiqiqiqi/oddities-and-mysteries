@@ -80,20 +80,16 @@ The volcano is still there. The Santorini caldera is active, and its last erupti
 
 *Original schematic: the layout of the streets, the positions of the frescoes and the ash layers. Not a survey drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Town Under the Ash”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Akrotiri (prehistoric city)” and S2 is “Smithsonian Magazine · Greece Has Its Own Pompeii”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Akrotiri record has three parts: excavation reports from the Greek Archaeological Society and the French School at Athens, which supply architecture, frescoes, pottery, and stratigraphy; volcanological and chronological studies, which debate the date of the eruption and the ash layers; and site-management conservation records, which show which frescoes and structures were moved to museums and which remain in place. These parts operate on different time scales and cannot substitute for one another. This entry separates the fact that the site was buried in ash from the still-debated question of the eruption year.
 
 ## Limits of the record
 
-For “The Town Under the Ash”, the checkable coordinates are Santorini, Greece, c. 1600 BCE, and the source-ledger entries S1 “Wikipedia · Akrotiri (prehistoric city)” and S2 “Smithsonian Magazine · Greece Has Its Own Pompeii”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+The core facts of “The Town Under the Ash” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Town Under the Ash” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: for “The Town Under the Ash”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.

@@ -74,15 +74,12 @@ Guests sleep on board, lie in bed and hear the ship making sounds. Some say it i
 
 *Original schematic: the maiden voyage in 1936, the 1942 collision, the move to Long Beach in 1967 and the ghost stories. Not a photograph of the ship. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Hotel at Sea”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · RMS Queen Mary” and S2 is “Queen Mary · History and Fun Facts”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Hotel at Sea”, the checkable coordinates are Long Beach, California, United States, 1936–1967, and the source-ledger entries S1 “Wikipedia · RMS Queen Mary” and S2 “Queen Mary · History and Fun Facts”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+“The Hotel at Sea” comes mainly from legend, oral tradition, or urban narrative in Long Beach, California, United States; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Hotel at Sea” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The metal of the old ship will expand and contract due to heat and cold, making noises; water in the pipes will flow, causing the sound of footsteps; lights and ventilation equipment will suddenly activate. Visitors in dark corridors can easily interpret ordinary sounds as ghosts.
@@ -106,4 +103,4 @@ These stories were told to tourists by tour guides and filmed as "paranormal inv
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ship's history, the Curacoa collision, John Pedder's death and the ghost stories; there is no verifiable evidence for the hauntings. The illustration is a scene reconstruction, not a photograph of the ship.
+**Sources and licenses**: for “The Hotel at Sea”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ship's history, the Curacoa collision, John Pedder's death and the ghost stories; there is no verifiable evidence for the hauntings. The illustration is a scene reconstruction, not a photograph of the ship.

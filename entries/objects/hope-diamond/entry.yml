@@ -24,6 +24,7 @@ sources:
     url: https://naturalhistory.si.edu/exhibits/hope-diamond
     year: "2026"
     license: Smithsonian 网站使用条款
+    license_en: "Website terms of use"
     usage: 重量、颜色、产地、收藏史、捐赠经过
   - id: S2
     title: "Encyclopaedia Britannica · Hope Diamond"
@@ -31,6 +32,7 @@ sources:
     url: https://www.britannica.com/topic/Hope-Diamond
     year: "2026"
     license: 版权归 Britannica，仅作参考
+    license_en: "© Britannica; citation only"
     usage: 事实交叉核对；未复制原文
   - id: S3
     title: "Wikipedia · Hope Diamond"
@@ -41,10 +43,13 @@ sources:
     usage: 年代、持有人、传说来源
   - id: S4
     title: 原创图解与场景复原图
+    title_en: "Original diagram and scene reconstruction"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 正文中的原创示意图、地图、场景复原与时间线；不是历史照片
 cover: ../../../assets/covers/hope-diamond.jpg
 related:

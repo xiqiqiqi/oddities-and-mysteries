@@ -34,10 +34,13 @@ sources:
     usage: 蓝色喷流与红色精灵、ELVES 的区别
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面场景复原与大气分层示意；不是现场照片
   - id: S4
     title: "The Role of the Space Shuttle Videotapes in the Discovery of Sprites, Jets, and ELVES"
@@ -45,6 +48,7 @@ sources:
     url: https://www.earthdata.nasa.gov/learn/data-in-action/role-space-shuttle-videotapes-discovery-sprites-jets-elves
     year: "2025"
     license: "NASA 公开资料；引用与事实核对"
+    license_en: "Citation and factual cross-check"
     usage: 蓝色喷流的命名、观测与发现史
 cover: ../../../assets/covers/blue-jets.jpg
 related:

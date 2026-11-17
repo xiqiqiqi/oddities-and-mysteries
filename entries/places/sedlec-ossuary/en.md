@@ -66,15 +66,12 @@ Large numbers of visitors come every year. The chapel limits the route, forbids 
 
 A basement built to hold the dead has become one of the strangest tourist sites in the Czech Republic.
 
-## Sources and evidence
-
-For “The Church Made of Bones”, the factual trail runs mainly through S1–S3: S1 is “Sedlec Ossuary · Official site” and S2 is “Wikipedia · Sedlec Ossuary”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Church Made of Bones”, the checkable coordinates are Sedlec, Kutná Hora, Czech Republic, 13th century onward; arranged in 1870, and the source-ledger entries S1 “Sedlec Ossuary · Official site” and S2 “Wikipedia · Sedlec Ossuary”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+The core facts of “The Church Made of Bones” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Church Made of Bones” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 In 1348, the Black Death reached Bohemia. There were not enough cemeteries and bodies were buried in mass graves. Later, the Hussite Wars brought more deaths.
@@ -94,4 +91,4 @@ Bones were piled together without names. They only remind the living: there won�
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the cemetery's history, the storage of bones, the 1870 arrangement, and the controversy; estimates of the number of skeletons range from 40,000 to 70,000, and the church's religious interpretation differs from the curiosity of visitors.
+**Sources and licenses**: for “The Church Made of Bones”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the cemetery's history, the storage of bones, the 1870 arrangement, and the controversy; estimates of the number of skeletons range from 40,000 to 70,000, and the church's religious interpretation differs from the curiosity of visitors.

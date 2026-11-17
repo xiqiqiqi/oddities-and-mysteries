@@ -70,15 +70,12 @@ lang: zh
 
 *原创示意图：三神器的供奉地、1185 年坛之浦与皇居中的匣子。不是文物照片。稀奇奇编辑部，CC BY-SA 4.0。*
 
-## 来源与证据
-
-关于「匣中的玉」，本条目的事实线索主要来自来源台账 S1–S3，其中 S1 为《Wikipedia · Imperial Regalia of Japan》，S2 为《Kokugakuin University · Basic Terms of Shinto: Sanshu no Shinki》。正文中的年代、地点与人物按这些来源的最低共识处理；图像说明与许可逐条列在条目底部。
-
 ## 档案空白
 
-关于「匣中的玉」，可核对的坐标是日本，东京、古代，以及来源台账中的 S1《Wikipedia · Imperial Regalia of Japan》与 S2《Kokugakuin University · Basic Terms of Shinto: Sanshu no Shinki》。出土层位、修复记录与成分检测之间仍有缺口；公开页面往往只给结论，不给完整检测链。
+「匣中的玉」的核心事实大体成立，但成因、规模或细节仍有争议；本文并列保留 3 条来源中的竞争解释，不把单一假说写成结论。
 
 条目目前标记为“disputed”；这个标签描述的是当前证据状态，不是对题材真伪的终审。
+
 ## 档案补记
 
 但“象征”不等于“法律文件”。明治宪法和战后的皇室典范，都没有把三件神器写成即位的必要条件。它们更像一种仪式性的确认：新天皇接过的不只是权力，还有一套从神话传下来的物件。

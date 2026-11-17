@@ -70,4 +70,4 @@ The Dalles' restaurants serve today; the salad bars are set out as usual. No one
 
 ---
 
-**Sources and licenses**: factual sources are in the ledger S1–S7 below. Text and original schematics are CC BY-SA 4.0. The speech page and Marshals report are U.S. government public-domain documents; the restaurant and commune photographs are credited Wikimedia Commons works, licenses in the ledger. Whether Rajneesh knew was never proven; this article presents both beliefs without adjudicating.
+**Sources and licenses**: for “Rajneeshee: Salmonella on the Salad Bar”, factual sources are in the ledger S1–S7 below. Text and original schematics are CC BY-SA 4.0. The speech page and Marshals report are U.S. government public-domain documents; the restaurant and commune photographs are credited Wikimedia Commons works, licenses in the ledger. Whether Rajneesh knew was never proven; this article presents both beliefs without adjudicating.

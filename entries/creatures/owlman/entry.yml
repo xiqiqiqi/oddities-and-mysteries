@@ -26,6 +26,7 @@ sources:
     usage: 1976-04-17 梅林姐妹目击、希尔尔斯接手与命名、Morgawr 小册子、1976-07-03 露营女孩描述、后续零星报告、仓鸮/雕鸮解释与梅德韦恶作剧论、影视改编
   - id: S2
     title: "St Mawnan and St Stephen's church, Mawnan（教堂照片）"
+    title_en: "St Mawnan and St Stephen's church, Mawnan (church photograph)"
     publisher: Andrewrabbott / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:St_Mawnan_and_St_Stephen%27s_church,_Mawnan.JPG
     year: "2015"
@@ -33,6 +34,7 @@ sources:
     usage: 现场照片：教堂塔与墓地，目击所指位置
   - id: S3
     title: "Mawnan Smith（1977 年村庄照片）"
+    title_en: "Mawnan Smith (1977 village photograph)"
     publisher: Stephen McKay / geograph.org.uk / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Mawnan_Smith_-_geograph.org.uk_-_7326889.jpg
     year: "1977"
@@ -40,10 +42,13 @@ sources:
     usage: 历史照片：目击次年的村庄、红狮酒吧与去教堂的路
   - id: S4
     title: 原创示意图与场景复原图
+    title_en: "Original diagram and scene reconstruction"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 1976–2013 时间线示意、教堂墓地暮色场景复原；不是目击照片
   - id: S5
     title: "Owlman: Did a Mysterious Creature Really Haunt the Cornish Town of Mawnan?"

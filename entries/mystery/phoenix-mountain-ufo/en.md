@@ -68,15 +68,12 @@ The south slope of Phoenix Mountain is still there. The white thing did not come
 
 *Original schematic: the June–July 1994 timeline, the south-slope sighting and the investigation. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The White Thing on the Mountain”, the factual trail runs mainly through S1–S3: S1 is “CCTV · Approach to Science: Close Encounters, Part 2” and S2 is “CCTV · Investigation of Chinese UFO Cases”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The White Thing on the Mountain”, the checkable coordinates are Wuchang, Heilongjiang, China, 1994, and the source-ledger entries S1 “CCTV · Approach to Science: Close Encounters, Part 2” and S2 “CCTV · Investigation of Chinese UFO Cases”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The White Thing on the Mountain” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The White Thing on the Mountain” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 No white object was found on the hillside, no wreckage, no photos, no samples. The "elastic things picked out from the skin" mentioned by Meng Zhaoguo have not been preserved either.
@@ -85,4 +82,4 @@ The only thing left were the red marks and scars on his body, and his own narrat
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Meng's account, the witnesses' observations, the investigation and the psychological explanations; no physical evidence confirms an alien contact. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: for “The White Thing on the Mountain”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Meng's account, the witnesses' observations, the investigation and the psychological explanations; no physical evidence confirms an alien contact. The illustration is a scene reconstruction, not a photograph of the site.

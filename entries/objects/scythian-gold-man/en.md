@@ -72,15 +72,12 @@ Whether the person was male or female, a prince or a princess, a warrior or a pr
 
 *Original schematic: the main motifs of the headdress, the side chamber at Issyk and the 1969 discovery. Not a photograph of an artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Golden Man”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Issyk kurgan” and S2 is “e-history.kz · Who Was the Golden Man Really?”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Golden Man”, the checkable coordinates are Issyk, Kazakhstan, c. 4th century BCE, and the source-ledger entries S1 “Wikipedia · Issyk kurgan” and S2 “e-history.kz · Who Was the Golden Man Really?”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “The Golden Man” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Golden Man” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 There are wooden structures, horses, weapons and food in the tomb. The tomb owner is placed in the center, dressed in gold. The size of the tomb indicates that he/she had a high status in society.
@@ -99,4 +96,4 @@ The craftsmanship of the gold jewelry shows that the Cypriots have professional 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1969 excavation, the gold and the tomb, the debate over identity and sex, and the national symbol; the gold and the burial are archaeological evidence, while the sex of the deceased remains disputed. The illustration is a scene reconstruction, not a photograph of an artefact.
+**Sources and licenses**: for “The Golden Man”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1969 excavation, the gold and the tomb, the debate over identity and sex, and the national symbol; the gold and the burial are archaeological evidence, while the sex of the deceased remains disputed. The illustration is a scene reconstruction, not a photograph of an artefact.

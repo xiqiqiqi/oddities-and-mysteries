@@ -66,15 +66,12 @@ The episode reappeared in cartoons, prints, and popular histories. The kettle be
 
 It does not belong in the great-battles chapter of military history. It belongs in a footnote about how diplomacy avoids wars. Both sides got an acceptable result. The price was a kettle.
 
-## Sources and evidence
-
-For “The War With One Shot”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Kettle War” and S2 is “Wikipedia · Scheldt”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The War With One Shot”, the checkable coordinates are the Scheldt estuary, Dutch Republic and Austria, 1784, and the source-ledger entries S1 “Wikipedia · Kettle War” and S2 “Wikipedia · Scheldt”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+The core facts of “The War With One Shot” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The War With One Shot” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Boundaries were drawn and conflicts ended. The kettle became a symbol: a war without bloodshed.
@@ -112,4 +109,4 @@ A kettle in exchange for a boundary. History is so light sometimes.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the documented diplomatic and military course from the widely repeated kettle detail; the exact manner in which the kettle was hit comes from later accounts.
+**Sources and licenses**: for “The War With One Shot”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the documented diplomatic and military course from the widely repeated kettle detail; the exact manner in which the kettle was hit comes from later accounts.

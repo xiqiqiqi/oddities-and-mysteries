@@ -65,6 +65,7 @@ What is easy to overlook at Sacsayhuamán is how incomplete it is. The walls vis
 The ledger of stone records something else as well: the Inca had no iron tools, but they could organise labour on a huge scale. Quarrying, transport, shaping, dry-fitting and lifting each required thousands of people and long organisation. To hand all this to "aliens" erases the part that is genuinely astonishing.
 
 One more point is often missed: Sacsayhuamán was not built in one go. Walls from different phases differ in how the blocks were cut, how densely they were packed and how the joints were finished. Archaeologists use those differences to decide which parts are early and which were added or rebuilt later. Stone can speak, but someone has to crouch down and read it block by block.
+
 ## 8. How to See It Today
 
 Sacsayhuamán is now one of Cusco's best-known sites and the setting for the Sun Festival. Visitors climb the steps and see walls, platforms and the city below. The blocks still lock together without mortar or steel.
@@ -74,4 +75,4 @@ The site also shows how archaeology and tourism can pull in different directions
 The stones have outlasted every explanation offered for them. So far, yes.
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the physical site, Inca stoneworking, and hypotheses about transport; “a knife blade cannot fit” is a popular saying, not a precise measurement.
+**Sources and licenses**: for “The Wall That Fits Too Well”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the physical site, Inca stoneworking, and hypotheses about transport; “a knife blade cannot fit” is a popular saying, not a precise measurement.

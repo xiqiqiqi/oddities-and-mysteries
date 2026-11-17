@@ -33,6 +33,7 @@ sources:
     usage: 监控影像：失踪前最后已知影像，含时间戳
   - id: S3
     title: "Woodsville NH US302（主街）"
+    title_en: "Woodsville NH US302 (main street)"
     publisher: Royalbroil / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Woodsville_NH_US302.jpg
     year: "2014"
@@ -40,6 +41,7 @@ sources:
     usage: 现场照片：伍兹维尔主街
   - id: S4
     title: "Court Square, Woodsville, NH（1908 明信片）"
+    title_en: "Court Square, Woodsville, NH (1908 postcard)"
     publisher: Unknown photographer / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Court_Square,_Woodsville,_NH.jpg
     year: "1908"
@@ -47,10 +49,13 @@ sources:
     usage: 历史明信片：河谷小镇全景
   - id: S5
     title: 原创时间线示意图
+    title_en: "Original timeline diagram"
     publisher: 稀奇奇编辑部
+    publisher_en: "XIQIQI Editorial"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 2004 年 2 月时间线与十九分钟空窗示意
   - id: S6
     title: "Frederick J. Murray v. New Hampshire Division of State Police, Special Investigation Unit & a."

@@ -26,6 +26,7 @@ sources:
     usage: 护士 Donna 的说法、沃伦夫妇的占有与陈列、各项超自然指控、《The Demonologist》、电影改用瓷面道具的原因、2019 关门、2025 失踪营销与巡展、Matt Rife 购入、学者批评
   - id: S2
     title: "Raggedy Ann - THE REAL ANNABELLE 2（教堂形木盒）"
+    title_en: "Raggedy Ann - THE REAL ANNABELLE 2 (church-shaped wooden box)"
     publisher: OVERNIGHT / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Raggedy_Ann_-_THE_REAL_ANNABELLE_2.jpg
     year: "2025"
@@ -33,6 +34,7 @@ sources:
     usage: 现场照片：真实布娃娃与教堂形木盒、十字架、服务铃
   - id: S3
     title: "Raggedy Ann - THE REAL ANNABELLE 1（柜中特写）"
+    title_en: "Raggedy Ann - THE REAL ANNABELLE 1 (close-up in cabinet)"
     publisher: OVERNIGHT / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Raggedy_Ann_-_THE_REAL_ANNABELLE_1.jpg
     year: "2025"
@@ -40,6 +42,7 @@ sources:
     usage: 现场照片：柜中娃娃与手写警告牌
   - id: S4
     title: "Annabelle Doll prop 01（电影道具）"
+    title_en: "Annabelle Doll prop 01 (film prop)"
     publisher: PvOberstein / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Annabelle_Doll_prop_01.jpg
     year: "2019"
@@ -47,10 +50,13 @@ sources:
     usage: 现场照片：2019 宣传活动观众与瓷面道具合影；道具非真实娃娃
   - id: S5
     title: 原创时间线示意图
+    title_en: "Original timeline diagram"
     publisher: 稀奇奇编辑部
+    publisher_en: "XIQIQI Editorial"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 1970 年代至 2025 时间线示意
   - id: S6
     title: "About Us"

@@ -68,4 +68,4 @@ The Owlman has no photograph, no specimen, no feather. What it has is a girl's d
 
 ---
 
-**Sources and licenses**: factual sources are in the ledger S1–S5 below. Text and original schematics are CC BY-SA 4.0. The church and village photographs are credited Wikimedia Commons / geograph works, licenses in the ledger; the reconstruction is not a photograph of a sighting. Barn-owl / eagle-owl misidentification and a Shiels hoax are all possible explanations, and this article does not choose between them for the reader.
+**Sources and licenses**: for “Owlman: The Shadow on the Church Tower”, factual sources are in the ledger S1–S5 below. Text and original schematics are CC BY-SA 4.0. The church and village photographs are credited Wikimedia Commons / geograph works, licenses in the ledger; the reconstruction is not a photograph of a sighting. Barn-owl / eagle-owl misidentification and a Shiels hoax are all possible explanations, and this article does not choose between them for the reader.

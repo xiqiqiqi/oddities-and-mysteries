@@ -66,15 +66,12 @@ lang: zh
 
 那条项链再也没有完整出现过。它的钻石散落在欧洲各处的王冠和首饰上，只剩下一段关于贪婪、轻信和宫廷的故事。
 
-## 来源与证据
-
-关于「王后的项链」，本条目的事实线索主要来自来源台账 S1–S3，其中 S1 为《History Today · The Affair of the Diamond Necklace》，S2 为《World History Encyclopedia · The Affair of the Diamond Necklace》。正文中的年代、地点与人物按这些来源的最低共识处理；图像说明与许可逐条列在条目底部。
-
 ## 档案空白
 
-关于「王后的项链」，可核对的坐标是法国，巴黎、1785，以及来源台账中的 S1《History Today · The Affair of the Diamond Necklace》与 S2《World History Encyclopedia · The Affair of the Diamond Necklace》。出土层位、修复记录与成分检测之间仍有缺口；公开页面往往只给结论，不给完整检测链。
+「王后的项链」的核心事实由 3 条来源中的至少两条独立记录互证；仍未独立验证的细节，正文已逐处标注。
 
 条目目前标记为“verified”；这个标签描述的是当前证据状态，不是对题材真伪的终审。
+
 ## 档案补记
 
 没有人真的见过王后买项链，但很多人相信她会的。骗局利用的不是贪婪，而是人们对宫廷的想象。

@@ -66,15 +66,12 @@ The light usually appears. It comes from a highway several kilometres away, prod
 
 *Original schematic: the viewing point, the old railroad grade and US-45, with the path of the headlights. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Light in the Woods”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Paulding Light” and S2 is “CBS Detroit · Michigan Tech Solves Mystery Of UP Lights”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Light in the Woods”, the checkable coordinates are Paulding, Michigan, United States, Since the 1960s, and the source-ledger entries S1 “Wikipedia · Paulding Light” and S2 “CBS Detroit · Michigan Tech Solves Mystery Of UP Lights”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Light in the Woods” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Light in the Woods” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 There are signs on the roadside, sighting maps on websites, and people in bars talking about it. Even as the headlight explanation was brought up again and again, the story stayed alive. Because what the story provides is not an answer, but a place to go at night: you can drive there, turn off the engine, and wait for a light.
@@ -82,4 +79,4 @@ Paul Ding's Light is a typical example of the "misidentification" type of archiv
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the location, the legend, the 2010 investigation and the headlight explanation; the Paulding Light can be reproduced with car headlights, but some witnesses do not accept the explanation. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: for “The Light in the Woods”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the location, the legend, the 2010 investigation and the headlight explanation; the Paulding Light can be reproduced with car headlights, but some witnesses do not accept the explanation. The illustration is a scene reconstruction, not a photograph of the site.

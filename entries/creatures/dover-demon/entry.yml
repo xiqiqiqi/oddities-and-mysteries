@@ -26,6 +26,7 @@ sources:
     usage: 1977-04-21/22 三名目击者与道路、眼睛颜色差异、目击点连成两英里直线、警方"春假恶作剧"定性、雪鸮解释与邓宁反驳、文化影响
   - id: S2
     title: "Dover Demon（形象插画）"
+    title_en: "Dover Demon (illustration)"
     publisher: Di / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Dover_Demon.png
     year: "2023"
@@ -33,13 +34,16 @@ sources:
     usage: 据目击描述绘制的形象插画；不是目击照片
   - id: S3
     title: "Dover ma highlight（位置图）"
+    title_en: "Dover ma highlight (location map)"
     publisher: Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Dover_ma_highlight.png
     year: "年份不详"
+    year_en: "Year unknown"
     license: CC BY-SA 3.0
     usage: 马萨诸塞州位置图：诺福克县与多佛镇
   - id: S4
     title: "Snowy Owl with American Black Duck（雪鸮照片）"
+    title_en: "Snowy Owl with American Black Duck (snowy owl photograph)"
     publisher: Chuck Homler d/b/a Focus On Wildlife / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:SnowyOwlAmericanBlackDuck.jpg
     year: "2013"
@@ -47,10 +51,13 @@ sources:
     usage: 雪鸮展翅携猎物照片，用于说明尼克尔的雪鸮误认解释
   - id: S5
     title: 原创示意图与场景复原图
+    title_en: "Original diagram and scene reconstruction"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 目击时间线示意、农场街夜路场景复原；不是目击照片
   - id: S6
     title: "Dover Demon Revisited"

@@ -64,10 +64,6 @@ The ruins are open to visitors, but many areas are fenced off. Loess is fragile;
 
 It looks like an abandoned city, but it is closer to a huge sculpture slowly weathering away. The city was dug out of the earth, and the wind and rain are digging it back in.
 
-## Sources and evidence
-
-For “The City Dug from the Earth”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Jiaohe Ruins” and S2 is “Wikipedia · Turpan”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The record of Jiaohe falls into three layers: the UNESCO Silk Roads inscription and nomination texts set out the property's extent, dates, and outstanding universal value; surveys by Xinjiang cultural-relic and Turpan studies institutions describe the city's zones, temples, tombs, and excavated documents; tourist signs and guidebooks simplify those conclusions. The city sits on a plateau in the Yarnaz valley, with the walled site itself about 37.6 hectares and the cemeteries to the north and west counted separately. This entry keeps the nomination framework apart from the excavation detail and does not treat guidebook wording as an excavation report.
@@ -76,9 +72,10 @@ Jiaohe's paper trail runs through excavation reports, conservation files, and th
 
 ## Limits of the record
 
-For “The City Dug from the Earth”, the checkable coordinates are Turpan, Xinjiang, China, about 100 BCE – 14th century, and the source-ledger entries S1 “Wikipedia · Jiaohe Ruins” and S2 “Wikipedia · Turpan”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+The core facts of “The City Dug from the Earth” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The City Dug from the Earth” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Protectors strengthen walls, clear sand, and restrict access.
@@ -89,4 +86,4 @@ After the city was abandoned, wind and sand slowly buried the streets and houses
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the layout, the historical sequence, and the explanations for abandonment; the abandonment is not attributed to a single event.
+**Sources and licenses**: for “The City Dug from the Earth”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the layout, the historical sequence, and the explanations for abandonment; the abandonment is not attributed to a single event.

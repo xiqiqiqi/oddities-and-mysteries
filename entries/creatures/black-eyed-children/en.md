@@ -63,15 +63,12 @@ The story places “someone who needs help” and “something that cannot be tr
 
 The parking lot in 1996 may have held two boys in contact lenses, or nothing at all. But the story found a structure that holds, and it is still being told.
 
-## Sources and evidence
-
-For “The Black-Eyed Children”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Black-eyed children” and S2 is “World Urban Legend · Black-Eyed Kids: The Real Origin of the Urban Legend”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Black-Eyed Children”, the checkable coordinates are Abilene, Texas, United States, Since 1996, and the source-ledger entries S1 “Wikipedia · Black-eyed children” and S2 “World Urban Legend · Black-Eyed Kids: The Real Origin of the Urban Legend”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“The Black-Eyed Children” comes mainly from legend, oral tradition, or urban narrative in Abilene, Texas, United States; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Black-Eyed Children” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Typically, it occurs at night in an empty parking lot, roadside, or doorway. Two children appear nearby with pale skin, ordinary clothes, and polite speech. They make a concrete request—an offer of a lift, a call, or an invitation to enter. The witness feels terror, refuses, and departs. When they look back, the children are gone.
@@ -80,4 +77,4 @@ This framework mirrors other urban legends such as the “missing car‑pooler�
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the original account, its spread on the internet, and the explanations offered by sceptics; there is no verified police record, photograph or second witness. The illustrations are scene reconstructions, not photographs of an event.
+**Sources and licenses**: for “The Black-Eyed Children”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the original account, its spread on the internet, and the explanations offered by sceptics; there is no verified police record, photograph or second witness. The illustrations are scene reconstructions, not photographs of an event.

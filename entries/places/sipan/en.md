@@ -69,6 +69,7 @@ The importance of Sipán lies not in the weight of the gold but in the position 
 The gold mask, ear ornaments, chest pieces and sceptre show that the dead man could command rare materials and skilled craftsmen. The attendants show that this power extended over human lives as well. Seen together, Sipán is not only a treasury but evidence of Moche social order.
 
 Sipán also changed how Moche power was understood. Before the tomb, scholars mostly inferred nobles from pottery images; after it, the figures, dress and rituals in those images could be matched to real objects and a real body. That correspondence is more valuable than any single gold piece. It turns a vanished society from a set of pictures into a measurable life.
+
 ## 8. After the Museum
 
 In 2002 the Royal Tombs of Sipán Museum opened in Lambayeque. Its building resembles a Moche pyramid; visitors enter by a ramp, and the lighting concentrates on the gold. For local people it is not only a tourist attraction but a place where a looted past has been taken back.
@@ -77,4 +78,4 @@ The mask still sits in the central case. The gold is not bright; its colour is d
 The tomb also made clear that Moche power was regional, not a single kingdom with one capital. That distinction still shapes how the period is studied.
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, the tomb structure, the identity of the Lord, and the later excavations; estimates of his age and cause of death vary.
+**Sources and licenses**: for “The Tomb That Was Never Looted”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, the tomb structure, the identity of the Lord, and the later excavations; estimates of his age and cause of death vary.

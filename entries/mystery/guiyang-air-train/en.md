@@ -78,15 +78,12 @@ A thunderstorm, a downburst, a forest broken in half, and lights and noise in th
 
 *Original schematic: the damage bands at Duxi, the location of the factory and the wind of a downburst. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Thing That Roared Over Guiyang”, the factual trail runs mainly through S1–S3: S1 is “CCTV · Approach to Science: Guiyang Air Train” and S2 is “China News Service · UFO over the Guiyang Forest? Experts Reconstruct the Event”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Thing That Roared Over Guiyang”, the checkable coordinates are Guiyang, Guizhou, China, 1994, and the source-ledger entries S1 “CCTV · Approach to Science: Guiyang Air Train” and S2 “China News Service · UFO over the Guiyang Forest? Experts Reconstruct the Event”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Thing That Roared Over Guiyang” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Thing That Roared Over Guiyang” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The direction in which the tree fell, the height of the break, and the width of the damage zone were all measured. Damage to factories and greenhouses was also recorded. The data support the "strong wind" explanation but not the "aircraft" explanation.
@@ -95,4 +92,4 @@ But the data can't explain all sightings. Some people said they saw a "carriage-
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the physical damage, the witness accounts, the meteorological investigation and the UFO claims; the event left extensive physical traces, a downburst or landspout is the best-supported explanation, and the UFO claims have no physical evidence. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: for “The Thing That Roared Over Guiyang”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the physical damage, the witness accounts, the meteorological investigation and the UFO claims; the event left extensive physical traces, a downburst or landspout is the best-supported explanation, and the UFO claims have no physical evidence. The illustration is a scene reconstruction, not a photograph of the site.

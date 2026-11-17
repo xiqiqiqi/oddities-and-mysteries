@@ -96,4 +96,4 @@ On the thirtieth day the door opens. The one who kept the record is still alive.
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S4 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the internet horror story, the prop photograph, real sleep-deprivation research and the historical claim of a "Soviet experiment"; no archive or physical evidence supports the story. The illustrations are a reconstruction, a historical photograph and a schematic, not photographs of the event.
+**Sources and licenses**: for “The Sleep Experiment”, sources are listed in the ledger S1–S4 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the internet horror story, the prop photograph, real sleep-deprivation research and the historical claim of a "Soviet experiment"; no archive or physical evidence supports the story. The illustrations are a reconstruction, a historical photograph and a schematic, not photographs of the event.

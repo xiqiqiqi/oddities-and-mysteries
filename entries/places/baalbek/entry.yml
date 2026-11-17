@@ -30,16 +30,21 @@ sources:
     url: https://whc.unesco.org/en/list/294/
     year: "2026"
     license: 版权所有；仅作事实参考
+    license_en: "© UNESCO World Heritage Centre; citation only"
     usage: 世界遗产信息、建筑群范围与保护状况
   - id: S3
     title: 原创图解与场景复原图
+    title_en: "Original diagram and scene reconstruction"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 巨石估重对比图（五条）、采石场到台基推测图（含亚当 1977 估算）、抬石场景复原图；不是历史照片
   - id: S4
     title: "Baalbek（银版全景）"
+    title_en: "Baalbek (panoramic daguerreotype)"
     publisher: The Metropolitan Museum of Art
     url: https://www.metmuseum.org/art/collection/search/726482
     year: "1843–44"
@@ -47,6 +52,7 @@ sources:
     usage: 历史照片：台基长墙银版全景，正文第六节
   - id: S5
     title: "Hexagonal Court, Temple of Jupiter, Baalbek（银版）"
+    title_en: "Hexagonal Court, Temple of Jupiter, Baalbek (daguerreotype)"
     publisher: The Metropolitan Museum of Art
     url: https://www.metmuseum.org/art/collection/search/761563
     year: "1843"
@@ -96,6 +102,7 @@ sources:
     usage: 历史照片：六柱与柱础边的人，正文第九节
   - id: S12
     title: "Temple of Bacchus, Baalbek（水彩）"
+    title_en: "Temple of Bacchus, Baalbek (watercolour)"
     publisher: The Metropolitan Museum of Art
     url: https://www.metmuseum.org/art/collection/search/12168
     year: "1906"
@@ -131,6 +138,7 @@ sources:
     usage: 现场照片：三巨石风化面与砌缝近景，正文第二节
   - id: S17
     title: "The Mightiest Building Stone Ever Cut, Ruins of Baalbek, Syria（立体卡片）"
+    title_en: "The Mightiest Building Stone Ever Cut, Ruins of Baalbek, Syria (stereograph card)"
     publisher: Underwood & Underwood / SMU Central University Libraries
     url: https://commons.wikimedia.org/wiki/File:The_Mightiest_Building_Stone_Ever_Cut,_Ruins_of_Baalbek,_Syria_(29241963231).jpg
     year: "1900"

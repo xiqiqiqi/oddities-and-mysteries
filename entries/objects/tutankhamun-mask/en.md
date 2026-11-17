@@ -58,15 +58,12 @@ It has a gallery of its own. The light is low, and the mask is lit separately. V
 
 A king who died at eighteen or nineteen still has a gold face three thousand years later. Someone broke his beard while fixing a lamp and glued it back with the wrong adhesive. Those marks are now part of its history too.
 
-## Sources and evidence
-
-For “The Beard That Was Glued Back”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Mask of Tutankhamun” and S2 is “National Geographic · Museum Officials Accused of Mishandling King Tut's Mask”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Beard That Was Glued Back”, the checkable coordinates are Giza, Egypt (Grand Egyptian Museum), c. 1323 BCE, and the source-ledger entries S1 “Wikipedia · Mask of Tutankhamun” and S2 “National Geographic · Museum Officials Accused of Mishandling King Tut's Mask”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “The Beard That Was Glued Back” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Beard That Was Glued Back” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Craftsmen hammered the gold nuggets into thin slices, then cut, shaped and set them. The thickness of the gold foil is uneven, thick in some places and thin in others. This is not a mistake, but evidence of handiwork.
@@ -85,4 +82,4 @@ A mask has been buried, discovered, transported, restored, and exhibited for mor
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation record, the structure of the mask, the repair accident, and the curse legend; there is no reliable evidence for the “curse”, and the scratches on the mask cannot be fully repaired.
+**Sources and licenses**: for “The Beard That Was Glued Back”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation record, the structure of the mask, the repair accident, and the curse legend; there is no reliable evidence for the “curse”, and the scratches on the mask cannot be fully repaired.

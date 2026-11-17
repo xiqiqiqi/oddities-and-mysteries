@@ -19,25 +19,37 @@ credibility: verified
 sources:
   - id: S1
     title: "浙江省文化广电和旅游厅 · 传世名画《富春山居图·剩山图》在浙江展出"
+    title_en: "Zhejiang Provincial Department of Culture, Radio, Television and Tourism · The Remaining Mountain section of Dwelling in the Fuchun Mountains on display in Zhejiang"
     publisher: 浙江省文化广电和旅游厅
+    publisher_en: "Zhejiang Provincial Department of Culture, Radio, Television and Tourism"
     url: http://wwj.zj.gov.cn/col/col1639083/art/2025/art_286f1c9bdfcb4f1e859828c95ed0b2c3.html
     year: "2025"
     license: 版权所有；仅作事实参考
+    license_en: "© the publisher; citation only"
     usage: 原卷长度、火烧分段、两段收藏地与尺寸
+    usage_en: "Exhibition record, split provenance, and the Remaining Mountain section"
   - id: S2
     title: "Wikipedia · 富春山居图"
+    title_en: "Wikipedia · Dwelling in the Fuchun Mountains"
     publisher: Wikipedia contributors
+    publisher_en: "Wikipedia contributors"
     url: https://zh.wikipedia.org/wiki/富春山居图
     year: "2026"
     license: CC BY-SA 4.0
+    license_en: "CC BY-SA 4.0"
     usage: 黄公望生平、创作年代、流传与 2011 年合璧
+    usage_en: "Painting history, the 1650 fire, and the two separated sections"
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "AI-assisted reconstruction and original diagrams"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面山水长卷场景复原、火烧与分藏示意；不是原作照片
+    usage_en: "Reconstruction of the painting's burning and splitting, plus a section-comparison diagram; not a historical photograph"
 cover: ../../../assets/covers/fuchun-mountain.jpg
 related:
   - sword-of-goujian

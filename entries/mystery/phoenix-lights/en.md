@@ -58,8 +58,6 @@ After the Phoenix event, unofficial research groups in Arizona began collecting 
 
 For the witnesses, it was the strangest thing they had ever seen. For researchers, it is a question that was split in two: one half answered, one half not.
 
-## Sources and evidence
-
 The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Phoenix Lights” and S2 is “Wikipedia · Fife Symington”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
@@ -68,9 +66,10 @@ The Phoenix Lights file includes pilot reports, police logs, television footage,
 
 ## Limits of the record
 
-For “The Night Over Phoenix”, the checkable coordinates are Phoenix, Arizona, United States, 13 March 1997, and the source-ledger entries S1 “Wikipedia · Phoenix Lights” and S2 “Wikipedia · Fife Symington”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Night Over Phoenix” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Night Over Phoenix” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Training records, time, location and eyewitness descriptions matched. Flares burn in the air with high brightness, long duration, and are arranged in rows. From a distance, they look like a row of stopped light spots.
@@ -80,4 +79,4 @@ Phoenix Light is a "collective witnessing" type of archive. It has numerous witn
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article distinguishes the two sightings that night: the ten o'clock lights have a military flare explanation, while the 7:55 sighting remains unresolved.
+**Sources and licenses**: for “The Night Over Phoenix”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article distinguishes the two sightings that night: the ten o'clock lights have a military flare explanation, while the 7:55 sighting remains unresolved.

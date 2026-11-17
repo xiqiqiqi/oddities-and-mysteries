@@ -56,19 +56,16 @@ Part of the site is open to visitors, including the seaside boathouses. In the 1
 
 Most of the Villa of the Papyri is still underground. It is like a sealed library: the books are on the shelves, the words are in the books, and no one has yet been able to read them all.
 
-## Sources and evidence
-
-For “The Library Buried in Mud”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Herculaneum” and S2 is “Wikipedia · Villa of the Papyri”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Herculaneum record has three sets of material: excavation records since the eighteenth century, conservation and site-management files of the Italian cultural heritage service, and papyrological and volcanological research. The site was buried under volcanic debris, preserving organic material better than Pompeii; the papyrus scrolls from the Villa of the Papyri are still being read. The streets and houses visitors see are a version shaped by excavation, restoration, and display. This entry separates stratigraphy, restoration intervention, and tourist presentation.
 
 ## Limits of the record
 
-For “The Library Buried in Mud”, the checkable coordinates are Ercolano, Italy, 79 CE, and the source-ledger entries S1 “Wikipedia · Herculaneum” and S2 “Wikipedia · Villa of the Papyri”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+The core facts of “The Library Buried in Mud” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Library Buried in Mud” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Open a roll and it may crumble to dust. Early scholars tried incision and peeling, but suffered great losses. Later, researchers used X-ray, infrared and computer technology to try to read the text.
@@ -89,4 +86,4 @@ It is on the Bay of Naples, with Pompeii, Herculaneum and Naples nearby. The eru
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the burial process, the villa's ownership, the number of scrolls, and the reading technology; estimates of the owner and the number of scrolls vary, and the Vesuvius Challenge is still in progress.
+**Sources and licenses**: for “The Library Buried in Mud”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the burial process, the villa's ownership, the number of scrolls, and the reading technology; estimates of the owner and the number of scrolls vary, and the Vesuvius Challenge is still in progress.

@@ -26,6 +26,7 @@ sources:
     usage: FSB 经历与 1998 记者会、叛逃与庇护、MI6 顾问、著作与"黑手党国家"、2006-11-01 Itsu 与 Pine Bar 会面、钋-210 检出与茶壶读数、死亡与声明、普京回应、金属舱密封棺与海格特葬礼、引渡被拒、2016 调查结论、2021 欧洲人权法院
   - id: S2
     title: "Alexandr Litvinenko（肖像）"
+    title_en: "Alexandr Litvinenko (portrait)"
     publisher: Joni-Jo / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Alexandr_Litvinenko.jpg
     year: "2011"
@@ -33,6 +34,7 @@ sources:
     usage: 肖像照片
   - id: S3
     title: "Millennium Hotel, Mayfair（酒店外景）"
+    title_en: "Millennium Hotel, Mayfair (hotel exterior)"
     publisher: P Fletcher / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Millennium_Hotel,_Mayfair.jpg
     year: "2005"
@@ -40,6 +42,7 @@ sources:
     usage: 现场照片：格罗夫纳广场一侧千禧酒店外景，Pine Bar 所在
   - id: S4
     title: "LitvinenkoGrave（海格特墓穴）"
+    title_en: "LitvinenkoGrave (Highgate grave)"
     publisher: JohnArmagh / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:LitvinenkoGrave.JPG
     year: "2007"
@@ -47,10 +50,13 @@ sources:
     usage: 墓穴照片：白碎石、相框、鲜花与红蜡烛
   - id: S5
     title: 原创时间线示意图
+    title_en: "Original timeline diagram"
     publisher: 稀奇奇编辑部
+    publisher_en: "XIQIQI Editorial"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 2006–2021 时间线示意
   - id: S6
     title: "Litvinenko Inquiry: Statement to the House of Commons"

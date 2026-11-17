@@ -62,15 +62,12 @@ The display light falls on the front. The red stone looks dark, with a rim of go
 
 It is not a ruby. But it has seen a battle in 1367, another in 1415, a civil war, and a coronation. The name is wrong; the history is real.
 
-## Sources and evidence
-
-For “The Ruby That Wasn't”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Black Prince's Ruby” and S2 is “Royal Collection Trust · The Imperial State Crown”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Ruby That Wasn't”, the checkable coordinates are London, United Kingdom, 14th century, and the source-ledger entries S1 “Wikipedia · Black Prince's Ruby” and S2 “Royal Collection Trust · The Imperial State Crown”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “The Ruby That Wasn't” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Ruby That Wasn't” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Legend has it that it was drilled and used for threading or fixing. The hole reduces the value of the gem and leaves a trace of history. Later inlays obscured it, but it can still be seen if you look closely.
@@ -89,4 +86,4 @@ Edward, the "Black Prince" acquired it during the Spanish campaign. He brought i
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the stone's physical properties, its documented owners, and the legends attached to it; the claim that Henry V wore it at Agincourt is traditional rather than firmly documented.
+**Sources and licenses**: for “The Ruby That Wasn't”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the stone's physical properties, its documented owners, and the legends attached to it; the claim that Henry V wore it at Agincourt is traditional rather than firmly documented.

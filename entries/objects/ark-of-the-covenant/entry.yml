@@ -30,13 +30,17 @@ sources:
     url: https://www.nationalgeographic.com/history/article/ark-of-the-covenant-missing-bible
     year: "2026"
     license: 版权归 National Geographic；仅作事实参考
+    license_en: "© National Geographic; citation only"
     usage: 埃塞俄比亚传统、Kebra Nagast 与阿克苏姆的守护
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面圣所与金箱场景复原、流传路径示意；不是文物照片
 cover: ../../../assets/covers/ark-of-the-covenant.jpg
 related:

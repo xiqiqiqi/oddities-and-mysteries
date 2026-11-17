@@ -72,17 +72,16 @@ The herders' accounts are still there. Researchers still record them, but a reco
 
 A lot can be hidden under sand. There can also be nothing at all.
 
-## Sources and evidence
-
 The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Mongolian death worm” and S2 is “Wikipedia · Eryx tataricus”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-For “The Worm Beneath the Gobi”, the checkable coordinates are South Gobi, Mongolia, Folklore, and the source-ledger entries S1 “Wikipedia · Mongolian death worm” and S2 “Wikipedia · Eryx tataricus”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“The Worm Beneath the Gobi” comes mainly from legend, oral tradition, or urban narrative in South Gobi, Mongolia; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Worm Beneath the Gobi” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the herders' tradition, the expedition record, the media additions, and the biological explanation; there is currently no specimen, photograph, or biological sample proving that the animal exists.
+**Sources and licenses**: for “The Worm Beneath the Gobi”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the herders' tradition, the expedition record, the media additions, and the biological explanation; there is currently no specimen, photograph, or biological sample proving that the animal exists.

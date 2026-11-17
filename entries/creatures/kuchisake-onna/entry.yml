@@ -26,17 +26,22 @@ sources:
     usage: 形象与两轮问答、逃法版本、来历版本（嫉妒姐妹/整形失败/武士之妻）、1978 岐阜与 1979 三篇报道、PTA 护送、Meyer 与 Iikura 起源两说、水木茂妖怪百科认定、影视游戏改编
   - id: S2
     title: "Ehon-Sayoshigure Kuchisake onna（绘草纸图像）"
+    title_en: "Ehon-Sayoshigure Kuchisake onna (illustrated paper image)"
     publisher: Tanapat / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Ehon-Sayoshigure_Kuchisake_onna.jpg
     year: "1801（原作）／2023（上传）"
+    year_en: "1801 (original) / 2023 (upload)"
     license: CC BY-SA 4.0
     usage: 历史图像：《佐夜时雨》中被认定为裂口女的形象（认定有争议）
   - id: S3
     title: 原创问答流程示意图
+    title_en: "Original Q&A flow diagram"
     publisher: 稀奇奇编辑部
+    publisher_en: "XIQIQI Editorial"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 两轮问答分支与逃法示意
   - id: S4
     title: "Kuchisake-onna"

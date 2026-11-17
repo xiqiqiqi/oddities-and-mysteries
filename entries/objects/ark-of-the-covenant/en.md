@@ -66,15 +66,12 @@ The guardian monk is still in Aksum. The Holy of Holies in Jerusalem is only sto
 
 *Original schematic: the construction of the Ark, its capture by the Philistines, the destruction of the Temple and the Ethiopian tradition. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Gold-Covered Chest”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Ark of the Covenant” and S2 is “National Geographic · What happened to the Ark of the Covenant?”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Gold-Covered Chest”, the checkable coordinates are Jerusalem, Israel, c. 10th century BCE, and the source-ledger entries S1 “Wikipedia · Ark of the Covenant” and S2 “National Geographic · What happened to the Ark of the Covenant?”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “The Gold-Covered Chest” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Gold-Covered Chest” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Its meaning is not in the wood and gold, but in the contract it represents.
@@ -87,4 +84,4 @@ The box can disappear, the story cannot. As long as there are people who believe
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the biblical description, the historical record and the Ethiopian tradition; there is no verifiable Ark, and the Aksum claim cannot be independently examined. The illustration is a scene reconstruction, not a photograph of the object.
+**Sources and licenses**: for “The Gold-Covered Chest”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the biblical description, the historical record and the Ethiopian tradition; there is no verifiable Ark, and the Aksum claim cannot be independently examined. The illustration is a scene reconstruction, not a photograph of the object.

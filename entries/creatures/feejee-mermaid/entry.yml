@@ -30,13 +30,17 @@ sources:
     url: https://hoaxes.org/archive/permalink/the_feejee_mermaid/
     year: "2026"
     license: 版权归 Hoaxes.org；仅作事实参考
+    license_en: "© Hoaxes.org; citation only"
     usage: 展览宣传、报纸报道与哈佛皮博迪博物馆的藏品
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面展览场景复原、标本结构与传播路径示意；不是文物照片
 cover: ../../../assets/covers/feejee-mermaid.jpg
 related:

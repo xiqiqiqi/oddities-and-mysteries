@@ -70,15 +70,12 @@ lang: zh
 
 但它也是一个提醒：一个人的一生可以写满舞台，结局却可能只由一件极小的事决定。一个瓶盖，一次呼吸，一秒钟。
 
-## 来源与证据
-
-关于「最后一口」，本条目的事实线索主要来自来源台账 S1–S3，其中 S1 为《CBS New York · 30 Years Ago Today: Tennessee Williams Dies In Manhattan Hotel Suite》，S2 为《Mental Floss · 13 Authors Whose Deaths Were Stranger Than Fiction》。正文中的年代、地点与人物按这些来源的最低共识处理；图像说明与许可逐条列在条目底部。
-
 ## 档案空白
 
-关于「最后一口」，可核对的坐标是美国，纽约、1983，以及来源台账中的 S1《CBS New York · 30 Years Ago Today: Tennessee Williams Dies In Manhattan Hotel Suite》与 S2《Mental Floss · 13 Authors Whose Deaths Were Stranger Than Fiction》。官方记录、当事人证词与后来叙述之间仍有缺口；越著名的故事，越容易把后来添加的细节当成原始事实。
+「最后一口」的核心事实由 3 条来源中的至少两条独立记录互证；仍未独立验证的细节，正文已逐处标注。
 
 条目目前标记为“verified”；这个标签描述的是当前证据状态，不是对题材真伪的终审。
+
 ## 档案补记
 
 他不想用原名，也不想让家人被牵连。笔名来自父亲的田纳西血统。

@@ -68,16 +68,12 @@ In the other, it is a rare blue diamond that passed through war, theft, resale, 
 
 The two versions are not entirely incompatible. The stone is real. The misfortunes were real. The question is whether we are willing to fill the gap between them with a good story.
 
-## Sources and evidence
-
-For “A Three-Century Curse”, the factual trail runs mainly through S1–S4: S1 is “Smithsonian National Museum of Natural History · Hope Diamond” and S2 is “Encyclopaedia Britannica · Hope Diamond”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “A Three-Century Curse”, the checkable coordinates are India → France → Britain → United States, 17th century, and the source-ledger entries S1 “Smithsonian National Museum of Natural History · Hope Diamond” and S2 “Encyclopaedia Britannica · Hope Diamond”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+“A Three-Century Curse” comes mainly from legend, oral tradition, or urban narrative in India → France → Britain → United States; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“A Three-Century Curse” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: for “A Three-Century Curse”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.

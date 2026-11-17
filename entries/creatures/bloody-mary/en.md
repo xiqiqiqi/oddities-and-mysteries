@@ -58,21 +58,18 @@ The real Bloody Mary was a queen in history. The one in the mirror was made by s
 
 *Original schematic: the common steps of the mirror ritual, Mary I, and the psychological explanation of the mirror illusion. Not a photograph of a ritual. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Woman in the Mirror”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Bloody Mary (folklore)” and S2 is “Britannica · Mary I”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Bloody Mary material is mostly oral and commercial: school playgrounds, film and television, and Halloween products. There is no primary archive of the ritual itself, so the entry treats the versions as evidence of how the story is told, not of what happens in a mirror.
 
 ## Limits of the record
 
-For “The Woman in the Mirror”, the checkable coordinates are Worldwide, 1970s–present, and the source-ledger entries S1 “Wikipedia · Bloody Mary (folklore)” and S2 “Britannica · Mary I”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“The Woman in the Mirror” comes mainly from legend, oral tradition, or urban narrative in Worldwide; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Woman in the Mirror” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ritual versions, the historical figures, the folklore record and the psychological explanation; the mirror game has no supernatural evidence, and the distortions can be explained by the Troxler effect and the brain's filling-in. The illustration is a scene reconstruction, not a photograph of a ritual.
+**Sources and licenses**: for “The Woman in the Mirror”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ritual versions, the historical figures, the folklore record and the psychological explanation; the mirror game has no supernatural evidence, and the distortions can be explained by the Troxler effect and the brain's filling-in. The illustration is a scene reconstruction, not a photograph of a ritual.

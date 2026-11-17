@@ -24,6 +24,7 @@ sources:
     url: https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/
     year: "2023"
     license: NASA 媒体使用指南
+    license_en: "Website terms of use"
     usage: 事件经过、目击者描述、库利克考察、两张历史照片
   - id: S2
     title: "NASA Science · Tunguska Revisited"
@@ -31,6 +32,7 @@ sources:
     url: https://www.nasa.gov/solar-system/tunguska-revisited-111-year-old-mystery-impact-inspires-new-more-optimistic-asteroid-predictions/
     year: "2019"
     license: NASA 媒体使用指南
+    license_en: "Website terms of use"
     usage: 破坏面积、照片说明、空爆背景
   - id: S3
     title: "Wikipedia · Tunguska event"
@@ -45,34 +47,46 @@ sources:
     url: https://www.britannica.com/event/Tunguska-event
     year: "2026"
     license: 版权归 Britannica，仅作参考
+    license_en: "© Britannica; citation only"
     usage: 事实交叉核对；未复制原文
   - id: S5
     title: 通古斯爆炸范围图、空爆示意、当量对比、时间线
+    title_en: "Original Tunguska blast-radius map, airburst diagram, yield comparison, and timeline"
     publisher: 稀奇奇编辑部
+    publisher_en: "XIQIQI Editorial"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0
     usage: 原创地图、图表与版面
   - id: S6
     title: 历史照片：倒伏森林
+    title_en: "Historical photograph: flattened forest"
     publisher: Leonid Kulik / 苏联科学院考察队，经 NASA History 转载
+    publisher_en: "Leonid Kulik / Soviet Academy of Sciences expedition, reproduced via NASA History"
     url: https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/
     year: "1920s"
     license: 原始照片在俄罗斯属公有领域；NASA 内容按 NASA 媒体使用指南
+    license_en: "Public domain"
     usage: 正文历史照片
   - id: S7
     title: 历史照片：“电线杆树”
+    title_en: "Historical photograph: the \"telegraph-pole trees\""
     publisher: Leonid Kulik / 苏联科学院考察队，经 NASA History 转载
+    publisher_en: "Leonid Kulik / Soviet Academy of Sciences expedition, reproduced via NASA History"
     url: https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/
     year: "1929"
     license: 原始照片在俄罗斯属公有领域；NASA 内容按 NASA 媒体使用指南
+    license_en: "Public domain"
     usage: 正文历史照片
   - id: S8
     title: 场景复原插图：头图、鄂温克营地、库利克考察、航拍倒伏区
+    title_en: "Scene reconstruction: cover image, Evenki camp, Kulik's expedition, and aerial view of the flattened forest"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 氛围复原与版面图像，不作为历史证据
 cover: ../../../assets/covers/tunguska-1908.jpg
 related:

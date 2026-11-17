@@ -86,4 +86,4 @@ The stone of 409 BCE is still there. It has the homicide law, exile, the right o
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S5 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the legislation of 621 BCE, the statutes, the re-inscription of 409 BCE, Solon's reform and the death story in the Suda; the death story rests on late testimony and cannot be verified, and Draco's existence is itself disputed. The engraving and the frieze photograph are historical and site images; the schematic is not.
+**Sources and licenses**: for “Suffocated by Cloaks”, sources are listed in the ledger S1–S5 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the legislation of 621 BCE, the statutes, the re-inscription of 409 BCE, Solon's reform and the death story in the Suda; the death story rests on late testimony and cannot be verified, and Draco's existence is itself disputed. The engraving and the frieze photograph are historical and site images; the schematic is not.

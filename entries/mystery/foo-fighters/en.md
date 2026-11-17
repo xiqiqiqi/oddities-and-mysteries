@@ -62,8 +62,6 @@ The name “Foo Fighters” was later adopted by an American rock band. Dave Gro
 
 For a wartime nickname, that is an odd afterlife: it once described a group of unsettling lights, and now more people hear it and think of a song.
 
-## Sources and evidence
-
 The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Foo fighter” and S2 is “Wikipedia · 415th Night Fighter Squadron”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
@@ -72,9 +70,10 @@ Foo-fighter reports are preserved mainly in wartime unit histories, pilot interv
 
 ## Limits of the record
 
-For “The Lights That Followed the Fighters”, the checkable coordinates are the skies over Europe, especially the Rhine valley, 1944–1945, and the source-ledger entries S1 “Wikipedia · Foo fighter” and S2 “Wikipedia · 415th Night Fighter Squadron”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Lights That Followed the Fighters” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Lights That Followed the Fighters” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Pilots are trained observers. Their reports carry more weight than ordinary eyewitness accounts. But military reporting also has its limitations: wartime tensions, information blockades, and reporters’ desire to be taken seriously.
@@ -83,4 +82,4 @@ After the war, these reports were collected by UFO researchers and became the ba
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the pilots' descriptions, the wartime investigation, and the post-war explanations in separate layers rather than treating any one of them as final.
+**Sources and licenses**: for “The Lights That Followed the Fighters”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the pilots' descriptions, the wartime investigation, and the post-war explanations in separate layers rather than treating any one of them as final.

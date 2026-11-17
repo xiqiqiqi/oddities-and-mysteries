@@ -66,15 +66,14 @@ The people of Shag Harbour did not forget. A local society collected testimony, 
 
 For a small fishing village, it is a story that can last generations. For the archive, it is a single page without a conclusion: on a certain night, an unidentified object fell into the sea, and the search found nothing.
 
-## Sources and evidence
-
 The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Shag Harbour UFO incident” and S2 is “Wikipedia · Shag Harbour, Nova Scotia”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Limits of the record
 
-For “The Light That Fell into the Sea”, the checkable coordinates are Shag Harbour, Nova Scotia, Canada, 4 October 1967, and the source-ledger entries S1 “Wikipedia · Shag Harbour UFO incident” and S2 “Wikipedia · Shag Harbour, Nova Scotia”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Light That Fell into the Sea” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Light That Fell into the Sea” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Its vitality does not lie in what the light is, but in the place where it occurs: in a quiet fishing village, police, soldiers and reporters suddenly arrived. For the first time, the villagers discovered that the sea in front of their homes might be related to national security.
@@ -86,4 +85,4 @@ After the search, the sea calmed down. The light that night left no trace, only 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. “UFO” here is the term used in the official file at the time; it does not mean an alien spacecraft. Later stories are not presented as established fact.
+**Sources and licenses**: for “The Light That Fell into the Sea”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. “UFO” here is the term used in the official file at the time; it does not mean an alien spacecraft. Later stories are not presented as established fact.

@@ -64,15 +64,12 @@ Remaining Mountain in Hangzhou is not often displayed, and the Master Wuyong Scr
 
 A painting was cut by fire and then preserved by two different people. It was not restored to its original state, but it survived.
 
-## Sources and evidence
-
-For “The Painting Cut in Two”, the factual trail runs mainly through S1–S3: S1 is “Zhejiang Provincial Department of Culture, Radio, Television and Tourism · Dwelling in the Fuchun Mountains on Display” and S2 is “Wikipedia · Dwelling in the Fuchun Mountains”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Painting Cut in Two”, the checkable coordinates are Fuchun River, Zhejiang, China; split between Hangzhou and Taipei, c. 1350 (Yuan dynasty), and the source-ledger entries S1 “Zhejiang Provincial Department of Culture, Radio, Television and Tourism · Dwelling in the Fuchun Mountains on Display” and S2 “Wikipedia · Dwelling in the Fuchun Mountains”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “The Painting Cut in Two” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Painting Cut in Two” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The inscription and postscript are the impressions, research and praise written by later people. They circulate with the painting and become part of the work. Some inscriptions and postscripts are very long, while others are only a few lines.
@@ -91,4 +88,4 @@ The length of "Dwelling in the Fuchun Mountains" is just right for this kind of 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Huang Gongwang's work, Wu Hongyu's fire, the two collections, and the 2011 reunion; the original length, the dimensions of the two halves, and their locations are recorded in the sources, and the section lost in the fire cannot be recovered.
+**Sources and licenses**: for “The Painting Cut in Two”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Huang Gongwang's work, Wu Hongyu's fire, the two collections, and the 2011 reunion; the original length, the dimensions of the two halves, and their locations are recorded in the sources, and the section lost in the fire cannot be recovered.

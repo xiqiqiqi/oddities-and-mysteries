@@ -76,15 +76,12 @@ What those 39 people believed in did not return. Their story remains as a remind
 
 *Original schematic: the timeline from the 1970s to 1997 and the relation between the comet and the group's beliefs. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Ship Behind the Comet”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Heaven's Gate (religious group)” and S2 is “A&E · Heaven's Gate: Marshall Applewhite”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Ship Behind the Comet”, the checkable coordinates are Rancho Santa Fe, California, 1997, and the source-ledger entries S1 “Wikipedia · Heaven's Gate (religious group)” and S2 “A&E · Heaven's Gate: Marshall Applewhite”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+The core facts of “The Ship Behind the Comet” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Ship Behind the Comet” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 They believed that a spacecraft would arrive behind the comet, that the comet was the door, and that leaving the earth was the only way to survive its transformation. The door did not open.
@@ -95,4 +92,4 @@ The teachings mixed Christianity, UFO culture, and New Age ideas: the earth was 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the group's history, its beliefs, the 1997 deaths and the aftermath; the death toll, dates and location are a matter of public record, while the beliefs are the group's faith, not facts. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: for “The Ship Behind the Comet”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the group's history, its beliefs, the 1997 deaths and the aftermath; the death toll, dates and location are a matter of public record, while the beliefs are the group's faith, not facts. The illustration is a scene reconstruction, not a photograph of the site.

@@ -110,4 +110,4 @@ Of the 144, one was a balloon. The rest are still in the files.
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the official statistics, the identified case, the five possible explanations and the unresolved cases; the report confirmed neither extraterrestrial technology nor a foreign breakthrough. The illustrations are an official document cover, official charts and a schematic, not photographs of an event.
+**Sources and licenses**: for “The Report Without a Conclusion”, sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the official statistics, the identified case, the five possible explanations and the unresolved cases; the report confirmed neither extraterrestrial technology nor a foreign breakthrough. The illustrations are an official document cover, official charts and a schematic, not photographs of an event.

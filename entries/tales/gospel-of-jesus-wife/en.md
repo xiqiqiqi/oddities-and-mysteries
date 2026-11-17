@@ -71,6 +71,7 @@ The fragment is only eight centimetres long, with a few lines of Coptic text. It
 The four Gospels do not mention Jesus marrying, and later church tradition holds that he did not. At most, the sentence on the scrap shows that a century or two after Jesus, some Christians were discussing whether he had a wife. That is a later argument, not a contemporary record.
 
 The scrap also exposes a problem in academic publication: when a piece of evidence touches faith, media and a university's reputation at once, caution is often overtaken by speed. The 2012 announcement, the 2014 tests and the 2016 investigation all happened in public. Scholarship needs time; the news cycle does not wait.
+
 ## 8. How to Read It
 
 The dispute has three layers. The first is textual: what do the words say, and which period do the grammar and spelling belong to? The second is material: are the papyrus and ink ancient, and why are the edges so neat? The third is provenance: where did it come from, through whose hands, and why did the owner change his account?
@@ -82,4 +83,4 @@ The fragment also became a case study in how a single object can outrun the scho
 The story is still being written.
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the fragment's text, its 2012 publication, the 2014 laboratory tests, the 2016 provenance investigation and the theological debate; the fragment's authenticity remains disputed, and most later reporting leans towards forgery. The illustration is a scene reconstruction, not a photograph of an artefact.
+**Sources and licenses**: for “The Wife of Jesus”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the fragment's text, its 2012 publication, the 2014 laboratory tests, the 2016 provenance investigation and the theological debate; the fragment's authenticity remains disputed, and most later reporting leans towards forgery. The illustration is a scene reconstruction, not a photograph of an artefact.

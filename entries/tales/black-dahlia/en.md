@@ -66,15 +66,12 @@ Elizabeth Short was twenty-two when she died. She wanted to be an actress. What 
 
 *Original schematic: the timeline of January 1947, the newspaper coverage and the main suspects. Not a photograph of the scene. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Black Dahlia”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Black Dahlia” and S2 is “HISTORY · Who Killed the Black Dahlia?”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Black Dahlia”, the checkable coordinates are Los Angeles, California, United States, 1947, and the source-ledger entries S1 “Wikipedia · Black Dahlia” and S2 “HISTORY · Who Killed the Black Dahlia?”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+The core facts of “The Black Dahlia” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Black Dahlia” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Short's life was reduced to a morality tale by newspapers. Her death was written as a performance. The case was not solved, but the name remained.
@@ -99,4 +96,4 @@ She was last seen in a Hollywood hotel before her death.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the confirmed timeline, the newspaper coverage and the various suspect theories; the case remains unsolved, and no accusation has been confirmed in court. The illustration is a scene reconstruction, not a photograph of the scene.
+**Sources and licenses**: for “The Black Dahlia”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the confirmed timeline, the newspaper coverage and the various suspect theories; the case remains unsolved, and no accusation has been confirmed in court. The illustration is a scene reconstruction, not a photograph of the scene.

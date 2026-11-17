@@ -84,4 +84,4 @@ Some places do not need an answer. They need a storyteller and a flashlight.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the geography and tree forms, the local legends, the photograph controversy and the tourist trade; the bent trees and the clearing are real, while the saucer and disappearance stories have no verifiable evidence. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: for “The Clearing in the Woods”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the geography and tree forms, the local legends, the photograph controversy and the tourist trade; the bent trees and the clearing are real, while the saucer and disappearance stories have no verifiable evidence. The illustration is a scene reconstruction, not a photograph of the site.

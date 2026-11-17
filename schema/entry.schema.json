@@ -96,11 +96,16 @@
             "pattern": "^S[0-9]+$"
           },
           "title": { "type": "string", "minLength": 1 },
+          "title_en": { "type": "string", "minLength": 1 },
           "publisher": { "type": "string", "minLength": 1 },
+          "publisher_en": { "type": "string", "minLength": 1 },
           "url": { "type": "string", "format": "uri" },
           "year": { "type": "string", "minLength": 1 },
+          "year_en": { "type": "string", "minLength": 1 },
           "license": { "type": "string", "minLength": 1 },
-          "usage": { "type": "string", "minLength": 1 }
+          "license_en": { "type": "string", "minLength": 1 },
+          "usage": { "type": "string", "minLength": 1 },
+          "usage_en": { "type": "string", "minLength": 1 }
         }
       }
     },

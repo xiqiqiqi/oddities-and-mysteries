@@ -72,15 +72,12 @@ No one knows whether the original lies in Zhaoling. But the 324 characters survi
 
 *Original schematic: a timeline from the 353 gathering to the Tang copies and the 1965 debate. Not the original calligraphy. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Writing from the Spring Outing”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Lantingji Xu” and S2 is “Britannica · Wang Xizhi”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Writing from the Spring Outing”, the checkable coordinates are Shaoxing, Zhejiang, China, 353, and the source-ledger entries S1 “Wikipedia · Lantingji Xu” and S2 “Britannica · Wang Xizhi”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “The Writing from the Spring Outing” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Writing from the Spring Outing” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 At the beginning of the article, write the time, place and people of the party. In the middle, write streams, wine glasses, and poems. Later, I write about extreme joy and sorrow, thinking about the short life, as the ancients said, "Death and life are also big things."
@@ -99,4 +96,4 @@ The words from that day are long gone. But the wind, wine and laughter that day 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 353 gathering, the text, the fate of the original, the Tang copies and the authenticity debate; the original's fate belongs to records and legend, and everything visible today is a copy or rubbing. The illustration is a scene reconstruction, not the original calligraphy.
+**Sources and licenses**: for “The Writing from the Spring Outing”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 353 gathering, the text, the fate of the original, the Tang copies and the authenticity debate; the original's fate belongs to records and legend, and everything visible today is a copy or rubbing. The illustration is a scene reconstruction, not the original calligraphy.

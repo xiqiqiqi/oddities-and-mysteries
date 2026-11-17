@@ -36,10 +36,6 @@ The stone was a war trophy of Napoleon's expedition and was later taken by Brita
 
 Today the stone's text has been fully translated, while scholars still study the decree's administrative details, the stone's manufacture, and the provenance of the fragment. CT and 3D scanning make the internal structure and surface cuts clearer, and replicas let more visitors see it. 'Rosetta Stone' has also become a general metaphor for anything that provides a key comparison and opens an unknown field. The metaphor is convenient but tends to obscure the fact that the stone supplied only a limited parallel text; actual decipherment depended on generations of papyrus, inscription, and grammar research.
 
-## Sources and evidence
-
-For “The Rosetta Stone: Three Scripts and a Key”, the factual trail runs mainly through S1–S3: S1 is “The Rosetta Stone” and S2 is “The Rosetta Stone”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 The cover is an AI-assisted reconstruction of “The Rosetta Stone: Three Scripts and a Key”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
@@ -52,4 +48,4 @@ The discovery, transfer, and early decipherment of the stone are well documented
 
 ---
 
-**Sources and licenses**: the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: for “The Rosetta Stone: Three Scripts and a Key”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.

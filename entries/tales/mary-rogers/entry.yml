@@ -23,6 +23,7 @@ sources:
     url: https://www.smithsonianmag.com/history/edgar-allan-poe-tried-and-failed-to-crack-the-mysterious-murder-case-of-mary-rogers-7493607/
     year: "2013"
     license: Smithsonian 网站使用条款；仅作事实参考
+    license_en: "Website terms of use"
     usage: 失踪与发现经过、报纸报道、佩恩之死、洛斯临终供述、坡的小说
   - id: S2
     title: "Wikipedia · Mary Rogers"
@@ -33,10 +34,13 @@ sources:
     usage: 人物背景、时间线、地点与案件后续
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面雪茄店场景复原、案件关系示意；不是历史照片
 cover: ../../../assets/covers/mary-rogers.jpg
 related:

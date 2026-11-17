@@ -58,8 +58,6 @@ No body, no capture, no reliable photograph. What remains is a stack of newspape
 
 He may have been one man. He may have been several. He may have been a story told too many times.
 
-## Sources and evidence
-
 The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Spring-heeled Jack” and S2 is “Wikipedia · Penny dreadful”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Editorial note
@@ -74,10 +72,10 @@ The Spring-heeled Jack file is further complicated by the way later memoirs reus
 
 ## Limits of the record
 
-For “Spring-Heeled Jack”, the checkable coordinates are London and elsewhere in Britain, 1837–1904, and the source-ledger entries S1 “Wikipedia · Spring-heeled Jack” and S2 “Wikipedia · Penny dreadful”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“Spring-Heeled Jack” comes mainly from legend, oral tradition, or urban narrative in London and elsewhere in Britain; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“Spring-Heeled Jack” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: for “Spring-Heeled Jack”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.

@@ -62,15 +62,12 @@ lang: zh
 
 2017 年的 DNA 结果没有让故事消失。它只是把故事从“未知的灵长类”推回了“我们认识的熊”。在雪山里，一只站起来的棕熊，隔着一百米看，确实可以像一个高大的影子。
 
-## 来源与证据
-
-关于「雪线以上的脚印」，本条目的事实线索主要来自来源台账 S1–S3，其中 S1 为《Wikipedia · Yeti》，S2 为《Proceedings B · Evolutionary history of enigmatic bears in the Tibetan Plateau–Himalaya region and the identity of the yeti》。正文中的年代、地点与人物按这些来源的最低共识处理；图像说明与许可逐条列在条目底部。
-
 ## 档案空白
 
-关于「雪线以上的脚印」，可核对的坐标是尼泊尔、中国西藏、喜马拉雅、传说，以及来源台账中的 S1《Wikipedia · Yeti》与 S2《Proceedings B · Evolutionary history of enigmatic bears in the Tibetan Plateau–Himalaya region and the identity of the yeti》。目击者的记忆、影像与实物证据之间仍有缺口；传说层越丰富，越需要把“有人这样说”与“确实发生过”分开。
+「雪线以上的脚印」的材料主要来自尼泊尔、中国西藏、喜马拉雅的传说、口述传统或都市叙事；本文记录它如何被讲述，不把故事本身当作已发生的事实。
 
 条目目前标记为“folklore”；这个标签描述的是当前证据状态，不是对题材真伪的终审。
+
 ## 档案补记
 
 一些寺庙保存着所谓的“雪人头皮”“雪人手骨”和毛发。朝圣者和登山者会把它们拿给访客看，说这是祖辈传下来的。

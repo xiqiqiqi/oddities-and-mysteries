@@ -64,15 +64,12 @@ The Antiquities Museum at the Bibliotheca Alexandrina has a collection of object
 
 A building made to guide ships ended up sinking into the harbour it once guarded.
 
-## Sources and evidence
-
-For “The Lighthouse That Sank”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Lighthouse of Alexandria” and S2 is “Underwater archaeology · Alexandria (Egypt)”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Lighthouse That Sank”, the checkable coordinates are Alexandria, Egypt, c. 280 BCE, and the source-ledger entries S1 “Wikipedia · Lighthouse of Alexandria” and S2 “Underwater archaeology · Alexandria (Egypt)”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+The core facts of “The Lighthouse That Sank” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Lighthouse That Sank” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Some stones have inscriptions on them, and some have carvings. They cannot put the entire tower back together, but they can prove its existence.
@@ -89,4 +86,4 @@ The memory of a lighthouse is longer than its stones. The wind on the seaside, s
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the construction record, the ancient accounts, the earthquake damage, and the underwater survey; the exact height and the mirror mechanism are described differently in the ancient sources.
+**Sources and licenses**: for “The Lighthouse That Sank”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the construction record, the ancient accounts, the earthquake damage, and the underwater survey; the exact height and the mirror mechanism are described differently in the ancient sources.

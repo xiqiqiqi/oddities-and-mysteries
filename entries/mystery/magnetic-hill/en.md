@@ -68,15 +68,12 @@ It is not an unsolved mystery. It is more like a public visual experiment: which
 
 If you go to test it yourself, bring three things: a spirit level, a ball, and a blindfold. The level measures the slope, the ball shows which way “uphill” water runs, and the blindfold removes the tilted references in the landscape. Put the three together and the illusion falls apart.
 
-## Sources and evidence
-
-For “The Hill That Pulls Cars Uphill”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Magnetic Hill (Moncton)” and S2 is “Wikipedia · Gravity hill”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Hill That Pulls Cars Uphill”, the checkable coordinates are Moncton, New Brunswick, Canada, a visitor attraction since the 20th century, and the source-ledger entries S1 “Wikipedia · Magnetic Hill (Moncton)” and S2 “Wikipedia · Gravity hill”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Hill That Pulls Cars Uphill” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Hill That Pulls Cars Uphill” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 There are signs on the roadside that say "Experience Gravity Abnormality", and some even sell certificates and souvenirs. Tourists lined up to stop the car, watch it "walk on its own", and then take photos. No one really believed there was magnetite there, but everyone was willing to play it once.
@@ -85,4 +82,4 @@ Physics has not disappeared, it has just been packaged into games. An optical il
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the visitor experience, the visual explanation, and the name “magnetic”; there is no detectable magnetic anomaly at the site.
+**Sources and licenses**: for “The Hill That Pulls Cars Uphill”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the visitor experience, the visual explanation, and the name “magnetic”; there is no detectable magnetic anomaly at the site.

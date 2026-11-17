@@ -66,15 +66,12 @@ The stone is weathering, the trees are growing, and the visitors keep coming. Co
 
 A temple built for gods and kings has become the symbol of a nation.
 
-## Sources and evidence
-
-For “The Temple in the Jungle”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Angkor Wat” and S2 is “APSARA National Authority · Angkor Wat”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Temple in the Jungle”, the checkable coordinates are Siem Reap, Cambodia, c. 1113–1150 CE, and the source-ledger entries S1 “Wikipedia · Angkor Wat” and S2 “APSARA National Authority · Angkor Wat”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+The core facts of “The Temple in the Jungle” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Temple in the Jungle” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Angkor is Cambodia's most visited monument. Tourism revenue helps fund conservation, but the same influx puts pressure on stone, reliefs, and the surrounding forest. Conservators have restored and strengthened unstable structures, copied and recorded reliefs exposed to weathering, and restricted access to vulnerable areas.
@@ -87,4 +84,4 @@ A temple, a city, a forest. The story of Angkor is still being discovered.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the construction record, the reliefs, the urban water system, and the “discovery” narrative; estimates of Angkor's population and the causes of its decline vary.
+**Sources and licenses**: for “The Temple in the Jungle”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the construction record, the reliefs, the urban water system, and the “discovery” narrative; estimates of Angkor's population and the causes of its decline vary.

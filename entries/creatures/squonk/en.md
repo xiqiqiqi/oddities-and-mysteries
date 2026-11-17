@@ -68,19 +68,16 @@ In a world where every monster wants to eat you, a creature that cries itself aw
 
 *Original schematic: the folklore elements, Cox's 1910 record and the later popular culture. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Creature That Cried Itself Away”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Squonk” and S2 is “OutdoorHub · Squonk: The Legend of Pennsylvania”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Squonk is a literary and lumber-camp invention more than a field report; its archive is the published tall tale, the song, and the later children's book, not a record of a captured animal.
 
 ## Limits of the record
 
-For “The Creature That Cried Itself Away”, the checkable coordinates are Pennsylvania, United States, 1910, and the source-ledger entries S1 “Wikipedia · Squonk” and S2 “OutdoorHub · Squonk: The Legend of Pennsylvania”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“The Creature That Cried Itself Away” comes mainly from legend, oral tradition, or urban narrative in Pennsylvania, United States; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Creature That Cried Itself Away” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Skonk's story has no ending. It cries, it melts, it disappears. The next time someone walks into the woods, it will still be there. A monster that only disappears is the hardest to drive away completely.
@@ -93,4 +90,4 @@ Skonk's story was later written into a children's book. It stopped crying and tu
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the lumberjack folklore, the 1910 written record and later popular culture; the Squonk is a folkloric creature with no physical evidence. The illustration is a scene reconstruction, not a photograph of a site.
+**Sources and licenses**: for “The Creature That Cried Itself Away”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the lumberjack folklore, the 1910 written record and later popular culture; the Squonk is a folkloric creature with no physical evidence. The illustration is a scene reconstruction, not a photograph of a site.

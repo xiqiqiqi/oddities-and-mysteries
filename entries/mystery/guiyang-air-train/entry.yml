@@ -19,25 +19,37 @@ credibility: disputed
 sources:
   - id: S1
     title: "CCTV《走近科学》· 贵阳空中怪车"
+    title_en: "CCTV · Approaching Science: The Guiyang Air Train"
     publisher: 中央电视台
+    publisher_en: "China Central Television (CCTV)"
     url: http://www.cntv.cn/program/zoujinkexue/topic/science/C14443/20050728/101750.shtml
     year: "2005"
     license: 版权归中央电视台；仅作事实参考
+    license_en: "© CCTV; citation only"
     usage: 林场与车辆厂的破坏、目击与调查
+    usage_en: "Damage at the forest farm and vehicle plant, witness accounts, and investigation"
   - id: S2
     title: "中国新闻网 · UFO 突袭贵阳森林？专家还原事件真相"
+    title_en: "China News Service · UFO over the Guiyang forest? Experts reconstruct the incident"
     publisher: 中国新闻网
+    publisher_en: "China News Service"
     url: https://www.chinanews.com.cn/cul/news/2009/03-10/1596442.shtml
     year: "2009"
     license: 版权归中国新闻网；仅作事实参考
+    license_en: "© China News Service; citation only"
     usage: 欧阳自远的下击暴流解释与气象条件
+    usage_en: "Ouyang Zhiyuan's downburst explanation and the meteorological conditions"
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "AI-assisted reconstruction and original diagrams"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面夜间林场与厂房场景复原、破坏带示意；不是现场照片
+    usage_en: "Night reconstruction of the forest farm and plant, plus a damage-path diagram; not a site photograph"
 cover: ../../../assets/covers/guiyang-air-train.jpg
 related:
   - paulding-light

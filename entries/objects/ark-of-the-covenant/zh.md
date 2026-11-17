@@ -66,15 +66,12 @@ lang: zh
 
 *原创示意图：约柜的构造、非利士人夺取、巴比伦毁灭与埃塞俄比亚传统。不是文物照片。稀奇奇编辑部，CC BY-SA 4.0。*
 
-## 来源与证据
-
-关于「金皮木箱」，本条目的事实线索主要来自来源台账 S1–S3，其中 S1 为《Wikipedia · Ark of the Covenant》，S2 为《National Geographic · What happened to the Ark of the Covenant?》。正文中的年代、地点与人物按这些来源的最低共识处理；图像说明与许可逐条列在条目底部。
-
 ## 档案空白
 
-关于「金皮木箱」，可核对的坐标是以色列，耶路撒冷、约公元前 10 世纪，以及来源台账中的 S1《Wikipedia · Ark of the Covenant》与 S2《National Geographic · What happened to the Ark of the Covenant?》。出土层位、修复记录与成分检测之间仍有缺口；公开页面往往只给结论，不给完整检测链。
+「金皮木箱」的核心事实大体成立，但成因、规模或细节仍有争议；本文并列保留 3 条来源中的竞争解释，不把单一假说写成结论。
 
 条目目前标记为“disputed”；这个标签描述的是当前证据状态，不是对题材真伪的终审。
+
 ## 档案补记
 
 它的意义，不在木头和金子里，而在它代表的契约。

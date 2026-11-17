@@ -33,10 +33,13 @@ sources:
     usage: 东盎格利亚黑狗传说的背景与常见解释
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面场景复原与事件地点、记载对照示意；不是历史画作
   - id: S4
     title: "The Black Dog of Bungay: Religious Conflict and Supernatural Terror in a Suffolk Parish"

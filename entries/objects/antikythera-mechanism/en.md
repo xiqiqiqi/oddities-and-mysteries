@@ -36,10 +36,6 @@ In 1902 the archaeologist Valerios Stais noticed the gears; in 1959 the historia
 
 The mechanism is held in the National Archaeological Museum in Athens; the original is rarely displayed for long because of corrosion and fragility. Research teams have built interactive replicas and digital models to explain how the gears turn; these are interpretive tools, not the original. Open questions include whether it was unique or part of a series, the original appearance of the frame and pointers, how far the planetary display went, and why it sank with a cargo of statues. Later surveys of the wreck found more cargo and hull structure, but the device's 'birthplace' remains blank.
 
-## Sources and evidence
-
-For “The Antikythera Mechanism: A Clockwork Cosmos from a Shipwreck”, the factual trail runs mainly through S1–S3: S1 is “The Antikythera Mechanism” and S2 is “A Model of the Cosmos in the ancient Greek Antikythera Mechanism”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 The cover is an AI-assisted reconstruction of “The Antikythera Mechanism: A Clockwork Cosmos from a Shipwreck”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
@@ -52,4 +48,4 @@ The Antikythera Mechanism left no direct text naming its maker, place of use, or
 
 ---
 
-**Sources and licenses**: the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: for “The Antikythera Mechanism: A Clockwork Cosmos from a Shipwreck”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.

@@ -88,19 +88,16 @@ One stone became a symbol of the state because one man kept insisting there was 
 
 *Original schematic: Bian He's presentation of the jade, the return of the jade to Zhao, and the later legend of the imperial seal. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Jade in the Stone”, the factual trail runs mainly through S1–S4: S1 is “Han Feizi · Mr. He and the Jade” and S2 is “Records of the Grand Historian · Biographies of Lian Po and Lin Xiangru”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Jade in the Stone”, the checkable coordinates are Jingshan, Hubei, China, Spring and Autumn to Warring States period, and the source-ledger entries S1 “Han Feizi · Mr. He and the Jade” and S2 “Records of the Grand Historian · Biographies of Lian Po and Lin Xiangru”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “The Jade in the Stone” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Jade in the Stone” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Lin Xiangru's bravery and resourcefulness allowed He Shibi to return to Zhao. But the authenticity of this story is disputed by historians. It could be a diplomatic story, it didn't necessarily happen.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the Han Feizi story of the presentation, the Records of the Grand Historian account of the return to Zhao, and the later legend of the imperial seal; the He Shi Bi itself has not survived, and the claim that the seal was made from it is a widespread tradition, not something stated clearly in the earliest sources. The illustration is a scene reconstruction, not a photograph of the object.
+**Sources and licenses**: for “The Jade in the Stone”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the Han Feizi story of the presentation, the Records of the Grand Historian account of the return to Zhao, and the later legend of the imperial seal; the He Shi Bi itself has not survived, and the claim that the seal was made from it is a widespread tradition, not something stated clearly in the earliest sources. The illustration is a scene reconstruction, not a photograph of the object.

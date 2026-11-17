@@ -62,19 +62,16 @@ Blue jets are now part of atmospheric electricity research. The question is no l
 
 They do not change the weather, they do not reach the ground, and they do not hit cities the way they do in films. They are a brief signature left by a thunderstorm high above, a reminder that another discharge system is running above the cloud tops.
 
-## Sources and evidence
-
-For “Blue Lightning Above the Clouds”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Blue jet” and S2 is “Wikipedia · Upper-atmospheric lightning”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 Blue-jet observations sit between aviation reports, satellite instruments, and atmospheric physics; the same event can appear as a pilot's description, a camera frame, and a model, and none of these is complete on its own.
 
 ## Limits of the record
 
-For “Blue Lightning Above the Clouds”, the checkable coordinates are above thunderstorms worldwide, first clearly recorded in 1994, and the source-ledger entries S1 “Wikipedia · Blue jet” and S2 “Wikipedia · Upper-atmospheric lightning”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “Blue Lightning Above the Clouds” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“Blue Lightning Above the Clouds” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Ordinary planes cannot fly there, satellite transit time is limited, and ground cameras will be blocked by clouds and rain. Capturing it requires a low-light camera, a telephoto lens, precise timing and a bit of luck.
@@ -83,4 +80,4 @@ That's why there are so few photos of it. It’s not that it doesn’t exist, bu
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates confirmed observational features from the formation mechanism that is still being studied.
+**Sources and licenses**: for “Blue Lightning Above the Clouds”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates confirmed observational features from the formation mechanism that is still being studied.

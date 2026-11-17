@@ -30,13 +30,17 @@ sources:
     url: https://www2.kokugakuin.ac.jp/ijcc/wp/bts/bts_s.html
     year: "2026"
     license: 版权归 Kokugakuin University；仅作事实参考
+    license_en: "© Kokugakuin University; citation only"
     usage: 三神器的神道定义、镜与剑的供奉地、皇居中的剑镜复制品
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面漆匣与勾玉场景复原、神话与流传时间线；不是文物照片
 cover: ../../../assets/covers/yasakani-no-magatama.jpg
 related:

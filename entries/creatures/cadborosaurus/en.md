@@ -70,15 +70,12 @@ The name survives in books, on websites, and in the coastal legends of Vancouver
 
 The sea is large enough to hold many stories. Caddy is one of them.
 
-## Sources and evidence
-
-For “The Long Neck in the Sea”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Cadborosaurus” and S2 is “Enigma Atlas · Cadborosaurus”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Long Neck in the Sea”, the checkable coordinates are Cadboro Bay, British Columbia, Canada, Since the 1930s, and the source-ledger entries S1 “Wikipedia · Cadborosaurus” and S2 “Enigma Atlas · Cadborosaurus”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“The Long Neck in the Sea” comes mainly from legend, oral tradition, or urban narrative in Cadboro Bay, British Columbia, Canada; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Long Neck in the Sea” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Finally, most reports of Caddy lack detailed coordinates and weather records, making it hard for later scholars to revisit sites or exclude familiar explanations such as seals, seaweed, or wave action. The coarse nature of the evidence is itself part of the story.
@@ -95,4 +92,4 @@ Caddy never entered the scientific literature, but it entered place names and to
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the sighting descriptions, the 1937 carcass, the naming, and the possible explanations; the Naden Harbour carcass was identified by the museum as a fetal baleen whale, and there is no reliable specimen or photograph of Caddy.
+**Sources and licenses**: for “The Long Neck in the Sea”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the sighting descriptions, the 1937 carcass, the naming, and the possible explanations; the Naden Harbour carcass was identified by the museum as a fetal baleen whale, and there is no reliable specimen or photograph of Caddy.

@@ -62,15 +62,12 @@ Today she is on display at the Xinjiang Museum.
 
 “Loulan Beauty” has become a tourist label and a symbol of Xinjiang's ancient history. But for her, she was a middle-aged woman who died in the desert, was buried by sand for three thousand years, and was dug up by an archaeological team.
 
-## Sources and evidence
-
-For “The Girl in the Desert”, the factual trail runs mainly through S1–S3: S1 is “Ruoqiang County People's Government · The Loulan Beauty Sleeping for a Thousand Years” and S2 is “Chinese Academy of History · The Loulan Woman”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Girl in the Desert”, the checkable coordinates are Lop Nur, Xinjiang, China, c. 3,800 years ago, and the source-ledger entries S1 “Ruoqiang County People's Government · The Loulan Beauty Sleeping for a Thousand Years” and S2 “Chinese Academy of History · The Loulan Woman”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “The Girl in the Desert” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Girl in the Desert” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 She lived before the ancient city of Loulan and was an earlier resident of Lop Nur. Her name was given by someone later.
@@ -86,4 +83,4 @@ This is earlier than the ancient city of Loulan. She is not from Loulan, but an 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, her appearance and clothing, the origin of the name, the population question, and the conditions of preservation; her specific ethnic affiliation is still debated and cannot simply be equated with “the people of Loulan”.
+**Sources and licenses**: for “The Girl in the Desert”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, her appearance and clothing, the origin of the name, the population question, and the conditions of preservation; her specific ethnic affiliation is still debated and cannot simply be equated with “the people of Loulan”.

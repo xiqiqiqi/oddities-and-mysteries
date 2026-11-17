@@ -30,9 +30,11 @@ sources:
     url: https://www.spookyisles.com/each-uisge-water-horse-legend/
     year: "2026"
     license: 版权归 Spooky Isles；仅作事实参考
+    license_en: "© Spooky Isles; citation only"
     usage: 湖泊与海湖栖息地、变形为人、黄昏警告
   - id: S3
     title: "Eachuisge（传说形象插画）"
+    title_en: "Eachuisge (legend illustration)"
     publisher: Liza Phoenix / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Eachuisge.jpg
     year: "2006"
@@ -40,13 +42,16 @@ sources:
     usage: 据传说绘制的 each-uisge 形象，不是目击记录
   - id: S4
     title: "The Kelpie（德雷珀油画）"
+    title_en: "The Kelpie (Draper oil painting)"
     publisher: Herbert James Draper / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Thekelpie_large.jpg
     year: "1913"
     license: 公有领域
+    license_en: "Public domain"
     usage: 凯尔派的绘画形象，用于区分凯尔派与水马
   - id: S5
     title: "Gleann Afraig（高地地貌照片）"
+    title_en: "Gleann Afraig (Highland landscape photograph)"
     publisher: Each-uisge / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Gleann_Afraig.jpg
     year: "2014"
@@ -54,10 +59,13 @@ sources:
     usage: 苏格兰高地山谷与湖泊地貌
   - id: S6
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面黄昏湖岸水马场景复原、形态与传说要素示意；不是现场照片
 cover: ../../../assets/covers/each-uisge.jpg
 related:

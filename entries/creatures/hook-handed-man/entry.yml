@@ -30,13 +30,17 @@ sources:
     url: https://urbanlegendsarchive.com/the-hook/
     year: "2026"
     license: 版权归 Urban Legends Archive；仅作事实参考
+    license_en: "© Urban Legends Archive; citation only"
     usage: 故事结构、结尾意象与流传方式
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面夜间汽车与车门钩子场景复原、故事结构示意；不是现场照片
 cover: ../../../assets/covers/hook-handed-man.jpg
 related:

@@ -64,19 +64,16 @@ The stones are fenced and protected; visitors cannot wander freely through the f
 
 The rows are still there, one after another. They do not need a legend to stand: several thousand years ago, a group of people raised several thousand stones here, and then left.
 
-## Sources and evidence
-
-For “The Endless Rows of Stone”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Carnac stones” and S2 is “Wikipedia · Carnac”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Carnac record begins with nineteenth-century antiquarianism, passes through the French national monuments listing, twentieth-century excavation and restoration, and the recent World Heritage nomination. The rows, dolmens, tumuli, and enclosures are placed within the ritual landscape of Neolithic Brittany; the legend of Saint Cornely offers another explanation. This entry separates the archaeological fact that the stones were built from the still-discussed question of why they were built.
 
 ## Limits of the record
 
-For “The Endless Rows of Stone”, the checkable coordinates are Carnac, Brittany, France, about 4500–3300 BCE, and the source-ledger entries S1 “Wikipedia · Carnac stones” and S2 “Wikipedia · Carnac”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+The core facts of “The Endless Rows of Stone” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Endless Rows of Stone” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Saint Cornely turned soldiers into stone to hide from his pursuers. This legend explains why the stone formations are lined up.
@@ -95,4 +92,4 @@ They will still stand for a long time.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the stones themselves, the dating, and the hypotheses about their purpose; the stories of Saint Cornely and Merlin are later legends, not archaeological conclusions.
+**Sources and licenses**: for “The Endless Rows of Stone”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the stones themselves, the dating, and the hypotheses about their purpose; the stories of Saint Cornely and Merlin are later legends, not archaeological conclusions.

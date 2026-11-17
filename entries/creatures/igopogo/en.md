@@ -79,6 +79,7 @@ Igopogo never became an international monster. Its name stayed on the pages of l
 That local quality matters. It turns an unverifiable sighting into shared memory, and it tells later readers that people were seeing something in these waters more than a century ago. The archive does not say what it was.
 
 There is another function to a lake-monster story: it links people across generations. The nineteenth-century reporter, the twentieth-century boatman and today's phone photographer are all talking about the same water with different tools. Each generation adds a line and removes one. In the end Igopogo belongs less to a single sighting than to the lake's habit of telling stories.
+
 ## 8. Still Unconfirmed
 
 Visit Lake Simcoe today and what you will most likely see is boats, docks, fishing line and evening wind. Now and then someone raises a phone, catches a blurred patch of water, and posts it. The picture usually shows ripples, or a floating log.
@@ -87,4 +88,4 @@ That does not stop Igopogo from existing. It is no longer an animal waiting to b
 The lake keeps its own record, written in ripples rather than ink, and nobody has learned to read it.
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the newspaper record, the witnesses' descriptions and explanations such as the sturgeon; no specimen or clear photograph confirms the creature. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: for “The Hump on the Lake”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the newspaper record, the witnesses' descriptions and explanations such as the sturgeon; no specimen or clear photograph confirms the creature. The illustration is a scene reconstruction, not a photograph of the site.

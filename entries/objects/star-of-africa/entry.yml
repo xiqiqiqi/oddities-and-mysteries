@@ -26,31 +26,40 @@ sources:
     usage: 1905 年 1 月 26 日与地表经理弗雷德里克·威尔斯、3,106 克拉、蓝白色与八个表面、气泡折出牛顿环、标准银行展出八至九千人、1905 年 4 月伦敦代理、RMS Kenilworth Castle 假钻石诱饵与挂号邮件、两年未售、1907 年 8 月立法委员会 42 比 19、15 万英镑与 60% 矿税、1907 年 11 月 9 日桑德灵厄姆 66 岁生日与所罗门爵士、丘吉尔与复制品、1908 年 2 月 10 日阿舍尔、开槽四天与钢刀断裂、八个月三人每日 14 小时、巴尔弗否定晕倒说、9 颗主钻与 96 颗小钻、库利南一号 530.2 克拉 74 刻面、二号 317.4 克拉 66 刻面、三/四号胸针与加冕项链、五号心形、六/七号马眼、八号长圆、九号梨形、1661 年权杖与 1910 年改装、帝国皇冠、1980 年代 IIa 型、1992 年金禧钻石超越、南非归还呼声
   - id: S2
     title: "Cullinan diamond rough（原石照片）"
+    title_en: "Cullinan diamond rough (rough stone photograph)"
     publisher: Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Rough_cullinan_diamond.jpg
     year: "1908"
     license: 公有领域
+    license_en: "Public domain"
     usage: 库利南原石历史照片
   - id: S3
     title: "Cullinan major diamonds（九颗主钻照片）"
+    title_en: "Cullinan major diamonds (nine principal diamonds photograph)"
     publisher: Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Cullinan_major_diamonds.jpg
     year: "1908"
     license: 公有领域
+    license_en: "Public domain"
     usage: 九颗主钻历史照片
   - id: S4
     title: "Sovereign's Sceptre with Cross（权杖画作）"
+    title_en: "Sovereign's Sceptre with Cross (sceptre painting)"
     publisher: Cyril James Humphries Davenport / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Sovereign%27s_Sceptre_with_Cross.png
     year: "1919"
     license: 公有领域
+    license_en: "Public domain"
     usage: 镶有库利南一号的君主权杖
   - id: S5
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面切割作坊场景复原、切割方案与权杖示意；不是历史照片
   - id: S6
     title: "The Cullinan Diamond"
@@ -58,6 +67,7 @@ sources:
     url: https://www.rct.uk/collection/stories/the-crown-jewels/the-cullinan-diamond
     year: "2026"
     license: "皇家收藏基金会页面；引用与事实核对"
+    license_en: "Citation and factual cross-check"
     usage: 库里南钻石的发现、切磨与库里南一号
 cover: ../../../assets/covers/star-of-africa.jpg
 related:

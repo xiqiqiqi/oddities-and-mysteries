@@ -30,13 +30,17 @@ sources:
     url: https://www.atlasobscura.com/places/hoia-baciu-forest
     year: "2026"
     license: 版权归 Atlas Obscura；仅作事实参考
+    license_en: "© Atlas Obscura; citation only"
     usage: 空地、弯曲树木、旅游现状与传闻背景
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面夜森林场景复原、空地平面与事件时间线；不是现场照片
 cover: ../../../assets/covers/hoia-baciu.jpg
 related:

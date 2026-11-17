@@ -31,13 +31,17 @@ sources:
     url: https://www.bbc.co.uk/
     year: "2026"
     license: BBC 网站使用条款
+    license_en: "Website terms of use"
     usage: 当地报道与背景核对；具体文章待补
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面场景复原与低频波形示意图；不是历史照片
 cover: ../../../assets/covers/bristol-hum.jpg
 related:

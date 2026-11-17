@@ -29,6 +29,7 @@ sources:
     url: https://www.rapanuinationalpark.com/en/
     year: "2026"
     license: 版权归 Parque Nacional Rapa Nui；仅作事实参考
+    license_en: "© Parque Nacional Rapa Nui; citation only"
     usage: 国家公园管理、社区共管、游客规范与遗址保护
   - id: S2
     title: "UNESCO World Heritage · Rapa Nui National Park"
@@ -36,12 +37,16 @@ sources:
     url: https://whc.unesco.org/en/list/715/
     year: "2026"
     license: 版权归 UNESCO；仅作事实参考
+    license_en: "© UNESCO; citation only"
     usage: 拉帕努伊国家公园的世界遗产地位、遗址保护与管理背景
   - id: S3
     title: "场景复原插图与原创示意图"
+    title_en: "Scene reconstruction and original diagram"
     publisher: "稀奇奇编辑部（AI 辅助生成）"
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: "https://xiqiqi.com/"
     year: "2026"
     license: "CC BY-SA 4.0；不含第三方版权素材"
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: "封面与两张原创示意图；不是历史照片或测绘图"
 cover: ../../../assets/covers/rapa-nui.jpg

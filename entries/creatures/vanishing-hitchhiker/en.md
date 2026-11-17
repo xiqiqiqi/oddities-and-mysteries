@@ -127,4 +127,4 @@ The back seat is empty. The story is still there.
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S4 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the story versions, the folklore records, the specific place and the sceptical investigations; the vanishing hitchhiker is an urban legend, with no verifiable ghost. The illustrations are a site photograph, a reconstruction and a schematic, not ghost photographs.
+**Sources and licenses**: for “The Hitchhiker at the Roadside”, sources are listed in the ledger S1–S4 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the story versions, the folklore records, the specific place and the sceptical investigations; the vanishing hitchhiker is an urban legend, with no verifiable ghost. The illustrations are a site photograph, a reconstruction and a schematic, not ghost photographs.

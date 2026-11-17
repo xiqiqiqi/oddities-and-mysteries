@@ -100,4 +100,4 @@ Only the old people still tell the story: the sky split open, the fire came from
 
 ---
 
-**Sources and licenses**: the factual sources, historical photographs, and original diagrams are listed in the source ledger S1–S8 at the bottom of this entry. Text, original maps, and reconstruction illustrations are licensed under CC BY-SA 4.0. Reconstruction illustrations are not historical photographs and should not be treated as evidence.
+**Sources and licenses**: for “That Morning, the Sky Split Open”, the factual sources, historical photographs, and original diagrams are listed in the source ledger S1–S8 at the bottom of this entry. Text, original maps, and reconstruction illustrations are licensed under CC BY-SA 4.0. Reconstruction illustrations are not historical photographs and should not be treated as evidence.

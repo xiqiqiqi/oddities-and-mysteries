@@ -30,16 +30,20 @@ sources:
     url: http://www.closedpubs.thesharegallery.co.uk/yorkshire/thirsk_busbystoop.html
     year: "2026"
     license: 版权归 The Share Gallery；仅作事实参考
+    license_en: "© The Share Gallery; citation only"
     usage: 桑达顿路口、A61 与 A167 交叉口、酒馆位置与停业后用途
   - id: S3
     title: "Busby Stoop Chair: 138 years too young（时间线整理）"
+    title_en: "Busby Stoop Chair: 138 years too young (timeline compilation)"
     publisher: Enigma Atlas
     url: https://enigmaatlas.com/haunted-places/busby-s-stoop-chair
     year: "2026"
     license: 版权归原作者；仅作事实参考
+    license_en: "© Enigma Atlas; citation only"
     usage: 1703 年索雷斯比日记引文、1821 年《瑟斯克史》、1859 年格兰奇《莫布雷谷》、1894 年扫烟囱者与自杀结论、1943 年第 433 中队、2014 年《北方回声报》采访与鲍伊特断代、2013 年酒馆停业
   - id: S4
     title: "The Busby Stoop（酒馆旧址照片）"
+    title_en: "The Busby Stoop (former pub site photograph)"
     publisher: David Rogers / Wikimedia Commons（geograph.org.uk 851351）
     url: https://commons.wikimedia.org/wiki/File:The_Busby_Stoop_-_geograph.org.uk_-_851351.jpg
     year: "2008"
@@ -47,6 +51,7 @@ sources:
     usage: 桑达顿路口酒馆旧址的现场照片
   - id: S5
     title: "Sign for the Busby Stoop（酒馆招牌照片）"
+    title_en: "Sign for the Busby Stoop (pub sign photograph)"
     publisher: Maigheach-gheal / Wikimedia Commons（geograph.org.uk 2147526）
     url: https://commons.wikimedia.org/wiki/File:Sign_for_the_Busby_Stoop_-_geograph.org.uk_-_2147526.jpg
     year: "2010"
@@ -54,6 +59,7 @@ sources:
     usage: 路口老酒馆招牌，牌面画有温莎扶手椅
   - id: S6
     title: "Thirsk Museum, Kirkgate（博物馆馆舍照片）"
+    title_en: "Thirsk Museum, Kirkgate (museum building photograph)"
     publisher: Mike Kirby / Wikimedia Commons（geograph.org.uk 4221710）
     url: https://commons.wikimedia.org/wiki/File:Thirsk_Museum,_Kirkgate_%5E1_-_geograph.org.uk_-_4221710.jpg
     year: "2014"
@@ -61,10 +67,13 @@ sources:
     usage: 瑟斯克博物馆在柯克盖特街的馆舍外观
   - id: S7
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 椅子在博物馆吊挂展示的场景复原、时间线与传说传播示意；不是文物照片
 cover: ../../../assets/covers/busby-chair.jpg
 related:

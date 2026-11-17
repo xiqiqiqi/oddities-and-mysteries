@@ -76,4 +76,4 @@ Nobody sees the green-haired beast any more. The terracotta figure from the ditc
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the medieval local legend, the sixteenth-century "ewes" joke, the nineteenth-century rewrite and Borges's borrowed name; the legend has local histories and images behind it, the beast has no physical evidence. The reconstruction is not a historical photograph.
+**Sources and licenses**: for “The Hairy One of the Huisne”, sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the medieval local legend, the sixteenth-century "ewes" joke, the nineteenth-century rewrite and Borges's borrowed name; the legend has local histories and images behind it, the beast has no physical evidence. The reconstruction is not a historical photograph.

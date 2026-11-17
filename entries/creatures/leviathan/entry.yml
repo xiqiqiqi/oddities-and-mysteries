@@ -30,13 +30,17 @@ sources:
     url: https://www.britannica.com/topic/Leviathan-monster
     year: "2026"
     license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    license_en: "© Encyclopaedia Britannica; citation only"
     usage: 古代近东海怪传统与文本解释
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面海兽场景复原、文本对照与形象演变示意；不是文物照片
 cover: ../../../assets/covers/leviathan.jpg
 related:

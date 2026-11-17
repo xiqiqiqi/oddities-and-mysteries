@@ -34,10 +34,13 @@ sources:
     usage: 卡纳克位置、布列塔尼环境与遗址保护
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面场景复原与石阵排列示意；不是现场照片
   - id: S4
     title: "The Carnac alignments: a spectacular landscape"
@@ -45,6 +48,7 @@ sources:
     url: https://www.menhirs-carnac.fr/en/content/download/9853053/file/ALIGNEMENTS%20CARNAC_EN_web.pdf?version=14&inLanguage=eng-GB
     year: "2026"
     license: "法国官方遗址资料；引用与事实核对"
+    license_en: "Citation and factual cross-check"
     usage: 卡纳克石阵的新石器时代背景、保护史与传说
 cover: ../../../assets/covers/carnac-stones.jpg
 related:

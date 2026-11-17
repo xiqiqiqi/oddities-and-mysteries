@@ -33,10 +33,13 @@ sources:
     usage: 纸莎草别墅、碳化卷轴与阅读尝试
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面场景复原与遗址剖面示意；不是现场照片
   - id: S4
     title: "Archaeological Areas of Pompeii, Herculaneum and Torre Annunziata"
@@ -44,6 +47,7 @@ sources:
     url: https://www.patrimoniounesco.it/directory-tangibili/listing/aree-archeologiche-di-pompei-ercolano-e-torre-annunziata-teatro-di-ercolano/
     year: "2026"
     license: "官方世界遗产名录；引用与事实核对"
+    license_en: "Citation and factual cross-check"
     usage: 赫库兰尼姆作为世界遗产的范围与编号
 cover: ../../../assets/covers/herculaneum.jpg
 related:

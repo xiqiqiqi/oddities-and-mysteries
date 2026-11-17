@@ -74,15 +74,12 @@ Visitors can drive to the area on designated roads, but they must not drive onto
 
 The stones are still there. Most of the time they do not move. In the right few days of winter, they travel a short distance, slowly.
 
-## Sources and evidence
-
-For “The Stones That Walk”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Sailing stones” and S2 is “National Park Service · Death Valley National Park / Racetrack Playa”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Stones That Walk”, the checkable coordinates are Racetrack Playa, Death Valley, California, USA, studied 1915–2014; mechanism observed in 2014, and the source-ledger entries S1 “Wikipedia · Sailing stones” and S2 “National Park Service · Death Valley National Park / Racetrack Playa”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Stones That Walk” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Stones That Walk” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The conditions for stone movement are very narrow: it needs to rain first to form shallow water; it needs to freeze at night; it needs to melt during the day; and it needs wind. Researchers waited a long time for a complete record.
@@ -91,4 +88,4 @@ Previous observers saw only the trajectory, not the movement. The trajectory is 
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The movement mechanism at the Racetrack has direct observational support; this article separates earlier guesses from the 2014 observations.
+**Sources and licenses**: for “The Stones That Walk”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The movement mechanism at the Racetrack has direct observational support; this article separates earlier guesses from the 2014 observations.

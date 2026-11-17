@@ -90,4 +90,4 @@ The púca has not disappeared. It has changed shape again: from a black horse on
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S5 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart Irish folklore, etymology, local variants and modern popular culture; the púca is a folk creature with no physical evidence. The illustrations are a historical print, a reconstruction and a schematic, not site photographs.
+**Sources and licenses**: for “The Black Horse”, sources are listed in the ledger S1–S5 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart Irish folklore, etymology, local variants and modern popular culture; the púca is a folk creature with no physical evidence. The illustrations are a historical print, a reconstruction and a schematic, not site photographs.

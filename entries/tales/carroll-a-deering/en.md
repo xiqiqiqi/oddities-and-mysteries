@@ -66,15 +66,12 @@ Books and articles about the case keep appearing. The theories multiply; the evi
 
 When the ship was towed off the shoal, the lifeboats, the instruments, and the eleven men were all missing. What remained was a meal in the galley and a cat with six toes.
 
-## Sources and evidence
-
-For “The Ship With No Crew”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Carroll A. Deering” and S2 is “National Park Service · The Ghost Ship of the Outer Banks”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Ship With No Crew”, the checkable coordinates are Cape Hatteras, North Carolina, United States, 1921, and the source-ledger entries S1 “Wikipedia · Carroll A. Deering” and S2 “National Park Service · The Ghost Ship of the Outer Banks”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+The core facts of “The Ship With No Crew” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Ship With No Crew” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The things on the boat are still there, but the people are gone. The wind on the Bund has blown the story for a hundred years.
@@ -104,4 +101,4 @@ The story of the ship has no ending.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the voyage record, the condition of the ship, and the various theories; the fate of the crew is unresolved, and mutiny, piracy, and smuggling remain hypotheses.
+**Sources and licenses**: for “The Ship With No Crew”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the voyage record, the condition of the ship, and the various theories; the fate of the crew is unresolved, and mutiny, piracy, and smuggling remain hypotheses.

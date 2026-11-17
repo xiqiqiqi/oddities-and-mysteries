@@ -67,6 +67,7 @@ Piltdown was not a simple fake. It was a fake that fitted too well. Its large br
 Because it met expectations, scepticism never became mainstream for long. Some noticed that the jaw and skull did not join properly; others thought the teeth wore oddly. But scattered doubts could not beat a complete story.
 
 Piltdown also shows that a forgery does not succeed through one man alone. It needs a community willing to believe: museums need exhibits, textbooks need examples, and a nation needs ancestors of its own. Dawson supplied a set of assembled bones. What kept it alive for forty years was the institutional expectation around it.
+
 ## 8. Who Was Fooled
 
 In 1953 fluorine testing exposed the assembly: the skull and jaw had such different fluorine levels that they could not come from the same individual or the same period. The skull was modern human, the jaw belonged to an ape, the teeth had been filed, and the bones had been stained dark.
@@ -78,4 +79,4 @@ The forgery also had a long afterlife in textbooks. Generations of students lear
 The lesson has not aged. It is still being relearned, slowly, unevenly, incompletely. Truly.
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, its scientific reception, the 1953 examination, and the speculation about who was responsible; the culprit is still disputed, and Dawson is the main suspect rather than the only one.
+**Sources and licenses**: for “The Ancestor That Was Assembled”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, its scientific reception, the 1953 examination, and the speculation about who was responsible; the culprit is still disputed, and Dawson is the main suspect rather than the only one.

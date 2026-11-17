@@ -118,4 +118,4 @@ Eight hundred years later, people are still arguing about where the wounds came 
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart religious tradition, individual records, the Church's position and medical explanations; stigmata have not been scientifically confirmed as supernatural, nor wholly reduced to fraud. The illustrations are historical paintings, a historical photograph, a reconstruction and a schematic, not medical images.
+**Sources and licenses**: for “The Wounds in the Hands”, sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart religious tradition, individual records, the Church's position and medical explanations; stigmata have not been scientifically confirmed as supernatural, nor wholly reduced to fraud. The illustrations are historical paintings, a historical photograph, a reconstruction and a schematic, not medical images.

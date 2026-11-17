@@ -30,6 +30,7 @@ sources:
     url: https://www.britannica.com/place/Yinxu
     year: "2026"
     license: 版权归 Encyclopaedia Britannica；仅作事实参考
+    license_en: "© Encyclopaedia Britannica; citation only"
     usage: 安阳、商代晚期都城与考古发现
   - id: S3
     title: "UNESCO · Yinxu"
@@ -37,9 +38,11 @@ sources:
     url: https://whc.unesco.org/en/list/1114/
     year: "2026"
     license: 版权归 UNESCO；仅作事实参考
+    license_en: "© UNESCO; citation only"
     usage: 世界遗产登录、甲骨文与青铜器
   - id: S4
     title: "Ancient Chinese Writing on Ox Scapula（牛肩胛骨刻辞照片）"
+    title_en: "Ancient Chinese Writing on Ox Scapula (ox scapula inscription photograph)"
     publisher: Gary Todd / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Ancient_Chinese_Writing_on_Ox_Scapula,_Shang_Dynasty_Oracle_Bone,_Yinxu,_Anyang.jpg
     year: "2011"
@@ -47,6 +50,7 @@ sources:
     usage: 殷墟出土商代牛肩胛骨上的占卜刻辞
   - id: S5
     title: "Shang Ox Bone Oracle Bones（成组甲骨照片）"
+    title_en: "Shang Ox Bone Oracle Bones (group of oracle bones photograph)"
     publisher: Gary Lee Todd / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Shang_Ox_Bone_Oracle_Bones.jpg
     year: "2009"
@@ -54,6 +58,7 @@ sources:
     usage: 成组陈列的商代甲骨，可见钻孔与灼痕
   - id: S6
     title: "Yinxu World Heritage Site, Anyang（遗址照片）"
+    title_en: "Yinxu World Heritage Site, Anyang (site photograph)"
     publisher: Gary Todd / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Yinxu_World_Heritage_Site,_Anyang_(10197708543).jpg
     year: "2008"
@@ -61,6 +66,7 @@ sources:
     usage: 殷墟王陵区遗址现场
   - id: S7
     title: "Fu Hao Tomb and Statue（妇好墓照片）"
+    title_en: "Fu Hao Tomb and Statue (Fu Hao tomb photograph)"
     publisher: Gary Todd / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Fu_Hao_Tomb_and_Statue,_c._1200_BC,_Reign_of_King_Wu_Ding,_Shang_Dynasty.jpg
     year: "2001"
@@ -68,6 +74,7 @@ sources:
     usage: 妇好墓与墓前雕像
   - id: S8
     title: "Shang Jade Phoenix, Fu Hao Tomb（玉凤照片）"
+    title_en: "Shang Jade Phoenix, Fu Hao Tomb (jade phoenix photograph)"
     publisher: Gary Todd / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Shang_Jade_Phoenix,_Fu_Hao_Tomb,_c._1200_BC.jpg
     year: "2011"
@@ -75,10 +82,13 @@ sources:
     usage: 妇好墓出土商代玉凤
   - id: S9
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 1928 年发掘现场场景复原、甲骨占卜流程与晚商时间线；不是文物照片
 cover: ../../../assets/covers/yinxu.jpg
 related:

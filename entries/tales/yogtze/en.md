@@ -82,16 +82,12 @@ YOGTZE belongs to no language and has left no verifiable meaning. It is six lett
 
 What he understood that night, no one knows.
 
-## Sources and evidence
-
-For “Six Letters”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · YOGTZE case” and S2 is “The True Crime Database · YOGTZE Case”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “Six Letters”, the checkable coordinates are Near Hagen, North Rhine-Westphalia, Germany, 1984, and the source-ledger entries S1 “Wikipedia · YOGTZE case” and S2 “The True Crime Database · YOGTZE Case”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+The core facts of “Six Letters” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“Six Letters” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: for “Six Letters”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.

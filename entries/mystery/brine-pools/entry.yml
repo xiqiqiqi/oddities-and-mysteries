@@ -34,10 +34,13 @@ sources:
     usage: 红海深部盐水池、热液与沉积背景
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面场景复原与海底盆地剖面示意；不是现场照片
   - id: S4
     title: "Investigations of Chemosynthetic Communities on the Lower Continental Slope of the Gulf of Mexico (2006)"
@@ -45,6 +48,7 @@ sources:
     url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncei:DeepSlope2006;view=iso
     year: "2006"
     license: "美国政府公开资料；引用与事实核对"
+    license_en: "Citation and factual cross-check"
     usage: 墨西哥湾深海卤水池的实地观测与生态记录
 cover: ../../../assets/covers/brine-pools.jpg
 related:

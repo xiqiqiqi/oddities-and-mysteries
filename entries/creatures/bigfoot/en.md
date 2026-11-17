@@ -36,10 +36,6 @@ Bigfoot is not only a zoological question but part of North American folk cultur
 
 Today Bigfoot supports an industry of tourism, podcasts, documentaries, and merchandise: towns have statues and festivals, organisations keep sighting databases, and enthusiasts hold annual gatherings. For participants it is adventure and community; for science it remains an unconfirmed hypothesis. The most useful attitude is neither ridicule nor credulity but a demand for evidence: where did the sample come from, who handled it, can it be repeated, and has it been independently verified? That question trains judgment better than 'does Bigfoot exist'.
 
-## Sources and evidence
-
-For “Bigfoot: Footprints, Film, and an Unconfirmed Primate”, the factual trail runs mainly through S1–S3: S1 is “Why Bigfoot Doesn't Exist” and S2 is “American Folklore Society”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 The cover is an AI-assisted reconstruction of “Bigfoot: Footprints, Film, and an Unconfirmed Primate”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
@@ -52,4 +48,4 @@ Bigfoot is not scientifically confirmed, and there is no body, skeleton, or repr
 
 ---
 
-**Sources and licenses**: the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: for “Bigfoot: Footprints, Film, and an Unconfirmed Primate”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.

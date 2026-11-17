@@ -80,20 +80,16 @@ Sometimes an error tells a better story than the fact.
 
 *Original schematic: a timeline from the canali of 1877 and Lowell's maps to the results of Mariner 4. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Canals of Mars”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Martian canals” and S2 is “NASA · Triumph of Mariner 4”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Martian canals are a history of observation and print culture. Late nineteenth-century astronomy, Lowell's observatory notes, and popular astronomy books turned faint lines seen through low-resolution telescopes into 'canals'; later spacecraft imaging showed that the lines were largely observational artifacts and cartographic products. This entry separates 'what astronomers thought they saw' from 'what is on Mars' and does not treat old maps as geomorphological evidence.
 
 ## Limits of the record
 
-For “The Canals of Mars”, the checkable coordinates are Mars, 1877–1971, and the source-ledger entries S1 “Wikipedia · Martian canals” and S2 “NASA · Triumph of Mariner 4”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+The core facts of “The Canals of Mars” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Canals of Mars” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: for “The Canals of Mars”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.

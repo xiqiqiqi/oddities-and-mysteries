@@ -30,13 +30,17 @@ sources:
     url: https://mdhistoricaltrust.wordpress.com/2025/10/31/the-snallygaster-shadows-fear/
     year: "2025"
     license: 版权归 Maryland Historical Trust；仅作事实参考
+    license_en: "© Maryland Historical Trust; citation only"
     usage: 1909 年系列报道、 Smithsonian 与罗斯福的传闻、七角星
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面 1909 年报社与夜间农场场景复原、报道传播示意；不是历史照片
 cover: ../../../assets/covers/snallygaster.jpg
 related:

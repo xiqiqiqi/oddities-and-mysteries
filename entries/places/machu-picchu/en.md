@@ -36,10 +36,6 @@ Machu Picchu was inscribed as a World Heritage Site in 1983. Twentieth-century c
 
 Around 2011 Yale University returned thousands of objects Bingham had taken to Peru and helped establish a research institution in Cusco. The return resolved part of the ownership dispute but did not end research debate: the objects' dates, functions, and find spots need rechecking, and errors in early records need correction. Machu Picchu is not a site whose file is 'finished'; its archive is still being reread.
 
-## Sources and evidence
-
-For “Machu Picchu: An Inca Estate Above the Clouds”, the factual trail runs mainly through S1–S3: S1 is “Historic Sanctuary of Machu Picchu” and S2 is “Ministerio de Cultura”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 The cover is an AI-assisted reconstruction of “Machu Picchu: An Inca Estate Above the Clouds”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
@@ -52,4 +48,4 @@ The builders, function, and abandonment of Machu Picchu remain disputed. Whether
 
 ---
 
-**Sources and licenses**: the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: for “Machu Picchu: An Inca Estate Above the Clouds”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.

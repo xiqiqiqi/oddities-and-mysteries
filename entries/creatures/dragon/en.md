@@ -72,19 +72,16 @@ In recent years some people have proposed translating the Chinese dragon as “l
 
 *Original schematic: the features of the Chinese dragon and the Western dragon compared. Not a photograph of an object. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “Two Kinds of Dragon”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Dragon” and S2 is “Britannica · Dragon”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “Two Kinds of Dragon”, the checkable coordinates are China / Europe, Since antiquity, and the source-ledger entries S1 “Wikipedia · Dragon” and S2 “Britannica · Dragon”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“Two Kinds of Dragon” comes mainly from legend, oral tradition, or urban narrative in China / Europe; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“Two Kinds of Dragon” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 “Dragon” comes from Greek *drakon*, meaning “serpent” or “guardian.” In Greek mythology, dragons guard treasure or springs; in the Bible, the dragon becomes a metaphor for Satan. The image evolves, its orientation shifting: Western dragons increasingly resemble lizards, emphasising wings and fire.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the Chinese dragon, the Western dragon, fossils and real animals; dragons are mythical creatures with no biological evidence, and “dragon bones” are fossils, not the remains of dragons. The illustration is a scene reconstruction, not a photograph of an object.
+**Sources and licenses**: for “Two Kinds of Dragon”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the Chinese dragon, the Western dragon, fossils and real animals; dragons are mythical creatures with no biological evidence, and “dragon bones” are fossils, not the remains of dragons. The illustration is a scene reconstruction, not a photograph of an object.

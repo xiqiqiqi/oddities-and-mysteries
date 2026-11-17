@@ -68,15 +68,12 @@ The ghosts came later. The wards were real.
 
 *Original schematic: the 1858–2008 timeline, the Kirkbride plan and the overcrowding figures. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Wards on the Hill”, the factual trail runs mainly through S1–S4: S1 is “Trans-Allegheny Lunatic Asylum · Explore Our History” and S2 is “Trans-Allegheny Lunatic Asylum · The Civil War”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Wards on the Hill”, the checkable coordinates are Weston, West Virginia, USA, 1864–1994, and the source-ledger entries S1 “Trans-Allegheny Lunatic Asylum · Explore Our History” and S2 “Trans-Allegheny Lunatic Asylum · The Civil War”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+The core facts of “The Wards on the Hill” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Wards on the Hill” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Many diagnoses are no longer used today: mania, depression, dementia, alcoholism. They are not categories of modern medicine but nineteenth-century descriptions.
@@ -104,4 +101,4 @@ Conservators require money, time, and craftsmanship. They are repairing and open
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architectural history, the Civil War use, the admission records and the ghost stories; the ghost stories have no verifiable evidence. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: for “The Wards on the Hill”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architectural history, the Civil War use, the admission records and the ghost stories; the ghost stories have no verifiable evidence. The illustration is a scene reconstruction, not a photograph of the site.

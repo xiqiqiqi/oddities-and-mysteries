@@ -33,17 +33,23 @@ sources:
     usage: 越王勾践的历史背景
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面场景复原与剑身结构示意；不是文物照片
   - id: S4
     title: "越王勾践剑"
+    title_en: "Sword of Goujian, King of Yue"
     publisher: "湖北省博物馆"
+    publisher_en: "Hubei Provincial Museum"
     url: https://www.hbww.org.cn/zgzb/p/4694.html
     year: "2026"
     license: "博物馆藏品页；引用与事实核对"
+    license_en: "Citation and factual cross-check"
     usage: 越王勾践剑的出土、尺寸、铭文与保存状况
 cover: ../../../assets/covers/sword-of-goujian.jpg
 related:

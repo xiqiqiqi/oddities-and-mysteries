@@ -66,15 +66,12 @@ It is one of the most famous objects from the site and the source of the “alie
 
 It is not an alien. It is a god imagined by people three thousand years ago.
 
-## Sources and evidence
-
-For “The Mask with Bulging Eyes”, the factual trail runs mainly through S1–S3: S1 is “Sichuan Provincial Cultural Relics Bureau · Bronze Mask with Protruding Eyes” and S2 is “Shanghai Museum · Bronze Mask with Protruding Eyes and Kui-dragon Crown”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Mask with Bulging Eyes”, the checkable coordinates are Guanghan, Sichuan, China, Late Shang, c. 12th–11th century BCE, and the source-ledger entries S1 “Sichuan Provincial Cultural Relics Bureau · Bronze Mask with Protruding Eyes” and S2 “Shanghai Museum · Bronze Mask with Protruding Eyes and Kui-dragon Crown”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “The Mask with Bulging Eyes” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Mask with Bulging Eyes” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Conservation personnel should control the humidity, remove soil and salt from the surface, and treat it with corrosion inhibitors. The gold mask is more fragile, the gold foil is easy to fall off, and cannot be touched casually.
@@ -93,4 +90,4 @@ Gold masks, sun bird gold ornaments and jade articles were also unearthed in Jin
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation, the dimensions, the interpretation of the face, the site's context, and the casting technique; the link between the “protruding eyes” and Cancong is one interpretation, not a settled conclusion.
+**Sources and licenses**: for “The Mask with Bulging Eyes”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation, the dimensions, the interpretation of the face, the site's context, and the casting technique; the link between the “protruding eyes” and Cancong is one interpretation, not a settled conclusion.

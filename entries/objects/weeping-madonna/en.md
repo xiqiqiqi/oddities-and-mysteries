@@ -74,4 +74,4 @@ The tears collected over four days were analysed and found to be human. Where th
 
 ---
 
-**Sources and licenses**: sources are listed in the ledger S1–S7 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the Syracuse case, the Civitavecchia dispute, the Church's procedure and the exposed hoaxes; the Syracuse tears have a laboratory record but no settled origin, and most other cases were rejected. The photographs are of the sanctuary and the image on display; the schematic is not a historical photograph.
+**Sources and licenses**: for “The Madonna Who Wept”, sources are listed in the ledger S1–S7 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the Syracuse case, the Civitavecchia dispute, the Church's procedure and the exposed hoaxes; the Syracuse tears have a laboratory record but no settled origin, and most other cases were rejected. The photographs are of the sanctuary and the image on display; the schematic is not a historical photograph.

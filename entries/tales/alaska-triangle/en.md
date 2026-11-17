@@ -66,15 +66,12 @@ But the real ledger has 1,334 names. They did not disappear inside a triangle. T
 
 *Original schematic: the triangle, the 1972 Cessna 310 route and the missing-person statistics. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Triangle's Ledger”, the factual trail runs mainly through S1–S4: S1 is “Skeptoid · The Alaska Triangle” and S2 is “Alaska Department of Public Safety · Missing Persons Clearinghouse”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Triangle's Ledger”, the checkable coordinates are Alaska, USA, From 1972, and the source-ledger entries S1 “Skeptoid · The Alaska Triangle” and S2 “Alaska Department of Public Safety · Missing Persons Clearinghouse”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+The core facts of “The Triangle's Ledger” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Triangle's Ledger” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The reasons are environment, transportation and population distribution, not "supernatural". People in remote areas are more likely to get lost, injured or killed in the wild.
@@ -113,4 +110,4 @@ It is a story of wilderness, transportation and risk.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1972 case, the triangle legend, the official statistics and the ordinary explanations; the claim of twenty thousand disappearances is not supported by the data. The illustration is a scene reconstruction, not a photograph of a site.
+**Sources and licenses**: for “The Triangle's Ledger”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1972 case, the triangle legend, the official statistics and the ordinary explanations; the claim of twenty thousand disappearances is not supported by the data. The illustration is a scene reconstruction, not a photograph of a site.

@@ -70,15 +70,12 @@ No one has found its wreck, and no one has found its registration. The story is 
 
 It is a reminder that a story repeated often enough begins to look like fact. But check the register, and it may be nothing more than a name.
 
-## Sources and evidence
-
-For “The Last Signal”, the factual trail runs mainly through S1–S3: S1 is “Skeptoid · The Death Ship SS Ourang Medan” and S2 is “Wikipedia · SS Ourang Medan”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Last Signal”, the checkable coordinates are Strait of Malacca, 1947–1948, and the source-ledger entries S1 “Skeptoid · The Death Ship SS Ourang Medan” and S2 “Wikipedia · SS Ourang Medan”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+The core facts of “The Last Signal” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Last Signal” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Some said it was pirates who killed him; some said it was poison gas; some said it was fire. There is no autopsy report.
@@ -105,4 +102,4 @@ They saw the ship drifting, bodies on the deck, and bodies in the cabins. No one
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the signal story, the rescue narrative, the missing records, and the possible explanations; there is no reliable registration or wreck record for the Ourang Medan, and the truth of the story remains in doubt.
+**Sources and licenses**: for “The Last Signal”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the signal story, the rescue narrative, the missing records, and the possible explanations; there is no reliable registration or wreck record for the Ourang Medan, and the truth of the story remains in doubt.

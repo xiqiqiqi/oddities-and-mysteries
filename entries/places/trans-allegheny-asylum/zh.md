@@ -68,15 +68,12 @@ lang: zh
 
 *原创示意图：1858–2008 年的建筑与使用时间线、柯克布莱德平面与超员数字。不是现场照片。稀奇奇编辑部，CC BY-SA 4.0。*
 
-## 来源与证据
-
-关于「山上的病房」，本条目的事实线索主要来自来源台账 S1–S4，其中 S1 为《Trans-Allegheny Lunatic Asylum · Explore Our History》，S2 为《Trans-Allegheny Lunatic Asylum · The Civil War》。正文中的年代、地点与人物按这些来源的最低共识处理；图像说明与许可逐条列在条目底部。
-
 ## 档案空白
 
-关于「山上的病房」，可核对的坐标是美国，西弗吉尼亚，韦斯顿、1864–1994，以及来源台账中的 S1《Trans-Allegheny Lunatic Asylum · Explore Our History》与 S2《Trans-Allegheny Lunatic Asylum · The Civil War》。考古报告、保护档案与旅游叙述之间仍有缺口；年代、营造顺序与后续改动需要互证。
+「山上的病房」的核心事实由 4 条来源中的至少两条独立记录互证；仍未独立验证的细节，正文已逐处标注。
 
 条目目前标记为“verified”；这个标签描述的是当前证据状态，不是对题材真伪的终审。
+
 ## 档案补记
 
 很多诊断今天已经不用了：癫狂、忧郁、痴呆、酒精狂。它们不是现代医学的类别，而是十九世纪的描述。

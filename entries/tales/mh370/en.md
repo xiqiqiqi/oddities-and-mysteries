@@ -78,15 +78,12 @@ Twelve years on, the plane has not landed. Neither has the question.
 
 *Original schematic: the 8 March 2014 timeline, the satellite handshake arc and the main search areas. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Plane That Never Landed”, the factual trail runs mainly through S1–S4: S1 is “ATSB · MH370 search overview” and S2 is “Malaysia MOT · MH370 Search Operation 2025/2026”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Plane That Never Landed”, the checkable coordinates are Indian Ocean, 2014, and the source-ledger entries S1 “ATSB · MH370 search overview” and S2 “Malaysia MOT · MH370 Search Operation 2025/2026”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+The core facts of “The Plane That Never Landed” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Plane That Never Landed” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 It lists possible causes: human operation, mechanical failure, lack of oxygen. There's no evidence for either.
@@ -115,4 +112,4 @@ The signal is weak, but it gives an arc. The arc points to the southern Indian O
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates confirmed flight data, satellite analysis, confirmed debris and unproven speculation; no evidence establishes the cause of the loss. The illustration is a scene reconstruction, not a photograph of a site.
+**Sources and licenses**: for “The Plane That Never Landed”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates confirmed flight data, satellite analysis, confirmed debris and unproven speculation; no evidence establishes the cause of the loss. The illustration is a scene reconstruction, not a photograph of a site.

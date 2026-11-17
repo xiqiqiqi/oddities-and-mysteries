@@ -62,15 +62,12 @@ The tortoise story is still repeated in trivia books, histories of drama, and tr
 
 A man who wrote so much about revenge, oracles, and blood debts was finished off by a tortoise. The ending is too neat, as if someone else had written it for him.
 
-## Sources and evidence
-
-For “The Poet and the Tortoise”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Aeschylus” and S2 is “Valerius Maximus · Memorable Doings and Sayings, Book IX”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Poet and the Tortoise”, the checkable coordinates are Gela, Sicily, Italy, c. 456 BCE, and the source-ledger entries S1 “Wikipedia · Aeschylus” and S2 “Valerius Maximus · Memorable Doings and Sayings, Book IX”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+“The Poet and the Tortoise” comes mainly from legend, oral tradition, or urban narrative in Gela, Sicily, Italy; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Poet and the Tortoise” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Only seven complete plays by Aeschylus have survived. He wrote more than seventy works, most of which only fragments remain. His death is more absurd than his play, and more like a myth. Only seven of Aeschylus's plays have survived in their entirety.
@@ -91,4 +88,4 @@ His tombstone is said to have been written by himself. It only mentions the mara
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Aeschylus's life, the ancient tortoise story, the behaviour of birds of prey, and the tradition of strange deaths; the tortoise story appears in ancient writers but lacks contemporary evidence, and the real cause of death is unknown.
+**Sources and licenses**: for “The Poet and the Tortoise”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Aeschylus's life, the ancient tortoise story, the behaviour of birds of prey, and the tradition of strange deaths; the tortoise story appears in ancient writers but lacks contemporary evidence, and the real cause of death is unknown.

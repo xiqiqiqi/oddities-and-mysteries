@@ -60,8 +60,6 @@ Each explanation has supporters. None fully reconstructs the scene in 1518.
 
 What it leaves is not just a horror story but a window: when a group shares the same fear, the same belief, and the same physical language, what can happen?
 
-## Sources and evidence
-
 The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Dancing plague of 1518” and S2 is “Wikipedia · Strasbourg”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
 
 ## Archive location
@@ -72,9 +70,10 @@ The dancing-plague archive is a chronicle archive: town records, sermons, and la
 
 ## Limits of the record
 
-For “The City That Danced”, the checkable coordinates are Strasbourg (now in France), July 1518, and the source-ledger entries S1 “Wikipedia · Dancing plague of 1518” and S2 “Wikipedia · Strasbourg”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+The core facts of “The City That Danced” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The City That Danced” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 When people are under stress, they will experience physical symptoms: convulsions, fainting, and dancing. Symptoms are contagious.
@@ -92,4 +91,4 @@ No one knows why she started jumping, no one knows why they stopped. The city ca
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the chronicle accounts, the city's response, and modern explanations; both the death toll and the number of participants vary between sources.
+**Sources and licenses**: for “The City That Danced”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the chronicle accounts, the city's response, and modern explanations; both the death toll and the number of participants vary between sources.

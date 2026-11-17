@@ -62,15 +62,12 @@ The discovery of brine pools changed the way people imagined the seafloor. It is
 
 They occur in the Gulf of Mexico, the Red Sea, the Mediterranean, and elsewhere, in different sizes. Each is a closed chemical world, and what happens beneath the interface can only be seen with submersibles and sensors.
 
-## Sources and evidence
-
-For “Lakes at the Bottom of the Sea”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · Brine pool” and S2 is “Wikipedia · Atlantis II Deep”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “Lakes at the Bottom of the Sea”, the checkable coordinates are Atlantis II Deep, Red Sea, ancient formations; studied since the 20th century, and the source-ledger entries S1 “Wikipedia · Brine pool” and S2 “Wikipedia · Atlantis II Deep”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “Lakes at the Bottom of the Sea” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“Lakes at the Bottom of the Sea” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 In the 2010s, researchers discovered multiple brine lakes on the Mediterranean seafloor, some hundreds of meters deep and very large. They were formed millions of years ago when the Mediterranean Sea dried up and salt deposits were deposited, which were later dissolved by sea water.
@@ -79,4 +76,4 @@ These brine pools are like time capsules, preserving the chemical information of
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates confirmed physical and biological features from local studies of particular deeps; “lake” is a description of shape, not a freshwater lake.
+**Sources and licenses**: for “Lakes at the Bottom of the Sea”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates confirmed physical and biological features from local studies of particular deeps; “lake” is a description of shape, not a freshwater lake.

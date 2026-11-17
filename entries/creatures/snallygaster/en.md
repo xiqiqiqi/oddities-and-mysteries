@@ -74,19 +74,16 @@ The paper of 1909 is long gone. The monster is still around, printed on T-shirts
 
 *Original schematic: the 1909 series in the Middletown Valley Register, the features of the creature and the spread of the story. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Monster the Newspapers Built”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Snallygaster” and S2 is “Maryland Historical Trust · The Snallygaster and the Shadows of Fear”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Snallygaster file is a sample of newspaper archive work. Nineteenth- and early twentieth-century local papers in Pennsylvania and Maryland mixed sightings, tavern stories, and political cartoons; later local-history writing then treated those pages as 'tradition'. There are no photographs, specimens, or a coherent chain of sightings, only repeatedly copied woodcuts and descriptions. This entry separates the history of a newspaper image from a zoological question and does not treat an illustration as witness evidence.
 
 ## Limits of the record
 
-For “The Monster the Newspapers Built”, the checkable coordinates are Frederick County, Maryland, United States, 1909, and the source-ledger entries S1 “Wikipedia · Snallygaster” and S2 “Maryland Historical Trust · The Snallygaster and the Shadows of Fear”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“The Monster the Newspapers Built” is strongly evidenced as a fabrication; the entry traces how it was made and spread in 1909, and why it still finds believers.
 
-The entry is currently labelled “hoax”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Monster the Newspapers Built” is currently labelled “hoax”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 In 1909, the Midlothian paper described the snallygaster as a flying creature that stole livestock and drank blood. The tale spread from Baltimore to Washington and later inspired the names of local bars and teams. The coverage contained no photographs or specimens, existing only in old newspapers.
@@ -99,4 +96,4 @@ The spelling of snallygaster varied widely; no definitive version exists. The hi
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1909 newspaper series, the description of the creature, the influence of the Jersey Devil and the admitted hoax; the Snallygaster was invented by the paper's editor and reporter, and there is no physical evidence for it. The illustration is a scene reconstruction, not a historical photograph.
+**Sources and licenses**: for “The Monster the Newspapers Built”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1909 newspaper series, the description of the creature, the influence of the Jersey Devil and the admitted hoax; the Snallygaster was invented by the paper's editor and reporter, and there is no physical evidence for it. The illustration is a scene reconstruction, not a historical photograph.

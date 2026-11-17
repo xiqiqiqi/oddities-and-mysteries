@@ -62,15 +62,12 @@ The ghosts were added later. The house was already heavy enough.
 
 *Original schematic: the 1796–1992 timeline, the 1871 shooting on the porch and the spread of the Chloe legend. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Shot on the Porch”, the factual trail runs mainly through S1–S4: S1 is “Wikipedia · The Myrtles” and S2 is “The Myrtles · History & Culture”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Shot on the Porch”, the checkable coordinates are St. Francisville, Louisiana, USA, 1796, and the source-ledger entries S1 “Wikipedia · The Myrtles” and S2 “The Myrtles · History & Culture”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+“The Shot on the Porch” comes mainly from legend, oral tradition, or urban narrative in St. Francisville, Louisiana, USA; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Shot on the Porch” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 In the 1790s, yellow fever was epidemic in Louisiana. Many people died, slaves and masters alike. The house and cemetery leave this history behind.
@@ -94,4 +91,4 @@ Ghost stories can be told, but history cannot be forgotten.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the plantation records, the yellow fever deaths, the 1871 murder and the Chloe legend; there is no documentary record of Chloe, and no verifiable evidence for the handprints. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: for “The Shot on the Porch”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the plantation records, the yellow fever deaths, the 1871 murder and the Chloe legend; there is no documentary record of Chloe, and no verifiable evidence for the handprints. The illustration is a scene reconstruction, not a photograph of the site.

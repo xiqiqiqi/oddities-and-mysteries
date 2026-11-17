@@ -74,15 +74,12 @@ lang: zh
 
 玛丽·罗杰斯的名字留在了爱伦·坡的小说里。她的死因留在了 1841 年的报纸上。两者都比她本人活得久。
 
-## 来源与证据
-
-关于「烟店里的姑娘」，本条目的事实线索主要来自来源台账 S1–S3，其中 S1 为《Smithsonian Magazine · Edgar Allan Poe Tried and Failed to Crack the Mysterious Murder Case of Mary Rogers》，S2 为《Wikipedia · Mary Rogers》。正文中的年代、地点与人物按这些来源的最低共识处理；图像说明与许可逐条列在条目底部。
-
 ## 档案空白
 
-关于「烟店里的姑娘」，可核对的坐标是美国，新泽西，霍博肯、1841，以及来源台账中的 S1《Smithsonian Magazine · Edgar Allan Poe Tried and Failed to Crack the Mysterious Murder Case of Mary Rogers》与 S2《Wikipedia · Mary Rogers》。官方记录、当事人证词与后来叙述之间仍有缺口；越著名的故事，越容易把后来添加的细节当成原始事实。
+「烟店里的姑娘」的核心事实大体成立，但成因、规模或细节仍有争议；本文并列保留 3 条来源中的竞争解释，不把单一假说写成结论。
 
 条目目前标记为“disputed”；这个标签描述的是当前证据状态，不是对题材真伪的终审。
+
 ## 档案补记
 
 案件没有破。报纸的销量，却因为这个故事涨了。

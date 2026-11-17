@@ -68,20 +68,16 @@ It is not a completely unsolved mystery either. There was a powder depot, an off
 
 What unsettles people are the details in the records: the clothes, the trees, the stone lions, the strange cloud. They are like footnotes that refuse to stay in order. Even when the cause is broadly known, a disaster always leaves something that will not fit neatly into the file.
 
-## Sources and evidence
-
-For “The Day Beijing Shook”, the factual trail runs mainly through S1–S4: S1 is “the source listed as S1 in the ledger” and S2 is “Wikipedia · Wanggongchang explosion”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Wanggongchang disaster is documented mainly through Ming official memorials, local gazetteers, private notes, and later studies of seismology and gunpowder. The explosion of 30 May 1626 caused wide destruction, but 'nuclear blast' and 'meteor' claims are mostly twentieth-century additions. The original records differ on sound, fire, collapse direction, and casualties; official memorials also had relief and accountability contexts. This entry separates 'a disaster happened' from 'whether gunpowder, an earthquake, or something else caused it'.
 
 ## Limits of the record
 
-For “The Day Beijing Shook”, the checkable coordinates are Beijing, Ming China, 1626, and the source-ledger entries S1 “the source listed as S1 in the ledger” and S2 “Wikipedia · Wanggongchang explosion”. The gap between instrument records and causal explanation remains; showing that something was recorded does not show why it happened.
+The core facts of “The Day Beijing Shook” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Day Beijing Shook” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: for “The Day Beijing Shook”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.

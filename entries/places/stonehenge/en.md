@@ -36,10 +36,6 @@ Building on this scale took many hands: transport, shaping, raising, and repeate
 
 The roads around Stonehenge have long been a problem. The A303 runs close to the monument, and traffic and noise affect the landscape; a tunnel scheme has been discussed for years, with supporters stressing transport and landscape and opponents fearing damage to buried remains. The public is still allowed into the stone circle at specific times around midwinter and midsummer, but ordinary visits follow an outer path. Conservation, visitor access, and road demand remain in tension.
 
-## Sources and evidence
-
-For “Stonehenge: Stones, Bones, and the Turning Year”, the factual trail runs mainly through S1–S3: S1 is “Stonehenge: History and Stories” and S2 is “Stonehenge, Avebury and Associated Sites”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 The cover is an AI-assisted reconstruction of “Stonehenge: Stones, Bones, and the Turning Year”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
 
 ## Archive location
@@ -52,4 +48,4 @@ Three questions about Stonehenge still lack agreed answers: how the bluestones w
 
 ---
 
-**Sources and licenses**: the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: for “Stonehenge: Stones, Bones, and the Turning Year”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.

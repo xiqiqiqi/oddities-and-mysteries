@@ -66,19 +66,16 @@ It is a white domed building with a dark interior, where the Great Isaiah Scroll
 
 They did not overturn the Bible or solve every mystery. What they did was put the people who copied, read, and hid these texts two thousand years ago back into history.
 
-## Sources and evidence
-
-For “The Scrolls in the Caves”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Dead Sea Scrolls” and S2 is “Museum of the Bible · Dead Sea Scroll Fragments”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Scrolls archive is a conservation and scholarly record: cave finds, acquisition histories, editorial reconstructions, and museum display. The text is often incomplete, and every translation is an interpretation of gaps as well as letters.
 
 ## Limits of the record
 
-For “The Scrolls in the Caves”, the checkable coordinates are Qumran, near the Dead Sea, Israel, c. 3rd century BCE – 1st century CE, and the source-ledger entries S1 “Wikipedia · Dead Sea Scrolls” and S2 “Museum of the Bible · Dead Sea Scroll Fragments”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “The Scrolls in the Caves” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Scrolls in the Caves” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 These differences allow researchers to see changes in the biblical text as it spreads. It was not written in one sitting but transcribed, revised and edited.
@@ -90,4 +87,4 @@ The scrolls allow us to see how the biblical text changed as it circulated. It's
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, the caves and manuscripts, the question of authorship, and the forgery problem; the relationship between the Qumran site and the scrolls is still debated, and fragments surfacing after 2002 should be treated with caution.
+**Sources and licenses**: for “The Scrolls in the Caves”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, the caves and manuscripts, the question of authorship, and the forgery problem; the relationship between the Qumran site and the scrolls is still debated, and fragments surfacing after 2002 should be treated with caution.

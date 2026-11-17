@@ -26,31 +26,40 @@ sources:
     usage: 希腊语 stigma 词源、五处伤口、女性占 80% 以上、安斯伯特 695 年、方济各 1224 年拉维纳山四十天斋与六翼天使、切拉诺的托马斯 1230 年传记、哈通 1935 年沙眼与四日疟/紫癜说、1987 年麻风说、比奥 1918 年与五十年伤口、罗曼内利/梅拉/费斯塔检查、杰梅利 1922 年歇斯底里判断、卢扎托 1919 年石炭酸与藜芦碱证词、无指手套、去世时皮肤无伤、2002 年封圣、玛格达莱娜·德·拉·克鲁斯承认造假、厌食与自我伤害、特蕾莎·诺伊曼 2002 年精神分析、安贝尔-古贝雷 280 女/41 男、安特卫普 2019 年 244 人 92% 女性、伊里奇引语、哈里森无单一机制、乔·尼克尔与造假无法区分、1997 年 7 位圣人、近百年约 200 人
   - id: S2
     title: "Giotto · Saint Francis Receiving the Stigmata（乔托画作）"
+    title_en: "Giotto · Saint Francis Receiving the Stigmata (Giotto painting)"
     publisher: Giotto di Bondone / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Giotto._Stigmatization_of_St_Francis._1295-1300._314x162cm._Louvre,_Paris.jpg
     year: "1295–1300"
     license: 公有领域
+    license_en: "Public domain"
     usage: 方济各接受圣痕的历史画作
   - id: S3
     title: "El Greco · Saint Francis Receiving the Stigmata（埃尔·格列柯画作）"
+    title_en: "El Greco · Saint Francis Receiving the Stigmata (El Greco painting)"
     publisher: El Greco / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:El_Greco_-_Saint_Francis_Receiving_the_Stigmata_-_WGA10473.jpg
     year: "1585–1590"
     license: 公有领域
+    license_en: "Public domain"
     usage: 方济各接受圣痕的历史画作
   - id: S4
     title: "Padre Pio of Pietrelcina with the stigmata（1919 年照片）"
+    title_en: "Padre Pio of Pietrelcina with the stigmata (1919 photograph)"
     publisher: Placido Bux / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Padre_Pio_of_Pietrelcina_with_the_stigmata.jpg
     year: "1919"
     license: 公有领域
+    license_en: "Public domain"
     usage: 比奥神父手部圣痕的历史照片
   - id: S5
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面教堂与双手场景复原、案例时间线与解释分层；不是医疗照片
   - id: S6
     title: "A Psychopathological Reading of the Blood Sweat Phenomenon and Religious Stigmas: The Case of Blessed Elena Aiello"

@@ -78,15 +78,12 @@ There was no werewolf in Bedburg in 1589. There was a farmer tortured into a con
 
 *Original schematic: the timeline of the 1589 Bedburg trial, the elements of the werewolf legend and the medical explanations. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Man in the Wolf Skin”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Werewolf” and S2 is “USURJ · Monstrous Lessons: Peter Stumpp, the Werewolf of Bedburg”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Man in the Wolf Skin”, the checkable coordinates are Bedburg, Germany, 16th–17th centuries, and the source-ledger entries S1 “Wikipedia · Werewolf” and S2 “USURJ · Monstrous Lessons: Peter Stumpp, the Werewolf of Bedburg”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“The Man in the Wolf Skin” comes mainly from legend, oral tradition, or urban narrative in Bedburg, Germany; the entry records how it is told without treating the story itself as established fact.
 
-The entry is currently labelled “folklore”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Man in the Wolf Skin” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Numerous werewolf trials were recorded in French and Swiss courts during the 16th century. The defendant admitted his transformation under torture and revealed his accomplices. Historians believe that these trials were related to religious conflicts and land disputes at the time. The image of a werewolf was later changed to a full moon transformation in the movie. Medieval legends do not have this rule.
@@ -99,4 +96,4 @@ Werewolf movies have been around since the silent era. The werewolf on screen is
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ancient legends, the early modern trials, Stumpp's confession and the medical explanations; Stumpp's confession was obtained under torture and cannot be treated as fact, and there is no biological evidence for werewolves. The illustration is a scene reconstruction, not a historical photograph.
+**Sources and licenses**: for “The Man in the Wolf Skin”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ancient legends, the early modern trials, Stumpp's confession and the medical explanations; Stumpp's confession was obtained under torture and cannot be treated as fact, and there is no biological evidence for werewolves. The illustration is a scene reconstruction, not a historical photograph.

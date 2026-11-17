@@ -26,6 +26,7 @@ sources:
     usage: 1981 年布鲁万德《消失的搭车人》、可追溯至 1870 年代、英/埃塞俄比亚/朝鲜/法国/南非/沙俄/美国华人/摩门/欧扎克变体、1602 年瑞典约恩·彼得里·克林特手稿与烛节集市/麦芽/橡子/血/战争瘟疫预言、比尔德斯利-汉基 79 份记录、鲍曼母题 E332.3.3.1 及 a-j 分类、E332.3.3.2 神祇搭车人、圣克里斯托弗、迈克尔·戈斯与乔·尼克尔怀疑论
   - id: S2
     title: "Resurrection Cemetery Justice IL（复活公墓照片）"
+    title_en: "Resurrection Cemetery Justice IL (Resurrection Cemetery photograph)"
     publisher: MrHarman / Wikimedia Commons
     url: https://commons.wikimedia.org/wiki/File:Resurrection_Cemetery_Justice_IL_1.jpg
     year: "2006"
@@ -33,10 +34,13 @@ sources:
     usage: 芝加哥复活公墓现场照片
   - id: S3
     title: 场景复原插图与原创示意图
+    title_en: "Scene reconstruction and original diagram"
     publisher: 稀奇奇编辑部（AI 辅助生成）
+    publisher_en: "XIQIQI Editorial (AI-assisted)"
     url: https://xiqiqi.com/
     year: "2026"
     license: CC BY-SA 4.0；不含第三方版权素材
+    license_en: "CC BY-SA 4.0; no third-party copyrighted material"
     usage: 封面夜间公路场景复原、传说结构与变体示意；不是现场照片
   - id: S4
     title: "A History of the Vanishing Hitchhiker"

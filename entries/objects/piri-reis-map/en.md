@@ -62,15 +62,12 @@ Some people still say the southern landmass is Antarctica. It is more likely Sou
 
 *Original schematic: the area covered by the surviving fragment, Hapgood's Antarctica hypothesis and the mainstream rebuttal. Not a photograph of the artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “Antarctica on the Map”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Piri Reis map” and S2 is “Britannica · Piri Reis”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “Antarctica on the Map”, the checkable coordinates are Istanbul, Ottoman Empire, 1513, and the source-ledger entries S1 “Wikipedia · Piri Reis map” and S2 “Britannica · Piri Reis”. The gap between excavation context, restoration records, and material analysis remains; public pages often give conclusions without the full chain of examination.
+The core facts of “Antarctica on the Map” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
 
-The entry is currently labelled “disputed”; the label describes the present state of the evidence, not a final verdict on the subject.
+“Antarctica on the Map” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 It is not often on display because the parchment is sensitive to light. The digitized version can be viewed online.
@@ -91,4 +88,4 @@ The map cannot speak. It simply drew the coastline, leaving on the parchment bot
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1513 drawing, the map's contents, the 1929 discovery, Hapgood's hypothesis and the mainstream rebuttal; the map is a genuine artefact, and the "ice-free Antarctica" claim is not supported by mainstream cartography. The illustration is a scene reconstruction, not a photograph of the artefact.
+**Sources and licenses**: for “Antarctica on the Map”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1513 drawing, the map's contents, the 1929 discovery, Hapgood's hypothesis and the mainstream rebuttal; the map is a genuine artefact, and the "ice-free Antarctica" claim is not supported by mainstream cartography. The illustration is a scene reconstruction, not a photograph of the artefact.

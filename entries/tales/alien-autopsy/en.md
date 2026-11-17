@@ -68,10 +68,6 @@ It has become a case study in media history: a blurry image and a big story can 
 
 The alien was made of latex. It lay on a table, was cut open, and was filmed. It never lived, but it became more famous than many real things.
 
-## Sources and evidence
-
-For “The Alien Autopsy Tape”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Alien autopsy” and S2 is “Hoaxes.org · Alien Autopsy (1995)”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The 'alien autopsy' is not an archive but a history of television production. The pay-TV programme of the 1990s, the Fox special, and later internet cuts share a visual grammar: black-and-white film, surgical lamps, figures in protective suits, and a body kept partly out of frame. The material has no checkable shooting location, date, crew, or original negative; the 'film-speed' and 'lamp-reflection' analyses tend to cite one another inside and outside the programme. This entry treats it as media hoax and television history, not as evidence for Roswell.
@@ -80,9 +76,10 @@ The alien-autopsy file is a television archive: broadcast masters, ratings cover
 
 ## Limits of the record
 
-For “The Alien Autopsy Tape”, the checkable coordinates are London, United Kingdom (set in Roswell, USA), 1995, and the source-ledger entries S1 “Wikipedia · Alien autopsy” and S2 “Hoaxes.org · Alien Autopsy (1995)”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+“The Alien Autopsy Tape” is strongly evidenced as a fabrication; the entry traces how it was made and spread in 1995, and why it still finds believers.
 
-The entry is currently labelled “hoax”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Alien Autopsy Tape” is currently labelled “hoax”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 The show's ratings are high. Many people believe that it is true.
@@ -94,4 +91,4 @@ The affair left a mark on television culture: audiences learned that a convincin
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the contents of the film, Santilli's claims, the flaws, and the admission; the 1995 footage was admitted by its distributor to be a reconstruction, and the alleged “original film” has never been independently verified.
+**Sources and licenses**: for “The Alien Autopsy Tape”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the contents of the film, Santilli's claims, the flaws, and the admission; the 1995 footage was admitted by its distributor to be a reconstruction, and the alleged “original film” has never been independently verified.

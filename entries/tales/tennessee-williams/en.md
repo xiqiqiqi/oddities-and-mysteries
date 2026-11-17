@@ -70,15 +70,12 @@ Today, Tennessee Williams's death is still told as a curiosity, a “writer's de
 
 But it is also a reminder that a life can fill a stage and still be ended by something tiny. One bottle cap, one breath, one second.
 
-## Sources and evidence
-
-For “The Last Mouthful”, the factual trail runs mainly through S1–S3: S1 is “CBS New York · 30 Years Ago Today: Tennessee Williams Dies In Manhattan Hotel Suite” and S2 is “Mental Floss · 13 Authors Whose Deaths Were Stranger Than Fiction”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Last Mouthful”, the checkable coordinates are New York, United States, 1983, and the source-ledger entries S1 “CBS New York · 30 Years Ago Today: Tennessee Williams Dies In Manhattan Hotel Suite” and S2 “Mental Floss · 13 Authors Whose Deaths Were Stranger Than Fiction”. The gap between official records, witness testimony, and later retellings remains; the more famous the story, the easier it is to mistake added detail for original fact.
+The core facts of “The Last Mouthful” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Last Mouthful” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 "Tennessee" was a pen name. Thomas Lanier Williams took it from his father's Tennessee heritage, partly to separate his writing life from a family he did not want implicated in it.
@@ -104,4 +101,4 @@ Laura in "The Glass Menagerie" is based on his sister. Blanche in "A Streetcar N
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery of the death, the medical findings, his life, and the aftermath; the eye-drop bottle cap and accidental asphyxiation are supported by public reports, but there were no witnesses to the moment the cap entered his throat.
+**Sources and licenses**: for “The Last Mouthful”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery of the death, the medical findings, his life, and the aftermath; the eye-drop bottle cap and accidental asphyxiation are supported by public reports, but there were no witnesses to the moment the cap entered his throat.

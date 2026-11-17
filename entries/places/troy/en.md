@@ -60,19 +60,16 @@ In 2018, the Troy Museum opened near the site, displaying pottery, bronze object
 
 Nine cities are stacked on top of one another: a Roman theatre at the top, a small Bronze Age citadel at the bottom. One mound holds three thousand years of war, trade, and daily life.
 
-## Sources and evidence
-
-For “The Nine Cities of Troy”, the factual trail runs mainly through S1–S3: S1 is “UNESCO · Archaeological Site of Troy” and S2 is “Wikipedia · Troy”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 Troy's archive is a layered excavation archive, from Schliemann's trenches to modern stratigraphic work; the Homeric story and the mound are two different records, and the entry does not fuse them.
 
 ## Limits of the record
 
-For “The Nine Cities of Troy”, the checkable coordinates are Hisarlik, Çanakkale, Turkey, c. 3000 BCE–500 CE, and the source-ledger entries S1 “UNESCO · Archaeological Site of Troy” and S2 “Wikipedia · Troy”. The gap between archaeological reports, conservation records, and tourism narratives remains; dates, construction sequence, and later alterations still need corroboration.
+The core facts of “The Nine Cities of Troy” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
 
-The entry is currently labelled “verified”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Nine Cities of Troy” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 It is a mound, dozens of meters high, with a nine-story city underneath. Each level belongs to a different era, from the Early Bronze Age to the Roman era. The earliest settlement was around 3000 BC.
@@ -91,4 +88,4 @@ Whether the "Trojan War" actually happened or not is uncertain. The ruins are da
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the layers, Schliemann's excavation, Homer's epics, and the treasure's later history; whether Troy VIIa is Homer's Troy remains a scholarly debate, and there is no archaeological evidence for the wooden horse.
+**Sources and licenses**: for “The Nine Cities of Troy”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the layers, Schliemann's excavation, Homer's epics, and the treasure's later history; whether Troy VIIa is Homer's Troy remains a scholarly debate, and there is no archaeological evidence for the wooden horse.

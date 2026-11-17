@@ -68,15 +68,12 @@ The specimen of 1842 sewed the two together — an old mistake and a modern mark
 
 *Original schematic: the monkey torso and fish tail, the New York exhibition of 1842, and the later collection history. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Sources and evidence
-
-For “The Monkey with a Fish Tail”, the factual trail runs mainly through S1–S3: S1 is “Wikipedia · Feejee mermaid” and S2 is “Hoaxes.org · The Feejee Mermaid (1842)”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Limits of the record
 
-For “The Monkey with a Fish Tail”, the checkable coordinates are New York, United States, 1842, and the source-ledger entries S1 “Wikipedia · Feejee mermaid” and S2 “Hoaxes.org · The Feejee Mermaid (1842)”. The gap between witness memory, images, and physical evidence remains; the richer the folklore, the more carefully “someone said so” must be separated from “it happened”.
+“The Monkey with a Fish Tail” is strongly evidenced as a fabrication; the entry traces how it was made and spread in 1842, and why it still finds believers.
 
-The entry is currently labelled “hoax”; the label describes the present state of the evidence, not a final verdict on the subject.
+“The Monkey with a Fish Tail” is currently labelled “hoax”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+
 ## Archival note
 
 Later, Barnum exhibited the Fijian mermaid at the American Museum, labeling it a “half‑fish, half‑human” curiosity. Queues formed to view it; some laughed, some believed. The original was likely destroyed in the fire, so the current display is almost certainly a reproduction.
@@ -88,4 +85,4 @@ The pieces travelled across the Pacific via trade to Europe and the United State
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1842 exhibition, the construction of the specimen, the Fiji story and the mermaid tradition; the Feejee Mermaid was a composite hoax, and the fate of the original is uncertain. The illustration is a scene reconstruction, not a photograph of the object.
+**Sources and licenses**: for “The Monkey with a Fish Tail”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1842 exhibition, the construction of the specimen, the Fiji story and the mermaid tradition; the Feejee Mermaid was a composite hoax, and the fate of the original is uncertain. The illustration is a scene reconstruction, not a photograph of the object.
