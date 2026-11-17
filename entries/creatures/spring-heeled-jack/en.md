@@ -72,6 +72,8 @@ To today's readers, he is more like a mirror: how a city molds its fears at nigh
 
 His leaps grew taller in every retelling, until the wall itself became part of the legend. The story moved from newspaper columns into penny dreadfuls, music halls and, eventually, cinema.
 
+That is why he remains useful: not as a case to be solved, but as a story that shows how a city turns anxiety into a figure people can recognize.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the contemporary newspaper reports, the later popular-literature figure, and modern explanations; it does not identify Spring-Heeled Jack as a confirmed creature.

@@ -10,6 +10,10 @@ The modern Kuchisake-onna story originates in 1978, most acceptedly from Gifu Pr
 
 The consequence was concrete: primary-school children began walking home escorted in groups by parent-teacher association members. A legend changed real commuting routes and pickup arrangements — one of the few observable social effects of an urban legend.
 
+![Reconstruction: a masked woman on a dusk street in 1979](../../../assets/inline/kuchisake-1979-street.jpg)
+
+*Reconstruction: an imagined dusk street in a Japanese suburb in 1979, a masked woman carrying scissors. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
+
 ## 2. Her question
 
 The image is stable: a tall woman (often 175–180 cm), long straight black hair, pale skin, white hands, considered beautiful except for the mouth; the mouth covered by a mask, fan or handkerchief; carrying scissors, a knife or a scythe-like blade; possessing supernatural speed.
@@ -46,7 +50,7 @@ The manga artist Shigeru Mizuki placed her in his yokai encyclopedia; the transl
 
 ## 6. Where she went
 
-Afterwards she entered film and games: Studio Ghibli's Pom Poko (1994), a mention in Ring (1998), Carved: The Slit-Mouthed Woman (2007) and two sequels, Kuchisake-onna Returns and a found-footage series (2012); in Ghostwire: Tokyo she has two forms (white coat, white hat, mask / red coat, hat and mask dropped, slit mouth revealed); she appears in Jujutsu Kaisen, Dandadan and Mob Psycho 100; an episode of Constantine is based on her.
+Afterwards she entered film and games. Studio Ghibli's Pom Poko (1994) names her, Ring (1998) mentions her, and Carved: The Slit-Mouthed Woman (2007) gave her two sequels, Kuchisake-onna Returns and a found-footage series (2012). In Ghostwire: Tokyo she has two forms: a white coat, white hat and mask, then a red coat with hat and mask dropped and the slit mouth revealed. She also appears in Jujutsu Kaisen, Dandadan and Mob Psycho 100, and an episode of Constantine is based on her.
 
 The image multiplies; the question never changes: "Am I pretty?" A question that demands an evaluation, a structure in which any evaluation wounds. Perhaps that is why she survives: she is not about the mouth, but about the moment of being asked to answer.
 

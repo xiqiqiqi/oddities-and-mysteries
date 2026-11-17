@@ -36,7 +36,7 @@ Note the detail: these two girls already knew the Owlman story. The second accou
 
 ## 4. The tower, the louvres, and the barn owl
 
-Joe Nickell's explanation needs no monster: church towers are among the commonest nesting places of barn owls. The louvred openings at the top, the hollow bell chamber, a white shape moving in and out at night — enough to manufacture a "hovering bird-man." Lionel Fanthorpe prefers another candidate: the Eurasian eagle-owl, larger, with real ear tufts, a better fit for "pointed ears."
+Joe Nickell's explanation needs no monster: church towers are among the commonest nesting places of barn owls. The louvred openings at the top, the hollow bell chamber, a white shape moving in and out at night: enough to manufacture a "hovering bird-man." Lionel Fanthorpe prefers another candidate. In The Mystery Chronicles (2010), Nichol sets out the owl explanation in full. The Eurasian eagle-owl is larger, with real ear tufts, a better fit for "pointed ears."
 
 A barn owl has a heart-shaped white face, flies almost silently, and when startled stands upright and sways — in dusk, that repertoire reads easily as a "hovering human shape." The eagle-owl is larger, with obvious ear tufts and a deep call. Both birds have lived in the churches and barns of the English countryside.
 

@@ -44,7 +44,7 @@ On 28 February 1985 he spoke in the House, accusing the Rajneeshees of sprinklin
 
 ## 5. A match in the laboratory
 
-On 16 September 1985 Rajneesh, ending four years of public silence, held press conferences: Sheela and nineteen other leaders had fled to Europe over the weekend; he called them a "gang of fascists"; he accused them of poisoning his doctor, his female companion, the Jefferson County district attorney and The Dalles' water system, and suspected them of the salmonellosis outbreak. He invited state and federal law enforcement in.
+On 16 September 1985 Rajneesh, ending four years of public silence, held press conferences. Sheela and nineteen other leaders had fled to Europe over the weekend. He called them a "gang of fascists" and accused them of poisoning his doctor, his female companion, the Jefferson County district attorney and The Dalles' water system. He also suspected them of the salmonellosis outbreak. He invited state and federal law enforcement in.
 
 On 2 October fifty investigators entered the ranch. State public-health laboratory director Michael Skeels found glass vials and Salmonella bactrol disks in the commune's medical clinic laboratory; the CDC lab in Atlanta confirmed an exact match between the commune's strain and the one that sickened the town. Investigators also found The Anarchist Cookbook, literature on explosives and military bio-warfare, and an invoice dated 25 September 1984 from the American Type Culture Collection for Salmonella typhi — the typhoid bacterium. An aborted plot to murder a former U.S. Attorney surfaced alongside.
 

@@ -24,7 +24,7 @@ This is the púca.
 
 Púca is Irish for spirit or ghost; the plural is púcaí. The Irish word itself comes from English, from Middle English puck. Its relatives run across north-west Europe: the Scandinavian púki, the Faroese púki, the Swedish puke, the Danish puge, all of them mischievous sprites or devils. In Welsh the creature is the pwca, in Cornish the bucca. In the Channel Islands the pouque were fairies said to live near ancient stones; in the Norman French of the islands a prehistoric dolmen is still called a pouquelée. The Breton poulpiquet and polpegan belong to the same family.
 
-In Shakespeare's A Midsummer Night's Dream, the prankster called Robin Goodfellow and also "sweet Puck" is one version of the púca on the stage.
+In Shakespeare's A Midsummer Night's Dream (1595), the prankster called Robin Goodfellow and also "sweet Puck" is one version of the púca on the stage.
 
 ## 3. What It Looks Like
 

@@ -56,9 +56,9 @@ In July 2025 the tour's organiser and host, Dan Rivera, died unexpectedly in Get
 
 ## 6. What scholars say
 
-Joseph Laycock, a religious-studies professor at Texas State University, notes that skeptics see the Warrens' museum as "full of off-the-shelf Halloween junk, dolls and toys, books you could buy at any bookstore." He traces the demonically-possessed-doll trope to earlier sources: the legend of Robert the Doll, and a Twilight Zone episode five years before the Warrens' story — "Living Doll," in which the mother is named Annabelle.
+Joseph Laycock, a religious-studies professor at Texas State University, notes that skeptics see the Warrens' museum as "full of off-the-shelf Halloween junk, dolls and toys, books you could buy at any bookstore." He traces the demonically-possessed-doll trope to earlier sources. One is the legend of Robert the Doll. Another is a Twilight Zone episode five years before the Warrens' story: "Living Doll," in which the mother is named Annabelle.
 
-Science writer Sharon Hill is blunter: "Like real-life Ed Warren, real-life Annabelle is actually far less impressive." Of the supernatural claims she says: "We have nothing but Ed's word for this, and also for the history and origins of the objects in the museum." She also criticises the sensational press coverage around the museum, saying many people can no longer separate the Warrens from their screen portrayal.
+Science writer Sharon Hill is blunter: "Like real-life Ed Warren, real-life Annabelle is actually far less impressive." Of the supernatural claims she says: "We have nothing but Ed's word for this, and also for the history and origins of the objects in the museum." She also criticises the sensational press coverage around the museum. In her view, many people can no longer separate the Warrens from their screen portrayal.
 
 Laycock has a colder summary: the idea of demonically possessed dolls "allows modern demonologists to find supernatural evil in the most banal and domestic of places."
 

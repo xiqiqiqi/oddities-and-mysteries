@@ -56,9 +56,9 @@ Some versions deliver the warning by radio, some by a petrol station attendant, 
 
 The hook man reached the cinema early. In Dick Tracy's Dilemma (1947) the killer has a hook for a hand. In Meatballs (1979) Bill Murray's character tells the story to campers around a fire.
 
-Horror films fixed it. The critic Mark Kermode has noted how often the hook appears in slasher films, where it works as a moral archetype: young people in a car are punished. He Knows You're Alone (1980) opens with a couple attacked in a parked car; Final Exam opens the same way; Campfire Tales (1997) retells the legend in its first segment; I Know What You Did Last Summer (1997) has its characters tell it around a campfire; the Candyman films centre on it; Lovers Lane (1999) takes its title from the setting.
+Horror films fixed it. The critic Mark Kermode has noted how often the hook appears in slasher films, where it works as a moral archetype: young people in a car are punished. He Knows You're Alone (1980) opens with a couple attacked in a parked car. Final Exam opens the same way. Campfire Tales (1997) retells the legend in its first segment, and I Know What You Did Last Summer (1997) has its characters tell it around a campfire. The Candyman films centre on it, and Lovers Lane (1999) takes its title from the setting.
 
-Television used it too: an episode of Millennium in 1998 opens with it, and the seventh episode of Supernatural's first season makes the hook man the villain. Animation parodied it: the Shrek the Halls special of 2007 has Gingy tell a version of the tale.
+Television used it too: an episode of Millennium in 1998 opens with it, and the seventh episode of Supernatural's first season, aired in 2005, makes the hook man the villain. Animation parodied it: the Shrek the Halls special of 2007 has Gingy tell a version of the tale.
 
 ## 7. One Sentence
 

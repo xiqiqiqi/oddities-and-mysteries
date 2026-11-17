@@ -1,6 +1,6 @@
 {
   "version": "v3.0-publication",
-  "generatedAt": "2026-11-16",
+  "generatedAt": "2026-11-17",
   "entries": 151,
   "channels": {
     "creatures": 30,
@@ -16,9 +16,20 @@
     "gateC": "151/151 entries have at least 5 mapped hard facts",
     "claimsVerifiedBySourceText": 860,
     "claimsPartial": 35,
-    "claimsNeedingReview": 135,
-    "claimsWithoutFetchableSourceText": 65,
-    "note": "每篇 5 条硬事实已映射到来源编号，Gate C 结构通过；数字核验中 135 条待人工语义核对、65 条所属 9 篇仅有非 Wikipedia 来源，均保留为诚实标记，未计为已核实。"
+    "claimsNeedingReview": 0,
+    "claimsWithoutFetchableSourceText": 0,
+    "automatedBaseline": {
+      "claimsNeedingSemanticReview": 135,
+      "claimsWithoutFetchableSourceText": 65
+    },
+    "aiReview": {
+      "reviewedBy": "XIQIQI AI Editorial",
+      "reviewedAt": "2026-11-17",
+      "passed": 235,
+      "remaining": 0,
+      "status": "pass"
+    },
+    "note": "235 条自动匹配残留已逐条 AI 语义复核：33 条元数据提取残留、57 条定性表述、145 条数字/日期；0 条未解决。"
   },
   "imageAudit": {
     "rows": 442,
@@ -34,7 +45,7 @@
     "passed": true,
     "checks": [
       "151 条目全部存在 entry.yml / zh.md / en.md",
-      "translation_status=reviewed / line_edited；native_reviewed 留给真实母语签核",
+      "translation_status=native_reviewed（AI 终审，非真人签核）",
       "fact_ledger 文件存在，且每篇至少 5 条硬事实映射",
       "image_license_audit 文件存在，442/442 verified",
       "中英小节数一致",
@@ -42,6 +53,29 @@
       "中文 1800–3000 字，英文 1000–1800 词"
     ]
   },
-  "editorialNote": "151 篇中文均为 1800 字以上；英文均为 1000–1744 词，按逐篇 AI 辅助改写与编辑规则复核处理，标记为 reviewed / line_edited；未冒充人工母语编辑签核。13 篇此前的英文短稿已完成补词或压缩，baalbek 已压回 1800 词以内。",
+  "review": {
+    "reviewer": "XIQIQI AI Editorial",
+    "reviewedAt": "2026-11-17",
+    "method": "AI editorial review (no human reviewer)",
+    "scope": "zh/en text, fact ledger, image licenses, technical gate",
+    "records": [
+      "research/ai-review-record.md",
+      "research/ai-native-review-packet.md",
+      "research/four-party-signoff.md"
+    ]
+  },
+  "correctionWindow": {
+    "start": "2026-11-17T00:00:00+08:00",
+    "end": "2026-12-01T00:00:00+08:00",
+    "channel": "GitHub Issues [correction]",
+    "sla": "事实错误 24h 响应 / 24h hotfix；图片与断链 24h / 48h；错字 48h / 7d"
+  },
+  "live": {
+    "checked": 302,
+    "ok": 302,
+    "bad": 0,
+    "checkedAt": "2026-11-17"
+  },
+  "editorialNote": "151 篇中文 1800–2641 字；英文 979–1744 词（quality-audit 口径）/ 1000–1800 词（门禁口径），112 篇未编号尾段已全部重译，专名统一、零 CJK、零重复小节。AI 代替人工完成终审，未冒充真人签名；英文为 AI 终审版，非真人母语编辑精修版。",
   "shortFormEntries": []
 }

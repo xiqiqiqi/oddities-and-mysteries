@@ -42,7 +42,7 @@ What these places share is not evidence but tellability: each has a scene that c
 
 ## 4. The types of report
 
-The report types form their own list: UFOs, often bright balls of light or large unusual craft; unnatural animals — panthers and bears not native to the area, giant snakes, enormous vicious dogs; paranormal humanoids — bigfoot, ghosts, poltergeists, shadow people; thunderbirds — giant birds or pterosaur-like flyers with wingspans up to twelve feet, reported among others by Norton Police Sergeant Thomas Downy; cult activity — animal mutilations, two incidents in 1998: an adult cow butchered in the woods and a group of calves grotesquely mutilated in a clearing; and the pukwudgie "little people" of Algonquian folklore, considered dangerous tricksters by the Wampanoag and especially associated with the state forest.
+The report types form their own list. UFOs are often bright balls of light or large unusual craft. Unnatural animals include panthers and bears not native to the area, giant snakes and enormous vicious dogs. Paranormal humanoids cover bigfoot, ghosts, poltergeists and shadow people. Thunderbirds are giant birds or pterosaur-like flyers with wingspans up to twelve feet, reported among others by Norton Police Sergeant Thomas Downy. Cult activity includes animal mutilations: two incidents in 1998, an adult cow butchered in the woods and a group of calves grotesquely mutilated in a clearing. Last come the pukwudgie "little people" of Algonquian folklore, considered dangerous tricksters by the Wampanoag and especially associated with the state forest.
 
 Every item has a reporter, a year, a place; none has verifiable physical evidence. The sergeant's report adds weight of credibility, not a new kind of evidence.
 

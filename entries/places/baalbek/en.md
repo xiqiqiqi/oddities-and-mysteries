@@ -46,7 +46,7 @@ In the pit lies a block cut free of the bedrock but never moved: the Stone of th
 
 *Site photograph: 27 April 2018, Choinowski, CC BY-SA 4.0 (Wikimedia Commons). The pregnant stone and the two people at its end.*
 
-By 1900 the stone had been printed on a stereograph card issued by Underwood & Underwood, its back carrying the title in six languages: "The mightiest Building Stone ever cut." In the card's image a person sits in front of the block, and on the horizon behind it stand the six columns — quarry and temple in a single glance.
+By 1900 the stone had been printed on a stereograph card issued by Underwood & Underwood. Its back carried the title in six languages: "The mightiest Building Stone ever cut." In the card's image a person sits in front of the block, and on the horizon behind it stand the six columns: quarry and temple in a single glance.
 
 ![Underwood stereograph card of the pregnant stone, 1900](../../../assets/inline/baalbek-1900-stereograph.jpg)
 

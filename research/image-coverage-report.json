@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-11-17",
+  "totalImages": 442,
+  "covers": 151,
+  "inline": 291,
+  "captionTypes": {
+    "generated_reconstruction": 194,
+    "original_diagram": 152,
+    "historical_or_site_photo": 85,
+    "third_party_public_domain": 11
+  },
+  "generatedReconstructionByChannel": {
+    "creatures": 44,
+    "mystery": 37,
+    "objects": 40,
+    "places": 38,
+    "tales": 35
+  },
+  "historicalPhotoRatio": 0.192,
+  "note": "场景复原图逐张在图注标注“不是历史照片/不是现场照片”；原创示意图单独归类；真实影像/现场照片单独归类；封面分 AI 生成复原与第三方公有领域两类。"
+}

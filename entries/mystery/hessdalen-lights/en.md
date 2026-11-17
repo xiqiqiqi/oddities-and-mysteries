@@ -104,7 +104,7 @@ This explanation can explain part of the lighting, but not all. Especially those
 
 Hessdalen became a "UFO Valley".
 
-Every year people come to camp, take photos, and wait for the lights. Observation points, museums and camps were built locally. The lights didn't unravel, but the tourists came.
+Every year people come to camp, take photos, and wait for the lights. Observation points, museums and camps were built locally. Locals have grown used to the lights and no longer panic as they did in the 1980s. The lights didn't unravel, but the tourists came.
 
 An unsolved phenomenon turned into a local industry. This is not unusual. The unknown can attract people, as long as it is beautiful enough, far enough, and not dangerous enough.
 
