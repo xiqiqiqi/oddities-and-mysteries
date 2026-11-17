@@ -64,113 +64,115 @@ What it leaves is not just a horror story but a window: when a group shares the 
 
 Strasbourg, July 1518.
 
-A woman named Frau Troffea started dancing in the street. She jumped for days, and didn't stop.
+A woman, named Frau Troffea, started dancing in the street. She danced for several days without stopping.
 
-## From one person to a group
+## From One Person to a Group of People
 
-In a few weeks, more people started dancing.
+Within weeks, more people were dancing.
 
-Some say 30; others say 400. They can't stop, others fall and some die.
+Some said it was thirty people; some said it was four hundred people. They couldn't stop jumping, some fell down, some died.
 
-## The city
+## City
 
 The city tried to stop it.
 
-They call a doctor, they call a priest, they lock up the dancers. Some were bled, some were prayed over.
+They called in doctors, they called in priests, they locked up the dancers. Someone was bled, someone was prayed to.
 
-Strasbourg, 1518, is the city of the Holy Roman Empire.
+Strasbourg, 1518, was a city in the Holy Roman Empire.
 
-It has churches, markets, guilds and walls.
+It had churches, markets, guilds and city walls.
 
-## Chronicles
+## Chronicle
 
-The chronicles record this.
+The chronicles record this event.
 
-The authors are citizens, doctors, and priests. They write about dates, numbers and symptoms.
+The authors were citizens, doctors, and clergymen of the time. They wrote down the date, number of people, and symptoms.
 
-## Explanation
+## Explain
 
-There are many explanations: collective hysteria, ergot poisoning, religious fanaticism, stress.
+Explanations are many: mass hysteria, ergotism, religious fanaticism, stress.
 
-The most accepted is mass hysteria. Under pressure, people can move uncontrollable.
+The most accepted is mass hysteria. When people are under pressure, they will act uncontrollably.
 
-## And then
-
+## Later History
 The dancers slowly stopped.
 
-No one knows why it started or why it ended.
+No one knows why it started, and no one knows why it ends.
 
 ## Now
 
 Strasbourg is still there.
 
-The dance plague is a case in history books.
+The Dancing Plague became a case in the history books.
 
-Today's visitors can also see the canals and churches of that year.
+Visitors today can still see the canals and churches from those days.
 
 ## Strasbourg
 
-Strasbourg, 1518, is the city of the Holy Roman Empire.
+Strasbourg, 1518, was a city in the Holy Roman Empire.
 
-The walls, canals and guild halls make up the daily life of cities, which have a small but dense population.
+City walls, canals and guilds constitute the daily life of the city. The city's population is small, but dense.
 
-## Psychiatry
+## Hysteria
 
 Mass hysteria is a psychological phenomenon.
 
-Under stress, physical symptoms appear: convulsions, fainting, dancing. The symptoms spread through the group.
+When people are under stress, they will experience physical symptoms: convulsions, fainting, and dancing. Symptoms are contagious.
 
-## Medical
+Mass hysteria is a psychological phenomenon.
 
-The medicine at the time did not understand the condition of the hysteria.
+When people are under stress, they will experience physical symptoms: convulsions, fainting, and dancing.
 
-They shed blood, pray, and drive out the devil. No one knows that dancing is psychological.
+## Medicine
 
-The medicine at the time did not understand the condition of the hysteria.
+The medical science at that time did not understand hysteria.
 
-They shed blood, pray, and drive away the devils.
+They used bloodletting, prayed, and exorcised demons. No one knows that dancing is a psychological issue.
+
+The medical science at that time did not understand hysteria.
+
+They used bloodletting, prayed, and exorcised demons.
 
 ## History
 
-The dance plague is a case in history books.
+The Dancing Plague became a case in the history books.
 
-It suggests that group behaviour can go beyond individual control.
-
-## Memory
-
-The story's still there.
+It shows that group behavior can be beyond the control of individuals.
 
 ## Memory
 
-Dancing plague, it's a story about groups.
+The story is still there.
 
-One starts to jump, a group of people jump. The city doesn't know what to do.
+## Further Notes
+Dancing the Plague is a story about groups.
 
-Today's mass hysteria still exists. It's just a change of scene.
+One person starts dancing and a group of people follows. The city doesn't know what to do.
 
-## And finally
+Mass hysteria still exists today. Only the stage has changed.
 
-Dancing plague, no explanation.
+## At Last
 
-It only leaves one city with a bunch of dancers.
+Dancing Plague, no explanation.
 
-The story is still in the history book.
+It leaves only a city and a group of dancing people.
 
-## Remember
+The story is still in the history books.
 
-Dancing plague, it's a story about groups.
+## Remember Again
 
-One person starts to jump, a group of people jump. The city doesn't know what to do. Today's mass hysteria still exists. It's just the stage.
+Dancing the Plague is a story about groups.
 
-One jump, one jump. The city doesn't know what to do. The story stays in the history book.
+One person starts dancing and a group of people follows. The city doesn't know what to do. Mass hysteria still exists today. Only the stage has changed.
 
-No one knows why she started jumping, no one knows why they stopped. The city can only watch and then record.
+One person dances, a group of people dance. The city doesn't know what to do. The story remains in the history books.
 
-## Archives
+No one knows why she started jumping, no one knows why they stopped. The city can only watch and record.
 
-In July 1518, the women of Strasbourg started to dance. Her name was Frau troffea, and she jumped for a few days and couldn't stop.
+## File
 
-She's not the only one. Soon, dozens of people joined, dancing turned into an out-of-control ritual.
+In July 1518, the women of Strasbourg began to dance. Her name was Frau Troffea and she danced for days and couldn't stop.
+
+She's not the only one. Soon, dozens of people join in and the dance turns into a ritual that spirals out of control.
 
 ---
 

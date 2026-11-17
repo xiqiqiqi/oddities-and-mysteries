@@ -72,119 +72,116 @@ But it is also a reminder that a life can fill a stage and still be ended by som
 
 ## Childhood
 
-Tennessee Williams, formerly Thomas Ranil Williams.
+Tennessee Williams, formerly known as Thomas Lanier Williams.
 
-He was born in 1911 in Mississippi, where he lived with his mother, sister and brother.
+He was born in Mississippi in 1911 and spent his childhood living with his mother, sister, and brother. The father was an alcoholic and family relations were strained.
 
-## Name
+## The Name
+"Tennessee" is his pen name.
 
-Tennessee is his pen name.
+He didn't want to use his original name and didn't want his family to be implicated. The pen name comes from his father's Tennessee roots.
 
-He doesn't want to be associated with his family in his original name.
+"Tennessee" is a pen name.
 
-Tennessee is a pen name.
+It comes from the father's Tennessee heritage. Williams did not want to use his original name and did not want his family to be implicated.
 
-It comes from the father's Tennessee blood. Williams doesn't want to be associated with his family in his original name.
+## Drama
 
-## A play
+Williams wrote many plays.
 
-Williams wrote a lot of plays.
+"The Glass Menagerie", "A Streetcar Named Desire", "Cat on a Hot Tin Roof" and "Summer and Smoke". He writes about the South, family, desire, loneliness, and violence.
 
-The Glass Zoo, The Street Car, The Hot Iron Roof Cat, Summer and Smoke. He writes about the South, family, desires, loneliness and violence.
+"The Glass Menagerie" is a memory play.
 
-Glass Zoo is a memoir.
+"A Streetcar Named Desire" is about sisters, desire and violence.
 
-The Street Car of Desire writes about sisters, desires and violence.
+Cat on a Hot Tin Roof is about family, lies and legacy.
 
-The Cat on the Hot Iron Roof writes about family, lies and inheritance.
+Williams' play is highly autobiographical.
 
-Williams plays, very autobiographical.
+Laura in "The Glass Menagerie" is based on his sister. Blanche in "A Streetcar Named Desire" has his shadow.
 
-Laura in Glass Zoo, the prototype is his sister. Blanche in the Street Car, he's got a shadow.
+## Die
 
-## Death
+Williams died in a New York hotel on February 25, 1983.
 
-On February 25, 1983, Williams died at the New York hotel.
+The official story was suffocation and the cause was a bottle cap. He was filling a bottle cap with medicine and it fell into his throat.
 
-The official statement was suffocation because of a bottle cap, which he was filling with and which fell into his throat.
+There are many versions of Williams' death.
 
-Williams' death, lots of versions.
+Some said he drank wine and took medicine; some said the bottle cap got stuck in his throat; some said he died alone in the hotel.
 
-He was said to have been drinking and drugged; a bottle of lid was said to be stuck in his throat; and a man said that he died alone in a hotel.
+There are many versions of Williams' death.
 
-Williams' death, lots of versions.
+Bottle caps, drugs, alcohol, it's all possible. The autopsy report did not fully explain.
 
-Bottle caps, drugs, alcohol. The autopsy report is not fully explained.
-
-## Question
+## Doubt
 
 There are many questions about death.
 
-Some say it's an overdose; others say it's alcohol; others say it's a bottle cap. The autopsy report does not explain it completely.
+Some say it's a drug overdose; some say it's alcohol; some say it's a bottle cap. The autopsy report did not fully explain.
 
-## After
+## Aftermath
+Williams' death became news in the literary world.
 
-Williams' death became literature news.
-
-His play continues, his biography continues to be published. Death does not cover the work.
+His plays continue to be performed and his biographies continue to be published. Death does not cover the work.
 
 ## Now
 
-Williams plays, still playing around the world.
+Williams' plays are still performed around the world.
 
-He wrote the south, it's changed, but he wrote the man, still.
+The South he wrote about has changed. But the person he wrote about is still there.
 
 ## South
 
-Williams plays, mostly in the south.
+Most of Williams' plays take place in the South.
 
-Mississippi, Louisiana, Florida. He writes plantations, small towns, apartments, hotels.
+Mississippi, Louisiana, Florida. He wrote about plantations, small towns, tenements, and hotels.
 
-## Legacy
+## Heritage
 
-Williams plays, played repeatedly.
+Williams' play was performed repeatedly.
 
-His character became an actor's test. His southern part became a map of American literature.
+His role has become a touchstone for actors. His South became the map of American literature.
 
-Williams plays, still playing.
+Williams' play is still being performed.
 
-His south, it's changed, but he wrote the man, he's still there.
+His south has changed. But the person he wrote about is still there.
 
 ## Family
 
-Williams family, complicated.
+Williams' family is very complicated.
 
-The father drinks, the mother controls, the sister is mentally unstable. He writes about the family.
+The father is an alcoholic, the mother is controlling, and the sister is mentally unstable. He wrote family into the play.
 
-## Memory
+## Further Notes
+Williams writes about family.
 
-Williams wrote about the family.
+There is love and violence in the family. His characters are always escaping and always returning to the starting point.
 
-There's love in the family, there's violence. His characters, they're always running away, they're always back to where they came from.
+His death was like his play: sudden, chaotic, and without explanation.
 
-His death is like his play: suddenly, in chaos, without explanation.
+## At Last
 
-## And finally
+Williams' play is still being performed.
 
-Williams plays, still acting.
+The characters he wrote still speak on the stage. Death did not make them disappear.
 
-He writes characters, he talks on the stage. Death doesn't make them disappear.
+## Remember Again
 
-## Remember
+After Williams' death, his drama continued.
 
-After Williams died, his play didn't stop.
+"The Glass Menagerie" is still being performed, and "A Streetcar Named Desire" is still being adapted. The South he wrote about has changed; the people he wrote about are still there.
 
-The Glass Zoo is still in play, and the Street Car Excerpt is still being adapted. He wrote the south, it's changed; he wrote the man, it's still there.
+The characters he writes are always escaping from their families and always returning to their families. The South on the stage is more real than the South on the map.
 
-He writes that people are always running away from their families and going back to their homes. The South on the stage is more real than the South on the map.
-
-He writes about the South, he writes about himself. The family on the stage is more real than reality.
+He writes about the South and himself. The family on stage is more real than reality.
 
 The South on the stage is more real than the South on the map.
 
-## Archives
+## File
 
-In February 1983, Tennessee Williams died at the New York Hotel. Officially, he choked on the bottle cap.
+In February 1983, Tennessee Williams died in a New York hotel. Officials said he choked on a bottle cap and suffocated.
 
 ---
 

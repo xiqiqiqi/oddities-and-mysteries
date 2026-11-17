@@ -36,21 +36,49 @@ The most common explanation is lightning. The storm was severe, and the church m
 
 The north door of Holy Trinity, Blythburgh, is still there. The scorch marks are still visible, and the church is a local landmark. A notice inside tells the story of the black dog of 1577. St Mary’s in Bungay is still standing too, and visitors can go inside. A dog ran through a church in less than a minute. People have told the story for more than four hundred years.
 
-## Black dog from East Anglia
+## The Black Dog of East Anglia
 
-Black dogs are not only found in Bungay. Across the East Anglia swamps, coast, and country roads, a huge black dog was known as the Blackshak, the Old Sark, or the Helldog. It appeared alone, sometimes in crowds; sometimes it was just passing, sometimes used as a warning of death. There is no uniform image of these stories. Some say it is red, others say it has no eyes; some say it is as big as a calf, others say it is as big as a dog. The common element is colour: black. Black dogs are linked to storms, swamps, intersections, churches. These places are scary at night and prone to accidents. The stories mark them as “dangerous”.
+The legend of the black dog is not exclusive to Bongas. 
 
-## 1577 booklets
+Across the marshes, coastlines, and country lanes of East Anglia, an enormous black canine has long been whispered about. Locals dubbed it “Blackshack,” “Old Shack,” and even “Hell‑dog.” The creature is reported to appear alone or in packs, merely passing through, or to be a harbinger of death. 
 
-The events in Bungay and Blythburgh were written into a booklet at the time. The author, Abraham Fleming, was a cleric. Soon after the incident he printed *A strange and terrible strange thing* and recorded the passage of the two churches, the casualties, and the accounts of the witnesses. The booklet was strong, and it was all about “a warning” and “punishment” and “repent”. Fleming didn’t come to the scene. He wrote about what he was told, with his own explanation. Storms, thunderstorms, damaged churches, they could be real. Black dogs go through churches, they leave a scar, the hardest part of the story to verify.
+No single, consistent image has emerged. In some accounts, its eyes burn red; others claim it has no eyes at all. Descriptions vary from the size of a calf to that of a ordinary dog. The unifying detail is its midnight hue. 
 
-## Thunder strike and scar
+The black dog is repeatedly linked with storms, swamps, crossroads, and churches—places that are frightening after dark and prone to mishaps. These settings are marked as “dangerous” in the tales.
 
-The most common explanation is thunder strike. The storm of 4 August 1577 was strong. Lightning struck the church, which could result in stone sculptures, wood fires, and casualties. In a panic, a dog who was scared by thunder ran into the church and could be seen as a “black dog”. The north gate of St. Trinity’s Church in Blythburgh does have black and black marks. These marks may have been left by lightning or by subsequent fires or repairs. The church keeps them as physical evidence of the story; but the physical evidence can only prove that the door was burned, not that the dog was there.
+---
 
-## Why the church?
+## The 1577 Pamphlet
 
-The Black Dog story chose the church, not by chance. In Britain in the sixteenth century, the church was the strongest and most familiar building in the village, and the place where the boundary between the natural and the supernatural was most often tested. A black dog in a church was not just a monster; it was a theological argument.
+The events at Bongas and Blishburg were recorded in an 18‑page pamphlet of the era. 
+
+Authored by Reverend Abraham Fleming, a clergyman, the pamphlet, titled *A Strange and Terrifying Marvel*, was printed shortly after the incident. It chronicled the sequence of events at the two churches, casualties, and eyewitness testimonies. Fleming’s tone was solemn and admonishing, filled with words like “warning,” “punishment,” and “repentance.” 
+
+He never visited the site himself; his account was assembled from others’ reports and his own interpretations. While the storm, lightning strikes, and damaged churches are plausible, the claim that a black dog traversed the sanctuary and left scorched marks is the most difficult to verify.
+
+---
+
+## Lightning and Scorch Mark
+
+The prevailing theory attributes the damage to a lightning strike.
+
+On 4 August 1577 a fierce storm struck. Lightning hit the church, likely setting loose stone carvings, catching the timber in flame, and causing casualties. In the ensuing chaos, a frightened dog—sudden thunder as a cue—could have darted into the nave, a sight that later observers might have described as the “black dog.” 
+
+The north door of Trisypur’s Trinity Church bears scorch marks. These could be from the lightning itself, or from a later fire or repair. The door’s preservation lent itself to the tale: it stands as physical evidence of fire, but it cannot confirm the presence of a canid.
+
+---
+
+## Why Churches
+
+The choice of a church is deliberate.
+
+In 16th‑century England, the church was the village’s most robust, communal structure. Lightning striking a church was interpreted as a divine warning. A black dog breaching a sanctuary carried more symbolic weight than entering a barn—it crossed the very threshold of safety. 
+
+Fleming’s pamphlet served a theological need. Amid the Reformation’s turmoil, Catholic rites were being abolished and Protestant clergy sought to prove that God condemns irreverence. A blustery tragedy, two deaths, and a black dog together formed an ethical parable. 
+
+The legend persisted beyond the aftermath of the storm, drifting into taverns, postcards, and local ghost‑story itineraries. A dog, frightened by thunder, became one of East Anglia’s enduring myths. 
+
+Today, Bongas’s church remains open. Visitors can walk through the north door and see the charred wood. Guides may say it was left by the black dog; others claim the lightning. Either way, the same timber tells both tales.
 
 ---
 

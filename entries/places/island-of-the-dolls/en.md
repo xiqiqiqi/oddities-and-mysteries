@@ -72,91 +72,91 @@ A man lived alone on a small island for fifty years, collected hundreds of dolls
 
 ## Canal
 
-Doll Island, in the Hochimirko Canal District, Mexico City.
+Island of the Dolls, in the Xochimilco Canal Zone in Mexico City.
 
-This was once an agricultural area of the Aztec people, which became a tourist destination. On both sides of the Canal are artificial islands (chinampa), flowers, vegetables, restaurants and boats.
+This was once an Aztec agricultural area and later became a tourist attraction. On both sides of the canal are artificial islands (chinampa) where flowers and vegetables are grown, as well as restaurants and boats.
 
-The canal of Hochimirko was dug artificially.
+The canals of Xochimilco were dug manually.
 
-The water is shallow and the boat is small. The sides are artificial islands, flowers and vegetables. Tourists take boats, watch flowers, listen to music.
+The water is shallow and the boat is small. There are artificial islands on both sides of the strait, where flowers and vegetables are grown. Tourists take boats, see flowers and listen to music.
 
-## The man on the island
+## Man on Island
 
-The man on the island is Julian Santana Barrera.
+The man on the island is named Julian Santana Barrera.
 
-He lived on the island alone, living by fishing and growing vegetables. In the 1950s, he started hanging dolls on trees. Some said he was trying to remember a drowning girl; others said he was trying to drive out evil spirits.
+He lives alone on the island and makes a living by fishing and growing vegetables. In the 1950s, he began hanging dolls from trees. Some people say that he is to commemorate a drowned girl; some people say that he is to drive away evil spirits.
 
-## Dolls
+## Baby
 
-The dolls were hanging on trees, walls and boats.
+Dolls hang from trees, walls and boats.
 
-They're wet by rain, dry by sun, their hair is falling off, their eyes are white. Some of them have little arms, some have only one head. They don't look like toys, more like remains.
+They were soaked by rain and dried by the sun, their hair fell off and their eyes turned white. Some dolls are missing arms and legs, and some have only one head. They look less like toys and more like remains.
 
-The dolls on the island, they're not just toys anymore.
+The dolls on the island are no longer just toys.
 
-They're broken by rain, sunlight and birds. Some have lost their hair, some have lost their eyes. They look like people, and they don't look like people.
+They are damaged by rain, sun and birds. Some have lost their hair, some have lost their eyes. They look human, but not human.
 
-The dolls on the island, they're from Julian.
+The doll on the island was hung by Julian.
 
-Why did he hang up, nobody knows. Some people say memorials, some say exorcism, some say it's just loneliness.
+Why he died, no one knows. Some say commemoration, some say exorcism, some say just loneliness.
 
-## Death
+## Die
 
-On April 17, 2001, Julian died on the island.
+Julian died on the island on April 17, 2001.
 
-He died in the canal with no clear record of the cause of death. Some say he drowned, some say he had a heart attack. After he died, the dolls on the island continued to hang and became a scene.
+He died in the canal, the cause of death not clearly recorded. Some said he drowned, others said he had a heart attack. After his death, the dolls continued to hang on the island and became an attraction.
 
 ## Now
 
-Doll Island became a tourist destination.
+The Island of the Dolls became a tourist spot.
 
-Tourists come by boat, take pictures, buy souvenirs. There are no permanent residents on the island, but only dolls and old houses.
+Tourists come by boat, take photos and buy souvenirs. There are no permanent residents on the island, just dolls and old houses. The local government once wanted to clean it up, but the dolls have become cultural symbols.
 
-## The story
+## Story
 
-The story of doll island is about loneliness and remembrance.
+The story of Island of the Dolls is about loneliness and remembrance.
 
-A man lives on the island and fills trees with dolls. He doesn't know that these dolls will turn into attractions or that they will be filmed as horror films.
+A man lives on an island and fills trees with dolls. He had no idea the dolls would be turned into attractions or that they would be made into horror films.
 
-The dolls aren't ghosts. They're just plastic and cloth, they're dirty in time.
+The doll is not a ghost. They're just plastic and cloth, stained by time.
 
-## Tourism
+## Travel
 
-Doll Island is a tourist destination.
+Island of the Dolls is a tourist spot.
 
-Tourists come by boat, take pictures, buy souvenirs. There are no toilets, no restaurants, only dolls.
+Tourists come by boat, take photos and buy souvenirs. There are no toilets or restaurants on the island, just dolls.
 
-Doll Island has become a tourist destination.
+The Island of the Dolls became a tourist attraction.
 
-Tourists come by boat, take pictures, buy souvenirs. There are no residents on the island, only dolls.
+Tourists come by boat, take photos and buy souvenirs. There are no inhabitants on the island, only dolls.
 
 ## Ecology
 
 The water quality of the canal is declining.
 
-Tourism, agriculture and urban sewage affect the canal. The name of doll island also brings more people here.
+Tourism, agriculture and urban sewage affect the canal. The fame of Doll Island has also attracted more people to come here.
 
-A site consisting of dolls, behind which an injured canal was found.
+An attraction made of dolls with a wounded canal behind it.
 
-## Hodge Mirko
+## Xochimilco
 
-Hodge Mirko is south of Mexico City.
+Xochimilco is south of Mexico City.
 
-This was once a lake, which was replaced by canals and artificial islands.
+This was once a lake, which was later replaced by canals and artificial islands. Flowers and vegetables are grown on the island, and boats are the means of transportation.
 
-## Manshima
+## Artificial Island
 
 The artificial island is called chinampa.
 
-People dig from the bottom of the lake, pile up into islands, then plant willows. The islands are narrow, the water is shallow and the ships can cross.
+People dug mud from the bottom of the lake, piled it into islands, and planted willow trees to stabilize the soil. The island is very narrow and the water is shallow enough for a boat to pass through.
 
 ## Environment
 
-The dolls are still in the trees, the canals are still flowing. The men on the island are gone and the story is left.
+The doll is still in the tree and the canal is still flowing. The men on the island are gone, but the story remains.
 
-There's some dolls on doll island without a head. Legends say tourists or storms break.
+On the Island of Dolls, some dolls have no heads. Legend has it that it was damaged by tourists or a storm.
 
-The dolls on the island were first placed by local fishermen. Later, tourists also brought the dolls. No one counted the number of dolls. There were, according to some people, thousands.
+The dolls on the island were first placed by local fishermen. Later, tourists also brought dolls. No one has counted the number of dolls. Some say there are thousands.
 
 ---
 

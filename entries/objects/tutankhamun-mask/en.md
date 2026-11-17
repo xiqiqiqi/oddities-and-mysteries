@@ -58,69 +58,69 @@ It has a gallery of its own. The light is low, and the mask is lit separately. V
 
 A king who died at eighteen or nineteen still has a gold face three thousand years later. Someone broke his beard while fixing a lamp and glued it back with the wrong adhesive. Those marks are now part of its history too.
 
-## Cemetery
+## Tomb
 
-In 1925, Howard Carter opened Tutankhamun's grave in King's Valley.
+In 1925, Howard Carter opened Tutankhamun's tomb in the Valley of the Kings.
 
-The mask is covered on the head of the mummies, facing up. It is made of gold mounds, with glass, pinestone, green pinestone, and red marrow. It weighs more than ten kilograms.
+The mask was placed over the mummy's head, facing upward. It is made of gold leaf and inlaid with glass, lapis lazuli, turquoise and carnelian. Weighs more than ten kilograms.
 
-The mask is not a separate work of art; it's part of the funeral. It's covered in the face, and it walks the dead into another world. Its eyes are black and white, like the eyes of a living person.
+The mask is not a separate piece of art, it is part of the funeral. It covers the face and accompanies the deceased into another world. Its eyes are painted with black and white eyeliner, like the eyes of a living person.
 
-## Materials
+## Material
 
-The main ingredient of the mask is gold.
+The main material of the mask is gold.
 
-Under the golden gills there is cast and wood support. The gold content in different parts is not exactly the same, with some high purity and others with a lot of alloys. The mosaiced stones are also well known: the pinestones are from Afghanistan, the pinestones are from Sinai, and the marrow is from the eastern desert of Egypt.
+The gold leaf is supported by plaster and wood. The gold content in different parts is not exactly the same, some are of higher purity and some have more alloys. The inlaid stones are also particular: lapis lazuli comes from Afghanistan, turquoise comes from Sinai, and carnelian comes from the eastern desert of Egypt.
 
-The material shows that the Egyptian trade network is far more than many people think. A Pharaoh's funeral used stones from several countries.
+These materials show that Egypt's trade network was farther than many people imagined. A pharaoh's funeral included stones from several countries.
 
-## A beard
+## Beard
 
-There's a fake beard on the chin of the mask.
+The mask has a fake beard on its chin.
 
-In 2014, museum staff broke their beard while moving. The accident was filmed as an international news story. The repairer glued the beard back with epoxy resin, but left a clear trail.
+In 2014, museum staff broke the beard while transporting it. The accident was filmed and became international news. The restorer used epoxy to glue the beard back on, but it left a noticeable mark.
 
-The repair team then reprocessed the epoxy resin and changed it to a more suitable material. The mask was put back into the booth, but the accident became a negative material for the preservation of the antiquities.
+Later restoration teams reworked the process, removing the epoxy and replacing it with more suitable materials. The mask was put back into the display case, but the accident became a negative example of cultural relic protection.
 
 ## Repair
 
-The mask is repaired, not just to glue the broken parts back.
+Mask repair is not just about gluing the broken parts back together.
 
-The gold is thin, easily deformed; the embedded stone is loose; the surface dust cannot be used as a normal cleaner.
+The gold foil is very thin and easily deformed; the inlaid stones will loosen; ordinary cleaners cannot be used to remove dust on the surface. Restorers use microscopes, soft brushes and custom tools.
 
-Each repair leaves a record of what materials were used, what was handled, and where was not moved. These records are more important than the repair itself, because later researchers need to know what was original and what was intervention.
+Every repair will leave a record: what materials were used, what treatment was done, and which areas were left untouched. These records are more important than the restoration itself, because subsequent researchers will need to know which parts were original and which were interventions.
 
 ## Now
 
-The Tutankhamun mask was displayed at the Egyptian Museum in Cairo.
+The Tutankhamun mask is on display at the Egyptian Museum in Cairo.
 
-It doesn't go abroad much. In 2019, it was scheduled to go to Germany for an exhibition, and the dispute was cancelled for restoration. Egypt said the mask needed a more stable environment.
+It doesn’t go abroad often. In 2019, it was scheduled to be exhibited in Germany, but was later canceled due to a restoration controversy. Egypt says the masks require a more stable environment.
 
-A mask, from the face of a pharaoh, to a glass cabinet. It still looks ahead, except that it is no longer the Nile, but a tourist.
+A mask, from the face of a young pharaoh, to a glass cabinet. It is still looking ahead, but it is no longer the Nile, but tourists.
 
-## Gold ding-tao
+## Gold Leaf
 
-The mask's gold is thin.
+The gold foil of the mask is very thin.
 
-The craftsmen turn the hammers into thin pieces, cutting, plasticing, insulating. The thickness of the gold is uneven, and some are thick and others thin. This is not a mistake, but a piece of evidence.
+Craftsmen hammered the gold nuggets into thin slices, then cut, shaped and set them. The thickness of the gold foil is uneven, thick in some places and thin in others. This is not a mistake, but evidence of handiwork.
 
-The gypsum and wood below the glycerine determine the shape of the mask. The glyph is just skin, the bone is inside. It's long, the bone is deformed, the glycerine is torn.
+The plaster and wood underneath the gold leaf determine the shape of the mask. The gold foil is just the skin, the skeleton is inside. Over time, the skeleton will deform and the gold foil will crack.
 
 ## Exhibition
 
-The mask was displayed at the Egyptian Museum in Cairo.
+The mask is on display at the Egyptian Museum in Cairo.
 
-It is placed in a separate booth, and the lights come from the side.
+It is placed in a separate display case, with light coming from the side. Tourists are not allowed to get close, nor are they allowed to take photos or flash their lights. There are temperature and humidity sensors in the display cabinets, which are checked by staff every day.
 
-The mask booth was closed for some time because of the restoration of the dispute. It was reopened, but the rules for the visit were tightened.
+The mask booth was closed for a period of time due to a restoration dispute. It later reopened, but with stricter visiting rules.
 
-## Protection
+## Protect
 
-The preservation of cultural objects is not just a fix.
+Cultural relic protection is not just about repairing something.
 
-It also includes recording, monitoring, restricted access, and training of personnel.
+It also includes recording, monitoring, restricting access, and training personnel. Every movement of the mask must be approved. Every time you clean, use the softest tools possible.
 
-A mask, for over 3,000 years, has been buried, discovered, moved, repaired, displayed. It has a longer history than Pharaoh.
+A mask has been buried, discovered, transported, restored, and exhibited for more than three thousand years. Its history is longer than that of Pharaoh.
 
 ---
 

@@ -58,25 +58,20 @@ No body, no capture, no reliable photograph. What remains is a stack of newspape
 
 He may have been one man. He may have been several. He may have been a story told too many times.
 
-## Supplementary Notes
+## Supplementary Note
 
-The story of Jack the Spring Leg overlaps with London’s night-time history of lighting. The gas light makes the streets brighter and the shadow more sudden. A man jumps from the light into the dark, and from the dark into the wall, and it looks like it's gone. Technology changes cities, and it changes the way monsters appear.
+The story of Spring Heeled Jack overlaps with the history of London's nighttime lighting. Gaslight made the streets brighter than before and made the shadows more sudden. A person jumps from the light into the dark and then from the dark to the wall, seemingly disappearing. Technology has changed cities, and it has also changed the way monsters appear. Before gas lights, the streets at night were not clearly visible, and monsters did not need special movements; gas lights cut the streets into bright and dark blocks, and a person who jumped from the light into the dark had the effect of "disappearing". The story of Spring Heeled Jack is stuck at this turning point.
 
-Jack's name was never confirmed. Some say he's a nobleman, some say he's an actor, some say he's a group of people's collective pranks. Each story lacks the last link, and the missing link just keeps the story going.
+Spring Heeled Jack has never been identified. Some say he is a noble, some say he is an actor, some say he is a collective prank of a group of people. Every theory is missing a final link, and the missing link is what keeps the story going.
 
-He doesn't need a real name. He just needs one night, and a street that's dark enough.
+He doesn't need a real name. All he needed was a night and a dark enough street. For researchers, the value of this case is also here: it records how fear is told, printed, performed, and finally turned into a character that does not need a prototype.
 
-In 1837, for the first time, the London newspaper reported "Jake Spring Legs." A man in a cape jumped through the fence and attacked a woman. Police set a trap and didn't catch him. Later, the story was picked up by a play and a cheap reading. The name of Jack Spring Leg was later used in comics and movies. London newspaper forgot about it.
+The image later left London. Stage plays took him to other provinces, cheap books printed him as illustrations, and comics and movies borrowed him. Each adaptation gives him a different set of clothes, but keeps the same actions: jumping, jumping over walls, and disappearing. The name also became fixed and became a ready-made metaphor in English - when a person suddenly disappears from sight, it can be said that he "jumped away like Spring Heeled Jack".
 
-The legend of Jack the Spring Leg, peaked in 1838. The newspaper said he could jump over a four-foot wall. The police offered a reward, no one received it. Later, the story was taken away by cheap readings, and the more exaggerated it was written.
+To today's readers, he is more like a mirror: how a city molds its fears at night into a character that can be told over and over again. Gaslight, newspapers, cheap reading materials and the stage pushed him away layer by layer, but also made him clearer layer by layer.
 
-His name, later written as "Spring-Heeled Jack." The name was used until today. The bad guys in the comics used it.
+His leaps grew taller in every retelling, until the wall itself became part of the legend. The story moved from newspaper columns into penny dreadfuls, music halls and, eventually, cinema.
 
-The picture of Jack with the spring leg appeared in the old newspaper. He was wearing a white cape and a helmet. The details of the picture were described by the witness. No one took the picture.
-
-The portrait is not signed. The author is who, no one knows.
-
-The Jack story also shows how a single unexplained encounter can become a recurring character. Newspapers gave him a name, a costume and a chronology; later witnesses described what the papers had taught them to expect. Whether or not a man ever jumped over a wall, the figure on the page learned to jump. By the end of the century he had moved from news columns to penny dreadfuls and music halls. The further he travelled from the original streets, the more elaborate his escapes became. That is how an urban legend grows: not by evidence, but by repetition.
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the contemporary newspaper reports, the later popular-literature figure, and modern explanations; it does not identify Spring-Heeled Jack as a confirmed creature.

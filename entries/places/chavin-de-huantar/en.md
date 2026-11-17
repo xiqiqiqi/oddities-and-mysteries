@@ -60,99 +60,97 @@ The 1970 earthquake damaged parts of the buildings, and later restoration used m
 
 A temple three thousand years old used darkness, narrow passages, and sound to make people believe that a god was just behind the wall.
 
-## The valley
+## Valley
 
-Chavend Vantal, in a valley in the Andes, Peru.
+Chavín de Huantar, in a valley in the Peruvian Andes.
 
-The site is more than 3,000 metres above sea level, surrounded by mountains and valleys. It was built around 900 B.C. and is the centre of Chavin culture.
+The site is more than 3,000 meters above sea level and is surrounded by mountains and river valleys. It was built around 900 BC and was the center of Chavin culture.
 
-## Old temples and new temples
+## Old Temple and New Temple
 
-The site has two main buildings: the Old Temple and the New Temple.
+The site has two main buildings: the old temple and the new temple.
 
-The old temples are in U shape, with courtyards, corridors, and underground rooms. The new temples are bigger, with squares, stairs, and stone sculptures.
+The old temple was U-shaped with courtyards, corridors and underground rooms. The new temple is larger, with plazas, stairs and stone carvings. Between the two buildings, there are passages and platforms.
 
 ## Underground
 
-There's a narrow passage under the old temple.
+There is a narrow passage underground in the old temple.
 
-The passageway contains steps, vents, and stone sculptures. The end is a room with a pillar called Lanzón. The pillar is engraved in a mixture of cats and humans, with teeth and snakes.
+There are steps, vents and stonework in the passage. At the end is a room with a stone pillar called "Lanzón". Carved on the pillar is a hybrid of feline and humanoid forms, with tusks and snakes.
 
-## Sound
+## The Sound
+The design of the channel may be related to sound.
 
-The design of the tunnel may be associated with sound.
+When you speak in a channel, your sound will be amplified and reflected. Researchers believe that priests may have made sounds in the passages so that believers could hear "the voice of God."
 
-Speaking in the passageway, the sound is magnified and reflected. The researchers believe that the priest may make a sound in the passage and let the faithful hear the voice of God.
+## The Image
+Chavín’s stone sculptures include jaguars, eagles, snakes and people.
 
-## Image
-
-Chavin's stone sculptures, with cheetahs, eagles, snakes and humans.
-
-These animals are not random. They represent power, the sky, the earth, and transformation. The religion of Chavin may involve shaman, hallucinations and sacrifice.
+These animals were not chosen randomly. They represent power, sky, underground and transformation. The religion of Chavín may involve shamans, visions, and sacrifices.
 
 ## Now
 
-Chavin is the UNESCO World Heritage Site.
+Chavin is a UNESCO World Heritage Site.
 
-Sites are repaired, reinforced, and some areas are open to tourists.
+The ruins have been restored and strengthened, and some areas are open to tourists. Stone sculptures, pottery and goldware are on display in the museum.
 
-A temple in the valley, 2,000 years earlier than the Inca Empire. It proves that Andean civilization does not suddenly emerge, but has a long roots.
+A temple in a valley predates the Inca Empire by more than two thousand years. It proves that Andean civilization did not appear suddenly, but has long roots.
 
 ## Religion
 
 Chavin's religion may involve hallucinations.
 
-Cats, snakes, and eagles on stone sculptures are associated with the shaman faith in the Amazon. The priests may use plants, sounds and darkness to make people phantom.
+The cats, snakes and eagles on the stone carvings are related to Amazon shamanism. The priest may use plants, sounds, and darkness to induce a psychedelic state.
 
-## Construction
+## Architecture
 
-The old temple's U-shaped layout, like a ritual theater.
+The U-shaped layout of the old temple resembles a ritual theater.
 
-A courtyard, a corridor and an underground room that guides people from the outside to the inside, from the clear to the dark.
+Courtyards, corridors and underground rooms guide people from outside to inside, from light to dark. Architecture is not a background, it is part of the ceremony.
 
-## Tourism
+## Travel
 
-Chavin is a tourist destination in Peru.
+Chavín is a tourist spot in Peru.
 
-Tourists can see sites, museums, and stone sculptures.
+Visitors can see ruins, museums and stone carvings. Some areas are high in altitude and require adaptation.
 
-Chavin is a tourist destination in Peru.
+Chavín is a tourist spot in Peru.
 
-Visitors can see sites, museums, and stone sculptures.
+Visitors can see ruins, museums and stone carvings. The altitude is high and requires adaptation.
 
-A temple in the valley, 2,000 years before the Inca Empire.
+A temple in a valley predates the Inca Empire by more than two thousand years.
 
-Ransson is still in the dark. It doesn't talk, but everyone who walks into the passage will hear their footsteps.
+Lan Song is still in the dark. It doesn't speak, but everyone who walks into the passage will hear their own footsteps.
 
 ## Research
 
-Chavin's research is continuing.
+Chavin’s research continues.
 
-Archaeologists are looking for residential areas, farmlands, and craftsmen's workshops. They want to know who built the temple and who feeds it.
+Archaeologists are looking for residential areas, farmland and artisan workshops. They wanted to know who built the temple and who supported it.
 
-## Andean
+## Andes
 
-Chavin in the Andes.
+Chavín in the Andes.
 
-High altitude, thin air, and cold wind. The site is surrounded by ladders, valleys and snow mountains.
+The altitude is high, the air is thin, and the mountain wind is cold. The site is surrounded by terraced fields, river valleys and snow-capped mountains.
 
-## The temple
+## Temple
 
-Chavin's temple is the centre of religion.
+The temple of Chavín is a religious center.
 
-People come from surrounding valleys, attend rituals, sacrifice, listen to priests.
+People came from the surrounding valleys to participate in ceremonies, make sacrifices, and listen to the priests.
 
-## Ranzon
+## Lansong
 
-Ransone is a pillar of stone.
+Lansong is a stone pillar.
 
-It carves a mixture of cats and humans, with teeth, snakes and eagles. It's the most important image of Chavin.
+It is engraved with a mixture of feline and human forms, with tusks, snakes and eagles. It is Chavin's most important image.
 
-## Audiology
+## Acoustics
 
-The temple's passage may be used to magnify the sound.
+Temple passages, probably used to amplify sounds.
 
-The priests speak in the passageway, and the sound reaches the square. The faithful hear not the voice of man, but the voice of God.
+The priest spoke in the passage, and his voice carried into the square. What believers hear is not the voice of man, but the voice of God.
 
 ---
 

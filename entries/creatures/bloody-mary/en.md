@@ -60,45 +60,34 @@ The real Bloody Mary was a queen in history. The one in the mirror was made by s
 
 ## Mary I
 
-The name Bloody Mary came from Mary I, Queen of England.
+The moniker “Bloody Mary” originates from the English monarch Mary I. She ascended to the throne in 1553 and died in 1558. During her reign, she restored Catholicism and violently suppressed Protestantism, leading to the execution of several hundred Protestants. Later propaganda amplified that figure, cementing “Bloody Mary” as a political nickname. Contrary to the myth, the queen has no connection to the mirror‑game; the practice of appropriating her name for a séance dates to the twentieth century. A historical figure lent her a dramatic, bloody name that proved ideal for fright.
 
-She took the throne in 1553 and died in 1558. She regained Catholicism, suppressed Protestantism, and executed hundreds of Protestants. This figure was magnified in later propaganda, with Brody Mary becoming a political nickname.
+## Mary Woss
 
-But she had nothing to do with mirror games in the bathroom. Lending the queen's name to a spiritual call, it was the twentieth century. History was empty, and there was only one blooded name that was perfect for scary.
+Another frequently cited name is “Mary Woss.” According to various accounts, she was a colonial‑era woman who either was executed for witchcraft or died in front of a mirror due to a disfigurement. The story shifts under different timelines, spellings, and accusations. In 1978, folklorist Janet Langloua published a paper tracing the spread of the Mary Woss legend in summer camps and on campuses, noting that the tale lacks a fixed historical basis. The name first emerged; the narrative then filled in to accommodate it.
 
-## Mary Voss
+## The Face in the Mirror
 
-Another name that is often mentioned is “Marie Voss”.
+Staring at a mirror for a minute can genuinely alter one’s appearance. One explanation is the Troxler effect: images at the periphery of vision that remain unchanged for a prolonged period are ignored by the brain. Certain facial features fade, and the brain reconstructs the missing parts into a new shape. Dim lighting, flickering candlelight, tension, and anticipation exacerbate this completion, making the changes seem exaggerated.
 
-The story is that she was a colonial woman who was executed for witchcraft, or died in front of the mirror for disfigurement. Different versions gave her different charges, different years, even different spellings.
+## Why the Game Works
 
-In 1978, the folklore scientist Janet Langluva wrote a paper about the ceremony. She tracked the story of Mary Vos in summer camps and campuses, and found that it did not have a fixed historical prototype. The name was popular and the story was supplemented by background.
+The mirror‑game succeeds for several pragmatic reasons.
 
-## The face in the mirror
+* It’s inexpensive: all you need is a mirror, a candle, and a dark room.
+* It carries ritualistic weight—reciting a line three times, turning once, turning off the light—making each step feel purposeful.
+* The danger is minimal but tangible.
+* Friends can participate, taking turns to scare one another.
 
-Look in the mirror for a minute. The face really changes.
+Moreover, the game is highly adaptable. Each school can add its own twists: a red dress, a pair of scissors, counting to thirteen, or refusing to light the lamp. The more variants, the more authentic the story feels.
 
-In 2010, Italian psychologist Giovanni Caputo gave 66 volunteers a 40-centimeter sit-in from the mirror, staring at their faces. About two thirds of people reported a marked change in their faces; over a quarter said they saw strangers ' faces.
+The original Bloody Mary was a historical monarch; the one you see in the mirror is a creation of players, camps, and online communities. Thus, the woman in the glass is not a fixed apparition. She is a placeholder onto which each participant projects their own fears—whether it's darkness, a distorted face, or a lurking presence behind them. The mirror simply amplifies those anxieties for a brief moment.
 
-One of the reasons is the Troxler effect: images of the edges of the horizon that remain constant for a long time can be ignored by the brain. Some parts of the face disappear, and the rest are replaced by new shapes. Dark lights, candles flash, tension and expectations can make completion even more exaggerate.
+The game’s greatest power lies in its lack of requirement for belief. Stand before the mirror, recite the lines, and leave the rest to the darkness. Even if nothing manifests, the minute you experience it is unforgettable.
 
-## Why does the game work?
+## Additional Notes
 
-The mirror game satisfied a few practical things.
-
-It's cheap. It just needs a mirror, a candle and a black room; it has a ritual sense, three readings, a round, a light off, every step of it as if it were doing; it's risky, but it's very risky; it can do it with friends and then scare one another.
-
-It's fine. Every school can add its own version: she's wearing red clothes, she's got scissors, she's counting to 13, she can't turn on the light. The more the version, the more the story is real.
-
-The real Bloody Mary is the Queen of History. The one in the mirror is made by players, summer camps and the Internet.
-
-So, the woman in the mirror is not a fixed ghost. She's an empty spot where everyone can put their fear in. Some people are afraid of the dark, some of their faces are deformed, and some of them are afraid of someone behind them. The mirrors only light up these fears for a minute.
-
-The strongest part of this game is that it doesn't have to believe. You just stand in front of the mirror, read those words, and leave the rest to the dark. Even if nothing happens, you remember that minute.
-
-## Supplementary Notes
-
-What needs to be explained is that this ritual has different versions in different schools and different countries. Some versions require lights to be turned off, some to light candles, and some to be in a dark bath at midnight. The name changes: sometimes it's “blood Mary”, sometimes it's “Marie Vos” and sometimes it's just a woman without a name. The more the text is, the more it is, the more it is not a fixed ghost, but a game that can be localized.
+It should be noted that the ritual varies widely across schools and countries. Some versions call for the lights to be turned off, others for a candle to be lit, some require midnight, and others simply an inky bathroom. The name also shifts—sometimes “Bloody Mary,” sometimes “Mary Woss,” sometimes a nameless woman. The sheer variety underscores that the legend is not a fixed ghost but a game that localizes itself.
 
 ---
 

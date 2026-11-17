@@ -62,73 +62,71 @@ Some people still say the southern landmass is Antarctica. It is more likely Sou
 
 *Original schematic: the area covered by the surviving fragment, Hapgood's Antarctica hypothesis and the mainstream rebuttal. Not a photograph of the artefact. Oddity Archive, CC BY-SA 4.0.*
 
-## Maps
+## Map
 
-The map of Piri Resi, is a 1513 Ottoman map.
+Piri Reis Map, an Ottoman map from 1513.
 
-It's painted on antelope skin with a size of about 90 x 63 centimetres. It's painted on the Atlantic Ocean, Europe, Africa, America and parts of Asia. It has longitudes, coastlines, islands and decorations.
+It is painted on chamois skin and measures approximately 90 x 63 cm. The map shows parts of the Atlantic Ocean, Europe, Africa, America and Asia. It has lines of longitude and latitude, coastlines, islands and decorative patterns.
 
-## Piri Reeth
+## Piri Reis
 
-Piri Reis is the Admiral of the Ottoman Empire.
+Piri Reis was an Ottoman admiral.
 
-He took part in the naval war and wrote a book on navigation, in which he said that the map had been drawn from a number of sources, including Columbus, the Arab map and the Greek map.
+He participated in naval battles and wrote navigation books. He said in the book that the map was drawn from multiple sources, including Columbus's maps, Arabic maps and Greek maps.
 
 ## 1929
 
-In 1929, the map was found at the Topcapa Palace.
+In 1929, the map was discovered in Topkapı Palace.
 
-It was sent to Germany for expert validation. The expert confirmed it to be the original in 1513. The American coast on the map was more accurate than the European map at the time, which was interesting.
+It was sent to Germany for expert appraisal. Experts identified it as an original from 1513. Maps of the American coast, more accurate than European maps of the time, aroused interest.
 
-## Antarctic
+## Antarctica
 
-Some say that the coast of Antarctica is painted on the map.
+Some people say that the coast of Antarctica is drawn on the map.
 
-This is from Charles Harper. He believes that the southern land on the map is Antarctica, painted in the absence of ice. This hypothesis was later used to support “old civilization” or “alien maps”.
+This statement comes from Charles Hapgood. He believed that the southern landmass on the map was Antarctica, drawn when there was no ice. This hypothesis was later used to support "ancient civilizations" or "alien maps".
 
-## Rebuttal
+## Refute
 
-“Antarctic” on the map is more likely to be the southern part of South America.
+"Antarctica" on the map is more likely the southern part of South America.
 
-Maps are projected, coastlines and shapes, and they are closer to Patagonia, Tierra del Fuego, in South America. The sixteenth century maps often draw large numbers of unknown land, linking coastlines.
+The projection, coastline and shape of the map are closer to Patagonia and Tierra del Fuego in South America. Maps of the sixteenth century often showed unknown landmass in large dimensions, with coastlines connected together.
 
-## What is it?
+## What is It
 
-The map of Piri Resi, a map of the world in the sixteenth century.
+The Piri Reis Map is a sixteenth-century world map.
 
-It used the best sources, mistakes and imaginations of the time. It wasn't painted by aliens, nor was it the legacy of ancient civilization. It was a navigational tool, and it was an image of the times.
+It used the best sources available at the time, and included errors and imagination. It was not painted by aliens, nor is it a legacy of an ancient civilization. It is a navigational tool and an image of an era.
 
 ## Projection
 
-The map was projected in various ways.
+The map uses a variety of projections.
 
-The shape of the coastline and the distance between the latitudes are not fully uniform. This means that Piri Resi is putting together maps from different sources without a single projection.
+The shape of the coastline and the distance between longitude and latitude lines are not completely uniform. This shows that Piri Reis put together maps from different sources without a unified projection.
 
-## Source
+## Sources
+Map of the western coast, possibly from Columbus.
 
-The western coast of the map, probably from Columbus.
+Piri Reis mentions Columbus's map in his book. He did not say all the sources, nor did he say who painted each section of the coast.
 
-Piri Reis refers in his book to the map of Columbus. He does not state all the sources, nor who drew each section of the coast.
+## Heritage
 
-## Legacy
+The map is now in the Topkapı Palace Museum.
 
-The map is now at the Topcapa Palace Museum.
+It is not often on display because the parchment is sensitive to light. The digitized version can be viewed online.
 
-It doesn't show much because the parchment is sensitive to light. The digital version can be viewed online.
+A map connecting the Atlantic Ocean, the Americas and the Ottoman Empire. It is a product of the Age of Sail, not a legacy of aliens.
 
-A map that links the Atlantic, the Americas and the Ottoman Empire. It's a product of the seafaring era, not an alien heritage.
+## Summing Up
+The Piri Reis map is not an "alien map".
 
-## Summing up
+It is a sixteenth-century navigational instrument, using the best sources of the time, as well as errors and imagination.
 
-The map of Piri Reis is not an “alien map”.
+The value of the map is not that it depicts Antarctica, but that it shows how the Ottoman Empire viewed the world.
 
-It was a 16th-century instrument of navigation, using the best sources at the time, as well as mistakes and imaginations.
+A map depicts the coast and leaves behind the times.
 
-The value of the map is not that it draws Antarctica, but that it shows how the Ottoman Empire sees the world.
-
-A map, a picture of the coast, and a legacy of the times.
-
-The map doesn't speak. It's just drawing the coastline, leaving it on the parchment with what the cartographer knows and doesn't know. Today, people look at it and see it in the 16th century imagination, not the Antarctic secret.
+The map cannot speak. It simply drew the coastline, leaving on the parchment both what the mapper knew and what he didn't know. When people look at it today, they see the imagination of the sixteenth century, not the secrets of Antarctica.
 
 ---
 

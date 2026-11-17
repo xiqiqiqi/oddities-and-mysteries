@@ -68,67 +68,67 @@ For historians, it is a story about relics, power and piety. One piece of wood w
 
 ## Helena
 
-The true story of the cross, starting with Helena, Constantine's mother.
+The story of the True Cross begins with Constantine’s mother, Helena.
 
-Legend has it that she went to Jerusalem in or about 326, looking for a place where Jesus had suffered. She was able to dig the foundations of a Roman temple and find three crosses. To judge which one of them was a true cross, she met one patient, and the patient recovered the third.
+Legend has it that she went to Jerusalem around 326 AD in search of the site of Jesus' crucifixion. She had the foundations of a Roman temple dug up and three crosses were found. To determine which one was the True Cross, she touched each of them to a patient, and the patient was healed when he touched the third.
 
-This story first appeared in the literature hundreds of years later. At the same time, the records were not so detailed. Helena did visit Jerusalem and did support the building of the local church, but the “Found the Three Crosses” was later described.
+This story first appeared in documents hundreds of years later. Contemporaneous records are less detailed. Helena did go to Jerusalem and did support the construction of local churches, but "finding the three crosses" was a later narrative.
 
-## Distribution
+## Distribute
 
-When the true cross was discovered, it was divided into lots and sent to churches everywhere.
+After the True Cross was discovered, it was divided into many pieces and sent to churches around the world.
 
-Jerusalem retains part, Constantinople part, and Rome part. Middle-century pilgrims bring small crosses back to Europe and put them in the cathedral's holy box. Each distribution produces new fragments.
+Jerusalem retained a portion, Constantinople retained a portion, and Rome also retained a portion. Pilgrims in the Middle Ages brought small pieces of crosses back to Europe and placed them in church reliquaries. With each distribution, new fragments are generated.
 
-The more fragments there are, the more obvious the problem is: how can one cross divide so many pieces?
+The more fragments there are, the more obvious the problem becomes: How can a cross be separated into so many pieces?
 
 ## Calvin
 
-John Calvin, the 16th-century religious reformer, wrote a famous criticism.
+The sixteenth-century religious reformer John Calvin wrote a famous critique.
 
-He said that if all the fragments claimed to be real crosses were collected, they would fill a boat. He meant not denying the suffering of Jesus but criticizing the worship of the Holy One: the fragments became merchandise and the faith became a trade.
+He said that if all the fragments claiming to be the True Cross were collected together, there would be enough to fill a boat. His point was not to deny the crucifixion, but to criticize the cult of relics: fragments became commodities, faith became commerce.
 
-Calvin's criticism is still valid today. In the sacred market, the truth is hard to tell, the story is worth more than the wood.
+Calvin's criticisms are still valid today. In the holy relics market, authenticity is difficult to distinguish, and stories are more valuable than wood.
 
 ## Test
 
-Scientists have tried to use radioactive carbon to set a year.
+Scientists have tried radiocarbon dating.
 
-But sacred fragments are usually small, and sampling destroys cultural objects. And wood can be disposed of by later people, and surface coatings and preservation materials can influence the outcome. Carbon year gives the age of wood, and it does not prove which tree it comes from.
+But fragments of sacred relics are often small, and sampling would destroy the artifacts. Furthermore, the wood may have been treated by later generations, and surface coatings and preservation materials may affect the results. Carbon dating gives the age of the wood but does not prove which tree it came from.
 
-Rome has a label called "ROMA" or "OPPOSE." Some say it was an early Church certification of sacred objects; others say it was later added. The label itself needs to be authenticated.
+There is a mark in Rome called "ROMA" or "OPPOSE". Some people say that this is the early church's certification of holy objects; others say that this was added later. The label itself also needs to be authenticated.
 
 ## Now
 
-The fragments of the true cross are still scattered in churches and museums in Europe.
+Fragments of the True Cross are still scattered in churches and museums across Europe.
 
-Most of them are small, in silver boxes, crosses, or sacred boxes. A believer looks at wood; a researcher looks at materials, ages and circulation records.
+Most of them are small and placed in silver boxes, crosses or reliquaries. When believers look at it, they see wood; when researchers look at it, they see materials, dates, and records of circulation.
 
-Can a wood fragment carry 2,000 years of faith? There is no scientific answer to that question. It's a faith, not an archaeology.
+Can a piece of wood carry two thousand years of faith? There is no scientific answer to this question. It belongs to faith, not to archeology.
 
-## Holy Cemetery
+## Holy Sepulcher
 
-The Church of the Holy Sepulchre in Jerusalem, each one of them in the legend.
+The Church of the Holy Sepulcher in Jerusalem was built on the legendary Golgotha.
 
-Helena ordered the building of the church, which Constantine supported. The church was destroyed by Persians and rebuilt by the Crusades. Today's building is the result of a multi-generational build-up.
+Helena ordered the church to be built, and Constantine supported it. The church was later destroyed by the Persians and rebuilt by the Crusaders. Today's architecture is the result of the superposition of multiple eras.
 
-The discovery of the true cross is tied to this church. Without the church, there is no story of finding the crucifix. Places, buildings and sacred objects, prove each other.
+The discovery of the True Cross is tied to this church. Without the church, there would be no “finding the cross” story. Places, buildings and sacred objects all bear witness to each other.
 
 ## Pilgrimage
 
-Middle-century pilgrims bring back a small cross.
+Pilgrims in the Middle Ages would bring back a small piece of the cross.
 
-They put it in a silver box, hanging it around their necks, or in a church box. Pilgrims are a journey, a consumption. Holy things are a souvenir of a journey, a proof of faith.
+They put it in a silver box, hung it around their neck, or put it in a church reliquary. Pilgrimage is a kind of travel and consumption. Relics are souvenirs of travel and evidence of faith.
 
-The more pilgrims there are, the more fragments. The church needs a sacred object to attract people, and it needs a story to prove itself. It's a cycle.
+The more pilgrims there are, the more fragments there are. The church needs sacred objects to attract people, and sacred objects need stories to prove themselves. This is a cycle.
 
 ## Science
 
-Science can do very little.
+There is a limit to what science can do.
 
-Carbon year can measure the age of wood, and it can't prove that it belongs to Jesus. DNA cannot be extracted from dead wood. History can track the flow, not the miracles.
+Carbon dating can tell the age of a piece of wood, but it cannot prove that it belonged to Jesus. DNA cannot be extracted from dead wood. Historical documents can be traced and circulated, but they cannot prove miracles.
 
-The question of the true cross is not a scientific one. It's faith, tradition, a 2,000-year story. Science can be involved, but it can't be decided.
+The question of the True Cross is not a scientific question. It belongs to faith, to tradition, and to a two-thousand-year-old story. Science can participate, but cannot rule.
 
 ---
 

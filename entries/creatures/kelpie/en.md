@@ -66,47 +66,40 @@ In 2014, two huge horse-head sculptures called The Kelpies were built at Falkirk
 
 A story meant to warn children ended up as a tourist landmark. The horse is still there; it just no longer drags anyone into the water.
 
-## Waterhorse and Each Uise
+## The Water Horse and the Each‑Uisge
 
-The water horse of Scotland, not just one.
+In Scotland there are more than one kind of water horse. The one that haunts lowlands and still lakes is called a “Cù Chnuchaidh” (Kilpie); the one that prowls the sea and deep lochs is the each‑uisge. Though the names are often used interchangeably, the danger they pose differs. The Kilpie occasionally drags people into the water, whereas the each‑uisge will actually devour them.
 
-The lowlands and lakes are called the kyles, the sea and the deep lakes are called each-uisge. The two names are often mixed, but the story is different. The kyles sometimes just drag people into the water, and each-uisge eats people.
+Folklore says that when an each‑uisge takes on human form, it hides sand or aquatic plants in its hair. Detecting those strands—perhaps an otherwise normal-looking market‑seller whose hair carries the scent of seaweed—can reveal the creature.
 
-The legend says that when each-uisge becomes a human being, there's sand or watergrass in his hair. This is the way to see it: a man who looks normal at the market, but smells of seagrass in his hair.
+## The Head
+The Kilpie is not completely untamable. Knowledgeable folk have strategies, though each carries risk. The creature is clever, pretending to be compliant until the moment of vulnerability to pull the victim under. Stories of “taming” it are never safe; they merely offer a fleeting respite.
 
-## Cage head
+## The Drowning Explanation
 
-Kyle's not completely out of control.
+The tales of the Kilpie likely serve as a safety warning, a cautionary narrative about the hazards of water.
 
-But these are all risky. Kyle's smart. He's gonna pretend to be submissive, and when you relax, he'll drag you into the water. The story says, "Turn." It's never safe. It's temporary.
+## Folk‑Kirke
 
-## The explanation of drowning
+In 2014, the Scottish town of Folk‑Kirke erected two massive horse‑head sculptures, titled “Cù Chnuchaidh”.
 
-Kyle's story is probably a security warning.
+Standing thirty metres tall, made of steel, and placed beside a canal, they glow at night. Designer Andy Scott fashioned the heads in an abstract geometric style that, from a distance, resembles towers; up close, they are unmistakable horse heads.
 
-## Falkock
+The Cù Chnuchaidh is often conflated with the Loch‑Ness monster, yet their histories differ sharply. The monster emerged from newspapers and photographs; the Cù Chnuchaidh originates from oral tradition and warnings. One requires evidence, the other does not.
 
-In 2014, two giant horsehead sculptures, called the “Kyles”, were built in Falkoke, Scotland.
+These legends have not vanished with superstition. They have become part of Scottish tourism and a staple in children’s literature. The sole constant remains the water‑side caution: never approach alone.
 
-They're 30 meters tall, made of steel, standing by the canal, and they glow at night. Designer Andy Scott makes the horse head an abstract geometry, looks like two towers, close to the horse.
+## Additional Notes
 
-Kyle and Loch Ness are often mixed up with tourists, but they're very young. The Loch Ness is a product of newspapers and photographs; the Kele is a product of oral statements and warnings. One needs proof, one doesn't.
+In the Kilpie stories the horse itself is not the scariest element. The real terror lies in its seeming rideability. It stands calm and appealing on the shore, inviting a rider, only to rush into deep water. The danger is not its appearance but the false sense of trust it engenders—a motif many horror tales later adopted.
 
-The story of the Kyles didn't disappear with superstition. It became part of the Scottish tourist industry, and it became a role in children's literature. The only thing that hasn't changed is the waterside warning: don't get close by.
+The tales also remind us that folklore is not always one‑sided. It offers no protection, only a warning. If you heed the lesson, you survive; if you ignore it, the waters claim you. The rule is straightforward and brutally honest.
 
-## Supplementary Notes
+In various versions of the legend, the Kilpie may even take on the guise of a handsome man, a trick that further lures victims. Whether in the Lowlands or the Highlands, the creature—sometimes depicted as a horse, sometimes as a cow—always leads people into the water. These stories continue to instruct children to stay away from deep pools and explain the real danger of drowning.
 
-The story of the Kyles is not the worst part of a horse. The most terrible thing is that it looks like it can be riding. It stands on the shore, gentle, beautiful, like someone else approaching. The real danger is not what it looks like, but it makes you feel you can trust it. This structure, it's borrowed by a lot of horror stories.
+Furthermore, the Kilpie may transform into a human in marketplaces, silent and merely smiling. After its grin, the water surges past the horse’s back.
 
-Kyle's story is also a reminder that folklore is not always on the side of the human being. It does not protect, it only provides warnings. If you understand, you survive; if you do not understand, you are taken away by water. The rule is simple and cruel.
-
-Kyle's legends in Scotland often appear as horses. It stands by the water, waiting for someone to ride on it, and then rushes into deep water. Some versions say it can be a handsome man. The Kyle's story, too, reminds children to stay away from the water. Drowning is a real danger.
-
-Kyle's stories are in the lowlands and highlands of Scotland. It's sometimes horses, sometimes cows. In common: it leads people to water. It reminds children to stay away from the deep pits and explains drowning.
-
-Kyle's gonna be human, standing on the market. He doesn't talk, he laughs. When he laughs, the water doesn't pass the horse back.
-
-The story of the Kyles is also written as a poem. The poet compares it to temptation. The horses by the water are a symbol of desire. The horses in the poem have no name.
+Poets have also rendered the legend in verse, likening the water‑side horse to temptation. In these poems, the horse symbolizes desire, yet it bears no name.
 
 ---
 

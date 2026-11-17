@@ -76,39 +76,39 @@ What are they? There is no settled answer.
 
 What is clear is this: they are not proven alien spacecraft, and they are not pure invention. They are a set of lights that have been repeatedly recorded, observed, and discussed, and still have not been fully explained.
 
-## Autoobservation stations
+## Automatic Observation Station
 
-The most important legacy of the Hesdalen project is an automated observatory.
+The most important legacy of the Hessdalen project is an automated observatory.
 
-In 1998, the researchers installed cameras, spectrometers, radars, and meteorological equipment in the valley. They run throughout the year, automatically recording the light in the sky. When an anomaly occurs, the instruments take pictures, measure brightness, and record the weather.
+In 1998, researchers installed cameras, spectrometers, radar and meteorological equipment in the valley. They operate year-round, automatically recording the light in the sky. As long as there is an abnormality, the instrument will take photos, measure brightness, and record the weather.
 
-This station has been running for years, and it's accumulated a lot of data. Researchers have found that lights appear with low frequencies, changing shapes, and colored mainly white, yellow, red. They are still, sometimes moving, sometimes blinking.
+This site has been running for many years and has accumulated a large amount of data. Researchers found that the lights appeared infrequently, had various shapes, and were mainly white, yellow, and red in color. Sometimes they are still, sometimes they move, sometimes they flicker.
 
 ## Spectrum
 
-The spectrum is the key to determining the nature of the light.
+Spectrum is the key to judging the nature of light.
 
-Different light sources have different spectrals: sodium lamps are yellow, mercury lamps are blue green, flame is continuous spectra, plasma has specific emission lines. Researchers compare Hesdalene's spectrum with known sources, finding some near combustion and some near discharge.
+Different light sources have different spectra: sodium lamps are yellow, mercury lamps are blue-green, flames have a continuous spectrum, and plasmas have specific emission lines. Researchers compared Hessdalen's spectra with known light sources and found that some were close to combustion and some were close to discharge.
 
-But there's no spectroscopy that explains all the lights. Some lights are too dark, the spectrum is incomplete, some light is too short for the instrument to record. The more data, the more the problem is.
+But no one spectrum can account for all lights. Some lights are too dim and the spectrum is incomplete; some lights appear too short and the instrument has no time to record them. The more data, the more granular the questions.
 
-## Geological
+## Geology
 
-The Hesdalene Valley has a unique geological feature.
+The Hesdalen Valley has unique geology.
 
-The valleys have pulverized, faulty, and sulfur-containing rocks. Groundwater flows in the cracks, which can produce gas and electricity. It is suggested that the light is associated with these geological activities: gas emerges from the cracks and is burned with oxygen; or rock friction produces electric charges.
+The valley contains veins, faults and sulfur-bearing rocks. Groundwater flows in cracks, possibly producing gases and electrical currents. Some people have suggested that the light is related to these geological activities: gas emerges from cracks and burns when encountering oxygen; or the friction of rocks generates electric charges.
 
-This explains a part of the light, not everything. Especially those high-altitude, fast-moved light, and the geological relationship between the ground.
+This explanation can explain part of the lighting, but not all. Especially those high-altitude, fast-moving lights have no obvious relationship with the ground geology.
 
-## Tourism
+## Travel
 
-Hesdalun became a "UFO Valley".
+Hessdalen became a "UFO Valley".
 
-There are observation points, museums, and camps. The lights are not unplugged, but the tourists come.
+Every year people come to camp, take photos, and wait for the lights. Observation points, museums and camps were built locally. The lights didn't unravel, but the tourists came.
 
-An unsolvable phenomenon, eventually turned into a local industry. It's not uncommon. Unknown can attract people, as long as it's beautiful, far enough, not dangerous enough.
+An unsolved phenomenon turned into a local industry. This is not unusual. The unknown can attract people, as long as it is beautiful enough, far enough, and not dangerous enough.
 
-Hesdalen's instrument is still in operation. Lights aren't as frequent as they used to be, but they're still reported every year. Researchers have changed for generations, and the problem is the same: what are those lights, exactly?
+Hessdalen's instruments are still running. The lights aren't as frequent as they used to be, but they are still reported every year. Several generations of researchers have changed, but the question remains the same: what are those lights?
 
 ---
 

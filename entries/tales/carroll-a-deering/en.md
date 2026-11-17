@@ -66,105 +66,104 @@ Books and articles about the case keep appearing. The theories multiply; the evi
 
 When the ship was towed off the shoal, the lifeboats, the instruments, and the eleven men were all missing. What remained was a meal in the galley and a cat with six toes.
 
-## Boat
+## The Ship
+The Carol A. Deering is a five-masted sailing ship.
 
-The Carol A. Dilling is a dhow.
+It departed Virginia in 1921, carrying lumber, bound for New York.
 
-It started in Virginia in 1921, carrying wood to New York.
+## Diamond Shoals
 
-## Diamond beach
+The ship ran aground near Diamond Shoals.
 
-The ship was stranded near the diamond beach.
+Diamond Shoals is on the Outer Banks of North Carolina, with strong winds and rough waves.
 
-Diamonds are on the outer beaches of North Carolina, windy and violent.
-
-## The crew
+## Crew
 
 The crew is missing.
 
-There's no one on board, no bodies, no lifeboats. Just cats, and some personal effects.
+There was no one on board, no bodies, no lifeboats. Just the cat, and a few personal belongings.
 
-## Where did it come from?
+## Where Does It Come from
 
-Where the boat comes from, nobody knows.
+Where the ship came from, no one knows.
 
-It could come from South America, it could come from the Caribbean. The food on the ship came from different places.
+It could be from South America, it could be from the Caribbean. The food on the ship comes from different places.
 
-## Investigations
+## Investigation
 
-Coast Guard investigated it.
+The Coast Guard investigated.
 
-No conclusion. Some say it's pirates; others say it's storms; others say it's crews who abandon ships.
+No conclusion. Some said it was pirates; some said it was a storm; some said it was the crew abandoning the ship.
 
 ## Now
 
-The Carol A. Dilling is a classic of the Ghost Boat.
+The "Carol A. Deering" has become a classic of "ghost ships".
 
-It's a story that's still on the beach.
+Its story is still circulating on the Bund.
 
-## Outer beach
+## The Bund
 
-Outside beach, North Carolina.
+Outer Banks, in North Carolina.
 
-It's a narrow sandy, windy, stormy place. A lot of boats are stranded here.
+It is a long and narrow sandbar with strong wind and strong waves. Many ships ran aground here.
 
-## The sailboat
+## Sailboat
 
-The Carol A. Dilling is a dhow.
+The Carol A. Deering is a five-masted sailing ship.
 
-It transports timber from Virginia to New York.
+It hauled lumber from Virginia to New York.
 
-## Lifeboats
+## Lifeboat
 
-The lifeboat's gone.
+The lifeboat is gone.
 
-The crew may have been on a lifeboat, or they may have been swept away by the waves.
+The crew may have been in a lifeboat, or they may have been swept away by the waves.
 
-## Supplementary Notes
+## Supplementary Note
 
-The Carol A. Dilling is a dhow.
+The Carol A. Deering is a five-masted sailing ship.
 
-It transports timber from Virginia to New York. There are crews, food and cats on board.
+It hauled lumber from Virginia to New York. There is a crew, food and cats on board.
 
-## Remember that
+## Remember Again
 
-The Carol A. Dilling is a dhow.
+The Carol A. Deering is a five-masted sailing ship.
 
-It transports timber from Virginia to New York. There are crews, food and cats on board.
+It hauled lumber from Virginia to New York. There is a crew, food and cats on board.
 
-The lifeboat is missing. The crew may be on the lifeboat or they may be swept away by the waves.
+The lifeboat is gone. The crew may have been in a lifeboat, or they may have been swept away by the waves.
 
-## Last
+## Last Note
 
-The cats on the ship are the only living thing. They were rescued and later adopted. The ship was dragged back to the port, but no one could explain why the crew left.
+The cat on the ship is the only living thing. They were rescued and later adopted. The ship was towed back to port, but no one could explain why the crew left.
 
-Things on the boat are still there, people are gone. The wind on the beach, it's been blowing the story for 100 years.
+The things on the boat are still there, but the people are gone. The wind on the Bund has blown the story for a hundred years.
 
-The boat was dragged back to the port, the story was left on the surface. People were gone and cats were still there.
+The ship was towed back to port and the story was left on the surface. The man is gone, but the cat is still there.
 
-## Archives
+## File
 
-In 1921, the dhow Carol A. Dilling was found on the beach off North Carolina. The lifeboat on board was missing and 10 crew members were missing. The boat was towed back to the port, but no one could explain why the crew left.
+In 1921, the five-masted schooner Carroll A. Deering was discovered on the Outer Banks of North Carolina. The ship's lifeboat was missing and ten crew members were missing. The ship was towed back to port, but no one could explain why the crew left.
 
-The cargo on board is wood. The hull is not broken, the anchor is still in place. The crew's stuff is in the cabin.
+The cargo on board was timber. There was no damage to the hull and the anchor was still there. The crew's belongings were left in the cabin.
 
-When the ship was found, the sails were down, the wheels were intact. There was no storm record at sea.
+When the ship was found, the sails were lowered and the steering wheel was intact. No storms were recorded at sea.
 
-There was no distress call from the crew before they disappeared. There were no names in the port records.
+No one sent a distress signal before the crew disappeared. Their names are not in the port records.
 
 No one knows the answer.
 
-None of the ten men on the boat left a last message. The search ship was searched for 10 days and nothing was found.
+None of the ten people on board left any last words. Search boats searched for ten days and found nothing.
 
-The ship's name came from its first owner. It was a rich businessman. It was dragged back to the port and it was used as an exhibition. It was later dismantled.
+The ship's name comes from its first owner. That was a wealthy businessman. After the ship was towed back to port, it was used as an exhibition. Later, it was demolished.
 
-The crew members waited for years. No result.
+The families of the crew have been waiting for many years. No result.
 
-No one explained why the boat was not sinking.
+No one explained why the ship didn't sink.
 
-The boat was later dismantled into wood, with only photographs left.
+The boat was later dismantled into timber and only the photos remain.
 
-The story of the boat has no ending.
+The story of the ship has no ending.
 
 ---
 

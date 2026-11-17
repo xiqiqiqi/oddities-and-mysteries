@@ -62,49 +62,47 @@ Blue jets are now part of atmospheric electricity research. The question is no l
 
 They do not change the weather, they do not reach the ground, and they do not hit cities the way they do in films. They are a brief signature left by a thunderstorm high above, a reminder that another discharge system is running above the cloud tops.
 
-## The lightning family in the upper atmosphere
+## The Lightning Family in the Upper Atmosphere
 
-Blue jets are not isolated flashes.
+The blue jet is not an isolated flash.
 
-On the top of the thunderstorm clouds, there are different forms of discharge, such as red elves, blue starters, and huge jets. Red elves appear on top of the clouds for dozens of kilometres, like red jellyfish; blue jets are sprayed up from the top of the clouds and reach more than 50 kilometres; huge jets can hit the ionosphere.
+On the top of thunderstorm clouds, there are also different forms of discharges such as red sprites, blue starts, and huge jets. Red elves appear dozens of kilometers above the cloud tops, like red jellyfish; blue jets shoot upward from the cloud tops and can reach more than fifty kilometers; huge jets can hit the ionosphere.
 
-These phenomena were documented systematically in the 1990s. Aircraft, satellites, and low-light cameras on the ground, for the first time, showed researchers the complete structure of the thunderstorm cloud top.
+These phenomena were only systematically documented in the 1990s. Aircraft, satellites and ground-based low-light cameras allowed researchers to see the complete structure of thunderstorm cloud tops for the first time.
 
-## The pilot saw it first
+## The Pilot Saw It First
 
-The pilots saw it before the scientific papers were published.
+Pilots saw it before the scientific paper was published.
 
-The crew flying at high altitude sometimes reports that there are blue columns above the top of the cloud, which last for a short period of time, like a light that suddenly lights up. Because it happens too fast, radar and normal cameras can't catch it.
+Crews flying at high altitudes sometimes report that a blue light column appears above the cloud tops, which lasts for a short time, like a light that suddenly lights up. Because it happens so fast, radar and ordinary cameras can't catch it.
 
-In 1994, West Scott and his colleagues recorded a blue jet on board the plane with a low-light television camera, and later confirmed it with ground observations. This phenomenon changed from “the legend of the pilot” to “the object of study”.
+In 1994, Heathcote and colleagues recorded blue jets from an airplane using low-light television cameras and later confirmed them with ground-based observations. Only then did this phenomenon change from a "pilot legend" to a "researchable object."
 
-## Why blue?
+## Why Blue
 
-Blue from nitrogen.
+The blue color comes from nitrogen gas.
 
-When lightning discharges, air molecules are activated and glow when they return to low-energy conditions. Different gas light colours are different: nitrogen is blue and oxygen is red under certain conditions. The colour of the blue jet is related to the height of discharge, the pressure, and the strength of the field.
+When lightning discharges, air molecules are excited and emit light when they return to a low-energy state. Different gases emit different colors: nitrogen glows blue under certain conditions, and oxygen glows red. The color of the blue jet is related to the discharge height, air pressure, and electric field strength.
 
-And it's dark too. It takes a few seconds to adjust in the night, and the blue jet lasts for dozens of milliseconds. The pilots can see it, often because it's on the edge of the horizon, not because it's in the center of the sight.
+It's also very dark. It takes a few seconds for the human eye to adapt at night, but the blue jet lasts only tens of milliseconds. Pilots often see an object because it appears at the edge of the field of vision, not because it is in the center.
 
-## Why is it so hard to shoot?
+## Why is It Difficult to Photograph
 
-Blue jets occur on the roof of thunderstorm clouds at altitudes of 30 to 50 kilometres.
+Blue jets occur on top of thunderstorm clouds at an altitude of thirty to fifty kilometers.
 
-A normal plane can't fly there, the satellite is limited in transit time, and the ground camera is blocked by clouds and rain.
+Ordinary planes cannot fly there, satellite transit time is limited, and ground cameras will be blocked by clouds and rain. Capturing it requires a low-light camera, a telephoto lens, precise timing and a bit of luck.
 
-And that's why it's so few. It's not that it doesn't exist, it's that it's too high, too fast, too dark.
+That's why there are so few photos of it. It’s not that it doesn’t exist, but that it appears too high, too fast, and too dim.
 
-## Supplementary Notes
+## Supplementary Note
 
-Blue jet observations change atmospheric electrons. Previously, researchers thought that lightning only occurred between clouds and clouds; now, they know that thunderstorm clouds tops are also an electrical discharge stage. The discovery came not from theory, but from camera. Technology makes things invisible visible.
+Observations of blue jets changed atmospheric electricity. Previously, researchers thought lightning only occurred within clouds and between clouds and ground; now, they know that thunderstorm cloud tops are also a discharge stage. The discovery came not from theory, but from cameras. Technology makes the invisible visible.
 
-## Location of the archives
+## Archive Location
+Blue jets are one of the few cases where "eyewitness legend" has become "atmospheric physics". Once a secret among pilots, it became the object of study by cameras and satellites. This transformation illustrates that the unknown does not always remain unknown; sometimes there is just a lack of a suitable instrument.
 
-Blue jets are a few cases that have gone from "witness legend" to "atmosphere physics." They used to be pilots' secrets, and they later became subjects of camera and satellite research. This shift suggests that unknowns are not always unknown; sometimes they simply lack a suitable instrument.
-
-## Memory
-
-Blue jet pictures, mostly from low-light cameras. One flash in the eye, and the camera in the structure of dozens of milliseconds. Technology takes a moment and the researchers see that it's not a ball, it's a jet that goes up. In many cases, it's just too fast.
+## Further Notes
+Photos of blue jets are mostly from low-light cameras. What the human eye sees is a flash, but what the camera sees is a structure of tens of milliseconds. Technology took it apart for a moment, and researchers could see clearly that it was not a ball, but an upward jet. Many times, the unknown is simply too fast.
 
 ---
 

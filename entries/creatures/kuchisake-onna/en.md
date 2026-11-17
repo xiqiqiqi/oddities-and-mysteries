@@ -50,9 +50,13 @@ Afterwards she entered film and games: Studio Ghibli's Pom Poko (1994), a mentio
 
 The image multiplies; the question never changes: "Am I pretty?" A question that demands an evaluation, a structure in which any evaluation wounds. Perhaps that is why she survives: she is not about the mouth, but about the moment of being asked to answer.
 
-## VII. Why the mask?
+## 7. Why a Mask?
 
-Put her in the urban legend's house and see her: Bloody Mary in the mirror, Rajorona in the water, Africa, Madam Koi Koi in the dormitory corridor -- every legend attached to a routine object or a daily moment. The woman with the cracker was a mask and a "interviewed" moment. The mask was a routine medical object in 1979; the legend turned it into a "covering the truth and about to open" switch. The question was that the most common in society -- "I look good"? The answer was pushed to the extreme: the answer was no matter how hard the answer was. The story was not a scissors, but a condom that couldn't be answered safely. And it was made clearer: Bloody Mary asked you to read your name in front of the mirror, Lajorona asked you to come near the waterside, and the woman asked you to answer the "dailies" -- all three asked you to turn into a trigger, and the woman was the most daily -- the trigger.
+Placing it within the family of urban legends paints a clearer picture: Bloody Mary lurks in mirrors, La Llorona roams beside water, and Africa’s Madam Koi Koi haunts dormitory halls—each tale anchored to a mundane object or moment. The Red‑mouth Woman’s curse, in contrast, centers on a mask and the single instant of being asked a question.
+
+In 1979, the mask was already an ordinary medical item in Japan. Yet the myth transforms it into a switch that hides truth while simultaneously threatening to reveal it. The usual politeness of social life—“Do I look good?”—is amplified to an extreme: whoever answers, no matter how they respond, must pay a price. The terror, then, lies not in a pair of scissors but in the impossibility of answering this polite query safely.
+
+Comparing it to other legends sharpens the point: Bloody Mary's curse forces a name to be spoken before a mirror; La Llorona demands proximity to water; the Red‑mouth Woman insists on answering a simple, everyday question. All three turn ordinary actions into triggers, but the Red‑mouth Woman’s is the most prosaic—speaking itself.
 
 ---
 

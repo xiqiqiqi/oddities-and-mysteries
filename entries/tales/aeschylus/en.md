@@ -62,109 +62,102 @@ The tortoise story is still repeated in trivia books, histories of drama, and tr
 
 A man who wrote so much about revenge, oracles, and blood debts was finished off by a tortoise. The ending is too neat, as if someone else had written it for him.
 
-## Jella
+## Gela
+Aeschylus was an ancient Greek tragedy writer.
 
-Escuros, a tragic writer of ancient Greece.
+He died in Gela, Sicily, in 456 or 455 BC.
 
-He died in Gela, Sicily, 456 B.C., or 455 B.C.
+## The Tortoise
+Legend has it that an eagle grabbed a turtle and tried to throw it against a stone.
 
-## Tortoise
+The eagle mistook Aeschylus' bald head for a stone. The turtle hit him on the head and he died.
 
-Legend has it that an eagle grabbed a turtle and tried to throw it on a rock.
-
-The eagle took Escus' bald head as a stone. Tortoise hit him on the head and he died.
-
-## Eagles and turtles
-
+## The Eagle and the Tortoise
 This legend comes from ancient times.
 
-It says that Escuros died in a prophecy: he died in a “thing falling from the sky”.
+It says that Aeschylus died in a "prophecy": that he would die from "something falling from heaven."
 
-## What did he write?
+## What Did He Write
 
-Escurus wrote "The Persians" and "The Seven-Penthals" and "The Prometheus" and "Oristia."
+Aeschylus wrote "The Persians", "Seven Against Thebes", "Prometheus Bound" and "The Oresteia".
 
-He was one of the three tragic writers of ancient Greece.
+He is one of the three major tragedians in ancient Greece.
 
-## Amazing
+## Strange Death
 
-Ancients like "surreal death" stories.
+Ancient people liked stories of "strange deaths".
 
-The death of Escuroros became a classic: the great man who died in an absurd accident.
+The death of Aeschylus became a typical example: a great man died in a ridiculous accident.
 
 ## Now
 
-His play is still on.
+His play is still going on.
 
-His death, still being told.
+His death is still being talked about.
 
 ## Tragedy
 
-Escuros, the founder of the ancient Greek tragedy.
+Aeschylus is the founder of ancient Greek tragedy.
 
-He increased the number of actors from one to two, making dialogue the core of the play.
+He increased the number of actors from one to two, making dialogue the heart of the drama.
 
-## A play
+## Drama
 
-The Persians wrote that the Greeks beat Persians.
+"The Persians" writes about the Greeks' defeat of Persia.
 
-The Seven Wills of Pride wrote that brothers are in conflict with each other.
+"Seven Generals Attack Thebes" is about brothers killing each other.
 
-"The Plomyus" writes about the clash between God and man.
+"Prometheus Bound" describes the conflict between gods and humans.
 
-Orestria writes about the blood debt of the family.
+"Oresteia" writes about the family's blood debt.
 
 ## Die
 
 His death is a legend.
 
-The eagle threw the turtle over his head because he was bald as a rock.
+The eagle threw the turtle on his head, because he was as bald as a stone.
 
 His death was an accident.
 
-Eagles, turtles, bald heads, three things together, that's a story.
+His death was an accident. The eagle, the turtle, and the bald head, when these three things come together, they become a story.
 
-## Legacy
+## Heritage
 
-His play, which affects the whole Western drama.
+His plays influenced the entire Western drama.
 
-His death was a classic of the ancient "surpass death" story.
+His death became a typical example of ancient "strange death" stories.
 
-His play, which affected Shakespeare, Goethe and modern theatre.
+His plays influenced Shakespeare, Goethe and modern drama.
 
-His death affected the story of the “surprising death”.
+His death affected the "strange death" story.
 
-## Supplementary Notes
+## Supplementary Note
 
-Escuros' play was the starting point for ancient Greek drama.
+The plays of Aeschylus are the starting point of ancient Greek drama.
 
-He writes about God, man, destiny, and blood. His role is not good or bad, but one whose fate has driven away.
+He writes about gods, humans, fate and bloodshed. His character is not a good guy or a bad guy, but a person pushed by fate.
 
-## Remember that
+## Remember Again
 
-Escuros' play was the starting point for ancient Greek drama.
+The plays of Aeschylus are the starting point of ancient Greek drama.
 
 His death was an accident.
 
-## Last
+## Last Note
 
-Escuros' play was the starting point for ancient Greek drama.
+The plays of Aeschylus are the starting point of ancient Greek drama.
 
-His death was an accident. Eagles, turtles, bald heads, three things together, it was a story.
+Only seven complete plays by Aeschylus have survived. He wrote more than seventy works, most of which only fragments remain. His death is more absurd than his play, and more like a myth. Only seven of Aeschylus's plays have survived in their entirety.
 
-There are only seven full plays that Escuros has passed down. He wrote more than 70 pieces, mostly pieces. His death was more absurd and more mythic than his play.
+He died in the fifth century BC, but his plays continue to be performed to this day. A man who was killed by a turtle left the starting point of Western drama.
 
-He died in the fifth century B.C., but his play continued until today. A man who was hit by a turtle left the beginning of a Western play.
+## File
 
-## Archives
+His play tells a myth in three parts. Only the Oresteia remains intact.
 
-There are only seven completes of Esculos. He writes more than 70 pieces, mostly pieces. His death is more myth than his play.
+Aeschylus fought in the Battle of Marathon. On his tombstone, he only wrote about his bravery in battle and did not mention drama. His plays are still performed to this day.
 
-His play, he finishes a myth with three songs. Only Orestria keeps it completely.
-
-Escurus was in the marathon. His tombstone was written about him, but he was brave and not about the play. His play, however, continued to this day.
-
-His gravestone, which he allegedly wrote, was nothing but marathon, not drama. The name of a warrior was given to the poet.
+His tombstone is said to have been written by himself. It only mentions the marathon, not the drama. The reputation of a warrior overshadows the reputation of a poet.
 
 ---
 

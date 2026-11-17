@@ -60,53 +60,52 @@ Fairy circles remain one of the most striking features of the Namib. They do not
 
 A circle looks simple. Explaining it means understanding termites, grass, water, and soil at the same time.
 
-## From the air
+## View from the Air
 
-Fairy rings are round naked on the grass.
+Fairy circles are circular areas of bare ground in grass.
 
-On the steppes of Namibia, they are like holes in a green blanket that are burned by smoke. Circles range from a few metres to a dozen metres, often with a higher circle of grass on the edge. The inner circle is without grass and the ground is bare.
+On the grasslands of Namibia, they look like holes burned by cigarette butts in a green blanket. The diameter of the circle ranges from a few meters to more than ten meters, and there is often a circle of taller grass growing around the edge. There is no grass inside the circle and the ground is bare.
 
-From the plane, tens of thousands of circles are lined up like some kind of pattern.
+Viewed from the plane, thousands of circles line up like a pattern.
 
-## termites
+## Termite
 
 The most common explanation is termites.
 
-termites nest in the soil, eat, and move. They eat the grass in the circle, and they change the water and nutrients of the soil. The termite lives in a circle, the grass dies in the circle, and the outside of the circle is restored.
+Termites build nests, feed and carry food in the soil. They will eat the grass roots within the circle and also change the moisture and nutrients in the soil. The activity range of termites forms a circle, and the grass dies inside the circle and recovers outside the circle.
 
-But termites say there's a problem: not all fairies have termites under them. Some circles are in the sand, few termites, some are outside termites.
+But there's a problem with termite talk: not all fairy circles have termites underneath them. Some circles are in the sand with few termites; some circles are outside the termite activity area.
 
 ## Water
 
-Another explanation is the competition for water.
+Another explanation is competition for water.
 
-The roots of the grass compete for water in the soil. The grass in the center of the circle dies first, because the water there is sucked away by the surrounding grass; the grass on the edge of the circle is higher because they have a competitive advantage.
+Grass roots compete for water in the soil. The grass in the center of the circle dies first because the water there is sucked away by the surrounding grass; the grass on the edge of the circle grows taller because they have a competitive advantage.
 
-This interpretation requires specific soil: sand, rapid drainage, heavy rainfall. The pastures of Namibia match.
+This explanation requires specific soils: sandy, fast-draining, with concentrated rainfall. The grasslands of Namibia fit the bill perfectly.
 
 ## Australia
 
-Fairies are not only in Africa.
+Fairy circles aren’t just in Africa.
 
-A similar structure is found in arid grasslands in western and northern Australia. Researchers compare soils, rainfall, and termites, and find that the mechanisms are not identical.
+Dry grasslands in western and northern Australia have similar structures. Researchers compared soil, rainfall and termites in the two places and found that the mechanisms are not exactly the same. The circles in Africa are more regular, and those in Australia are more spread out.
 
-This suggests that the Fairy Circle may not be a phenomenon, but a phenomenon. Different places, different ecological processes, make similar patterns.
+This shows that "fairy circles" may not be a phenomenon, but a category of phenomena. Different places use different ecological processes to create similar looks.
 
-## Don't just pick one
+## Don't Choose Just One
 
-In ecology, there's very little explanation for everything.
+In ecology, there is rarely one cause that explains everything.
 
-termites, water, grass, soil, and fire can work together. termites change the soil, water determines the life and death of grass, and fire cyclically clears the ground. Circles are the result of these forces, not a single cause.
+Termites, water, grass, soil, fire, may all work together. Termites transform the soil, water determines whether grass will live or die, and fire periodically clears the ground. The circle is the result of the superposition of these forces, not the work of a single cause.
 
-The name of the fairy circle comes from legends. The answer to science is more complicated than legends, and more interesting than legends.
+The name of the Fairy Circle comes from legend. The answers given by science are more complicated and more interesting than legends.
 
-## Supplementary Notes
+## Supplementary Note
 
-The fairy circle research turns out to be an interdisciplinary problem. Ecology, soil science, hydrology and termite behavior are all looking for answers in the same circle. A seemingly simple pattern, then a whole set of relationships. The beauty of nature, often comes from many invisible interactions.
+The study of fairy circles eventually became an interdisciplinary issue. Ecology, soil science, hydrology and termite behavior all look for answers in the same circle. A seemingly simple pattern turns out to be a whole set of relationships when taken apart. The beauty of nature often comes from many invisible interactions.
 
-## Location of the archives
-
-The fairy circle is an ecological profile. It looks artificial, but it is the result of a variety of ecological processes. The archive is not kept to give an ultimate answer, but to show how many questions a simple circle can draw: water, worms, grass, fire, soil.
+## Archive Location
+Fairy Circle is an "eco-pattern" category archive. It looks artificial, but is actually the result of multiple ecological processes. The archives retain it not to give a final answer, but to show how many questions a simple circle can lead to: water, insects, grass, fire, soil.
 
 ---
 

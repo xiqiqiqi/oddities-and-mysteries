@@ -78,129 +78,121 @@ Twelve years on, the plane has not landed. Neither has the question.
 
 *Original schematic: the 8 March 2014 timeline, the satellite handshake arc and the main search areas. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
 
-## Year 2014
+## 2014
 
-On March 8, 2014, Malaysian Airlines MH370 took off from Kuala Lumpur and flew to Beijing.
+On March 8, 2014, Malaysia Airlines MH370 took off from Kuala Lumpur bound for Beijing.
 
-The plane has 239 people on board. Soon after take-off, the plane lost contact with the ground.
+There were 239 people on board. Shortly after takeoff, the plane lost contact with the ground.
 
-## Turn around
+## Turn
 
-Radar indicates that the aircraft did not follow the route.
+Radar showed the plane was not flying on course.
 
-It turned west, crossed the Malay Peninsula, entered the Indian Ocean, and then the radar lost it.
+It turns west across the Malay Peninsula and into the Indian Ocean. After that, the radar also lost it.
 
 ## Satellite
 
-Satellite company Inmarsat records indicate that the aircraft still have a “handhak” signal with the satellite after being lost.
+Records from satellite company Inmarsat show that the plane still had a "handshake" signal with the satellite after it lost contact.
 
-The signal lasted a few hours. The last one, pointing to the South Indian Ocean.
+The signal lasted for several hours. Last call, pointing to the southern Indian Ocean.
 
-Inmarsat's satellite, more than 30,000 km from Earth.
+Inmarsat's satellite is more than 30,000 kilometers away from the earth.
 
-The plane's handshake signal, passed on to the satellite, then to the ground. The signal is weak, but it gives an arc.
+The aircraft's "handshake" signal is transmitted to the satellite and then to the ground. The signal is weak, but it gives an arc.
 
-Inmarsat's satellite recorded the aircraft's handshake signal.
+Inmarsat satellites recorded the aircraft's "handshake" signal.
 
-Signals are weak, but they give you an arc. The arc points to the South Indian Ocean.
+The signal is weak, but it gives an arc. The arc points to the southern Indian Ocean.
 
-## Search
-
+## The Search
 The search lasted several years.
 
-Australia, China, Malaysia and other countries are involved in the search. The search area is large and the seabed topography is complex.
+Australia, China, Malaysia and other countries participated in the search. The search area is large and the seabed terrain is complex. The seabed is very deep and the terrain is complex.
 
-## The wreckage
+## Wreckage
 
-On the eastern coast of Africa and on the islands of the Indian Ocean, a few pieces of debris were found.
+Several pieces of wreckage have been found on the east coast of Africa and on islands in the Indian Ocean.
 
-They were identified as belonging to MH370, but the main body of the aircraft was not found.
+They were confirmed to belong to MH370. But the main body of the plane was not found.
 
 ## 2026
 
-In 2026, the search continued.
+In 2026, the search continues.
 
-New companies, new equipment, new areas. Deep under the sea, slow search.
+New company, new equipment, new area. The seabed is deep and the search is slow.
 
 ## Report
 
-The official report did not give any reasons for that.
+The official report did not give a definite cause.
 
-It lists the possible causes: man-made operations, mechanical failures, lack of oxygen. There is no evidence of which.
+It lists possible causes: human operation, mechanical failure, lack of oxygen. There's no evidence for either.
 
-The official report does not give any reasons for this.
+Official reports did not give a definite cause.
 
-It lists possible causes: man-made operations, mechanical failures, oxygen deficiency.
+It lists possible causes: human operation, mechanical failure, lack of oxygen.
 
-## Answer
+## The Answer
+The answer to MH370 is still in the sea.
 
-The MH370 answer is still in the sea.
+239 people, 239 families, waiting for an answer that never came.
 
-239 individuals, 239 families, waiting for an answer that doesn't appear.
-
-The answer is still in the sea.
+The answer lies in the sea.
 
 ## Indian Ocean
 
-The South Indian Ocean is one of the most remote seas in the world.
+The southern Indian Ocean is one of the most remote sea areas in the world.
 
-The depth of the water is thousands of metres, the waves are huge, and the topography of the sea floor is complex. Searching requires ships, aircraft, satellites and submersibles.
+The water is several kilometers deep, the wind and waves are strong, and the seabed topography is complex. The search requires ships, planes, satellites and submersibles.
 
-## Search
+## The Search
+The search area is expanded along an arc.
 
-Search the area and follow the arc line.
+First search, near Malaysia and Vietnam. The second time, in the southern Indian Ocean. The third time, further south.
 
-First search, near Malaysia and Viet Nam. Second, in the South Indian Ocean. Third, in the south.
+The search area is huge.
 
-Search the area, big.
+## Family Members
 
-Australia, China, Malaysia and other countries are involved in the search. The sea floor is deep and the terrain is complex.
+239 families, a long wait.
 
-## Family
+Some people accept the reality, and some people continue to search. Every year on March 8, people gather and pray.
 
-239 families, long waiting.
+239 families, a long wait.
 
-On March 8th of every year, people meet and pray.
-
-239 families, long waiting.
-
-On March 8th of every year, people meet.
-
-## Aircraft
+## Airplane
 
 MH370 is a Boeing 777.
 
-It's big, it can fly very far. It's got 239 people on board, including passengers and crew.
+It's big and can fly very far. There were 239 people on board, including passengers and crew.
 
-## Memory
+## Further Notes
+The search for MH370 is one of the most expensive aviation searches in modern history.
 
-MH370 is one of the most expensive aerial searches in modern history.
+Satellites, airplanes, ships, and submersibles are all used. Still no subject found.
 
-Satellites, planes, boats, submersibles are all in use. Still no body.
+What the family wants is not a conspiracy, but a position.
 
-The family does not want a conspiracy, it is a place.
+## At Last
 
-## And finally
+The search for MH370 continues.
 
-MH370 search continues.
+239 people, still waiting for an answer.
 
-239 individuals, still waiting for an answer.
+The sea is big and the answer is small.
 
-The sea is big, the answer is small.
+## Remember Again
 
-## Remember
+The search for MH370 was one of the longest in modern aviation history.
 
-MH370 is one of the longest searches in modern aviation history.
+Satellites, ships, airplanes, and submersibles are all used. Still no subject found. What the family wants is not a conspiracy, but a position.
 
-Satellites, ships, planes, submersibles are all in use. Still no subjects are found. Families want a location, not a conspiracy.
+The sea is big and the answer is small. 239 people, still waiting.
 
-The sea is big, the answer is small. 239 people, still waiting.
+The plane didn't come back, and the questions didn't come back. The sea is still there and the waiting is still there.
 
-The plane didn't come back, the question was not answered. The sea was still there, waiting.
+## File
 
-## Archives
-
-On March 8, 2014, MH370 was flown from Kuala Lumpur to Beijing, and lost contact shortly after taking off. 239 people were on board.
+On March 8, 2014, MH370 was flying from Kuala Lumpur to Beijing and lost contact shortly after takeoff. There were 239 people on board.
 
 ---
 

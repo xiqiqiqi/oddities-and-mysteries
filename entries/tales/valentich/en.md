@@ -68,109 +68,109 @@ The radio recording is still there. A twenty-year-old man, flying toward an isla
 
 ## Flight
 
-On October 21, 1978, Australian pilot Frederick Valentini, took off from Melbourne.
+On October 21, 1978, Australian pilot Frederic Valentich took off from Melbourne.
 
-He flew a Cessna aircraft to King's Island in the Strait of Bass.
+He flew a Cessna to King Island in Bass Strait.
 
 ## 19:06
 
-19:06, he's in contact with the ground.
+At 19:06, he contacted the ground.
 
-He said there was a metal object nearby. It was not an aircraft or a helicopter.
+He said a "metallic object" was nearby. It's not a plane or a helicopter.
 
 ## 19:09
 
-19:09, he said, "It's gone."
+At 19:09, he said: "It's gone."
 
-Then the radio went off.
+Then, the radio went dead.
 
-## Search and rescue
+## Search and Rescue
 
-Search and rescue teams searched the Bass Channel.
+Search and rescue teams searched Bass Strait.
 
-No planes were found, no bodies were found, no remains were found.
+No plane was found, no bodies were found, no wreckage was found.
 
-Search and rescue teams searched the straits.
+Search and rescue teams searched the channel.
 
-No planes were found, no bodies were found, no remains were found.
+No plane was found, no bodies were found, no wreckage was found.
 
-## Explanation
+## Explain
 
-There are many explanations: lost, fallen, UFO, suicide.
+There are many explanations: getting lost, falling into the sea, UFOs, suicide.
 
-The most accepted was the fall. No one found the plane.
+The most accepted is falling into the sea. But no one found the plane.
 
 ## Now
 
-Valentini's disappearance became the UFO case in Australia.
+Valentic's disappearance became Australia's UFO case.
 
-His last call is still in the file.
+His last phone call is still in the file.
 
-## Bass Channel
+## Bass Strait
 
-Bas Strait, between mainland Australia and Tasmania.
+Bass Strait, between mainland Australia and Tasmania.
 
-Water is cold, wind is windy and waves are high. Small aircraft need experience over the straits.
+The water is cold, the wind is strong, and the waves are high. Flying across the strait with a small aircraft requires experience.
 
-## Aircraft
+## Airplane
 
-Valentini was driving a Cessna 182.
+Valentic was driving a Cessna 182.
 
-The plane is small and can fly for hours. He has no experience flying the strait.
+The plane is small and can fly for several hours. He had no experience flying across the Channel.
 
-He's driving Cessna 182, a small plane.
+The Cessna 182 he flew was a small aircraft.
 
-It has no black box, no satellite tracking. When the plane disappears, it can only rely on radar and witnesses.
+It has no black box, no satellite tracking. After the plane disappears, we can only rely on radar and witnesses.
 
 ## Tower
 
-He's in contact with Melbourne Tower.
+He contacted Melbourne Tower.
 
-He said there was a metal object nearby. It was not an aircraft or a helicopter.
+He said a "metallic object" was nearby. It's not a plane or a helicopter.
 
-## Supplementary Notes
+## Supplementary Note
 
-Valentini's last call, just a few words.
+Valentic's last call consisted of only a few words.
 
-He said there's a metal object nearby. It's not an aircraft.
+He said a "metallic object" was nearby. It's not an airplane.
 
-And he said, "It's gone."
+Then, he said, "It disappeared."
 
-## Final
+## Final Note
 
-Valentini's last call, just a few words.
+Valentic's last call consisted of only a few words.
 
-He said that there was a “metal object” in the vicinity.
+He said a "metallic object" was nearby.
 
-And he said, "It's gone."
+Then, he said, "It disappeared."
 
-## Last
+## Last Note
 
-He disappeared on October 21st, 1978. There was no black box, no satellite trail. Only the tower was recorded.
+He disappeared on October 21, 1978. The plane has no black box and no satellite tracking. The final words are only recorded by the tower.
 
-His plane has not been found yet. The tower recorded it as the only testimony.
+His plane has not yet been found. The tower recording became the only testimony.
 
-He left no body, no plane. He left only a recording and a phrase, "It's gone." The sea was calm, like nothing happened.
+He left no bodies and no planes behind. All he left behind was a recording and the words "It's gone." The sea was calm, as if nothing had happened.
 
-The sea's still there.
+The sea is still there.
 
-The sea is calm and the problem is still there.
+The sea is calm, but the problem remains.
 
-## Archives
+## File
 
-On October 21st, 1978, Valentini's plane disappeared in the Bass Channel. The last call from the tower was for a few words. Search and rescue lasted several days, no planes were found, no bodies were found.
+On October 21, 1978, Valentic's plane disappeared in Bass Channel. The last call from the tower consisted of only a few words. The search lasted for several days, but neither the plane nor the body was found.
 
-He is flying a light aircraft, model Cessna 182. The aircraft has no radar answering machine.
+He was flying a light aircraft, a Cessna 182. The aircraft did not have a radar transponder.
 
-His flight plan is to fly from Melbourne to King's Island. After the last call, there's no target on the radar.
+His flight plan was to fly from Melbourne to Kings Island. After the final call, there was no target on the radar.
 
-The air traffic in King's Island has not received his call.
+The air traffic control at King Island did not receive his call again.
 
-There was no black box on his plane. The search and rescue team found only traces of oil.
+There was no black box on his plane. Search and rescue teams found only some traces of oil.
 
-Before he disappeared, he spoke to his girlfriend on the telephone. He said that he would be back soon. His girlfriend later said there was nothing unusual on the phone. She waited long enough to wait for the news of her disappearance.
+Before he disappeared, he talked to his girlfriend on the phone. He said he would be right back. His girlfriend later said there was nothing unusual about the call. She waited a long time for news of her disappearance.
 
-His disappearance is a page of Australian aviation history.
+His disappearance became a page in Australian aviation history.
 
 ---
 

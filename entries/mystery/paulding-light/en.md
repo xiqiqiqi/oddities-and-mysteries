@@ -66,47 +66,45 @@ The light usually appears. It comes from a highway several kilometres away, prod
 
 *Original schematic: the viewing point, the old railroad grade and US-45, with the path of the headlights. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
-## Paul Martin
+## Paul Ding
 
-Paul Ding is in the U.S. Upper Peninsula, Michigan, near the Wisconsin border.
+Paulding is in the Upper Peninsula of Michigan, USA, near the Wisconsin border.
 
-It's a place where forests, swamps and logging roads intersect. At night, looking at a remote road, there's a light point above the trees. It moves, splits, merges, sometimes like a lamp, sometimes like a fire.
+It was a mix of forests, swamps and logging roads. At night, looking from a lonely road, a point of light will appear above the woods. It moves, splits, merges, sometimes like a lamp, sometimes like a fire.
 
-The locals say it's a woman with a light, or a dead railroad worker. There are a lot of stories in common: light in the woods, not on the road.
+Locals said it was a woman holding a lamp, or a dead railroad worker. There are many versions of the story, but the common point is: the light is in the woods, not on the road.
 
-## Year 2010
+## 2010
 
-In 2010, a television show group came to investigate.
+In 2010, a television program team came to investigate.
 
-They drove back and forth on the road with cameras, spectrometers and a car. Finally, they found that the location of the light point was related to the direction of the distant lights. When a car turns from a distance, the lights pass through the cracks in the woods, they form a moving light.
+They took cameras, spectrometers and a car and drove up and down the road. Finally, they found that the location of the light spot was related to the direction of the distant headlights. When a car turns from a distance and its headlights pass through the gap in the woods, a moving point of light will be formed.
 
-The show explains the lights. But the story is not over. The locals still say that light sometimes happens when there is no car; tourists are still willing to wait on the side of the road.
+The program explained the car lights. But the story doesn't end there. Locals still say that the light sometimes appears when there are no cars; tourists are still willing to wait on the roadside.
 
-## Geometry of the lights
+## Headlight Geometry
 
-The lights explain that the road was established because of the terrain.
+The headlight explanation works because of the topography of that road.
 
-Roads are on a slope, with a gap in the woods, and a far higher path. Carlights come in through the gap, filtering through fog, branches and leaves, and they turn into a blurry light. Cars move, light moves, and traffic turns, light splits or disappears.
+The road is on a slope, there is a gap in the woods, and there is a higher road in the distance. The car lights shine in through the gap and become a blur of light after being filtered by fog, branches and leaves. When the car moves, the light moves; when the car turns, the light splits or disappears.
 
-It's hard to judge distance in the night. A distant lamp is seen as a small light above the trees. Without a reference, the light loses its measure.
+It is difficult for the human eye to judge distance at night. A distant headlight will be seen as a small point of light above the trees. Without reference, light loses its scale.
 
-## Legendary location
+## Legendary Location
 
-Pauldin's light has become part of the place.
+Paul Ding's light has become part of the place.
 
-There are signs on the side of the road, there are visual maps on the website, and there's people in the bar. Even if the lights are repeated, the story is alive. Because the story does not provide an answer, it is a place for the night: you can drive over, turn off the engine, and a light.
+There are signs on the roadside, sighting maps on websites, and people in bars talking about it. Even as the headlight explanation was brought up again and again, the story stayed alive. Because what the story provides is not an answer, but a place to go at night: you can drive there, turn off the engine, and wait for a light.
 
-## Supplementary Notes
+## Supplementary Note
 
-Pauldin's light is the most vulnerable to being filmed as "evidence." The cell phone camera is exposed at night, turning the lights into light, turning the distant light into a flash of light. The picture looks more mysterious than the naked eye. Technology does not make a lie; it just changes the proportion of view.
+Paul Ding's light is most easily photographed as "evidence". Mobile phone cameras will extend the exposure at night, turning car lights into light trails, and turning distant point light sources into a ball of light. The photos look more mysterious than the naked eye. Technology doesn't create lies, it just changes the proportions of seeing.
 
-## Location of the archives
+## Archive Location
+Paul Ding's Light is a typical example of the "misidentification" type of archives. It has a reasonable explanation and a story that is still popular. Explanation does not kill the story because the story provides not facts but a place to spend the night. People need something they can wait for.
 
-Pauldin's light is typical of a "misperception" type of archive. It has a reasonable explanation, and it has a story that is still popular. It doesn't kill the story, because it does not provide a truth, but a place to go. People need something to wait for.
-
-## Memory
-
-Pauldin's legend has a very practical effect: to give a normal road a destination. People drive over, park on the side of the road, and wait for a light. Even when the lights are the last to see, the road is not wasted. The story sometimes gives no answer but a reason to go out.
+## Further Notes
+Pauldine's legend has a very practical effect: it gives an ordinary highway a destination. People drove by, parked on the side of the road, and waited for a light. Even if the last thing I saw were car lights, the journey was not in vain. Stories sometimes don't provide answers, just a reason to go out.
 
 ---
 

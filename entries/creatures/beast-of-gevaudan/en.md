@@ -66,33 +66,25 @@ It appears in prints, novels, films, and folk tales, described as a werewolf, a 
 
 Today, a museum in Gévaudan still displays its image. It looks like an oversized wolf, staring out of the frame.
 
-## Numbers and archives
+## Numbers and Records
 
-The number of deaths from the Chevot attack has never been a uniform version.
+The death toll from the Gevaudan attacks never settled into a single figure.
 
-The parish records, administrative reports, and subsequent historical studies show figures ranging from 60 to 100. More people were injured, but many of them were not recorded. There were no modern forensics in the eighteenth century. The bodies were often eaten by animals when they were found, and the cause of death could only be determined on the ground.
+Parish registers, administrative reports, and later historical studies range from about sixty to over a hundred fatalities. Injuries were more numerous, but many were unrecorded. Rural eighteenth‑century villages lacked modern forensic methods; when a body surfaced it was often already gnawed by scavengers, leaving only circumstantial evidence.
 
-The archives have one thing in common: they record “humans attacked by beasts” and not “beasts”. Villagers see wounds, footprints and bodies to be dragged away; officials see public crises requiring responses; the Church sees punishment by heaven; every record is writing about what they care about.
+All these documents share one focus: “humans attacked by a beast,” not “what the beast was.” Villagers noted wounds, footprints, and severed corpses; officials dealt with a public crisis; the church interpreted the events as divine judgment. Each record tended to echo its audience’s preoccupations.
 
 ## Hunting
 
-In 1765, the court‑runner Antoine went in with his hounds and soldiers. He killed a big wolf and brought the body back to Versailles. The court thought the problem was solved, but the attack did not stop.
+In 1765 a royal wolf‑hunter, Antoine, led a squad of dogs and soldiers into the mountains. He killed a large wolf and brought the carcass back to Versailles. The Crown felt the threat neutralised, yet attacks continued.
 
-In 1767, the local hunter Shastor killed another large animal on the hill. After that, the attack came to a halt. Shastor used his own bullets, a story that was later filled with mythology.
+Two animals, two “ends,” yet two more years of violence lie between them. That chronology suggests the Gevaudan beast was unlikely a single creature. Perhaps killing one wolf merely forced the remaining pack to retreat. Dates from hunting logs also mismatch parish accounts, varying by jurisdiction.
 
-Two animals, two “ends”, two more years in the middle. This time line itself suggests that the hothodang beast may not be one. Or that the hunting of a wolf is just a temporary escape for the remaining wolf.
+## Wolves and Rural France
 
-## Wolves and country
+In eighteenth‑century France, wolves genuinely posed a threat. They ate sheep, calves, and dogs, and winter scarcities drew them closer to settlements. While wolf attacks on people were infrequent, hunger, illness, or provocation could render them dangerous. The Gevaudan killings targeted women, children
 
-Eighteenth century in France, wolves are real threats.
-
-They eat sheep, calfs, and dogs, and when winter comes short of food, they come near the village. It is not common for people to be attacked by wolves, but it is not impossible in cases of hunger, disease or provocation. The hotwood attacks are concentrated on women, children, and pastoralists, who are the ones who are the most vulnerable to wolves in the wild alone.
-
-The other explanation is combing. Such animals are not afraid of humans, they are bigger than wolves, and they may treat humans as prey. It is also suggested that a large dog that has been raised by humans, who have been abandoned and live in the mountains, is more aggressive.
-
-There is also a darker argument: a serial killer uses the rumours of “beasts” to cover up crimes. There is no direct evidence for this hypothesis, but it reminds us that historical “monsters” are sometimes just another name for human violence.
-
-Today's Gévaudan is a quiet agricultural area. Wolves are long gone, and the forests have been cut back. The beast survives in prints, in local memory, and in the question that never quite closes: what killed those people?
+The beast became a local industry: inns, postcards, and guided walks along the route where witnesses said it crossed.
 
 ---
 

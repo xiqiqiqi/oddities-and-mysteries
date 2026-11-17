@@ -64,69 +64,68 @@ Remaining Mountain in Hangzhou is not often displayed, and the Master Wuyong Scr
 
 A painting was cut by fire and then preserved by two different people. It was not restored to its original state, but it survived.
 
-## Wong Mang-hoon
+## Huang Gongwang
 
-Hwang was in his 70s when he drew the Fuchun Hill Map.
+Huang Gongwang was already over seventy years old when he painted "Dwelling in the Fuchun Mountains".
 
-He was a humanist, a junior official, and then he lived in hiding. He studied late, started to paint seriously at the age of 50, and he was a master of the arts, a great man. He lived in the area of the Fu Chun Gang, drawing mountains, drawing water, painting fishing villages.
+He was originally a scholar in the Yuan Dynasty and served as a minor official, but later lived in seclusion. He learned painting late and began to paint seriously around the age of fifty, learning from Dong Yuan and Ju Ran. In his later years, he lived in the Fuchun River area, painting mountains, waters and fishing villages.
 
-The Fuchun Hill Map was not finished once. He drew it for years, and it was changed repeatedly. The area on the painting said that it was for the “no-gooder”, that is, his friend Jung-hoon.
+"Dwelling in the Fuchun Mountains" was not painted in one sitting. He painted it for several years, adding and revising it repeatedly. The inscription on the painting says that this painting is for "Wuyongshi", that is, his friend Zheng Ao.
 
-## Long Volume
+## Long Roll
 
-The long roll is not a painting, but a period of time that can be expanded.
+A long scroll is not a painting, but a period of time that can be unfolded.
 
-Look at the rolls, look at the tree that heads up, look at the river, look at the mountains, look at the boat. The line moves with the rolls, like a boat down the river.
+To read a long scroll, read it section by section: first look at the tree at the beginning, then at the river bank, then at the mountains, then at the fishing boat. As your eyes move along the scroll, it's like taking a boat down the river.
 
-The length of the Fuchun Hill Map is suitable for this view. It does not seek a fixed focus, but allows the view to unfold in time. The mountains are not far away, the water is not in short supply, and the population is small.
+The length of "Dwelling in the Fuchun Mountains" is just right for this kind of viewing. It does not pursue a fixed focus, but allows the scenery to unfold in time. The mountains are not far away, the water is not urgent, and the people are small.
 
 ## Fire
 
-During the year of Qing Jianzheng, the collector Wu Hong Yu is very ill.
+During the Shunzhi period of the Qing Dynasty, collector Wu Hongyu became seriously ill.
 
-He loved the painting, and before he died it was burned down and wanted to take it to another world. His nephew, Wu Jing-jin, took it out of the fire, but it was broken into two pieces.
+He loved this painting so much that before his death he had it burned and wanted to take it to another world. His nephew Wu Jing'an snatched the painting out of the fire, but the painting had been broken into two pieces.
 
-The first paragraph is shorter and later known as the " map of the remaining mountains " ; the latter part is longer and is known as the " unusable teacher ' s volume " . The two paragraphs are circulated separately and have not been combined for centuries.
+The front section is shorter and is later called the "Remaining Mountain Picture"; the back section is longer and is called the "Wu Yong Shi Volume". The two sections were circulated separately and have not been combined for hundreds of years.
 
-## Together
+## Perfect Combination
 
-In 2011, two paragraphs were displayed together at the Palace in Taipei.
+In 2011, the two sections were jointly exhibited at the National Palace Museum in Taipei.
 
-The map was borrowed from the Zhejiang Museum, and the unserviceable teacher's roll was in the courthouse in Taipei.
+"The Picture of the Remaining Mountain" is on loan from the Zhejiang Museum, and "The Volume of the Useless Master" is in the National Palace Museum in Taipei. The exhibition lasted for several months and many people lined up to see it.
 
-Two drawings cannot really be connected, because there is a loss in the middle. But put them in the same booth, and the audience can see a continuous river: from the tree that started to the mountain at the end.
+The two pieces of painting cannot really be connected because there is a gap in the middle. But putting them in the same display case, the audience can see a continuous river bank: from the tree at the beginning to the mountain at the end.
 
 ## Now
 
-The Remaining Mountain Map is located at the Zhejiang Museum and the Unusable Teacher Book is located at the Taibei Palace.
+"The Picture of the Remaining Mountain" is in the Zhejiang Provincial Museum, and "The Volume of the Useless Master" is in the National Palace Museum in Taipei.
 
-They're still separate collections. The exhibition is an exception, not a normal one. A painting that was burned down and divided by history, became the treasure of two museums.
+They are still collected separately. Joint exhibitions are the exception, not the norm. A painting was destroyed by fire, separated by history, and finally became the treasure of two museums.
 
-The painting's still there. The mountains have not changed, the water has not changed. Only the people who read the paintings have changed from generation to generation.
+The Fuchun River in the painting is still there. The mountains have not changed, the water has not changed, only the people who view the paintings have changed from generation to generation.
 
-## Pen ink
+## Pen and Ink
 
-Fuchun Mountain Map is ink on paper.
+"Dwelling in the Fuchun Mountains" is ink on paper.
 
-Yellow Mansions are not coloured, mainly with the thick, dry and thinness of the ink. Rocks are contoured with light ink, dry pens with dry platinum, leaves with points. Ink is not bright, but it has many layers.
+Huang Gongwang did not use strong colors, but mainly relied on the shade, dryness and wetness of the ink and the weight of the pen. Use light ink for the outline of the rocks, dry brush for the chamfering method, and dots for the leaves. The ink color is not bright, but has many layers.
 
-This is the way it's called a "human painting." It doesn't want to be true, it wants to taste the ink itself. The people who look at it, not just at the mountains, but at the hands of the painter.
+This painting method later became known as "literati painting". It does not pursue verisimilitude, but the taste of the pen and ink itself. People who look at paintings not only see the mountains, but also the painter's hands.
 
-## Area
+## Title and Postscript
 
-There are lots of problem areas behind the roll.
+There are many inscriptions and postscripts at the back of the long scroll.
 
-Quarters are the senses, tests and praises that later people write. Together with the paintings, they are part of the work. Some are long and only a few lines.
+The inscription and postscript are the impressions, research and praise written by later people. They circulate with the painting and become part of the work. Some inscriptions and postscripts are very long, while others are only a few lines.
 
-Later people can add, delete, and replace.
+The title and postscript will also be faked. Later generations can add, delete, and replace. The circulation history of a painting is not only in the painting, but also in these words.
 
-## I'm fine
+## Replica
+There are many copies of "Dwelling in the Fuchun Mountains".
 
-The Fuchun Hill Map has many sketches.
+Painters of the Ming and Qing Dynasties liked to copy it and learn from Huang Gongwang's brushwork. Some of the copies are very similar, and some are very free. They are distributed in museums and private collections in China.
 
-The Qing painter likes to read it, learns the ink of the yellow bullion. Some are similar, some are free. They are distributed in Chinese museums and private collections.
-
-A drawing cannot be a substitute for an original, but it is an indication of its impact. If no one is present, a painting may be a work of a human being; if someone comes back and forth, it becomes a tradition.
+The copy cannot replace the original work, but it can illustrate the influence of the original work. If no one copies a painting, it may just be the work of one person; if someone copies it repeatedly, it becomes a tradition.
 
 ---
 

@@ -70,63 +70,60 @@ A man died more than two thousand years ago, and his skin is still there, his ha
 
 ## Peat
 
-Peat swamps are wet.
+Peat bogs are wet and cold.
 
-Water is less oxygen, acidic, bacteria are difficult to reproduce. The body is buried, the skin turns dark brown, the hair turns red and the bones soft.
+The water has little oxygen and is highly acidic, making it difficult for bacteria to reproduce. When a body is buried, its skin will turn dark brown, its hair will turn red, and its bones will soften.
 
-## Save
+## Preservation
+Swamps preserve more than just bodies.
 
-The swamp is not just saving bodies.
+Clothes, ropes, tools, and food will also be saved. These things allow archaeologists to see the details of ancient people's lives.
 
-Clothes, ropes, tools, foods are also preserved. These things allow archaeologists to see the details of ancient life.
+## More Than One
 
-## More than one
+Many bodies were found in European swamps.
 
-In the European swamp, a lot of bodies were found.
+Tollund Man, Lindow Man in Denmark, Yde Girl in the Netherlands, Rendswühren Man in Germany. They come from different eras and different regions.
 
-Tollund Man, Lindow Man, Yde Girl, Netherlands, Rendswühren Man, Germany. They come from different generations, from different regions.
+## How Did You Die?
 
-## How?
+The causes of their deaths are different.
 
-Their cause of death is different.
+Some were strangled, some had their throats cut, some were drowned. Some say they are criminals; some say they are sacrifices; some say they died accidentally.
 
-People are strangled, their throats slit, and they are drowned. They are said to be criminals; they are said to be sacrifices; and they are said to have died accidentally.
+## Swamp is Door
 
-## The swamp is the door
+In Norse mythology, swamps are the door to another world.
 
-In the Nordic myth, the swamp is the door to another world.
-
-Putting things in the swamp is a gift to God. The body may be a sacrifice or a punished person.
+Putting something into the swamp is a gift to God. The corpse may be a sacrifice or a person being punished.
 
 ## Now
 
-The bodies of the swamp were displayed in the museum.
+Bog bodies are on display at the museum.
 
-Their faces are restored, their clothes are displayed. Tourists can see people 2,000 years ago.
+Their faces were restored and their clothes displayed. Visitors can see people from two thousand years ago.
 
-A body, coming out of the swamp, became a witness to history.
+A corpse emerged from the swamp and became a witness to history.
 
 ## Archaeology
+Swamp bodies provide details of ancient life.
 
-The bodies in the swamp provide details of ancient life.
-
-Their clothes, hairstyles, diets and diseases are studied. They're not monsters, they're ordinary people.
+Their clothes, hairstyles, diets and diseases can all be studied. They are not "monsters", they are ordinary people.
 
 ## Ethics
 
-The exhibition of the bodies of the swamp is ethically controversial.
+Exhibiting swamp corpses is ethically controversial.
 
-It's said to be disrespectful to people; it's said to be history education. Museums usually write on the sign that these people are not exhibits, they are dead people.
+Some people say this is disrespectful to people; some people say this is historical education. Museums usually make it clear on their explanatory signs that these people are not exhibits, but the dead.
 
-A body, from the swamp to the museum. It travels longer than it lives.
+A body from swamp to museum. Its journey is longer than its life.
 
-## Summing up
+## Summing Up
+Swamp bodies, not "monsters".
 
-The bodies in the swamp are not “monsters”.
+They were ordinary people, preserved by peat. The cause of their death may be punishment, sacrifice or accident.
 
-They are ordinary people, preserved by peat. Their death may be punishment, sacrifice or accident.
-
-They have shown us the details of ancient life, and they have given us an ethical question: whether the dead can be displayed.
+They allow us to see the details of ancient life, and also make us face an ethical question: whether the dead can be exhibited.
 
 ---
 

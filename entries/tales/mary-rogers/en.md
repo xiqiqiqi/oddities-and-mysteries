@@ -76,97 +76,96 @@ Mary Rogers's name survived in a story by Poe. The cause of her death survived i
 
 ## Counter
 
-Mary Rogers, works at a tobacco store in New York.
+Mary Rogers, worked in a tobacco shop in New York.
 
-She's young and pretty, she's a sign in the store. The customers like her.
+She is young, beautiful and the star of the store. Customers love her.
 
 ## 1838
 
-In 1838, she disappeared for the first time.
+In 1838 she disappeared for the first time.
 
-Where she went, nobody knew. Then she came back.
+Where she went, no one knows. Later, she came back.
 
 ## 1841
 
 On July 25, 1841, she disappeared again.
 
-A few days later, her body was found on the Hudson River.
+Her body was found days later in the Hudson River.
 
 ## Sybil Cave
 
-Her body, probably near the Sibil Cave.
+Her body may be near the "Sibyl Cave".
 
-That's a view in New Jersey, near the river.
+It was an attraction in New Jersey, near the river.
 
-## Newspapers
+## Newspaper
 
-The newspaper reported her death.
+Newspapers reported her death.
 
-The case became the headline of New York City. Some say she was killed by a gangster; others say she was killed by a lover.
+The case made headlines in New York. Some say she was killed by gangsters; some say she was killed by her lover.
 
-The newspaper reported Rogers' death.
+Newspapers reported Rogers' death.
 
-The newspaper reported her death.
+Newspapers reported her death.
 
-## Ellen Poe
+## Edgar Allan Poe
 
-Ellen Poe wrote a novel called Mary Rogers' Enigma.
+Edgar Allan Poe wrote a novel called "The Mystery of Mary Rogers."
 
-He analysed the case with reasoning. The novel did not solve the case.
+He used reasoning to analyze the case. The novel does not solve the crime.
 
-## Dead
+## Dying
 
 What did Rogers say before he died?
 
-No one knows. Her death is a mystery.
+No one knows. Her death became a mystery.
 
 ## New York
 
-New York, 1841, is a big city.
+New York in 1841 was a metropolis.
 
-There are newspapers, shops, docks and slums. There are a lot of crime.
+There are newspapers, shops, docks and slums. There is a lot of crime.
 
-## Answer
-
+## The Answer
 The case was not solved.
 
-Rogers' death is a mystery.
+Rogers' death became a mystery.
 
-## Supplementary Notes
+## Supplementary Note
 
-Mary Rogers, a regular shopkeeper.
+Mary Rogers is an ordinary store clerk.
 
-Her death became the headline of New York.
+Her death made headlines in New York.
 
-The newspaper wrote her as a “deformed woman” and the case as a “moral story”.
+Newspapers wrote about her as a "fallen woman" and the case as a "morality story."
 
-## Archives
+## File
 
-In July 1841, Mary Rogers was found dead on the Hudson River. Her death became a series of New York newspapers.
+In July 1841, the body of Mary Rogers was discovered in the Hudson River. Her death became a New York newspaper drama.
 
-The case is not solved. The sales of the newspapers are up because of this story.
+The case was not solved. The newspaper's sales increased because of this story.
 
-Ellen Poe's novel changed her name and her ending. The real case, no ending.
+Edgar Allan Poe's novel changed her name and also changed the ending. In reality, cases have no ending.
 
-Her death started to get New York newspapers to focus on ordinary people's cases. Her fiancé became a suspect. But there was not enough evidence, the case was not brought to court. The serials of the newspapers were finally stopped.
+Her death caused New York newspapers to start paying attention to the cases of ordinary people. Her fiancé became a suspect. But the evidence was insufficient and the case did not go to court. The newspaper serialization finally stopped.
 
-Her gravestones did not write the case. Only the name and date.
+There is no case written on her tombstone. Just the name and date.
 
-Her story was rewritten by later men. The truth was mixed with fiction. The serial was not finished.
+Her story has been repeatedly rewritten by subsequent generations. Reality and fiction, mixed together. That serialization was not finished.
 
-The case remained on file and was not closed.
+The case remains in the file and is not closed.
 
-Her name, stay in the old paper.
+Her name is on the old newspaper.
 
-The newspaper stopped.
+The newspaper later stopped.
 
-Her case was later admitted to the criminal history. The name is more powerful than the truth.
+Her case was later included in the criminal history. The name speaks louder than the truth.
 
-Her case was later admitted to the criminal history. The name was more loud than the truth. The newspaper sold out and the mystery remained.
+Her case was later included in the criminal history. The name speaks louder than the truth. The newspapers are sold out, but the mystery remains.
 
-The mystery is still there. The name is still there.
+The mystery remains. The name is still there.
 
-Mary's name, stay in the book. The case is not closed, but the book is always read. It's reprinted many times.
+Mary's name remains in the book. The case is not closed, but the book is still being read. The book has been reprinted many times.
 
 ---
 

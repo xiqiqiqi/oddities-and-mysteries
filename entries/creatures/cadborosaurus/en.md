@@ -70,47 +70,41 @@ The name survives in books, on websites, and in the coastal legends of Vancouver
 
 The sea is large enough to hold many stories. Caddy is one of them.
 
-## The 1930s newspaper
+## 1930s Newspapers
 
-The name "Cady" was given in the newspaper.
+The name “Caddy” was coined by the press. In the 1930s, newspapers on Vancouver Island and mainland Victoria began reporting on a “sea serpent” in the Gulf. They labeled it Cadborosaurus, which readers soon shortened to Caddy. This type of tale—local, mysterious, requiring no hard evidence, and able to attract tourists—loved the papers.
 
-In the 1930s, newspapers in Victoria and Vancouver began to report on “sea snakes” in the Gulf. The title, “Cadborosaurus”, was used to refer to it, and the reader quickly shrunk it to “Cady.” The newspaper liked the story: local, mysterious, unsupported, and attracted tourists.
+Witnesses were mostly mariners, fishermen, and boaters. Their long years at sea meant they’d seen whales, seals, seaweed, and driftwood. Yet glare, distance, and fatigue could make a snapped neck appear as a creature.
 
-Witnesses are mostly sailors, fishermen, and rowers. They see whales, seals, seaweeds and drifting wood from year to year at sea. But the reflection, distance and fatigue on the surface of the sea still make a man look like an animal.
+## The 1937 Body
 
-## 1937
+In October 1937, at a whaling station in Naden Harbour, workers discovered a curled carcass inside the stomach of an orca. It measured about three metres, slender, with a small head and a pair of fins. A photograph of it found its way into the papers, and for a moment it did look like a little sea serpent.
 
-In October 1937, the whaling station at the port of Nathan.
+The provincial museum curator, Francis Keamode, examined it and identified it as a juvenile sperm whale. A fetus swallowed by a whale can be digested, compressed, and distorted—longer neck, smaller head, paler skin—producing a silhouette that could be mistaken for a mythic creature. The explanation did not silence the tale; instead it added another layer: a picture and two interpretations.
 
-The worker found a curled body in the stomach of a sperm whale. It's about three metres long, thin, small head, and a pair of fins. The picture is in the paper, and it does look like a little sea snake.
+## Scientific Name
 
-After reading it, the head of the provincial museum, Francis Camord, thought it was a fetus of a minke whale. In the stomach, it was digested, squeezed, and the shape changed: the neck looked longer, the head was smaller, and the skin was white. This explanation did not make the story disappear, but it became part of the story: one picture, two explanations.
+In 1995, two researchers proposed that, if Caddy truly existed, it should bear a Latin binomen: *Cadborosaurus willsi*. Without a type specimen—no physical skeleton, no tissue that could yield DNA—any proposed name remains just a suggestion. The International Commission on Zoological Nomenclature did not accept it, and later scholars have treated it as an informal label rather than a valid species.
 
-## Title
+A name can be coined before a specimen exists, but the specimen must exist before the name can be formally adopted. The crux of the Caddy debate is not the absence of a name but the lack of evidence.
 
-In 1995, the two researchers suggested that, if Cady did exist, it should be given a title: “Cadborosaurus willsi”.
+## Misidentifications on the Surface
 
-But animal naming requires model specimens. No specimens, no bones, no tissue to extract DNA, the name is just a proposal. The International Commission on Animal Names Law did not accept it, and the researchers did not treat it as a formal species.
+Most Caddy sightings can be explained by ordinary sea‑surface phenomena. A seal’s neck as it surfaces can resemble a long‑necked animal; a sea otter swimming upside‑down might look like a sliver of dark wood; a whale’s arched back can appear as a series of humps; drifting seaweed and floating timber can give the impression of movement.
 
-The name can start first, the specimen can't start first. The problem with Cady is not that the name is not enough, but that the evidence is not enough.
+The 1937 carcass, the most plausible explanation being a whale fetus, neither proves Caddy’s existence nor discredits all prior sightings. It simply illustrates that an image resembling a sea monster could arise from a drowned whale.
 
-## Misunderstanding on the surface
+The story of Caddy continues to the present. Reports of “long‑snouted” creatures persist on the coast of British Columbia, at Wena Bean Lake, and in Okanagan Lake, using the same vocabulary—humps, necks, black silhouettes. What they share is the same fundamental problem: no specimen.
 
-The cadi's witnesses, most of them can be explained by what's on the surface.
-
-Seals reveal their heads and necks like a long neck; otters swim like a black wood; whales arch their backs like several humps; and seaweeds and drifting trees float in waves as well as a moving thing.
-
-The 1937 body, the most reasonable explanation, was a whale fetus. It could not prove the existence of Cady or that all the witnesses were false. It was just a picture of a sea monster that might come from a dead whale.
-
-The story of Cady has a tail end. Today, Lake Winaberg, Lake Okanagen and the coast of British Columbia are constantly being reported on “long necks.” These reports share the same vocabulary: humps, necks, black shadows. They share the same problem: no specimens.
-
-Cady didn't enter animal spirits, but entered place names and travel books. There were boats and shops on the coast of Victoria named after him. An animal who was not caught had its own brand.
+Caddy never entered the scientific literature, but it entered place names and tourist guides. There are still vessels and shops on Victoria’s waterfront named after it. An uncaptured animal has become a brand.
 
 ## Supplementary Notes
 
-The most worthwhile thing to keep in Cady's file is not the conclusion of the presence of the sea monster, but the specific sighting sites: Victoria Port, Nathan Port, and the coast of British Columbia. They nail an animal without a specimen to a real map. Later people can search for and doubt the names.
+The most valuable parts of Caddy’s dossier are not the conclusion that it exists but the precise locations of the sightings: Victoria Harbour, Naden Harbour, the British Columbian coast. These coordinates pin an unsubstantiated creature onto an actual map. Future researchers may follow them to either investigate or remain skeptical.
 
-Finally, it should be noted that most of the cadi’s witness reports do not leave precise coordinates and weather records. This makes it difficult for later researchers to visit the site again, and to exclude seals, seaweeds and waves. The roughness of the evidence is part of this story.
+Finally, most reports of Caddy lack detailed coordinates and weather records, making it hard for later scholars to revisit sites or exclude familiar explanations such as seals, seaweed, or wave action. The coarse nature of the evidence is itself part of the story.
+
+---
 
 ---
 

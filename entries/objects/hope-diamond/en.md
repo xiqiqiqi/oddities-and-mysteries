@@ -68,61 +68,60 @@ In the other, it is a rare blue diamond that passed through war, theft, resale, 
 
 The two versions are not entirely incompatible. The stone is real. The misfortunes were real. The question is whether we are willing to fill the gap between them with a good story.
 
-## Blue stone
+## Blue Stone
 
-Hope the diamonds are a blue diamond.
+The hope diamond is a blue diamond.
 
-It weighs 45:52 carats, and it's dark blue, and it's very clean. It's wrapped on a hanger, surrounded by white diamonds.
+It weighs 45.52 carats, is dark blue in color, and has high clarity. It is set on a pendant surrounded by white diamonds.
 
 ## From India to France
 
-Hope the diamonds come from India.
+Hope diamonds come from India.
 
-In the seventeenth century, the French jeweller Tawenier brought it to Europe. It was sold to Louis XIV and became the French Blue Diamond.
+In the seventeenth century, the French jeweler Tavernier brought it to Europe. It was sold to Louis XIV and became the "French Blue Diamond".
 
 ## Curse
 
-Hope the diamond's curse was later fabricated.
+The "curse" of the Hope Diamond was made up later.
 
-Legend has it brought bad luck to the owners: Tawenier broke, Louis XVI was executed, and Mary Antoinette went to the guillotine. There was no causal link between these events and the diamonds.
+Legend has it that it brought bad luck to its owners: Tavernier went bankrupt, Louis XVI was executed, and Marie Antoinette was guillotined. These things have no causal relationship with diamonds.
 
-## The stone itself
+## The Stone Itself
 
 Diamonds are carbon.
 
-It's blue from boron impurities. It takes heat and pressure to form, hundreds of millions of years in the mantle. It has no magic or memory.
+Its blue color comes from boron impurities. Its formation requires high temperature and high pressure, and it takes hundreds of millions of years in the earth's mantle. It has no magic power and no memory.
 
-## Which version would you like to believe?
+## Which Version Do You Want to Believe?
 
-Hope the diamonds are now at the Smithsonian Museum.
+The Hope Diamond is now in the Smithsonian Museum.
 
-Visitors can see it, or they can read it. One stone, two versions: one scientific, one legend.
+Visitors can watch it and read its story. One stone, two versions: one scientific, one legendary.
 
-You can choose which one to believe. Museums don't choose for you.
+You can choose which one to believe. The museum doesn’t choose for you.
 
-## Collection
+## Collect
 
-It is hoped that diamonds will be owned by a number of collectors.
+Hopefully the diamond is owned by multiple collectors.
 
-Some put it on a ring, some put it in a safe. Every time you turn around, you add a story.
+Some put it in a ring, others put it in a safe. Every time it changes hands, it adds another layer of story.
 
 ## Exhibition
 
-It's at the Smithsonian Museum now.
+It is now in the Smithsonian Museum.
 
-It's bulletproof. The lights are bright. The tourists can see it blue, and they can see its history.
+The showcase is bulletproof and the lights are bright. Visitors can see its blue color and also its history.
 
 A diamond, no curse. It's just wanted by a lot of people.
 
-## Summing up
+## Summing Up
+The hope diamond is a piece of carbon.
 
-Hope the diamonds are a carbon.
+Its blue color comes from boron, and its story comes from people. The curse was made up later and the value was added later.
 
-It's blue from boron, it's story from man. The curse was later made up and the value added.
+It's now in a museum, surrounded by glass and lights. It has no magic, just history.
 
-It's in the museum now, surrounded by glass and lights. It's not magic, it's history.
-
-A rock, wanted by so many people, ended up in a glass cabinet. That's probably its truest curse.
+A stone, wanted by so many people, can only stay in a glass cabinet in the end. This is probably its truest curse.
 
 ---
 

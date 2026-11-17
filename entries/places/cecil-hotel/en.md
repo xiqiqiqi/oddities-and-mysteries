@@ -66,93 +66,92 @@ The Black Dahlia, the Night Stalker and Elisa Lam are all genuinely connected to
 
 *Original schematic: the 1924–2021 timeline, the Main Street location and the associated cases. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
-## Construction
+## Architecture
 
-The Cecil Hotel, downtown Los Angeles.
+Cecil Hotel, in downtown Los Angeles.
 
-It was built in 1924, on more than a dozen floors, and it looked normal, with elevators, corridors, and guest rooms inside. It used to be the home of commercial passengers, and it became a cheap hotel.
+It was built in 1924 and has a dozen floors. It has an ordinary appearance and an elevator, corridors and guest rooms inside. It was once a residence for business travelers and later turned into a budget hotel.
 
-The hotel's location, near the old town, station, and night zone. People come and go, they have complex identities.
+The location of the hotel, close to the old town, station and nightlife area. People come and go, identities are complicated. This environment provides the background for subsequent stories.
 
-## Cases
+## Case
 
-The most frequently raised case at the Cecile Hotel was the Black Blossom.
+The most commonly mentioned case of the Cecil Hotel is the "Black Dahlia" case.
 
-In 1947, Elizabeth Short was found dead in Los Angeles. She was seen near the hotel, but she was not proved to have stayed there. The case was not solved, but the hotel became famous.
+In 1947, the body of Elizabeth Short was discovered in Los Angeles. She has been seen near the hotel, but there is no confirmation whether she has stayed in the hotel. The case was not solved, but the hotel became famous.
 
-There were other deaths in the hotel: jumping, drug addiction, murder. Everything was written in the legend of "The Ghost," but the hotel itself was just a building.
+There have been other deaths at the hotel: jumping, drug abuse, murder. Everything is written into the "haunted" legend, but the hotel itself is just a building.
 
-There have been many deaths in hotel history.
+There have been many deaths in the hotel's history.
 
-Some are recorded, some are not. Jumps, drugs, murders, disappearances are part of the city's life. Hotels are just a place.
+Some are recorded, some are not. Jumping off buildings, drug abuse, murder, and disappearances are all part of city life. A hotel is just a location.
 
-## Lankole
+## Elisa Lam
+In 2013, Elisa Lam disappeared from the hotel.
 
-In 2013, Lenkole disappeared at the hotel.
+Surveillance video showed her making strange movements in the elevator, entering and exiting the elevator, as if she was avoiding something. Her body was found weeks later in a water tank on the hotel's roof.
 
-The surveillance footage shows that she made a strange move in and out of the elevator, as if she were hiding. A few weeks later, her body was found in a water tank on the roof of the hotel.
+The incident once again made the hotel into international news. Surveillance videos were analyzed repeatedly, and elevators, floors and water tanks were imagined as "supernatural spaces." The autopsy report concluded that death was accidental drowning, but the controversy did not stop.
 
-The surveillance footage was analyzed repeatedly, and the elevators, floors and water tanks were conceived as “spiritable space.” The autopsy report concluded that accidental drowning had not stopped.
+Elisa Lam's death made the hotel famous again.
 
-Lancoll's death made the hotel famous again.
-
-Surveillance, elevators, water tanks are the focus of the discussion online.
+Monitoring, elevators, and water tanks have become the focus of online discussions. The autopsy report said it was an accident, but the story continues.
 
 ## 2021
 
-In 2021, the hotel was closed and later transformed into an apartment.
+In 2021, the hotel closed and was later converted into apartments.
 
-The new owner plans to convert the room into a home, keeping some historical elements.
+It no longer accepts tourists and is no longer a "haunted house" attraction. The new owners plan to convert the rooms into residences while retaining some of the historic elements.
 
-A hotel, turned into a house. The people who came in might know its story or not.
+A hotel turned into a residence. People who live in it may or may not know its story.
 
-## The story
+## Story
 
-The story of the Cecil Hotel, it's the story of the city.
+The story of the Cecil Hotel is the story of the city.
 
-It's not in the suburbs, it's not in the wilderness, it's in the middle of the city. It's not a ghost in the castle, it's death, poverty and loneliness in the city.
+It's not in the suburbs, it's not in the wilderness, it's in the heart of the city. Its ghosts are not the ghosts in the castle, but the death, poverty and loneliness in the city.
 
-People like to write it as "the most haunted hotel in America." This label covers more complex things: homeless people, mental illness, crime and urban renewal.
+People like to write about it as "The Most Haunted Hotel in America." This label masks something more complex: homelessness, mental illness, crime, and urban renewal.
 
-## Perimeter
+## Surrounding
 
-The Cecil Hotel is on the edge of the Old City of Los Angeles.
+The Cecil Hotel is on the edge of Old Town Los Angeles.
 
-There are stations, shops, churches, and apartments nearby.
+Nearby are stations, shops, churches and apartments. During the day, there are people walking on the streets; at night, some people have no place to live.
 
-Hotels are cheap and complex. It's not a “terrible castle”, it's a city's bottom space.
+The price of the hotel is low and the guests are mixed. It is not a "scary castle", but a city's underlying space.
 
 ## Media
 
-The media likes to write "Ghost Shops".
+The media likes to write about hotels as "ghost shops."
 
-The names "Black lilies" and "Blue Cole" give the hotel a story. The more scary the story, the more famous the hotel is.
+The names "Black Dahlia" and "Blue Kerr" give the hotel a story. The scarier the story, the more famous the hotel.
 
 ## Apartment
 
-After 2021, the hotel became an apartment.
+After 2021, hotels become apartments.
 
-The building is renovated, the hallways are painted and the rooms are modified.
+New residents move in and may not know what happened here. Buildings were renovated, corridors painted and rooms remodeled.
 
-The story stays online, not on the wall.
+Stories stay online, not on walls.
 
 ## Los Angeles
 
 The Cecil Hotel is in downtown Los Angeles.
 
-Cities are expanding, old buildings are falling. Hotels are cheap, hotels are complicated. It's not a ghost shop, it's a city cross section.
+Cities are expanding and old buildings are declining. The price of the hotel is low and the guests are mixed. It's not a "ghost store" but a cross-section of the city.
 
-## Hotel industry
+## Hospitality Industry
 
-Hotels used to be the choice of business passengers.
+Hotels used to be the choice of business travelers.
 
-Later, the surrounding environment deteriorated and the hotel downgraded.
+Later, the surrounding environment deteriorated and the hotel was downgraded. Rooms are smaller, prices are lower, and management is looser.
 
-## Urban
+## City
 
-The hotel became an apartment as part of the city renewal.
+Hotels turned into apartments are part of urban renewal.
 
-Old buildings are renovated and new homes are moved in. The story stays online, not on the wall.
+Old buildings were renovated and new residents moved in. Stories stay online, not on walls.
 
 ---
 

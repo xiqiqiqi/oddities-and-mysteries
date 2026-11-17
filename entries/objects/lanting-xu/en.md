@@ -72,69 +72,68 @@ No one knows whether the original lies in Zhaoling. But the 324 characters survi
 
 *Original schematic: a timeline from the 353 gathering to the Tang copies and the 1965 debate. Not the original calligraphy. Oddity Archive, CC BY-SA 4.0.*
 
-## Yatter
+## Yaji
 
-In the spring of 353, Wang Yu's and friends gathered in Lantern, where they met in the mountains.
+In the spring of 353, Wang Xizhi and his friends gathered at the Orchid Pavilion in Shanyin, Kuaiji.
 
-Forty-two people. They sit by the stream, put their glasses on the water, and they come down, and they park in front of anyone, and they drink and write poetry. This is "Croat Water."
+Forty-two people in total. They sat by the stream and placed their wine glasses on the water. The glasses flowed down the river. Whoever stopped in front of the glass would drink and compose poems. This is the "Qu Shui Shang".
 
-It was a nice day, a small wind, a clean stream. Someone wrote a poem, someone drank, someone laughed. The king wrote a sequence, and wrote down the party.
+The weather was good that day, the wind was not strong and the stream was clear. Some people write poems, some people drink wine, and some people laugh. Wang Xizhi wrote a preface to record this gathering.
 
-## Word
+## Character
 
-The Rantine Order has 28 lines, 324 words.
+"Lanting Preface" has twenty-eight lines and three hundred and twenty-four words.
 
-It's not much, but it's a lot different. It's the same word, it's 20 times, it's different at a time. Some are long, some are short, some are connected, there are breaks. It's not designed, but it's written by hand.
+The words are not big, but there are many changes. The same word "Zhi" appears more than 20 times, and each time it is written differently. Some are long, some are short, some are connected, and some are broken. It was not deliberately designed, but written casually.
 
-When the king woke up, he wrote it several times less than the original. He said that the words of the day were “after being drunk” and could never be written again.
+After Wang Xizhi sobered up, he wrote it several times, but nothing was as good as the original manuscript. He said that the words he wrote that day were written "drunk" and could never be written again.
 
 ## Original
 
-The original was not left behind.
+No original remains.
 
-The legends say that Don Taizon likes the Lantern sequence, and took it to the Shogun after his death. There are also people who say it's buried somewhere else, or it's already destroyed. There is no archaeological evidence.
+Legend has it that Emperor Taizong of the Tang Dynasty liked "Lanting Preface" and brought it to Zhaoling after his death. Others say it was buried elsewhere or had been destroyed long ago. There is no archaeological evidence.
 
-What we see today is both a book and a book. The most famous are the Dragon Book, which is passed on to him, and the "Determinate Warfare," which is a stone-plate. They are not the true pieces of the King's Book, but they preserve the shape of the original.
+What I saw today were all copies and rubbings. The most famous ones are the "Shenlong Edition", which is said to have been copied by Feng Chengsu; and the "Dingwu Edition", which is an engraving stone rubbing. None of them are authentic works by Wang Xizhi, but they retain the shape of the original.
 
-## Books
+## Replica
+There are two types of copies: one is tracing, which involves covering the paper with the original and writing according to the strokes; the other is copying, which involves looking at the original and writing.
 
-There are two kinds of scripts: one with a sketch, which is written on the original, and the other with a pen; and the other with a pen, which looks at the original.
+Tracing can preserve the font shape, but it is easy to get stiff; writing can preserve the strokes, but it is easy to lose shape. A good copy is somewhere in between: the font shape is accurate but the meaning of the writing is still there.
 
-It keeps the fonts, but it's hard to get stiff, and it keeps the pens, but it's easy to walk. A good script, in between: the words are perfect and the pen is still there.
+The strokes in Shenlong's book are very thin and the threads are very clear. It allows us to see the speed and rhythm of Wang Xizhi's writing, even if it is not the original.
 
-Dragonburn's pen is very thin, very delicate. It shows us the speed and rhythm of writing, even if not the original.
+## Words of That Day
 
-## The word of the day
+The value of "Lanting Preface" is not just a piece of calligraphy.
 
-The value of the Lantern sequence is not just a word.
+It is an article about time, life and parties. The beginning is about scenery, the middle is about music, and the back is about "the pitch and the pitch have become obsolete". The words and text are complete when they are combined together.
 
-It's an article about time, life, and party. It starts with the scenery, it's the middle, and then it says, "It's the past between the tops." The words and the words are combined, they're complete.
+The words from that day are long gone. But the wind, wine and laughter that day are still in the text.
 
-The words of that day were long gone. But the wind, the wine and the laughter of that day were still in the text.
+## Article
 
-## Articles
+"Lanting Preface" is not only a calligraphy painting, but also an article.
 
-The Ranten sequence is not just a word, it is an article.
+At the beginning of the article, write the time, place and people of the party. In the middle, write streams, wine glasses, and poems. Later, I write about extreme joy and sorrow, thinking about the short life, as the ancients said, "Death and life are also big things."
 
-The article begins with the time, place, and person of the party. It reads streams, glasses, poems. The music is very sad, the thought of life is short, and the ancients say, "The dead are great."
+The text is very flat, without fancy allusions. It is like a diary and a philosophical essay. The characters and the text have the same temperament: natural, smooth, and slightly sad.
 
-Words are flat, not radiant. It's like a diary, and it's like a philosophical pen. Words and words are consistent: nature, fluid, slightly sentimental.
+## Tang Dynasty
 
-## Tang Jing
+The Tang Dynasty copy is the version closest to the original.
 
-The Tung Dae's copy, the closest version to the original.
+Emperor Taizong of the Tang Dynasty liked Wang Xizhi and collected many Wang characters. He asked a copyist to copy the "Lanting Preface" and give it to the princes and ministers. Feng Chengsu, Yu Shinan, Chu Suiliang and others all copied it.
 
-The Emperor likes the king, he collects many kings. He lets his hand copy the Rantine sequence and gives it to the prince and the minister. Feng Seung-soo, Shin-nan, Su-Liang and others have spoken.
+There is a half-seal of "Shenlong" (Divine Dragon) on the dragon's book, hence the name. Its strokes are thin and there are many threads, which shows the speed of the brushstrokes. It is not the original, but it is a shadow of the original.
 
-The Dragon has a half-print of the Dragon, so it's famous. It's a thin, strapped pen, it can see the speed of the pen. It's not the original, but it's the shadow of the original.
+## Lanting Debate
 
-## Landin's argument
+In 1965, a "Lanting Debate" took place in Chinese academic circles.
 
-In 1965, a “lantine debate” took place in Chinese academia.
+Guo Moruo suggested that "Lanting Preface" may not have been written by Wang Xizhi, but was forged by later generations. His basis is text, calligraphy and historical materials. Gao Ershi and others refuted, believing that the original work was credible.
 
-If Guo Moi argues, the Rantin sequence may not have been written by Wang, but by a later person. He is based on words, book law, and historical material.
-
-The argument is not settled. It explains that even if a work is considered to be a classic, its author and the truth can be questioned. It is not uncontroversial, but it is remembered.
+The debate is inconclusive. It illustrates that even a work regarded as a classic can have its authorship and authenticity questioned. Classics are not without controversy, but the controversy is remembered.
 
 ---
 

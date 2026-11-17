@@ -66,77 +66,75 @@ It is one of the most famous objects from the site and the source of the “alie
 
 It is not an alien. It is a god imagined by people three thousand years ago.
 
-## Masks
+## The Mask
+The most distinctive feature of the Sanxingdui bronze mask is a pair of protruding eyes.
 
-The greatest feature of the bronze mask of the three stars pile is a condensed eye.
+The eyes are columnar and extend outward by more than ten centimeters. The ears are large, like wings. The mouth is wide and the corners of the mouth are upward. The mask has no hair and no neck, like an enlarged face.
 
-The eyes were in column form, stretching out about a dozen centimetres. The ears were big, like wings. The mouth was wide and the horns were up. The mask had no hair, no neck, like a magnified face.
+The largest mask is about 1.38 meters wide and 66 centimeters high. It's not for people to wear, it's too heavy and too big. It may be hung on a wooden frame, in a temple, or on a sacrificial site.
 
-The largest mask is about 1 m, 38 cm wide and about 66 cm tall. It's not worn, it's too heavy, it's too big. It could be hanging on a wooden rack, a temple or a altar.
+## Protruding Eyes
+"Zongmu" is the name given to this kind of eyes by later generations.
 
-## Line
+There is a sentence in "Huayang Guozhi" "The prince of Shu, Cancong, has vertical eyes", which means that the ancestor of Shu, Cancong, has vertical eyes. Some people associate this sentence with the protruding-eyed mask of Sanxingdui, thinking that the mask is the image of silkworm bushes.
 
-The word “brand” is the name given to such eyes by a later person.
+The connection is well known, but the evidence is weak. The document is from later times and the mask is from Shang Dynasty. There is no direct textual link between the two. The eye shape of the mask may come from mythology, ancestor worship, or some kind of ritual need, not necessarily a specific person.
 
-In the "Hungyang Nation" there is a phrase, "Hugs, their eyes and their eyes" that means "singlings, their ancestors, their eyes, their eyes, their eyes." Someone linked this phrase to the three-star mask, which they think is the image of the bushes.
+## Casting
 
-The connection is famous, but not well-documented. The literature is later, the mask is commercial, and there is no direct text chain between the two. The mask's eyes may come from mythology, ancestral worship, or some ritual need, not necessarily a specific person.
+The mask is cast in bronze.
 
-## Cast
+Sanxingdui craftsmen use the mold casting method. They first make a clay mold, then turn the mold outside and cast it together. Large masks need to be cast in pieces and then spliced ​​together. The cylinders for the eyes and the lamellae for the ears are all made individually.
 
-The mask was made of bronze.
+The composition ratio of bronze is also very particular. The proportions of copper, tin, and lead affect hardness, fluidity, and color. Sanxingdui bronzes contain high lead and have good fluidity, making them suitable for casting complex shapes.
 
-The three-star masons use the pavilion, first make the mud model, then turn the model, and do the same thing. Large masks need to be made in pieces, then put together. The columns of the eyes, and the thin pieces of the ears, are made alone.
+## Golden Sands
 
-The distribution ratio for bronze is also very good. The proportions of copper, tin, lead affect hardness, mobility and colour. The bronze equipment in the three stars is higher in lead, more mobile, and suitable for making complex shapes.
+Similar masks were unearthed from the Jinsha site in Chengdu.
 
-## Jinsha
+Jinsha's mask is smaller and the eyes are not as protruding, but the style is similar. The two sites are not far apart and overlap in age. They may belong to the same cultural tradition, or they may have a sequential relationship.
 
-Similar masks were found at the Chengdu Kinsa site.
+Gold masks, sun bird gold ornaments and jade articles were also unearthed in Jinsha. These objects show that the ancient Shu civilization was not isolated. It had its own technology, beliefs and trade networks.
 
-The masks are smaller, the eyes are less sharp, but the style is similar. The two sites are not far apart, and there are overlaps. They may belong to the same cultural tradition, or they may be sequential.
+## New Pit
 
-The gold sands are also soiled with gold masks, sun godbird gold and jade instruments. These objects show that ancient civilization is not isolated, it has its own technology, faith and trade network.
+In 2021, a new sacrificial pit was discovered in Sanxingdui.
 
-## New pit
+Bronze sacred trees, gold masks, jade and ivory were unearthed from the new pit. Some artifacts have never been seen before, such as a complete golden mask and a huge bronze mythical beast.
 
-In 2021, a new mass grave was discovered at the Tristars.
-
-The new pits are covered with bronze trees, gold masks, Jade instruments, and ivory. Some instruments have not been seen before, such as complete gold masks, giant bronze gods.
-
-The new discovery did not reverse the old interpretation, but added details. The Tristars are not a one-time miracle, but a culture that lasts for centuries. Their masks, their trees and their sacrifices are all part of that culture.
+The new findings don't overturn the old explanation, but they add details. Sanxingdui is not a one-time miracle, but a culture that lasts for hundreds of years. Its masks, sacred trees and sacrifices are all part of this culture.
 
 ## Now
 
-These masks were displayed in the new museum by the Tristar Museum.
+Sanxingdui Museum displays these masks in its new museum.
 
-The booths are big, the lights are dark, the mask's eyes are shining behind the glass. The tourists stand in front of them and they feel they're watching.
+The display case was large, the lighting was dim, and the mask's eyes glowed behind the glass. Visitors will feel like they are being watched when they stand in front of it.
 
-A mask of 3,000 years ago can still be seen. It's its power and its mystery.
+A mask from three thousand years ago can still make people feel the gaze. This is its power and also its mystery.
 
-## Gold mask
+## Golden Mask
 
-Three stars and a golden mask.
+Gold masks were also unearthed in Sanxingdui.
 
-Gold masks are placed on the bronze head or used alone. Gold beams are thin, shaped with hammers, and are painted or glued to the bronze surface. Gold masks cover only the face, or cover the entire head.
+The gold mask was attached to the bronze human head or used alone. The gold foil is very thin, shaped by hammering, and then glued to the bronze surface with paint or glue. Some gold masks only cover the face, while others cover the entire head.
 
-Gold masks and bronze masks are two different materials, two different processes. Together, they show different roles and levels in ritual activities.
+Gold masks and bronze masks are two different materials and two different processes. They appear together, indicating that there are different roles and levels in sacrificial activities.
 
 ## Ivory
 
-There were ivory in the grave.
+There were large quantities of ivory in the sacrificial pits.
 
-ivory is not a common local material. ivory from three star piles, probably from Yunnan, Burma, or more.
+Ivory is not a common local material. The ivory in Sanxingdui may have come from Yunnan, Myanmar or further afield. Transporting ivory requires routes, manpower and supplies.
 
-The presence of ivory means that ancient states are not closed. It has trade, exchanges, and a network of resources.
+The existence of ivory shows that the ancient Shu Kingdom was not closed. It has trade, exchanges, and resource networks with the outside world.
 
-## Protection
+## Protect
 
-The bronze mask is oxidized and corrosive when it comes out of the soil.
+After the bronze masks are unearthed, they will oxidize and corrode.
 
-Protectors control humidity, remove soil and salt from the surface, and treat it with a decoupling agent.
+Conservation personnel should control the humidity, remove soil and salt from the surface, and treat it with corrosion inhibitors. The gold mask is more fragile, the gold foil is easy to fall off, and cannot be touched casually.
 
-The three-star collection of cultural objects is protected with a number of modern technologies: three-dimensional scanning, X-rays, microscopes, environmental monitoring. Archaeology is not just excavation, it is preservation.
+The protection of cultural relics in Sanxingdui uses many modern technologies: three-dimensional scanning, X-rays, microscopes, and environmental monitoring. Archeology is not only excavation, but also preservation.
 
 ---
 

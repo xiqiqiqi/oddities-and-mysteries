@@ -74,95 +74,95 @@ The wheel stops. Physics does not.
 
 *Original schematic: the overbalanced wheel, the Bessler and Redheffer cases, and a thermodynamics timeline. Not a historical drawing. Oddity Archive, CC BY-SA 4.0.*
 
-## Wheels
+## Wheel
 
-A permanent motive is a machine that can function forever without energy.
+A perpetual motion machine is a machine that requires no energy and can run forever.
 
-It violates the first and second laws of thermodynamics. Energy cannot be produced in empty space, nor can it never be lost.
+It violates the first and second laws of thermodynamics. Energy cannot be created out of thin air, nor can it be lost forever.
 
-## Bessler
+## Besler
 
-John Bessler, an 18th-century German.
+Johann Besler was a German in the eighteenth century.
 
-And he created many things of a “perpetuity motive”, some with wheels and some with ropes; and he said, “They can turn themselves.”
+He built many "perpetual motion machines", some using wheels and some using ropes. He said they could turn on their own.
 
-## Red Heffer
+## Redhover
 
-Charles Redhoff, a nineteenth-century American.
+Charles Redhover was an American in the nineteenth century.
 
-He's putting out a machine in New York, saying it can generate infinite energy. Then, someone reveals it, and there's a man underneath it.
+He exhibited a machine in New York that he said could produce unlimited energy. Later, someone revealed that there was a person hidden under the machine.
 
 ## Energy
 
-Never a motive.
+A perpetual motion machine is impossible.
 
-Friction, air resistance, heat all consume energy. Machines need external energy.
+Friction, air resistance, and heat all consume energy. Machines require external energy.
 
-## Why are you still here?
+## Why are You Still There
 
-The story of eternal motives is still circulating.
+The story of the perpetual motion machine is still circulating.
 
-Because it fulfils a wish: free energy, forever sports.
+Because it fulfills a wish: free energy, eternal movement.
 
 ## Thermodynamics
 
-Thermodynamics must be the first rule: energy cannot be produced from empty space.
+The first law of thermodynamics: Energy cannot be created out of thin air.
 
-Law number two: Energy will change from available to non-usable.
+Second Law: Energy changes from being available to being unavailable.
 
-The eternal motive violates both laws.
+A perpetual motion machine violates both of these laws.
 
 ## Machine
 
-There are many kinds of machines that have a permanent motive.
+There are many types of perpetual motion machines.
 
-Wheels, ropes, magnets, mercury. They look like they can turn themselves, and they need external energy.
+Wheels, ropes, magnets, mercury. They appear to be able to spin on their own, but actually require external energy.
 
-## Liar
+## Scam
 
-A lot of eternal motives are frauds.
+Many perpetual motion machines are scams.
 
-The machine hides people under it, or with hidden batteries.
+There are people hidden under the machines, or there are hidden batteries.
 
-## Supplementary Notes
+## Supplementary Note
 
-The eternal motive is an old dream.
+Perpetual motion is an ancient dream.
 
-It's always moving without energy.
+It wants to move forever without using energy.
 
-Thermodynamics, impossible.
+According to thermodynamics, it's impossible.
 
-## Last
+## Last Note
 
-The second law of thermodynamics says that the entropy of the isolation system increases. The constant motive is to reverse the process, so it's impossible.
+The second law of thermodynamics says that the entropy of an isolated system increases. A perpetual motion machine wants to reverse this process, so it's impossible.
 
-The eternally motivated dream never materialized. It only proved one thing: energy is not free.
+The dream of a perpetual motion machine has never come true. It only proves one thing: energy isn't free.
 
-The machine will stop, the dream won't. The story of a permanent motive will continue.
+The machine will stop, but the dream will not. The story of perpetual motion machines will continue.
 
-The story's still there.
+The story is still there.
 
-Energy is not free, but dreams are.
+Energy isn't free, but dreams are.
 
-## Archives
+## File
 
-In the 12th century, the Indian mathematician Ben Shighara described an "automatic wheel." He didn't mean that it really could move forever, but that it was used to talk about sports. The eternally motivated dream never came true. It only proved that energy was not free.
+In the 12th century, the Indian mathematician Vaskara described an "automatic wheel." He didn't mean that it actually moved forever, he was just using it to discuss motion. The dream of a perpetual motion machine has never come true. It only proves that energy is not free.
 
-The wheels of Bashcharo, by weight and swing. It looks like forever, but it stops.
+The wheel of Bashikara relies on counterweight and swing. It looks like it's always moving, but it actually stops.
 
-Physics says friction and gravity stop the wheel.
+Physics says that friction and gravity will stop the wheel.
 
-In the 18th century, European craftsmen made a lot of “perpetuity wheels”. They tricked the audience with hidden hairlines or hammers.
+In the 18th century, European craftsmen built many "perpetual motion wheels." They rely on hidden clockwork or heavy hammers to deceive the audience.
 
-And these wheels were then torn apart. They were hidden in them with gear and hammers. And the wheels of Bashcharo were drawn on paper. It had no substance, but a description.
+These wheels were later dismantled. Hidden inside are gears and weights. The wheel of Bhaskara is drawn on paper. It has no physical object, only description.
 
-The patent office usually refuses it directly.
+There are still people applying for patents for perpetual motion machines. The patent office usually refuses outright.
 
-Most of these applications have no background.
+Most of these applications have no results.
 
-The wheel finally stopped, the dream didn't.
+The wheel finally stopped, but the dream did not.
 
-Ever-motivated dream, still.
+The dream of perpetual motion is still there.
 
 ---
 

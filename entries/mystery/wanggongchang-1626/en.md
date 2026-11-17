@@ -70,35 +70,35 @@ What unsettles people are the details in the records: the clothes, the trees, th
 
 ## Gunpowder
 
-Wang Kyu factory is the powder depot of the Ming Dai Ministry.
+Wang Gong Factory was the gunpowder depot of the Ministry of Industry of the Ming Dynasty.
 
-The main components of Ming Fuen Fueze are nitro, sulphur and charcoal. The formula varies in its scale and power. The powder is prone to tide, heat, and self-fire during storage, transportation and manufacture. There were several explosions in Mingdyna Beijing, and Wang Kyu factory was not the first time.
+The main ingredients of gunpowder in the Ming Dynasty were saltpeter, sulfur and charcoal. The formulas have different proportions and different powers. Gunpowder is prone to moisture, heat, and spontaneous combustion during storage, transportation, and manufacturing. There were many gunpowder explosions in Beijing during the Ming Dynasty, and this was not the first time at Wang Gong Factory.
 
-But Wang Kyu's factory is large. It supplies the camps and the city, and there are no fewer stocks. The explosion occurred in the morning, and the city was active, and the casualties were particularly heavy.
+But Wang Gong Factory is very large. It supplies Beijing camps and city defenses, and there will be no shortage of inventory. The explosion occurred in the morning, when people in the city were busy, so the casualties were particularly heavy.
 
-## Equivalence
+## Equivalent
 
 Modern researchers try to estimate the power of the explosion.
 
-Some say it is thousands of tons of TNT, some say even less. The difficulty of estimating is that there are no reliable numbers of stocks, that the quality of the gunpowder is unclear, and that the conditions of the explosion are not known. Wang Kyu’s factory is in town, surrounded by houses, walls, and streets, and that the explosion is reflective, stacked, and the damage is much more difficult to calculate than in the open ground.
+Some say the equivalent of several thousand tons of TNT, others say less. The difficulty in estimating is that there are no reliable figures for the inventory, the quality of the gunpowder is unclear, and the constraints of the explosion are not known. Wang Gongchang is in the city, surrounded by houses, walls and streets. The explosion waves will be reflected and superimposed, making the damage range more difficult to calculate than on the open ground.
 
-Without these data, “equivalent” can only be a range and not an exact value.
+Without this data, "equivalent" can only be a range, not an exact value.
 
-## Scripts
+## Historical Data
 
-The records of Wang Kyu's factory are mainly from the newspaper, the concerts and personal notes.
+Wang Gongchang's records mainly come from Di's newspapers, memorials and personal notes.
 
-These materials have different purposes. Officials report disasters, hold them accountable, cavalry record differences, express political criticism, civil society spread stories, explain fears. Each record chooses the details that they care about.
+These materials serve different purposes. Officials needed to report disasters and hold people responsible; scholars needed to record visions and express political criticism; people needed to spread stories and explain fears. Each type of record will choose the details that it cares about.
 
-The details of "the clothes are blown away" and "the lions fly away" and "the lingsong clouds" are the first to appear, and it is difficult to find out. They may come from the scene, or they may come from reprinting and exaggeration. The historians can do this by putting together different sources, pointing out the various versions of what they say.
+It is difficult to find out where details such as "clothes were blown away", "stone lions flew away" and "ganoderma clouds" first appeared. They may come from the scene, but they may also come from copying and exaggeration. What historians can do is juxtapose different sources and point out which accounts have multiple versions.
 
-## Conclusions
+## In Conclusion
 
-The core fact of the explosion at Wang Kyu factory is clear: a gunpowder depot in Beijing City exploded, causing a large number of casualties.
+The core facts of the Wang Gong Factory explosion are clear: a powder magazine explosion occurred in Beijing, causing a large number of casualties.
 
-The details are still controversial: how much stocks, how much equivalent, why the scale of the destruction is so widespread, how the strange things are explained. The controversy is not inexplicable, but it is simply an indication that the scene of a historical disaster always leaves something that cannot be filed in a coherent way.
+Details are still disputed: how large the inventory was, how powerful it was, why the damage was so widespread, and how to explain those strange phenomena. Controversy does not mean there is no solution, it just shows that at the scene of historical disasters, there will always be something left behind that cannot be neatly archived.
 
-Consider it an alien explosion, not an explanation, but an escape. The real difficulty is to face an incomplete file.
+Thinking of it as an "alien explosion" is not an explanation, but an escape. The real difficulty is facing an incomplete file.
 
 ---
 

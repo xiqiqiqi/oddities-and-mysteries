@@ -72,69 +72,69 @@ Whether the person was male or female, a prince or a princess, a warrior or a pr
 
 *Original schematic: the main motifs of the headdress, the side chamber at Issyk and the 1969 discovery. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
 
-## Issek
+## Issyk-Kul
 
-In 1969, a grave was exhumed in Esik, Kazakhstan.
+In 1969, a tomb was excavated in Esik, Kazakhstan.
 
-The grave contains a body in a gold coat, a gold hat, and a gold instrument, a weapon and a horse. There are thousands of pieces of gold chips, sewn on clothes and hats. The body is called a “gold man”.
+There was a corpse in the tomb, dressed in gold clothes and a gold hat, surrounded by gold utensils, weapons and horse gear. There were thousands of gold pieces sewn onto clothes and hats. The corpse was called the "Golden Man".
 
-The burial period was about the fifth to the first three centuries B.C. The Serbs were nomadic peoples on the Eurasian steppes, in today’s Kazakhstan, Russia, Mongolia and Central Asia.
+The tombs date from approximately the fifth to the third century BC and belong to the Saka culture. The Cypriots were a nomadic people on the Eurasian steppe, distributed in today's Kazakhstan, Russia, Mongolia and Central Asia.
 
-## Gold coat
+## Golden Clothes
 
-The gold man's clothes are not a whole piece of gold, but several thousand pieces of gold fabric or leather.
+The clothes of the golden man are not a whole piece of gold, but thousands of gold ornaments sewn on cloth or leather.
 
-Gold with animal tattoos, geometry and character tattoos. Animals are the most common: deer, tigers, eagles, horses. These animals are not random. They are related to life, faith and power in the grasslands.
+Gold decorations include animal patterns, geometric patterns and human patterns. Animal prints are the most common: deer, tiger, eagle, and horse. These animals are not randomly selected, they are related to life, belief and power on the grassland.
 
-The golden man's hat is very high, and it has gold chips and decorations on it. The hat is shaped like a tower, and it may symbolize identity or the universe.
+The golden man's hat is very tall and decorated with gold pieces. The hat is shaped like a tower and may symbolize identity or the universe.
 
 ## Gender
 
-The golden man is a man and a woman, and it's very controversial.
+Whether the golden person is male or female is highly controversial.
 
-The initial report states that there is a male body in the grave. Subsequent studies suggest that the bone is not visible, and that it may be female.
+Initial reports said the tomb contained a male body. Later research said the skeletal features were not obvious and could be female. Later, DNA analysis did not give a definite conclusion.
 
-Gender is not just a technical issue. It is about the structure of the Serb society: can women become high-ranking warriors or priests? The status of gold is likely to be a young ruler, priest or aristocrat, and it is possible for both men and women.
+The battle of the sexes is not just a technical issue. It concerns the structure of Cypriot society: can women become high-ranking warriors or priests? The identity of the golden person may be a young ruler, priest or noble, and both men and women are possible.
 
-## Prairie
+## Grassland
 
-The Serbs do not have words, and history is largely based on archaeology and Greek, Persian literature.
+Cypriots have no written language, and their history mainly relies on archeology and Greek and Persian documents.
 
-The Greeks call the steppes the “skite” and the Persians call them the “Sekas.” They ride horses, arrows, grazing, and they do silver and gold. Their artistic style affects a large area from the Black Sea to Mongolia.
+The Greeks collectively called the steppe peoples "Scythians", and the Persians called them "Sakas". They rode horses, shot arrows, herded cattle, and made gold and silverware. Their artistic style influenced a vast area from the Black Sea to Mongolia.
 
-The tomb of the Golden Man is not an isolated discovery. It belongs to a larger network of grassland cultures. The animal stripes on the gold are similar to those of the Russian, Mongolian, and Xinjiang.
+The tomb of the Jin man is not an isolated discovery. It is part of a larger grassland cultural network. The animal patterns on the gold vessels are similar to those unearthed in Russia, Mongolia, and Xinjiang.
 
 ## Now
 
-The Golden Man is now on display at the Kazakhstan National Museum.
+The Golden Figure is now on display at the National Museum of Kazakhstan.
 
-It's one of the symbols of Kazakhstan's state. The replicas appear in monuments, stamps, and tourism campaigns. The real ones are fragile and not always move.
+It became one of the national symbols of Kazakhstan. Replicas appear on monuments, stamps and tourist promotions. The real thing is fragile and doesn't move often.
 
-A prairie nation without words, left a name through the gold and bones. It was given by a later man: the Golden Man.
+A grassland nation without writing left a name through gold vessels and bones. This name was given by later people: Jinren.
 
-## Gold
+## Gold Jewelry
 
-Gold man's gold, it's made.
+The gold ornaments of the golden man are made.
 
-The craftsmen turn the gold hammer into thin pieces, then cut into animal, geometric and figure shapes. There are little holes in the gold, sewn on the clothes with threads. Some gold is engraved, others are empty.
+Craftsmen hammered the gold nuggets into thin sheets and cut them into animal, geometric and human shapes. There are small holes in the gold pieces and they are sewn onto the clothes with threads. Some gold ornaments are embossed, and some are hollowed out.
 
-Goldworks indicate that the Cypriots have a professional metalsmith. They control the purity of gold and make fine drawings. Gold is not casual, it's power material.
+The craftsmanship of the gold jewelry shows that the Cypriots have professional metal craftsmen. They can control the purity of gold and create fine patterns. Gold is not used casually, it is the material of power.
 
-## Cemetery
+## Tomb Owner
 
-Gold Man's Tomb, it's a big grave.
+The tomb of the Jin people is a large tomb.
 
-The size of the grave indicates his/her high position in society.
+There are wooden structures, horses, weapons and food in the tomb. The tomb owner is placed in the center, dressed in gold. The size of the tomb indicates that he/she had a high status in society.
 
-But there is no written proof of the identity of the graveowner. We don't know his/her name, age, position. We only know that he/she is called the Golden Man by his/her successor.
+However, there is no written proof of the identity of the tomb owner. We don’t know his/her name, age, position. We only know that he/she was called the "Golden Man" by future generations.
 
-## National symbols
+## National Symbol
 
-The Golden Man became a symbol of Kazakhstan.
+The golden man became the symbol of Kazakhstan.
 
-Its image appears in post-independence monuments, money and propaganda. It represents the ancient, wealth and independence of the grasslands.
+Its image appeared on monuments, currency and promotional materials after independence. It represents the antiquity, wealth and independence of the prairie.
 
-An archaeological discovery has become part of the national narrative. This is not unique to Kazakhstan. Many countries use ancient monuments to prove their history.
+An archaeological discovery becomes part of a national narrative. This is not unique to Kazakhstan. Many countries use ancient cultural relics to prove the length of their history.
 
 ---
 

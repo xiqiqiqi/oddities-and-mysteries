@@ -72,47 +72,39 @@ In recent years some people have proposed translating the Chinese dragon as “l
 
 *Original schematic: the features of the Chinese dragon and the Western dragon compared. Not a photograph of an object. Oddity Archive, CC BY-SA 4.0.*
 
-## The word dragon
+## The Word “Dragon”
 
-The word “dragon” in Chinese and “dragon” in English are not the same word.
+Chinese lóng (“dragon”) and English “dragon” are not the same word. The former appears as early as the oracle‑bone script and depicts an amalgamation: a serpent body, deer antlers, fish scales, and bird talons—capable of flight, diving, and size change. It is a composite of traits rather than a fixed organism.
 
-Dragons appear early in the Chinese literature, in Oracle. Their image is spelled: snakes, horns, scales, eagle claws, flying, diving, and becoming smaller. It is not a fixed animal, but a combination of characteristics.
+“Dragon” comes from Greek *drakon*, meaning “serpent” or “guardian.” In Greek mythology, dragons guard treasure or springs; in the Bible, the dragon becomes a metaphor for Satan. The image evolves, its orientation shifting: Western dragons increasingly resemble lizards, emphasising wings and fire.
 
-The “dragon” comes from Greek language, drakon, which means “snake” or “guardian”. In Greek mythology, dragons often hold treasures or springs; in the Bible, dragons are the symbol of Satan. Its image is changing, but in different directions: Western dragons are increasingly like lizards, and they increasingly emphasize wings and fire.
+## Dragon‑Kings and Rain
 
-## The Dragon King and the Rain
+In China, the dragon’s most common function is to control rain. Agriculture depends on rain, and the divine manages it. Dragon‑king temples sit in almost every farming district, each with its own jurisdiction, shrine, and birthday. During droughts, people parade dragon‑king statues to beg rain; during floods, they ask the dragon to stop.
 
-The most common job of the Chinese dragon is the management rain.
+Dragons are also intertwined with imperial authority. The emperor wears a dragon robe, sits on a dragon throne, and employs the dragon in palace names and era titles. Thus the dragon becomes an icon of power—belonging to no single individual yet worn by one.
 
-Agriculture requires rain, rain requires God. The temples are spread in almost every agricultural district, the king has jurisdiction, temples, and birthdays. In a dry time, people carry the king to the streets, begging for rain, and in a flood, people ask him to stop the rain.
+## The Western Dragon’s Antagonist Role
 
-Dragons are bound to the throne. Emperors wear dragon robes and chairs, naming palaces and year numbers with dragons. Dragons are images of power: it does not belong to a single person, but only one person can wear them.
+Western dragons frequently act as adversaries. They guard gold, kidnap princesses, and burn villages. Defeating a dragon validates the hero. Saint George’s slaying of a dragon became England’s patron legend; the dragon in *Beowulf* meets its doom with the hero; the Norse *Fafnir*, once human, turns into a dragon for greed.
 
-## The enemy of the Western Dragon
+In these tales, the dragon is the thing to be conquered—paganism, greed, chaos, the old world. Slaying it establishes order.
 
-The most common role of Western dragons is the enemy.
+## Fossils and Dinosaurs
 
-It holds gold, takes princesses, and burns villages. Heroes kill dragons as a way of proving themselves. St. George's dragons became the guardian story of England; the dragons in Beowulf were killed with the lead; and the North's Fafnir, was a man because he was a dragon.
+“dragon bones” (lónggǔ) is a Chinese folk medicine ingredient. It reflects that when ancient people unearthed unexplainable gigantic bones, they used familiar names to describe them. The dragon was a ready‑made explanation.
 
-In these stories, dragons represent what needs to be defeated: heresy, greed, chaos, old world. Dragon killers, order.
+In 1842, British anatomist Richard Owen coined *Dinosauria* (“terrible lizard”), a name unrelated to “dragon,” but it carried the same dread: gigantic, extinct, bone‑only relics.
 
-## Fossils and dinosaurs
+The dragon’s imagery crosses cultures because it can serve as a vessel for ideas. Chinese dragons embody rain and imperial power; European dragons carry tales of paganism and greed; modern dragons encapsulate fear and wonder. An empty container proves more useful than a real animal.
 
-The "deleton bone" is a meth.
-
-It's actually fossils, many of the bones of ancient mammals, and some of them dinosaurs. In the nineteenth century, ancient western biologists discovered dinosaur fossils in China, and locals have called these huge bones "done bones."
-
-This is not to say that the ancients have seen dragons. It shows that people dig deep in the ground and call them names that they know well. Dragons are a ready explanation.
-
-In 1842, the British anatomist Richard Owen named this type of fossil animal “Dinosauria”, meaning “the terrible lizard”. The name has nothing to do with the dragon, but it has the same fear: huge, missing, nothing but bones.
-
-The image of dragons is intercultural, not because it really exists, but because it can fill things up. The Chinese put rain and royal power in, the Europeans put infidelism and greed in, the modern people put fear and surprise in. An empty container works better than a real animal.
-
-Today, dragons are still in two directions. It's one of the 12-year-old Shores and Boss in the game; it's both the god in the temple and the role of the children in the book. It's not out of science, because it's never in science.
+Today, dragons swing between directions: they are a zodiac animal and a video‑game boss; a temple deity and a children’s picture‑book figure. They remain outside science because they never belonged to it.
 
 ## Supplementary Notes
 
-If dragons are treated as a cultural symbol, not as an animalist, many contradictions disappear. Chinese dragons can control the rain, or they can symbolize the Emperor; Western dragons can guard the treasure, or they can represent the devil. They do not need to share the same body, but they need to share the same place: at the very edge of human imagination.
+When treated as a cultural symbol rather than a biological entity, many contradictions dissolve. Chinese dragons may control rain or symbolize the emperor. Western dragons guard treasure or embody the devil. They need not share a body; their shared place is at the edge of human imagination.
+
+---
 
 ---
 

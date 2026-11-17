@@ -66,51 +66,49 @@ On a spectrogram, it is a clean downhill line. You do not need to hear it to see
 
 Sounds have shapes. We usually listen with our ears, not our eyes.
 
-## A slash
+## A Slash
 
-There is a slant down to the right on the “Slow Down” spectrum map.
+On the spectrum chart of "Slow Down", there is a diagonal line going down to the right.
 
-The frequency of sound is slowly decreasing in seven minutes, like a man blowing his whistle from a high to a low. The researchers call this line a “reduce” and notice that it changes smoothly and does not jump suddenly.
+The frequency of the sound slowly decreases over seven minutes, like a person blowing a whistle from high to low. The researchers called this line "frequency reduction," and noted that it varied smoothly, without sudden jumps.
 
-In the case of mechanical failure, the frequency is usually shaking; in the case of animals, the frequency changes with breathing and movement. A smooth drop is more like a physical process: a bubble is shrinking, an ice is breaking, or a water formation is changing its shape.
+If it is a mechanical failure, the frequency will usually shake; if it is an animal, the frequency will change with breathing and movement. A smooth descent, more like some physical process: a bubble shrinking, a block of ice breaking, or a blob of water changing shape.
 
 ## After 1997
 
-The words “Slow Down” and “Whistle” are often taken together because they are from the same 1997 records, both low-frequency and uncategorized.
+"Slow Down" and "Whistle" are often mentioned together because they are both from the same 1997 records, both are low-frequency, and both defy categorization.
 
-But their fates are different. The name "Slow Down" is more dramatic and more widespread. Its version on the Internet is set with low sounds, waves and subtitles, sounds like a giant animal.
+But their fates are different. "Slow Down" has a more dramatic name and is more widely spread. Its online version is dubbed with a deep voice, ocean waves and subtitles that make it sound like a giant beast roaring.
 
-The original data is not so dramatic. It's just a spectrum, a line, a few parameters. The name is later, and the story is later.
+The raw data is less dramatic. It's just a spectrum, a line, a few parameters. The name was added later, and so was the story.
 
 ## Whale and Ice
 
-The most conservative explanation still points to ice tremors or cetaceans.
+The most reliable explanation still points to ice earthquakes or cetaceans.
 
-The icebergs in the South Pacific break, and the sound that comes out of the breakup can spread far away. Large cetaceans also make low-frequency noises, some of which change slowly. Both can leave slants on spectrum maps.
+Icebergs in the South Pacific break off, and the sound produced when they break can travel great distances. Large cetaceans also emit low-frequency calls, some of which change slowly in frequency. Both can leave sloping lines on the spectrogram.
 
-But “most secure” is not the same as “verified”. No video, no satellite imagery at the same time, no triangulation of the second independent array, and only one sequence of possibilities by researchers.
+But "the most reliable" does not mean "proven". Without video, without satellite imagery from the same time, without triangulation from a second independent array, the researchers could only rank the possibilities.
 
-## The weight of the name
+## Weight of Name
 
-The name “Slow Down” was remembered earlier than the data.
+The name "Slow Down" is remembered earlier than the data.
 
-A name changes the expectations of listeners. If it's called the South Pacific low-frequency event 1997-3, very few people will click on it; if it's the "Slow Down," people will imagine a huge thing slowing down at the bottom of the ocean.
+A name changes the listener's expectations. If it were called "South Pacific Low Frequency Event 1997-3," few people would click on it; if it were called "Slow Down," people would imagine something huge slowing down on the ocean floor.
 
-This is the second layer of sound transmission: first, there is an unexplained signal, then there is a good name, and finally there is a much bigger story than a signal.
+This is the second layer of sound transmission: first there is an unexplainable signal, then there is a nice name, and finally there is a story that is much bigger than the signal.
 
-## Supplementary Notes
+## Supplementary Note
 
-The dissemination of the “Slow Down” also reveals a common problem: researchers write “maybe ice-shocks”, the transmitter reads “unexplainable”, and listeners remember “Beasts of the sea”. After the three levels of restatement, a statistical anomaly becomes a monster. It is not the fault of the researchers, nor of the listeners, but the language itself that grows up in the spread.
+The spread of "Slow Down" also exposed a common problem: researchers wrote "possibly an ice earthquake", communicators read it "unexplainable", and listeners remembered it as "an undersea monster". After the third level of retelling, a statistical anomaly turned into a monster. This is not the fault of the researcher, nor the fault of the audience, but the language grows its own story in the process of communication.
 
-## Location of the archives
+## Archive Location
+Slow Down and Whistle are often juxtaposed because both are from 1997, both are low-end, and both have no answers. But Slow Down's decline was more complete, lasting seven minutes, long enough for researchers to rule out a brief explosion. It's more of a process than an object. That's what's fascinating about it: a process can have many interpretations, while an object can only have one identity.
 
-Snow Down and Whittle are often listed together, because they both came from 1997, with low frequency and no answer. But the slow Down drop curve is more complete and lasting seven minutes, enough for researchers to rule out a short explosion. It's more like a process than an object. That's where it's attractive: a process can have many explanations, and an object can only have one identity.
+## Further Notes
+Slow Down's seven minutes is just enough time for one person to sit down and listen to it. It's not as brief as an explosion, nor as repetitive as a whale song. It's a continuously changing line that sounds like something is slowly moving away. People will understand this change as action, and action as life. This is the instinct of hearing and the beginning of the story.
 
-## Memory
-
-Slow Down's seven minutes, just enough for one person to sit and listen. It's not as short as an explosion, and it's not like a whale song. It's a line that keeps changing, and it sounds like something's slowly leaving. People understand that change as a movement, and they understand it as a life. This is the instinct of hearing, and it is the beginning of a story.
-
-This recording doesn't appear again. It's like a half-written line, parked in the 1997 database, waiting for a confirmation that won't come.
+This recording did not appear a second time. It's like a half-written line parked in a 1997 database, waiting for a confirmation that won't come.
 
 ---
 

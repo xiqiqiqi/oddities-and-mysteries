@@ -74,93 +74,91 @@ Guests sleep on board, lie in bed and hear the ship making sounds. Some say it i
 
 *Original schematic: the maiden voyage in 1936, the 1942 collision, the move to Long Beach in 1967 and the ghost stories. Not a photograph of the ship. Oddity Archive, CC BY-SA 4.0.*
 
-## Boat
+## The Ship
+The Queen Mary is a British ocean liner.
 
-The Queen Mary is a British ocean passenger ship.
+It first sailed in 1936 and was owned by the Cunard Line. The ship is very long, weighing more than 30,000 tons, and can carry several thousand people. It runs the North Atlantic route from Southampton to New York.
 
-It started in 1936 with the Canard Shipping Company. It's a long ship, with over 30,000 tons, carrying thousands of people. It runs the North Atlantic route from Southampton to New York.
+The design of the ship is very luxurious, with restaurants, ballrooms, swimming pools and first-class cabins. It was also one of the fastest passenger liners of its day and once held the Blue Ribbon Award.
 
-The ship was designed to be luxurious, with restaurants, dance halls, swimming pools and first class. It was also one of the fastest passenger ships at the time, once holding the Blue Ribbon Award.
+## The War
+During World War II, the Queen Mary was requisitioned as a troop transport.
 
-## War
+It was painted gray, stripped out of luxury amenities and replaced with bunks and medical equipment. It transported soldiers, wounded and prisoners of war across the Atlantic and Indian Oceans.
 
-During World War II, the Queen Mary was requisitioned as a carrier.
-
-It was painted gray, disassembled luxury facilities, equipped with bunks and medical equipment. It transported soldiers, wounded and prisoners of war across the Atlantic and Indian Ocean.
-
-In 1942, it crashed with another ship at sea, and it nearly sank. It did not sink, but the hull was damaged and later repaired.
+In 1942, it collided with another ship at sea and nearly sank. It did not sink, but the hull was damaged, which was later repaired.
 
 ## Long Beach
 
-In 1967, the Queen Mary retired and was sold to Long Beach.
+In 1967, the Queen Mary was decommissioned and sold to Long Beach, USA.
 
-It is converted into a hotel, museum, and tourist destination.
+It was converted into hotels, museums and tourist attractions. The ship is parked at the dock and is no longer sailing. Tourists can visit the ship or stay overnight on the ship.
 
-The space on board is divided into restaurants, banquet halls, exhibition rooms and guest rooms.
+The space on the ship is divided into restaurants, banquet halls, exhibition rooms and guest rooms. Some areas have retained their original decoration, while others have been renovated.
 
-The Queen Mary stopped at Long Beach.
+The Queen Mary docked in Long Beach.
 
-Long Beach is a port city with docks, docks, and museums.
+Long Beach is a port city with piers, docks and museums. Boats are city landmarks and tourism revenue.
 
-## John Peder
+## John Pedder
 
-The most famous ghost on board, John Peder.
+The most famous "ghost" on the ship was John Pedder.
 
-It is reported that he was a crew member who died in the pool or cabin of the ship. His ghost appeared in the hallway, knocking on the door, opening the light, leaving wet footprints.
+Legend has it that he was a crew member who died in the ship's swimming pool or engine room. His ghost appears in the corridors, knocking on doors, turning on lights, and leaving wet footprints.
 
-There's no original record of this story. There's a lot of deaths on the ship, but the name John Peder was later.
+There is no original record of this story. There were many deaths on the ship, but the name "John Peder" was given by later people.
 
-## Other stories
+## Other Stories
 
-There are other legends on board: a woman crying in the first-class corridor, a girl playing by the pool and a crew smoking in the cabin.
+There were other legends aboard the ship: a woman crying in the first-class hallway, a girl playing by the pool, a crew member smoking in the cabin.
 
-These stories were presented to visitors by guides, and were filmed on television as “spirits of wonders.” They made ships more famous and obscured history.
+These stories were told to tourists by tour guides and filmed as "paranormal investigations" on television programs. They make the ship more famous and the history more obscure.
 
-## Explanation
+## Explain
 
-The “spirit phenomenon” on board can be explained by ordinary reasons.
+The "supernatural phenomena" on the ship can be explained by ordinary reasons.
 
-The old ship's metals will swell and cool and make noise; the water in the pipeline will flow, producing footsteps; lights and ventilation will suddenly start. In dark corridors, tourists can easily sound ordinary.
+The metal of the old ship will expand and contract due to heat and cold, making noises; water in the pipes will flow, causing the sound of footsteps; lights and ventilation equipment will suddenly activate. Visitors in dark corridors can easily interpret ordinary sounds as ghosts.
 
-But the explanation doesn't make the story disappear. The boat is big, the rooms are big, the hallways are long. People walk in it, they get lost, they're easy to imagine.
+But explanation doesn’t make the story disappear. The ship is huge, with many rooms and long corridors. It's easy to get lost when walking inside, and it's easy to imagine.
 
-## The hull
+## Hull
 
-The Queen Mary's hull is made of steel.
+The Queen Mary's hull was made of steel.
 
-It has more than 20 boilers, a few steam turbines. It's more than 300 metres long and 30 metres wide. It's powered by tens of thousands of tons of ships across the Atlantic Ocean.
+It has more than twenty boilers and several steam turbines. The hull is more than 300 meters long and 30 meters wide. Its power can propel ships of tens of thousands of tons across the Atlantic Ocean.
 
-The hull needs to be maintained.
+The hull needs maintenance.
 
-Steel rusts, paints fall, seawater corroses. Maintenance requires dry docks, workers and money.
+Steel will rust, paint will peel off, and seawater will corrode. Maintenance requires dry docks, workers and money.
 
-## Museums
+## Museum
 
-Part of the ship was transformed into a museum.
+Part of the ship has been transformed into a museum.
 
-Visitors can see engine rooms, platforms, first class and immigration cabins.
+Visitors can see the engine room, bridge, first class and immigration cabins. Some places have retained their original decoration, while others have been restored.
 
-The museum on the boat, it's about the history of the sea.
+The museum on the ship tells the history of navigation.
 
-Tourists can see the stories of engines, platforms, cabins and immigrants. Ships are not just ships; they are times.
+Visitors can see engines, bridges, cabins and the story of immigration. A ship is not just a ship, it is an era.
 
-## The story
+## Story
 
-The ghost stories on the ship are mostly about death.
+Most of the ghost stories on the ship are related to death.
 
-Some people died of illness on a ship, others fell by accident, and others died in war. These deaths were made up as ghost stories by subsequent guides.
+Some people died of illness on the ship, some fell accidentally, and some died in the war. These deaths were turned into "ghost stories" by later tour guides.
 
-The ghost story on the boat is part of the tour.
+The ghost stories on the boat are part of the tour.
 
-Tours talk, tourists listen, TV shoots. The story makes the ship more famous and the history more blurred.
+The tour guide talks, the tourists listen, and the TV shoots. Stories make ships more famous and history more obscure.
 
-## Protection
+## Protect
 
-The ship is parked on Long Beach and the hull has been corrosive.
+The boat was parked in Long Beach, its hull corroding.
 
-Maintenance requires money, manpower, and dry docks.
+Maintenance requires money, labor and dry docking. A boat can't sit at a dock forever, it needs regular inspections, rust removal, and painting.
 
-A boat, parked in the port, slowly ageing.
+A ship, parked in the port, is also slowly getting older.
 
 ---
 

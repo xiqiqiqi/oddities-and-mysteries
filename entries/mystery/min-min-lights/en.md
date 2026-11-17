@@ -64,49 +64,46 @@ Boulia's tourist material often mentions the Min Min light. Locals tell the stor
 
 For researchers, it is a problem in optics. For drivers, it is a light that should not be on the road ahead.
 
-## The night road of Bolya
+## Night Road in Bolia
 
-Min Min-Wan is a legend in western Queensland, Australia.
+Min Min Guang is a legend from western Queensland, Australia.
 
-The town of Burya is inland, surrounded by plains, bushes and dirt roads. The people driving at night say they see a light point far away, and follow the car. It sometimes disappears, sometimes on the front side, sometimes suddenly, and in another direction.
+The town of Bulia is inland, surrounded by plains, bush and dirt roads. People who drive at night say they see a light spot in the distance and follow the car. Sometimes it is in front, sometimes to the side, and sometimes it suddenly disappears and appears again in another direction.
 
-Lights are usually white or light yellow, not much like a car lamp. It doesn't light the road and doesn't make a sound.
+The light is usually white or yellowish, not large, like a car light. It doesn't light up the road and it doesn't make any sound.
 
-## Name
+## The Name
+The name "Min Min" comes from a place near Bulia.
 
-The name "Min Min" came from a place near Bria.
+Some say it comes from the local Min Min hotel; others say it comes from a word in an Aboriginal language. Different theories coexist, none of which can be completely confirmed.
 
-Some say it's from the local Min Min Hotel; others say it's from a word in the native language. None of the different terms exist.
+The exact origin of the name is not important. Importantly, it turns the light of a place into something that can be talked about. When tourists come to Bulia, they will ask “Where can I see the Minmin light?”; locals will tell me which way to drive and when is the easiest time to see it.
 
-The exact origin of the name is not important. What matters is that it turns the light of a place into something that can be talked about. Tourists come to Bria and ask, "Where can you see allergies?" The locals say, "Where do you go and when is the easiest to see?"
+## Car Lights
 
-## Carlights
+The most common explanation is car lights.
 
-The most common explanation is the headlights.
+In the flat outback, distant car lights will be refracted in the air layer. During temperature inversions, lights can be bent in unexpected directions and appear to be moving. Two cars, one car and reflective signs on the roadside can also create the effect of "light spots following you".
 
-In the flat interior, distant lights are refracturing in the atmosphere. When the temperature is turned back, the lights can be bended to unexpected directions and look like moving. Two cars, one vehicle, and the roadside reflectors can also produce the effect of "literally following you."
+Another explanation is an optical illusion. When people drive at night, their eyes will look for bright spots; if a distant light changes its relative position as the car moves, it will be felt as "it is moving."
 
-Another explanation is delusion. People drive at night and their eyes look for bright spots; a distant light, changing relative positions as the car moves, is perceived as “it's moving”.
+## Inland Light
 
-## The light in the interior
+Min Minguang’s story is inseparable from the environment of the Australian outback.
 
-The story of the sensitivity, and the environment in Australia's interior, is inseparable.
+The road there is straight, there are few cars, it is dark, and the field of vision can extend to dozens of kilometers. A distant light will be magnified in such an environment. Without the distraction of city lights, every bit of light looks special.
 
-There's a straight road, a small car, a dark light, a view that extends to dozens of kilometres. A distant light is magnified in this environment. Without city lights, any light is special.
+The story also reminds drivers: Don’t chase lights at night. There is no end to the road in the outback, and the fuel gauge is more realistic than legend.
 
-The story also reminds the driver: Don't chase the lights at night. The inland roads are not over, and the oil gauge is more practical than the legend.
+## Supplementary Note
 
-## Supplementary Notes
+In Min Minguang’s story, there is a detail that is rarely mentioned: the place where light appears is often at a distance that can be illuminated by car lights but cannot be clearly seen by humans. This distance is just enough for the brain to complete the shape. Too close and the light is car lights; too far and the light is stars. The middle section is where the legend grows.
 
-There is one detail in the perceptive story that is rarely mentioned: where light is present, it is often the distance that the lights can see, but people can't see. This distance is just enough to fill the shape of the brain. Too close, light is the lamp; too far, light is the star. The middle part is the place where the legend grows.
+## Archive Location
+Min Min Guang is a "local legend" type file. It doesn't have a national name or an international case number. Its power comes from place: a road, a town, a group of people driving at night. Leave that place and half the story is lost.
 
-## Location of the archives
-
-Min-min is a local legend file. It doesn't have a national name or an international case number. Its power comes from a place: a road, a town, a group of people driving at night. It loses half of the story when you leave that place.
-
-## Memory
-
-For drivers, the most important thing is not what it is, but where it is. Light is far away, roads are beneath its feet. Those who chase light can easily forget to look at the oil gauge and the shoulder. Legends can hear, the steering wheel can't be loose. This is the most practical civil wisdom of inland roads.
+## Further Notes
+For drivers, the most important thing about sensitive light is not what it is, but where it appears. The light is in the distance and the road is under your feet. People who chase light tend to forget to look at the gas gauge and the road shoulder. The legend can be heard, but the steering wheel cannot be loosened. This is the most practical folk wisdom on outback roads.
 
 ---
 

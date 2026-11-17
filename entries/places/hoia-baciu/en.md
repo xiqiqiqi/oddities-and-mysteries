@@ -82,53 +82,52 @@ Some places do not need an answer. They need a storyteller and a flashlight.
 
 *Original schematic: the clearing, the bent trees and the 1953 and 1968 sightings. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
-## Cityside
+## City ​​edge
 
-Hoyabacho Forest, near Kluj Napoca, Romania.
+Hoiabachiu Forest, near Cluj-Napoca, Romania.
 
-It's an urban forest, small enough to walk through for hours. The forest is mountainous, valley and open.
+It is a forest on the edge of the city. It is not large and can be walked through in a few hours. There are hills, valleys and clearings in the forest.
 
-## Name
+## The Name
+The name "Hoya Bachu" comes from a shepherd.
 
-The name “Hoyabacho” comes from a shepherd.
-
-Rumor has it he took the flock into the forest and never came out. The name is a mystery.
+Legend has it that he led his flock into the forest and never came out. The name became a mystery.
 
 ## Tree
 
-Trees in the forest, some of them bend.
+Some of the trees in the forest are bent.
 
-The trunks are twisted, side-by-side. Some say it's the magnetic field; others say it's the nature of the tree species.
+The tree trunk twisted and fell sideways. Some people say it is the magnetic field; some people say it is the characteristics of the tree species.
 
-## Empty land
+## Space
 
-There's a circle of empty land in the forest.
+There is a circular clearing in the forest.
 
-There's no trees or grass in the open. Some say it's where UFO landed.
+There were no trees or grass in the clearing. Some say it is where UFOs landed.
 
 ## Photo
 
-There's a lot of "spirit photos" in the forest.
+There are many "supernatural photos" in the forest.
 
-Some of the photos have light, some fog, or some people. Most of them can be explained by cameras, flashes, and prolonged exposure.
+Some photos have light spots, some have fog, and some have human figures. Most can be explained by cameras, flash, and long exposures.
 
 ## Missing
 
-Legends of missing people in the forest.
+The legend of someone missing in the forest.
 
-Some say that the people who went in did not come out. There are no reliable records of the disappearances.
+Some people say that whoever goes in does not come out. There are no reliable records of disappearances.
 
 ## Business
 
-Hoya Bacho is a tourist destination.
+Hoya Bachu is a tourist spot.
 
-The guide takes people into the forest, tells ghost stories. The forest's famous, it comes from the Internet and television.
+The tour guide takes people into the forest and tells ghost stories. Forest's fame comes from the Internet and television.
 
-## The woods
+## Linzi
 
-Forests or forests.
+A forest is still a forest.
 
-Trees grow, roads walk. Story stories are in trees, not trees.
+The trees are growing and the road is moving. The story is on the tree, not in the tree.
 
 ---
 

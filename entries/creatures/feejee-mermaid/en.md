@@ -68,47 +68,41 @@ The specimen of 1842 sewed the two together — an old mistake and a modern mark
 
 *Original schematic: the monkey torso and fish tail, the New York exhibition of 1842, and the later collection history. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
 
-## Banham's marketing
+## Barnum’s Marketing
 
-Banam is not a scientist, he is a businessman.
+Barnum was not a scientist; he was a salesman. 
+In 1842 he ran the American Museum on Broadway in New York. He borrowed a “mermaid” from J. B. K. J. Goldberg, hung a poster on the wall that read, “From Fiji, Wildly Captured, Preserved as a Specimen.” The poster never claimed the creature was authentic, yet it encouraged visitors to let their imaginations fill in the blanks. 
 
-In 1842, he ran the American Museum on Broadway, New York. He borrowed Kimble's mermaids, hung up posters, wrote, "From Fiji, alive, to make specimens." The poster didn't say it was real, but it made the viewers imagine it.
+Barnum went further, printing forged letters that claimed a British naturalist, Dr. Griffin, had studied the specimen. He then hired an actor to present himself as Dr. Griffin in a lecture in New York. After the talk, the audience was guided to the specimen, and the story closed a neat loop. 
 
-He also printed a fake letter saying that a British museum scientist, Dr. Griffin, had studied the specimens. Then he had an actor who told him to speak as Dr. Griffin in New York. After the audience had listened to the script, the story was closed.
+Barnum understood one thing best: controversy sells better than facts. The newspapers debated the legitimacy of the mermaid, and the very debate served as free publicity.
 
-One of the best things Banham understands is that disputes are better sold than facts. The newspapers argue that it's true, and the argument itself is advertising.
+## Japanese Mermaid Artistry
 
-## Japanese manfishing process
+The Fijian mermaid’s upper body is that of a monkey; its lower half is that of a fish. 
+This type of sewing‑and‑gluing trick was not invented by Barnum. Japanese artisans had long been creating mermaid figurines by affixing a monkey’s head and torso to a fish’s posterior. They sold these curiosities to sailors, collectors, and curious tourists. 
 
-The upper half of the Fijian mermaid is a monkey and the lower half is a fish.
+The pieces travelled across the Pacific via trade to Europe and the United States. Barnum changed the origin to Fiji because it sounded more distant and mysterious, and therefore more “authentic”—a mermaid from Fiji sounded more plausible than one from Japan.
 
-This is not Banem's idea. Japanese craftsmen have long been man-fish craftsmen: head and torso of monkeys, sewed on the back of the fish, sewn into “man-fish” specimens, sold to sailors, collectors and curious tourists.
+## Collection and Fate
 
-These crafts are traded through the Pacific and taken to Europe and the United States. Banham changed his place of production to Fiji, because Fiji is more distant and mysterious and sounds more like a "real mermaid."
+Barnum’s museum was destroyed by fire in 1865. 
+Goldberg’s collection subsequently became part of Harvard University’s Peabody Museum. The Peabody Museum houses a mermaid specimen, but no one can confirm it is the same one exhibited in 1842. Its monkey portion and fish tail differ from the original engravings.
 
-## Collections and Depositions
+## Misinterpretation of the Mermaid
 
-Banham's museum burned down in 1865.
+In earlier times the mermaid was not merely a hoax but a misidentification. 
+Hippopotamuses and dugongs are mammals that breathe air and nurse their young at the surface. Their forelimbs resemble arms, and their bodies are thick and rounded, making them look somewhat human from a distance. In 1493, Columbus wrote in the Caribbean that he had seen “mermaids,” but they were far less beautiful than the illustrations suggested; they were probably dugongs. 
 
-Kimble's collection was later transferred to Harvard University's Peabody Museum. Peabody had a mermaid, but no one could determine if it was the one that was displayed in 1842. Its monkey portion and fish tails were not exactly the same as the original painting.
+The Fijian mermaid narrative ultimately became a test of “belief.” Audiences knew the creature was stitched together yet still queued to see it, paying for an afternoon they could temporarily trust. 
 
-The original version may be destroyed by fire, or it may be modified, copied, and resold. Most of what you see in the museum today is copies or later collage.
+After Barnum’s death, his museum and collections dispersed. The mermaid specimen was copied, traded, and re‑copied. With each duplication, the notion of an “original” drifted further away, raising the question of whether one ever existed at all.
 
-## The mermaid's misunderstanding
+## Afterword
 
-In earlier history, mermaids were not a scam, they were misperceptions.
+The Fijian mermaid is still on display at the Peabody Museum today. The placard reads plainly: *“Composite of a monkey and a fish.”* Visitors standing before the glass case see more than a specimen; they glimpse a tale of deception, commerce, and curiosity. 
 
-Sea cattle and burrows are mammals, breathing from their lungs, breastfed in the water. Their front limbs are like arms, rough body, far from being seen, and they are a bit human. In 1493, Columbus wrote that he had seen the mermaids, but they were not as beautiful as the paintings. He probably saw the sea cattle.
-
-The story of the Fijian mermaid ended up as an exercise on "Being in." The audience knew it was sewn out and still wanted to line up. They bought not a fish, but an afternoon that they could believe for a while.
-
-When Barnham died, his museum and collection were scattered. Mermaid specimens were copied, turned, and copied. Each copy made the originals a little further away. And, finally, it was a question whether the originals actually existed.
-
-## Supplementary Notes
-
-Fiji Mermaids are still on display today at the Peabody Museum. The sign is clear: it's made of monkeys and fish. The audience is standing in front of the glass cabinet, looking not just at a specimen, but also at a history of deception, trade and curiosity.
-
-The fish later appeared at the American Museum in Barnham. It was promoted as a specimen of the half-fish and half-man. The viewers were in line and people believed that someone was laughing. The original version of the fish could be destroyed by the fire.
+Later, Barnum exhibited the Fijian mermaid at the American Museum, labeling it a “half‑fish, half‑human” curiosity. Queues formed to view it; some laughed, some believed. The original was likely destroyed in the fire, so the current display is almost certainly a reproduction.
 
 ---
 

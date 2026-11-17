@@ -66,95 +66,94 @@ Large numbers of visitors come every year. The chapel limits the route, forbids 
 
 A basement built to hold the dead has become one of the strangest tourist sites in the Czech Republic.
 
-## Cedretz
+## Sedlec
 
-Cedarets, near Kutnahora, Czech Republic.
+Sedlec, near Kutna Hora, Czech Republic.
 
-There's a Cido monastery, built in the twelfth century. Next to the monastery, it's a cemetery.
+There is a Cistercian monastery here, built in the twelfth century. Next to the monastery is a cemetery.
 
-## Cemetery
+## The Cemetery
+The cemetery became famous in the fourteenth century.
 
-The cemetery became famous in the 14th century.
+In 1348, the Black Death reached Bohemia. There were not enough cemeteries and bodies were buried in mass graves. Later, the Hussite Wars brought more deaths.
 
-In 1348, the disease spread to Bohemia. The cemetery was not enough, the body was buried in a mass grave. Later, the Huss war caused more deaths.
+Around the church is a cemetery.
 
-The church around, it's a cemetery.
+The cemetery has tombstones, crosses and flowers. Some tombs are very old and some are very new.
 
-There are tombstones, crosses and flowers. Some graves are old and some are new.
+## Bone
 
-## Bones
+The bones from the cemetery were moved into a chapel.
 
-The bones of the cemetery were moved into a chapel.
-
-There are tens of thousands of bones in the church. The bones are arranged into pyramids, chandeliers, crosses and family stripes.
+There are tens of thousands of skeletons piled in the church. The bones are arranged into pyramids, chandeliers, crosses and family crests.
 
 Tens of thousands of bones, piled together.
 
-They have no names, no tombstones. They have only one common room.
+They have no names, no tombstones. They only have one room in common.
 
 ## Lint
 
-In 1870, the carpenter, Franzichek Lint, was hired to clean bones.
+In 1870, carpenter Franzišek Lint was hired to sort the bones.
 
-He bleached bones, sorted them, and decorated them. He did not want to scare people, but to remember the dead.
+He bleached, sorted, arranged and made decorations out of the bones. He didn't do it to scare people, but to honor the dead.
 
-## What are you looking at?
+## What to See
 
-The most famous bone chandelier in the hidehouse.
+The most famous thing in the ossuary is the bone chandelier.
 
-The chandeliers are made of skulls, leg bones and pelviss, hanging in the middle of the church. There are bones crosses and bone pyramids on the wall.
+A chandelier made from skulls, leg bones and pelvises hangs in the center of the church. There are also bone crosses and bone pyramids on the walls.
 
-## Controversy
+## Dispute
 
-The decorations of the scaffolding, it's controversial.
+The decoration of the ossuary is controversial.
 
-Some say it's disrespect for the dead; others say it's medieval remembrance. The church is a place of worship, not a place of horror.
+Some people say that this is disrespectful to the deceased; some people say that this is a medieval way of commemorating. A church is a religious place, not a horror attraction.
 
 ## Now
 
-The Cyborg is a tourist destination.
+The Ossuary is a tourist attraction.
 
-Tourists can visit, but they can't touch bones. Church revenues, for maintenance.
+Visitors can visit but cannot touch the bones. Income from the church is used for its upkeep.
 
-## Sidor
+## Cistercian
 
-The Cedretz Monastery, belonging to the Sidor Church.
+Sedlec Abbey, belonging to the Cistercian Order.
 
-There are fields, workshops and churches.
+The Cistercians were a strict religious order that advocated simplicity, labor and prayer. The monastery had fields, workshops and a church.
 
 ## Black Death
 
-In the 14th century, the disease of black death spread to Europe.
+In the fourteenth century, the Black Death spread to Europe.
 
-The cemetery was not enough and the bodies were folded. Later, the bones were moved into the church and piled up into pyramids.
+There were not enough cemeteries and bodies were buried on top of each other. Later, the bones were moved into the church and piled into a pyramid.
 
-## Decoration
+## Decorate
 
-Lint put bones in decorations.
+Lint arranged the bones into decorations.
 
-He chandeliers with skulls, crosses with leg bones, pelviss with pelviss. He does not want terror, but honours.
+He used skulls for chandeliers, leg bones for crosses, and pelvises for coats of arms. He did it not for terror, but for remembrance.
 
-## Tourism
+## Travel
 
-One of the most popular sites in the Czech Republic is the Cave.
+The Ossuary is one of the most popular attractions in the Czech Republic.
 
-Tourists come to see bones, they come to churches. Tickets are paid for maintenance.
+Tourists come to see the bones and also to see the church. Ticket revenue is used for maintenance.
 
-Bones aren't the decoration of horror. They're all left over by a lot of people, and they're in the same room.
+Bones are not horror decoration. They are all the leftovers of many people, placed in the same room.
 
-The bones of the scaffolds come from different ages and families. They leave no names but bones. The bones are decorated and remind people that death is the end of the common.
+The bones in the ossuary come from different eras and different families. They left no names, only bones. The bones are arranged as decoration and as a reminder that death is a common end.
 
-Bones are piled together, no names. They only remind the living: the last one is not too much.
+Bones were piled together without names. They only remind the living: there won’t be too many left in the end.
 
 ## Church
 
-The Cave Hall is a small church.
+The Ossuary is a small church.
 
-It has arches, windows and altars. Bones on walls, ceilings and chandeliers.
+It has vaults, windows and an altar. Bones adorn the walls, ceilings and chandeliers.
 
-## Archives
+## File
 
-The Cedrets hides in Kutnahora, Czech Republic. 14 centuries of black death and 15th century war on the Huss, left a lot of bones. In 1870, the carving house decorated them.
+Sedlec Ossuary in Kutna Hora, Czech Republic. The Black Death in the 14th century and the Hussite Wars in the 15th century left behind a large number of bones. In 1870, woodcutters arranged them into decorative arrangements.
 
 ---
 

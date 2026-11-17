@@ -80,67 +80,65 @@ The Church has not declared the shroud authentic, and has not declared it a fake
 
 One cloth, one face, one date. Put the three together and they still do not add up to an answer everyone accepts.
 
-## Bubs
+## Cloth
 
-Turin shroud is a piece of linen.
+The Shroud of Turin is a piece of linen cloth.
 
-It's about 4:4 metres long and about 1 metre wide. There's a body's front and back marks on the cloth, like the body was wrapped and left behind.
+It is about 4.4 meters long and 1.1 meters wide. There were imprints of the front and back of a human body on the cloth, as if the body had been wrapped.
 
-## Opaque
+## Negative Film
 
-In 1898, the photographer took the shroud for the second time.
+In 1898, photographers photographed the Shroud for a second time.
 
-And he found that the image on the negative was clearer than on the front. The image was negative: the dark place was bright, the bright place was dark. The discovery drew the attention of the scientific community to the shroud.
+He found that the image on the negative was clearer than the front. The image is a negative image: dark areas are bright and bright areas are dark. This discovery brought the Shroud to the attention of the scientific community.
 
-## Image
+## The Image
+The image shows the front and back of a man.
 
-Image showing a man's front and back.
-
-He has long hair, beards, bruises on his body. He has holes in his wrist and feet, and he seems to have stab wounds on his head. The images are not painted on them, they're from some kind of contact or radiation.
+He has long hair, a beard, and scars on his body. There were holes in his wrists and feet and what appeared to be stab marks on his head. The image is not painted on, but left behind by some kind of contact or radiation.
 
 ## 1988
 
-In 1988, samples of shrouds were measured in three laboratories using carbon years.
+In 1988, three laboratories carbon-dated samples of the Shroud.
 
-Turns out: the fabric came from about 1260–1390. That means it's not a century, it's a medieval century.
+Results: Cloth from approximately 1260–1390. This means that it is not from the first century, but from the Middle Ages.
 
-## Rebuttal
+## Refute
 
-The location of the sampling was questioned.
+Some questioned the location of the sampling.
 
-They said that the samples were taken from the corner, probably the part that was later repaired. Others said that the fire and pollution had changed the carbon content.
+They said the sample was taken from a corner of the cloth, possibly from a later repair. Others say fires and pollution change carbon levels.
 
-But the results of the three independent laboratories are consistent, and the treatment of the samples is documented. The mainstream science community accepts the era.
+But the results from three independent labs were consistent, and the handling of the samples was documented. The mainstream scientific community accepts this era.
 
 ## Now
 
-The shroud is preserved in the diocese of Turin.
+The Shroud is kept in Turin Cathedral.
 
-It doesn't show much. Every time it shows, it controls the environment and limits the audience.
+It is not often exhibited. Every time you exhibit, you have to control the environment and limit the audience.
 
-A piece of cloth, images, ages, faith. It does not end in disputes over a year.
+A piece of cloth has an image, an age, and a belief. Its controversy will not end with just one dating.
 
-## Faith
+## Belief
 
-For many believers, the shroud is Jesus' burial.
+For many believers, the Shroud is the burial cloth of Jesus.
 
-The scientific years have not changed their faith. They believe that samples may be contaminated or that the year-year methods are limited.
+Scientific dating did not change their beliefs. They believe the samples may have been contaminated, or the dating method had limitations.
 
 ## Science
 
-Scientists are more concerned about the mechanisms for image formation.
+Scientists are more concerned about the mechanism of image formation.
 
-Exposure? Radiation? Chemical reaction? No one can reproduce it completely. Images are still a mystery.
+Is it contact? Is it radiation? Is it a chemical reaction? No one can completely copy it. The image remains a mystery.
 
-A piece of cloth, two interpretations. Science and faith, each with its own borders.
+A piece of cloth, two interpretations. Science and faith each have their own boundaries.
 
-## Summing up
+## Summing Up
+The Shroud of Turin is a piece of cloth.
 
-Turin shroud, it's a piece of cloth.
+It has images, time, and beliefs. Scientific dating says it's medieval, and believers say it could be real.
 
-It has images, it has years, it has faith. The Year of Science says it's medieval, and the faithful say it may be true.
-
-A piece of cloth, neither a sign nor a denial of faith, can only be asked.
+A piece of cloth cannot prove a miracle, nor can it deny faith. It just makes people keep asking.
 
 ---
 

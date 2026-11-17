@@ -68,115 +68,110 @@ Elizabeth Short was twenty-two when she died. She wanted to be an actress. What 
 
 ## 1947
 
-January 15th, 1947, Los Angeles.
+January 15, 1947, Los Angeles.
 
-Elizabeth Short's body was found in an open area near Lemmet Park. She was cut in half and her face was cut open.
+The body of Elizabeth Short was found in a vacant lot near Leimert Park. She was cut in half and her face was slit.
 
-## Newspapers
+## Newspaper
 
-The newspaper called her "Black Bliss".
+The newspapers called her the "Black Dahlia."
 
-The name comes from a movie and her black hair. The newspaper likes it because it's short, exciting, easy to remember.
+The name comes from a movie and her black hair. Newspapers like this name because it's short, exciting, and easy to remember.
 
-The newspaper wrote her death as "Black Blossom".
+Newspapers wrote of her death as the "Black Dahlia."
 
-The name comes from her black hair and black clothes. The newspaper sells a lot of it with that name.
+The name comes from her black hair and black clothes. The newspaper sold many copies using this name.
 
-The newspaper called her "Black Bliss".
+The newspapers called her the "Black Dahlia."
 
-The name comes from her black hair and black clothes. The newspaper sells a lot of it with that name.
-
-## Investigations
+## Investigation
 
 The police investigated for a long time.
 
-They asked hundreds of people, checked a lot of leads. No one was arrested.
+They interviewed hundreds of people and checked many clues. No arrests were made.
 
 ## Suspect
 
 There are many suspects.
 
-There was a boyfriend, a acquaintance, a stranger. Some said she had been killed by abuse; others said she was involved in the gang.
+There are her boyfriends, acquaintances, and strangers. Some say she was killed by a sadist; some say she was involved in a gang.
 
-## Why isn't it broken?
+## Why Isn't It Broken?
 
-The case remains open for a number of reasons.
+The case remains unsolved for many reasons.
 
-It was a few days after the body was found. The scene was damaged. Testimony contradicts. L.A. is big.
+Several days had passed when the body was found. The scene was vandalized. The testimony was contradictory. Los Angeles is big and there are a lot of people.
 
 ## Media
 
-The media wrote about Short's life as “deformed woman”.
+The media described Short's life as a "fallen woman."
 
-She's an ordinary young woman, from Boston, who wants to be an actor. Her death was turned into a moral story in the paper.
+She was an ordinary young woman from Boston who wanted to be an actress. Her death was turned into a morality tale by newspapers.
 
 ## Now
 
 The case remains open.
 
-The black lilies became the legend of Los Angeles. Her name is more famous than her life.
+The Black Dahlia became a legend in Los Angeles. Her name is more famous than her life.
 
 ## Los Angeles
 
-1947 Los Angeles, expanding.
+Los Angeles, 1947, is expanding.
 
-After the war, the population grew, the film industry flourished, and crime increased.
+After the war, the population increased, the film industry boomed, and crime increased. Newspaper competition is fierce and headlines need excitement.
 
-## Short
-
-Elizabeth Short, from Boston.
-
-She was a waitress, an actor, a model. She wanted to be famous in Hollywood, but she didn't succeed.
+## Schott
 
 Elizabeth Short, from Boston.
 
-She wanted to be an actor, but she didn't succeed. She lived in L.A. and lived on friends and temporary work.
+She has worked as a waitress, actress, and model. She wanted to be famous in Hollywood but didn't succeed.
 
-## Cold case
+Elizabeth Short, from Boston.
+
+She wanted to be an actress but failed. She lives in Los Angeles, relying on friends and temporary jobs.
+
+## Cold Case
 
 The case was not solved.
 
-LAPD, FBI and private detectives, all investigated. No arrests.
+Los Angeles police, the FBI and private investigators, all investigated. There were no arrests.
 
 The case was not solved.
 
-LAPD, FBI and private detectives, all investigated.
+Los Angeles police, the FBI and private investigators, all investigated.
 
-## Archives
+## File
 
-Case file, partial disclosure.
+Case files, partially made public.
 
-Photos, testimonies, clues are all in the file. The file doesn't give an answer.
+Photos, testimonies, clues are all in the archives. The archives offer no answers.
 
-Elizabeth Short was found dead in Los Angeles in January 1947. She was called "Black Bliss." The case is still open. The newspaper wrote her as "The Decline Woman," and she wrote it as a moral story.
+Elizabeth Short was found dead in Los Angeles in January 1947. She was known as the "Black Dahlia". The case remains unsolved. Newspapers wrote about her as a "fallen woman" and the case as a morality tale.
 
-The last time she was seen dead was at a hotel in Hollywood.
+She was last seen in a Hollywood hotel before her death.
 
 ## Memory
 
 Short's name is more famous than her life.
 
-## Memory
+## Further Notes
+The Black Dahlia is a media name.
 
-Black lilies. It's a media name.
+Short's life was reduced to a morality tale by newspapers. Her death was written as a performance. The case was not solved, but the name remained.
 
-Shooter's life is reduced by the newspaper into a moral story. Her death is written into a show.
+The case was not solved. The name stayed.
 
-The case was not solved. The name was left behind.
+## At Last
 
-## And finally
-
-Black lilies, no case solved.
+The Black Dahlia, no case solved.
 
 Short's name is more famous than her life.
 
-The case is still in the file and the story is in the newspaper.
+The case is still in the files and the story is still in the newspapers.
 
-## Remember
+## Remember Again
 
-Black lilies. It's a media name.
-
-Shooter's life was reduced to a moral story in a newspaper. Her death was written into a show. The case was not solved, but the name was left behind.
+The Black Dahlia is a media name.
 
 ---
 

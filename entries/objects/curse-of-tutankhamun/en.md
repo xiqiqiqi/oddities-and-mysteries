@@ -70,73 +70,73 @@ The curse became part of popular culture. Films, novels and souvenirs use it. Th
 
 *Original schematic: the discovery in 1922, Carnarvon's death in 1923, and the newspaper stories about the curse. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
-## Karnavon
+## Carnarvon
 
-On April 5, 1923, Count Karnavon died in Cairo.
+Count Carnarvon died in Cairo on 5 April 1923.
 
-He was one of those who entered Tutankhamun’s grave in November 1922. Soon after the cemetery opened, he was bitten by a mosquito, then infected, fevered, and eventually died of pneumonia.
+He was one of those who entered Tutankhamun's tomb in November 1922. Shortly after the tomb was opened, he was bitten by a mosquito and later contracted an infection, developed a fever, and eventually died of pneumonia.
 
-The newspaper wrote it as a "Crap": Pharaoh's grave was opened and the sponsor died. The title was fascinating, because Karnavon was a rich man, a nobleman, an explorer, and his death was dramatic.
+Newspapers wrote of the event as a "curse": the pharaoh's tomb was opened and the patron died. The title is intriguing because Carnarvon was a rich man, an aristocrat, an explorer, and his death was dramatic.
 
 ## Carter
 
-Howard Carter didn't die of the curse.
+Howard Carter didn't die from a "curse."
 
-He's still working in the grave, he's cleaning up the artifacts, and he's published the report. He died in 1939, 17 years from the grave. He's 64 years old, and he's at that time his normal life.
+He continued to work in the tomb, sorting out cultural relics and publishing reports. He died in 1939, seventeen years after the tomb was opened. He lived to be 64 years old, considered a normal lifespan for the time.
 
-Carter's aides, archaeologists, Egyptian workers, and not in the short term, died collectively. The so-called “death list” is a combination of people who died at different times and for different reasons.
+Carter's assistants, archaeological team members, and Egyptian workers did not die collectively in a short period of time. The so-called "death list" is a collection of people who died at different times and for different reasons.
 
-Howard Carter is the man who opened the grave.
+Howard Carter was the one who opened the tomb.
 
-He lived a long time, went on to work, wrote books. He was neither cursed nor included in the death list. This means that the curse was not for "the man who entered the grave" but for "the man who can be written into a story."
+He lived a long time, continued to work, and wrote books. He was not cursed or on the death roll. This shows that the curse is not directed at "those who enter the tomb", but "those who can be written into stories".
 
-Carter's not as famous as Carnaves. The death of a noble sponsor is better than the long life of an archaeologist.
+Carter is not as famous as Carnarvon. The death of an aristocratic patron is more suitable for newspapers than the longevity of an archaeologist.
 
 ## Statistics
 
-The “crap” can be explained statistically.
+The "curse" can be explained statistically.
 
-There are dozens of people, different ages, different health conditions. It's normal to have people die in a few years. Counting every death into a curse is an accident.
+The team that opened the tomb included dozens of people, with different ages and health conditions. It is normal for someone to die within a few years. To count every death as a "curse" is to treat chance as a rule.
 
-And one thing: Karnavon was in bad shape before entering the graveyard. He was wounded, he was immune. Mosquito bites could be just a cause, not "Pharaoh's revenge."
+Another point: Carnarvon was in poor health before entering the tomb. He has been injured and has a weak immune system. Mosquito bites may just be triggers, not “Pharaoh’s revenge.”
 
-The statisticians read the death list.
+Statisticians have looked at death lists.
 
-They found that the average life expectancy of those entering the grave was similar to that of the British during the same period. There were no unusually high mortality rates.
+They found that the average life span of people entering the tomb was similar to that of British people at the same time. There was no unusually high mortality rate.
 
-The curse is an error of choice: remember the dead, forget the living; remember the strange cause of death, forget the common cause of death. The human brain loves stories, doesn't like statistics.
+"Curse" is a kind of selection bias: remembering dead people and forgetting living people; remembering bizarre causes of death and forgetting ordinary causes of death. The human brain likes stories, not statistics.
 
-## Public information
+## News
 
-The pharaoh curse is made in newspapers.
+The "Pharaoh's Curse" was created by newspapers.
 
-In the 1920s, there was a fiercely competitive newspaper. Tutankhamun's tomb was the biggest story of the time, and journalists needed a new angle. Curse, gold, death, better sold than archaeology reports.
+In the 1920s, competition among newspapers was fierce. Tutankhamun's tomb was the biggest news at the time, and reporters needed a new angle. Curses, gold, and death sell better than archaeological reports.
 
-Egyptian scientists are also involved in the spread. Carter and Karnavon’s teams need funding and public attention. A “corrupt” story brings sponsorship and tourists.
+Egyptologists were also involved in the spread. Carter and Carnarvon's team needed money and public attention. A "cursed" story that brings patronage and tourists.
 
 ## Now
 
-Tutankhamun's tomb is still in the Valley of the Emperor.
+Tutankhamun's tomb is still in the Valley of the Kings.
 
-It is repaired, reinforced, ventilated and illumination. Tourists can enter, but they cannot touch cultural objects.
+It was restored, reinforced, ventilated and lighted. Tourists can enter but cannot touch the cultural relics. The air, humidity and temperature in the tomb were monitored.
 
-The Curse does not stop tourists. Instead, it becomes part of the tour. Tours talk about Carnaves, tourists take pictures. A news myth, and finally a site.
+The "curse" didn't deter visitors. Instead, it becomes part of tourism. The tour guide will tell the story of Carnarvon and the tourists will take photos. A news myth turned into an attraction.
 
 ## List
 
-The Curse of Death List was compiled in the newspaper.
+The "cursed death list" was compiled by newspapers.
 
-Those on the list have a very long time to die and have different causes of death. Some die from illness, others from accidents, and others from old age. Together, they become a chain of curses.
+The people on the list died over a wide span of time and had different causes of death. Some people die from disease, some die from accidents, some die from old age. Put them together and they become a "curse chain".
 
-The list also leaves out a lot of people: archaeologists, Egyptian workers, porters who continue to work. They are not dead, nor are they written into the story.
+The list also left out many people: archaeological team members who continued to work, Egyptian workers, and porters. They didn't die, and they weren't included in the story.
 
 ## Media
 
-The 1920s newspaper, like, "Pharaoh Curse."
+Newspapers from the 1920s, like "The Curse of the Pharaoh."
 
-The discovery of Tutankhamun's tomb is a global news story. Journalists need continuous coverage, and they need new suspense. Curses, gold, mysterious deaths are the best.
+The discovery of Tutankhamun's tomb is global news. Reporters need continuous reporting and new suspense. Curses, gold, and mysterious deaths are the best material.
 
-The newspapers also compete. One writes a curse, the other writes a terrible curse. The story is magnified in competition.
+Newspapers also compete with each other. If one family writes "curse", the other family will write "a more terrible curse". Stories are amplified by competition.
 
 ---
 

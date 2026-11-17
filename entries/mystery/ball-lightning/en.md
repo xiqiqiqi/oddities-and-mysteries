@@ -74,29 +74,29 @@ Not every unexplained light is ball lightning, of course. The atmosphere contain
 
 ## Laboratory
 
-The hardest part of a spherical lightning is that it is hard to repeat.
+The most difficult thing about ball lightning is that it is difficult to repeat.
 
-There are many reports of sightings, few photographs, and fewer instruments. Researchers can only simulate in the laboratory: using discharges, microwaves, evaporations of metals or soil to create luminous plasma balls. These balls usually last a few milliseconds to a few seconds, which is far from what witnesses say in dozens of seconds.
+There are many sighting reports, few photos, and even fewer instrumental records. Researchers can only simulate it in the laboratory: using discharges, microwaves, evaporating metal or soil to create glowing plasma balls. These balls usually only last a few milliseconds to a few seconds, which is far from the tens of seconds that witnesses said.
 
-In 2014, Chinese researchers used soil vapour and high voltage to discharge a luminescence similar to a spherical lightning. It floats and glows for longer periods than previous experiments. The result supports the hypothesis of silicon vapour in the soil.
+In 2014, Chinese researchers used soil vapor and high-voltage electric discharges to create luminous objects that resembled ball lightning. It floats, glows, and lasts longer than previous experiments. This result supports the "silica vapor in soil" hypothesis.
 
-## Naturally
+## Nature
 
-Sphere lightning may not be a thing, but a phenomenon.
+Ball lightning may not be a thing, but a class of phenomena.
 
-When thunder strikes the ground, silicon, carbon and water in the soil are gasated into a high-temperature gas. When the gas cools, it may condensate into a spherical form, forming a spherical pattern. It moves along the air stream, and it explodes when it encounters a barrier.
+When lightning strikes the ground, silicon, carbon and water in the soil are vaporized, forming a cloud of high-temperature gas. As the gas cools, it may condense into glowing particles that form into spheres. It moves along the airflow and explodes when it encounters obstacles.
 
-The other explanation is plasma bubbles, or dusty clusters with electric dust. Each explanation shows some characteristics, not all.
+Another explanation is plasma bubbles, or clumps of charged dust. Each explanation can explain some features, but not all.
 
-## Security
+## Safety
 
-Eyewitnesses with a ball-like lightning, usually describing it as entering the house.
+Eyewitnesses of ball lightning usually describe it entering indoors.
 
-It may go through windows, doors, or even chimneys. It doesn't follow the normal course of objects, and it doesn't necessarily follow gravity. It floats, rolls, and explodes suddenly.
+It can pass through windows, doors, or even chimneys. It does not follow the path of ordinary objects, nor does it necessarily obey gravity. It floats, rolls, and suddenly explodes.
 
-If you really encounter it, the safest thing is to stay away, not touch, not chase. It's not a toy, it's not a UFO. It's a physical phenomenon, but it's not fully understood.
+If you do encounter one, the safest thing to do is to stay away, don't touch, and don't chase. It's not a toy and it's not a UFO. It's a physical phenomenon, it's just not fully understood yet.
 
-The spherical flash file, finally, falls on two words: undecided. It's not a UFO or a complete mystery. It's a physical phenomenon that has been seen many times, but has not been fully recovered.
+The ball lightning file ended with two words: undecided. It's not a UFO, and it's not a complete mystery. It is a physical phenomenon that has been seen many times but has not been fully reproduced.
 
 ---
 

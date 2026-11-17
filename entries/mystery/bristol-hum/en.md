@@ -66,37 +66,37 @@ Low-frequency noise remains a real urban problem. Fans, compressors, transformer
 
 The Bristol Hum endures not because it has a dramatic answer, but because it puts a question on the table: if you are the only one who can hear a sound, does it count as real?
 
-## Low frequency sound
+## Low Frequency Sound
 
-The key to Bristol's buzzing, in the word “low frequency”.
+The key to Bristol's buzz lies in the two words "low frequency".
 
-People can hear about 20 Hertz to 20,000 Hertz. Lower than 20 Hertz sounds infrasound, but the body can feel it. In Bristol's report, many people describe not “hearing, but “senseing”; windows are shaking, their chests are bored, and they can't sleep at night.
+The frequency that the human ear can hear is approximately 20 Hz to 20,000 Hz. Sounds below 20 Hz are called infrasound, which is inaudible but can be felt by the body. In the Bristol report, many people described not "hearing" but "feeling": windows shaking, chest tightness, and being unable to sleep at night.
 
-Low-frequency sound comes from a variety of sources: factories, wind machines, compressors, traffic, distant waves. It goes through walls and the ground, slows down, so it's hard to judge the direction. One feels the sound coming from outside the window, another may feel coming from the basement. Without direction, people can think much further.
+Low-frequency sounds come from many sources: factories, fans, compressors, traffic, distant ocean waves. It passes through walls and floors and decays slowly, making it difficult to determine direction. One person thinks the sound is coming from outside the window, another person may think it's coming from the basement. If the sound has no direction, it is easy for people to think further about the source.
 
-## Methodology of the investigation
+## Investigative Methods
 
-Low-frequency noises are investigated and cannot be relied on ears alone.
+To investigate low-frequency noise, you cannot rely solely on your ears.
 
-Researchers use microphones and spectrum analysers to record the tone and frequency of different locations. They turn off suspicious devices, and turn them off one at a time, to see if the sound is gone. If you turn off a machine, the buzz is gone, the source is clear.
+Researchers will use microphones and spectrum analyzers to record sound pressure levels and frequencies at different locations. They also turn off suspicious devices, one at a time, to see if the sound goes away. If the buzzing noise disappears after turning off a certain machine, the source will be clear.
 
-But the investigation often fails because the sound is too weak, or because there are too many sources. There may be dozens of devices in a small area, each contributing a little low frequency. Together, it becomes an inexplicable source of buzz.
+But investigations often fail because the sound is too weak or comes from too many sources. There may be dozens of devices in a community, each contributing a little bit of low frequency. Taken together, it becomes a “hum” whose origin is unclear.
 
-## Health
+## Healthy
 
-The health effects of low-frequency noise are not uniform.
+Research results on the health effects of low-frequency noise are inconsistent.
 
-Some people are in a state of anxiety, insomnia, headaches, and loss of attention. Others live in the same environment and have no feeling at all. Differences may come from ear sensitivity, sleep habits and psychological expectations.
+Some people experience irritability, insomnia, headaches, and decreased concentration. Others live in the same environment and feel nothing at all. Differences may come from ear sensitivity, sleep habits, and psychological expectations.
 
-There is also a social dimension to the buzz. When a person says he hears voices that are not heard, people around him may suspect him. This feeling of unbelief makes the symptoms worse. The question of sound becomes a question of trust.
+There’s also a social dimension to the “buzz.” When a person says he hears sounds that others cannot hear, people around him may be suspicious of him. This feeling of not being believed can make symptoms worse. The issue of sound turned into an issue of trust.
 
-## Urban
+## City
 
-Bristol's buzzing hasn't disappeared completely.
+The Bristol buzz isn't completely gone.
 
-It's a urban legend, and it's an environmental issue. The denser the city, the more machines, the harder it is to avoid low-frequency sounds. A completely quiet city does not exist, and the question is too much.
+It became an urban legend and an environmental issue. The denser the city and the more machines there are, the harder it is to avoid low-frequency sounds. There is no such thing as a completely silent city, the question is how much is too much.
 
-Today, researchers are more concerned with “sound landscapes”: not just a single source of noise, but a lot of voices that are folded together to form a constant background. People live in this context for a long time, and they think of it as quiet. Until one day, it is suddenly heard.
+Today, researchers are more concerned with “soundscapes”: not just one source of noise, but many sounds stacked together to form a continuous background. When people live in this kind of background for a long time, they will regard it as silence. Until one day, it was suddenly heard.
 
 ---
 

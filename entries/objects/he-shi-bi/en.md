@@ -88,61 +88,61 @@ One stone became a symbol of the state because one man kept insisting there was 
 
 *Original schematic: Bian He's presentation of the jade, the return of the jade to Zhao, and the later legend of the imperial seal. Not a photograph of the object. Oddity Archive, CC BY-SA 4.0.*
 
-## Takiyama
+## Jingshan
 
-And the tales of the clans, beginning with the mountains of Chu.
+The story of He's Bi starts from Jingshan Mountain in Chu State.
 
-And he was given a piece of puppies in the mountains for the King of Chu. The Jade worker said it was a stone, and the King cut off the left foot of the puppies. And the ping and his contribution were to the King of Chu Wu, the Jade worker still called it a stone, and the Wu took his right foot off.
+Bian He got a piece of jade in the mountains and presented it to King Li of Chu. The jade worker said it was a stone, so King Li chopped off Bian He's left foot. Bian He presented it to King Wu of Chu, but the jade was still said to be stone, so King Wu chopped off his right foot.
 
-## Man-king
+## King Wen
 
-When the king of Chu Wen took office, he cried with his jade in his arms.
+After King Wen of Chu came to the throne, Bian He held the jade and cried at the foot of Jingshan Mountain.
 
-He asked him, "I am not crying for my feet, I am crying for the stone." The King of Man, who had been cut open and given a piece of beauty, was named "and a stony".
+King Wen sent someone to ask him, and he said: "I'm not crying about my feet, I'm crying because the jade is treated as a stone." King Wen had the jade cut open, and sure enough, he got a piece of beautiful jade, which he named "He's Bi".
 
-## Zhao
+## Zhao Guo
 
-And Cao Ciao arrived in Zhao.
+He Shibi later came to Zhao State.
 
-King Qin has heard of the offer to exchange 15 cities for the throne. He dares not to reject it, but is afraid to be deceived. If he takes him to Qin, he will return him to Zhao.
+After King Zhao of Qin heard about it, he offered to exchange fifteen cities for the jade. King Zhao did not dare to refuse, but he was also afraid of being cheated. Lin Xiangru took the bi to Qin, but found that the King of Qin was not sincere, so he sent the bi back to Zhao.
 
-## I'll return to Zhao
+## The Perfect Jade Returns to Zhao
 
-The word “finished to Zhao” comes from this.
+The idiom "returning the jade to Zhao intact" comes from this incident.
 
-The same courage and wisdom allowed him to return to Zhao. But the truth of the story is disputed by historians. It may be a diplomatic story, not necessarily one.
+Lin Xiangru's bravery and resourcefulness allowed He Shibi to return to Zhao. But the authenticity of this story is disputed by historians. It could be a diplomatic story, it didn't necessarily happen.
 
-## Pass the seal
+## Chuan Guoxi
 
-It was said that the Emperor of Qin was later made the seal of the kingdom.
+Some people say that He's Bi was later made into a national jade seal by Qin Shihuang.
 
-The seal was written on it, "It was ordered to live forever." After the death of Qin, the seal was passed on to Han, Wei, Jin, Tang. Tang Mau, the seal is missing.
+The jade seal is engraved with "If you are ordered by heaven, you will live forever". After the death of Qin, jade seals were spread to Han, Wei, Jin and Tang. At the end of the Tang Dynasty, Yuxi disappeared.
 
-The chain is long, and there are many legends in the middle. None of it can be proved physically and the sculptor is the Seal of State.
+This chain is very long, and there are many legends in the middle. There is no physical object that can prove that He's Bi is the imperial seal.
 
-## Kim Mo-yu
+## Gold Inlaid with Jade
 
-Today's Golden Jade is often traced back to the stupendous.
+Today's "gold inlaid with jade" is often traced back to Heshi Bi.
 
-In fact, golden Jade is a process, not an object. It's traditional Chinese decorative to put gold wires or gold chips on it.
+In fact, gold inlaid with jade is a craft, not a cultural relic. Setting gold wire or gold pieces on jade is a traditional Chinese decoration method.
 
 ## Missing
 
-And no one knows where he is.
+No one knows the whereabouts of Heshibi.
 
-It could be destroyed, buried, renamed. It left stories, not objects.
+It may be destroyed, it may be buried, it may be renamed. What it leaves behind are stories, not objects.
 
-A piece of jade, to lose a man's feet, to have two countries negotiate, to have one word spread. That's what it's worth.
+A piece of jade makes a person lose his legs, allows two countries to negotiate, and makes an idiom spread. This is its value.
 
 ## Jade
 
-And the stupor is not jade, and there's controversy.
+There is also controversy over whether He's Bi is jade.
 
-Some say it's a roller stone, some say it's a pinestone, some say it's a pinestone. No physicals, no identification.
+Some people say it is labradorite, some say it is turquoise, some say it is Hetian jade. Without the actual object, it cannot be authenticated.
 
-"Photo" is a rounded tadpole, with holes in the middle. And puppies may be a piece of pastry, not a finished product.
+"Bi" is a round jade with a hole in the middle. He's Bi may be a piece of jade material, not a finished product.
 
-A stone, cut into a story, cut into a story. Its material is not known to anyone.
+A stone is cut into stories, and the stories are cut into idioms. Its material, no one knows.
 
 ---
 

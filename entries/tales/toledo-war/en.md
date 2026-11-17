@@ -60,131 +60,130 @@ It runs through fields, woods, and roads, with no fence and no guard post. Drive
 
 The name “Toledo War” came later. Toledo was not incorporated until 1837, and the conflict was closer to a border dispute that dragged on for a year. But the name stuck, along with the deputy sheriff who was stabbed with a penknife.
 
-## A line
+## A Line
 
-In 1835, Ohio and Michigan, the United States, clashed over a border line.
+In 1835, the U.S. states of Ohio and Michigan clashed over a border line.
 
-This line is called the Toledo Zone. It's a small piece of land, including the city of Toledo.
+This line is called the "Toledo Belt." It is a narrow strip of land that includes the city of Toledo.
 
-## Mapping
+## Surveying and Mapping
 
-The border is not clear.
+The boundaries are not drawn.
 
-In 1802, when Ohio joined the Federation, the border was written as “painting a line to Lake Michigan”. How does that line work?
+When Ohio was admitted to the Union in 1802, the boundary read "Draw a Line to Lake Michigan." How to draw this line, no one is sure.
 
 ## Confrontation
 
-In 1835, both parties sent militia.
+In 1835, militiamen were sent to both sides.
 
-The governor of Ohio sent troops, as did the governor of Michigan. They fought near Toledo.
+The governor of Ohio sent troops, and the governor of Michigan sent troops. They faced off near Toledo.
 
-## Blood
+## See Blood
 
-Only one person was injured in this “war”.
+Only one person was injured in this "war".
 
-A Michigan militia was stabbed in a tavern. No death.
+A Michigan militiaman was wounded with a knife in a tavern. There is no death.
 
 ## Congress
 
-Congress intervened to resolve the conflict.
+Congress stepped in and resolved the conflict.
 
-Michigan gets the upper peninsula, Ohio gets the Toledo band. Both sides feel like they won.
+Michigan gets the Upper Peninsula and Ohio gets the Toledo Strip. Both sides felt they had won.
 
 Congress passed a bill to resolve the conflict.
 
-Ohio gets Toledo, Michigan gets Upper Peninsula. Both parties are not satisfied, but both accept.
+Ohio gets Toledo and Michigan gets the Upper Peninsula. Neither party was satisfied, but both accepted it.
 
-Congress intervened to resolve the conflict.
+Congress stepped in and resolved the conflict.
 
-Michigan gets the upper peninsula, Ohio gets the Toledo belt.
+Michigan gets the Upper Peninsula and Ohio gets the Toledo Strip.
 
-## Who won?
+## Who's Winning
 
-Ohio got Toledo, Michigan got Upper Peninsula.
+Ohio got Toledo and Michigan got the Upper Peninsula.
 
-There are iron ore, forests, and lake banks on the upper peninsula. In the long run, Michigan is good.
+The Upper Peninsula has iron mines, forests and lakeshores. In the long run, Michigan pays off.
 
 ## Now
 
-Toledo belongs to Ohio.
+Toledo is part of Ohio.
 
-The border line is still there, and war is a joke.
+The borders remain and the war becomes a joke.
 
-Toledo belongs to Ohio.
+Toledo is part of Ohio.
 
-The border line is still there.
+The border is still there.
 
 ## Ohio
 
-Ohio, joined the Federation in 1803.
+Ohio, admitted to the Union in 1803.
 
-Its northern borders overlap with Michigan territory. The Toledo zone is at the heart of the controversy.
+Its northern boundary overlaps with Michigan Territory. The Toledo Strip is at the heart of the controversy.
 
 ## Michigan
 
-Michigan, it was a territory.
+Michigan, then, was a territory.
 
-It wants to join the Federation, but the border is not clear. Toledo's belt is important for Michigan.
+It wanted to join the Union, but the borders were not drawn. Toledo belt, important to Michigan.
 
 ## Upper Peninsula
 
-Congress has drawn the peninsula to Michigan.
+Congress assigned the Upper Peninsula to Michigan.
 
-There are copper, iron, forests and lake banks on the Upper Peninsula. Michigan accepted this compensation.
+The Upper Peninsula has copper, iron, forests and lakeshores. Michigan accepted the compensation.
 
-The upper peninsula has copper, iron, forests and lake banks.
+The Upper Peninsula has copper, iron, forests and lakeshores.
 
-Michigan accepted the compensation. In the long run, it's not a loss.
+Michigan accepted the compensation. In the long run, it pays off.
 
-## Border
+## Boundary
 
-The 1835 border was not demarcated.
+The borders of 1835 were not drawn.
 
-Ohio and Michigan both consider themselves to have the Toledo band.
+Ohio and Michigan, both think they own the Toledo Belt.
 
 ## Militia
 
-Both parties sent militia.
+Both sides sent militias.
 
-They're fighting near Toledo. No orders, no fighting.
-
-## Memory
-
-The Toledo war is a war without death.
-
-It became a joke in American border history.
+They faced off near Toledo. No orders, no fighting.
 
 ## Memory
 
-The Toledo war, no death.
+The Toledo War was a war without death.
 
-It was a dispute over the border and was finally settled in exchange for land.
+It became a running joke in the history of the American border.
 
-Today's Toledo belongs to Ohio. Upper Peninsula belongs to Michigan. Neither state speaks of war.
+## Further Notes
+Toledo War, no deaths.
 
-## And finally
+It was a quarrel over a border that was settled with a land swap.
 
-The Toledo war, no dead.
+Today's Toledo belongs to Ohio. Upper Peninsula, part of Michigan. Neither state spoke of the war again.
 
-It leaves only one boundary, and two states' memories.
+## At Last
 
-The land is changed, the story is left.
+No one died in the Toledo War.
 
-## Remember
+It leaves only a border and the memory of two states.
 
-The Toledo war, no death.
+The land has changed, but the story remains.
 
-It was a dispute over the border, and it was finally settled in exchange for land. Today, Toledo, it belongs to Ohio, the Upper Peninsula, it belongs to Michigan.
+## Remember Again
 
-The land is changed, the border is fixed. The war is not happening, the story is left.
+Toledo War, no deaths.
 
-Two states competed for a piece of land, and each took one piece. No death, only one line, and two states' memories.
+It was a quarrel over a border that was settled with a land swap. Today's Toledo belongs to Ohio; the Upper Peninsula belongs to Michigan.
+
+The land was changed and the boundaries were defined. The war didn't happen, the story stayed.
+
+Two states fight for a piece of land, and each gets a piece in the end. There is no death, just a line, and the memory of two states.
 
 One line, two states, no war.
 
-## Archives
+## File
 
-In 1835, Ohio and Michigan contested the border over the Toledo area. Both parties mobilized militia but did not start a war.
+In 1835, Ohio and Michigan fought over the boundaries of the Toledo Strip. Both sides mobilized militias, but no fighting took place.
 
 ---
 

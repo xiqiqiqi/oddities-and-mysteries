@@ -58,69 +58,69 @@ The manuscript is held at Yale, and high-resolution images are available online.
 
 It may be a cipher, a lost language, or a book that was never meant to be understood. What is certain is that it has existed for six hundred years and has still not given up its answer.
 
-## Books
+## Book
 
-The Vodoch manuscript is an illustration manuscript.
+The Voynich Manuscript is an illustrated manuscript.
 
-It has no title, no author, no age. The pages are parchment, about 23 x 16 centimetres, and there are about 240 pages. Some pages are missing, some pages are folded.
+It has no title, no author, no definite date. The pages are of parchment, measuring approximately 23 × 16 cm, and approximately 240 pages exist. Some pages are missing and some are folded.
 
-There are many illustrations in the book: plants, constellations, baths, pipes, women. Plants are not real species, constellations are not standard zodiacs. They're like some kind of lost knowledge system.
+There are many illustrations in the book: plants, constellations, baths, pipes, women. Plants are not real species, and constellations are not standard zodiac signs. They are like some kind of lost knowledge system.
 
-## Text
+## Word
 
-The script's text, no one can read it.
+No one can read the text of the manuscript.
 
-It consists of an unknown set of letters, about 20 symbols. Text is written from the left to the right, with word spacing, paragraph, title. Its statistical features are natural languages, but neither vocabulary nor grammar are known languages.
+It consists of an unknown alphabet with approximately twenty symbols. The text is written from left to right, with word spacing, paragraphs, and headings. Its statistical characteristics are like natural language, but its vocabulary and grammar are not part of a known language.
 
-Some say it's a password, some say it's an acronym, some say it's an artificial language, some say it's a fraud. Each one has its supporters, and it's an example.
+Some say it is a code, some say it is an abbreviation, some say it is a man-made language, some say it is a hoax. Each statement has its supporters and counterexamples.
 
-## Age
+## Era
 
-In 2011, researchers at the University of Arizona used radioactive carbon to set a year and measured manuscripts of sheep paper.
+In 2011, researchers at the University of Arizona used radiocarbon dating to date the manuscript's parchment.
 
-Results: Skin paper came from about 1404-1438. It was 500 years earlier than Vodnicher bought it. Paper was from the fifteenth century, and it could have been written in the fifteenth century.
+Results: Parchment from approximately 1404–1438. This was five hundred years before Voynich purchased it. The paper is from the fifteenth century, and the writing may have been from the fifteenth century.
 
-But the age of paper is not the age of content. Authors can write new words on old paper, or copy old ones on new paper. Carbon year can only be fixed, not text.
+But the age of the paper is not the same as the age of the content. The author can write new words on old paper, or copy old content on new paper. Carbon dating can only date paper, not text.
 
 ## Author
 
-Who's the author of the manuscript? It's open.
+The author of the manuscript is uncertain.
 
-Some say it's Roger Bacon, some say it's John D, some say it's an Italian scholar, some say it's a woman. In 2019, one researcher suggested that the manuscript might have the characteristics of a “female author”, but that assumption was not widely accepted.
+Some said it was Roger Bacon, some said it was John Dee, some said it was an Italian scholar, some said it was a woman. In 2019, one researcher suggested that the manuscript's language might be characteristic of a "female author," but this hypothesis was not widely accepted.
 
-There's a little painting of a woman and a child with words. This is interpreted by some as “author is female” and by others as “intigation”.
+There is a small painting in the book of a woman and a child with text next to it. This was interpreted by some as "the author is a woman" and by others as "illustrated content".
 
 ## Decipher
 
-There's been a lot of attempts at deciphering, and no success.
+Many attempts were made to decipher it, but none succeeded.
 
-During World War II, the US cryptographer tried; during the Cold War, computer scientists tried; in recent years, artificial intelligence tried. Every time they claimed progress, none was independently tested.
+During World War II, American cryptographers tried it; during the Cold War, computer scientists tried it; in recent years, artificial intelligence has also tried it. Each claim of progress has not been independently verified.
 
-The Vonici manuscript is difficult, not just the code. We don't have text, no known language, no author's life. Without it, it's like a lock in a room without a key.
+The difficulty with the Voynich manuscript is not just the code. We have no reference text, no known language, no life of the author. Without these, deciphering is like looking for a lock in a room without a key.
 
 ## Now
 
-The manuscript is now at the Benek Library at Yale University.
+The manuscript is now in the Beinecke Library at Yale University.
 
-It's digitized and anyone can read it online. Every year, there are new papers, new algorithms, new guesses. It's still not read.
+It is digitized and can be viewed by anyone online. Every year there are new papers, new algorithms, new speculations. It still hasn't been read.
 
-A book of the fifteenth century that has not been read for 500 years. It could be a password, a fraud, or a writing that we are not familiar with. Either way, it reminds us that words are not words, and language is not meaning.
+A book from the fifteenth century has not been read for five hundred years. It could be a code, it could be a scam, it could be a way of writing that we are unfamiliar with. Either way, it reminds us: words are not equal to language, and language is not equal to meaning.
 
-## Illustrated
+## Illustration
 
-The illustration of the manuscript is another mystery.
+The manuscript's illustrations are another mystery.
 
-The leaves, roots, flowers in the plant map are not like any known species. Some are like poppy, some like daisies, some are completely imagined. Stars in the constellation map are connected by threads, forming patterns.
+The leaves, roots, and flowers in the botanical illustrations do not resemble any known species. Some are like poppies, some are like chrysanthemums, and some are completely imaginary. The stars in the constellation chart are connected with lines to form a pattern.
 
-In baths, women are in green water with pipes connected to the pool. Some say it's alchemistry, some say it's medicine, some say it's reproduction. Without words, the diagram cannot be explained.
+In the bathing picture, the woman is in the green water, and the pipe is connected to the pool. Some say it’s alchemy, some say it’s medicine, some say it’s reproduction. Pictures cannot be explained without textual comparison.
 
 ## Statistics
 
-Text in manuscripts, with the statistical characteristics of natural languages.
+The text of the manuscript has the statistical characteristics of natural language.
 
-The length distribution of the word, the repetition rate, the entropy are all like languages. It has no obvious syntax structure or identifiable root of the word. It may be either a natural or artificial language of encryption.
+The length distribution, repetition rate, and entropy of words are all like language. But it has no obvious grammatical structure and no identifiable root word. It may be encrypted natural language or artificial language.
 
-Artificial intelligence has tried machine-translation, but the results cannot be independently validated. A model produces a sentence that is "consistent" and does not read the original text.
+Artificial intelligence has been tried using machine translation methods, but the results cannot be independently verified. Just because a model can generate "fluent" sentences does not mean that it understands the original text.
 
 ---
 

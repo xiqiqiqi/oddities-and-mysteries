@@ -68,45 +68,44 @@ The south slope of Phoenix Mountain is still there. The white thing did not come
 
 *Original schematic: the June–July 1994 timeline, the south-slope sighting and the investigation. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
-## China '1994 UFO Hot
+## The Chinese UFO Craze of 1994
 
-The Phoenix incident is not isolated.
+The Phoenix Mountain incident is not isolated.
 
-In the same period, air power and mysticism were popular. A forest worker said he saw white things on the hill, and he could easily be put into this national narrative.
+Around 1994, a large number of UFO reports appeared across China. Newspapers, television and popular science magazines were all discussing "flying saucers". Qigong craze and mysticism were also popular at the same time. A forestry worker who says he saw something white in the mountains easily fits into the national narrative.
 
-Mount Phoenix is located at the Red Flag Forest of the 5th Ping Town Forestry Department in Heilongjiang Province, and is part of the Zhang Guangtao Ridge of the Long White Mountains. The mountains are home to primitive forests, swamps, and logging roads.
+Phoenix Mountain is located in the Hongqi Forest Farm of Shanhetun Forestry Bureau, Wuchang City, Heilongjiang Province, and belongs to Zhangguangcai Ridge in the Changbai Mountains. There are virgin forests, swamps and logging roads in the mountains. June is the season for picking wild vegetables. There are many people going up the mountain, so there are channels for spreading sightings.
 
-## Memory and hypnosis
+## Memory and Hypnosis
 
-In 2005, psychologists were asked to analyse Mon-square narratives of the country in the light of " Approaching Science " .
+In 2005, CCTV's "Approaching Science" asked psychologists to analyze Meng Zhaoguo's narrative.
 
-The psychologist explained that he might have experienced a strong psychological event and then, in repeats, questions from others and media attention, filled his memory with imagination. This is not a conscious lie, but a normal way of working memory.
+Psychologists' explanation is that he may have experienced a strong psychological event, and then made up his imagination into memory through repeated narration, questions from others, and media attention. This is not conscious lying, but the normal way memory works.
 
-People are prone to live hallucinations when they are high-tension, sleepless or untimely. After that, if people around them keep asking for details, these hallucinations are organized into a coherent story. The more stories they tell, the more they believe that they have been there.
+People are prone to vivid hallucinations when they are highly stressed, sleep deprived or physically unwell. Later, if people around you press for details, these hallucinations will be sorted into a coherent story. The more the story is told, the more the narrator believes he has experienced it.
 
-## Physical evidence
+## Physical Evidence
 
-The team measured radiation in the Monzae country and did not detect any abnormalities.
+The investigation team measured radiation in Meng Zhao's country and found no abnormalities.
 
-No white objects were found on the hillside, no wreckage, no photographs, no samples. Mon-gong said, "Flexy stuff from the skin," and it was not preserved.
+No white object was found on the hillside, no wreckage, no photos, no samples. The "elastic things picked out from the skin" mentioned by Meng Zhaoguo have not been preserved either.
 
-The only ones left were the red marks and scars on the body, and his own account. Red marks could be interpreted as skin disease, scratches or burns; scars could be interpreted as old wounds. They could not prove contact with an alien, nor could they be completely negative.
+The only thing left were the red marks and scars on his body, and his own narrative. Red marks can be interpreted as skin diseases, scratches or burns; scars can be interpreted as old injuries. They do not prove extraterrestrial contact, nor do they deny it outright.
 
-## The mountains and the stories
+## Mountains and Stories
 
-The south slope of Phoenix is still there.
+The southern slope of Phoenix Mountain is still there.
 
-The white thing didn't come back, and the forest life didn't change. Mon Shigeo continued to live nearby, occasionally interviewed. The story was written in books, programmes and online articles, with more and more versions.
+The white thing didn't come back, and life on the forest farm didn't change. Meng Zhaoguo continues to live nearby and occasionally gives interviews. The story has been written into books, programs and online articles, with ever-increasing editions.
 
-Can a man make up a story like this? The investigator argued that year. But what is more interesting is: why does a person need a story like this? In a remote forest field, an ordinary worker suddenly becomes the centre of national attention. The story gives him a place.
+Could one man invent such a story? Investigators argued that year. But it’s more worth asking: why would one need such a story? In a remote forest farm, an ordinary worker suddenly became the center of national attention. The story gave him a place.
 
-## Supplementary Notes
+## Supplementary Note
 
-After the Phoenix incident, there were a lot of “witnesses.” Some said they had seen white light, others said there were other objects in the mountain. Most of these statements were not documented or investigated. When a story was established, it attracted more stories, which were common to legends.
+After the Phoenix Mountain incident, many "eyewitnesses" appeared in the local area. Some people say that they have also seen white light, and some people say that there are other objects in the mountains. Most of these claims have gone undocumented and uninvestigated. After a story is established, it will attract more stories. This is a common phenomenon in the spread of legends.
 
-## Location of the archives
-
-Phoenix is a typical of the “personal testimony” file. It has no physical evidence, no photographs, only the memory of the storyteller and the records of a group of investigators. The file is not responsible for judging whether he is lying, but for separating self-narration, peer observation, findings and psychological analysis.
+## Archive Location
+Phoenix Mountain is a typical example of "personal testimony" archives. It has no physical evidence, no photographs, only the memory of a narrator and the records of a group of investigators. The file is not responsible for judging whether he is lying, but is only responsible for separating self-reports, observations by fellow travelers, survey results and psychological analysis. Once separated, the reader can see how the story grows layer by layer.
 
 ---
 

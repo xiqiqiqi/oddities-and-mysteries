@@ -66,93 +66,93 @@ The stone is weathering, the trees are growing, and the visitors keep coming. Co
 
 A temple built for gods and kings has become the symbol of a nation.
 
-## The moat
+## Moat
 
-Angkor Cave, in Siem Reap Province, Cambodia.
+Angkor Wat, in Siem Reap Province, Cambodia.
 
-It is surrounded by a moat, which is more than a hundred metres wide. Outside the moat is a forest, and inside it is a temple. The tower of the temple, like a flower of lotion, stands under the sky.
+It is surrounded by a moat, which is more than a hundred meters wide. Outside the moat is a forest and inside is a temple. The tower of the temple stands like a lotus bud under the sky.
 
-## Who built it?
+## Who Built It
 
-Angkor Cave was built in the twelfth century and belongs to the Khmer Empire.
+Angkor Wat was built in the twelfth century and belonged to the Khmer Empire.
 
-King Suleieh, the second of his kind, presided over the construction. It was originally a Hindu temple, served as a dynasty for the dynasty, and then became a Buddhist temple.
+King Suryavarman II presided over the construction. It was originally a Hindu temple, dedicated to Vishnu, and later turned into a Buddhist temple.
 
-## The story on the rock
+## Story on Stone
 
-On the wall of the back porch, there's a long sculptor.
+There are long reliefs on the walls of the cloister.
 
-The statues speak of Hindu myths: blending the sea of milk, the battle of the gods, the incarnation of the adjoining wet slaves. There are also kings' armies, markets and daily life. They are not decorations, but a combination of words and images.
+The reliefs tell the story of Hindu mythology: the churning of the sea of ​​milk, the battle between gods and demons, and the incarnation of Vishnu. There are also the king's armies, markets and daily life. They are not decorations but a combination of words and images.
 
-## Watertown
+## Shuicheng
 
 Angkor is not an isolated temple.
 
-It is a huge city, with roads, canals, reservoirs, and agricultural land. Water systems support a dense population and allow temples to be built.
+It is a huge city with roads, canals, reservoirs and farmland. The water system supported the dense population and allowed the construction of temples.
 
-## “Discovery”
+## "Discover"
 
-In the nineteenth century, French explorers “rediscover” Angkor.
+In the 19th century, French explorers "rediscovered" Angkor.
 
-They saw the temple surrounded by the forest, wrote a tour book, took a picture. Angkor went into Western vision.
+They saw the temple surrounded by forests, wrote travel notes and took photos. Angkor has since entered the Western horizon.
 
-But Angkor was not “discovered”; the locals knew it, used it all the time; “discovery” was part of the colonial narrative.
+But Angkor was not "discovered". The locals have always known it and used it. “Discovery” is part of the colonial narrative.
 
 ## Now
 
-Angkor Cave is the UNESCO World Heritage Site.
+Angkor Wat is a UNESCO World Heritage Site.
 
-It is repaired, reinforced, and parts of the area are restricted to tourists.
+It has been restored, strengthened, and some areas are restricted to visitors. The reliefs were copied, recorded, and protected from weathering.
 
-A temple, a moat, a city. Angkor is not a miracle, he is a lot of people.
+A temple, a moat, a city. Angkor is not a miracle, it is the labor of many people.
 
-## Water
+## Water Conservancy
 
-Angkor ' s water system includes canals, reservoirs and ponds.
+Angkor's water system, including canals, reservoirs and ponds.
 
-Water is used for irrigation, transportation and rituals. Water reservoirs store during the rainy season and water is released during the dry season.
+Water was used for irrigation, transportation and rituals. The reservoir stores water during the rainy season and releases water during the dry season. Canals connect the temple to the city.
 
-## Protection
+## Protect
 
-Angkor's stone, in the wind.
+The stones of Angkor are weathering.
 
-Tree roots, rainwater, tourists and temperatures damage the sculpture.
+Tree roots, rain, visitors, and temperature can all damage stone sculptures. Conservators use chemicals, reinforcing materials and restricting access to slow damage.
 
-## Tourism
+## Travel
 
-Angkor is a tourist centre in Cambodia.
+Angkor is the tourist center of Cambodia.
 
-Tourists come to see sunrises, sculptures, and towers.
+Tourists come to see the sunrise, reliefs and towers. Tourism revenue is used for conservation.
 
-Angkor is a tourist centre in Cambodia.
+Angkor is the tourist center of Cambodia.
 
-Tourists come to see sunrises, sculptures, and towers.
+Tourists come to see the sunrise, reliefs and towers. Tourism revenue is used for conservation.
 
 A temple, a city, a forest.
 
 ## Research
 
-The researchers scan Angkor's forest using laser radar (LiDR).
+Researchers used LiDAR to scan Angkor's forests.
 
-They found hidden roads, canals and buildings. Angkor is much bigger than on the map.
+They discover hidden roads, canals and buildings. Angkor is much bigger than on the map.
 
-A temple, a city, a forest. Angkor's story is still being discovered.
+A temple, a city, a forest. The story of Angkor is still being discovered.
 
 ## Khmer
 
-Angkor Cave, from the Khmer Empire.
+Angkor Wat belongs to the Khmer Empire.
 
-The Khmer Empire ruled Cambodia and the surrounding areas in the ninth to fifteenth centuries. Its capital is Angkor.
+The Khmer Empire ruled Cambodia and surrounding areas from the ninth to the fifteenth centuries. Its capital is Angkor.
 
-## Emboss
+## Relief
 
-Angkor's sculptures, mythology and history.
+Angkor's reliefs tell myths and history.
 
-They are images, and they are words.
+The churning of the sea of ​​milk, the battle between gods and demons, the king's army, the market and life. They are images and words.
 
-## Archives
+## File
 
-Angkor Cave was built in the 12th century, presided over by Suriej Trimor II. It was set up as a wet slave and later converted into a Buddhist temple. World Heritage in 1992, with repairs being shared by multinational teams.
+Angkor Wat was built in the 12th century by Suryavarman II. It was dedicated to Vishnu and later turned into a Buddhist temple. Listed as a World Heritage Site in 1992, maintenance is shared among a multinational team.
 
 ---
 

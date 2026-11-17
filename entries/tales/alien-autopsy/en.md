@@ -72,103 +72,101 @@ The alien was made of latex. It lay on a table, was cut open, and was filmed. It
 
 In 1995, a black and white video appeared on television.
 
-In the video, an alien was lying on the operating table, and the doctor was dissecting it. The picture was rough, like an old movie.
+In the video, an "alien" is lying on the operating table while doctors dissect it. The picture is rough, like an old movie.
 
-## Santiri
+## Santilli
 
-The video was distributed by Ray Santilli.
+The publisher of the video is Ray Santilli.
 
-He said that the video was taken by the military from the Ruswell incident in 1947.
+He said the footage was from the Roswell incident in 1947 and was shot by the military.
 
 ## Fox
 
-Fox Network, this video was broadcast.
+Fox Television Network aired this video.
 
-It's called "The Anatomy of Aliens: Facts or Fakes? " . High ratings.
+The show is called Alien Anatomy: Fact or Fiction? 》. The ratings are high.
 
-## Broken
+## Flaw
 
-There's a lot of cracks in the video.
+There are many flaws in the video.
 
-The surgical device is modern, the anatomists act like actors, and the alien body looks like plastic.
+The surgical instruments are modern, the dissector moves like an actor, and the alien's body looks like plastic.
 
 ## 2006
 
-In 2006, Santiri acknowledged that the video was reconstructed.
+In 2006, Santilli admitted that the footage was a reconstruction.
 
-He said that the original film was damaged and he asked someone to re-shoot it. He continued to say that the original film was true.
+He said that the original film was damaged and he found someone to reshoot it. He still says the original film is real.
 
 ## Now
 
-The term “anatomy of aliens” became a noun for the scheme.
+"Alien anatomy" became synonymous with hoaxes.
 
-It states that television can produce “evidence”.
+It shows that television can create "evidence."
 
-"The anatomy of aliens" became a noun for a scam.
+"Alien anatomy" has become synonymous with scams.
 
-It states that television can produce “evidence”.
+It shows that television can create "evidence."
 
 ## Roswell
 
-In 1947, there was a “flying disk crash” in Roswell, New Mexico, United States.
+In 1947, a "flying saucer crash" occurred in Roswell, New Mexico, USA.
 
-The military says it's a weather balloon. Civilians say it's an alien ship.
+The military said it was a weather balloon. Folks say it's an alien spacecraft.
 
 ## Video
 
-The 1995 video said it was an alien autopsy of Roswell.
+Video from 1995, saying it was an alien dissection in Roswell.
 
-It's black and white, rough, like old movies.
+The picture is black and white, rough, like an old movie.
 
 ## Television
 
-Fox TV webcasts the video.
+The Fox television network aired the footage.
 
-It's a very high-visibility show. A lot of people believe that it's true.
+The show's ratings are high. Many people believe that it is true.
 
-After Fox was aired, the video became popular.
+After Fox aired it, the video became a hit.
 
-TV stations, newspapers, magazines are all talking about it. Nobody asks who took the video.
+TV stations, newspapers, and magazines are all discussing it. No one asked who took the video.
 
-## Liar
+## Supplementary Note
 
-The video is a lot broken.
+"Alien Anatomy," a hoax from the television age.
 
-The surgical device is modern, the alien's body looks like plastic. In 2006, Santiri admitted that the video was reconstructed.
+It uses video, lights and experts’ faces to create “evidence”.
 
-## Supplementary Notes
+Audiences believe because they want to believe.
 
-"The Anatomy of Aliens," is a television-era scam.
+## Influence
 
-It created a “evidence” with video footage, lights and expert faces.
+"Alien anatomy" has become synonymous with scams.
 
-The audience believes because they want to believe.
+It shows that television can produce "evidence" and "truth".
 
-## Impact
+## Last Note
 
-"The anatomy of aliens" became a noun for a scam.
+The video lasts about seventeen minutes. The alien in the picture has a body like plastic and eyes like glass. The dissector's movements were like acting. These details were later analyzed frame by frame.
 
-It suggests that television can create “evidence” or “truth”.
+Santilli said the original film was authentic, but he couldn't produce it. The audience remembers the image, not the statement.
 
-## Last
+Videos can be retaken and statements can be modified. The only thing that cannot be modified is the memory of the audience.
 
-The video is about 17 minutes. The alien in the picture is like plastic, the eye is like glass. The anatomist's movements are like acting. These details are analysed by frame.
+Santilli is a former special effects artist. He admitted that he made the alien's body. The room in the video is an apartment in London.
 
-Santilly said the original film was real, but he couldn't get it out. The audience remembered the picture, not the statement.
+The rights to the video were later sold to the television station. It was cut into different versions and played around the world. The alien in the video has four fingers. This detail was later discussed repeatedly by science fiction fans. Santilli said he referenced the look from the movie.
 
-The video can be re-recorded, the statement can be modified. The only thing that can't be modified is the memory of the audience.
+Santilli later made a sequel. The audience no longer believes it.
 
-Santiri was a special effects artist. He admitted that the alien body was made of him. The room in the video was an apartment in London.
+The video of the first episode is still circulating online. The ratings of the sequel were lower than those of the first episode.
 
-The copyright of the video was sold to the television station. It was cut in different versions and played around the world. The alien in the video had four fingers. The details were discussed by the sci-fi. Santilli said he looked at the pattern in the film.
+The videotape is yellowed and the sound is distorted.
 
-Santiri later made a sequel. The audience no longer believed it.
+The controversy over the video continues to this day.
 
-The first episode of the video, which is still online, has a lower ratings than the first.
+## Scam
 
-The tape has turned yellow and the sound has been lost.
-
-The controversy over the video has not stopped.
+The affair left a mark on television culture: audiences learned that a convincing image could be manufactured, and that a hoax could travel further than its correction.
 
 ---
 

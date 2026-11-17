@@ -70,69 +70,68 @@ On that day in 2019, the box was carried down a corridor and set down. The cerem
 
 *Original schematic: the three regalia, the 1185 battle of Dan-no-ura and the box in the palace. Not a photograph of an artefact. Oddity Archive, CC BY-SA 4.0.*
 
-## Chai-yu
+## Magatama
 
-In the name of eight feet, "thanky" is a shape.
+In the name of Bachiqiong Magatama, "magatama" is a shape.
 
-It's like a comma, and it's like a moustache. A circle, a tip, a hole in the middle, can be worn with rope. Japan's hooks were first in the rope era, and they were made of Jade, Manau, glimmers and glass.
+It looks like a comma and a crooked tooth. One end is round, the other is pointed, and there is a hole in the middle that can be threaded with a rope. Magatama in Japan first appeared in the Jomon period, and its materials include jade, agate, talc and glass.
 
-Chao-yu is not unique to Japan. The Korean peninsula, north-east China, and Japan's islands have come up with similar curvatures. They have different sizes, materials, and holes, but they have the same basic shape. This shape may come from animal teeth, shells, or some sort of bent stone.
+Magatama is not unique to Japan. Similar curved ornaments have been unearthed in the Korean Peninsula, Northeast China and the Japanese Islands. They differ in size, material, and hole location, but have the same basic shape. The shape could come from an animal tooth, a shell, or some kind of curved stone.
 
-## Three Gods
+## Three Artifacts
 
-The three instruments of the Japanese royal family are mirrors, swords and jade.
+The three artifacts of the Japanese royal family are mirrors, swords and jade.
 
-The mirrors are in the palace of the Ida, the sword in the palace of the Heda, and the jade in the palace of the Emperor. The three things are not in the same place, and they are not necessarily reaching out at the same time. They each have their own shrines, rituals and legends.
+The mirror is in Ise Shrine, the sword is in Atsuta Shrine, and the jade is in the Imperial Palace. The three items are not in the same place, nor may they be exhibited at the same time. Each has its own shrines, rituals and legends.
 
-Eight feet is the only one left in the royal home. It's not publicly displayed, not by ordinary people. It's taken out in some rituals every year, but it's not open to the media.
+The eight-foot magatama is the only one left in the imperial palace. It is not on public display and cannot be seen by ordinary people. It is taken out during certain ceremonies each year, but is not open to the media.
 
-## The throne
+## Throne
 
-The three instruments were symbolic in the Japanese Emperor's inauguration ceremony.
+The three artifacts have symbolic meaning in the enthronement ceremony of the Japanese emperor.
 
-But “symbols” are not “legal documents.” Neither the constitution of rule nor the post-war royal model requires three instruments of God to be written into a place. They are more like ritual affirmations: the new Emperor has taken over not just power, but a set of objects that have been passed down from myths.
+But "symbol" is not the same as "legal document". Neither the Meiji Constitution nor the post-war imperial model listed the three artifacts as necessary conditions for ascending to the throne. They were more of a ritual confirmation that the new emperor was inheriting not just power but a set of objects passed down from mythology.
 
-The legitimacy of these objects comes from the words “since ancient” rather than from a single archaeological discovery. No one can prove that they are the three myths.
+The legitimacy of this set of objects comes from narratives "from ancient times" rather than from a single archaeological discovery. No one can prove that they are the three things in the myth.
 
-## I can't see
+## Can't See
 
-The most special thing about eight feet of jade is that it is barely seen.
+The most special thing about the eight-foot magatama is that it is almost invisible.
 
-There are no photographs, no public measurements, no material analysis. Researchers can only speculate about it based on court records, ancient paintings, and replicas.
+No high-definition photos, no published measurements, no material analysis. Researchers can only speculate on its appearance based on palace records, ancient paintings and reproductions. Replicas abound in museums and shrines, but the originals are always behind the scenes.
 
-This “invisible” is itself part of power. The less an object appears, the easier it is to be imagined. It does not need to prove that it is true, but that no one has to prove it.
+This "invisibility" is itself part of power. The less visible an object is, the easier it is to imagine. It does not need to prove itself to be true, only that no one can prove it to be false.
 
 ## Now
 
-Today, the three instruments of God remain part of the Japanese royal ceremony.
+Today, the three artifacts remain part of Japanese imperial rituals.
 
-They're not in the museum's glass cabinets, nor in the archaeological reports. They're in the shrines and royal houses, wrapped, given, told. They're unverifiable for researchers; they're indispensable for the royal family.
+They are not in museum glass cases or in archaeological reports. They are wrapped, enshrined, and told in shrines and imperial palaces. To researchers they are unverifiable; to royalty they are indispensable.
 
-The value of eight feet of chalking is not in the Jade stone itself, but in the position it occupies: an empty place that connects myth, the throne and the present one.
+The value of the eight-foot magatama lies not in the jade itself, but in the position it occupies: an empty space that connects myth, the throne, and the present.
 
-## Materials
+## Material
 
-A piece of material that is more illustrative than a shape.
+The material of Magatama tells a better story than its shape.
 
-Japan’s pastry, which used a lot of slides, snakes, and later emeralds, Manau and Jade. Emeralds come from mines in Burma or Japan’s mainland, and Manau comes from volcanic rock. The source of the material means a network of trades or exchanges.
+Japanese magatama mostly used talc and serpentine in the early days, and later jade, agate and jasper. Jade comes from mines in Myanmar or Japan, and agate comes from volcanic rocks. Sources of materials, implying trade or exchange networks.
 
-Eight feet of material, not publicly analysed. We don't know if it's an emerald, a Manau, or another stone. It's not possible to judge its origin and age by court records alone.
+There is no public analysis of the material of the eight-foot Qiong magatama. We don't know if it is jade, agate or some other stone. Its origin and age cannot be determined from palace records alone.
 
-## Copy
+## Replica
+There are many replicas of the three artifacts in Japan.
 
-The replicas of the three Gods are many in Japan.
+There are replicas in museums, shrines and tourist shops. Mirrors, swords and jade are made into keychains, ornaments and souvenirs. Some of the shapes of the replicas are based on ancient paintings, some are based on legends, and some are completely imagined.
 
-Museums, shrines, and tourist shops have copies. Mirrors, swords, jade are made into key buttons, pieces and souvenirs. The shape of the replicas is based on ancient paintings, legends, and complete imagination.
-
-The more copies, the more mysterious the originals. A man can buy an "8-foot walk," but the real one is still in the royal house, not to be shown.
+The more copies there are, the more mysterious the original becomes. One can buy an "Eight-foot Magatama", but the real one is still in the Imperial Palace and is not displayed to the public.
 
 ## Ceremony
 
-When the Emperor takes his place, three instruments of God will appear in the ceremony.
+When the emperor ascends the throne, three artifacts appear in ceremonies.
 
-But the ceremony is closed to the media. The outside world can only know what's going on through the announcement of the palace hall and the description of the participants.
+But the ceremony was closed to the media. The outside world can only know what happened through announcements from the Imperial Household Agency and descriptions from participants. There are few photos and even less detail.
 
-This closure leaves the mythology in its place. If they are placed in the museum's glass cabinet, measured, photographed, studied, they may turn into “archives”. They are still “the myths”.
+This closure allows the artifact to retain its mythical status. If they were placed in a museum glass case, measured, photographed, and studied, they might become "artifacts." Today, they remain "artifacts."
 
 ---
 

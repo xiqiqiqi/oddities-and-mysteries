@@ -62,34 +62,34 @@ There is no clear photograph, no verified specimen, and no skeleton accepted by 
 
 The mountains are still there. So are the stories. What lies below the snow line has no answer yet.
 
-## Names and maps
+## Name and Map
 
-“Armas” is not a unified species name, but a collection of local names. The Mongolian language, as it is often written in the Russian literature, is called “almasty” and there are other names in the oral statements of Kazakhstan and Kyrgyzstan. The names are different, but they are often similar: straight, hairy, afraid of people, living in mountains.
+"Almas" is not a single species designation but rather a collection of local appellations. In Mongolian the term appears, in Russian scholarship it is often rendered as "almasty," and the Kazakh and Kyrgyz verbal traditions include other variants. Though the names differ, the descriptions are remarkably similar: upright posture, long fur, timidity around humans, and a predilection for mountainous habitats.
 
-Tourists who travelled through Mongolia and Central Asia in the nineteenth century took notes of such statements. They brought back names, herdsmen’s stories and unidentifiable hairs, but not bones, teeth, or clear photographs.
+Travelers who traversed Mongolia and Central Asia in the nineteenth century recorded the various forms of the tale in their journals. They brought back place‑names, pastoral anecdotes, and fragments of unusable fur, but no skeletons, teeth, or clear photographs. Subsequent expeditions followed those place‑names into the mountains, yet the evidence remained largely oral.
 
-This is also the most difficult part of the Almas story: it's spread too widely. Thousands of kilometres of mountains from the Caucasus to the western part of Mongolia have been described, but every one of them is described with its animals, clothing, and terrain.
+This dispersion is the crux of the Almas puzzle: sightings span from the Caucasus to western Mongolia, a stretch of several thousand kilometres of highland. Each report is filtered through the local fauna, clothing, and terrain, so conflating them into one creature feels as if many disparate things are compressed into a single name.
 
-## Hair and Footprints
+## Fur and Footprints
 
-Soviet‑era study teams collected hair, footprints and so‑called bone fragments.
+Soviet‑era teams collected fur, footprints, and purported bone fragments.
 
-The hair is the most common “material evidence.” It is easy to collect and to be mistaken. Bears, sheep, horses, and human hairs are characterised under microscopes, but after many years of storage, contamination, and transfer of hands, identification is not always reliable. Some samples are identified as coming from known animals, while others are too small to draw conclusions.
+Fur is the most plentiful “physical evidence.” It is easy to gather but also prone to misidentification. Fur from bears, sheep, horses, or humans shows microscopic distinctions, yet lengthy storage, contamination, and resampling can compromise reliability. Some samples were identified as known animals, while others were dismissed as too scant to conclude.
 
-Footprints are the same. Footprints on snow, mud and sand change shapes with temperature, humidity and wind. Footprints on a bear, folded on the back and the front, may look like a big foot; one person's footprints are stepped on by another person's footprints and may become wide and long.
+Footprints were similarly problematic. Tracks on snow, mud, or sand morph with temperature, humidity, and weathering. A bear’s print, where the hind and fore feet overlap, may appear as a “large sole”; a human track overwritten by another can widen or lengthen beyond recognition.
 
-Without a full skull, without teeth, without a single bone that can extract enough DNA to take it. Without these, Almas can't be written into animal taxonomy.
+No complete skull, no teeth, no sizable bone segment was ever recovered that could yield sufficient DNA. Without those, the Almas cannot be incorporated into formal taxonomy.
 
-## Mountains and memories
+## Mountain and Memory
 
-The story of Almas, and life in the mountains.
+The Almas narrative is inseparable from mountain life.
 
-The herdsmen were grazing far from the village, living in tents at night, hearing rocks rolling, wolves barking, wind blowing through the crevices. A man standing up could be a bear or a lost man. The next day, the image would be told to his neighbours; later, it would become “the thing in the mountains.”
+Pastoralists graze their flocks away from settlements, camp in tents at night, and hear stones roll, wolves howl, and wind flare through crevices. An upright silhouette might be a bear or a lost traveller. The next day the figure is recounted to neighbours, and over time it becomes “the thing in the mountains.”
 
-The story is not evidence, but it is a map. It tells the child not to go far, telling the hunter not to go into the mountain alone at night. The name Almas is a warning, not an animal that has been captured.
+The stories are not proof; they are map markers. They caution children against venturing too far and warn hunters to avoid solitary night treks. The name “Almas” carries these warnings, not an actual captured animal.
 
-The story of Almas is hard to disappear because it does not ask you to believe in a specific animal. It simply asks you to admit that there are places in the mountains that are not yet gone. As long as there is a blank map, the name can remain there.
+Its persistence lies in its lack of specificity; it merely acknowledges that the mountains hold uncharted spaces. As long as a map has blank spots, the name remains alive.
 
 ---
 
-**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the oral descriptions, the
+**Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the oral descriptions, the documented expeditions, and the explanations; no specimen exists.

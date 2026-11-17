@@ -70,93 +70,93 @@ Halley, Symmes and Teed were not frauds. They drew wrong conclusions from the ev
 
 ## Harley
 
-Edmund Harley, a 17th-century British astronomer.
+Edmund Halley was a seventeenth-century British astronomer.
 
-He suggested that the Earth could be hollow, with another world in it.
+He proposed that the earth might be hollow and that there was another world inside.
 
-## Simms
+## Sims
 
-John Simms, a nineteenth-century American.
+John Sims was an American in the nineteenth century.
 
-He believed that the Earth was empty, the entrance was in the North Pole. He wanted to organize an expedition, but it didn't work.
+He believed that the earth was hollow and that the entrance was at the North Pole. He tried to organize an expedition but failed.
 
 ## Ted
 
-Cyrus Ted, a 19th-century religious leader.
+Cyrus Tedder was a nineteenth-century religious leader.
 
-He founded a denomination of the empty earth, drew maps and wrote books.
+He founded the Hollow Earth sect, drew maps, and wrote books.
 
 ## Byrd
 
-Richard Byrd, Admiral General of the United States Navy.
+Richard Byrd was a U.S. Navy admiral.
 
-Some say he flew across the North Pole and saw the entrance to the "empty Earth". Byrd's diary, that's not what he said.
+Some say he flew over the North Pole and saw the entrance to the "Hollow Earth." Bird's diary does not say so.
 
 ## Science
 
-Earth is not empty.
+The earth is not hollow.
 
-Seismic waves, gravity, magnetic fields all prove that the Earth is solid.
+Seismic waves, gravity, and magnetic fields all prove that the earth is solid.
 
-Empty Earth, physical.
+Hollow Earth, inconsistent with physics.
 
-If the Earth is hollow, the seismic waves change speed and gravity varies.
+If the Earth were hollow, seismic waves would change speed and gravity would be different.
 
-Seismic waves, gravity, magnetic fields all prove that the Earth is solid.
+Seismic waves, gravity, and magnetic fields all prove that the earth is solid.
 
-Empty Earth, physical.
+Hollow Earth, inconsistent with physics.
 
-## Why is it still on the air?
+## Why are You Still Spreading It?
 
-The story of the empty Earth is still spreading.
+The story of the Hollow Earth is still circulating.
 
-Because it meets a wish: there is still an unknown place inside the Earth.
+Because it fulfills a wish: there are still unknown places inside the earth.
 
 ## Earth
 
-The Earth is solid.
+The earth is solid.
 
-Seismic waves, gravity, magnetic fields all prove that the Earth has a geonuclear, mantle and crust.
+Seismic waves, gravity, and magnetic fields all prove that the earth has a core, a mantle, and a crust.
 
 ## Conspiracy
 
-The story of empty Earth became conspiracy theory.
+The story of the Hollow Earth became a conspiracy theory.
 
-It was said that there were entrances to the Arctic; it was said that the Government had concealed the truth.
+Some people say that there is an entrance to the Arctic; some say that the government has concealed the truth.
 
-## Why are you still here?
+## Why are You Still There
 
-Because it meets a wish: there is still an unknown place inside the Earth.
+Because it fulfills a wish: there are still unknown places inside the earth.
 
-## Supplementary Notes
+## Supplementary Note
 
-Empty Earth is an ancient imagination.
+The hollow earth is an ancient imagination.
 
-It wants to put an unknown world inside the Earth.
+It wants to put an unknown world inside the earth.
 
-Scientifically, it's impossible.
+Science says, impossible.
 
-## Final
+## Final Note
 
-The Earth is solid.
+The earth is solid.
 
-Hollow Earth, it's an imagination.
+Hollow Earth is an imagination.
 
-Imagination is easier to spread than science.
+Imagination spreads more easily than science.
 
-## Last
+## Last Note
 
-The speed changes when seismic waves pass through the Earth. Scientists use these changes to draw the Earth's core and mantle. The Earth is not empty, but imagine it.
+As seismic waves pass through the Earth, their speed changes. Scientists use these changes to map the Earth's core and mantle. The earth is not empty, but imagination is.
 
-## Archives
+## File
 
-In 1692, Edmund Harley suggested that the Earth might be empty. He wanted to use this to explain the anomaly of the compass. Later, the seismic wave rejected the idea.
+In 1692, Edmund Halley suggested that the Earth might be hollow. He wanted to use this to explain the anomaly in the compass. Later, seismic waves negated this idea.
 
-Harley wasn't the first person to come up with an empty Earth, but he wrote it into a scientific discussion.
+Halley was not the first to propose a hollow Earth. But he put it into scientific discussion.
 
-Harley's model was later used to explain the auroral light. Of course, it's not right.
+Halley's model was later used to explain auroras. Of course, this explanation is not correct either.
 
-Today, there is no hollow Earth in the geophysics textbooks.
+Today, there are no hollow Earths in geophysics textbooks.
 
 ---
 

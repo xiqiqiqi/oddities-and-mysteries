@@ -62,83 +62,82 @@ It is often called a “miracle of ancient Indian metallurgy.” A more accurate
 
 A column, standing in the open, without a glass case. It does not need a miracle to make people stop and look.
 
-## The column
+## Pillar
 
-The Delhi iron column is in the yard of the south suburb of Delhi.
+The Delhi Iron Pillar is in a courtyard in the southern suburbs of Delhi.
 
-It's about 7:2 metres tall, about 40 centimetres in diameter, and weighs about 6 tons. The pillars are buried in the ground, some 6 metres high. The columns are decorated and the pillars are covered with inscriptions.
+It is about 7.2 meters high, about 40 centimeters in diameter and weighs about six tons. The pillars are buried underground, and the above-ground part is about six meters. The capitals are decorated and the columns have inscriptions.
 
-## An inscription
+## Inscription
 
-The inscription is Sanskrit, with a lot of fonts.
+The inscription is in Sanskrit, using the Gupta script.
 
-It says that this pillar was set up “in memory of the King Chandra.” The scholars believe that Chandra is the Emperor of the Dynasty of Chandragupta II, in the fourth century.
+It says the pillar was erected "in memory of King Chandra". Scholars believe that Chandra is Chandragupta II, the emperor of the Gupta dynasty, who lived around the fourth century.
 
-## Who set it up?
+## Who Established It
 
-The column's origin, it's different.
+There are different opinions on the origin of the pillars.
 
-Some say it's coming from somewhere else, not from Delhi. The inscription refers to a king, but the king's name and age are controversial.
+Some say it was brought from elsewhere and is not native to Delhi. The inscription refers to a king, but the name and age of the king are disputed.
 
-## It's stainless
+## Stainless
 
-The iron column is most famous for its stainless nature.
+Iron pillars are most famous for being "stainless".
 
-It has been exposed outside for more than a thousand years, with only one layer of rust on its surface. This is due to the high purity of iron, which contains phosphorus, and the formation of a dense iron phosphate protective film on the surface.
+It had been exposed to the outdoors for over a thousand years and had only a thin layer of rust on its surface. The reason is that the iron is of high purity and contains phosphorus, and a dense protective film of iron phosphate is formed on the surface.
 
-## It's not that it doesn't corrode
+## No, It Won't Corrode
 
-The iron column is not completely uncorrupt.
+Iron pillars are not completely immune to corrosion.
 
-Its surface is rusty, but it's thin and stable. In heavily contaminated urban air, it gets thicker. It doesn't disappear because of the environment and management.
+There is rust on its surface, but the rust layer is very thin and stable. In heavily polluted urban air, the rust layer will become thicker. It has not disappeared because of environment and management.
 
 ## Now
 
-The iron pillar is an ancient site in Delhi.
+The Iron Pillar is a monument in Delhi.
 
-Visitors can see, but they can't touch. The Indian government has surrounded it and installed surveillance.
+Visitors can look, but not touch. The Indian government fenced it off and installed surveillance.
 
-An iron column that proves that ancient craftsmen control the purity of iron. It also proves that protecting the environment is more difficult than creating miracles.
+An iron pillar that proves ancient craftsmen could control the purity of iron. It also proves that protecting the environment is harder than creating miracles.
 
-## Metallurgical
+## Metallurgy
 
-And the iron column is high in purity.
+The purity of the iron pillar is very high.
 
-Ancient iron smelting usually leaves a lot of slag. Iron bars have less impurities, which suggests that craftsmen use repeated physical exercise or special smelting methods.
+Iron smelting in ancient times usually left a lot of slag behind. The iron in the iron pillars has few impurities, indicating that the craftsmen used repeated forging or special smelting methods.
 
-## Phosphoric acid
+## Phosphoric Acid
 
-There is a layer of iron phosphate on the surface of the iron column.
+There is a layer of iron phosphate on the surface of the iron pillar.
 
-phosphorus comes from soil or fuel. It is combined with iron and forms a dense protective membrane to prevent further corrosion.
+Phosphorus comes from soil or fuel. It combines with iron to form a dense protective film that prevents further corrosion.
 
-## Tourism
+## Travel
 
-The iron column is a tourist destination in Delhi.
+The Iron Pillar is a tourist attraction in Delhi.
 
-The tourists can see, but they cannot touch. Some say that the promise will come true when they stand on their backs against the iron pillars. This is the folk tradition of the past, not the ancient rituals.
+Visitors can look but cannot touch. Some people say that if you stand with your back to an iron pillar, your wish will come true. This is later folk custom, not ancient ritual.
 
 ## Science
 
-The iron column is a case of material science.
+Iron pillars are an example of materials science.
 
-It suggests that corrosion-resistant steel does not necessarily require stainless steel. The right composition and environment also allow iron to be preserved over the long term.
+It illustrates that corrosion resistance does not necessarily require stainless steel. The right ingredients and environment can also preserve iron for a long time.
 
-## Summing up
+## Summing Up
+Delhi’s iron pillars are not a myth that “won’t rust”.
 
-The Delhi iron column is not the myth of "no rust."
+It has a thin layer of rust, it just rusts slowly. Its purity, phosphorus content and environment all work together to protect it.
 
-It's a layer of rust, it's just rusty. It's pure, phosphorus content and environment, it protects it together.
+An iron pillar proves the height of ancient metallurgy and the influence of the environment on materials.
 
-An iron column attests to the height of ancient metallurgy and the environmental impact on materials.
+The iron pillar is still in the yard. The wind blows and the rain falls, it slowly rusts and is slowly remembered.
 
-It's still in the yard. The wind blows and the rain falls, and it rusts and is slowly remembered.
+One pillar stood for over a thousand years, longer than most dynasties. It doesn't beat time, it just sucks a little slower than the stuff around it.
 
-A pillar has been standing for over a thousand years, longer than most dynastys. It has no time to win, but it rots a little slower than what's around it.
+Iron will rot, stones will break, but the story will always stand.
 
-Iron rots, stones break, and the story stays standing.
-
-It's just a pole, but it makes time seem less absolute.
+It is just an iron pillar, but it makes time seem less absolute.
 
 ---
 

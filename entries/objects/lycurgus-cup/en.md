@@ -64,69 +64,68 @@ The case lighting is arranged so that visitors can see both the green and the re
 
 The Romans made a nanomaterial without knowing what a nanomaterial was. They saw colour; we see the mechanism. The cup has not changed. What changed is the way we look at it.
 
-## Cups
+## Cup
 
-The Lecko cup is a glass.
+A lycugo cup is a glass cup.
 
-It is about 16 centimetres tall, and there is a carving on the wall of the cup: a man entangled in vine, with a leopard and a goat. This man is King Thrace Lecko, who is punished for his opposition to the God of Alcohol.
+It is about sixteen centimeters high, and there are reliefs on the cup wall: a man entangled in vines, with leopards and goats beside him. This man was Lycurgus, king of Thracia, who was punished for opposing the god of wine.
 
-The cup is green in normal light, red in the light. This coloring effect makes it very visible in the museum.
+The cup is green under normal light and turns red when exposed to light. This discoloration effect makes it very conspicuous in the museum.
 
-## Two-colored
+## Dichroic
 
-This effect is called "two-way colour."
+This effect is called "dichroism".
 
-The glass is suspended with tiny gold and silver nanoparticles. The size and shape of the particles determine which wavelength light they absorb and scatter. Red is left behind, green is absorbed, green is left behind when light goes through the cups, green is left behind when light reflects and red is absorbed.
+Tiny gold and silver nanoparticles are suspended in the glass. The size and shape of the particles determine which wavelengths of light they absorb and scatter. When light passes through the cup, red is retained and green is absorbed; when light is reflected, green is retained and red is absorbed.
 
-## Nami
+## Nanometer
 
-These particles have only a few dozen nanometers in diameter.
+These particles are only a few tens of nanometers in diameter.
 
-In the 1990s, researchers saw them using electron microscopes. The discovery showed that fourth-century craftsmen had been able to manufacture nanomaterials, although they did not know the word "nami."
+In the 1990s, researchers used electron microscopes to see them. This discovery shows that craftsmen in the fourth century were already able to create nanomaterials, although they did not know the word "nano".
 
-The Lekou cups prove that ancient craftsmen control the microstructure of the materials.
+The Lycu cup demonstrates that ancient craftsmen were able to control the microstructure of materials.
 
-They don't know about nano, but they know how to turn glass color. Experience and technology, sometimes earlier than theory.
+They don’t know about nanometers, but they know how to make glass change color. Experience and technology sometimes precede theory.
 
-## Process
+## Craftsmanship
 
-The cups may be made from the `impregnated' or `mixed' process.
+Cups may be made using a "dip plating" or "sandwich" process.
 
-The craftsmen dissolve gold and silver compounds into glass, heat them up, so that the metal is disassemble into particles. Temperature and time must be controlled well, otherwise the particles will be too large and the glass will become turbid.
+Craftsmen dissolve a compound of gold and silver into the glass and then heat it to precipitate the metal into particles. The temperature and time must be controlled very accurately, otherwise the particles will be too large and the glass will become cloudy.
 
-## History
+## Origin
 
-The cup was bought by the British Museum in 1958.
+The cup was acquired by the British Museum in 1958.
 
-It comes from an unknown source. Some say it's from Rome, some say it's from the East. The cup's style, process and inscriptions point to the Mediterranean world in the fourth century.
+Its origin is unclear. Some say it comes from Rome, others say it comes from the East. The style, craftsmanship and inscription of the cup all point to the Mediterranean world of the fourth century.
 
 ## Now
 
-The Lecco Cup was displayed at the British Museum.
+The Lycu Cup is on display at the British Museum.
 
-It's in a special booth where the lights come from behind and the red is visible. The tourists can see it coloring under different lights.
+It was placed in a special display case, and the light came from behind to make the red color appear. Visitors can see it change color in different lights.
 
-A four-century cup, with modern science to explain. It's not magic, it's technology.
+A fourth-century cup using techniques that only modern science can explain. It's not magic, it's craftsmanship.
 
 ## Glass
 
-The glass process in ancient Rome is well developed.
+Glass craftsmanship was very developed in ancient Rome.
 
-Crafts can make complex instruments with blow, modeling, cutting, and carving. The Lecco cups are carved behind glass cooling, or are made of molds, and researchers have different views.
+Craftsmen can blow, mold, cut and carve intricate objects. Researchers have different opinions on whether the reliefs on the ancient Lycu cup were carved after the glass was cooled or formed using molds.
 
-## Museums
+## Museum
 
-The exhibition cabinet of the British Museum displays the colouring effects of special lights.
+The display cabinet in the British Museum uses special lighting to show the color-changing effect.
 
-The viewers look green from the side, red from the back. The tablet explains the nanoparticles, but a lot of people just take pictures.
+The viewer sees green when viewed from the side and red when viewed from behind. The sign at the showcase explains nanoparticles, but many people just take pictures.
 
-## Summing up
+## Summing Up
+The color change of the Lycu Cup is not magic.
 
-The color of the Lecco cup, not magic.
+It is the absorption and scattering of light by nanoparticles. Fourth-century craftsmen didn't understand physics, but they knew how to control fire, metal, and glass.
 
-It's the absorption and dispersion of nanoparticles to light. Four-century craftsmen don't know physics, but they know how to control fire, metal and glass.
-
-A cup that links ancient processes to modern science. It proves that technology has a longer history than we thought.
+A cup that connects ancient craftsmanship with modern science. It proves that the history of technology is longer than we think.
 
 ---
 

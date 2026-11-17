@@ -54,53 +54,52 @@ The Washington case left no physical object — only radar records, radio traffi
 
 More than seventy years later, the same scene still plays out. The radar is better and the cameras are everywhere. The answers have not become simpler.
 
-## The 1952 radar
+## Radar in 1952
 
-July 1952, Washington, D.C.
+July 1952, Washington, DC.
 
-For several nights, a group of targets appeared on the radar screen of the national airport. They were found near the no-fly zone, not moving fast, sometimes dispersed, sometimes gathering together. Radar operators said they were not like planes.
+For several nights in a row, a number of targets appeared on the radar screen of the National Airport. They appear near the no-fly zone, move slowly, sometimes disperse and sometimes gather together. They don't look like airplanes, the radar operator said.
 
-On 19 and 20 July, similar targets were reported at the airport towers, Andrews Air Force Base and nearby meteorological radars. The fighter jets took off urgently and the pilots said they saw some light, but the light went away after it.
+Similar targets were reported from airport towers, Andrews Air Force Base and nearby weather radar on July 19 and 20. The fighter jet took off urgently, and the pilot said he saw some light spots, but after catching up, the light spots disappeared.
 
-## Press conference
+## Press Conference
 
 On July 29, the Air Force held a press conference in Washington.
 
-At the meeting, officials showed radar records and admitted that “it was true that something was captured by radar”, but did not confirm that they were alien ships. That was a cautious statement, but enough to get the paper on the front page.
+At the meeting, officials showed radar records and acknowledged that "there were indeed things picked up on the radar," but did not confirm that they were alien spacecraft. This statement was cautious, but it was enough to make the front page of the newspaper.
 
-And that's when the name "Washington Rotten Horse" comes up. It describes the targets that go around the radar, like a carousel in a park.
+The name "Washington Carousel" appeared at this time. It describes those targets moving around on the radar like a carousel in an amusement park.
 
-## Antitemperature layer
+## Inversion Layer
 
-The subsequent investigation gave a very general explanation: the reverse temperature.
+Later investigations gave a very common explanation: an inversion layer.
 
-During summer nights, the ground cools fast, with a warm air above it, creating a temperature reversible. Radar waves are refrigerated in the reverse atmosphere, and the echoes of the ground objects — trucks, buildings, trees — may bend to the radar screen, looking like the target in the air.
+On summer nights, the ground cools quickly, and there is a layer of warm air above, creating a temperature inversion. Radar waves are refracted in the inversion layer, and the echoes from objects on the ground — trucks, buildings, trees — can be bent onto the radar screen, making them look like targets in the sky.
 
-This phenomenon is called "radar transmission anomaly." It allows a ground target to appear in an impossible position, and it divides a target into multiple.
+This phenomenon is called "radar propagation anomaly". It can make a ground target appear in an impossible position, and can also cause a target to split into multiple.
 
 ## Robertson Group
 
-At the end of 1952, the Central Intelligence Agency organized a team of scientists, chaired by physicist H. P. Robertson, dedicated to the evaluation of the UFO report.
+In late 1952, the CIA organized a team of scientists, chaired by physicist H. P. Robertson, to evaluate UFO reports.
 
-The Panel has looked at a number of cases, including the events in Washington, and has concluded that most of them can be explained by natural phenomena or misperceptions, and that a few cannot be explained, but there is no evidence that they are alien spacecraft.
+The team looked at many cases, including the Washington incident, and concluded that most can be explained by natural phenomena or misidentification, and a few cannot be explained, but there is no evidence that they are alien spacecraft.
 
-This conclusion does not end the debate. It simply removes the “outer spaceship” from the official document and leaves the “unexplainable” behind with the private sector.
+This conclusion does not end the debate. It just removed "alien spacecraft" from official documents and left "unexplained" among the people.
 
-## Radar tells stories
+## Radar Also Tells Stories
 
-The events in Washington were important because it was the first time that “radar evidence” had been brought into public view.
+The Washington incident was important because it brought "radar evidence" into public view for the first time.
 
-In the view of many, radar is an objective machine that can see things that people can't see. But radar is not a camera, it shows echoes, not objects. The atmosphere, the ground, the equipment set, and the operator's judgment change the image on the screen.
+In the eyes of many people, radar is an objective machine that can see things that humans cannot. But radar is not a camera. It shows echoes, not objects. The atmosphere, ground surface, equipment settings and operator judgment all change the image on the screen.
 
-A light point, possibly an aircraft, a truck, a reverse layer, or a noise on the screen. To confirm what it is, another radar, another eye, and a record of the same time.
+A light spot may be an airplane, a truck, a temperature inversion layer, or a noise on the screen. Confirming what it was would require another radar, another pair of eyes, and recordings from the same time.
 
-## Supplementary Notes
+## Supplementary Note
 
-After the events in Washington, the Air Force has established a more formal UFO investigation procedure. The Blue Book plans to collect tens of thousands of reports, most of which are explained and a few are labelled “unidentifiable”. This classification has been retained until today. It acknowledges the unknown and limits its scope.
+After the Washington incident, the Air Force established more formal UFO investigation procedures. Project Blue Book collected tens of thousands of reports, most of which were interpreted and a few were marked as "unidentified." This classification remains to this day. It acknowledges the unknown and limits the scope of the unknown.
 
-## Location of the archives
-
-The Washington event was the beginning of the radar age. It convinced the public for the first time that machines could see things that people could not see. Subsequent studies showed that machines could also be deceived by the atmosphere. The lesson has always been useful: the more the form of evidence becomes technical, the more the need to understand the boundaries of technology.
+## Archive Location
+The Washington incident was the beginning of the radar era. It made the public believe for the first time that machines could see things that humans couldn’t. Later research showed that machines can also be tricked by the atmosphere. This lesson has always been useful: the more technical the form of evidence, the greater the need to understand the boundaries of the technology.
 
 ---
 

@@ -78,43 +78,43 @@ A thunderstorm, a downburst, a forest broken in half, and lights and noise in th
 
 *Original schematic: the damage bands at Duxi, the location of the factory and the wind of a downburst. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
-## Down with the storm
+## Downburst
 
-The storm is a deep storm in the thunderstorm cloud.
+A downburst is a downdraft in a thunderstorm cloud.
 
-The droplets and crystals in the clouds evaporate, melt, absorb heat, cool the air, heavy, and accelerate the sinking. When it reaches the ground, it spreads around, forming a short-time strong wind. The wind can be more than 30 metres per second, lasting between a few minutes and ten minutes.
+Water droplets and ice crystals in the clouds evaporate and melt as they fall, absorbing heat. The air becomes colder and heavier, accelerating sinking. After reaching the ground, it spreads out in all directions, forming strong winds for a short period of time. Wind speeds can exceed thirty meters per second and last from a few minutes to more than ten minutes.
 
-Its destruction has a clear direction: the trees fall in the same direction, the roofs are lifted, and the destruction belts are narrow and long. The trees fall down in the Duttstree fields, similar to this feature.
+Its damage has obvious directionality: trees fell in the same direction, roofs were lifted, and the damage zone was narrow and long. The fallen trees in Duxi Forest Farm are similar to this feature.
 
-## A tornado
+## Tornado
 
-The other could be a roll.
+Another possibility is a landspout.
 
-The tornados have a much higher wind speed and more intensive destruction, usually with a narrow and deep destruction belt. But the tornados require a funnel cloud, which the witnesses should see. The witnesses did not describe the funnel cloud that night, but only saw light and heard sounds.
+Tornadoes have higher wind speeds and more concentrated damage, usually with a narrow and deep zone of damage. But a tornado requires a funnel cloud, which witnesses should be able to see. Witnesses that night did not describe a funnel cloud, only seeing lights and hearing sounds.
 
-There is no need for a funnel cloud to hit the storm. It hits down from the bottom of the cloud, looks like a cloud or a storm. At night, the cloud and the rain cover the structure, and people can only see light and hear thunder.
+A downburst does not require a funnel cloud. It smashes down from the cloud base and looks like a black cloud or a rainstorm. At night, clouds and rain obscure the structure, and people can only see the light and hear the roar.
 
-## Post-disaster
+## After the Disaster
 
-The post-disaster survey left a lot of data.
+Post-disaster surveys left behind a lot of data.
 
-The direction of the fell trees, the height of the breakage, and the width of the swathe have been measured. Damage to the plant and shed has also been recorded. These data support the explanation of the “high wind” and do not support the “flyer”.
+The direction in which the tree fell, the height of the break, and the width of the damage zone were all measured. Damage to factories and greenhouses was also recorded. The data support the "strong wind" explanation but not the "aircraft" explanation.
 
-But the data does not explain all the sights. Some say they see a "car-like thing," others say they see a fireball. Thunderstorms in the night, blown groceries, distant lights, may be seen as a "monster."
+But the data can't explain all sightings. Some people said they saw a "carriage-like thing", and some people said they saw a fireball. Thunderstorms at night, blown debris, and distant lights may all be regarded as "strange cars."
 
 ## Narrative
 
-The name "Air Monster" is better than "Blow Storm."
+The name "Monster Car" is easier to remember than "Downstream".
 
-It turns a meteorological disaster into a story to tell. It has a voice, light, a car without wheels. It doesn't need proof. It only takes one night.
+It turns a meteorological disaster into a tellable story. There is sound, light, and a car without wheels. It requires no evidence, just a night.
 
-The trees at the Du Hin forest have grown again. The damage belt is not visible. But the weird car is still in the short video, running further away than the wind.
+The trees at Duxi Forest Farm have grown again. The damage zone is no longer visible. But the "strange car" is still driving in the short video, running farther than the wind.
 
-The storm at the Dubrook forest, which was later written into a meteorological case, showed that a thunderstorm without a leaky cloud could leave a tornado-grade damage on the ground. The story of the strange car masked this more valuable discovery.
+The wind disaster at Duxi Forest Farm was later included in a meteorological case. It shows that a thunderstorm without a funnel cloud can still leave tornado-level damage on the ground. The story of the strange car obscured this more valuable discovery.
 
-The strange car can continue, but the evidence left by the wind is worth remembering.
+The strange car can continue to drive, but the evidence left by the wind is more worth remembering.
 
-It's a wind that can be measured, not a car that can't be measured.
+This is a wind that can be measured, not a car that cannot be measured.
 
 ---
 

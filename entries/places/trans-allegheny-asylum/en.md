@@ -68,89 +68,89 @@ The ghosts came later. The wards were real.
 
 *Original schematic: the 1858–2008 timeline, the Kirkbride plan and the overcrowding figures. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
-## Construction
+## Architecture
 
-The Trans-Algny Psychiatric Hospital is a giant Gothic building.
+Trans-Allegheny Asylum is a huge Gothic building.
 
-It was built in West Virginia, West Virginia, West Virginia, West West West West West West West West West West West West, where it started in 1858, stopped during the civil war, and continued after the war. The building was made of limestone, with towers, peaks and long corridors. From a distance, it was like a castle, not a hospital.
+It was built in West Virginia, beginning in 1858, halted during the Civil War, and continued after the war. The building is made of gray stone and has towers, spires and long corridors. From a distance, it looks like a castle, not like a hospital.
 
-This design, from the 19th century's Kirkbride Plan, advocates a ward lined around the central area, giving patients the sunlight, air and space to move. It was a progressive architectural concept.
+This design comes from the "Kirkbride Plan" in the 19th century. The plan advocates arranging wards in a row around a central management area to give patients sunlight, air and space to move around. It was once a progressive architectural concept.
 
-## Patients
+## Patient
 
-Hospitals were first admitted to psychiatric patients, alcoholics, homeless people and the poor.
+The hospital initially treated the mentally ill, alcoholics, homeless people and the poor.
 
-Some patients are kept in wards for long periods of time, without records or visits.
+In nineteenth-century medicine, mental illness was poorly understood. Treatment included bloodletting, cold baths, straitjackets and sedatives. Some patients were kept in wards for long periods of time, with a lack of records and visits.
 
-The hospital has a design capacity of several hundred, but it has been housed in thousands. The corridor is crowded, the wards are overcrowded, and there are not enough people and money. It has been transformed from an ideal hospital to a shelter.
+The hospital's design capacity was a few hundred people, but thousands were later admitted. There are extra beds in the corridors, crowded wards, and insufficient staff and funds. It changed from an "ideal hospital" to a "hospital".
 
 ## Civil War
 
-During the civil war, the hospital was taken over by the military.
+During the Civil War, the hospital was taken over by the military.
 
-The Federation and the Confederate Army used it. Some buildings were converted into barracks, others into prisons. After the war, hospitals reopened, but left a mark on the army.
+It was used by both Union and Confederate armies. Some buildings were converted into barracks, and some were converted into prisons. After the war, the hospital reopened but left traces of the military.
 
-West Virginia was in the border state during the war, with a complicated position. The hospital's location made it a facility needed by both sides.
+West Virginia was a border state during the war and had a complicated position. The location of the hospital makes it a facility needed by both parties.
 
-## Close
+## Closure
 
-In 1994, the hospital was closed.
+In 1994, the hospital closed.
 
-The new mental health policy advocates community treatment and the elimination of the concentration of patients in large institutions.
+The new mental health policy advocates community treatment instead of concentrating patients in large institutions. Large hospitals were emptied, equipment removed, and buildings abandoned.
 
-When it closed, the hospital became a “ghost house.” Explorers, photographers and television programmes came in to find evidence of a “ghost.” The building itself was ignored.
+After its closure, the hospital became a "haunted house." Explorers, photographers, and TV shows come in, looking for evidence of "haunting." The building itself has been ignored.
 
-## Protection
+## Protect
 
-The hospital is now a landmark of history.
+The hospital is now a historical landmark.
 
-It is no longer a hospital, but a site on the history of mental health.
+Some people organize visits, some do restorations, and some record the names of patients. It is no longer a hospital but a site of the history of mental health.
 
-The visitors saw not just ghost stories, but a ward, a bed and a corridor. Those things were more real than ghosts.
+Visitors see not only ghost stories, but also wards, beds and corridors. Those things are more real than ghosts.
 
-The stone walls are in the air and the roof is leaking.
+The building's stone walls are weathering and its roof is leaking.
 
-Protectors need money, time and craftsmen. They fix it, they open it. They fix it at a speed that doesn't keep up with the damage.
+Conservators require money, time, and craftsmanship. They are repairing and opening up at the same time. The speed of repair cannot keep up with the speed of damage.
 
-## Building details
+## Architectural Details
 
-The hospital corridor is long and the ward is on both sides.
+The corridor of the hospital is very long, with wards on both sides.
 
-Each ward has windows, beds, tables. The windows are high, the patients can see the sky, but the people outside. The end of the corridor is the management area, where the doctors and nurses are there.
+Each ward has a window, a bed, and a table. The windows are high enough that the patient can see the sky but not the people outside. At the end of the corridor is the administration area, where doctors and nurses are.
 
-## Patient records
+## Patient Records
 
-The patient ' s name, age, diagnosis and date of admission are included in the hospital file.
+The hospital's files contain the patient's name, age, diagnosis and date of admission.
 
-Many of the diagnostics are no longer needed today: insanity, depression, dementia, alcoholism. They are not the category of modern medicine, they are the description of the nineteenth century.
+Many diagnoses are no longer used today: mania, depression, dementia, alcoholism. They are not categories of modern medicine but nineteenth-century descriptions.
 
-## Tourism
+## Travel
 
-The hospital now has a ghost house tours.
+The hospital now has “haunted house” tours.
 
-Tours tell ghost stories, tourists take pictures. There are people who come in the day to see architecture and history. Two tours, two narratives.
+The tour guide tells ghost stories and tourists take photos. Some people also come during the day to see the architecture and history. Two visits, two narratives.
 
 The hospital is now a historic site.
 
-Someone comes to shoot ghosts, someone comes to study architecture, someone comes to the family's name. The same place, it's for different purposes.
+Some people come to take pictures of ghosts, some come to learn architecture, and some come to name their families. Same place, different purpose.
 
 ## West Virginia
 
-The hospital is built in the mountains of West Virginia.
+The hospital was built in the mountains of West Virginia.
 
-There are many coal mines, winters, and transport problems. Hospital patients, from the surrounding districts and towns, are brought by their families, or by the police, or by themselves.
+There are many coal mines here, the winter is cold, and transportation is inconvenient. The patients admitted to the hospital come from surrounding counties and towns. Some patients were sent by their families, some by the police, and some came by themselves.
 
 ## Psychiatry
 
-The nineteenth century of psychiatry, still in the early stages.
+Psychiatry in the nineteenth century was still in its infancy.
 
-The hospital has gardens, farms and workshops.
+Doctors believe that environment, air and regular life can cure diseases. The hospital has gardens, farms and workshops. Patients can work, read, and walk.
 
-## Construction protection
+## Building Protection
 
-Hospital buildings are built with local stones.
+The hospital building is made of local stone.
 
-Rocks are heavy, walls are thick. Repairs require cranes, scaffolds and stonemakers. Money is always a problem from where it comes from.
+The stones are heavy and the walls are thick. Restoration required cranes, scaffolding and masons. Where the money comes from has always been a question.
 
 ---
 

@@ -62,45 +62,45 @@ Point Pleasant has a Mothman statue, a museum, and an autumn festival.
 
 It is no longer just a sighting from 1966. It is a local symbol: a small city remembered for a bridge disaster, and a red-eyed shadow flying over the treetops at night.
 
-## The winter of 1966
+## Winter 1966
 
-November 1966, Cape Pleasant.
+November 1966, Point Pleasant.
 
-Two young couples drove past the abandoned TNT district. They later said to the police, "See a giant, human-like, bird-like thing, standing on the side of the road." It had wings, red eyes, flying without sound.
+Two young couples drive through the abandoned TNT area. They later told police they saw a large, human-like, bird-like thing standing on the side of the road. It has wings, red eyes, and makes no sound when it flies.
 
-Over the next few months, there were more reports of sightings. Some said it was chasing cars, some said it was standing on the roof, some said it had no head and had eyes on its chest.
+Over the next few months, reports of sightings mounted. Some said it was chasing cars, some said it was standing on the roof, some said it had no head and eyes on its chest.
 
-These descriptions are not consistent. But red eyes and wings appear again and again, becoming a fixed feature of the moths.
+These descriptions are inconsistent. But "red eyes" and "wings" appear repeatedly and become fixed features of Mothman.
 
-## Kiel's book
+## Keel's Book
 
-In 1975, the writer John Kiel published The Elephant.
+In 1975, author John Keel published The Mothman Prophecy .
 
-## Birds and panic
+## Birds and Panic
 
-The most common interpretation is misperception.
+The most common explanation is misidentification.
 
-No pictures, no feathers, no corpses. The story gets more complete, and the details become more difficult to check.
+All versions lack testable physical evidence, which is why it remains at the level of legend.
 
-The moth man is not just a monster today. It's the introduction to Cape Pleasant: we had a bridge crash here, we had a story of red eyes. It's hard to separate two things when they're put together.
+Mothman is more than just a monster today. It's Point Pleasant's introduction to itself: We've had a bridge disaster here, and we've got a red eye story. When two things are put together, it is difficult to separate them.
 
-Cape Pleasant holds the Galore Day every year. The street sells T-shirts, key buttons, and red-eyed cookies. Silverbridge's wreckage is long gone, but the name of the bridge is still there. Monsters and catastrophes, together, are the memories of the town.
+Point Pleasant hosts the Mothman Festival every year. The streets sell T-shirts, keychains and cookies with red eyes. The wreckage of the Silver Bridge is long gone, but the name of the bridge disaster remains. Monsters and disasters have become the memory of the town.
 
-## Supplementary Notes
+## Supplementary Note
 
-The image of the moth has been rewritten many times by movies and networks. Some have made it foreshadow disaster, others have made it a disaster, and others have turned it into a comedy character. The red eyes of Cape Pleasant have become more blurred. The story has become more popular, and it has a faraway origin.
+The image of Mothman has been rewritten many times by movies and the Internet. Some versions make it predict disasters, some make it cause disasters, and some versions turn it into a comedy character. The red-eyed figure at Pleasant Point became increasingly blurry. The more popular the story, the more distant the origin.
 
-The story of the moths ultimately falls on a simple question: what kind of memory do people need after a disaster in a place? The victims of the Silver Bridge need to be remembered. The moths provide an image that will not fade.
+The story of Mothman ultimately comes down to a simple question: What kind of memories do people need after a disaster strikes a place? The victims of Silver Bridge need to be remembered, and Mothman provides an image that won't fade.
 
-In November 1966, the first pair of witnesses saw a red-eyed human form near Cape Pleasant. They drove after them, and the monsters flew with their wings. After the Silver Bridge accident, there were fewer reports of sightings. In the 1970s, the Man of the Sky became a popular culture. The Man of the Elms was held every year at Cape Pleasant.
+The first pair of witnesses saw a red-eyed humanoid figure near Point Pleasant in November 1966. They chase in a car and the monster spreads its wings and flies away. After the Silver Bridge accident, sighting reports decreased. The Mothman became popular culture in the 1970s. The Mothman Festival is held annually in Point Pleasant. In the museum, there are models, newspaper clippings and T-shirts.
 
-Eyewitnesses of the Man of the Moth, concentrated in November 1966 to December 1967. Some say it appeared to warn of the Silver Bridge accident. That's the story. There's no evidence. After the Silver Bridge incident, the sights were reduced, but the story was left behind.
+Mothman sightings were concentrated between November 1966 and December 1967. Some say it appeared to warn of the Silver Bridge accident. There is no evidence for this statement. After the Silver Bridge accident, sightings declined, but the stories remained.
 
-The red eyes of the moths became a sign. The T-shirts, posters and movies were all that image. It was no longer just a witness, it was a brand.
+The Mothman's red eyes later became a symbol. This image is on T-shirts, posters and movies. It’s no longer just a sighting, it’s a brand.
 
-The model of the moth is displayed in the museum. The tourists take a picture of it. The red-eyed light, a flash. The museum tickets, they sell well.
+A model of Mothman, on display in the museum. Tourists take photos with it. The red-eyed lights flashed on and off. Museum tickets are selling well.
 
-The museum lights, they're still on. The tourists are gone, and it's still there.
+The lights in the museum are always on. The tourists are gone, but it’s still there.
 
 ---
 

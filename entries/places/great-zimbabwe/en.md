@@ -60,99 +60,98 @@ In 1986, Great Zimbabwe became a World Heritage Site.
 
 Today it is the country's most important archaeological site and a symbol of national identity. The walls are weathering, roots are growing, and some sections need reinforcement. Excavation continues, and so does research on the city's population, kingship, and trade.
 
-## Rock City
+## Stone City
 
-Greater Zimbabwe, in southern Zimbabwe.
+Great Zimbabwe, in southern Zimbabwe.
 
-It's a stone town made of granite. The walls are high, some 11 metres high, the stones are large, some tons large. There's no ash between the stones, and they bite by shape.
+It is a stone city built of granite. The walls are very high, some are eleven meters long; the stones are huge, some are several tons. There is no mortar between the stones, they are held together by shape.
 
-## Who built it?
+## Who Built
 
-Greater Zimbabwe is the city of the Shonas.
+Great Zimbabwe is a city of the Shona people.
 
-The Shonahs lived in the Zimbabwe Highlands and built the city. It was the centre of trade, religion and power.
+The Shona people live in the Zimbabwe Plateau and built this city. It was a center of trade, religion and power.
 
-## The colonial denial
+## Colonial Denial
 
-In the nineteenth century, European colonists saw Rock City and did not believe that it had been built by locals.
+In the 19th century, European colonists saw Stone City and did not believe that it was built by locals.
 
-They say it was built by the Arabs, the Phoenicians, or the Queen of Sheba. That is to deny the power of Africans.
+They said it was built by Arabs, Phoenicians or the Queen of Sheba. This statement is meant to deny the capabilities of Africans.
 
 ## Archaeology
+Archaeologists have proven that Great Zimbabwe was built by the Shona people.
 
-Archaeologists have demonstrated that Greater Zimbabwe was built by the Shonas.
+They found pottery, tools, trade items, and residential remains. The age of Stone Town is approximately from the eleventh to the fifteenth century.
 
-They found pottery, tools, trades and residential sites. Rock City was in the 11th to 15th centuries.
+## Decline
 
-## Decay
+Great Zimbabwe, declined in the fifteenth century.
 
-Greater Zimbabwe, Decline in the Fifteenth Century.
-
-Some say overgrazing; others say trade routes change; others say political divisions. The reason is inconclusive.
+Some say it's overgrazing; some say it's a change in trade routes; some say it's political division. The cause is undetermined.
 
 ## Now
 
-Greater Zimbabwe is the UNESCO World Heritage Site.
+Great Zimbabwe is a UNESCO World Heritage Site.
 
-It's a national symbol of Zimbabwe. Rock City's image is on currency, flag and tourism propaganda.
+It is the national symbol of Zimbabwe. The image of Stone Town appears on currency, national flags and tourism promotions.
 
-## Rock
+## Stone
 
-Rock City has no words.
+Stone Town has no writing.
 
-It left behind a name for civilization with walls, towers and stones.
+With its walls, towers and stones, it left a name for civilization.
 
 ## Shona
 
-Greater Zimbabwe is the city of the Shonas.
+Great Zimbabwe is a city of the Shona people.
 
-The Shonas speak the Shonah language and belong to the Bantu language.
+The Shona people speak the Shona language, which belongs to the Bantu language family. They built stone walls, farmed, raised cattle, and smelted iron.
 
-## Trade
+## Trading
 
-Greater Zimbabwe, ITC.
+Great Zimbabwe is a trading center.
 
-It exports gold, ivory and copper, imports glass, china and fabric. Trade networks link the Indian Ocean and inland.
+It exported gold, ivory and copper and imported glass, porcelain and cloth. Trade network linking the Indian Ocean to the interior.
 
 ## Wall
 
-Stone walls are not ordinary walls.
+Stone walls are no ordinary walls.
 
-They are surrounded by mountains, valleys and palaces, with towers, doors and passages on the walls, and there is no ash between the stones, and they are bitten by shape.
+They surround mountaintops, valleys, and palaces. The walls have towers, doors and passages. There is no mortar between the stones, they are held together by shape.
 
-## Protection
+## Protect
 
-Greater Zimbabwe is threatened by culture, tourists and theft.
+Great Zimbabwe, threatened by weathering, tourists and poaching.
 
-Protectors reinforced walls, restricted access, and trained guided tours.
+Protectors strengthen walls, restrict access, and train guides.
 
-## Top of the mountain
+## Top of Mountain
 
-Greater Zimbabwe, with a hilltop building.
+Great Zimbabwe, there is a mountaintop building.
 
-It's built on rocks, with walls, towers and passageways. It could be the King's house or religious site.
+It is built on rock and has walls, towers and passages. It could have been the king's residence or a religious site.
 
-## The big fence
+## Paddock
 
-In the valley, there's a big fence.
+In the valley, there are large paddocks.
 
-It has walls, towers, and passages. The stones on the walls are arranged in patterns.
+It has high walls, towers and passages. Stones on the wall, arranged in patterns.
 
-## Museums
+## Museum
 
-Great Zimbabwe, there's a museum.
+Great Zimbabwe, there is a museum.
 
-The museum has pottery, gold and tools.
+It tells the history, trade and architecture of the Shona people. The museum has pottery, goldware and tools.
 
-Rock City is not a mystery. It's a city built by Africans themselves, but later people don't want to believe it.
+Stone Town is no mystery. It was a city built by Africans themselves, but later generations did not want to believe it.
 
-Rock City exists without any need for colonial recognition. It's there, made of granite, for centuries. Africa's history does not need to be proven.
+The existence of Stone Town does not need to be recognized by the colonists. There it was, built of granite and standing for hundreds of years. Africa’s history does not need to be proven by others.
 
-The wall's still there, the name's there.
+The wall is still there, and so is the name.
 
-Rock City doesn't need an excuse. It's just standing.
+Stone Town needs no justification, it just stands.
 
-Rock City is still there, the story is there.
+Stone City is still there, and so are the stories.
 
 ---
 

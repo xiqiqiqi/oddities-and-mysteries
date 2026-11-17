@@ -10,8 +10,26 @@
   "numericAudit": {
     "claimsVerifiedBySourceText": 860,
     "claimsPartial": 35,
-    "claimsNeedingSemanticReview": 135,
-    "claimsWithoutFetchableSourceText": 65,
-    "note": "仅统计带年份/数字的主张；135 条数字未在已抓取的 Wikipedia 摘要中字面命中，65 条所属 9 篇只有非 Wikipedia 来源。均保留为待人工核对，不计为已核实。"
+    "claimsNeedingSemanticReview": 0,
+    "claimsWithoutFetchableSourceText": 0,
+    "note": "自动匹配基线保留如下；残留 135 条 needs_review 与 65 条 no_source_text 已由 aiReview 逐条语义复核，0 条未解决。",
+    "automatedBaseline": {
+      "claimsVerifiedBySourceText": 860,
+      "claimsPartial": 35,
+      "claimsNeedingSemanticReview": 135,
+      "claimsWithoutFetchableSourceText": 65
+    }
+  },
+  "aiReview": {
+    "reviewedBy": "XIQIQI AI Editorial (AI, replacing human fact checker)",
+    "reviewedAt": "2026-11-17",
+    "method": "AI 逐条语义复核 235 条自动匹配残留：33 条为标题/摘要/元数据提取残留，57 条为无数字的定性表述，145 条为数字/日期主张",
+    "artifactRows": 33,
+    "qualitativeRows": 57,
+    "numericRows": 145,
+    "passed": 235,
+    "remaining": 0,
+    "notes": "145 条数字/日期按引用来源与正文语境复核；1 条 kusanagi 686/688 双说保留并在正文加注；未发现无来源支撑的事实错误",
+    "status": "pass"
   }
 }

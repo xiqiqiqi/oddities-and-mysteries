@@ -70,103 +70,102 @@ A building can do nothing but stand there and still make people uneasy. Eastern 
 
 *Original schematic: the radial cellblock plan, the separate system and the 1829–1971 timeline. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
-## The castle
+## Castle
 
-East State Correctional Facility, in Philadelphia.
+Eastern State Correctional Facility, in Philadelphia.
 
-It was opened in 1829, and it's built like a castle. The walls, towers, arches make it look like a prison, more like a medieval fort.
+It was opened in 1829 and built like a castle. The thick stone walls, towers, and arches make it look less like a prison and more like a medieval fortress.
 
-The designers believe that prisons should not be just people-closing, they should be reflective. The building itself is a tool for punishment and education.
+The designers believe that prisons should not just imprison people, but should also make people reflect. Architecture itself is a tool of punishment and education.
 
-## Alone
+## One Person
 
-The system of the Eastern State Correctional Service is called the “Panthénée system”.
+The system at Eastern State Correctional Facility is called the "Pennsylvania System."
 
-Prisoners are held in solitary confinement, unable to speak to others, cannot look outside, and can only study, work, and reflect.
+Prisoners are held in solitary confinement and cannot talk to other people or look outside. They can only read, work, and reflect. Prison guards walked with socks on to avoid the sound of footsteps. Prisoners were led into cells blindfolded to prevent them from knowing their way around.
 
-This system believes that loneliness is a form of remorse. In fact, it drives a lot of people crazy.
+This system believes that solitude can lead to repentance. In fact, it drives a lot of people crazy.
 
-## Criticism
+## Criticize
 
-In the nineteenth century, reformers in Europe and the United States criticized this system.
+During the nineteenth century, reformers in Europe and the United States criticized this system.
 
-They say that prolonged solitary confinement is not a form of remorse, but of torture. People lose their language, memory and social skills. Prisons should bring people back into society, not turn people into shadows.
+Long-term solitary confinement, they say, is not repentance but torture. People lose language, memory and social skills. Prison should re-enter society, not turn people into shadows.
 
-The Eastern State Correctional Centre, which was subsequently renovated to increase public labour and collective activity, remains a closed and harsh place.
+Dongzhou Correctional Facility was later renovated, adding public labor and collective activities. But it remains a closed, harsh place.
 
-## I've lived in the past
+## People Who Have Lived
 
-Many well-known prisoners have been in prison.
+The prison has housed many famous prisoners.
 
-Al Capone was held here in 1929 for tax evasion. He was given special treatment in prison, with furniture, books and radios.
+Al Capone was imprisoned here in 1929 for tax evasion. He received special treatment in prison, including furniture, books and a radio. Other prisoners don't have this.
 
-The prison also holds robbers, murderers, deserters and mentally ill persons.
+The prison also housed robbers, murderers, deserters and the mentally ill. Everyone's story is different, but the cell is the same.
 
-## The ruins
+## Ruins
 
-In 1971, the prison was closed.
+In 1971, the prison closed.
 
-The building was abandoned, the roof leaked and the walls were removed. Later, it was transformed into a museum and a historic site.
+The building was abandoned, with leaking roofs and peeling siding. Later, it was converted into a museum and historical site. Visitors can walk into the cells and see beds, tables and iron doors.
 
-The ruins are not completely repaired. Some places are preserved and others are supported.
+The ruins have not been fully restored. Some places were left as they were, and some were supported. Visitors can see the traces left by time.
 
-After the prison was closed, the building became a ruin.
+After the prison closed, the building fell into ruins.
 
-The roof leaks, the walls peel, the iron doors rust. The beauty of the ruins attracts photographers and film directors.
+The roof leaked, the walls peeled off, and the iron doors rusted. The beauty of the ruins attracts photographers and film directors.
 
-## Ghost
+## The Ghost
+Dongzhou Correctional Institution is said to be "haunted".
 
-East State teaches all the legends of the “ghosts”.
+Some people said that cries, footsteps and the sound of iron doors closing could be heard in the cell. Some people said they saw the shadow of the prisoner.
 
-Some said that crying, footsteps and iron doors were closed were heard in the cell. Others said that they saw the shadow of the prisoner.
-
-There is no evidence of these stories. But the atmosphere in the prison is heavy, and rocks, iron gates and corridors are easy to imagine.
+There is no evidence for these stories. But the atmosphere of the prison is very heavy, with stones, iron doors and corridors, it is easy to imagine.
 
 ## System
 
-The Eastern State Correctional Service's Pennsylvania system is different from the New York's Omnibus system.
+The "Pennsylvania System" of Eastern State Correctional Facility is different from the "Auburn System" of New York.
 
-The formula allows prisoners to work together during the day and to be separated at night.
+The Auburn system allowed prisoners to work together during the day and be held separately at night. The Pennsylvania system kept prisoners in solitary confinement at all times.
 
-## Construction
+## Architecture
 
-The building of the prison itself is institutional.
+The architecture of the prison itself is the institution.
 
-The cells are small, the windows are high, and the doors are thick.
+The cells are small, with high windows and thick doors. The prisoner cannot see or hear others. Architecture enforces punishment for the system.
 
-## Film
+## Movie
 
-Eastern State correctional facilities appear in a number of films and television dramas.
+Dongzhou Correctional Facility has appeared in many movies and TV series.
 
-The ruins are suitable for the shooting of prisons, psychiatric hospitals, and apocalypse.
+Its ruins are suitable for filming prisons, mental hospitals and apocalyptic scenes. What tourists see is the prison in the movie, not the prison in history.
 
-## Protection
+## Protect
 
-Prisons are now administered by non-profit organizations.
+The prison is now run by a nonprofit organization.
 
-They repair buildings, collect archives, and do educational projects.
+They restore buildings, collect archives, and do educational projects. Income from visits is used for maintenance.
 
-It's a ruin, it's history class.
+A ruin that became a history lesson.
 
 ## Philadelphia
 
-East State Correctional Centre, Philadelphia.
+Eastern State Correctional Facility, Philadelphia.
 
-Philadelphia was the capital of the early days of the United States, with independent halls, freedom clocks, and prisons. The history of cities is bright and dark.
+Philadelphia was the early capital of the United States, with Independence Hall, the Liberty Bell, and a prison. The city's history has both light and darkness.
 
-## Prison reform
+## Prison Reform
 
-Prison reform was a social issue in the nineteenth century in the United States.
+In nineteenth-century America, prison reform was a social issue.
 
-The reformers argue that prisons should reform people, not punish them.
+Reformers argue that prisons should rehabilitate people, not punish them. Dongzhou Correctional Facility was an experiment in this philosophy.
 
-## Tourism
+## Travel
 
 The prison is now a museum.
 
-Tourists can see cells, corridors, and the yard.
+Visitors can view the cells, corridors and courtyards. The tour guide talks about the system, prisoners and reform.
 
-It's a ruin, it's history class.
+A ruin that became a history lesson.
 
 ---
 

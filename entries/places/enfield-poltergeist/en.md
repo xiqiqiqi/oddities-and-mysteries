@@ -78,75 +78,74 @@ An ordinary house, an eleven-year-old girl, the voice of a dead old man. Believe
 
 ## Green Street
 
-Enfield poltergeist, happened in Enfield, north of London.
+Enfield poltergeist, takes place in Enfield, north London.
 
-284 Green Street, an ordinary platoon house. In 1977, the house was occupied by Peggy Hodgeson and her four children.
+284 Green Street is an ordinary row house. In 1977, the residents were Peggy Hodgson and her four children.
 
 ## August 1977
 
-Things start with furniture moving.
+It starts with furniture moving.
 
-The chairs, the tables, the TVs, they move themselves. There's knocks in the wall. The kid says something's in the room.
+Chairs, tables, and TVs will move on their own. There was a knocking sound in the wall. The child said something was in the room.
 
-## Sound
+## The Sound
+The most famous one is "sound".
 
-The most famous one is the Voice.
+A low, hoarse male voice spoke through the girl's mouth. It calls itself "Tom" and says he is a ghost.
 
-A low, dumb man who speaks through the mouth of a girl. He calls himself "Tom," he says he's a ghost.
+The voice said he was "Tom".
 
-That voice said it was "Tom."
+It said it lived in the house and didn't want to leave. Sometimes it sings, sometimes it curses, and sometimes it talks to children.
 
-It says that it lives in the house and doesn't want to go. It sings sometimes, sometimes curses and sometimes talks to children.
+## Investigation
 
-## Investigations
+The Society for Psychic Research (SPR) sent investigators.
 
-The Association for the Study of the Mind (SPR) has an investigator.
+They recorded sounds, movements and sightings. Some say the sound comes from the girl's throat; some say it's ventriloquism.
 
-They recorded voices, movement and sightings. Some said that the sound came from the throat of the girl; others said it was abdominal.
+Investigators recorded sounds and also recorded furniture moving.
 
-Investigators recorded sound and furniture movements.
+They used tape recorders, cameras and thermometers. No unusual temperatures or electromagnetic fields were detected.
 
-They use tape recorders, cameras and thermometers. No abnormal temperatures or electromagnetic fields have been observed.
+## Suspect
 
-## Suspected
+Some people suspected that the girl was playing a prank.
 
-Some suspect that the girl is a prank.
-
-The magicians, journalists and researchers have come. Some say that the voice is fake; others say that the movement is fake.
+Magicians, journalists and researchers have all been here. Some people say that the sound is fake; some people say that the movement is fake.
 
 ## Media
 
-The Enfield incident, widely reported in the media.
+The Enfield incident was widely reported by the media.
 
-The newspapers, televisions and films turn it into “the most famous poltergeist in England.” The more stories spread, the more details.
+Newspapers, TV and movies, turning him into "Britain's most famous poltergeist". The more the story spreads, the more details it adds.
 
-## Explanation
+## Explain
 
-The most common explanation is the child ' s prank and psychological stress.
+The most common explanation is children's pranks and psychological pressure.
 
-Adolescent girls may inadvertently create voices and move objects. Family fears, media attention, make incidents grow.
+Adolescent girls may make sounds and move objects unintentionally. The family's fear and the media's attention made the incident bigger and bigger.
 
-There is no evidence to prove the existence of ghosts, nor is there any evidence to prove that they are all false.
+There is no evidence to prove that ghosts exist, and there is no evidence to prove that it is all false.
 
-## Conclusions
+## In Conclusion
 
 The investigation was inconclusive.
 
-Some say it's a child's prank; others say it's psychological pressure; others say it's a real poltergeist.
+Some say it's a child's prank; some say it's psychological pressure; some say it's a real poltergeist.
 
-No evidence, no explanation.
+There is no evidence and no explanation.
 
-There's no answer to the story, but the house is still there. 284 Green Street, it's still a regular platoon house.
+The story has no answers, but the house remains. 284 Green Street is still an ordinary rowhouse.
 
-Enfield's story ended up as a question of trust. What children say, adults believe in it? What the media say, people believe in it? There's no answer, there's only one house.
+Enfield's story turns out to be a question of trust. Do adults believe what children say? Do the public believe what the media says? There are no answers, just a house.
 
-The house is still there, the story is still there. Believe it or not, it's everyone's choice.
+The house is still there, the story is still there. Believe it or not is everyone's choice.
 
-The rest is a house and a recording.
+What's left is a house and a recording.
 
-## Archives
+## File
 
-The event lasted from August 1977 to 1979. Toys, furniture, and cutlery were moved, sometimes flying in the air. 11-year-old girls were the focus.
+The events lasted from August 1977 to 1979. Toys, furniture, and dishes were moved and sometimes flew through the air. The 11-year-old girl takes center stage.
 
 ---
 

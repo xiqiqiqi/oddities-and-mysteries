@@ -82,13 +82,13 @@ Sometimes an error tells a better story than the fact.
 
 ## 1877
 
-In 1877, an Italian astronomer, Giovanni Skiaparelli, observed Mars.
+In 1877, Italian astronomer Giovanni Schiaparelli observed Mars.
 
-He saw the "channels" on the surface of Mars. He called them "canali" in Italian, meaning "coughs."
+He saw "channels" on the surface of Mars. He called them "canali" in Italian, which means "ditch."
 
 ## Lowell
 
-Pacival Lowell, an American astronomer.
+Percival Lowell, American astronomer.
 
 He believed that there was civilization on Mars. He built an observatory and drew a map of Mars.
 
@@ -96,63 +96,63 @@ Lowell, American astronomer.
 
 He believed that there was civilization on Mars. He built an observatory and drew a map of Mars.
 
-Lowell believes that there is civilization on Mars.
+Lowell believed there was civilization on Mars.
 
 He drew maps and wrote books.
 
-## Canal heat
+## Canal Fever
 
-The “Mars Canal” became a hot topic.
+"Mars canals" became a hot topic.
 
-The papers, novels, movies are all about the Martians. Mars is another planet.
+Newspapers, novels, and movies all talk about Martians. Mars became "another Earth."
 
-## Opposition
+## Opponent
 
 Some astronomers object.
 
-They said that there was no canal on the surface of Mars, but only craters and valleys.
+They say there are no canals on the surface of Mars, only craters and valleys.
 
-## Detectors
+## Detector
 
-In the 1960s, the probe flew over Mars.
+In the 1960s, probes flew by Mars.
 
-They don't see the canal. Mars is a dry, cold, lifeless planet.
+They didn't see the canal. Mars is a dry, cold, lifeless planet.
 
-In the 1960s, the probe flew over Mars.
+In the 1960s, probes flew by Mars.
 
 They didn't see the canal.
 
-## Why did you see that?
+## Why Saw
 
-The human eye connects points and lines in low resolution.
+At low resolution, the human eye connects dots and lines.
 
-The craters, valleys and shadows on the surface of Mars are seen as “canals”.
+The craters, valleys and shadows on the surface of Mars are seen as "canals".
 
 ## Mars
 
-Mars has no canal.
+Mars has no canals.
 
 But Mars is still an interesting place.
 
-Mars, one of the closest planets to the Earth.
+Mars is one of the planets closest to Earth.
 
-It's got atmosphere, seasons, and crowns. Astronomers have been looking for life on Mars.
+It has an atmosphere, seasons and polar caps. Astronomers have always wanted to find life on Mars.
 
-## Supplementary Notes
+## Supplementary Note
 
-The Mars Canal was a misunderstanding.
+Mars Canals is a misunderstanding.
 
-Kiaparelli saw the “channel”, which was translated into the “canal”.
+Schiaparelli saw "channel," which others translated as "canal."
 
-One word, become a civilization.
+One word becomes a civilization.
 
-## Archives
+## File
 
-In 1877, Italian astronomer Skiaparelli called the line on Mars “canali”. The English translation was “canals”, and there was “Mars Canal”. Loell believed that the Canal was an engineering project for intelligent life. The probe was later filmed in the wilderness.
+In 1877, Italian astronomer Schiaparelli called the lines on Mars "canali." The English mistranslation was "canals", hence the name "Mars Canals". Lowell believed the canal was the work of intelligent life. What the detector later photographed was nothing but wasteland.
 
-Skeaparelli later denied that he was talking about the Canal. But the English-language newspaper had used the word “canals”, which could not be changed.
+Schiaparelli later denied he was referring to the canal. But English newspapers have already used "canals" and the word cannot be changed back.
 
-Today, the Mars probe is still looking for water, not the canal.
+Today, Mars rovers are still looking for water, not canals.
 
 ---
 

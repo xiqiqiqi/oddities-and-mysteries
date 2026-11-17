@@ -66,49 +66,47 @@ Visitors queue to drive to the marker and experience a few seconds of “anti-gr
 
 It is not an unsolved mystery. It is more like a public visual experiment: which do you trust, your eyes or your inner ear?
 
-## There's more than one magnetic mountain
+## More Than One Magnetic Mountain
 
-Magnetic Hills is not a name for a place, but for a category of places.
+"Magnetic Mountain" is not the name of a certain place, but the name of a type of place.
 
-Canada, the United States, Australia, the United Kingdom, and Japan have similar sections. Tourists park their cars at the bottom of the slope, hang them open, and they walk back slowly, looking like they're being pulled up by an invisible force. Water falls on the road, and they're “upstream”.
+Canada, the United States, Australia, the United Kingdom, and Japan all have similar sections. When tourists park their cars at the bottom of the slope and put them in neutral, the car will slowly move backwards, as if it is being pulled up the slope by an invisible force. When water is poured on the road, it will "flow upward".
 
-Most of these places have one thing in common: a road that looks clearly tilted around open fields, trees, or mountains. There is no horizontal reference in the horizon.
+Most of these places have one thing in common: a road that appears to be significantly sloping, surrounded by open fields, woods, or mountains. There is no horizontal reference in sight.
 
-## How do you do that?
+## How to Do Experiments
 
-To determine whether a road is a “magnetic mountain”, the approach is simple, but needs to leave the driver's seat.
+Determining whether a road is a "magnetic mountain" is easy, but it requires getting out of the driver's seat.
 
-Pull the car over the flat floor and measure the true slope of the road surface using horizontal measures; record the height of the starting and end points with GPS or measuring poles; close your eyes, or cover the surrounding scenes with a screen, and let the car slide. If you block the line, the car is no longer “uphill”, the problem is not the magnetic, but the eye.
+Park the car on level ground and use a level to measure the true slope of the road; use a GPS or measuring pole to record the height of the starting point and end point; close your eyes or use a baffle to cover the surrounding scenery, and then let the car slide. If the car no longer "goes uphill" after blocking the line of sight, the problem is not with the geomagnetism, but with the eyes.
 
-The other way is to look at water. Water doesn't lie. It flows in the direction of real gravity. If it looks up, it's mostly a ditch on the side of the road, a stripe and a long slope.
+Another idea is to look at the water. Water doesn't lie, it flows in the true direction of gravity. If the water seems to be flowing upward, it is probably because the ditch on the roadside, the road texture, and the slope in the distance are deceiving the eye.
 
-## Why did you fall for it?
+## Why are the Eyes Deceived?
 
-People judge “up” and “down”, not only by the front court system, but also by reference from the horizon.
+People's judgment of "up" and "down" depends not only on the vestibular system, but also on reference objects in the field of vision.
 
-When the near ground is tilted, and the distant tree or mountain line forms the opposite angle, the brain synthesizes the two in a wrong direction. You think you're looking at an uphill road, and you actually see an image that is twisted by the background.
+When the nearby ground slopes and the distant tree line or mountain line forms an opposite angle, the brain will combine the two into a wrong direction. You think you're looking at an uphill road, but what you're actually seeing is an image distorted by the background.
 
-This illusion is more evident when driving. The body provides a horizontal line, the windshield provides a vision, and the two do not agree, and the brain chooses a more “reasonable” explanation.
+This illusion is even more pronounced while driving. The car body provides a horizontal line, and the windshield provides a distant view. If the two are inconsistent, the brain will choose a more "reasonable" explanation.
 
-## Tourism and physics
+## Travel and Physics
 
-Magnetic mountains are mostly tourist destinations.
+Magnetic Mountain has mostly become a tourist attraction.
 
-There are signs on the side of the road that say, "Exist gravity anomalies," some of them sell certificates and souvenirs. Visitors line up to stop the car, watch it walk themselves, and take pictures. No one really believes there's a magnet mine, but everyone wants to play once.
+There are signs on the roadside that say "Experience Gravity Abnormality", and some even sell certificates and souvenirs. Tourists lined up to stop the car, watch it "walk on its own", and then take photos. No one really believed there was magnetite there, but everyone was willing to play it once.
 
-Physics doesn't disappear, it's just wrapped into a game. A delusion, if it's right, and it's a story, can turn a normal path into a site.
+Physics has not disappeared, it has just been packaged into games. An optical illusion, with the right location and a good story, can turn an ordinary road into an attraction.
 
-## Supplementary Notes
+## Supplementary Note
 
-Magnetic Mountain is popular because it provides an "aberration" that can be experienced in person. You don't need to read the paper. You just have to stop the car, let the brakes go, watch it move. The experience is more convincing than the explanation. Even if someone tells you it's a delusion, you're gonna want to try it again.
+Magnetic Mountain is popular because it provides an "anomaly" that can be experienced in person. You don't need to read a paper, just stop the car, release the brake, and watch it move. Experience speaks louder than explanation. Even if someone tells you it's an illusion, you'll still want to try again.
 
-## Location of the archives
+## Archive Location
+Magnetic Mountain is one of the few anecdotes that can be debunked on the spot. All you need is a level, a car, and a friend willing to get some shut eye. After the experiment is completed, the mystery will not disappear completely, because it is not in physics, but in experience. People like to be deceived by their own eyes once, as long as the deception is safe this time.
 
-Magnetic mountains are a few of the things that can be defaced on the spot. You just need to bring a horizontal machine, a car, and a friend who wants to close his eyes. The mystery doesn't disappear completely after the experiment, because it's not in physics, but in experience. People like to be fooled once by their own eyes, as long as it's safe.
-
-## Memory
-
-If you go to Magnetic Hill for an experiment, you'd better bring three things: a horizontal instrument, a ball, and a blindfold. The horizontals tell you the true angle of the road, the ball tells you where gravity rolls, the blindfold tells you how important it is. When all three points to the same conclusion, the mystery is gone. But you'll still admit that that road was really fun.
+## Further Notes
+If you go to Magnetic Mountain to do experiments, it is best to bring three things: a level, a ball and an eye mask. The level tells you the true angle of the road, the ball tells you which way gravity rolls, and the blindfold tells you how important your eyes are. When all three things point to the same conclusion, the mystery is gone. But you will still admit that the journey just now was indeed fun.
 
 ---
 

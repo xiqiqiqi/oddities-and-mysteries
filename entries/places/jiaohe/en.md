@@ -64,99 +64,99 @@ The ruins are open to visitors, but many areas are fenced off. Loess is fragile;
 
 It looks like an abandoned city, but it is closer to a huge sculpture slowly weathering away. The city was dug out of the earth, and the wind and rain are digging it back in.
 
-## Two rivers
+## Two Rivers
 
-To the town of Xinjiang.
+Jiaohe Ancient City is in Turpan, Xinjiang.
 
-It was built on the towers between the two rivers. The river flows through them, cutting the ground into an island. The name of the city comes from these two rivers.
+It is built on a terrace between two rivers. The river flows through both sides, cutting the mesa into an island. The city's name comes from these two rivers.
 
-## Dig down
+## Dig Down
 
-And the town of the river is a city of “draw down”.
+The old city of Jiaohe is a "digging down" city.
 
-The building is not made of bricks, but is dug out of the earth. The craftsmen dig out the streets, then the houses, the courtyards, and the temples. The earth is solid, hard, standing.
+The buildings are not made of bricks but dug out of the earth. Craftsmen dug out streets first, then houses, courtyards and temples. The soil is compacted, hard and able to stand.
 
-## Who lives?
+## Who Lives
 
-The town of the river, once the capital of the country where the driver was.
+The ancient city of Jiaohe was once the capital of Cheshiqian Kingdom.
 
-Then Tang Dynasty set up the Ancide House. It was also a site on the Silk Road, passing through the merchants, monks and the army.
+Later, the Tang Dynasty established the Anxi Protectorate here. It was also a stop on the Silk Road, passed by caravans, monks and armies.
 
 ## Abandoned
 
-To the town of the river, abandoned in the 14th century.
+The ancient city of Jiaohe was abandoned in the 14th century.
 
-Some say it's war; others say it's water; others say it's Mongolia. The city is abandoned and slowly buried in the sand.
+Some people say it was the war; some people said it was the water source; some people said it was the Mongolian Western Expedition. The city was abandoned and slowly buried under the wind and sand.
 
 ## Climate
 
-- Tolupin's dry, hot.
+Turpan is very dry and hot.
 
-The annual rainfall is low and the evaporation is high. The earth is built in a dry environment for a long time. But the wind grinds the walls and sands the streets.
+Annual rainfall is low and evaporation is high. Mud buildings can last for a long time in a dry environment. But wind can also wear away walls and sand can bury streets.
 
 ## Silk Road
 
-The town of the river is a node of the Silk Road.
+Jiaohe Ancient City is a node on the Silk Road.
 
-From here to the west, it's a patch, a tortoise, a tortoise, a torque, and to the east, it's a hami, a ton of glory. The merchants are here to supply, rest, trade.
+From here to the west are Yanqi, Qiuci and Shule; to the east are Hami and Dunhuang. Caravans resupply, rest, and trade here.
 
 ## Now
 
-The city of Tossi is the world cultural heritage.
+Jiaohe Ancient City is a world cultural heritage.
 
-Visitors can see streets, houses, temples and walls.
+Visitors can see streets, houses, temples and city walls. Some areas were restored and some were left intact.
 
-## Tokuchi
+## Tucheng
 
-An earthy city, no bricks, no stones.
+An earth city with no bricks or stones.
 
-It has stood for more than a thousand years on earth, on climate and on human hands.
+It has stood for more than a thousand years relying on soil, climate and human hands.
 
 ## Driver
 
-The town of the river is the capital of the country where the driver was first.
+The ancient city of Jiaohe was originally the capital of Cheshiqian Kingdom.
 
-The drivers live in the Tolujin Basin, growing fields, grazing, trading. The river is their political and military centre.
+The Cheshi people live in the Turpan Basin, farming, grazing, and trading. Jiaohe is their political and military center.
 
-## Don
+## Tang
 
-Tang Dynasty is building the Ancide Conservatory.
+The Tang Dynasty established the Anxi Protectorate in Jiaohe.
 
-The Tang Dynasty’s army, officials and businessmen are stationed here, moving around.
+The troops, officials and businessmen of the Tang Dynasty were stationed and communicated here. There are government offices, temples, markets and residential buildings in the city.
 
-## Construction
+## Architecture
 
-The building of the river, it's dug out.
+The buildings that cross the river were dug out.
 
-The streets are lower than the ground and the houses are dug out of the ground. The walls are thick, the doors are small, the windows are high. This design is designed to protect against wind, sun, sand.
+Streets are lower than the ground and houses are dug out of the earth. The walls are thick, the doors are small, and the windows are high. This design can prevent wind, sun and sand.
 
-## Wind sand
+## Windy Sand
 
-The wind in Toluix is great.
+The wind in Turpan is very strong.
 
-The wind blows the sand into the streets, grinds the walls. After the city is abandoned, the sand slowly burys it.
+The wind blew sand into the streets, wearing away the walls. After the city was abandoned, wind and sand slowly buried it.
 
-## Buddha Temple
+## Buddhist Temple
 
-To the city of the river, there is a temple and a pagoda.
+In Jiaohe Ancient City, there are Buddhist temples and pagodas.
 
-Buddhists travel from India to the west, and the river is one of the sites.
+Buddhism spread from India to the Western Regions, and Jiaohe was one of the stops. There are Buddha statues, murals and monks' rooms in the temple.
 
-## Cemetery
+## Tomb
 
-Outside the city, there's a graveyard.
+There are tombs on the terrace outside the city.
 
-The tombs contain pottery, copper, silk and food. They show that the people who make the river believe in life after death.
+The tomb contained pottery, bronzes, silk fabrics and food. They show that people who cross the river believe there is life after death.
 
-## Protection
+## Protect
 
-The town of the river is under threat from windstorms and tourists.
+Jiaohe Ancient City is threatened by sandstorms and tourists.
 
-Protectors reinforced walls, cleared sand, restricted access.
+Protectors strengthen walls, clear sand, and restrict access.
 
-The water that turns the river flows from both sides. The city is abandoned, the river is still there, but it's just a different direction.
+The water of the Jiaohe River once flowed from both sides. The city is abandoned, but the river is still there, just in a different direction.
 
-When the city was abandoned, the sand slowly buried the streets and houses. Today, the people dug up the sand, and saw a city without roofs. It didn't disappear, but in a different way.
+After the city was abandoned, wind and sand slowly buried the streets and houses. People today dig through the sand and see a city without a roof. It doesn't disappear, it just exists in a different way.
 
 ---
 

@@ -76,65 +76,64 @@ What those 39 people believed in did not return. Their story remains as a remind
 
 *Original schematic: the timeline from the 1970s to 1997 and the relation between the comet and the group's beliefs. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
-## The house
+## House
 
 Heaven's Gate is a religious group.
 
-In the 1970s, they lived in various parts of the United States and moved to a house in Santa Fe, Rancho, California. The house was large, with swimming pools, gardens and rooms.
+During the 1970s, they lived across the United States before moving to a house in Rancho Santa Fe, California. The house is huge with swimming pool, garden and rooms.
 
-## Two people
+## Two People
 
-The group was founded by Marshall Apurwhite and Bonnie Knightner.
+The group was founded by Marshall Applewhite and Bonnie Knightner.
 
-April White was a music teacher and Knightner was a nurse. They believed that they represented aliens.
+Applewhite was a former music teacher and Knightner was a nurse. They believe that they are representatives of aliens.
 
-## Pedagogic
+## Doctrine
 
-The teachings mix Christian, UFO and New Age thinking.
+The teachings are a mixture of Christianity, UFO and New Age thought.
 
-They believe that the Earth is about to be destroyed and that only by leaving it can they be saved. They believe that UFOs will come to pick them up.
+They believe that the earth is about to be destroyed and that they can only be saved by leaving the earth. They believed that UFOs were coming to pick them up.
 
-The teachings of the gates of heaven blend Christian, UFO and new-age ideas.
+The teachings of Heaven's Gate are a mixture of Christianity, UFOs, and New Age thought.
 
-They believe that the planet is about to be destroyed and that only by leaving it can it be saved.
+They believe that the earth is about to be destroyed and that they can only be saved by leaving the earth.
 
 ## Comet
 
-In 1997, the Heir-Porp comet appeared.
+In 1997, comet Hale-Bopp appeared.
 
-The group believes that there is a ship behind the comet. They decide to leave when the comet is brightest.
+The group believes there is a spaceship behind the comet. They decided to leave when the comet was at its brightest.
 
-Comet's gone.
+The comet is gone.
 
-The people in the house, they didn't come back.
+The people in the house did not come back.
 
-Hale-Pop comet, came in 1997.
+Comet Hale-Bopp, 1997.
 
-It's bright and visible. The group believes there's a ship behind the comet.
+It is bright and visible to the naked eye. The group believes there is a spaceship behind the comet.
 
-In 1997, the Heir-Porp comet appeared.
+In 1997, Comet Hale-Bopp appeared.
 
-The group believes that there is a ship behind the comet.
+The group believes there is a spaceship behind the comet.
 
-## Death
+## Die
 
 In March 1997, 39 members committed suicide in the house.
 
-They were dressed in the same clothes and laid on the same bed. They believed that they could leave the Earth.
+They were wearing the same clothes and lying on the same bed. They believe that they can leave the earth in this way.
 
-39 members, commit suicide in the house.
+39 members, committed suicide in the house.
 
-They were wearing sports clothes, covered in purple cloth, with luggage. They believed that it was "leave."
+They were wearing sportswear, covered with purple cloth, and had luggage beside them. This, they believe, is "leaving."
 
-39 members, commit suicide in the house.
+39 members, committed suicide in the house.
 
-They were dressed in the same clothes, lying on the same bed.
+They were wearing the same clothes and lying on the same bed.
 
-## After
+## Aftermath
+The deaths shocked America.
 
-Death shocked the United States.
-
-Media discussions on “Brainwashing” by “the cult” and “UFO” by the group's websites, videos and letters were made public.
+The media discusses "cults", "brainwashing" and "UFOs". The group's website, videos and letters were released.
 
 The group disappeared.
 
@@ -146,63 +145,62 @@ The website is still there, the video is still there.
 
 ## UFO
 
-The teachings of the gates of heaven, mixed with UFO culture.
+The teachings of Heaven's Gate, mixed with UFO culture.
 
-They believe that aliens exist and that the Earth will be cleared. They believe that they are the next level.
+They believe that aliens exist and the earth will be cleaned up. They believe they are "next level" people.
 
 ## Media
 
-The media have written death as “a cult suicide”.
+The media described the death as "cult suicide."
 
-Journalists, writers, documentary directors, all come. Pictures of the house, news images.
+Journalists, writers, documentary directors, all came here. Photos of the house became news images.
 
-The media have written death as “a cult suicide”.
+The media described the death as "cult suicide."
 
-Journalists, writers, documentary directors, all come.
+Journalists, writers, documentary directors, all came here.
 
-## The story
+## Story
 
-The story's still there.
+The story is still there.
 
-## Memory
+## Further Notes
+Heaven's Gate is a story about expectations.
 
-The door of heaven is a story about expectations.
+They are looking forward to the spaceship, looking forward to leaving, looking forward to a new world.
 
-They look forward to the ship, to leaving, to a new world.
+Comet comes and goes. The spaceship didn't come.
 
-The comet's here, he's gone. The ship's not here.
+## At Last
 
-## And finally
+Heaven's Gate, no waiting for the spaceship.
 
-Heaven's Gate, not waiting for the ship.
+39 people, died in the house.
 
-39 people, dead in the house.
+The comet is gone, but the story remains.
 
-The comet's gone, the story stays.
+## Remember Again
 
-## Remember
+Heaven's Gate is a story about expectations.
 
-The door of heaven is a story about expectations.
+They are looking forward to the spaceship, looking forward to leaving, looking forward to a new world. Comet comes and goes. The spaceship didn't come.
 
-They look forward to the ship, to leaving, to a new world. Comets come and go. The ship doesn't come.
+The comet left, but the spaceship did not come. 39 people, remained in the house.
 
-The comet's gone, the ship's not coming. 39 people, stay in the house.
+They believed that the spaceship would come, that the comet was the door. The door didn't open, but the story stayed in the news.
 
-They believe the ship will come, they believe the comet is the door. The door didn't open, but the story stayed on the news.
+The door is not opened, the story is not closed.
 
-The door didn't open, the story didn't matter.
-
-## Final
+## Final Note
 
 The door didn't open.
 
-39 individuals, stay in the house.
+39 people, remained in the house.
 
-Comet's gone.
+The comet is gone.
 
-## Archives
+## File
 
-In March 1997, 39 members of the Gate of Heaven died in San Diego, California. They believed that there was a ship behind the comet.
+In March 1997, 39 Heaven's Gate members died in San Diego, California. They believed that there was a spaceship behind the comet.
 
 ---
 

@@ -62,53 +62,52 @@ The discovery of brine pools changed the way people imagined the seafloor. It is
 
 They occur in the Gulf of Mexico, the Red Sea, the Mediterranean, and elsewhere, in different sizes. Each is a closed chemical world, and what happens beneath the interface can only be seen with submersibles and sensors.
 
-## Lake of the sea floor
+## Lake Under the Sea
 
-The halogen basin is the “lake” of the seabed.
+A brine pond is a "lake" on the seabed.
 
-They appear at the bottom of the sea floor at low depths, where there is oversalinized water. High salinity, density, halogen water does not mix with the seawater above, but is deposited at the bottom, forming a clear interface.
+They occur in low-lying areas of the ocean floor that contain ultra-high-salinity water. With high salinity and high density, the brine will not mix with the seawater above, but will sink to the bottom, forming a clear interface.
 
-From the submersible, the halogen pool is like a black lake with a white salt bank on the edge. The fish swim to the edges and escape because they're dead.
+Viewed from a submersible, the brine pool looks like a black lake with white salt shores on the edge. Fish that swim to the edge will avoid it because if they get in, they will die.
 
 ## Salt
 
-The salinity of halogen is several times that of ordinary seawater.
+The salinity of brine is several times that of ordinary seawater.
 
-High salt makes water dense and it makes it difficult for organisms to regulate infiltration pressure. Most marine organisms enter halogenated water and the water in their bodies is sucked away, cells dehydrate and die soon.
+High salt density makes water dense and makes it difficult for organisms to regulate osmotic pressure. After most marine organisms enter brine, the water in their bodies will be sucked away, their cells will become dehydrated, and they will die quickly.
 
-There are also some special microbes in the halogen basin that adapt to high salt and survive on chemical grounds. For them, halogen is not toxic, it's home.
+There are also some special microorganisms in brine pools that are adapted to high salt and rely on chemical energy to survive. For them, brine is not poison, it is home.
 
 ## Red Sea
 
-Atlantis II of the Red Sea is a famous halo pool.
+The Atlantis II abyss of the Red Sea is a famous brine pool.
 
-In the 1960s, researchers found high temperatures and high salt halogen. The temperature was 60 degrees, the salinity was extremely high, and the metal was contained. When the submersible went down, the instrumentation was corroded.
+In the 1960s, researchers discovered high-temperature, high-salt brine there. The temperature can reach over sixty degrees, the salinity is extremely high, and it contains metals. When the submersible goes down, the instruments will be corroded.
 
-The name of the abyss comes from the legendary Atlantis, not because there are cities there, but because it is like a sinking, extreme world.
+The name of this abyss comes from the legendary Atlantis, not because there is a city there, but because it resembles a sunken, extreme world.
 
 ## Mediterranean
 
-There are also halogenated pools in the Mediterranean Sea.
+There are also brine pools in the Mediterranean.
 
-In the 2010s, researchers discovered several halogen lakes on the Mediterranean seabed, some hundreds of metres deep and large in size. They formed millions of years ago when the Mediterranean was dried up, the saline was deposited, the sea water was refilled and the salt dissolved.
+In the 2010s, researchers discovered multiple brine lakes on the Mediterranean seafloor, some hundreds of meters deep and very large. They were formed millions of years ago when the Mediterranean Sea dried up and salt deposits were deposited, which were later dissolved by sea water.
 
-These halogen pools are time capsules that preserve chemical information about ancient seawater.
+These brine pools are like time capsules, preserving the chemical information of ancient seawater.
 
-## Extreme life
+## Extreme Life
 
-Halogen basins are research sites for extreme life.
+Brine pools are research sites for extreme life.
 
-The microbes here do not need sunlight, they survive on the chemical response of sulphur, iron, methane. They live very slowly, with very low metabolic rates, but can last thousands of years.
+The microorganisms here do not need sunlight and rely on chemical reactions of sulfur, iron, and methane to survive. They live very slowly and have a low metabolic rate, but they can last for thousands of years.
 
-If there's similar halo water in the ocean under Mars or Europa, there's life there. Blood falls and halogen pools, pushing the question of what life needs to go further.
+If the subglacial oceans of Mars or Europa had similar brine, there might be life there too. Blood waterfalls and brine pools push the question of "what is needed for life" further.
 
-## Supplementary Notes
+## Supplementary Note
 
-The names of the halogen ponds come from a lake. They're not lakes, they're low-lying areas of the sea floor, they're chemical stratifications of salt and water. One name links the ocean to the land, and it links extreme environments to everyday experience. Naming is an understanding.
+Brine ponds get their name from the fact that they resemble lakes. But they are not lakes, they are depressions on the ocean floor, chemical stratifications of salt and water. A name connects ocean and land, extreme environments and everyday experiences. Naming itself is a kind of understanding.
 
-## Location of the archives
-
-The halogen basin is a "sea floor geography" file. It puts a lake, salt, death and life in the same picture. One place looks like a lake, actually a chemical boundary beneath the seawater. Within the boundary, it is another life.
+## Archive Location
+The brine pool is a file of the "Undersea Geography" category. It puts lake, salt, death and life in the same picture. What looks like a lake is actually a chemical boundary beneath the ocean water. Within the boundaries, there is another life.
 
 ---
 

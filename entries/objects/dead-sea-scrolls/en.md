@@ -66,69 +66,67 @@ It is a white domed building with a dark interior, where the Great Isaiah Scroll
 
 They did not overturn the Bible or solve every mystery. What they did was put the people who copied, read, and hid these texts two thousand years ago back into history.
 
-## The shepherd
+## Shepherd
 
-In 1947, a Bedouin shepherd discovered a scroll in a cave near the Dead Sea.
+In 1947, a Bedouin shepherd discovered the scroll in a cave near the Dead Sea.
 
-He thought it was leather, and then took some pieces to the shoemaker in Bethlehem. The shoemaker found words on them and the news reached the scholars.
+Thinking it was leather, he took some fragments to a shoemaker in Bethlehem. The shoemaker found writing on it, and the news reached the scholar.
 
-## Caves
+## Cave
 
-The team found more scrolls and fragments in 11 caves near Qumran.
+Archaeological teams found more scrolls and fragments in eleven caves near Qumran.
 
-Some caves are shallow, some are on cliffs. The scrolls are packed in pottery cans, and the cans are sealed with caps. The caves are dry and the scrolls are preserved.
+Some caves are shallow and some are on cliffs. The scroll was placed in an earthenware jar, and the mouth of the jar was sealed with a lid. The caves dried and the scrolls were preserved.
 
-## Contents
+## Content
 
-The scrolls include Bible texts, notes, laws, poetry and community rules.
+The scrolls include biblical texts, commentaries, laws, poetry, and community rules.
 
-The most famous are the Saiyan Books, which are seven metres long, which preserve their integrity. And the Community Rules, War Book, Thanksgiving poems. They are not the same author, nor are they the same book.
+The most famous is the Scroll of Isaiah, seven meters long and perfectly preserved. There are also "Community Rules", "War Volume" and "Thanksgiving Poems". They do not belong to the same author, nor do they belong to the same book.
 
-## Who wrote it?
+## Who Wrote
 
-Residents of Qumran, probably Essenes.
+The inhabitants of Qumran were probably Essenes.
 
-They are a Jewish community, living near the Dead Sea, living as a group. Some say that the scrolls are their library; others say that they are left behind by fleeing Jews.
+They are a Jewish sect that lives near the Dead Sea and lives a communal life. Some people say that the scrolls are their library; some people say that they were left behind by the fleeing Jews.
 
 ## Fake
 
-The scroll market has a lot of fakes.
+There are many fakes in the scroll market.
 
-Some fragments are later written and are faked with old leather. Museums and collectors are misled.
+Some fragments were written later and forged from old leather. Museums and collectors have been fooled. Identification requires carbon dating, microscopic analysis and testing of ink composition.
 
 ## Now
 
-The scrolls were displayed in Israeli museums and in Jordanian museums.
+The scrolls are on display in the Israel Museum and the Jordanian Museum.
 
-They're digitized, and they can be viewed online. Debris is combined, translated, studied.
+They are digitized and can be viewed online. The fragments were pieced together, translated, and studied.
 
-The Dead Sea scrolls show us that Bible texts are not one-time in shape, but are changing in circulation.
+The Dead Sea Scrolls allow us to see that the biblical text was not formed at once, but changed as it spread.
 
-## Text
+## The Text
+There are differences between the biblical text in the scroll and the later Masoretic text.
 
-There is a difference between the Bible text in the scrolls and the later Masora text.
-
-These differences show the researchers how the Bible text is changing in circulation. It's not written once, it's copied, modified and edited.
+These differences allow researchers to see changes in the biblical text as it spreads. It was not written in one sitting but transcribed, revised and edited.
 
 ## Community
 
-The life of the Qumran community is written in the Community Rules.
+The life of the Qumran community is written in the "Community Rules".
 
-The rules include membership, diet, prayer, property and punishment. It is a strict religious group, not a common village.
+Rules included initiation, food, prayers, possessions, and punishments. It is a strictly religious group, not an ordinary village.
 
-## Numbers
+## Number
 
-The scrolls are digitized and open to the public.
+The scrolls were digitized and made available to the public.
 
-Researchers can view high-resolution images online, without going to museums. Digitalization makes debris easier to collide, and allows more people to participate in research.
+Researchers can view high-resolution images online without going to a museum. Digitization makes it easier to put the pieces back together and allows more people to participate in research.
 
-## Summing up
+## Summing Up
+The Dead Sea Scrolls are not a book.
 
-Dead Sea scrolls, not a book.
+It is a collection of books, fragments and community records. They come from different authors and different eras.
 
-It's a collection of books, fragments and community records. They come from different authors, from different ages.
-
-The scrolls show us that Bible texts are changing in circulation. It's not a fixed version, it's a process.
+The scrolls allow us to see how the biblical text changed as it circulated. It's not a fixed version, it's a process.
 
 ---
 

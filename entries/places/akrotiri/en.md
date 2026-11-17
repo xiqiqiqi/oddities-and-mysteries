@@ -84,61 +84,59 @@ The volcano is still there. The Santorini caldera is active, and its last erupti
 
 Akrotiri, on the Greek island of Santorini.
 
-Santorini is a volcanic island shaped like a month of teeth. There are white villages, black beaches and bluetop churches.
+Santorini is a volcanic island shaped like a crescent moon. There are white villages, black sand beaches and blue-domed churches on the island.
 
 ## 1967
 
-In 1967, the archaeologist Spirizon Marinatos began digging in Akrotiri.
-
-He found a bronze-era town, buried in ash. The town was well preserved, with streets, houses, murals and pottery.
+He found a Bronze Age town buried under volcanic ash. The town is well preserved with streets, houses, murals and pottery.
 
 ## Street
 
-Town streets, stoned.
+The streets of the town are paved with stone slabs.
 
-There are two floors, with windows, doors and storage rooms.
+The house has two floors with windows, doors and storage rooms. Some houses have bathrooms, kitchens and courtyards.
 
-## Fresco
+## Mural
 
-Akrotiri's mural. It's famous.
+The murals in Akrotiri are very famous.
 
-There are fishermen, fleets, women, monkeys and landscapes. They're colorful, they're loose lines. They're not decorations, they're important works of Minos culture.
+There are fishermen, fleets, women, monkeys and landscapes. The colors are bright and the lines are smooth. They are not decorative, but important works of Minoan culture.
 
-## Spray
+## Erupt
 
-Montaline Volcano, erupting around 1600 B.C.
+Santorini volcano, erupted around 1600 BC.
 
-The eruption destroyed the islands and could affect civilization in the eastern Mediterranean. Akrotiri was buried in ash, like Pompey.
+The eruption destroyed islands and may have affected civilizations in the eastern Mediterranean. Akrotiri is buried in volcanic ash, like Pompeii.
 
-## Nobody
+## No One
 
-Akrotiri found no body.
+No bodies were found in Akrotiri.
 
-Residents may have left before the eruption. They took valuables and left furniture and murals behind.
+Residents may have evacuated before the eruption. They took away valuables and left behind furniture and murals.
 
 ## Atlantis
 
-Someone linked Akrotiri to Atlantis.
+Some people associate Akrotiri with Atlantis.
 
-Plato describes Atlantis as a sea-island civilization destroyed by earthquakes and floods. The eruptions in Santorini are similar to the description.
+Atlantis, described by Plato, was an island civilization that was destroyed by earthquakes and floods. The eruption of Santorini is similar to this description.
 
 But Atlantis is a philosophical fable, not an archaeological site. Akrotiri is a real town.
 
-## Protection
+## Protect
 
-Akrotiri's site, protected by roofs.
+The ruins of Akrotiri, protected by a roof.
 
-The roof reduces the rain and sunlight and prevents the murals from faded. Some areas are closed because of structural instability.
+The roof reduces rain and sunlight, preventing the murals from fading. Some areas are closed due to structural instability.
 
-## Tourism
+## Travel
 
-Akrotiri is a tourist destination in Santorini.
+Akrotiri is a tourist spot in Santorini.
 
-Visitors can see streets, houses, and murals.
+Visitors can see streets, houses and murals. The ruins have not been rebuilt and remain as they were.
 
-A town buried in volcanic ash lay there quietly.
+A town buried in volcanic ash lies there quietly.
 
-The ash of the volcano buried the town and saved it. Time stopped here.
+The ash buried the town and preserved it. Time stopped here.
 
 ---
 

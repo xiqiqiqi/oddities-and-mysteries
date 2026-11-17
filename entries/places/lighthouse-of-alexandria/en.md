@@ -64,81 +64,79 @@ The Antiquities Museum at the Bibliotheca Alexandrina has a collection of object
 
 A building made to guide ships ended up sinking into the harbour it once guarded.
 
-## Farus
+## Pharos
 
-Alexander Lighthouse, built on Farus Island.
+Lighthouse of Alexandria, built on the island of Pharos.
 
-Faros Island is a small island at the entrance to the port of Alexandria.
+Pharos was originally a small island at the entrance to Alexandria. The Ptolemaic dynasty connected the island to the mainland and built breakwaters and ports.
 
-## Tolemy
+## Ptolemy
 
-The lighthouse was built in the third century B.C.
+The lighthouse was built in the third century BC.
 
-Tolermí I began, Tolmí II finished. Designer was Sostratus of Nidos. It was one of the seven wonders of the ancient world.
+Begun by Ptolemy I and completed by Ptolemy II. The designer was Sostratus of Nidos. It is one of the seven wonders of the ancient world.
 
-## Third floor
+## Third Floor
 
 The lighthouse has three floors.
 
-The bottom is a square, the middle is an eight-angle, and the top is a cylindrical. The towers have a fire basin and mirror, mirrors reflect the sun during the day, and fires in the night.
+The bottom floor is square, the middle floor is octagonal, and the top floor is cylindrical. There is a brazier and mirror on the top of the tower. The mirror is used to reflect sunlight during the day and light the fire at night.
 
-## Height
+## High
 
-The lighthouse's height is estimated to be about 100 meters.
+The height of the lighthouse is estimated to be about one hundred meters.
 
-It was one of the highest buildings at the time. The ship could see its light dozens of kilometres away.
+It was one of the tallest buildings of its time. Its light can be seen from a ship dozens of kilometers away.
 
 ## Earthquake
 
-The lighthouse has been standing for over a thousand years.
+The lighthouse stood for more than a thousand years.
 
-In 1303 A.D. and 1323, the earthquake destroyed it. Later, the wreckage was transformed into a fortress called Qatar El-Andalus.
+Earthquakes destroyed it in AD 1303 and 1323. Later, the ruins were converted into a fortress called "Qatar El-Andalus".
 
 ## Seabed
 
-In the 1990s, divers discovered the remains of the lighthouse at the bottom of Alexandria harbour.
+In the 1990s, divers discovered the remains of the lighthouse on the ocean floor of Alexandria.
 
-And stones, pillars and statues scattered over the sea floor; and they were recorded and photographed, and part of them were removed.
+Stones, pillars and statues litter the seabed. They were recorded, photographed and some were taken out.
 
-## Name
+## The Name
+"Pharos" became synonymous with lighthouses.
 
-“Pharos” is a noun for lighthouses.
+The words "lighthouse" in French, Italian, and Spanish are all related to this word. A building has become a common noun.
 
-French, Italian, Spanish lighthouses all have to do with it. A building becomes a generic word.
+## Put Up
 
-## Construction
+The lighthouse is built of limestone and granite.
 
-Lighthouses are built with limestone and granite.
-
-The rock is large and is fixed with darts and metal clips. The towers have stairs, rooms and vents. Thousands of workers are needed for construction.
+The stones are large and fixed with mortise and tenon joints and metal clamps. The tower has stairs, rooms and vents. Construction required thousands of workers.
 
 ## Mirror
 
-The mirror on the top of the tower, probably grinded metal.
+The mirror on the top of the tower may be polished metal.
 
-It reflects the sun, it reflects the fire. The light of the day can pass dozens of kilometres away.
+It reflects sunlight and firelight. Light during the day can travel dozens of kilometers away.
 
 ## Sink
 
-When the lighthouse collapsed, the rocks fell into the sea.
+After the lighthouse collapsed, rocks fell into the sea.
 
-Waves, earthquakes, and harbour construction, buried the remains. In the 1990s, divers found them.
+Waves, earthquakes and port construction buried the wreckage. Divers found them in the 1990s.
 
 ## Archaeology
+Stones on the ocean floor were measured, photographed and numbered.
 
-Rocks on the seabed, measured, photographed and numbered.
+Some stones have inscriptions on them, and some have carvings. They cannot put the entire tower back together, but they can prove its existence.
 
-Some of the stones have inscriptions and others carvings. They cannot put the tower back together, but they prove its existence.
+The lighthouse fell, but the name remains. It became a common word and the memory of a port.
 
-The lighthouse fell and the name was still there. It became a word, a memory of a port.
+The light from the lighthouse shines on the sea and the direction of the ship. Without it, nights in port would be much longer. There is still a lighthouse in Alexandria today, but it has just changed its appearance.
 
-The light of the lighthouse, it's the sea surface, it's the direction of the ship. Without it, the night of the port will be longer. Today's port of Alexandria, there's still the lighthouse, just a different one.
+The lighthouse is gone, but the port is still there. The ship came and went, and the light shone on the sea in a different way.
 
-The lighthouse is gone, the port is still there. The ship comes and goes, and the light changes in the way it shines on the sea.
+The light will disappear, the direction will not.
 
-The light will disappear and the direction won't.
-
-The lighthouse's memory is longer than its stone. The wind on the beach, remember it.
+The memory of a lighthouse is longer than its stones. The wind on the seaside, still remember it.
 
 ---
 

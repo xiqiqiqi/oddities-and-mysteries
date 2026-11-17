@@ -60,101 +60,98 @@ There is no reliable basis for these claims. The so-called vitrification is slag
 
 The real threat is natural. Rising groundwater, salt crystallisation, and floods have been eroding the mud brick for decades. In 1980 Mohenjo-daro became a World Heritage Site, and conservation work has not stopped since.
 
-## The hill of the dead
+## Hill of the Dead
 
-Mohenzo-Daro, in Sindh province, Pakistan.
+Mohenjo-Daro, in Sindh Province, Pakistan.
 
-It's called the "Death's Hill." It's a big site, with streets, houses, temples and baths.
+Its name means "Hill of the Dead". The ruins are large, with streets, houses, temples and baths.
 
 ## Grid
 
-The city is in grid layout.
+Cities are laid out on a grid.
 
-The streets are straight, cross-cracked. Houses are brickd and have drainage systems. Some houses have two floors and others have a courtyard.
+The streets are straight and intersect into squares. The house is built of bricks and has a drainage system. Some houses have two floors, and some have courtyards.
 
-## Big bath
+## Large Bath
 
-In the middle of the city, there's a big bath.
+In the center of the city, there is a large bath.
 
-The bath is brickd and waterproof. It has steps, drains and columns. It may be used for rituals, bathing or purification.
+The bath is made of bricks and is waterproof. It has steps, drains and columns. The use may be ritual, bathing or purification.
 
-## Who cares?
+## Who's in Charge
 
-Morhenzo-Daro belongs to the Indus basin civilization.
+Mohenjo-Daro belongs to the Indus Valley Civilization.
 
-It has no clear palace or temple. Some say the city is run by merchants or priests; others say it is an equal society.
+It has no obvious palace or temple. Some say the city was run by merchants or priests; others say it was an egalitarian society.
 
-## Disappear
+## Disappearance
+The city declined around 1900 BC.
 
-The city fell around 1900 B.C.
+Some say river diversion; some say climate change; some say invasion. The cause is undetermined.
 
-Some say the river is rerouted; others say climate change; others say invasion; the cause is inconclusive.
+## Nuclear Bomb Legend
 
-## The legend of a nuclear bomb
+Some people associate Mohenjo-Daro with "ancient nuclear explosions."
 
-Some have associated Morhenzo-Daro with “ancient nuclear explosions”.
+They said the site contained vitrified stone, radiation and dead bodies. There is no scientific evidence for these claims. The ruins of the ruins come from weathering, flooding and salinity.
 
-They say that the site has glassed stones, radiation and bodies. There is no scientific evidence for these claims. The damage to the site comes from weather, flooding and salinization.
+## City
 
-## Now
+A city five thousand years ago.
 
-Morhenzo-Daro is the UNESCO World Heritage Site.
+It had streets, drainage and baths, but no name.
 
-Sites are threatened by saline, flooding and tourists.
+## Indus River
 
-## Urban
+Mohenjo-Daro belongs to the Indus Valley Civilization.
 
-A city 5,000 years ago.
-
-It has streets, drains and baths, but it does not leave a name.
-
-## The Indus
-
-Morhenzo-Daro belongs to the Indus basin civilization.
-
-Together with the cities of Xalapa, Dolavila and others, it constitutes a vast network of civilizations.
+Together with cities such as Harappa and Dholavila, it forms a huge civilization network.
 
 ## Brick
 
-The city is made of bricks.
+The city is built of bricks.
 
-The bricks are burned and the sizes are uniform. Houses, walls, drains, all use the same bricks.
+Bricks are fired and of uniform size. Houses, walls, gutters, all made of the same bricks.
 
-## Drainage
+## Drain
 
-Cities have drainage systems.
+The city has a drainage system.
 
-The streets have drains and houses have sewers.
+Streets have gutters and houses have sewers. Sewage flows from homes to the streets and out of town.
 
-## Protection
+## Protect
 
-Sites are threatened by salt, floods and tourists.
+The site is threatened by salinity, flooding and tourists.
 
-Protectors build drains, reinforce walls and restrict access.
+Conservationists built gutters, reinforced walls, and restricted access.
 
-## Bathhouse
+## Bath
 
-Big bath, the city's most famous building.
+The Grand Bath is the most famous building in the city.
 
-It is made of bricks, waterproof. There are steps, drains and columns.
+It is built of bricks and is waterproof. There are steps, drains and posts.
 
-## Seals
+## Seal
 
-Morhenzo-Daro, a lot of stamps.
+Mohenjo-daro, many seals were unearthed.
 
-The seal contains animals, characters and symbols. Text is not read.
+There are animals, people and symbols on the seals. The words were not read.
 
-## Museums
+## Museum
 
-Near the site, there's a museum.
+Near the ruins, there is a museum.
 
-It's about cities, trade and crafts in the Indus River basin.
+It talks about the cities, trade and crafts of the Indus Valley. The museum has seals, pottery and jewelry.
 
-A city without names, without kings, but bricks, streets and drains. It proves that civilization does not necessarily have monuments.
+A city with no name, no king, just bricks, streets and gutters. It proves that civilization does not have to have monuments.
 
-Morhenzo-Daro did not leave the name of the king, nor the name of the temple. It left behind the city itself: streets, bricks, baths and drains. That is enough.
+Mohenjo-daro did not leave behind the name of the king, nor the name of the temple. What it leaves behind is the city itself: streets, brick houses, baths and gutters. This is enough.
 
 A city without a name can also leave a long shadow.
+
+## Now
+
+Mohenjo-daro was inscribed as a UNESCO World Heritage Site in 1980. Its mud-brick walls remain vulnerable to water, salt and the pressure of visitors.
 
 ---
 

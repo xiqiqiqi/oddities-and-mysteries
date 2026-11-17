@@ -66,97 +66,96 @@ The rows are still there, one after another. They do not need a legend to stand:
 
 ## Brittany
 
-FLNKS, in Brittany, France.
+Carnac Stone Circle, in Brittany, France.
 
-Brittany is in the north-west of France, by the sea. There are fog, wind, stone and granite. The arrays are spread around several villages.
+Brittany is in northwest France, close to the sea. There is fog, wind, heather and granite. The stone circles are scattered around several villages.
 
-## Arrange
+## Arrangement
 
 Stonehenge is not a pile of stones.
 
-They're lined up, hundreds of metres long, a few kilometres long. Rocks vary in size, a few metres tall, and a few dozen centimetres tall.
+They are lined up in rows, some hundreds of meters long, some kilometers long. The stones vary in size, some are several meters high and some are only tens of centimeters tall.
 
-## Age
+## Era
 
-Ishaf was built about 4500 B.C.
+The henge was built around 4500 BC.
 
-New stone-era farmers build these arrangements with stones. They have no words, no wheels, only manpower, ropes and sleighs.
+Neolithic farmers built these arrangements out of stone. They had no writing, no wheels, only human power, ropes and wooden sleds.
 
 ## Use
 
-The use of the Stoneflies is inconclusive.
+The purpose of the stone circle is uncertain.
 
-Some say it's an observatory, some say it's a cemetery, some say it's a ritual. The formation of the stones may be about the sun, the moon, the season.
+Some say it is an observatory, some say it is a cemetery, some say it is a ceremonial place. The arrangement of stones may be related to the sun, moon, and seasons.
 
-## Legends
+## Legend
 
-The legend of Brittany says that the stones were changed by Roman soldiers.
+A Breton legend says that the stone was transformed by Roman soldiers.
 
-Saint Cornelli turned the soldiers into stones in order to avoid pursuit. This legend explains why Stonehenge was lined up.
+Saint Cornely turned soldiers into stone to hide from his pursuers. This legend explains why the stone formations are lined up.
 
-The legend of Brittany says that the stones are soldiers.
+Breton legend says that stones are soldiers.
 
-The legend is that there's a story for Ishida. The story is not history, but it explains why Ishaf is lined up.
+This legend gives the stone formation a story. The story is not history, but it explains why the stone circles are lined up.
 
-There is no answer to the Stonehenge. It's just a way to turn the New Stone Age into a way to go.
+Stonehenge has no answers. It just arranged a path that Neolithic people could follow.
 
-Today's Brittany is still between the fields and the villages. Visitors come and go and the stones do not move. They take longer than any explanation.
+In Brittany today, the stone circle is still among the fields and villages. Tourists come and go, but the stone remains unchanged. They outlast any explanation.
 
-Rocks don't need to be explained. They can be long.
+The stone needs no explanation and can stand for a long time.
 
-They'll be standing for a long time.
+They will still stand for a long time.
 
 ## UNESCO
 
-FLNKS is the UNESCO World Heritage Site.
+Carnac Stone Circle is a UNESCO World Heritage Site.
 
-Together with the nearby mausoleums and stone pillars, it constitutes a cultural landscape. Protectors restrict tourists and prevent trampling and erosion.
+Together with the nearby megalithic tombs and stone pillars, it forms a cultural landscape. Protectors limit visitors and prevent trampling and erosion.
 
-## Tourism
+## Travel
 
-Kanak is a tourist destination.
+Carnac is a tourist spot.
 
-Tourists can see the Stonehenge, the Museum and the Coast. Summer is crowded and winter is windy.
+Visitors can see stone circles, museums and the coast. There are many people in summer and strong wind in winter.
 
-## Rock
+## Stone
 
-Rock doesn't talk.
+The stones do not speak.
 
-They're just standing there, lined up, waiting for an explanation.
+They just stood there, lined up, waiting for an explanation.
 
-Rocks come from nearby granite.
+The stone comes from nearby granite.
 
-The craftsman separated the stones from the rock body with a stake, a hammer and sand, and then dragged them to a designated position.
+Craftsmen use wooden wedges, stone hammers and sand to separate the stones from the rock mass, and then drag them to the designated location.
 
-## New Stone
+## Neolithic
 
-FLNKS is the legacy of the New Stone Age.
+Karnak Stonehenge is a legacy of the Neolithic Age.
 
-And at the time of Brittany, the peasants, the herders, and the craftsmen, they planted their land, cattle, graves, and stones.
+At that time, there were farmers, shepherds and craftsmen in Brittany. They farmed the land, raised cattle, built tombs and established stones.
 
-## Astronomy
+## Astronomical
 
-The formation of the Stonehenge may be related to the astronomical.
+The arrangement of the stone formations may be related to astronomy.
 
-Some stone points to the sunrise, some towards the moon setting, but the ranking is not a precise calendar, more like a symbol.
+Some stones are aligned with the sunrise, some with the moonset. But the arrangement is less of a precise calendar and more of a symbol.
 
-## Protection
+## Protect
 
-Stoneflies are threatened by tourists, moss and wind and rain.
+The henge is threatened by tourists, moss, wind and rain.
 
-Protectors restricted access, cleared vegetation and recorded the movement of stones.
+Conservators restricted access, cleared vegetation, and documented the displacement of stones.
 
-## Village
+## The Village
+Around the stone circle, there are villages and farmland.
 
-There are villages and farmlands around the Stoneflies.
+Villagers farm, raise cattle, and do tourism. The stone circle is their landmark and their income.
 
-Villagers grow land, raise cattle, travel. Stonehenge is their landmark and their income.
+## Museum
 
-## Museums
+There is a museum in Carnac.
 
-Kanak has a museum.
-
-It's about the age, use and construction methods of Stonehenge. The museum has models, photographs and tools.
+It talks about the age, purpose and construction methods of the stone circle. The museum has models, photos and tools.
 
 ---
 

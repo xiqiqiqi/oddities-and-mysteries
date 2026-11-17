@@ -80,97 +80,97 @@ Some call him brave, some call him foolish, some call him a young man ruined by 
 
 *Original schematic: five stages from graduation to the discovery of the body, Bus 142 and the debate over the cause of death. Not a photograph of the site. Oddity Archive, CC BY-SA 4.0.*
 
-## Graduation
+## Graduate
 
-Chris McKandells, college graduate, 1990.
+Chris McCandless, 1990 college graduate.
 
-He gave up his job, gave up his name, started wandering. He called himself Alex.
+He gave up his job, gave up his name, and started wandering. He calls himself "Alex."
 
-## Let's go
+## Hit the Road
 
-He rides, walks, rows.
+He hitchhiked, hiked, and rowed.
 
-He went to the west, Mexico, Alaska. He wanted to stay away from society and look for freedom.
+He went to the West, to Mexico, to Alaska. He wanted to get away from society and find freedom.
 
 ## Alaska
 
 In 1992, he entered the wilderness of Alaska.
 
-He found an abandoned bus and lived in it. He hunted, picked fruit, read.
+He found an abandoned bus and lived in it. He hunted, gathered fruit, and read.
 
-## Death
+## Die
 
-In August 1992, he died in a bus.
+He died on the bus in August 1992.
 
-The cause of death was hunger. He ate the wrong plant or didn't have enough food.
+The cause of death was starvation. He ate the wrong plants, or didn't have enough food.
 
-He died of hunger.
+He died of starvation.
 
-He ate the wrong plant or didn't have enough food.
+He ate the wrong plants, or didn't have enough food.
 
 ## Bus
 
-The bus became a attraction.
+The bus became an attraction.
 
-Some people were on pilgrimages, some people were taking pictures. The bus was later removed.
+Some people come for pilgrimage and some come to take photos. Later, the bus was removed.
 
-The bus that McKandris lives in is an abandoned school bus.
+The bus McCandless lives on is an abandoned school bus.
 
-It stopped by a small road, near a river.
+It was parked on a trail, near a river.
 
-The bus he lives in is an abandoned school bus.
+The bus he lives on is an abandoned school bus.
 
-It stopped by a small road, near a river.
+It was parked on a trail, near a river.
 
-## The story
+## Story
 
-The story of McCandris, written into books and filmed.
+McCandless's story was written into a book and made into a movie.
 
-Some think he's brave, some think he's stupid.
+Some people think he is brave, others think he is stupid.
 
-His story is written into books and films.
+His story was written into a book and made into a movie.
 
-Some think he's brave, some think he's stupid.
+Some people think he is brave, others think he is stupid.
 
-## The wilderness
+## Wilderness
 
-Alaska's wilderness, big.
+The wilderness of Alaska is huge.
 
-There are forests, rivers, mountains and snow. People go in, they get lost.
+There are forests, rivers, mountains and snow. People can easily get lost when entering.
 
-## Supplementary Notes
+## Supplementary Note
 
-Macandres, an idealist.
+McCandless is an idealist.
 
-He gave up his job, gave up his name, went to the wilderness to find freedom.
+He gave up his job, his name, and went to the wilderness to find freedom.
 
-He found his freedom and he found his death.
+He found freedom and he found death.
 
-## Film
+## Movie
 
-His story was filmed as "Survival in the Wild."
+His story was made into the movie "Into the Wild".
 
-It's beautiful. It's cold.
+The movie is beautiful, but the reality is cold.
 
-## Last
+## Last Note
 
-He died in August 1992. The body was found a few weeks ago. His diary, parked on the last page.
+He died in August 1992. Several weeks had passed when the body was found. His diary stopped at the last page.
 
-His story became a fable of freedom and cost. He was followed, and he was persuaded not to.
+His story becomes a parable about freedom and its price. Some people follow his example, while others advise others not to follow his example.
 
-## Archives
+## File
 
-In April 1992, McCandris walked into the Alaskan wilderness. Four months later, the hunter found him dead in an abandoned bus.
+In April 1992, McCandless headed into the Alaskan wilderness. Four months later, hunters found him dead in an abandoned bus.
 
-He has not brought enough food. He mistook a plant for food.
+He didn't bring enough food. He mistook a plant for something edible.
 
-He left the camera, took the last selfie. In the photo, he was thin. In his diary, he said, "Happiness is real only when it's shared." The phrase was later printed in the book.
+The camera he left behind took one last selfie. In the photo, he is very thin. In his diary, he wrote, "Happiness is only real when shared." This sentence was later printed in the book.
 
-His sister later wrote a memoir. The book said that he always wanted to go home.
+His sister later wrote a memoir. The book says that he always wanted to go home.
 
-The dispute did not stop after the publication of the book.
+After the book was published, the controversy continued.
 
-His story, no finish.
+His story has no end.
 
 ---
 

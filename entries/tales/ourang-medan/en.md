@@ -70,113 +70,112 @@ No one has found its wreck, and no one has found its registration. The story is 
 
 It is a reminder that a story repeated often enough begins to look like fact. But check the register, and it may be nothing more than a name.
 
-## Boat
+## The Ship
+"Orange Meydan" is a Dutch cargo ship.
 
-The Orange Medan is a Dutch cargo vessel.
+It set out from Makassar, Indonesia, in 1947, passing through the Strait of Malacca to Ambon, Indonesia. On board is the crew, cargo and radio.
 
-It started in 1947 in Kantakasi, Indonesia, and passed through the Strait of Malacca to Ambon, Indonesia.
+The ship is drifting on the sea, and no one knows where it comes from or where it is going.
 
-The ship floats at sea, and no one knows where it comes from or where it goes.
-
-It doesn't have a name. It's just a number.
+It has no name, only a number.
 
 ## Telegraph
 
 In June 1947, an American ship received its distress signal.
 
-The signal said, "All the crew, including the captain, are dead. Me, the radioman, are dying." Then the signal was out.
+The signal said: "All crew members, including the captain, are dead. I, the radioman, am dying, too." Then the signal went dead.
 
-The contents of the telegram are quoted repeatedly.
+The contents of the telegram were quoted repeatedly.
 
-Different versions, different words. The most popular is: “All the crew, including the captain, are dead.”
+Different versions have different wordings. The most popular: "All crew members, including the captain, are dead."
 
 ## Rescue
 
-The American ship arrived at the scene.
+American ships arrived on the scene.
 
-They saw the Orange Medan. The ship was still on deck, the body was on deck, in the rudder room, the body was on the radio. No one was alive.
+They saw the Orange Meydan. The ship is still there, there are bodies on the deck, there are bodies in the wheelhouse, there are bodies in the radio room. No one alive.
 
-When the American ship received the distress signal, it arrived at the scene.
+After receiving the distress signal, the American ship rushed to the scene.
 
-They saw the boat floating, bodies on deck, bodies on deck. No one alive.
+They saw the ship drifting, bodies on the deck, and bodies in the cabins. No one alive.
 
-## Problem
+## Question
 
-The body on the boat. Who is it?
+Who is the body on the boat?
 
-Some say it's a pirate; others say it's a poison gas; others say it's a fire. The dog on the boat is dead.
+Some people say it's pirates; some people say it's poison gas; some people say it's fire. The dog on the ship also died.
 
 ## Radio
 
-Who's the radio player?
+Who is the radioman?
 
-No one knows. He could have sent the signal or someone else. The radio on the boat was removed.
+No one knows. The signal may be sent by him, or it may be sent by someone else. The ship's radio was later removed.
 
-Radio, that's the only link on the ship and shore.
+Radio is the only link between the ship and the shore.
 
-At sea, no cell phones, no Internet. The signal breaks and the ship disappears.
+At sea, there are no cell phones, no internet. The signal went out and the ship disappeared.
 
-## The story
+## Story
 
-The story of the Orange Medan became a classic of the Ghost Boat.
+The story of the "Orange Meydan" has become a classic of "ghost ships".
 
-It has no answer, but only one boat, several bodies and a telegram.
+It had no answers, just a ship, a few bodies and a telegram.
 
-The Orange Medan, which is the classic of the Ghost Boat.
+"Orange Meydan" has become a classic of "Ghost Ship".
 
-It's the story, no answer.
+Its story has no answers.
 
-## Ma's six
+## Malacca
 
-The Strait of Malacca is one of the busiest shipping routes in the world.
+The Strait of Malacca is one of the busiest waterways in the world.
 
-There are many ships, pirates, bad weather. In 1947, the area had no modern radar and satellites.
+There are many ships, many pirates, and the weather is bad. In 1947, there were no modern radars or satellites in this area of ​​the ocean.
 
-## Cargo vessel
+## Cargo Ship
 
-The Orange Medan, an old cargo ship.
+"Orange Meydan" is an old cargo ship.
 
-It transports rubber, tin and daily goods. There are dozens of crew members on board, mostly Indonesians and Dutch.
+It carried rubber, tin and daily necessities. There were dozens of crew members on board, mostly Indonesians and Dutch.
 
-## The body
+## Corpse
 
-The body is who, no one knows.
+No one knew who the body was.
 
-Some say it was a pirate; others say it was a gas; others say it was a fire. No autopsy report.
+Some said it was pirates who killed him; some said it was poison gas; some said it was fire. There is no autopsy report.
 
-The body was filmed and published in the newspaper.
+The body was photographed and published in the newspapers.
 
-The pictures are vague and the face is not clear. Some say they are pirates; others say they are crewmen.
+The photo is blurry and the face cannot be seen clearly. Some say they are pirates; some say they are crew members.
 
-No autopsy, no name.
+No autopsy, no names.
 
-## Supplementary Notes
+## Supplementary Note
 
-The story of the Orange Medan, the worst part of which is not the body, but the radio.
+The scariest thing about the Orange Meydan story is not the corpse, but the radio.
 
-A voice, coming from a ship without a living person. It says everyone is dead.
+A voice came from a ship with no living people. It said that everyone died.
 
-## Remember that
+## Remember Again
 
-The Strait of Malacca is one of the busiest shipping routes in the world.
+The Strait of Malacca is one of the busiest waterways in the world.
 
-A ship disappears, probably just without a signal.
+When a ship disappears, there may just be no signal.
 
-## Final
+## Final Note
 
-The Orange Medan is a ship.
+The Orange Meydan is a ship.
 
-It has no answer, but only one boat, several bodies and a telegram.
+It had no answers, just a ship, a few bodies and a telegram.
 
-## Last
+## Last Note
 
-The body of the ship, which was soaked by seawater.
+The bodies on the boat were soaked in sea water.
 
-The rescue ship has arrived, but it's empty.
+The rescue boat arrived, but it was empty.
 
-The telegram from the Orange Medan finally became a mystery.
+The Orange Meydan's telegram turned out to be a mystery.
 
-The last word of the telegram, no one can read it. The ship is still there, and the story has no answer.
+No one could read the last sentence of the telegram. The ship is still there and the story has no answers.
 
 ---
 

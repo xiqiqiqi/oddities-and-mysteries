@@ -60,77 +60,76 @@ In 2018, the Troy Museum opened near the site, displaying pottery, bronze object
 
 Nine cities are stacked on top of one another: a Roman theatre at the top, a small Bronze Age citadel at the bottom. One mound holds three thousand years of war, trade, and daily life.
 
-## Earth mound
+## Mound
 
-Trojan site, Hisarlik, north-west Turkey.
+The ruins of Troy, Hisarlik in northwestern Türkiye.
 
-It's a earth mound, tens of metres high, and there are nine layers of cities underneath. Each layer is different from the early Bronze to the Roman era. The earliest conglomerates were about 3,000 years B.C.
+It is a mound, dozens of meters high, with a nine-story city underneath. Each level belongs to a different era, from the Early Bronze Age to the Roman era. The earliest settlement was around 3000 BC.
 
-The earth mounds are formed because people build, demolish, rebuild, and repeat themselves in the same place. The ruins of each generation form the foundation of the next generation.
+Mounds are formed because people repeatedly build, demolish, and rebuild in the same location. The ruins of each generation become the foundation of the next.
 
-## Schriman
+## Schliemann
 
-In the nineteenth century, the German businessman Heinrich Schriman believed that Homer's epics were true.
+In the 19th century, the German businessman Heinrich Schliemann believed that Homer's epic poems were true.
 
-He came to Hessalik and began digging. He dug through several layers and found walls, gold and pottery. He announced that he had found the treasure of Priamous.
+He came to Hisalik and started digging. He dug through several layers and found walls, gold and pottery. He announced that he had found "Priam's treasure."
 
-His excavation methods were rough. He destroyed the top layer in order to find the Homer-era Troy. Much of the information was destroyed in the excavation.
+His digging methods were crude. He destroyed the upper strata in order to find Homer's Troy. Much information was destroyed in excavations.
 
-## Nine floors
+## Ninth Floor
 
-Archaeologists have since re-assembled the layers.
+Archaeologists later rearranged the strata.
 
-Troy I to IX, which represents nine major periods. Troy VI and VII, which could be Troy from Homer Schill. Troy VII has a clear layer of destruction, possibly left by war or earthquake.
+Troy I to IX, representing nine major periods. Troy VI and VII, possibly Homer's Troy. Troy VII has obvious layers of damage, possibly from war or earthquakes.
 
-There is no doubt that the “Troy War” really happened. There was damage to sites, walls, towers, but there was no written record of that war.
+Whether the "Trojan War" actually happened or not is uncertain. The ruins are damaged, with walls and towers, but there are no written records to prove the war.
 
 ## Homer
 
-Homer Sage, Iliat, wrote the story of the tenth anniversary of the Trojan War.
+Homer's epic poem "The Iliad" tells the story of the tenth year of the Trojan War.
 
-It's not a historical record, it's a poem. It mixes gods, heroes and wars, people with names, character and destiny. It's been running for thousands of years, and it's one of the sources of Western literature.
+It is not a historical record but poetry. It mixes gods, heroes, and war, and the characters have names, personalities, and destinies. It has been circulating for thousands of years and has become one of the sources of Western literature.
 
-Schrimann believed in Homer, archaeologists. Later on, between the two: the sites were real, the wars might be real, but the epics were not news.
+Schliemann believed in Homer, archaeologists did not. Later research, somewhere in between: the ruins are real, the war may be real, but the epic is not news.
 
 ## Treasure
 
-The “Puriamos Treasure” found by Shreman included gold, silver, copper and jewellery.
+The "Treasure of Priam" found by Schliemann included gold, silver, bronze and jewelry.
 
-He took the treasure to Berlin, where he disappeared in World War II. Some say it was taken away by the Soviet army, others say it was destroyed. Today, some of the artifacts were displayed at the Pushkin Museum in Moscow.
+He transported the treasure to Berlin and later disappeared during World War II. Some say it was taken away by Soviet troops, others say it was destroyed. Today, some of the artifacts are on display at the Pushkin Museum in Moscow.
 
-The treasure was hundreds of years before the war in Troy. It wasn't Priamous, it was some earlier ruler.
+The age of the treasure is hundreds of years before the Trojan War. It did not belong to Priam, but to some earlier ruler.
 
 ## Now
 
-Troy is the UNESCO World Heritage Site.
+Troy is a UNESCO World Heritage Site.
 
-Visitors can see walls, theatres, and Roman-era buildings.
+Visitors can see city walls, theaters and Roman-era buildings. There is a museum next to the site that displays unearthed cultural relics and restored models.
 
-A mound, a nine-storey city, an epic. They folded together and became "Troy."
+A mound, a nine-story city, an epic. They were stacked together and became "Troy".
 
-## Layer
+## Strata
 
-Troy's layer, like a book.
+The formations of Troy, like a book.
 
-Each layer has buildings, pottery and tools. Archaeologists judge the years by the shape of pottery. The deeper the layer, the earlier it is.
+Each level contains buildings, pottery and tools. Archaeologists judge the age of pottery by its shape. The deeper the strata are, the earlier they are.
 
-## Museums
+## Museum
 
-The Trojan Museum, near the site.
+Museum of Troy, near the ruins.
 
-It displays pottery, bronze, stone and gold.
+It exhibits pottery, bronze, stone and gold artifacts. The architecture of the museum is very modern and contrasts with the ruins.
 
-## Tourism
+## Travel
 
-Troy is a tourist destination in Turkey.
+Troy is a tourist spot in Turkey.
 
-Visitors can see walls, theatres and Roman buildings.
+Visitors can see city walls, theaters and Roman architecture. The tour guide talks about Homer, Schliemann and the Trojan Horse.
 
-## War
+## The War
+Whether the Trojan War was real or not is still debated.
 
-The truth of the war in Troy remains controversial.
-
-The sites have destruction layers, walls, towers. There are no transcripts, no weapons inscriptions. Wars can be real or a story.
+The ruins have a destruction layer, city walls, and towers. But there are no written records and no inscriptions on the weapons. The war may be real or it may be a story.
 
 ---
 

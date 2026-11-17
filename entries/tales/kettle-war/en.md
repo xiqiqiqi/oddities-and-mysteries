@@ -66,135 +66,131 @@ The episode reappeared in cartoons, prints, and popular histories. The kettle be
 
 It does not belong in the great-battles chapter of military history. It belongs in a footnote about how diplomacy avoids wars. Both sides got an acceptable result. The price was a kettle.
 
-## Border
+## Boundary
 
-In 1784, a conflict took place between the Republic of the Netherlands and the Austrian Netherlands, Austria, on the border.
+In 1784, a conflict occurred on the border between the Dutch Republic and the Austrian Netherlands.
 
-The border is not clear. The two countries compete for sovereignty on a small island near the Meuse.
+The boundaries are not drawn. The two countries compete for sovereignty over a small island near the Meuse River.
 
-The 1784 border was not demarcated.
+The boundaries of 1784 were not drawn.
 
-Both the Netherlands and Austria consider themselves to have small islands near the Meuse.
+The Netherlands and Austria both thought they owned the island near the Meuse River.
 
-## Boat
+## The Ship
+An Austrian ship crossed the Dutch border.
 
-An Austrian vessel crossed the border with the Netherlands.
+The people on the boat were armed and had a kettle with them. The Dutch opened fire and the shells hit the kettle.
 
-The men on board, armed and carrying a kettle, fired on the Dutch side and shot the kettle.
+Austrian ship crossed the border.
 
-The Austrian ship crossed the border.
+Men on board, with weapons and kettles. They want to assert their sovereignty.
 
-Those on board, armed with weapons and kettles. They want to declare their sovereignty.
+## One Shot
 
-## One shot
+In this "war", only one shot was fired.
 
-This war, it's only one shot.
+No one died, no one was injured. The kettle was broken and the boat went back.
 
-No one died and no one was injured. The kettle was broken and the boat was turned back.
+## The Name
+The name "Kettle War" comes from that kettle.
 
-## Name
-
-The name "The Kettle War" came from the kettle.
-
-It turns a border conflict into a joke. History books like that name because it's small, specific, absurd.
+It turned a border conflict into a joke. History books love this name because it's small, concrete, and absurd.
 
 ## Treaty
 
-In 1785, the two countries signed the treaty.
+In 1785, a treaty was signed between the two countries.
 
-The borders are drawn and the conflict is over. The kettle is a symbol: a war without bloodshed.
+Boundaries were drawn and conflicts ended. The kettle became a symbol: a war without bloodshed.
 
-The 1785 treaty, which demarcated the border.
+Treaty of 1785, defining the boundaries.
 
-The two sides exchanged land and settled the dispute. The kettle war became the watchword of the treaty.
+The two sides exchanged land and settled the dispute. The Kettle War became a footnote to the treaty.
 
-In 1785, the two countries signed the treaty.
+In 1785, a treaty was signed between the two countries.
 
-The border was cleared and the conflict ended.
+Boundaries were drawn and conflicts ended.
 
-## And then
+## Later History
+This conflict did not change the situation in Europe.
 
-This conflict has not changed the pattern of Europe.
-
-It is merely a reminder that borders do not exist naturally, but are drawn by human beings.
+It just reminds people: borders do not exist naturally, they are drawn by people.
 
 ## Now
 
-The Meuse is still flowing.
+The Meuse still flows.
 
-The kettle's not there, the border's still there.
+The kettle is gone, but the border is still there.
 
-## The Meuse
+## Meuse River
 
-The Meuse, from France to the Netherlands.
+The Meuse River flows from France to the Netherlands.
 
-It goes through the Arden mountains, into the plains. The river is not wide, but the water is running fast.
+It passes through the Ardennes and enters the plains. The river is not wide, but the current is fast.
 
 ## Austria
 
-Austria is part of the Netherlands, including today's Belgium.
+Austria was part of the Netherlands, including today's Belgium.
 
-In the eighteenth century, the Austrian Emperor took control of the area. The Republic of the Netherlands is on the north side, with no clear borders.
+In the 18th century, the Austrian emperor controlled this area. The Dutch Republic was to the north and the borders were not clearly defined.
 
 ## Netherlands
 
-The Republic of the Netherlands is a commercial country.
+The Dutch Republic is a commercial country.
 
-It depends on maritime transport, trade and finance. Border conflicts affect trade.
+It relies on shipping, trade and finance. Border conflicts will affect trade.
 
-## A kettle
+## Kettle
 
-The Netherlands fired and hit the kettle.
+Holland fired, hitting the kettle.
 
-No one was hurt. The kettle became a symbol of war.
+No one was injured. The kettle became a symbol of war.
 
 ## History
 
-Kettle War is a war without bloodshed.
+The Kettle War was a bloodless war.
 
-It shows that border conflicts do not have to kill people.
-
-## Memory
-
-The kettle's not here, the story's still there.
+It shows that border conflicts do not necessarily lead to death.
 
 ## Memory
 
-The boundaries are drawn by man.
+The kettle is gone, but the story remains.
 
-The kettle war, with only one shot, left a treaty.
+## Further Notes
+Borders are drawn by humans.
 
-History is sometimes light, light as a kettle, but it leaves a very heavy line.
+In the Kettle War, only one shot was fired, but a treaty was left behind.
 
-## And finally
+History is sometimes very light, as light as a kettle. But the line it leaves behind is heavy.
 
-Kettle War, no dead.
+## At Last
 
-It left only one treaty and one broken kettle.
+Kettle Wars, no one died.
 
-The border is clear, the story is left.
+All it left behind was a treaty and a broken kettle.
 
-## Remember
+Boundaries are drawn, stories remain.
 
-Kettle War is a war without bloodshed.
+## Remember Again
 
-It only fired one shot and hit a kettle. The history book remembers the kettle and forgets the boundary.
+The Kettle War was a bloodless war.
 
-A kettle, blocking a war. This is probably the cheapest diplomatic victory in history, and the most absurd border conflict. The story leaves no dead man, but a line between countries.
+It fired only once, hitting a kettle. The history books remember the kettle and forget the borders.
 
-History is sometimes light and light as a kettle; but it leaves a very heavy border, with two countries drawing a line.
+A kettle stopped a war. This is probably the cheapest diplomatic victory in history and the most absurd border conflict. There are no deaths in the story, but it leaves a line between countries.
 
-A kettle, for a border. History is sometimes so light.
+History is sometimes very light, as light as a kettle; but the borders it leaves are so heavy that both countries have to draw a line.
 
-## Final
+A kettle in exchange for a boundary. History is so light sometimes.
 
-A kettle, for a border.
+## Final Note
 
-History is sometimes so light.
+A kettle in exchange for a boundary.
 
-## Last
+History is so light sometimes.
 
-It doesn't matter who the kettle belongs to anymore.
+## Last Note
+
+It no longer matters who the kettle belongs to.
 
 ---
 

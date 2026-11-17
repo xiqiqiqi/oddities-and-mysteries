@@ -58,115 +58,111 @@ Dyatlov Pass is now a marked route, and hikers still pass through every year. A 
 
 The case is discussed not only because of the deaths but because the scene left such an improbable combination: a tent cut from inside, barefoot people, bodies without coats, severe internal injuries, and a night with no witnesses.
 
-## Mountain team
+## Mountaineering Team
 
-In 1959, a Soviet team climbed the mountain near the Giatrov Pass in the Ural Mountains.
+A Soviet mountaineering team near the Dyatlov Pass in the Ural Mountains in 1959.
 
-There are nine people in the team, mostly college students and engineers. They're experienced and well equipped.
+There are nine people in the team, mostly college students and engineers. They are experienced and well equipped.
 
 ## Tent
 
-On 1 February, they camped on the hillside.
+On February 1, they camped on a hillside.
 
-The tents are buried in snow and partially cut. The clothes, shoes and food of the team are left in the tents.
+The tent was buried in snow and partially cut open. The team members' clothing, shoes and food are left in the tent.
 
-The tents were buried in the snow and partially cut open.
+The tent was buried in snow and partially cut open.
 
-The crew's clothes, shoes and food were left in the tent.
+The team members' clothing, shoes and food are left in the tent.
 
-## Search
+## The Search
+On February 26, search and rescue teams located the tent.
 
-February 26, search and rescue teams found tents.
+The tent was empty. The team members are not here. Search and rescue teams searched hillsides, woods and ravines.
 
-The tents are empty. The team is not here. Search and rescue teams are looking for the hills, the woods and the valleys.
+## Hurt
 
-## Wounded
+Five bodies were in the snow and four in the ravine.
 
-Five bodies in the snow, four in the valley.
+Some people froze to death and some were injured. One player had a cracked skull, one had broken ribs, and one had a missing tongue.
 
-A man died of freezing and a man was injured. One of the members had a broken skull, one of the members had a broken ribs and one of the members had a missing tongue.
+Avalanches cannot explain all injuries.
 
-Avalanche, can't explain all the injuries.
+A cracked skull, broken ribs, and a missing tongue required a lot of force. Avalanches can crush people, but they don't necessarily cause those injuries.
 
-The skull is fractured, the ribs are fractured, the tongue is missing, and it takes a lot of power. Avalanche can hurt people, but it does not necessarily cause these injuries.
+Five bodies were in the snow and four in the ravine.
 
-Five bodies in the snow, four in the valley.
+Some people froze to death and some were injured. One player suffered a cracked skull and another suffered broken ribs.
 
-A man died of freezing and a man was injured. One of the members had a broken skull and one of the members had a broken rib.
+## Explain
 
-## Explanation
+Explanations abound: avalanches, infrasound waves, military experiments, animals, aliens.
 
-There are many explanations: avalanche, infrasound, military experiments, animals, aliens.
+The most accepted is Avalanche. But avalanches can't explain all injuries.
 
-Most accepted is avalanche. But avalanche doesn't explain all the injuries.
-
-Infrasound claims were later used by some to explain the crew ' s panic.
+The theory of infrasound waves was later used by some people to explain the panic of the team members.
 
 ## Now
 
-The Gatrov Pass is a tourist destination.
+Dyatlov Pass has become a tourist spot.
 
-Tourists come skiing, walking, taking pictures. The story is still there.
+Tourists come to ski, hike and take photos. The story is still there.
 
-The road to the mountain is still hard to walk in winter. The rescue team goes into the mountain every year.
+The road to the mountain pass is still difficult to walk in winter. The rescue team goes into the mountains every year.
 
-## Ural
+## Urals
 
 Ural Mountains, in central Russia.
 
-It stretches from the Arctic Ocean to Kazakhstan. The mountains are not high, but winter is cold and snow is deep.
+It stretches from the Arctic Ocean to Kazakhstan. The mountain is not high, but the winter is very cold and the snow is deep.
 
 ## Avalanche
 
-Avalanche, the most common explanation for the Gatrov Pass.
+Avalanche is the most common explanation for the Dyatlov Pass.
 
-The hills are steep, snowy and windy. The tents are covered in snow, and the team leaves the tents to find safety.
+The slopes are steep, the snow is thick, and the wind is strong. The tent was buried in snow, and the team members left the tent to find a safe place.
 
-## Investigations
+## Investigation
 
-The Soviet investigation did not disclose all the files.
+In the Soviet investigation, not all files were released.
 
-It was stated that the archives were kept confidential; it was said that they were lost. The findings were “natural disasters”.
+Some people say that the files are kept secret; some people say that the files are lost. The investigation concluded it was a "natural disaster."
 
-The Soviet investigation did not disclose all the files.
+In the Soviet investigation, not all files were released.
 
-The findings are “natural disasters”.
+The investigation concluded it was a "natural disaster."
+
+## Further Notes
+Dyatlov Pass is a story about cold.
+
+Snow, wind, and darkness are more terrifying than any monster.
+
+Nine young men died on the mountain. The archives don't give a complete answer.
+
+## At Last
+
+Dyatlov Pass, no answer.
+
+Avalanches, wind, and darkness are more terrifying than any monster.
+
+Nine people died on the mountain.
+
+## Remember Again
+
+Dyatlov Pass is a story about cold.
+
+Snow, wind, and darkness are more terrifying than any monster. Nine young men died on the mountain. The archives don't give a complete answer.
+
+The avalanche can explain the tent, but not all the injuries. The archives don't give a complete answer.
+
+The tent is empty, but the snow is still there. Nine young people left a mountain pass without answers.
+
+## File
+
+In February 1959, nine climbers died in the Ural Mountains. The tent was cut open from the inside, and the team members ran barefoot into the snow.
 
 ## Team
 
-Nine people are on the mountain team.
-
-Most of them are college students and engineers. They're experienced and equipped.
-
-## Memory
-
-The Gatrov Pass is a cold story.
-
-Snow, wind, darkness are worse than any monster.
-
-Nine young people died on the hill. The file didn't give a complete answer.
-
-## And finally
-
-Gatrov Pass, no answer.
-
-Avalanche, wind, darkness are more terrible than any monster.
-
-Nine people, dead in the mountains.
-
-## Remember
-
-The Gatrov Pass is a cold story.
-
-Snow, wind, darkness are worse than any monster. Nine young people died in the mountains. The file does not give a complete answer.
-
-The avalanche explains the tent, not all the injuries. The file does not give a complete answer.
-
-Tents are empty and snow is still there. Nine young people left a mountain no answer.
-
-## Archives
-
-In February 1959, nine climbers died in Mount Ural. The tent was cut from the inside, and the crew ran barefoot into the snow.
+The group were experienced ski tourists from Ural Polytechnic Institute, not casual hikers. Most were in their early twenties; one was thirty-seven.
 
 ---
 

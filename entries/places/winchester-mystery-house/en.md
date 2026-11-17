@@ -70,93 +70,91 @@ Sarah left no explanation. She spent her money on a house, and she spent thirty-
 
 ## Sarah
 
-Sarah Winchester, heir to Winchester Rifles.
+Sarah Winchester, heir to the Winchester Rifle Company.
 
-Her husband, William Winchester, died in 1881. She inherited a great deal of wealth, and she also inherited the saying that the family's wealth came from rifles, which brought death, and that death would come to her.
+Her husband, William Winchester, died in 1881. She inherited a large amount of wealth, and also inherited a saying: the family's wealth comes from rifles, rifles bring death, and death will come to her.
 
-In 1884, she bought a farmhouse on the outskirts of San José and began to expand. She called architects, craftsmen, and workers to build them up on a continuous basis.
+In 1884, she bought a farmhouse outside San Jose and began expanding it. She called architects, craftsmen, and workers and told them to keep building.
 
-## The house
+## House
 
 The house has 160 rooms.
 
-It has bedrooms, living rooms, kitchens, dance halls, greenhouses, basements and corridors. Some rooms have only one door and some doors lead to walls. Some stairs lead to ceilings and others have no stairs below them.
+It has bedrooms, living room, kitchen, ballroom, greenhouse, basement and hallway. Some rooms have only one door, and some doors lead to walls. Some stairs lead to the ceiling, while others have no steps underneath.
 
-## The maze
+## Maze
 
-The layout of the house, like a maze.
+The layout of the house is like a maze.
 
-Sarah believed that ghosts would follow the straight line. She designed the corridor to be crooked, designed the door to be hidden, designed the room to be irregular. She hoped the ghost would not find her.
+Sarah believed that ghosts walked in straight lines. She designed the corridors to be curved, the doors to be concealed, and the rooms to be irregular. She hoped the ghost couldn't find her.
 
 ## Earthquake
 
-1906, San Francisco Earthquake.
+1906, San Francisco earthquake.
 
-San José was also affected. Part of the house collapsed and Sarah was trapped in her room. She later modified the design, increased the exit and support.
+San Jose is also affected. Part of the house's structure collapsed, trapping Sarah in her room. She later modified the design, adding outlets and supports.
 
 ## 1922
 
 Sarah died in 1922.
 
-Tourists can visit rooms, stairs, and corridors.
+The house was abandoned and later converted into a tourist attraction. Visitors can tour rooms, staircases and corridors. The tour guide will tell ghost stories and also talk about architecture.
 
-## Ghost
+## The Ghost
+The ghosts in the house have names: Sarah, William, the worker, the gardener.
 
-Ghosts in the house have names: Sarah, William, the workers, gardeners.
+Some say they can hear footsteps, pianos and doors opening and closing. Some people said they saw a human figure. There is no evidence, but many stories.
 
-Some say they can hear footsteps, pianos and doors. Others say they see people. There's no evidence, but there's lots of stories.
+## Architecture
+
+The architecture of the house is actually very ordinary.
+
+It has a Victorian style with wooden structures, brick walls and stained glass. What's special about it is not the material, but the layout.
+
+## Travel
+
+The Winchester Mystery House is now a tourist attraction.
+
+Visitors can take a "haunted house" tour or an architecture tour. Two tours, telling two stories.
 
 ## Construction
 
-The building of the house, actually, is very ordinary.
+The house took thirty-eight years to build.
 
-It's Victorian style. It's woody, brick wall and paint glass. It's special, not in materials, but in layout.
+Sarah meets with the craftsmen every day to draw, modify, tear down and rebuild walls. Some rooms were demolished as soon as they were built, and some stairs were redirected as soon as they were installed.
 
-## Tourism
+## Worker
 
-Winchester's Mystery House. It's a tourist destination now.
+Craftsmen lived nearby and worked for Sarah on a long-term basis.
 
-Tourists can participate in Ghost House tour, or in construction tour. Two tour, two stories.
+They knew her habits and they knew her money. The houses got bigger and bigger, and more and more workers were hired.
 
-## Construction
+The house took thirty-eight years to build, and the workers changed one batch after another.
 
-The house was built for 38 years.
+Some workers died, some left, and some stayed. Their names were not recorded.
 
-Sarah meets daily with the craftsmen, drawings, making plans, tearing down walls, rebuilding. Some rooms are taken apart as soon as they are built, others are re-directed as soon as they are installed.
+## Legend
 
-## Workers
+There is no written record of Sarah's motives.
 
-The craftsmen lived nearby and worked for Sarah for a long time.
+The saying "ghosts will come to her" comes from later tour guides and writers. Sarah herself left no explanation.
 
-They know her habits, they know her money. The bigger the house, the more the workers.
+## Protect
 
-The house was built for 38 years, and the workers were replaced by another group.
+The house is now managed by a tour company.
 
-Some of the workers are dead, some are gone, some are left behind. Their names are not recorded.
+They restored the structure and kept the maze layout, but also the ghost stories. History and legend, together, sell tickets.
 
-## Legends
-
-Sarah's motives are not documented.
-
-The expression “Ghosts will come to her” comes from later guides and writers. Sarah himself leaves no explanation.
-
-## Protection
-
-The house is now managed by the tourism company.
-
-They fix structures, keep maze layouts, and keep ghost stories. History and legend, sell tickets together.
-
-## Garden
-
+## The Garden
 The house is surrounded by gardens, orchards and greenhouses.
 
-Sarah likes flowers and trees. The gardens are roses, citrus and palms. There are tropical plants in the greenhouses.
+Sarah loved flowers and planting trees. The garden has roses, citrus and palms. There are tropical plants in the greenhouse.
 
-## Film
+## Movie
 
-Winchester's Mystery House, in movies and TV.
+The Winchester Mystery House, featured in movies and television.
 
-It's a labyrinth layout, suitable for a horror movie. Tourists see the house in the movie, not Sarah's.
+Its maze layout is suitable for horror movies. Visitors see the house from the movie, not Sarah's house.
 
 ---
 

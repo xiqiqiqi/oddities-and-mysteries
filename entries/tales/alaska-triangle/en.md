@@ -68,109 +68,106 @@ But the real ledger has 1,334 names. They did not disappear inside a triangle. T
 
 ## Geography
 
-Alaska Triangle is not an official geographical name.
+The Alaska Triangle is not an official geographical name.
 
-It usually refers to a region in south-east Alaska: the triangle between Ancrechi, Juno and Utchavik. It's large, it's complex, it's glaciers, forests, mountains and coasts.
+It usually refers to an area in southeastern Alaska: the triangle between Anchorage, Juneau, and Utqiagvik. It is a large area with complex terrain, including glaciers, forests, mountains and coasts.
 
 ## Weather
 
-Alaska's weather, changing fast.
+The weather in Alaska changes quickly.
 
-The wind, snow, fog, and low temperatures can drive the aircraft out of direction. Small aircraft fly in mountainous areas, encounter a reduced flow of air and visibility, and are at high risk.
+Wind, snow, fog, and low temperatures can all cause a plane to lose its direction. Small aircraft flying in mountainous areas are at high risk of encountering turbulence and reduced visibility.
 
-Alaska's winter, long.
+Winter in Alaska is very long.
 
-Low temperatures, wind, snow. Pilots need experience, equipment and luck.
+The temperature is low, the wind is strong, and the snow is deep. Pilots require experience, equipment and luck.
 
-## Aircraft
+## Airplane
 
-Alaska's got a lot of planes.
+There are many planes in Alaska.
 
-Many villages have no roads and are transported by air.
+Many villages have no roads and can only be transported by plane. Small planes, seaplanes and helicopters are daily means of transportation.
 
-Alaska's small planes, many of them on water.
+Many of the small planes in Alaska are seaplanes.
 
-They rise and fall from villages without runways, by lakes and by the coasts. As soon as the weather changes, the flight is dangerous.
+They take off and land in villages without runways, near lakes and coasts. Flying becomes dangerous when the weather changes.
 
 ## Missing
 
-Missing planes, usually hard to find.
+Missing aircraft are often difficult to find.
 
-The terrain is big, the forest is dense, the snow is deep. It takes days or weeks for rescue teams to reach a possible crash site. Some planes are discovered decades later.
+The terrain is large, the forest is dense, and the snow is deep. It will take days or even weeks for search and rescue teams to reach the possible crash site. Some aircraft were discovered decades later.
 
-## Twenty thousand
+## Twenty Thousand People
 
-The figure of “20,000 missing” has no reliable sources.
+There is no reliable source for the figure "20,000 missing".
 
-It brings together the missing persons of different ages, different causes, different places. Alaska has a very small population, 20,000 being a large number.
+It adds together missing persons from different eras, different reasons, and different places. Alaska has a small population, 20,000 is a large number.
 
-## Name
+## The Name
+The name "Triangle" was given by the media.
 
-The name "triangular" was used in the media.
-
-It mimics the Bermuda Triangle, tying a section and a number together. The bigger the name, the bigger the story.
+It mimics the Bermuda Triangle, tying an area to a number. The louder the name, the bigger the story.
 
 ## Statistics
 
-The rate of disappearance in Alaska is indeed higher than the average in the United States.
+Alaska’s disappearance rate is indeed higher than the U.S. average.
 
-The reason is that the environment, transport and population distribution are not “supernatural”. People in remote areas are more likely to get lost, hurt or die in the wild.
+The reasons are environment, transportation and population distribution, not "supernatural". People in remote areas are more likely to get lost, injured or killed in the wild.
 
-The number of missing persons in Alaska is not as high as “20,000”.
+The number of missing people in Alaska is not as high as "20,000."
 
-There are dozens to hundreds of reports of disappearances every year. Most are found, a few are not.
+There are dozens to hundreds of disappearances reported every year. Most are found, a few are not.
 
-## The story
+## Story
 
-The Alaska Triangle story is about the wilderness.
+The story of the Alaska Triangle is about wilderness.
 
-The wilderness is big, the people are small. A plane disappears, probably covered by the forest and snow.
+The wilderness is huge and the people are small. A plane disappears, probably just covered by forest and snow.
 
-Alaska triangle, not supernatural.
+The Alaska Triangle is not supernatural.
 
 It is a story of wilderness, transportation and risk.
 
-## Anecret
+## Anchorage
 
-Andrech is the largest city in Alaska.
+Anchorage is the largest city in Alaska.
 
-It is a traffic hub, with airports, ports and roads. Many small aircraft take off from there and fly to villages, mines and fishing grounds.
+It is a transportation hub with airports, ports and roads. Many small planes take off from here, flying to villages, mines and fishing grounds.
 
 ## Juno
 
-Juno is the capital of Alaska.
+Juneau is the capital of Alaska.
 
-There are no roads connecting to other cities on the islands in the south-east.
+It is on the southeastern part of the island and has no road connections to other cities. People can only come here by plane or boat.
 
-## Utchavik
+## Utqiagvik
 
-Utchavik, north coast of Alaska.
+Utqiagvik, on the North Shore of Alaska.
 
-It's the northernmost city in the United States, by whaling and oil. It's a long winter and the sun hasn't come out.
+It is the northernmost city in the United States and relies on whaling and oil. Winter is very long and the sun doesn't come out for a long time.
 
-## Search and rescue
+## Search and Rescue
 
-The search and rescue team in Alaska consists of the National Guard, the police, volunteers and hunters.
+Alaska's search and rescue team consists of the National Guard, police, volunteers and hunters.
 
-They know the terrain and can fly small planes, snow trucks and boats. But the area is too big, the weather is too bad, search and rescue often fail.
+They know the terrain well and can fly small planes, snowmobiles and boats. But the place is too big and the weather is too bad, so search and rescue operations often fail.
 
-Search and rescue teams, volunteers and hunters.
+Search and rescue teams rely on volunteers and hunters.
 
-They know the terrain, they drive snowmobiles and boats. But it's too big, too bad weather.
+They know the terrain well and can drive snowmobiles and boats. But the place is too big and the weather is too bad.
 
-## Village
+## The Village
+Villages in Alaska are very scattered.
 
-The village of Alaska is scattered.
+Some villages have no roads, no hospitals, and no shops. Airplanes are the only means of transportation.
 
-Some villages have no roads, no hospitals, no shops.
+## Further Notes
+The number of missing people in Alaska has been amplified by the media.
 
-## Memory
+The real problem is not the "triangle" but the traffic and weather in remote areas.
 
-The number of missing persons in Alaska has been magnified by the media.
-
-The real problem is not “triangulation”, but transportation and weather in remote areas.
-
-Every missing person has a specific story. It's more important than numbers.
+Every missing person has a specific story. Stories are more important than numbers.
 
 ---
 

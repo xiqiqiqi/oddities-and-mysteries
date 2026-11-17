@@ -56,87 +56,87 @@ Part of the site is open to visitors, including the seaside boathouses. In the 1
 
 Most of the Villa of the Papyri is still underground. It is like a sealed library: the books are on the shelves, the words are in the books, and no one has yet been able to read them all.
 
-## Spray
+## Erupt
 
-In 79 A.D., the Vesuvius volcano erupted.
+In 79 AD, Mount Vesuvius erupted.
 
-Pompeii is buried in volcanic ash, and Hekulanim in volcanic mud. The mud flows are high and dense, and the city is sealed in it. Wood structures, food, and paper sarcophagus, are preserved by carbonization.
+Pompeii was buried in volcanic ash and Herculaneum was buried in lahars. The mudflow is hot and dense, sealing the city inside. Wooden structures, food and papyrus were all carbonized and preserved.
 
-## The city in the mud
+## City ​​in Mud
 
-Herculanium is smaller than Pompeii, but better preserved.
+Herculaneum is smaller than Pompeii but better preserved.
 
-The streets, houses, shops and villas are in the mud. Some houses have two floors, some gardens and bathrooms. The mud drains the air and slows down decay.
+Streets, houses, shops and villas, all in the mud. Some houses have two floors, some have gardens and bathrooms. Mudflows move air away, slowing decay.
 
-## The Pavilion of Salvatore
+## Papyrus Villa
 
-In the eighteenth century, archaeologists discovered a villa in Hekulanim.
+In the eighteenth century, archaeologists discovered a villa in Herculaneum.
 
-The villa has hundreds of rolls of paper-sagra scrolls that are carbonized. They belong to a wealthy family, mainly in Greek philosophy.
+There were hundreds of papyrus scrolls in the villa, carbonized into a mass. They belonged to a wealthy family and their contents were mainly Greek philosophy.
 
-## A book of carbonization
+## Carbonized Book
 
-The scrolls are carbonized and very fragile.
+After the scroll is carbonized, it is very fragile.
 
-Opens a volume, which may be crushed to dust. Early scholars tried to cut and strip, but lost a lot. Later, researchers tried to read the text using X-rays, infrared and computer technology.
+Open a roll and it may crumble to dust. Early scholars tried incision and peeling, but suffered great losses. Later, researchers used X-ray, infrared and computer technology to try to read the text.
 
-## Try to read it
+## Try to Read
 
-In 2015, the researchers read some of the letters using an X-ray image.
+In 2015, researchers used X-ray phase imaging to read out some of the letters.
 
-In 2023, an international team tried to read more scrolls using artificial intelligence and particle accelerators. Progress was slow, but every word read was new.
+In 2023, an international team will use artificial intelligence and particle accelerators to try to decipher more scrolls. Progress is slow, but each word is new.
 
 ## Now
 
-Hekulanim is an archaeological park.
+Herculaneum is an archaeological park.
 
-Visitors can see streets, houses and villas.
+Visitors can see streets, houses and villas. Some areas are still being excavated and some are closed.
 
-A city that was covered in mud and was still being read 2,000 years later.
+A city sealed by mud is still being read two thousand years later.
 
-## Volcanic
+## Volcano
 
-The eruption of the Vesuvius volcano lasted for days.
+The eruption of Mount Vesuvius lasted for several days.
 
-On the first day, ash went to Rome. The next day, Pompeii was buried. Hekulanim was buried by volcanic mud, and the mud was hot and fast.
+On the first day, volcanic ash drifted into Rome. Pompeii was buried the next day. Herculaneum was buried by volcanic mudflows, which were hot and fast.
 
-Vesuvius is an active volcano.
+Mount Vesuvius is an active volcano.
 
-It's the Bay of Naples, near Pompey, Herculenium and Naples. The 79 A.D. was the most famous.
+It is on the Bay of Naples, with Pompeii, Herculaneum and Naples nearby. The eruption of AD 79 is the most famous.
 
-## Protection
+## Protect
 
-Herculanium's site is smaller than Pompeii, but more complete.
+The ruins of Herculaneum, smaller than Pompeii, but more complete.
 
-The mud current protects wood, food and paper sargrass. The open area of the site is limited and parts of the site are still being excavated.
+Mudflows protected wood, food, and papyrus. The open area of ​​the site is limited and some areas are still being excavated.
 
-## Numbers
+## Number
 
-The researchers record sites with laser scanning, photogrammetry and 3D modelling.
+Researchers used laser scanning, photogrammetry and 3D modeling to document the ruins.
 
-Digital models can be used for research, demonstration and protection.
+Digital models can be used for research, display and conservation. The model can serve as a reference if the site is damaged.
 
-The researchers read the scrolls with X-rays, infrared and artificial intelligence.
+Researchers used X-rays, infrared light and artificial intelligence to read the scrolls.
 
-Each letter is counted for a long time. Progress is slow, but every dot is new.
+Every time you pronounce a letter, it takes a long time to calculate. Progress is slow, but every bit is new.
 
-## Visitors
+## Tourists
 
-Hekulanim's tourist, less than Pompey.
+Herculaneum has fewer tourists than Pompeii.
 
-This could be good. Few people, little pressure on sites. But little money to protect.
+This is probably a good thing. With fewer people, there is less pressure on the site. But the income is also small, and the money for protection is also small.
 
-A city covered by mud lay there in peace.
+A city sealed by mud lies there quietly.
 
-## Paper sarcophagus
+## Papyrus
 
-The paper sargrass is an ancient Roman writing material.
+Papyrus was the writing material of ancient Rome.
 
-It was made of reeds from the Nile, and it was crushed into thin pieces and rolled into scrolls. Hekranium's scrolls were carbinated by volcanic mud and turned into black pieces.
+It was made of reeds from the Nile, pressed into thin sheets and rolled into scrolls. The scrolls of Herculaneum were carbonized by lahars and turned into black blocks.
 
-## Tourism
+## Travel
 
-The streets of Hekulanim are narrower than Pompey. Houses are better preserved, with beams, furniture and food in place. In the 18th century, the kings of Europe came to dig treasures and cut the murals and take them away.
+The streets of Herculaneum are narrower than those of Pompeii. The house is better preserved, with wooden beams, furniture and food left in place. In the 18th century, European princes came to dig for treasures and cut out the murals and took them away.
 
 ---
 

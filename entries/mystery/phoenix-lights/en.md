@@ -66,45 +66,44 @@ Phoenix, Arizona, and around it, many say they saw a huge V-shaped array moving 
 
 On the same night, there was another set of light, lined up and parked in the sky.
 
-## Two sightings
+## Two Sightings
 
-Subsequent investigations separated the two paragraphs from the witnesses.
+Later investigations separated the two sightings.
 
-The first is a V-shaped light field, with a wide range of sightings and a long duration. The second is a lined light point, which appears in the south of Phoenix and is later identified as a military flare. The National Guard is trained nearby, and the flares hang on the parachute, slowly falling.
+The first section is a V-shaped light array with a wide range of sightings and a long duration. The second segment was an array of points of light that appeared south of Phoenix and were later identified as military flares. National Guard troops were training nearby, and flares were attached to parachutes and slowly dropped.
 
-The same night, two of the scenes were captured by the media as a "phoenix light incident." This is the key to the story becoming bigger.
+The two sightings occurred on the same night and were combined into one "Phoenix Lights Incident" by the media. This is the key to making the story bigger.
 
-## Lights
+## Flare
 
-The explanation of the flares is supported by evidence.
+The flare explanation is supported by evidence.
 
-The training records, time, location and witness descriptions are right. The flares burn in the air, are bright, long in duration, lined up. From a distance, they look like a row of stopped light.
+Training records, time, location and eyewitness descriptions matched. Flares burn in the air with high brightness, long duration, and are arranged in rows. From a distance, they look like a row of stopped light spots.
 
-But the flare doesn't explain the V-ray. V-witnesses appear earlier, larger and more witnesses. It doesn't have a training record for the same time.
+But flares cannot account for V-shaped light arrays. V-shaped sightings occur earlier, are more widespread, and have more witnesses. It has no training records for the same time.
 
-## V-shaped
+## V Shape
 
-The interpretation of the V light array is inconclusive.
+The explanation for the V-shaped light array is inconclusive.
 
-Some say it is a group of aircraft; others say it is a balloon; others say it is a distant city where lights reflect on thin clouds; and some say it is an alien ship.
+Some said it was a group of airplanes; some said it was a balloon; some said it was the lights of distant cities reflected on thin clouds; others said it was an alien spacecraft.
 
-There are no radar records, no clear close photographs, no traces of objects. The light in the video is dark, unable to determine distance and size.
+There were no radar records, no clear close-up photos, no traces of the object. The light spots in the video are very dark, making it impossible to judge distance and size.
 
-## Synthesis of memory
+## Memory Synthesis
 
-What is most worth studying is not the light, but the memory.
+What is most worth studying about the Phoenix Light Event is not the light, but the memory.
 
-The same night, two things were synthesized by the media, witnesses, and later documentary films. One remembers the "big V-shaped ship" and not the "two different sets of light." The more complete the story, the easier the detail is to be omitted.
+Two events on the same night were combined into one story by the media, witnesses and later documentaries. People remember the "giant V-shaped craft," not the "two distinct sets of lights." The more complete the story, the easier it is for details to be omitted.
 
-This is also the common structure of modern UFO events: an interpretable phenomenon, plus an unexplained phenomenon, plus a nice name.
+This is also the common structure of modern UFO incidents: an explainable phenomenon, plus an unexplainable phenomenon, plus a good name.
 
-## Supplementary Notes
+## Supplementary Note
 
-After the Phoenix Light incident, Arizona was seen with a lot of light. Some were indeed flares, some airplanes, and some balloons. One event created a template, which was later filled in. The clearer the template, the easier the misperception.
+After the Phoenix Lights incident, there were many "light array" sightings in Arizona. Some are indeed flares, some are airplanes, and some are balloons. One event establishes a template, and subsequent sightings fill in the template. The clearer the template, the easier it is for misidentification to occur.
 
-## Location of the archives
-
-Phoenix Light is a "collective witness" file. It has a lot of witnesses, a few videos, and two different phenomena. The value of archives is to separate V-shaped light arrays and flares, rather than to combine them into a story that is easier to spread.
+## Archive Location
+Phoenix Light is a "collective witnessing" type of archive. It has numerous witnesses, several videos, and two distinct phenomena. The value of the archive lies in separating the V-shaped light array and the flares, rather than merging them into a more easily disseminated story.
 
 ---
 

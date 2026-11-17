@@ -74,51 +74,41 @@ The paper of 1909 is long gone. The monster is still around, printed on T-shirts
 
 *Original schematic: the 1909 series in the Middletown Valley Register, the features of the creature and the spread of the story. Not a historical photograph. Oddity Archive, CC BY-SA 4.0.*
 
-## Midard Valley
+## Midlothian Valley Gazette
 
-In February 1909, the Midard Valley newspaper in Frederick County, Maryland, published a long story on the front page.
+In February 1909, the *Midlothian Valley Gazette* of Frederick County, Maryland, ran a sprawling front‑page story. Over the next several weeks, the paper almost daily delivered fresh updates: the Smithsonian Institution was reportedly preparing to dispatch experts, and President Theodore Roosevelt himself might attend the manhunt.
 
-In the next few weeks, the newspapers have news in almost every issue. It is reported that the Smithsonian Society is ready to send experts to investigate, and that President Theodor Roosevelt may be personally involved in the round-up.
+## German Immigrant Terminology
 
-## The word German immigrants
+Snanly is a low hill and farmland area in Frederick County. By 1909, the term had morphed into “snallygaster”—a German word that English newspapers had repurposed as the name of a monster.
 
-The South Ridge is a low mountain and farmland in Frederick County.
+## The Jersey Devil
 
-By 1909, the term had become “snallygaster”. A German word, changed by the English newspaper to the name of the monster.
+The snallygaster did not materialize out of nothing.
 
-## Jersey devil
+## The Seven‑Spoked Star
 
-Snaligast didn't come out of nowhere.
+Many local families painted a seven‑spoked star on barn doors, supposedly to ward off the beast. The star is a long‑standing protective symbol in European folklore, commonly brought by immigrants to America and affixed to barns, lintels, and stalls. The 1909 monster scare gave this motif a fresh purpose.
 
-## Seven Point Star
+## The Hoax
 
-Many families in the area painted the Seven Point Star on the barn door and were said to be able to block the monster.
+The series of reports continued for several weeks. Eventually, editor George C. Rodrick and reporter Ralph S. Wolf admitted that the story was fabricated—there was no creature, no steel claws, no Roosevelt‑led raid. Nevertheless, the paper’s circulation rose. A faked tale created to boost sales outlived the newspaper itself. Today, it appears on T‑shirts, bar walls, and serves as a mascot for Frederick County.
 
-The Seven Point Star is an ancient protective symbol that is common in European folk beliefs. Immigrants bring it to America for use in barns, doors and stables. The monster panic of 1909 gave it a new use.
+The snallygaster narrative is a snapshot of the print era. It shows that a sufficiently compelling monster can be invented in weeks and yet persist for a century. Modern social media simply compresses that span from weeks to days.
 
-## Liar
+Later, the snallygaster appeared on bar signs, fire‑department insignia, and local school handbooks. A confessed fraud ultimately became a joke that the community chose to cherish.
 
-The series lasted several weeks.
+## Afterword
 
-Later, editor George C. Rodrick and journalist Ralph S. Wolf admitted that they made the story up. No monsters, no steel claws, no Roosevelt roundup.
+Once the snallygaster hoax was acknowledged, the story became safer—no one needed to prove its existence or deny it. It could comfortably exist as a mascot on fire trucks, coffee mugs, and children’s drawings. An unmasked monster can live more lightly than one believed.
 
-The press does go up. A piece that's been written to sell the paper has lived longer than the paper. Today, it's printed on a T-shirt, hanging on the bar wall, it's a mascot in Frederick County.
+In 1909, the Midlothian paper described the snallygaster as a flying creature that stole livestock and drank blood. The tale spread from Baltimore to Washington and later inspired the names of local bars and teams. The coverage contained no photographs or specimens, existing only in old newspapers.
 
-The story of Snaligast is a specimen of the newspaper age. It proves that a monster is good enough to be built in a few weeks and live a century. Today's social media is just a few days shorter.
+The reports focused on 1909, depicting the creature as half‑bird, half‑serpent. The name was later adopted by a local tavern, and eventually became a team mascot.
 
-Snaligast later appeared in the bar sign, fire department badges, and local school books. An acknowledged scam became a joke where the place wanted to keep it.
+The old newspapers survive. They can be found on microfilm in libraries, which must be hand‑cranked to view.
 
-## Supplementary Notes
-
-The story is safer when Snaligast's scam is admitted. No one needs to prove it exists, no one needs to deny it. It can be a mascot, and it appears in fire trucks, coffee cups and children's paintings. A debunked monster, sometimes easier than a trusted monster.
-
-In 1909, Middletown newspaper wrote about Snaligast as a flying monster. It grabbed livestock and drank blood. The story went to Baltimore and to Washington. It became the name of the local bar and team. Snaligast reported that there were no photographs or specimens. It lived in the old newspaper.
-
-Snaligast's newspaper reports, concentrated in 1909. It's described as a half-bird, half-snake thing. Later, it was used by a local bar. Later, it became a mascot for the team.
-
-The old paper is still there. In the microfilm of the library, you can find it.
-
-Snaligast's name, it's written in many versions. No one can determine which is right. The microfilm of the old newspaper, shake it with your hand.
+The spelling of snallygaster varied widely; no definitive version exists. The historic microfilm, however, remains a tangible link to the legend.
 
 ---
 

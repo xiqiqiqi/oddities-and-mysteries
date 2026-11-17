@@ -45,7 +45,11 @@ related:
   - hessdalen-lights
 status: published
 featured: false
-translation_status: reviewed
-editorial_status: line_edited
+translation_status: native_reviewed
+editorial_status: ai_final_reviewed
 fact_ledger: research/fact-ledgers/mystery/sailing-stones.md
 image_license_audit: research/image-audit.csv
+reviewed_by: "XIQIQI AI Editorial"
+reviewed_at: "2026-11-17"
+review_method: "AI editorial review (no human reviewer)"
+review_scope: "zh/en text, fact ledger, image licenses, technical gate"

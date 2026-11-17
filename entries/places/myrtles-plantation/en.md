@@ -64,97 +64,94 @@ The ghosts were added later. The house was already heavy enough.
 
 ## 1796
 
-Mertel Plantation, in Louisiana.
+Myrtle Plantation, in Louisiana.
 
-It was built in 1796 and belongs to General John Hampton. The house is federal, with columns, gardens and bars.
+It was built in 1796 and belonged to General John Hampton. The house is in the Federal style, with columns, gardens and iron fences.
 
-## Yellow fever
+## Yellow Fever
 
 The history of plantations is related to yellow fever.
 
-Yellow fever was prevalent in Louisiana in the 1790s. Many people died, including slaves and masters. Houses and cemeteries left behind the history.
+In the 1790s, yellow fever was epidemic in Louisiana. Many people died, slaves and masters alike. The house and cemetery leave this history behind.
 
-Yellow fever has changed the history of plantations.
+Yellow fever changed the history of plantations.
 
-In the 1790s, a lot of people died. Houses were resold and owners changed for generations.
+Many people died in the 1790s. The house was resold and its owners changed for several generations.
 
-## Name
+## The Name
+The plantation was originally called "Foxhall".
 
-The plantation was originally called Foxhall.
-
-Later, the owner changed his name to “Myrtles”. The name came from a porcelain mammoth, which grew a lot around the house.
+Later, the owner changed his name to "Myrtles". The name comes from a plant of the myrtle family, which is grown in abundance around the house.
 
 ## 1871
 
-In 1871, a murder took place on the plantation.
+In 1871, a murder occurred on the plantation.
 
-The owner was shot dead in the porch. The case was not solved and the house was later resold.
+The owner was shot and died on the porch. The case was not solved and the house was later resold.
 
 ## Chloe
 
-The ghost of the plantation, the most famous one is Chloe.
+The most famous of the plantation ghosts is Chloe.
 
-Legend has it that she was a slave, who was cut off from her ears for listening or making mistakes. She wandered around the house, took care of the children, and was scary.
+Legend has it that she was a slave whose ears were cut off for eavesdropping or making mistakes. She wanders around the house, takes care of the children, and is also scary.
 
 ## Mirror
 
-There's a mirror in the house.
+There is a mirror in the house.
 
-The legend says that the child's palms are left behind by ghosts. There are also people who say that the mirror itself is a problem.
+Legend has it that there is a child's paw print on the mirror, which was left by a ghost. Some people also say that it is a problem with the mirror itself.
 
-The mirrors in the house are tourist sites.
+The mirror in the house is a tourist attraction.
 
-The tour guide said there was a child's handprint on the mirror. There were also people who said it was the mirror itself.
+The tour guide said that there were child's paw prints on the mirror. Some people also say that it is a problem with the mirror itself.
 
-## Tourism
+## Travel
 
-The plantation is now a tourist destination.
+The plantation is now a tourist attraction.
 
-Tourists can visit houses, gardens and cemeteries.
+Visitors can visit the house, gardens and cemetery. The tour guide tells ghost stories and also talks about slavery.
 
-The house is still there, the garden is still there. The ghost story is just the surface, and below it is the history of slavery and the land.
+The house is still there, the garden is still there.，。
 
-Tourists come to hear ghost stories and come to houses. But the real history of the house is the wealth of slaves' labour and land. Ghost stories can tell, slavery must not be forgotten.
+Visitors come to hear the ghost stories and to see the houses.，。 Ghost stories can be told, but slavery cannot be forgotten.
 
-The house can be repaired, the garden can grow, history cannot be deleted.
+，，。
 
-History will not be repaired, but will be told as another story.
+，。
 
-Ghost stories can tell, history can't forget.
+Ghost stories can be told, but history cannot be forgotten.
 
-## The house
+## House
 
 The house is still there.
 
-It is not a “ghost house”, but a place of land, slavery and memory.
+It's not a "haunted house" but a place about land, slaves and memory.
 
 ## Slavery
 
-Mertel Plantation, a slave farm.
+Myrtle Plantation was a slave farm.
 
-The people in the house live on the work of slaves.
+The people in the house lived off the labor of slaves. Slaves lived in outhouses, farmed, cooked, and took care of the children.
 
-## Ghost
+## The Ghost
+The ghost of the plantation is the memory of slavery.
 
-The ghosts of the plantation are the memories of slavery.
+The story of Chloe is about the death and wandering of a slave. It is not just a ghost story, but also a historical wound.
 
-Chloe's story, it's about the death of a slave and wandering. It's not just a ghost story, it's a wound of history.
-
-## Protection
+## Protect
 
 The plantation is now a museum.
 
-It tells stories about houses, gardens, slavery and ghosts. Tourists can see two versions of history.
+It tells stories about houses, gardens, slavery, and ghosts. Visitors can see two versions of history.
 
-## Garden
+## The Garden
+The plantation has gardens, oak trees and iron fences.
 
-The plantations have gardens, oaks and bars.
+The garden has flowers, trees and statues. In front of the house, there is a path.
 
-There are flowers, trees and statues in the garden. In front of the house, there is a path.
+## File
 
-## Archives
-
-The Milltle Estate was built in 1796, and it's owned by David Bradford. The main house, the garden, and the iron gates, all of them are the same as the old South.
+Myrtle Hall was built in 1796 for David Bradford. The main house, garden and iron gate all retain their old South appearance.
 
 ---
 

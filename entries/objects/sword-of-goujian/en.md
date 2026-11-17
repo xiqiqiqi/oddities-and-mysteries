@@ -72,69 +72,68 @@ The Sword of Goujian is one of the most popular objects in the Hubei Provincial 
 
 It sits in a climate-controlled case. Under the lights, the dark pattern on the blade shifts in tone. More than two thousand years later, it still looks like a weapon just drawn from its sheath.
 
-## Cemetery No. 1
+## Wangshan Tomb No.1
 
-The Viet Nam king has sabered the earth in the tomb of Chu, the mausoleum of Lake North River.
+The sword of King Goujian of Yue was unearthed from Chu Tomb No. 1 in Wangshan, Jiangling, Hubei.
 
-In 1965, the archaeology team found a box of swords in the grave. The sword was placed in the box, the body was almost complete, and the blade was painted with traces of wood. The master of the grave was not a conjure, but a noble or an official of Chu.
+In 1965, an archaeological team discovered a sword box in the tomb. The sword is in a box, the blade is almost complete and the scabbard has traces of lacquered wood. The owner of the tomb is not Gou Jian, but a noble or official of the Chu State.
 
-Why is a Viet Nam sword buried in Chu's grave? The most common explanation is spoils, gifts of marriage or diplomatic gifts. The country's relations with Chu are complex, fought and united. The sword can be taken away as a spoil or sent away as a gift.
+Why is a sword from the King of Yue buried in the tomb of Chu? The most common explanations are spoils of war, marriage gifts, or diplomatic gifts. The relationship between Yue and Chu is complicated. They have fought wars and formed alliances. Swords can be taken away as trophies or given away as gifts.
 
-## A diamond shadow
+## Diamond Dark Pattern
 
-The sword has the rules of the diamond shadow.
+There are regular diamond-shaped dark patterns on the sword.
 
-These are not painted, but the fabrics of the metal tissue itself. The researchers look with microscopes and find that the tin content of the dark zone is high, different from the gold surrounding it. When casting, the craftsmen may use different alloys, different grinding methods, to form layers of the surface.
+These dark patterns are not painted on, but the patterns of the metal structure itself. The researchers observed with a microscope and found that the tin content in the dark pattern areas was higher, which was different from the surrounding golden areas. When casting, craftsmen may use different alloys and different polishing methods to form layers on the surface.
 
-This process is called "composite metal" or "surface alloyation". It requires precise temperature, time and material control.
+This process is called "composite metal" or "surface alloying". It requires precise control of temperature, time and materials. The fact that craftsmen could do it more than two thousand years ago shows that the bronze technology at that time was very mature.
 
-## Birdbird Book
+## Bird and Insect Book
 
-The eight words on the sword are “the Viet King's knitting, self-acting swords”.
+The eight characters on the sword are "King Goujian of Yue made his own sword."
 
-The word is a book of birds, a highly decorative bronze. The pen is like a bird, a worm, curled, stretched, and in some cases decorated. It is not a daily writing, but a "magic word" for weapons and rituals.
+The characters are in Niao Chong Shu, a highly decorative bronze inscription. The strokes resemble birds and insects, curved and elongated, with decorations added in some places. It is not a daily writing, but an "artistic calligraphy" used for weapons and ritual vessels.
 
-These eight words make the identity of the sword certain. Without an inscription, it is only a fine bronze sword; with it, it becomes a sword to thee.
+These eight characters make the identity of the sword certain. Without the inscription, it is just an exquisite bronze sword; with the inscription, it becomes Gou Jian's own sword.
 
-## Why is it sharp?
+## Why is It Still Sharp?
 
-When the sword came out of the ground, it was said to be capable of cutting fingers.
+When the sword was unearthed, it was said that it could cut fingers.
 
-It is not rusty for a number of reasons: bronze itself is resistant to corrosion; the blades and swordcases separate it from the outside world; the graveyards are stable in the environment, with few moisture and oxygen; and the tin layers on the surface of the sword are also protective.
+It has no rust, for several reasons: bronze itself is corrosion-resistant; the scabbard and sword box separate it from the outside world; the environment in the tomb is stable with not much moisture and oxygen; and the tin layer on the surface of the sword also plays a protective role.
 
-"No rust" is a relative term. The sword is rusty, but not rusty enough to destroy it. It's well preserved, but it's not new.
+"Rustless" is a relative term. There is still rust on the sword, but it is not rusty enough to destroy the sword. It is well preserved but not brand new.
 
 ## Now
 
-The Viet Wang's sword is now one of the treasures of the town halls of the Hubei Museum.
+The Sword of King Goujian of Yue is now one of the treasures of the Hubei Provincial Museum.
 
-It is not often shown abroad because bronze swords are sensitive to humidity, vibrations, and light. When displayed, the booths are designed to control temperature control wet, and the lights filter ultraviolet.
+It is not often exhibited abroad because bronze swords are sensitive to humidity, shock and light. When on display, the display cabinets must be temperature- and humidity-controlled, and the lights must filter ultraviolet rays.
 
-A sword, from the cross-country battlefield, to the grave of Chu, to the museum's exhibition cabinet. It travels longer than its master.
+A sword, from the battlefield of Yue State, to the tomb of Chu State, and then to the display cabinet of the museum. Its journey is longer than its owner's.
 
-## Swordstick
+## Scabbard
 
-When the sword comes out of the ground, it is placed in a wooden box.
+When the sword was unearthed, it was placed in a lacquered wood sword box.
 
-The sword box is corrupted, but the shape is still there. The blade is painted, with the edges, with the metal buttons. The sword is in the scaffold, the scaffold in the box, the box in the grave. The fourth layer is protected, and the sword is protected from water and air.
+The sword box has decayed, but its shape remains. The scabbard is painted, patterned and has a metal buckle. The sword is in the sheath, the sheath is in the box, and the box is in the tomb. Four layers of protection allow the sword body to avoid water and air.
 
-When the archaeology team opened the box, the sword was almost complete. There were two bumps on the handles of the sword, tied to the ropes. The sword was loaded with blue lily and green pine stones.
+When the archaeological team opened the box, the sword was almost complete. There are two raised hoops on the hilt with rope wrapped around it. The sword grid is inlaid with blue glass and turquoise.
 
-## An inscription
+## Inscription
 
-The eight words are also controversial.
+The eight-character inscription is also controversial.
 
-Some say that the word is “the sword of the Viet Nam King”; others say that the last word is not the sword, but the “sword” or the “sword of the sword”. The sequence and interpretation of the words are different and divergent among scholars.
+Some people say that the word is "King Goujian of Yue made his own sword"; some people say that the last word is not "sword", but "using sword" or "sword". Different scholars have different opinions on the arrangement and interpretation of the characters.
 
-But the word "the Viet King" is basically uncontroversial. The master of the sword is the King of the Viet Nam. The inscription has changed the sword from an ancient sword to a named instrument.
+But there is basically no controversy about the words "King Goujian of Yue". The owner of the sword is the king of Yue. The inscription transformed the sword from "an ancient sword" into "an artifact with a name."
 
-## Copy
+## Replica
+Researchers have tried replicating the sword.
 
-The researchers tried to copy this sword.
+They used bronze, tin and lead to cast them according to the proportions at that time, and then made diamond-shaped dark patterns and surface treatments. The replica can be similar in appearance, but it is difficult to achieve exactly the same metal structure.
 
-They use bronze, tin, and lead, which are made at the time of the match, and are then treated with the diamond shadow and surface. The replicas can be similar, but it is difficult to do exactly the same metal tissue.
-
-The idea of copying experiments is not to build a fake sword, but to understand the process. Each failure shows what the craftsman at the time solved.
+The significance of the replication experiment is not to make a fake sword, but to understand the craftsmanship. Every failure illustrates what problem the craftsmen at that time solved.
 
 ---
 

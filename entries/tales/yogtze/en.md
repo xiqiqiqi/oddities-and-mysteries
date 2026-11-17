@@ -84,107 +84,107 @@ What he understood that night, no one knows.
 
 ## 1984
 
-October 25, 1984, A45 highway, Germany.
+Germany's A45 motorway, October 25, 1984.
 
-A man, stop by the side of the road, get out of the car and fall down.
+A man parked his car on the side of the road, got out of his car, and then collapsed.
 
-## The tavern
+## Tavern
 
-He had a drink in a tavern before.
+He had been in a pub before and had a glass of wine.
 
-He said someone was going to kill him.
+He said someone was trying to kill him.
 
-## A.M
+## Early Morning
 
-At 1 a.m., he left the tavern.
+At one o'clock in the morning, he left the tavern.
 
-He drove on A45 and then stopped by the side of the road.
+He drove onto the A45 and pulled to the side of the road.
 
 ## A45
 
-When the police found him, he was dead.
+When police found him, he was already dead.
 
-His car was parked on the side of the road and the door was open.
+His car was parked on the side of the road with the door open.
 
-A45, it's a German highway.
+A45 is a highway in Germany.
 
-It went through the mountains, bended them up, and the slopes were steep, and there was a death in 1984.
+It passes through mountainous areas with many turns and steep slopes. In 1984, a death occurred there.
 
 ## Note
 
 He left a note.
 
-The note says "YOGTZE." Nobody knows what that word means.
+The note said "YOGTZE". No one knows what this word means.
 
 The deceased left a note.
 
-The note says "YOGTZE." Nobody knows what that word means.
+The note said "YOGTZE". No one knows what this word means.
 
-## Forty years
+## Forty Years
 
 The case was not solved.
 
-"Yogtze" became a mystery.
+"YOGTZE" became a mystery.
 
 ## 2025
 
-In 2025, the case was still under investigation.
+In 2025, the case is still under investigation.
 
 There is no new evidence.
 
-## Words
+## Word
 
-"YOGTZE" may be a name, a place, a password.
+"YOGTZE" could be a name, a place, a password.
 
-Nobody knows.
+No one knows.
 
-## Cases
+## Case
 
 The case was not solved.
 
-The police investigated and the killer was not found.
+The police investigated but did not find the murderer.
 
-## Supplementary Notes
+## Supplementary Note
 
-"YOGTZE" is an answerless word.
+"YOGTZE" is a word that has no answer.
 
-It was written on a note and left in the dead man's car.
+It was written on a note and left in the deceased's car.
 
-Nobody knows what it means.
+No one knows what it means.
 
 ## Now
 
-The case is still on file.
+The case remains on file.
 
-The word's still there.
+The words are still there.
 
-## Last
+## Last Note
 
-He died on October 25, 1984. The words on the note were the only name of the case. The police didn't find the killer and they didn't find an answer.
+He died on October 25, 1984. The words on the note became the only name of the case. The police found no killer and no answers.
 
-YOGTZE is not explained. The case is not solved. The two facts remain in the file together.
+"YOGTZE" has no explanation. The case was not solved. These two facts remain in the file together.
 
-Words have no meaning, cases have no answers. Together, they are a mystery.
+Words have no meaning, cases have no answers. Together, they become a mystery.
 
-The mystery's still there.
+The mystery remains.
 
-## Archives
+## File
 
-On October 25, 1984, a man died by the German highway. He had a note in his car, "YOGTZE."
+On October 25, 1984, a man died on the side of a German autobahn. There was a note in his car that said "YOGTZE."
 
-The note also contained letters and numbers, but the police only made public the word “YOGTZE”.
+There were letters and numbers on the note, but police only released the word "YOGTZE."
 
-The police checked the note and his past.
+The police looked at the note and looked into his past. Neither line is open.
 
-The note is written in a round pen. The handwriting is determined, and there is no conclusion.
+The words on the note were written with a ballpoint pen. Handwriting identification, inconclusive.
 
-His car, parked on the side of the road. The door was locked and the key was still there. He lived in a hotel before he died. His name was on the hotel register.
+His car was parked on the side of the road. The door is locked and the key is still there. Before his death, he stayed in a hotel. His name is on the hotel register.
 
-The case was later classified as “unsolved” and the file was not made public.
+The case was later classified as "unsolved." The files have not been made public.
 
-His family moved away.
+His family later moved away.
 
-The file is still in place. The answer is no.
+The file is still there, but the answer is not.
 
 ---
 

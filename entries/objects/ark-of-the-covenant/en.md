@@ -68,67 +68,64 @@ The guardian monk is still in Aksum. The Holy of Holies in Jerusalem is only sto
 
 ## Box
 
-The locker is a wooden box.
+The Ark of the Covenant was a wooden box.
 
-The Exodus says it's made of golden alloy wood, and it's two and a half elbows, one and a half elbows wide and one and a half elbows tall. There are two Kiloberts in the box, with wings attached, and in the middle it's "Shobs."
+"Exodus" says that it was made of acacia wood and overlaid with gold on the inside. It was two cubits and a half long, a cubit and a half wide, and a cubit and a half high. The chest had two cherubim, their wings touching, and in the middle is the "mercy seat".
 
-## The Holy House
+## Sanctuary
 
-The Ark of the Covenant is in the Holy House.
+The Ark of the Covenant was placed in the Holy of Holies.
 
-The Holy House is the innermost level of a tent or a temple, only the High Priest can enter once a year.
+The Holy of Holies was the innermost part of the tent or temple and was accessible only to the high priest once a year. There is a pillar of cloud on top of the Ark of the Covenant, symbolizing the presence of God.
 
-## He's been robbed
+## Robbed
 
-The Covenant cabinet has been seized in history.
+The Ark of the Covenant was captured more than once.
 
-The Philistines defeated the Israelis and took the covenant cabinet. Later, it was sent back to Jerusalem. The covenant cabinet disappeared after the Babylonians destroyed the temple.
+The Philistines defeated the Israelites and took the ark away. Later, the Ark was returned and placed in Jerusalem. After the Babylonians destroyed the temple, the Ark disappeared.
 
-## Disappear
+## Disappearance
+There is no reliable record of the whereabouts of the Ark of the Covenant.
 
-There is no reliable record of the whereabouts of the Ark.
-
-Some say it was buried beneath the Temple Mount; others say it was taken to Ethiopia; others say it was taken away by angels; and every statement lacks evidence.
+Some say it was buried under the Temple Mount; some say it was taken to Ethiopia; some say it was carried away by angels. Each claim lacks evidence.
 
 ## Ethiopia
 
-In Aksum, Ethiopia, there is a Church of the Holy Virgin of Zion.
+There is a Church of Our Lady of Zion in Aksum, Ethiopia.
 
-The church was set up with a “compasure cabinet” but was not open to the public.
+An "Ark of the Covenant" is enshrined in the church, but it is not open to the public. Ethiopian legend says that the Ark was carried away by Solomon and the son of the Queen of Sheba.
 
-## Find
+## Looking for
 
-Archaeologists looked at the convention cabinet, but they didn't find it.
+Archaeologists searched for the Ark of the Covenant but could not find it.
 
-The Temple Mount is a sensitive area and cannot be dug at will. The Ethiopian church is not allowed to be visited by outsiders. The Covenant cabinet is an unverifiable object.
+The Temple Mount is a sensitive area and cannot be excavated at will. Ethiopian churches also do not allow outsiders to view them. The Ark became an unverifiable object.
 
-A box, which has been searched, contested, imagined for 3,000 years. It's not just an archaeology problem.
+A box that has been searched for, fought for, and imagined for three thousand years. Whether it exists is no longer just an archaeological question.
 
 ## Theology
 
-The Covenant is a symbol of God.
+The Ark of the Covenant is a symbol of God’s presence.
 
-It's not a magic box. It's power, it's from the contract it represents, not from wood or gold.
+It's not a magic box. Its power comes from the contract it represents, not from wood or gold.
 
 ## Archaeology
+Archaeologists have not found the Ark of the Covenant.
 
-Archaeologists did not find the Ark.
+The Temple Mount cannot be excavated and churches in Ethiopia are not open. The existence of the Ark of the Covenant can only depend on words and faith.
 
-The Temple Mount cannot be excavated, and the Ethiopian churches are closed. The Covenant cabinets exist only on words and beliefs.
+A box became a sacred object of three religions. Its meaning is greater than its physical form.
 
-One box, it's a sacred object of three religions. It's more meaningful than its object.
+## Summing Up
+The Ark of the Covenant is a box.
 
-## Summing up
+Its meaning is not in the wood and gold, but in the contract it represents.
 
-The cabinet, it's a box.
+There is no archaeological evidence to prove where it is. Its existence belongs to faith, not to museums.
 
-It means nothing in the wood and gold, and it represents the contract.
+The story of the Ark of the Covenant is not over. It just moves from one place to another, and then to people's imagination.
 
-There is no archaeological evidence of where it is. It exists, it belongs to faith, it does not belong to museums.
-
-The story of the Covenant is not over. It's just moving from one place to another, moving to the imagination.
-
-The box can disappear, not the story. As long as there is still a believer in the contract, the Ark is still somewhere, and it's being carried away.
+The box can disappear, the story cannot. As long as there are people who believe in that covenant, the Ark of the Covenant is still somewhere, being carried around.
 
 ---
 

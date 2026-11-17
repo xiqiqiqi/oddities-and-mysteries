@@ -66,51 +66,49 @@ The people of Shag Harbour did not forget. A local society collected testimony, 
 
 For a small fishing village, it is a story that can last generations. For the archive, it is a single page without a conclusion: on a certain night, an unidentified object fell into the sea, and the search found nothing.
 
-## The fall of 1967
+## Autumn 1967
 
-The incident in the port of Sharq took place on the night of October 4, 1967.
+The Shag Harbor incident occurred on the night of October 4, 1967.
 
-The site is on the southern coast of Nova Scotia, Canada, near the sea of the port of Shag. Witnesses say that an object with light fell from the sky and did not explode, did not sink, but drifted for a while and disappeared.
+The location is on the southern coast of Nova Scotia, Canada, on the sea near Shag Harbor. Witnesses said that a light object descended from the sky and did not explode or sink after touching the water. Instead, it floated for a while and then disappeared.
 
-The caller was a local resident, and the Royal Canadian Mounted Police and the Coast Guard were both present. The search lasted several days, and no debris was found, nor did any of the witnesses find the “foams” or “fragments”.
+The person who called the police was a local resident, and later the Royal Canadian Mounted Police and the Coast Guard arrived at the scene. The search lasted several days and found no wreckage or what witnesses described as "foam" or "debris."
 
-## The Cold War Sea
+## Cold War Sea
 
-The North Atlantic in 1967 was a cold war listening area.
+The North Atlantic in 1967 was a Cold War surveillance zone.
 
-Any unidentified underwater object is taken seriously on the eastern coast of Canada, with naval bases, anti-submarine patrol aircraft, and sonic net. This is why the incident at Sharg Harbour was studied repeatedly: it was not seen by a single fisherman, but by police, military, and multiple civilians.
+Canada's east coast has naval bases, anti-submarine patrol aircraft and sonar nets. Any unknown underwater objects will be taken seriously. This is also the reason why the Shag Harbor incident was later studied repeatedly: it was not seen by just one fisherman, but had the testimony of police, military and multiple civilians.
 
-But “take seriously” does not mean “identify.” The Navy has limited search coverage, the topography of the sea floor is complex, and night visibility is poor. If an object is rapidly sinking or taken away by current, it leaves the search area within hours.
+But "taking it seriously" does not mean "confirming identity." The navy's search range is limited, the seabed terrain is complex, and visibility is poor at night. An object that sinks quickly or is carried away by currents can leave the search area within hours.
 
-## No debris
+## No Wreckage
 
-The most famous sentence of the port of Sharq is, "Nothing is found."
+Shag Harbor's most famous saying is: "Nothing found."
 
-No metal fragments, no oil, no radiation anomalies, no underwater debris. No sound sweeps the sea floor, no big objects. This leaves the event unproven or negative.
+No metal flakes, no oil, no radiation anomalies, no underwater debris. Sonar scanned the seafloor and found no large foreign objects. This makes the incident neither confirmed nor denied.
 
-Some say that the object was later taken away by the United States Navy; some say that it was a crash plane; some say that it was a bait for Soviet submarines; none of these claims are documented.
+Some say the object was later taken away by the U.S. Navy; some say it was a crashed plane; some say it was a decoy for a Soviet submarine. None of these claims are supported by documentation.
 
-## Archives and memory
+## Archives and Memory
 
-The incident at Sharq port was later written into the Canadian UFO file and filmed as a documentary.
+The Shag Harbor incident was later included in Canada's UFO archives and was also made into a documentary.
 
-Its vitality lies not in what the light is, but in where it happened: a quiet fishing village, suddenly, came to the police, soldiers and journalists. For the first time, the villagers discovered that the sea surface at their door might be linked to national security.
+Its vitality does not lie in what the light is, but in the place where it occurs: in a quiet fishing village, police, soldiers and reporters suddenly arrived. For the first time, the villagers discovered that the sea in front of their homes might be related to national security.
 
-Today, the port of Sharg is a fishing port. The sea is wide and the sky is blue. The light of that night is not back, and the file does not answer.
+Today, Shag Harbor is still a fishing port. The sea is wide and the sky is blue. The light didn't come back that night, and the file didn't give an answer.
 
-## Supplementary Notes
+## Supplementary Note
 
-The most clear thing in the Sharq Port file is not that object, but the search process. The police, fishermen, coast guards and the navy record what they see. These records complement and contradict each other. The more an event is investigated, the more it leaves behind many different versions.
+What is clearest about the Shag Harbor archives is not the object, but the search process. The police, fishermen, coast guard and navy each recorded what they saw. These records complement and contradict each other. The more seriously an incident is investigated, the more different versions will emerge.
 
-## Location of the archives
+## Archive Location
+Shag Harbor is a prime example of the "official sightings" category. It has multiple testimonies from police, soldiers, fishermen and journalists, but no physical evidence. Multiple testimonies make the incident credible, but the absence of physical evidence makes it impossible to close the case. The archive retains this tension and does not choose sides for the reader.
 
-Sharg Harbour is a typical “official witness” type of file. It contains multiple testimonies from police, military, fishermen, and journalists, without physical evidence. Multiple testimonies make the events credible, and the absence of physical evidence makes it impossible to close the case.
+## Further Notes
+Portions of Shag Harbor's official archives were later released. The documents include search routes, sighting times and phone records, as well as the conclusion that "no wreckage has been found." They don't provide answers, but they provide a skeleton that can be checked. Legend has it that the most fearful thing is not suspicion, but someone turning out the original records page by page.
 
-## Memory
-
-The official file of the port of Sharq was later partially made public. The documents contained search routes, eyewitness time and telephone records, and the conclusion that “no remains were found.” They did not provide answers, but provided a skeleton that could be verified. The story was not about suspicion, but about someone turning one page of the original record.
-
-After the search, calm was restored to the sea. The light of that night left no traces, leaving only a few pages of reports and a village memory.
+After the search, the sea calmed down. The light that night left no trace, only a few pages of reports and the memory of a village.
 
 ---
 

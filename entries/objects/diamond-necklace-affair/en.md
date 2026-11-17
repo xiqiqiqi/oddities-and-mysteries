@@ -66,71 +66,68 @@ Three years later, the French Revolution began. Marie Antoinette was sent to the
 
 The necklace was never seen intact again. Its diamonds were scattered across crowns and jewellery in Europe, leaving only a story of greed, credulity, and court politics.
 
-## The necklace
+## Necklace
 
-This necklace was made for Mary Antoinette, Queen of Louis XVI.
+This necklace was made for Marie Antoinette, Queen of Louis XVI.
 
-The jeweller Boehmer designed a huge diamond necklace, with hundreds of diamonds, at an unusually high price. He wanted the queen to buy it, but the queen didn't. The necklace was left in the shop, and it became a burden.
+Jeweler Boehmer designed a huge diamond necklace with hundreds of diamonds for a ridiculous price. He wanted the queen to buy it, but she didn't. The necklace was left in the store and became a burden.
 
-## Ron
+## Rohan
 
-Bishop Cardinal de Rohan wants to please the Queen.
+Cardinal de Rohan wanted to please the queen.
 
-He was an ambitious and indebted nobleman. He believed that if he could buy the necklace for the queen, he would enter the heart of the palace.
+He is a nobleman with ambitions and debts. He believed that if he could help the queen buy the necklace, he would gain access to the heart of the court.
 
-## Jenna
+## Jeanne
 
-Jeanne de la Motte is the key to this scheme.
+Jeanne de la Motte was the key to the scam.
 
-She claims to be a friend of the Queen who can arrange a secret deal. She convinces Ron that the Queen wants a necklace, but she doesn't want to buy it publicly. Ron signed the contract, took it, and handed it to Jeanna.
+She claimed to be a friend of the queen and could arrange secret deals. She convinced Rohan that the queen wanted the necklace but was unwilling to buy it publicly. Rohan signed the contract, took the necklace, and gave it to Jeanne.
 
-## Liar
+## Scam
 
-The necklace is not in the hands of the Queen.
+The necklace did not reach the queen's hands.
 
-Janna and her associates took down the diamonds and sold them to London. Ron received no thanks from the queen, but was charged by the court. In 1785, Ron was arrested and brought to trial.
+Jeanne and her accomplices dismantled the diamonds and sold them to London. Rohan did not receive the queen's thanks, but was accused by the court. In 1785, the story was revealed, Rohan was arrested, and Jeanne was put on trial.
 
-## Trial
+## The Trial
+The trial took place at the Paris High Court.
 
-The trial was held in the Paris High Court.
-
-Ron was acquitted, and Jeanna was sentenced to flogging and imprisonment. The queen's reputation was damaged because the public believed that she really wanted the necklace. A scheme in which she was not involved became evidence of her “luxury”.
+Rohan was acquitted and Jeanne was sentenced to whipping and imprisonment. The queen's reputation was damaged because the public believed she really wanted the necklace. A scam in which she was not involved became evidence of her "luxury".
 
 The trial was held in public.
 
-Ron was acquitted and Jean-Jenna was sentenced. Instead of making the truth clearer, the verdict made the court more embarrassing. A pontificate, a queen, a liar, contradicts one another.
+Rohan was acquitted and Jeanne was sentenced. Instead of making the truth clearer, the verdict made the court more embarrassed. A cardinal, a queen, a liar, all three have conflicting accounts.
 
-## After
+## Aftermath
+The diamonds of the necklace were scattered everywhere.
 
-Diamonds from the necklace are scattered.
+Some were recovered and some disappeared. The necklace itself is no longer complete. Its story is longer than diamonds. On the eve of the French Revolution, the necklace became a symbol of palace corruption.
 
-Some have been recovered, others have disappeared. The necklace itself is no longer complete. Its story is longer than diamonds. On the eve of the French Revolution, the necklace became a symbol of the corruption of the palace.
+## Queen's Reputation
 
-## The Queen's name
+Marie Antoinette did not buy that necklace.
 
-Mary Antoinette didn't buy that necklace.
+But the public didn't believe her. She is already known for her luxury, and the story of the necklace fits people's impression. A transaction that didn't happen became evidence of her "squandering".
 
-But the public didn't believe her. She was famous for her luxury, and the story of the necklace fits the impression. A transaction that didn't happen was evidence of her “save”.
+## Whereabouts
 
-## Decline
+The diamonds from the necklace were dismantled and sold to London.
 
-Diamonds from the necklaces were removed and sold to London.
-
-Some diamonds are recovered and others disappear. Today, no one can put them back together. The necklace is just a design and a transcript.
+Some diamonds were recovered and some disappeared. Today, no one can put them back together. All that remains of the necklace are the design drawings and written records.
 
 ## History
 
-The necklace became one of the sparks of the French Revolution.
+This necklace became one of the triggers of the French Revolution.
 
-It's not how much it's worth, it's because it makes people believe that the court is dealing in secret, squandering, cheating. A scam is more dangerous than a necklace.
+Not because of how much it was worth, but because it led people to believe that the palace was engaged in secret dealings, squandering, and deception. A scam, more dangerous than a necklace.
 
-## Summing up
+## Summing Up
+The story of this necklace is a case about "belief".
 
-The story of this necklace is a case of “belief”.
+No one has actually seen the Queen buy a necklace, but many believe she would. The scam exploited not greed but people's imagination of the court.
 
-No one really saw the queen buy the necklace, but many believed she would. The trick was not based on greed, but on the imagination of the court.
-
-The necklace disappears and the story remains. It reminds people that a rumour that meets a person's impression does not require evidence.
+The necklace disappears, but the story remains. It reminds people: A rumor does not need evidence as long as it conforms to people's impression of a person.
 
 ---
 

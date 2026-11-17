@@ -66,55 +66,53 @@ Beneath ice with no sunlight, iron, salt, and water maintain a small world. It f
 
 ## 1911
 
-Blood Falls is in the Taylor glacier in the McMurdo Valley in Antarctica.
+Blood Falls at Taylor Glacier in McMurdo Dry Valleys, Antarctica.
 
-In 1911, the geologist Griffith Taylor, during his expedition, discovered that there was a red stream of water in the front edge of the glacier. It emitted from the ice and flowed to the ice, like a rusty wound.
+In 1911, geologist Griffith Taylor discovered a red stream of water at the front of the glacier during an inspection. It seeped out of the ice and flowed onto the surface like a rust-colored gash.
 
-The researchers at the time thought that red came from some kind of red algae. That was a long story.
+Investigators at the time believed that the red color came from some kind of red algae. This statement has been circulating for a long time.
 
-## It's not a waterfall
+## Not a Waterfall
 
-The name Blood Falls is a little misleading.
+The name "Blood Falls" is a bit misleading.
 
-It's not a waterfall from a height, it's a saltwater that evaporates from the cracks of the glacier. The water is small, slow, and still liquid in the 10 degrees below zero.
+It is not a waterfall falling from a high place, but a stream of salt water seeping from the cracks in the glacier. The amount of water is very small, the flow rate is very slow, and it still remains liquid in an environment of more than ten degrees below zero.
 
-Salt water has high concentrations and low ice points. It comes from seawater residues inside glaciers, and after decades of concentration, it turns into a dark red halogen.
+Salt water has a high concentration and a low freezing point. It comes from the seawater residue inside the glacier, and after decades of concentration, it turns into a dark red brine.
 
 ## Red
 
-Red from iron.
+The red color comes from iron.
 
-Halo water contains two-price iron. When it comes to air, it is oxidized into three-price iron, forming red iron hydroxide. This process is like iron rust.
+Brine contains ferrous iron. When it comes into contact with air, the iron is oxidized to ferric iron, forming red iron hydroxide. This process is the same as iron rusting.
 
-So, the color of the blood falls is not the color of a creature, but the color of chemistry. The water starts to rust when it comes to air.
+Therefore, the color of the blood waterfall is not the color of biology, but the color of chemistry. As soon as water comes into contact with air, it begins to "rust".
 
-## Life under the ice
+## Life Under Ice
 
-What's even more surprising is the presence of microorganisms in halogenated water.
+What’s even more surprising is that there are microorganisms in the brine.
 
-These microbes survive in lightless, low-temperature, high-salt environments, with energy derived from chemical reactions of iron and sulphur. They do not need sunlight or oxygen.
+These microorganisms survive in a lightless, low-temperature, high-salt environment and obtain energy from chemical reactions of iron and sulfur. They don't need sunlight or oxygen.
 
-Bloodfalls are thus a site for astrobiology. If life survives in such a place, there may be similar life in the ocean beneath the ice of other planets.
+Blood Falls has thus become an astrobiological research site. If life can survive in such a place, then there may be similar life in the subglacial oceans of other planets.
 
-## How?
+## How to Study
 
-The researchers used ice drilling to sample the chemical composition of halogenated water and the microbiological DNA.
+Researchers used ice augers to take samples and analyze the chemical composition and microbial DNA of the brine.
 
-They found that halogen water came from an ancient oceanic pocket inside the glacier and was sealed for at least hundreds of thousands of years. The microbes in the water and the outside world were isolated for a long time, forming an independent ecosystem.
+They found that the brine came from an ancient seawater pocket inside the glacier and had been sealed for at least hundreds of thousands of years. The microorganisms in the water have been isolated from the outside world for a long time, forming an independent ecosystem.
 
-The red bloodfall is the chemistry of iron; its value is the limit of life.
+The redness of the blood waterfall is the chemistry of iron; its value is the limit of life.
 
-## Supplementary Notes
+## Supplementary Note
 
-The red blood waterfall was once seen as evidence of “glacial bleeding.” Today's chemical explanation is simple: iron meets air and oxidizes red. But it's not boring. A salty lake that is still flowing at 10 degrees below zero is a miracle of the extreme environment.
+The red color of Blood Falls was once regarded as evidence of "glacier bleeding". Today's chemical explanation is simple: iron encounters air and oxidizes and turns red. But simplicity does not mean boring. A saltwater lake that still flows at more than ten degrees below zero is a miracle of extreme environment in itself.
 
-## Location of the archives
+## Archive Location
+Blood Falls is an "Extreme Environment" type file. Its redness has a chemical explanation, its life a biological meaning. The two stacked together make it neither mysterious nor ordinary. It is a place that can be studied and marveled at.
 
-Bloodfalls are archives of the "extreme environment" category. Its red is a chemical explanation, and its life has a biological meaning. The two folds together, making it neither mysterious nor ordinary. It's a place to be studied or to be impressed.
-
-## Memory
-
-The blood falls are located in the McMurdo Valley, where access is restricted. Researchers need permission, and tourists cannot approach. It's remote, protects its chemical and biological environment, and makes the samples valuable. The harder it gets to a place, the easier it is to fill up.
+## Further Notes
+Blood Falls is located in McMurdo Dry Valleys and has limited access. Researchers need to apply for permission, and tourists are not allowed to approach at will. Its remoteness protects its chemical and biological environment and makes samples precious. The harder a place is to get to, the easier it is for the imagination to fill its story.
 
 ---
 

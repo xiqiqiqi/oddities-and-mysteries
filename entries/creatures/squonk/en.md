@@ -68,51 +68,46 @@ In a world where every monster wants to eat you, a creature that cries itself aw
 
 *Original schematic: the folklore elements, Cox's 1910 record and the later popular culture. Not a photograph of a site. Oddity Archive, CC BY-SA 4.0.*
 
-## Logging camps
+## Logging Camp
 
-The story of Scank, from the logging camp in northern Pennsylvania.
+Skonk's story, from a logging camp in northern Pennsylvania.
 
-In the late nineteenth century and early twentieth century, the loggers lived in the ironwood forest for months. The winter was long, the night wind passed through the trees, the sound of someone crying. Some people said it was not the wind, it was an animal.
+In the late 19th and early 20th centuries, loggers lived in the hemlock forests for months at a time. Winter is very long, and the wind blows through the trees at night, sounding like someone crying. Some people say that it is not the wind, but an animal.
 
-The lumberjacks live a hard and boring life. They need stories to go out of the night, and they need stories to scare the new workers. One of them is Scank: something that looks ugly, cries all day, and becomes a tear when it is pushed.
+The life of a lumberjack is hard and boring. They needed stories to pass the night and stories to scare the new workers. Skonk was one of them: an ugly thing who cried all the time and turned into a puddle of tears when pushed.
 
-## The book of 1910
+## 1910 book
 
-The first time Sconk was written in a book, it was 1910.
-
-The first state forestry officer in Minnesota, William T. Cox, wrote a little book called Horrible Organisms in the Logging Wood. He documented the various monsters that the lumberjacks talk about: can throw branches, can drill drums, laugh.
+Skonk was first written about in 1910.
 
 ## Tears
 
-Sconk's set, the core is tears.
+The core of Skonk's setting is tears.
 
-It is neither a monster that eats humans, nor a demon that curses them. It is only ugly, but sad, and it does not want to be seen. When the hunters chase it, it becomes a tear, and it disappears.
+It is not a man-eating monster, nor is it a demon that curses people. It's just ugly, it's just sad, it just doesn't want to be seen. When hunted by a hunter, it turns into a pool of tears and disappears without a trace.
 
-It's a strange and effective setting. Most monsters bite, grab, and the only thing that Sconk can do is cry and disappear. It's not scary, it's a little sad.
+This setting is strange, but also very effective. Most monsters bite and claw; all Skonk does is cry and disappear. It's not scary, it's a little sad.
 
-## And then
+## Later History
+In 1976, the British band Genesis wrote a song called "Squonk."
 
-In 1976, the British band Genesis wrote a song called Squarenk.
+In the song, Skonk hides in the mountains and cries because he is too ugly. In the end, he is surrounded by hunters and turns into a pool of tears. Later, it appeared in games, comics, and the Monster Manual.
 
-The song's Skunk, who was so ugly, was crying in the mountains and was surrounded by hunters and turned into a tear. Later, it appeared in games, comics, and monster images.
+There's nothing scary about Skonk's story. It just sat on the edge of the forest and cried until the ground was wet and turned into a puddle of water. Perhaps because of this, it has not been forgotten: in a place where all monsters want to eat people, a monster that can only be sad is the most like a human.
 
-Scank is not a real animal. It's an image of the United States logging culture, like the "True Demons Throwing branches" "The Wild Man laughing" -- a story that's told by the campfire.
+Skonk left no footprints and no specimens. What it left behind was a sentence: There is a thing deep in the forest. It is too ugly, so it cries. People who hear this sentence will remember that forest.
 
-The story of Scank is not scary. It's just sitting by the woods crying, crying to the ground wet, and then turning into a pile of water. Maybe that's why it's not forgotten: where all monsters want to eat people, a monster that only hurts, but is the most human.
+## Supplementary Note
 
-Sconk did not leave footprints, nor did he leave specimens. It left a saying: "There's something deep in the forest, it's ugly, so it cries. Whoever hears it will remember the forest."
+There are no heroes or victims in Skonk's story. When the hunter chases it, it cries; when the hunter approaches, it turns into a pool of tears. This ending offers neither victory nor explanation. It just puts a stop to the pursuit. This is rare in an age where all the stories are about teaching people how to kill monsters.
 
-## Supplementary Notes
+Skonk's story has no ending. It cries, it melts, it disappears. The next time someone walks into the woods, it will still be there. A monster that only disappears is the hardest to drive away completely.
 
-In the story of Scank, there are no heroes or victims. Hunters chase it, they cry, hunters approach, it turns into tears. This ending does not provide victory, nor an explanation. It just stops the chase. It's rare in an era where all stories teach people how to kill monsters.
+It does not chase people, nor does it wait for people. It only cries when it is seen and then disappears.
 
-The story of Skunk has no end. It cries, it melts, it disappears. The next time someone walks into the woods, it'll be there. A monster that just disappears is the hardest to get rid of.
+Skonks are the sad monsters of logging culture. It hid in the mountains and cried until its body melted. This image later found its way into children's books and advertisements. Skonk's tears are said to heal wounds. This is campfire talk, not science.
 
-It does not pursue people, nor does it wait for them. It only weeps when it is seen, and then disappears.
-
-Skunk is a sad monster in the logging culture. He's in the mountains crying and crying to get himself out. This image, later in the children's books and ads. The tears of Skunk are said to heal. This is what campfires say, not science.
-
-The story of Scank, later written in the children's book. It stopped crying and became a lovely character. The sad monster of the logging camp was tamed.
+Skonk's story was later written into a children's book. It stopped crying and turned into a cute character. The sad monster of the logging camp was tamed in this way.
 
 ---
 

@@ -62,79 +62,76 @@ Today she is on display at the Xinjiang Museum.
 
 “Loulan Beauty” has become a tourist label and a symbol of Xinjiang's ancient history. But for her, she was a middle-aged woman who died in the desert, was buried by sand for three thousand years, and was dug up by an archaeological team.
 
-## Iron River
+## Tiebanhe
 
-In 1980, an archaeology team found a female dry body near the Iron River in Robpo.
+In 1980, an archaeological team discovered a female mummy near the Tieban River in Lop Nur.
 
-She's buried in the sand, and the coffin is made of huyang wood. The body is well preserved, and the skin, hair, eyelashes are still there. She's called the "Beauty of the House."
+She was buried in the sand in a coffin made of poplar wood. The body was well preserved, with the skin, hair, and eyelashes still there. She is known as the "Beauty of Loulan".
 
-## What did she look like?
+## What Does She Look Like
 
-She was about a metre and a half tall and was about 40 years old at the time of her death.
+She was about 1.55 meters tall and about 40 years old at the time of her death.
 
-Her hair was brown and she had braids. She was wearing a sweater and shoes on her feet. Her face was thin, her nose was high and her eyes were deep.
+Her hair is brown and braided. She was wearing woolen clothes and leather shoes. Her face is thin, with a high nose and deep eye sockets.
 
-## Age
+## Era
 
-Carbon year shows that she lived about 1800 B.C.
+Carbon dating shows she lived around 1800 BC.
 
-This is earlier than the time of Lango City. She's not from the country, but from Robbo. Archaeologists call her "The Iron River Woman," and the media call her "The Blue Woman."
+This is earlier than the ancient city of Loulan. She is not from Loulan, but an earlier resident of Lop Nur. Archaeologists call her the "Tiebanhe Female Corpse" and the media calls her the "Loulan Beauty".
 
-## Save
+## Preservation
+Mummies can be preserved because of the environment.
 
-Dry bodies are preserved because of the environment.
+Lop Nur is extremely dry, and the sandy soil contains little water, making it difficult for bacteria to reproduce. The body was buried shallowly, and the wind blew the sand away, exposing the body and causing the water to evaporate quickly.
 
-Robpo is extremely dry, the sand contains less water, and the bacteria are difficult to reproduce. The bodies are buried shallowly, the wind blows away the sand, the bodies are exposed and the water evaporates rapidly.
+## Who is She
 
-## Who is she?
+There is no written record of her identity.
 
-Her identity, no transcript.
-
-She may be a local herd, farmer, or priest. Her clothes and her funerals indicate her social status, but not necessarily noble.
+She may have been a local herder, peasant woman, or priest. Her clothing and grave goods indicate that she had social status, but not necessarily nobility.
 
 ## Now
 
-She's at the Xinjiang Museum.
+She is on display at the Xinjiang Museum.
 
-The booths are warm and wet, and the lights are dark. The tourists can see her face, but they can't take pictures of her.
+The display cabinets have constant temperature and humidity, and the lighting is very dim. Visitors can see her face, but can't take photos or flash it.
 
-A woman who was saved in the desert and named after her by the modern man 3,800 years ago. Her name is not her own.
+A woman who lived 3,800 years ago was preserved by the desert and named by modern people. Her name is not her own.
 
-## Robbo
+## Lop Nur
 
-Robbo's a disappearing lake.
+Lop Nur is a lost lake.
 
-It used to have water, reeds, fishing villages. Later, the river turned, the climate dried and the lake bed turned into salt shells. The building of the city of Langu is in this area.
+It once had water, reeds and fishing villages. Later, the river changed its course, the climate dried out, and the lake bed turned into a salt crust. The ancient city of Loulan is located in this area.
 
-## Dead bodies
+## Mummy
 
-The body of a woman from the Iron River was one of the first inhabitants of Robpo.
+The female corpse of Tiebanhe is one of the earliest residents of Lop Nur.
 
-She lived around 1800 B.C., hundreds of years earlier than Lango City. She's not a "lander," but her discovery belongs to the Landland area.
+She lived around 1800 BC, hundreds of years before the ancient city of Loulan. She is not a "Loulan native", but the place where she was found belongs to the Loulan area.
 
-## Named
+## The Name
+"Loulan Beauty" is the name given by the media.
 
-"Beauty of the House" is the name given by the media.
-
-Archaeology report called "The Iron River Woman". The name changed and turned a dry corpse into a cultural symbol.
+The archaeological report is called "Tieban River Female Corpse". The change of name turned a mummy into a cultural symbol.
 
 ## Research
 
-The researchers extracted information on diet, health and migration from her hair, teeth and bones.
+Researchers extracted information about diet, health and migration from her hair, teeth and bones.
 
-She eats meat and milk, probably for her grazing. Her DNA shows that she belongs to a mixed population in Eurasia.
+She ate meat and milk and probably lived by herding cattle. Her DNA showed she belonged to a mixed Eurasian population.
 
-## Summing up
+## Summing Up
+Loulan beauties are not "Loulan natives".
 
-A beautiful woman is not a "lander".
+She lived before the ancient city of Loulan and was an earlier resident of Lop Nur. Her name was given by someone later.
 
-She lived in the city of Ramgu, earlier in Robpo. Her name was given to her later.
+She is preserved, not because of spices or technology, but because of the desert. Drying is the best preservative.
 
-She saved it not because of spice or technology, but because of the desert. Dry, it's the best preservative.
+Her face is preserved, her name is not. The desert has remembered her body, and history has forgotten her voice.
 
-Her face was saved, her name was not. The desert remembered her body, history forgot her voice.
-
-She was lying in the sand, her hair was still there, her eyelashes were still there. The desert had saved her body for 3,000 years, but not her name.
+She was lying in the sand, her hair still there, her eyelashes still there. Three thousand years have passed, and the desert has preserved her body, but not her name.
 
 ---
 

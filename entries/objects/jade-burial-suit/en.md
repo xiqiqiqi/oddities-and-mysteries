@@ -66,83 +66,82 @@ They sit in climate-controlled cases. Light comes from the side, and the jade pl
 
 A garment made for “immortality” failed to preserve the body, but it preserved the craftsmanship and beliefs of the Han dynasty in remarkable detail.
 
-## Manchuria
+## All Over the City
 
-In 1968, two Han Tombs were found in Manchuria, North of Hebei.
+In 1968, two Han tombs were discovered in Mancheng, Hebei Province.
 
-The tombs are owned by Liu Sheng, King of Nakayama, and his wife. The tombs are in the mountains, they are made of stones, and they are large. The tombs contain such objects as golden silk coats, long-sentage lamps, and the misdeeds of the Mount Kimbo.
+The owners of the tomb are Liu Sheng, Prince Jing of Zhongshan, and his wife Dou Wan. The tomb is in the mountain, and the chamber is carved out of stone. It is very large. Cultural relics such as jade burial suit, Changxin palace lanterns, and Cuojin Boshan furnace were unearthed from the tomb.
 
-## Yuk-ja!
+## Jade Clothes
 
-Liu Sheng's Jade Clothes, in gold.
+Liu Sheng's jade clothes are woven with gold thread.
 
-There's thousands of pieces of tadpoles, different shapes: rectangular, square, triangle, polygon. The tadpoles have holes in their four corners, gold lines through their holes, and they're connected.
+There are thousands of jade pieces in different shapes: rectangle, square, triangle, polygon. There are holes in the four corners of the jade pieces, and gold threads pass through the holes to connect the jade pieces together.
 
-## Level
+## Grade
 
-Jade is the funeral dress of Han Dae-hyeong's high-ranking nobleman.
+Jade clothes were the burial clothes of high-ranking nobles in the Han Dynasty.
 
-The emperors, the kings, the kings, the kings, the kings, the kings, the wives of the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings, the kings.
+The emperor, princes, and princes can use gold thread; the wives of princes, princes, and princes can use silver thread; and ordinary nobles can use copper thread. Different levels have different lines.
 
-## Why did you use jade?
+## Why Use Jade
 
-The Han believe that Jade can protect the body from decomposition.
+The Han people believed that jade could protect the body and prevent decay.
 
-The Jade coat wraps up the body, the gold line is a symbol of wealth and power. The Jade garment is not for the living, it is for the world after death.
+Jade clothes wrap the body, and gold threads symbolize wealth and power. The jade clothes are not for living people to see, but for the world after death.
 
-## Next
+## End
 
-What happened to Jade, mostly bad.
+Most of Yuyi's fates were not good.
 
-Tomb robbers take gold wires away, and the pieces are scattered. The pieces can be sold, the wire can melt. The whole clothes are very rare.
+Tomb robbers will pull away the gold thread and scatter the jade pieces. Jade pieces can be sold, and gold threads can be melted. There are very few complete jade garments.
 
 ## Now
 
-Liu Sheng and Xiang Yu, show up at Hebei Museum.
+The jade clothes of Liu Sheng and Dou Wan are on display at Hebei Museum.
 
-They're repaired, compiled, and placed in the exhibition cabinet. Visitors can see the shape of the patch and the direction of the gold line.
+They were restored, braided, and placed in display cases. Visitors can see the shape of the jade pieces and the direction of the gold threads.
 
-A funeral dress, with over 2,000 pieces of Jade and thousands of metres of gold. It weighs the weight of power.
+A funeral gown uses more than 2,000 pieces of jade and several thousand meters of gold thread. Its weight is the weight of power.
 
-## The jade
+## Jade Pieces
 
-The jade slices, from different ingredients.
+The jade pieces of jade clothing come from different jade materials.
 
-Some of them are dark and shallow. The craftsmen line the pieces in different parts of their clothes according to shape and color.
+Some jade pieces are dark in color and some are light. Craftsmen arrange the jade pieces in different parts of the garment according to their shape and color.
 
-## Gold Line
+## Gold Thread
 
-The gold lines are fine, but they're tough.
+The gold wire is very thin, but very strong.
 
-It takes hundreds of hours for a skilled craftsman to put a gold line through the little hole in the piece and tie it up.
+To weave jade clothes, you need to pass gold threads through the small holes of the jade pieces and then tie them. It takes a skilled craftsman hundreds of hours.
 
-## Cemetery
+## Tomb Robbing
 
-Jade's stealing, actually not good.
+The anti-theft effect of jade clothing is actually not good.
 
-Gold lines are worth money, and they're worth the chips. Tomb robbers take the gold lines and take the pieces. Full clothes are rare.
+Gold thread is valuable, and jade pieces are also valuable. Tomb robbers would pull away the gold thread and take away the jade pieces. Complete jade clothes are rare.
 
 ## Repair
 
-The museum's Jade, it's repaired.
+The jade clothes in the museum have been restored.
 
-Archaeology collects the scattered pieces of the jade and combines them by shape and number. The gold line is later copied, not the original.
+The archaeological team collected the scattered jade pieces and put them together according to their shapes and numbers. The gold thread is a later imitation, not the original.
 
-A coat of clothing is a common work of archaeology, restoration and display.
+A jade garment is a joint work of archeology, restoration and display.
 
-## Summing up
+## Summing Up
+Jade clothing with golden threads is the Han Dynasty people’s understanding of death.
 
-Kim, the Handées understand death.
+They believed jade could protect the body and gold could symbolize status. Yuyi sewed the two together.
 
-They believe that Jade protects the body and that gold symbolizes status. The Jade dress sews the two together.
+Today we see craftsmanship and power. To the people of the Han Dynasty, it was a piece of clothing leading to another world.
 
-Today, we see process and power. For the Han generation, it's a dress that leads to another world.
+Jade clothes cannot make people immortal. It only makes the dead look like the living.
 
-Jade can't keep people alive. It can only make the dead look like living people.
+The jade pieces are cold and the gold threads sparkle. They wrap up a corpse and also wrap up an era’s imagination of eternal life.
 
-They're cold and golden. They contain a body, and they also contain the idea of eternity for an age.
-
-That is the whole secret of Jade: it does not allow for eternal life, but only makes death seem more dignified.
+This is the whole secret of jade clothing: it cannot make people immortal, it can only make death look more respectable.
 
 ---
 

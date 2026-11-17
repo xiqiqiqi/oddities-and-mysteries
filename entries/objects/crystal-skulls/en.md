@@ -58,67 +58,67 @@ It is too good to look at: transparent, symmetrical, face-like, and bright under
 
 The museum label says “nineteenth century, Europe.” The exhibition poster still shows the glowing skull.
 
-## Mitchell Herchis
+## Mitchell Hedges
 
-The most famous crystal skull, known as the “destroyal skull”, was subsequently simplified to the “michel-Huchchis skull”.
+The most famous crystal skull is called the "Destiny Skull", which was later simplified to the "Mitchell-Hedges Skull".
 
-The story is that in 1924, the British explorer Frederick Mitchell-Hates found it at a Mayan site in Mexico. His adopted daughter Anna found it in the late 1920s, in different versions.
+The story goes that in 1924, British explorer Frederick Mitchell-Hedges discovered it at Mayan ruins in Mexico. Versions vary since his adopted daughter Anna "discovered" it in the late 1920s.
 
-The skull is made of a whole block of stone and a 12-centimetre height, weighing about five kilograms. Its jaws are active, and its eyes and cheekbones are very precise. It looks like an ancient craft.
+The skull is made from a single piece of quartz, is about twelve centimeters tall and weighs about five kilograms. Its lower jaw is movable, and its eye sockets and cheekbones are precisely made. Looks like an ancient artifact.
 
-## Museums
+## Museum
 
-The British Museum and the Smithsonian Museum also have crystal skulls.
+The British Museum and the Smithsonian also have crystal skulls.
 
-Most of them entered the collection in the second half of the nineteenth century, from unknown sources. Some came from Mexico, some from auction houses in Europe. Museum records do not have a clear exit point.
+Most of them entered collections in the second half of the nineteenth century, and their origins are unknown. Some are from Mexico and some are from auction houses in Europe. There is no clear location of discovery in the museum's records.
 
-These skulls vary in size, shape and process. Some are rough and others delicate. They are not a unified "old tradition" but scattered objects.
+The skulls vary in size, shape and craftsmanship. Some are rough, some are delicate. They are not a unified "ancient tradition" but scattered objects.
 
-The museum's collection of crystal skulls is not tantamount to recognition as an ancient one.
+The collection of a crystal skull in a museum does not mean that it is recognized as ancient.
 
-The British Museum's placards are clear: the source is unknown, probably from the nineteenth century. The Smithsonian Museum has made similar indications.
+The British Museum's explanatory sign says clearly: The origin is unknown, and it may be a work from the 19th century. The Smithsonian Museum has made similar annotations.
 
-The museum's attitude is to show the controversy, not to confirm the mystery. The viewers can see the objects, and they can see the labels. The labels are more honest than the objects.
+The museum's attitude is to "display the controversy", not to "confirm the mystery". The viewer can see the object and also see the label. Labels are more honest than objects.
 
-## Tool trails
+## Tool Marks
 
-Scientists use microscopes to examine the surface of the skull.
+Scientists use a microscope to examine the surface of the skull.
 
-They found traces of modern tools: arcs that rotate the wheels, particles of polishers, cutting directions. These traces were inconsistent with the ancient Mayan tools.
+They found traces of modern tools: the arc of the rotating grinding wheel, the grains of polish, the direction of the cut. These traces are inconsistent with the way ancient Maya tools were used.
 
-The Maya have the limestone, the black stone and the sand to grind the stones. But the crystals are hard enough and the processing time is long. A skull so accurate takes hundreds of hours to grind and it breaks easily.
+The Mayans had jade, obsidian, and sand with which to polish stone. However, the hardness of crystal is high and the processing time is long. A skull this precise requires hundreds of hours of polishing and is prone to chipping.
 
-## Process
+## Craftsmanship
 
-Experimental archaeologists have tried to replicate crystal skulls.
+Experimental archaeologists have tried replicating crystal skulls.
 
-They spent hundreds of hours using copper wheels, sands and water, making skulls similar to ancient ones. This suggests that ancient craftsmen can theoretically do it, but there is no evidence that they actually did it.
+They spent hundreds of hours using copper wheels, sand and water to create a skull that may look similar to ancient ones. This shows that ancient craftsmen could theoretically do it, but there is no evidence that they actually did it.
 
-There are two things that can be done and that have been done. The controversy over the skull is not a technical possibility, but an exterior background and a tool trail.
+"Can do" and "been done" are two different things. The controversy surrounding the Crystal Skull does not lie in the technical possibilities, but in the unearthed background and tool marks.
 
-## Why is it still spreading?
+## Why is It Still Circulating?
 
-The story of the crystal skull meets several wishes: ancient civilization is mysterious, Maya is intelligent and there is invisible power in museums.
+The story of the Crystal Skull fulfills several wishes: ancient civilizations are mysterious, the Mayans are wise, and there are invisible powers in the museum.
 
-It appears in documentaries, bookstores, and tourist shops. Every copy is labeled "Mayan," even if it was polished in the studio of the twentieth century.
+It appears in documentaries, bookstores and travel shops. Every replica carries the label "Mayan," even if it was milled in a twentieth-century studio.
 
-Once an object becomes a “mystery”, it's hard to return to a “craft”. Even if scientists say it is a modern work, the story will continue.
+Once an object becomes "mysterious", it is difficult to turn it back into "artifact". Even if scientists say it's a modern work, the story continues.
 
-## Stone
+## Quartz
 
-Crystal is a stone.
+Crystal is a type of quartz.
 
-It's hard, transparent, and it's easy to crack. The processing of crystals requires patience and skill. The ancient craftsmen use sand, water, and wood wheels, slowly grinding. Modern craftsmen use gold diamonds, fast, with different tracks.
+It is hard, transparent and easy to crack. Processing crystal requires patience and skill. Ancient craftsmen used sand, water and wooden wheels to grind slowly. Modern craftsmen use diamond tools, which are fast and leave different marks.
 
-The surface of the crystal skull, if there is arc of a wheel, means it uses modern tools. If not, it doesn't prove to be ancient. Tool trails are covered by polish.
+If there are arcs of rotating grinding wheels on the surface of the crystal skull, it means that modern tools were used. If not, there is no proof that it is ancient. Tool marks will be obscured by polishing.
 
 ## Market
 
-The market for crystal skulls has existed since the nineteenth century.
+The market for crystal skulls has existed since the 19th century.
 
-European collectors like "unlikely" objects. Mexican, Peruvian, Egyptian crafts are taken to Paris, London, and New York. Businessmen write stories and raise prices.
+European collectors liked "exotic" objects. Crafts from Mexico, Peru, and Egypt were brought to Paris, London, and New York. Businessmen will make up stories and raise prices.
 
-The Maya Crystal Bone is a good selling point: ancient, mysterious, prophesy. It doesn't need a record, it just needs a legend.
+The "Mayan crystal skull" is a good selling point: ancient, mysterious and prophetic. It does not require unearthed records, only a legend.
 
 ---
 
