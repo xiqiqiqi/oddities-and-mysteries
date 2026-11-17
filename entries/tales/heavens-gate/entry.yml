@@ -21,17 +21,17 @@ sources:
     title: "Wikipedia · Heaven's Gate (religious group)"
     publisher: Wikipedia contributors
     url: https://en.wikipedia.org/wiki/Heaven%27s_Gate_(religious_group)
-    year: "2026"
+    year: "2025"
     license: CC BY-SA 4.0
     usage: 组织起源、阿普尔怀特与内特尔斯、教义、1997 年死亡与后续
   - id: S2
-    title: "A&E · Heaven's Gate: Marshall Applewhite"
-    publisher: A&E Television Networks
-    url: https://www.aetv.com/articles/heaven-s-gate-marshall-applewhite
+    title: "Heaven’s Gate"
+    publisher: "Critical Dictionary of Apocalyptic and Millenarian Movements (CDAMM)"
+    url: https://www.cdamm.org/articles/heavens-gate
     year: "2026"
-    license: 版权归 A&E；仅作事实参考
-    license_en: "© A&E; citation only"
-    usage: 死亡人数、日期、地点与组织背景
+    license: "© CDAMM / Sarah Harvey; citation only"
+    license_en: "© CDAMM / Sarah Harvey; citation only"
+    usage: 死亡人数、日期、地点、组织背景与学术综述
   - id: S3
     title: 场景复原插图与原创示意图
     title_en: "Scene reconstruction and original diagram"
