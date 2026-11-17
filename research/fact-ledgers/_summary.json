@@ -1,10 +1,10 @@
 {
-  "totalEntries": 151,
-  "generatedAt": "2026-11-16",
+  "totalEntries": 163,
+  "generatedAt": "2026-11-17",
   "gateC": {
     "status": "pass",
-    "entriesWithFiveMappedFacts": 151,
-    "mappedFacts": 755,
+    "entriesWithFiveMappedFacts": 163,
+    "mappedFacts": 815,
     "note": "每篇至少 5 条硬事实映射到来源编号；结构门通过。"
   },
   "numericAudit": {
