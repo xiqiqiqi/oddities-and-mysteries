@@ -3,7 +3,6 @@ title: "Rajneeshee: Salmonella on the Salad Bar"
 summary: "In 1984 the salad bars of ten restaurants in The Dalles, Oregon were deliberately contaminated with Salmonella: 751 people fell ill, 45 were hospitalised, none died. The perpetrators were the management of the nearby Rajneesh commune, who wanted voters too sick to vote so their own candidates would win county seats. It was the first and largest bioterrorist attack in U.S. history. The plot was defeated by high turnout, and exposed by one stubborn congressman and a strain match in a laboratory."
 lang: en
 ---
-
 ## 1. Two seats in a county
 
 In 1981 several thousand followers of Rajneesh (later Osho) moved onto the Big Muddy Ranch in Wasco County, Oregon, and incorporated the commune of Rajneeshpuram. They took political control of the nearby town of Antelope, population 75, and renamed it Rajneesh. Relations with neighbours began friendly and soured over land use and the commune's rapid expansion.
@@ -70,4 +69,4 @@ The Dalles' restaurants serve today; the salad bars are set out as usual. No one
 
 ---
 
-**Sources and licenses**: for “Rajneeshee: Salmonella on the Salad Bar”, factual sources are in the ledger S1–S7 below. Text and original schematics are CC BY-SA 4.0. The speech page and Marshals report are U.S. government public-domain documents; the restaurant and commune photographs are credited Wikimedia Commons works, licenses in the ledger. Whether Rajneesh knew was never proven; this article presents both beliefs without adjudicating.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

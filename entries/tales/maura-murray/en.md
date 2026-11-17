@@ -3,7 +3,6 @@ title: "Maura Murray: The Nineteen-Minute Gap"
 summary: "At 15:15:37 on 9 February 2004, Maura Murray, a 21-year-old nursing student, withdrew $280 from an ATM — the last known image of her. At 19:27 that day a resident reported a car off New Hampshire Route 112; a passing motorist spoke with the driver, who declined help and said she had already called for assistance; at 19:46 police arrived and she was gone, the car and her belongings left behind. What happened in those nineteen minutes remains unresolved."
 lang: en
 ---
-
 ## 1. 15:15:37
 
 The CCTV still carries a camera number at top left, a time at bottom left — 15:15:37 — and a date at bottom right: 2004-02-09. A young woman stands at an ATM; the resolution is low, her face almost blurred away. She withdraws $280. This is the last known image of Maura Murray.
@@ -66,4 +65,4 @@ The case remains open.
 The file is still open.
 ---
 
-**Sources and licenses**: for “Maura Murray: The Nineteen-Minute Gap”, factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The ATM surveillance is public domain; the Woodsville photograph and postcard are credited / public-domain Wikimedia Commons works, licenses in the ledger. The cause of the disappearance is unresolved; "voluntary departure" and "suspicious" are police characterisations at different stages, presented here in parallel without adjudication.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The Cup That Changes Colour"
 summary: "In the British Museum stands a Roman glass cup. Lit from the front, it is green; hold it up to the light, and it turns red. The effect comes from gold and silver nanoparticles suspended in the glass. The Romans made it without knowing how it worked. More than a thousand years later, scientists saw the particles under an electron microscope."
 lang: en
 ---
-
 ## 1. The cup in the British Museum
 
 London, the British Museum, Room 41.
@@ -64,12 +63,6 @@ The case lighting is arranged so that visitors can see both the green and the re
 
 The Romans made a nanomaterial without knowing what a nanomaterial was. They saw colour; we see the mechanism. The cup has not changed. What changed is the way we look at it.
 
-## Limits of the record
-
-The core facts of “The Cup That Changes Colour” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Cup That Changes Colour” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Craftsmen dissolve a compound of gold and silver into the glass and then heat it to precipitate the metal into particles. The temperature and time must be controlled very accurately, otherwise the particles will be too large and the glass will become cloudy.
@@ -84,4 +77,4 @@ A cup that connects ancient craftsmanship with modern science. It proves that th
 
 ---
 
-**Sources and licenses**: for “The Cup That Changes Colour”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the description of the object, the colour change, the nanoparticle mechanism, the manufacture, and the provenance; the cup's exact origin and function are still debated.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

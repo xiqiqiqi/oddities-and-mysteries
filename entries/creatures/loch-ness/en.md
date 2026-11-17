@@ -3,7 +3,6 @@ title: The Neck Beneath the Loch
 summary: In 1933, a new road opened along Loch Ness, and cars brought tourists to the water. Since then, “long necks” and “humps” have kept appearing. People have taken photographs, run sonar, and tested DNA. The monster has not appeared.
 lang: en
 ---
-
 ## 1. 1933
 
 The Scottish Highlands, 1933.
@@ -84,4 +83,4 @@ The 2019 DNA study did not find a monster, and it did not reduce the number of v
 
 ---
 
-**Sources and licenses**: for “The Neck Beneath the Loch”, the factual sources are listed in the source ledger S1–S5 at the bottom of this entry. Text and reconstruction illustrations are licensed under CC BY-SA 4.0. Reconstruction illustrations are not historical photographs. The Loch Ness Monster is folklore, not a confirmed animal.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

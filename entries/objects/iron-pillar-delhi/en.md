@@ -3,7 +3,6 @@ title: "The Iron Pillar That Won't Rust"
 summary: "In the Qutb complex in south Delhi stands an iron pillar about seven metres tall. It has been outdoors for more than sixteen hundred years of monsoons and dust, yet its surface shows no large patches of rust. It is not stainless steel, and it is not magic. A very thin protective film is doing the work."
 lang: en
 ---
-
 ## 1. The pillar in the courtyard
 
 The Qutb complex in south Delhi is dominated by a red sandstone victory tower and a mosque.
@@ -62,12 +61,6 @@ It is often called a “miracle of ancient Indian metallurgy.” A more accurate
 
 A column, standing in the open, without a glass case. It does not need a miracle to make people stop and look.
 
-## Limits of the record
-
-The core facts of “The Iron Pillar That Won't Rust” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
-
-“The Iron Pillar That Won't Rust” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Visitors can look, but not touch. The Indian government fenced it off and installed surveillance.
@@ -89,4 +82,4 @@ It is just an iron pillar, but it makes time seem less absolute.
 
 ---
 
-**Sources and licenses**: for “The Iron Pillar That Won't Rust”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the inscription, the dating, the metallurgical analysis, and the popular “never rusts” claim; the pillar is not completely immune to corrosion.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

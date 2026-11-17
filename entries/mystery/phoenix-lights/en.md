@@ -3,7 +3,6 @@ title: "The Night Over Phoenix"
 summary: "On the evening of 13 March 1997, hundreds of people across Arizona looked up and saw a row of lights. Some described a V-shaped formation; others saw only a few hovering points. Two sightings, one video, and one military explanation turned the night into two separate stories."
 lang: en
 ---
-
 ## 1. 7:55 p.m.
 
 Thursday, 13 March 1997. It was already dark.
@@ -58,17 +57,9 @@ After the Phoenix event, unofficial research groups in Arizona began collecting 
 
 For the witnesses, it was the strangest thing they had ever seen. For researchers, it is a question that was split in two: one half answered, one half not.
 
-The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Phoenix Lights” and S2 is “Wikipedia · Fife Symington”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Phoenix Lights file includes pilot reports, police logs, television footage, and later flare explanations; the strongest material is the timing and direction of the sightings, not the shape of the lights.
-
-## Limits of the record
-
-The core facts of “The Night Over Phoenix” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
-
-“The Night Over Phoenix” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
 
 ## Archival note
 
@@ -79,4 +70,4 @@ Phoenix Light is a "collective witnessing" type of archive. It has numerous witn
 
 ---
 
-**Sources and licenses**: for “The Night Over Phoenix”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article distinguishes the two sightings that night: the ten o'clock lights have a military flare explanation, while the 7:55 sighting remains unresolved.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

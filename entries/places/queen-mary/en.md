@@ -3,7 +3,6 @@ title: "The Hotel at Sea"
 summary: "The Queen Mary made her maiden voyage in 1936 and was one of the most luxurious ocean liners of the 1930s. In the Second World War she became a troopship and sank a British cruiser in a collision. Retired in 1967, she was towed to Long Beach, California, and turned into a hotel and museum. The crew say a young man still lives in one of her watertight doors."
 lang: en
 ---
-
 ## 1. 1936
 
 The Queen Mary was built for the British Cunard Line.
@@ -74,12 +73,6 @@ Guests sleep on board, lie in bed and hear the ship making sounds. Some say it i
 
 *Original schematic: the maiden voyage in 1936, the 1942 collision, the move to Long Beach in 1967 and the ghost stories. Not a photograph of the ship. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-“The Hotel at Sea” comes mainly from legend, oral tradition, or urban narrative in Long Beach, California, United States; the entry records how it is told without treating the story itself as established fact.
-
-“The Hotel at Sea” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The metal of the old ship will expand and contract due to heat and cold, making noises; water in the pipes will flow, causing the sound of footsteps; lights and ventilation equipment will suddenly activate. Visitors in dark corridors can easily interpret ordinary sounds as ghosts.
@@ -103,4 +96,4 @@ These stories were told to tourists by tour guides and filmed as "paranormal inv
 
 ---
 
-**Sources and licenses**: for “The Hotel at Sea”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ship's history, the Curacoa collision, John Pedder's death and the ghost stories; there is no verifiable evidence for the hauntings. The illustration is a scene reconstruction, not a photograph of the ship.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

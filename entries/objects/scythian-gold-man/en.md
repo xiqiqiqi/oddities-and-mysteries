@@ -3,7 +3,6 @@ title: "The Golden Man"
 summary: "In 1969 archaeologists opened a burial mound beside the Issyk River in Kazakhstan and found a young person covered in gold. More than four thousand gold objects and a 63-centimetre headdress turned the \"Golden Man\" into a national symbol. Whether the body was male or female is still debated."
 lang: en
 ---
-
 ## 1. 1969
 
 1969, beside the Issyk River in Kazakhstan, fifty kilometres east of Almaty.
@@ -72,12 +71,6 @@ Whether the person was male or female, a prince or a princess, a warrior or a pr
 
 *Original schematic: the main motifs of the headdress, the side chamber at Issyk and the 1969 discovery. Not a photograph of an artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Golden Man” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Golden Man” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 There are wooden structures, horses, weapons and food in the tomb. The tomb owner is placed in the center, dressed in gold. The size of the tomb indicates that he/she had a high status in society.
@@ -96,4 +89,4 @@ The craftsmanship of the gold jewelry shows that the Cypriots have professional 
 
 ---
 
-**Sources and licenses**: for “The Golden Man”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1969 excavation, the gold and the tomb, the debate over identity and sex, and the national symbol; the gold and the burial are archaeological evidence, while the sex of the deceased remains disputed. The illustration is a scene reconstruction, not a photograph of an artefact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

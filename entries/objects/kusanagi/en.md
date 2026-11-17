@@ -3,7 +3,6 @@ title: The Sword No One Sees
 summary: In the innermost sanctuary of Atsuta Shrine in Nagoya, a box contains another box. Inside, it is said, is the Kusanagi sword, one of the three imperial regalia of Japan. No one has seen it. It is not rarely displayed; it is never displayed, and even the shrine priests have not opened it. Its only evidence is myth, a few chronicles and a box that stays shut.
 lang: en
 ---
-
 ## 1. Atsuta Shrine
 
 Nagoya, Atsuta Shrine. In the innermost sanctuary there is a box, and inside it another box.
@@ -110,4 +109,4 @@ The shrine does not display it and does not allow it to be copied. What the outs
 
 ---
 
-**Sources and licenses**: for “The Sword No One Sees”, the factual sources are listed in the source ledger S1–S6 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the myth, the Nihon Shoki record, the Tale of the Heike, the Atsuta rituals and the question of whether the sword exists; the Kusanagi has never been independently examined, and its form and date cannot be confirmed. The illustrations are site photographs, a historical print, a reconstruction and a schematic, not photographs of an artefact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The Wolf That Killed Dozens"
 summary: "Between 1764 and 1767, a wolf-like beast repeatedly attacked people and livestock in the Gévaudan region of southern France. Estimates of the dead range from sixty to more than a hundred. The king sent his huntsman; local men organised drives. In the end, a local hunter killed it."
 lang: en
 ---
-
 ## 1. The mountain villages of 1764
 
 Gévaudan lies in southern France, a region of rolling hills, forests, pastures, and stone houses.
@@ -66,14 +65,6 @@ It appears in prints, novels, films, and folk tales, described as a werewolf, a 
 
 Today, a museum in Gévaudan still displays its image. It looks like an oversized wolf, staring out of the frame.
 
-The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Beast of Gévaudan” and S2 is “Wikipedia · Jean Chastel”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
-## Limits of the record
-
-The core facts of “The Wolf That Killed Dozens” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
-
-“The Wolf That Killed Dozens” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Parish registers, administrative reports, and later historical studies range from about sixty to over a hundred fatalities. Injuries were more numerous, but many were unrecorded. Rural eighteenth‑century villages lacked modern forensic methods; when a body surfaced it was often already gnawed by scavengers, leaving only circumstantial evidence.
@@ -82,4 +73,4 @@ All these documents share one focus: “humans attacked by a beast,” not “wh
 
 ---
 
-**Sources and licenses**: for “The Wolf That Killed Dozens”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the attacks, the hunts, the official record and the competing explanations; the identity of the beast is still disputed. The illustrations are scene reconstructions, not historical photographs.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "Bridgewater Triangle: A Checklist from the Place Where Spirits Dwell"
 summary: "About two hundred square miles of southeastern Massachusetts were named the \"Bridgewater Triangle\" by cryptozoologist Loren Coleman in the 1970s. At its centre lies Hockomock Swamp — the state's largest freshwater swamp, an Algonquian name meaning \"place where spirits dwell,\" a base of King Philip's War and a Native burial ground. Around it runs a checklist of places and reports: UFO lights, bigfoot, giant snakes, thunderbirds with twelve-foot wingspans, cult mutilations, haunted buildings. The checklist is long; the verified entries are zero."
 lang: en
 ---
-
 ## 1. A triangle that was named
 
 The "Bridgewater Triangle" is not a geographic concept but an act of naming: the New England cryptozoologist Loren Coleman drew a region of about 200 square miles in southeastern Massachusetts in the 1970s, gathered the scattered anomaly reports into one name, and later wrote it into Mysterious America.
@@ -64,4 +63,4 @@ Stand on the gravel road at the swamp's edge and all you see is green wall, towe
 
 ---
 
-**Sources and licenses**: for “Bridgewater Triangle: A Checklist from the Place Where Spirits Dwell”, factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The three site photographs are credited Wikimedia Commons works, licenses in the ledger. All paranormal items are "reported," not "verified"; the curse account is of doubtful reliability and is presented as legend.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

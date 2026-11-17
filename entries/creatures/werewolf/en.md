@@ -3,7 +3,6 @@ title: "The Man in the Wolf Skin"
 summary: "In 1589 a farmer in Bedburg, Germany, was accused of being a werewolf. Under torture he confessed to a belt given by the devil that turned him into a wolf, and to killing people and livestock. On 31 October he was executed. His case is the most famous of the European werewolf trials."
 lang: en
 ---
-
 ## 1. Wolves
 
 In the forests of Europe, wolves were a real threat.
@@ -78,12 +77,6 @@ There was no werewolf in Bedburg in 1589. There was a farmer tortured into a con
 
 *Original schematic: the timeline of the 1589 Bedburg trial, the elements of the werewolf legend and the medical explanations. Not a historical photograph. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-“The Man in the Wolf Skin” comes mainly from legend, oral tradition, or urban narrative in Bedburg, Germany; the entry records how it is told without treating the story itself as established fact.
-
-“The Man in the Wolf Skin” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Numerous werewolf trials were recorded in French and Swiss courts during the 16th century. The defendant admitted his transformation under torture and revealed his accomplices. Historians believe that these trials were related to religious conflicts and land disputes at the time. The image of a werewolf was later changed to a full moon transformation in the movie. Medieval legends do not have this rule.
@@ -96,4 +89,4 @@ Werewolf movies have been around since the silent era. The werewolf on screen is
 
 ---
 
-**Sources and licenses**: for “The Man in the Wolf Skin”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ancient legends, the early modern trials, Stumpp's confession and the medical explanations; Stumpp's confession was obtained under torture and cannot be treated as fact, and there is no biological evidence for werewolves. The illustration is a scene reconstruction, not a historical photograph.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

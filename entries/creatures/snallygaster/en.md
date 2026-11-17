@@ -3,7 +3,6 @@ title: "The Monster the Newspapers Built"
 summary: "In February 1909 a small newspaper in Frederick County, Maryland, began a series about a one-eyed, winged beast with steel claws. It said the Smithsonian was sending experts and that President Roosevelt might join the hunt. Weeks later the paper admitted that the stories had been invented to sell copies."
 lang: en
 ---
-
 ## 1. South Mountain
 
 South Mountain runs through Frederick County, Maryland, a country of low hills and farmland.
@@ -78,12 +77,6 @@ The paper of 1909 is long gone. The monster is still around, printed on T-shirts
 
 The Snallygaster file is a sample of newspaper archive work. Nineteenth- and early twentieth-century local papers in Pennsylvania and Maryland mixed sightings, tavern stories, and political cartoons; later local-history writing then treated those pages as 'tradition'. There are no photographs, specimens, or a coherent chain of sightings, only repeatedly copied woodcuts and descriptions. This entry separates the history of a newspaper image from a zoological question and does not treat an illustration as witness evidence.
 
-## Limits of the record
-
-“The Monster the Newspapers Built” is strongly evidenced as a fabrication; the entry traces how it was made and spread in 1909, and why it still finds believers.
-
-“The Monster the Newspapers Built” is currently labelled “hoax”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 In 1909, the Midlothian paper described the snallygaster as a flying creature that stole livestock and drank blood. The tale spread from Baltimore to Washington and later inspired the names of local bars and teams. The coverage contained no photographs or specimens, existing only in old newspapers.
@@ -96,4 +89,4 @@ The spelling of snallygaster varied widely; no definitive version exists. The hi
 
 ---
 
-**Sources and licenses**: for “The Monster the Newspapers Built”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1909 newspaper series, the description of the creature, the influence of the Jersey Devil and the admitted hoax; the Snallygaster was invented by the paper's editor and reporter, and there is no physical evidence for it. The illustration is a scene reconstruction, not a historical photograph.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

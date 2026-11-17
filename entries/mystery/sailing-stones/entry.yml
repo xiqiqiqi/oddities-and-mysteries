@@ -32,7 +32,8 @@ sources:
     year: "2026"
     license: NPS 网站使用条款
     license_en: "Website terms of use"
-    usage: 地点与保护信息；具体页面待补
+    usage: 地点与保护信息
+    usage_en: "Location, access and preservation information"
   - id: S3
     title: 场景复原插图与原创示意图
     title_en: "Scene reconstruction and original diagram"

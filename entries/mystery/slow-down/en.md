@@ -3,7 +3,6 @@ title: "The Sound That Slowed Down"
 summary: "In 1997, NOAA hydrophones recorded a sound lasting about seven minutes. Its frequency fell steadily, as if something were sinking slowly into the deep. It was called Slow Down. Like Bloop, it was later identified as an icequake, not a deep-sea creature."
 lang: en
 ---
-
 ## 1. Seven minutes
 
 In 1997, hydrophones deployed by NOAA in the equatorial Pacific recorded a very long sound.
@@ -68,12 +67,6 @@ A smooth descent looks more like a physical process: a bubble contracting, a pie
 
 Sounds have shapes. We usually listen with our ears, not our eyes.
 
-## Limits of the record
-
-The core facts of “The Sound That Slowed Down” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Sound That Slowed Down” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Icebergs in the South Pacific break off, and the sound produced when they break can travel great distances. Large cetaceans also emit low-frequency calls, some of which change slowly in frequency. Both can leave sloping lines on the spectrogram.
@@ -90,4 +83,4 @@ This is the second layer of sound transmission: first there is an unexplainable 
 
 ---
 
-**Sources and licenses**: for “The Sound That Slowed Down”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The icequake explanation for Slow Down is supported by research; this article separates the recording, the spectral features, and the later identification.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

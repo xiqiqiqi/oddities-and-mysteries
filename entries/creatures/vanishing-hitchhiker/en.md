@@ -3,7 +3,6 @@ title: The Hitchhiker at the Roadside
 summary: A driver picks up a girl on a night road. She gives an address, says nothing else, and is gone when he arrives. The person who opens the door says she was his daughter, dead for years. Versions of the story appear on roads in Europe, America and Australia. The earliest record predates the motor car.
 lang: en
 ---
-
 ## 1. The Night Road
 
 The story usually goes like this. A driver sees a girl waving at the roadside.
@@ -127,4 +126,4 @@ The back seat is empty. The story is still there.
 
 ---
 
-**Sources and licenses**: for “The Hitchhiker at the Roadside”, sources are listed in the ledger S1–S4 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the story versions, the folklore records, the specific place and the sceptical investigations; the vanishing hitchhiker is an urban legend, with no verifiable ghost. The illustrations are a site photograph, a reconstruction and a schematic, not ghost photographs.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

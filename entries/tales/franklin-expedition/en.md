@@ -3,7 +3,6 @@ title: "The Franklin Expedition: 129 Men and the Northwest Passage"
 summary: "In 1845 Sir John Franklin led two Royal Navy ships and 129 men into the Canadian Arctic in search of the Northwest Passage. The expedition vanished. The wrecks, relics, and graves found since then provide only part of the answer about lead poisoning, starvation, and survival."
 lang: en
 ---
-
 ## 1. Departure and mission
 
 In May 1845 the Royal Navy ships HMS Erebus and HMS Terror left Kent for the Arctic to search for the Northwest Passage. The expedition was commanded by Sir John Franklin and numbered 129 men, with steam engines, propellers, large supplies of tinned food, a library, and scientific instruments. The aim was to cross the ice-choked channels of the Canadian Arctic Archipelago and open a route from the Atlantic to the Pacific. After resupplying in Greenland and entering Baffin Bay, the ships left no reliable European record.
@@ -36,7 +35,7 @@ Cut marks on bones, lead in pots, the sealing of tinned food, dental evidence of
 
 The two Franklin wrecks were designated Canadian National Historic Sites around 2015 and are protected under underwater heritage law. Climate change is transforming the Arctic: less sea ice, stronger storms, and warmer water make searching and archaeology easier but also accelerate the decay of wooden hulls and artefacts. Inuit communities are demanding a larger voice in research, naming, and tourism revenue. The 'heroic' Franklin narrative is being rewritten: it is no longer only an imperial exploration story but also a story of Inuit knowledge, colonial violence, and environmental change.
 
-The cover is an AI-assisted reconstruction of “The Franklin Expedition: 129 Men and the Northwest Passage”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
+The cover is an AI-assisted reconstruction of “The Franklin Expedition: 129 Men and the Northwest Passage”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded in the source ledger below.
 
 ## Archive location
 
@@ -48,4 +47,4 @@ No single cause explains the deaths of the Franklin expedition. Lead poisoning, 
 
 ---
 
-**Sources and licenses**: for “The Franklin Expedition: 129 Men and the Northwest Passage”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

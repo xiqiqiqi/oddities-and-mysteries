@@ -3,7 +3,6 @@ title: The Creature by the Wall
 summary: "At half past three on the afternoon of 20 January 1996, three young women in Varginha, Brazil, saw something crouched by a wall in a vacant lot: a metre tall, brown, with spots like veins, three bumps on its head and eyes like two red balls. The Brazilian Army later concluded that a local resident had been mistaken for an alien. But the military trucks, the hospital rumours, the animals that died at the zoo and the versions that followed kept the town from going quiet."
 lang: en
 ---
-
 ## 1. Half Past Three
 
 Varginha, Minas Gerais, Brazil. A coffee town of about a hundred and twenty thousand people.
@@ -98,4 +97,4 @@ What the three women saw has no name. It is called the Varginha alien, made into
 
 ---
 
-**Sources and licenses**: for “The Creature by the Wall”, sources are listed in the ledger S1–S4 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the statements of the three witnesses, the hospital and military rumours, the reported deaths at the zoo and the claim of an alien being; no physical evidence has been published, and the Brazilian Army's conclusion was that a local resident had been mistaken for an alien. The illustrations are a reconstruction and a site photograph, not a photograph of the incident.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

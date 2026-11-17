@@ -3,7 +3,6 @@ title: "The Queen's Necklace"
 summary: "In 1785, Paris jewellers made a diamond necklace worth two million livres and tried to sell it to Queen Marie Antoinette. She did not buy it. A woman claiming to be the Queen's friend used a forged letter to convince a cardinal that the Queen wanted the necklace. The cardinal bought it and handed it to the woman's associate. The necklace was broken up and sold in London."
 lang: en
 ---
-
 ## 1. A necklace
 
 The Paris jewellers Bohmer and Bassenge spent several years making a diamond necklace.
@@ -66,12 +65,6 @@ Three years later, the French Revolution began. Marie Antoinette was sent to the
 
 The necklace was never seen intact again. Its diamonds were scattered across crowns and jewellery in Europe, leaving only a story of greed, credulity, and court politics.
 
-## Limits of the record
-
-The core facts of “The Queen's Necklace” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Queen's Necklace” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 No one has actually seen the Queen buy a necklace, but many believe she would. The scam exploited not greed but people's imagination of the court.
@@ -86,4 +79,4 @@ But the public didn't believe her. She is already known for her luxury, and the 
 
 ---
 
-**Sources and licenses**: for “The Queen's Necklace”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the origin of the necklace, the Queen's refusal, Jeanne's fraud, the trial, and the aftermath; the Queen did not buy or wear the necklace, but the affair badly damaged her reputation.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

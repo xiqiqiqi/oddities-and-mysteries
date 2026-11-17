@@ -3,7 +3,6 @@ title: "The Hal Saflieni Hypogeum: Three Levels Cut in Rock"
 summary: "In 1902 workers in Paola, Malta, cutting cisterns for new houses, broke through the roof of an underground building. It is the Hal Saflieni Hypogeum: a three-level rock-cut sanctuary and necropolis used from about 4000 to 2500 BC, holding the remains of some 7,000 people. Its ceilings carry red-ochre spirals; the \"Holy of Holies\" faces the winter-solstice light. Early excavation discarded much of its contents uncatalogued; today only eighty people a day are allowed inside."
 lang: en
 ---
-
 ## 1. 1902, breaking through the roof
 
 Paola, Malta: an ordinary residential street. At street level a concrete wall carries painted letters — "HAL SAFLIENI PREHISTORIC HYPOGEUM / UNESCO World Heritage Site." Cars park against it; laundry hangs nearby. Nothing shows what lies beneath.
@@ -60,4 +59,4 @@ The Hypogeum also raises a question about access. A site cut into soft limestone
 The chamber is not a museum of the past; it is a place that is still changing.
 ---
 
-**Sources and licenses**: for “The Hal Saflieni Hypogeum: Three Levels Cut in Rock”, factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The entrance, model and Ellis photographs are public domain (Wikimedia Commons), credited in the ledger. Dates and head-counts are archaeological estimates; the solstice orientation of the Holy of Holies is an archaeoastronomical interpretation and is presented as such.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

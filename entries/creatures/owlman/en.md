@@ -3,7 +3,6 @@ title: "Owlman: The Shadow on the Church Tower"
 summary: "In 1976, in the Cornish village of Mawnan, two girls on holiday said they saw a winged thing hovering over the church tower. Their father cut the holiday short. A man named Tony Shiels took over the story and named it \"Owlman\"; that July, two camping girls supplied a second account. Skeptics say barn owl; others say the whole thing was Shiels' own production. The tower is still there, the owls are still there, and so is the story."
 lang: en
 ---
-
 ## 1. 17 April 1976, above the tower
 
 Mawnan, Cornwall: the church of St Mawnan and St Stephen. A granite tower stands at the end of the graveyard, pinnacles at its four corners, louvred openings at the top — gaps left for bells and for birds. The headstones lean; the yews are clipped into dark green walls. Mawnan sits on the south side of Falmouth Bay, opposite the Helford estuary; the village is small and the church is its tallest building. At night, anything above the treeline can only be seen against the tower.
@@ -68,4 +67,4 @@ The Owlman has no photograph, no specimen, no feather. What it has is a girl's d
 
 ---
 
-**Sources and licenses**: for “Owlman: The Shadow on the Church Tower”, factual sources are in the ledger S1–S5 below. Text and original schematics are CC BY-SA 4.0. The church and village photographs are credited Wikimedia Commons / geograph works, licenses in the ledger; the reconstruction is not a photograph of a sighting. Barn-owl / eagle-owl misidentification and a Shiels hoax are all possible explanations, and this article does not choose between them for the reader.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

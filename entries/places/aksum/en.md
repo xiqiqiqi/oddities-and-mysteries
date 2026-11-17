@@ -3,7 +3,6 @@ title: The Standing Stelae
 summary: In Aksum, northern Ethiopia, granite stelae more than twenty metres tall stand in the fields, carved with false windows and doors like narrow towers. They were gravestones and displays of power for an ancient empire. The largest, 33 metres tall, lies broken where it fell. Another was cut into five pieces by the Italian army in 1937 and taken to Rome; it came back in 2005.
 lang: en
 ---
-
 ## 1. The Stelae in the Field
 
 Aksum, in the Tigray region of northern Ethiopia, on a highland plateau around two thousand metres up. Grass grows on the slopes, and grey stelae rise out of it.
@@ -76,4 +75,4 @@ The stelae are still there. Some stand, some lie down, one went away and came ba
 
 ---
 
-**Sources and licenses**: for “The Standing Stelae”, sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the archaeology and history of Aksum, the removal and return of the stele, and the traditions of the Queen of Sheba and the Ark; the stelae and the imperial site rest on archaeology, the Ark claim cannot be verified. The photographs and the 1809 print are historical and site images; the schematic is not.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

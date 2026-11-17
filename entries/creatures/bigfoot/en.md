@@ -3,7 +3,6 @@ title: "Bigfoot: Footprints, Film, and an Unconfirmed Primate"
 summary: "From giant footprints in northern California to the 1967 Patterson–Gimlin film, the image of Bigfoot was assembled in the twentieth century from Indigenous stories, frontier tales, carnival publicity, and eyewitness accounts. Hair, footprints, films, and DNA samples have all been offered; none has yet survived independent verification."
 lang: en
 ---
-
 ## 1. Name and image
 
 The name 'Bigfoot' entered American newspapers in the late 1950s after reports of large footprints in northern California; 'Sasquatch' comes from a similar word in Pacific Northwest Indigenous languages. The modern image is a bipedal, hair-covered ape-like creature more than two metres tall, living in forests and mountains. This image is not a fixed ancient legend but a twentieth-century composite of Indigenous narratives, frontier stories, carnival tales, and mass media.
@@ -36,7 +35,7 @@ Bigfoot is not only a zoological question but part of North American folk cultur
 
 Today Bigfoot supports an industry of tourism, podcasts, documentaries, and merchandise: towns have statues and festivals, organisations keep sighting databases, and enthusiasts hold annual gatherings. For participants it is adventure and community; for science it remains an unconfirmed hypothesis. The most useful attitude is neither ridicule nor credulity but a demand for evidence: where did the sample come from, who handled it, can it be repeated, and has it been independently verified? That question trains judgment better than 'does Bigfoot exist'.
 
-The cover is an AI-assisted reconstruction of “Bigfoot: Footprints, Film, and an Unconfirmed Primate”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
+The cover is an AI-assisted reconstruction of “Bigfoot: Footprints, Film, and an Unconfirmed Primate”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded in the source ledger below.
 
 ## Archive location
 
@@ -48,4 +47,4 @@ Bigfoot is not scientifically confirmed, and there is no body, skeleton, or repr
 
 ---
 
-**Sources and licenses**: for “Bigfoot: Footprints, Film, and an Unconfirmed Primate”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

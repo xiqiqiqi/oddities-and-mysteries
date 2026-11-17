@@ -3,7 +3,6 @@ title: "The Giza Plateau: Three Pyramids and a Sphinx"
 summary: "The three pyramids on the Giza Plateau belong to Egypt's Fourth Dynasty, roughly 2580–2500 BCE. They are not isolated monuments: temples, causeways, queen's pyramids, tombs, and the Sphinx form a complete ritual and funerary landscape around them."
 lang: en
 ---
-
 ## 1. Three pyramids on a plateau
 
 The Giza Plateau lies southwest of Cairo, on the west bank of the Nile. Its three most conspicuous pyramids are usually named for their owners: Khufu's Great Pyramid, Khafre's pyramid, and Menkaure's pyramid, with smaller queen's pyramids, temples, causeways, tombs, and the Sphinx around them. They belong to Egypt's Fourth Dynasty, roughly 2580–2500 BCE. To equate 'Giza' with 'the Great Pyramid' is to miss the complex: the three pyramids differ in scale, internal structure, and preservation, and the surrounding temples and cemeteries are essential to understanding how the site worked.
@@ -36,7 +35,7 @@ Since the nineteenth century, Giza has been repeatedly written into occultism, n
 
 Giza was inscribed in 1979 as part of 'Memphis and its Necropolis'. Today it faces rising groundwater, salt erosion, urban expansion, looting, and heavy visitation. The opening of the Grand Egyptian Museum near Cairo has diverted some objects and visitor pressure, but the plateau itself still has limited carrying capacity. Conservation plans often choose between openness and closure: total closure slows weathering but separates the site from the public; total openness brings revenue but accelerates wear.
 
-The cover is an AI-assisted reconstruction of “The Giza Plateau: Three Pyramids and a Sphinx”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
+The cover is an AI-assisted reconstruction of “The Giza Plateau: Three Pyramids and a Sphinx”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded in the source ledger below.
 
 ## Archive location
 
@@ -48,4 +47,4 @@ Much about Giza's construction organisation remains blank: the exact quarry and 
 
 ---
 
-**Sources and licenses**: for “The Giza Plateau: Three Pyramids and a Sphinx”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

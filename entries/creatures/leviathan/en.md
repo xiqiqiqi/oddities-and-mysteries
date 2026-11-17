@@ -3,7 +3,6 @@ title: The Beast in the Sea
 summary: Job 41 spends dozens of lines on a creature with scales like shields, fire coming from its mouth, smoke from its nostrils, and a body that no sword can cut. Its name is Leviathan. Older Ugaritic tablets call it Lotan, a seven-headed sea serpent defeated by Baal. It may be a crocodile, a whale, or simply an ancient image of chaos.
 lang: en
 ---
-
 ## 1. A Description
 
 In the forty-first chapter of the Book of Job, God answers Job by describing an animal for an entire chapter.
@@ -84,4 +83,4 @@ The more the name is used, the less it belongs to a single sea monster. In the e
 The name outlived the myth.
 ---
 
-**Sources and licenses**: for “The Beast in the Sea”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ancient texts, the Ugaritic myth, later interpretations and the palaeontological name; Leviathan is a mythological creature with no biological evidence, and "Livyatan" merely borrows the name. The illustration is a scene reconstruction, not a photograph of an artefact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The Worm Beneath the Gobi"
 summary: "Herders in the South Gobi say a red worm lives under the sand, more than a metre long, able to spit acid and discharge electricity. Expeditions have searched for it many times without finding a specimen or a photograph. Some say it is a misidentified sand boa; others say the story itself belongs to the desert."
 lang: en
 ---
-
 ## 1. A Gobi legend
 
 In Mongolian it is called olgoi-khorkhoi, which means “intestine worm”.
@@ -72,16 +71,14 @@ The herders' accounts are still there. Researchers still record them, but a reco
 
 A lot can be hidden under sand. There can also be nothing at all.
 
-The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Mongolian death worm” and S2 is “Wikipedia · Eryx tataricus”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
-## Limits of the record
-
-“The Worm Beneath the Gobi” comes mainly from legend, oral tradition, or urban narrative in South Gobi, Mongolia; the entry records how it is told without treating the story itself as established fact.
-
-“The Worm Beneath the Gobi” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
+
+The legend of the death worm did not disappear because of scientific expeditions. It merely changed from an animal awaiting discovery into Gobi folk knowledge. The boundary between the two is blurrier than people imagine.
+
+The Mongolian death worm entered Western books through an American explorer in the 1920s. The book said it could spray poison and discharge electricity. Television later brought it to the world. No specimen has ever been found; expeditions looked and came back empty-handed.
+
+The legend is tied to Gobi sandstorms, thin air, and getting lost. Herders needed an explanation, and the story grew. Explorers needed material, and the story grew more frightening. It still circulates in the Gobi, where herders tell it to visitors.
 
 ---
 
-**Sources and licenses**: for “The Worm Beneath the Gobi”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the herders' tradition, the expedition record, the media additions, and the biological explanation; there is currently no specimen, photograph, or biological sample proving that the animal exists.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The Mound of the Dead"
 summary: "Beside the Indus in Pakistan stands a city five thousand years old. Its streets follow a grid, its houses are built of standard-sized bricks, its streets have covered drains, and its courtyards have wells and bathrooms. The city has no obvious palace and left no readable signs. Its name is Mohenjo-daro, which means “Mound of the Dead”."
 lang: en
 ---
-
 ## 1. The mound of the dead
 
 Mohenjo-daro lies in Sindh, Pakistan, not far from the Indus.
@@ -66,16 +65,10 @@ The public record of Mohenjo-daro comes mainly from excavation reports since the
 
 Mohenjo-daro's archive is an excavation archive first: plans, photographs, and object registers made before conservation and later urban pressure changed the site.
 
-## Limits of the record
-
-The core facts of “The Mound of the Dead” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Mound of the Dead” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 They said the site contained vitrified stone, radiation and dead bodies. There is no scientific evidence for these claims. The ruins of the ruins come from weathering, flooding and salinity.
 
 ---
 
-**Sources and licenses**: for “The Mound of the Dead”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the city layout, the Great Bath, the political structure, the abandonment, and the “nuclear explosion” legend; the Indus script remains undeciphered, and the causes of the city's decline are still debated.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

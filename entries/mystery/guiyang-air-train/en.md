@@ -3,7 +3,6 @@ title: "The Thing That Roared Over Guiyang"
 summary: "On 30 November 1994 a thunderstorm destroyed four hundred mu of pine forest at Duxi Farm north of Guiyang. The trees were snapped in half and laid out in several separate bands, while a nearby plastic greenhouse was untouched. Witnesses said a “strange vehicle” crossed the sky with fire and a roar. Investigators explained it as a downburst or a landspout."
 lang: en
 ---
-
 ## 1. Three in the morning
 
 On 30 November 1994, a little after three in the morning.
@@ -78,12 +77,6 @@ A thunderstorm, a downburst, a forest broken in half, and lights and noise in th
 
 *Original schematic: the damage bands at Duxi, the location of the factory and the wind of a downburst. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Thing That Roared Over Guiyang” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
-
-“The Thing That Roared Over Guiyang” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The direction in which the tree fell, the height of the break, and the width of the damage zone were all measured. Damage to factories and greenhouses was also recorded. The data support the "strong wind" explanation but not the "aircraft" explanation.
@@ -92,4 +85,4 @@ But the data can't explain all sightings. Some people said they saw a "carriage-
 
 ---
 
-**Sources and licenses**: for “The Thing That Roared Over Guiyang”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the physical damage, the witness accounts, the meteorological investigation and the UFO claims; the event left extensive physical traces, a downburst or landspout is the best-supported explanation, and the UFO claims have no physical evidence. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The Canals of Mars"
 summary: "In 1877 the Italian astronomer Schiaparelli drew dozens of straight lines on Mars and called them canali, or channels. English newspapers translated the word as canals. For nearly a century, a story about Martians digging irrigation ditches lived in telescopes, maps and novels, until a spacecraft arrived above the planet."
 lang: en
 ---
-
 ## 1. 1877
 
 In 1877 Mars came close to Earth.
@@ -84,12 +83,6 @@ Sometimes an error tells a better story than the fact.
 
 The Martian canals are a history of observation and print culture. Late nineteenth-century astronomy, Lowell's observatory notes, and popular astronomy books turned faint lines seen through low-resolution telescopes into 'canals'; later spacecraft imaging showed that the lines were largely observational artifacts and cartographic products. This entry separates 'what astronomers thought they saw' from 'what is on Mars' and does not treat old maps as geomorphological evidence.
 
-## Limits of the record
-
-The core facts of “The Canals of Mars” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Canals of Mars” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ---
 
-**Sources and licenses**: for “The Canals of Mars”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

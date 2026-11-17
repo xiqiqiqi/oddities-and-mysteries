@@ -3,7 +3,6 @@ title: The Bones That Were Writing
 summary: In 1899 a Beijing official found marks on "dragon bones" sold at a pharmacy. They were not cracks but characters. The bones came from Xiaotun village near Anyang, the last Shang capital. Excavation began in 1928; 150,000 oracle bones have since come out of the ground, and in 1976 an undisturbed Shang tomb was found. The dynasty moved from legend into documented history.
 lang: en
 ---
-
 ## 1. The Bones in the Medicine Packet
 
 Beijing, 1899. Wang Yirong, director of the Imperial Academy, came down with malaria and sent out for medicine. The packet was opened on his table. Among the ingredients was "dragon bone", ground into small pieces and mixed with herbs.
@@ -102,4 +101,4 @@ A man who questioned the gods ended up as the object of a question.
 
 ---
 
-**Sources and licenses**: for “The Bones That Were Writing”, sources are listed in the ledger S1–S9 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the discovery of 1899, the excavations from 1928 onward, oracle bone divination, the tomb of Fu Hao and the documented history of the Shang; the bones and the site are archaeological evidence. The reconstruction is not a historical photograph; the site and object photographs are CC0.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

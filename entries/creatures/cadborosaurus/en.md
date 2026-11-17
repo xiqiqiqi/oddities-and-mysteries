@@ -3,7 +3,6 @@ title: "The Long Neck in the Sea"
 summary: "Since the 1930s, people have reported a long-necked sea creature in Cadboro Bay, British Columbia, Canada. It is called “Cadborosaurus”, or “Caddy”. In 1937, whalers found a strange carcass in the stomach of a sperm whale, and photographs of it went into the newspapers. The museum director who examined it said it was a fetal whale."
 lang: en
 ---
-
 ## 1. Cadboro Bay
 
 Cadboro Bay is in British Columbia, Canada, near Victoria.
@@ -70,12 +69,6 @@ The name survives in books, on websites, and in the coastal legends of Vancouver
 
 The sea is large enough to hold many stories. Caddy is one of them.
 
-## Limits of the record
-
-“The Long Neck in the Sea” comes mainly from legend, oral tradition, or urban narrative in Cadboro Bay, British Columbia, Canada; the entry records how it is told without treating the story itself as established fact.
-
-“The Long Neck in the Sea” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Finally, most reports of Caddy lack detailed coordinates and weather records, making it hard for later scholars to revisit sites or exclude familiar explanations such as seals, seaweed, or wave action. The coarse nature of the evidence is itself part of the story.
@@ -92,4 +85,4 @@ Caddy never entered the scientific literature, but it entered place names and to
 
 ---
 
-**Sources and licenses**: for “The Long Neck in the Sea”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the sighting descriptions, the 1937 carcass, the naming, and the possible explanations; the Naden Harbour carcass was identified by the museum as a fetal baleen whale, and there is no reliable specimen or photograph of Caddy.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

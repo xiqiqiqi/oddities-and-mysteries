@@ -3,7 +3,6 @@ title: The Report Without a Conclusion
 summary: On 25 June 2021 the U.S. Office of the Director of National Intelligence published a nine-page report on 144 unidentified aerial phenomena recorded between November 2004 and March 2021. Eighty were tracked by multiple sensors, and 18 showed unusual flight. Only one could be identified, a deflating balloon. The report did not say aliens. It said the data was insufficient.
 lang: en
 ---
-
 ## 1. 25 June 2021
 
 Washington. The Office of the Director of National Intelligence publishes a nine-page report.
@@ -110,4 +109,4 @@ Of the 144, one was a balloon. The rest are still in the files.
 
 ---
 
-**Sources and licenses**: for “The Report Without a Conclusion”, sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the official statistics, the identified case, the five possible explanations and the unresolved cases; the report confirmed neither extraterrestrial technology nor a foreign breakthrough. The illustrations are an official document cover, official charts and a schematic, not photographs of an event.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

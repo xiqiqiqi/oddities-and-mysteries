@@ -3,7 +3,6 @@ title: "The Wheel That Would Not Stop"
 summary: "From twelfth-century India to eighteenth-century Germany to nineteenth-century Philadelphia, people believed that the right arrangement of hammers, hinges and wheels would turn forever. Some became famous, some charged admission, some fooled a prince. The wheels always stopped."
 lang: en
 ---
-
 ## 1. The Wheel
 
 In the thirteenth century the French craftsman Villard de Honnecourt drew a wheel in his notebook.
@@ -74,12 +73,6 @@ The wheel stops. Physics does not.
 
 *Original schematic: the overbalanced wheel, the Bessler and Redheffer cases, and a thermodynamics timeline. Not a historical drawing. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-“The Wheel That Would Not Stop” is strongly evidenced as a fabrication; the entry traces how it was made and spread in 13th–19th century, and why it still finds believers.
-
-“The Wheel That Would Not Stop” is currently labelled “hoax”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The wheel of Bashikara relies on counterweight and swing. It looks like it's always moving, but it actually stops.
@@ -100,4 +93,4 @@ The dream of perpetual motion is still there.
 
 ---
 
-**Sources and licenses**: for “The Wheel That Would Not Stop”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the historical designs, the Bessler and Redheffer cases and the thermodynamic explanation; perpetual motion violates conservation of energy or the second law, and no machine has passed an independent test. The illustration is a scene reconstruction, not a historical drawing.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

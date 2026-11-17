@@ -3,7 +3,6 @@ title: "The Light That Followed the Car"
 summary: "In the outback of Queensland, Australia, night drivers sometimes see a light that should not be there. It waits ahead like another car's headlights; speed up and it speeds up; get close and it vanishes. Locals call it the Min Min light."
 lang: en
 ---
-
 ## 1. The night road at Boulia
 
 Boulia is a small town in western Queensland, surrounded by the Channel Country: dry riverbeds, red soil, low scrub, and very long distances between towns.
@@ -64,14 +63,6 @@ Boulia's tourist material often mentions the Min Min light. Locals tell the stor
 
 For researchers, it is a problem in optics. For drivers, it is a light that should not be on the road ahead.
 
-The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Min Min light” and S2 is “Wikipedia · Boulia, Queensland”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
-## Limits of the record
-
-The core facts of “The Light That Followed the Car” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
-
-“The Light That Followed the Car” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The road there is straight, there are few cars, it is dark, and the field of vision can extend to dozens of kilometers. A distant light will be magnified in such an environment. Without the distraction of city lights, every bit of light looks special.
@@ -82,4 +73,4 @@ For drivers, the most important thing about sensitive light is not what it is, b
 
 ---
 
-**Sources and licenses**: for “The Light That Followed the Car”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the sightings, the place-name story, and the common explanations separate, and does not identify the light as a known creature or craft.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

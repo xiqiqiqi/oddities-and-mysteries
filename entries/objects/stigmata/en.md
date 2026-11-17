@@ -3,7 +3,6 @@ title: The Wounds in the Hands
 summary: In 1224, on a mountain near Assisi, Francis saw a vision and afterwards had wounds in his hands, feet and side like the wounds of the crucifixion. For eight hundred years stigmata have been reported. The Church has never treated them as proof of sanctity, and medicine has kept looking for an explanation. Most cases end as fraud, suggestion or self-harm.
 lang: en
 ---
-
 ## 1. 1224
 
 La Verna, a mountain near Assisi, Italy. Francis is praying.
@@ -118,4 +117,4 @@ Eight hundred years later, people are still arguing about where the wounds came 
 
 ---
 
-**Sources and licenses**: for “The Wounds in the Hands”, sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart religious tradition, individual records, the Church's position and medical explanations; stigmata have not been scientifically confirmed as supernatural, nor wholly reduced to fraud. The illustrations are historical paintings, a historical photograph, a reconstruction and a schematic, not medical images.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

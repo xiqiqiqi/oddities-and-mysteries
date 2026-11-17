@@ -3,7 +3,6 @@ title: "The Manuscript No One Can Read"
 summary: "A small fifteenth-century book of more than two hundred pages, filled with plants that do not exist, women bathing in pools, and zodiac symbols. The text runs left to right. The letters look like Latin, but they spell no known language. For more than a century people have claimed to decipher it, yet no complete translation has been accepted."
 lang: en
 ---
-
 ## 1. A book without a title
 
 The book is now called the Voynich manuscript, after the twentieth-century bookseller Wilfrid Voynich.
@@ -58,14 +57,6 @@ The manuscript is held at Yale, and high-resolution images are available online.
 
 It may be a cipher, a lost language, or a book that was never meant to be understood. What is certain is that it has existed for six hundred years and has still not given up its answer.
 
-The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Voynich manuscript” and S2 is “Wikipedia · Beinecke Rare Book & Manuscript Library”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
-## Limits of the record
-
-The core facts of “The Manuscript No One Can Read” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
-
-“The Manuscript No One Can Read” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 During World War II, American cryptographers tried it; during the Cold War, computer scientists tried it; in recent years, artificial intelligence has also tried it. Each claim of progress has not been independently verified.
@@ -84,4 +75,4 @@ There is a small painting in the book of a woman and a child with text next to i
 
 ---
 
-**Sources and licenses**: for “The Manuscript No One Can Read”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the radiocarbon dating, the ownership history, the contents, and the various decipherment hypotheses; no unaccepted translation is presented as a conclusion.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

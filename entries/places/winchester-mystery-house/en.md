@@ -3,7 +3,6 @@ title: "The House Without an End"
 summary: "In 1886 Sarah Winchester bought a small farmhouse in San Jose, California, and began to remodel it. The work continued until her death in 1922, thirty-six years without stopping. The house ended up with about 160 rooms, 2,000 doors and 10,000 windows, plus staircases that lead into ceilings and doors that open onto walls."
 lang: en
 ---
-
 ## 1. San Jose
 
 San Jose lies south of San Francisco Bay. In the 1880s it was still a farming town.
@@ -72,12 +71,6 @@ Sarah left no explanation. She spent her money on a house, and she spent thirty-
 
 The Winchester Mystery House archive is mostly the house itself, building permits, and the family's own promotional material; the 'continuous construction' story is part of the interpretation, not an independent record.
 
-## Limits of the record
-
-“The House Without an End” comes mainly from legend, oral tradition, or urban narrative in San Jose, California, United States; the entry records how it is told without treating the story itself as established fact.
-
-“The House Without an End” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 They knew her habits and they knew her money. The houses got bigger and bigger, and more and more workers were hired.
@@ -93,4 +86,4 @@ In 1884, she bought a farmhouse outside San Jose and began expanding it. She cal
 
 ---
 
-**Sources and licenses**: for “The House Without an End”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the size of the house, Sarah's life, the medium legend and the changes after the earthquake; the room and door counts come from tour statistics, and the medium and curse stories lack contemporary documentary support. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

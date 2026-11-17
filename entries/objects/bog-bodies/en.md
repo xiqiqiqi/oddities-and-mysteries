@@ -3,7 +3,6 @@ title: "The Bodies Kept in the Bog"
 summary: "In 1950, two brothers cutting peat in a Danish bog uncovered a human face. They thought it was a recent murder and called the police. The body turned out to be more than two thousand years old — skin, hair, stubble, and the rope around its neck were still there. The bog had preserved him."
 lang: en
 ---
-
 ## 1. A face in the peat
 
 In May 1950, two brothers were cutting peat in the Bjældskovdal bog on the Jutland peninsula in Denmark.
@@ -72,12 +71,6 @@ A man died more than two thousand years ago, and his skin is still there, his ha
 
 Bog-body research is grounded in museum conservation files, forensic reports, and peat-chemistry studies; the same body can be an archaeological find, a legal case, and a folk story, and the entry keeps those registers apart.
 
-## Limits of the record
-
-The core facts of “The Bodies Kept in the Bog” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
-
-“The Bodies Kept in the Bog” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ---
 
-**Sources and licenses**: for “The Bodies Kept in the Bog”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

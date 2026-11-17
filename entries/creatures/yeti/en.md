@@ -3,7 +3,6 @@ title: "Footprints Above the Snowline"
 summary: "In 1951, the mountaineer Eric Shipton photographed a line of large footprints in the Himalayan snow. The picture spread around the world, and the yeti became one of the most famous cryptids. Expeditions searched for decades without finding a body or a bone. In 2017, DNA testing produced a less mysterious answer — most of the “yeti” samples came from bears."
 lang: en
 ---
-
 ## 1. The photograph of 1951
 
 In 1951, a British mountaineering team was working in the Himalayas.
@@ -62,12 +61,6 @@ The yeti still appears in books, films, and tourism advertising. Himalayan villa
 
 The 2017 DNA results did not make the story disappear. They moved it from “unknown primate” back to “bears we know”. In the mountains, a brown bear standing upright, seen at a hundred metres, can indeed look like a tall dark figure.
 
-## Limits of the record
-
-“Footprints Above the Snowline” comes mainly from legend, oral tradition, or urban narrative in Nepal, Tibet, and the Himalayas; the entry records how it is told without treating the story itself as established fact.
-
-“Footprints Above the Snowline” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Some temples preserve so-called "snowman scalps", "snowman hand bones" and hair. Pilgrims and climbers would show them to visitors, saying they were passed down from their ancestors.
@@ -95,4 +88,4 @@ The research was inconclusive. The footprints are still there.
 
 ---
 
-**Sources and licenses**: for “Footprints Above the Snowline”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the local tradition, the expedition record, the footprint evidence, and the DNA findings; there is no yeti specimen, and the 2017 results support the explanation that the samples came from bears.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

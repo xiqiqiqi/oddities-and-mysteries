@@ -3,7 +3,6 @@ title: "The Temple Underground"
 summary: "In a valley in the Peruvian Andes, more than three thousand metres above sea level, stands a temple built about three thousand years ago. Beneath its platforms run narrow stone galleries with ventilation shafts, drainage channels, and a stone statue more than four metres high. A person walking inside hears water, echoes, and strange low sounds. Archaeologists think the sounds were designed."
 lang: en
 ---
-
 ## 1. The valley
 
 Chavín de Huántar is in the Áncash region of Peru, at about 3,180 metres above sea level.
@@ -60,12 +59,6 @@ The 1970 earthquake damaged parts of the buildings, and later restoration used m
 
 A temple three thousand years old used darkness, narrow passages, and sound to make people believe that a god was just behind the wall.
 
-## Limits of the record
-
-The core facts of “The Temple Underground” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Temple Underground” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Visitors can see ruins, museums and stone carvings. Some areas are high in altitude and require adaptation.
@@ -88,4 +81,4 @@ There are steps, vents and stonework in the passage. At the end is a room with a
 
 ---
 
-**Sources and licenses**: for “The Temple Underground”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the building phases, the underground structures, the acoustic experiments, the images, and the conservation; the purpose of the acoustics is still debated, and the “priests creating an oracle” reading is one interpretation.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

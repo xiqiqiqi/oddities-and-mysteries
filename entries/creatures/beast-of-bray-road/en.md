@@ -3,7 +3,6 @@ title: "The Werewolf by the Road"
 summary: "Bray Road in Wisconsin is an ordinary country road. In the late 1980s and early 1990s, people reported seeing something between a wolf and a man — six to seven feet tall, gray-brown fur, amber eyes, able to stand upright and run on four legs. A local reporter, Linda Godfrey, collected dozens of accounts, but no one got a clear photograph."
 lang: en
 ---
-
 ## 1. Bray Road
 
 Bray Road lies in Walworth County, Wisconsin, near the town of Elkhorn. The road is flanked by farms, cornfields, and woods on both sides. At night there are no streetlights; the headlights illuminate only a narrow strip of asphalt and the grass along the edge.
@@ -16,7 +15,7 @@ The earliest documented sighting dates to 1936. A local claimed that, in a field
 
 ## 3. The description
 
-In the early 1990s, reports increased. Witnesses described the creature as about six to seven feet tall—taller than a man when upright. It had a wolf’s head, a long snout, upright ears, gray‑brown fur, and amber eyes. Some said it could walk on two legs and run on four. 
+In the early 1990s, reports increased. Witnesses described the creature as about six to seven feet tall—taller than a man when upright. It had a wolf’s head, a long snout, upright ears, gray‑brown fur, and amber eyes. Some said it could walk on two legs and run on four.
 
 Several accounts mentioned claw marks on car doors, chased vehicles, or simply stood by the road, watching a car pass before slipping into the woods. One driver recounted seeing two orange points in his high beams, low on the road, that rose into a standing shape as the car approached. The figure did not move, turned slightly, and watched the vehicle before vanishing into darkness.
 
@@ -46,12 +45,6 @@ Today there is no photograph and no specimen, only testimony and press coverage.
 
 The story has no definitive conclusion. It is a legend that grew out of one place, in a particular decade.
 
-## Limits of the record
-
-“The Werewolf by the Road” comes mainly from legend, oral tradition, or urban narrative in Elkhorn, Wisconsin, United States; the entry records how it is told without treating the story itself as established fact.
-
-“The Werewolf by the Road” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The wolf elements include head shape, muzzle, ears, and coat; the human traits are upright posture, height, and shoulder breadth. Combined, they mirror the European werewolf archetype. Wisconsin’s sizable German‑Polish descendant community is no stranger to werewolf lore. A late‑century sighting slipped neatly into that older narrative.
@@ -69,4 +62,4 @@ Today Braley Road remains a drivable lane, unlined by fencing or a “beast pres
 
 ---
 
-**Sources and licenses**: for “The Werewolf by the Road”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the early record, the 1990s sightings, the reporter’s investigation, and the possible explanations; there is no photograph and no specimen, only testimony and press coverage.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

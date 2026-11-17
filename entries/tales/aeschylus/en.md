@@ -3,7 +3,6 @@ title: "The Poet and the Tortoise"
 summary: "The Greek tragedian Aeschylus died at Gela in Sicily. Ancient writers said an eagle mistook his bald head for a rock and dropped the tortoise it was carrying to crack its shell. The tortoise hit his head, and the poet died. The story has been repeated for two thousand years, but his actual cause of death is unknown."
 lang: en
 ---
-
 ## 1. The end at Gela
 
 In 456 or 455 BCE, Aeschylus died at Gela in Sicily.
@@ -62,12 +61,6 @@ The tortoise story is still repeated in trivia books, histories of drama, and tr
 
 A man who wrote so much about revenge, oracles, and blood debts was finished off by a tortoise. The ending is too neat, as if someone else had written it for him.
 
-## Limits of the record
-
-“The Poet and the Tortoise” comes mainly from legend, oral tradition, or urban narrative in Gela, Sicily, Italy; the entry records how it is told without treating the story itself as established fact.
-
-“The Poet and the Tortoise” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Only seven complete plays by Aeschylus have survived. He wrote more than seventy works, most of which only fragments remain. His death is more absurd than his play, and more like a myth. Only seven of Aeschylus's plays have survived in their entirety.
@@ -88,4 +81,4 @@ His tombstone is said to have been written by himself. It only mentions the mara
 
 ---
 
-**Sources and licenses**: for “The Poet and the Tortoise”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Aeschylus's life, the ancient tortoise story, the behaviour of birds of prey, and the tradition of strange deaths; the tortoise story appears in ancient writers but lacks contemporary evidence, and the real cause of death is unknown.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

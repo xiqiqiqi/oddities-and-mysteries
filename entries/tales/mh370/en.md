@@ -3,7 +3,6 @@ title: "The Plane That Never Landed"
 summary: "On 8 March 2014 Malaysia Airlines flight MH370 left Kuala Lumpur with 239 people aboard, including 154 Chinese citizens. It lost contact near Vietnam, turned west, and kept sending hourly satellite handshakes that pointed to the southern Indian Ocean. In 2015 a wing flaperon washed up on Réunion. Several searches, including a new one in 2025–2026, have failed to find the aircraft."
 lang: en
 ---
-
 ## 1. 8 March 2014
 
 At 00.41, Malaysia Airlines flight MH370 took off from Kuala Lumpur International Airport for Beijing.
@@ -78,12 +77,6 @@ Twelve years on, the plane has not landed. Neither has the question.
 
 *Original schematic: the 8 March 2014 timeline, the satellite handshake arc and the main search areas. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Plane That Never Landed” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
-
-“The Plane That Never Landed” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 It lists possible causes: human operation, mechanical failure, lack of oxygen. There's no evidence for either.
@@ -112,4 +105,4 @@ The signal is weak, but it gives an arc. The arc points to the southern Indian O
 
 ---
 
-**Sources and licenses**: for “The Plane That Never Landed”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates confirmed flight data, satellite analysis, confirmed debris and unproven speculation; no evidence establishes the cause of the loss. The illustration is a scene reconstruction, not a photograph of a site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The Scrolls in the Caves"
 summary: "In 1947, a Bedouin shepherd found pottery jars containing ancient scrolls in a cave near the Dead Sea. Over the next decade, archaeologists recovered about nine hundred manuscripts from eleven caves. They are roughly a thousand years older than the oldest surviving Hebrew Bible texts. Later, some of the “new fragments” that reached the market were exposed as modern forgeries."
 lang: en
 ---
-
 ## 1. The shepherd of 1947
 
 In 1947, on the western shore of the Dead Sea, near Qumran.
@@ -70,12 +69,6 @@ They did not overturn the Bible or solve every mystery. What they did was put th
 
 The Scrolls archive is a conservation and scholarly record: cave finds, acquisition histories, editorial reconstructions, and museum display. The text is often incomplete, and every translation is an interpretation of gaps as well as letters.
 
-## Limits of the record
-
-The core facts of “The Scrolls in the Caves” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Scrolls in the Caves” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 These differences allow researchers to see changes in the biblical text as it spreads. It was not written in one sitting but transcribed, revised and edited.
@@ -87,4 +80,4 @@ The scrolls allow us to see how the biblical text changed as it circulated. It's
 
 ---
 
-**Sources and licenses**: for “The Scrolls in the Caves”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, the caves and manuscripts, the question of authorship, and the forgery problem; the relationship between the Qumran site and the scrolls is still debated, and fragments surfacing after 2002 should be treated with caution.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

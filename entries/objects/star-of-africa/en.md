@@ -3,7 +3,6 @@ title: The Star of Africa
 summary: In 1905 miners in South Africa dug out a 3,106-carat diamond. It was cut into nine large stones and ninety-six small ones. The largest, 530.2 carats, was set in the British sovereign's sceptre and named the Star of Africa. Today it sits in a glass case in the Tower of London, while South Africa argues about whether it should go home.
 lang: en
 ---
-
 ## 1. 26 January 1905
 
 26 January 1905, the Premier Mine near Pretoria, South Africa.
@@ -116,4 +115,4 @@ It knows light. Whichever way the light comes from, it sends it back.
 
 ---
 
-**Sources and licenses**: for “The Star of Africa”, sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the 1905 discovery, the 1907 purchase and presentation, the 1908 cutting, the dispersal of the nine stones and the Crown Jewels, and the argument over return; the weights, cuts and settings are on the public record. The illustrations are historical photographs, a reconstruction and a schematic, not site photographs.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

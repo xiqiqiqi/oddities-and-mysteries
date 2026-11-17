@@ -3,7 +3,6 @@ title: "The Beard That Was Glued Back"
 summary: "Tutankhamun's gold mask was placed over the face of a teenage pharaoh more than three thousand years ago. In 2014, the mask's beard came off during cleaning, and staff glued it back with epoxy. The glue spilled and left scratches on the gold. A German-Egyptian team later removed the epoxy and reattached the beard with beeswax."
 lang: en
 ---
-
 ## 1. The tomb in 1925
 
 On 28 October 1925, Howard Carter opened Tutankhamun's coffin.
@@ -58,12 +57,6 @@ It has a gallery of its own. The light is low, and the mask is lit separately. V
 
 A king who died at eighteen or nineteen still has a gold face three thousand years later. Someone broke his beard while fixing a lamp and glued it back with the wrong adhesive. Those marks are now part of its history too.
 
-## Limits of the record
-
-The core facts of “The Beard That Was Glued Back” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Beard That Was Glued Back” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Craftsmen hammered the gold nuggets into thin slices, then cut, shaped and set them. The thickness of the gold foil is uneven, thick in some places and thin in others. This is not a mistake, but evidence of handiwork.
@@ -82,4 +75,4 @@ A mask has been buried, discovered, transported, restored, and exhibited for mor
 
 ---
 
-**Sources and licenses**: for “The Beard That Was Glued Back”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation record, the structure of the mask, the repair accident, and the curse legend; there is no reliable evidence for the “curse”, and the scratches on the mask cannot be fully repaired.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

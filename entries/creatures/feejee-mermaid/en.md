@@ -3,7 +3,6 @@ title: "The Monkey with a Fish Tail"
 summary: "In 1842 Barnum's museum in New York exhibited a “Feejee mermaid” — a monkey's head and torso sewn to a fish tail and preserved as a specimen. Crowds queued to see it. It became one of the most successful hoaxes in American show business."
 lang: en
 ---
-
 ## 1. New York, 1842
 
 In the summer of 1842, Barnum's American Museum on Broadway put up a poster.
@@ -68,12 +67,6 @@ The specimen of 1842 sewed the two together — an old mistake and a modern mark
 
 *Original schematic: the monkey torso and fish tail, the New York exhibition of 1842, and the later collection history. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-“The Monkey with a Fish Tail” is strongly evidenced as a fabrication; the entry traces how it was made and spread in 1842, and why it still finds believers.
-
-“The Monkey with a Fish Tail” is currently labelled “hoax”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Later, Barnum exhibited the Fijian mermaid at the American Museum, labeling it a “half‑fish, half‑human” curiosity. Queues formed to view it; some laughed, some believed. The original was likely destroyed in the fire, so the current display is almost certainly a reproduction.
@@ -85,4 +78,4 @@ The pieces travelled across the Pacific via trade to Europe and the United State
 
 ---
 
-**Sources and licenses**: for “The Monkey with a Fish Tail”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1842 exhibition, the construction of the specimen, the Fiji story and the mermaid tradition; the Feejee Mermaid was a composite hoax, and the fate of the original is uncertain. The illustration is a scene reconstruction, not a photograph of the object.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

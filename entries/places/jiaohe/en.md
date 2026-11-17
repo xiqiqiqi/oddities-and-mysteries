@@ -3,7 +3,6 @@ title: "The City Dug from the Earth"
 summary: "West of Turpan in Xinjiang, an ancient city stands on a loess plateau. Its streets, houses, temples, and wells were not built up from brick and stone. They were dug down into the raw earth. Two rivers run beside it, and the cliffs serve as its walls."
 lang: en
 ---
-
 ## 1. Between two rivers
 
 Jiaohe stands on a narrow loess plateau west of Turpan.
@@ -70,12 +69,6 @@ The record of Jiaohe falls into three layers: the UNESCO Silk Roads inscription 
 
 Jiaohe's paper trail runs through excavation reports, conservation files, and the Silk Roads nomination; the site's own ruins are the primary document, and the entry returns to them whenever the written record thins.
 
-## Limits of the record
-
-The core facts of “The City Dug from the Earth” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
-
-“The City Dug from the Earth” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Protectors strengthen walls, clear sand, and restrict access.
@@ -86,4 +79,4 @@ After the city was abandoned, wind and sand slowly buried the streets and houses
 
 ---
 
-**Sources and licenses**: for “The City Dug from the Earth”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the layout, the historical sequence, and the explanations for abandonment; the abandonment is not attributed to a single event.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

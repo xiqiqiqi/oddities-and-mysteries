@@ -3,7 +3,6 @@ title: "Machu Picchu: An Inca Estate Above the Clouds"
 summary: "Machu Picchu sits on a ridge above the Urubamba River in Peru, at about 2,430 metres. Its stone walls, terraces, plazas, temples, and water system show that it was not a lost 'city in the clouds' but a carefully sited Inca royal estate."
 lang: en
 ---
-
 ## 1. A city on a ridge
 
 Machu Picchu lies in Urubamba Province, Cusco Region, Peru, at about 2,430 metres, on a ridge above the Urubamba River. The site consists of stone walls, terraces, plazas, temples, residences, and a water system, with Huayna Picchu behind it. It is not an 'air city' wholly hidden by cloud but a carefully sited royal estate: backed by the mountain, facing the valley, with water, drainage, and landslide risk built into the design.
@@ -36,7 +35,7 @@ Machu Picchu was inscribed as a World Heritage Site in 1983. Twentieth-century c
 
 Around 2011 Yale University returned thousands of objects Bingham had taken to Peru and helped establish a research institution in Cusco. The return resolved part of the ownership dispute but did not end research debate: the objects' dates, functions, and find spots need rechecking, and errors in early records need correction. Machu Picchu is not a site whose file is 'finished'; its archive is still being reread.
 
-The cover is an AI-assisted reconstruction of “Machu Picchu: An Inca Estate Above the Clouds”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
+The cover is an AI-assisted reconstruction of “Machu Picchu: An Inca Estate Above the Clouds”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded in the source ledger below.
 
 ## Archive location
 
@@ -48,4 +47,4 @@ The builders, function, and abandonment of Machu Picchu remain disputed. Whether
 
 ---
 
-**Sources and licenses**: for “Machu Picchu: An Inca Estate Above the Clouds”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

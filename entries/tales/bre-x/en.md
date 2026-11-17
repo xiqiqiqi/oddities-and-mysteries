@@ -3,7 +3,6 @@ title: "Bre-X: Six Billion Canadian Dollars of Jungle"
 summary: "In 1993 a perpetually loss-making Canadian company bought a jungle claim in Borneo. Early assays showed no gold; the chief geologist said the drill spot came to him in a dream. The resource estimate then \"grew\" from 2 million ounces to 70 million, and the share price peaked at C$286.50. In 1997 independent testing found the core had been salted with gold dust from jewellery and local panned gold. The stock fell to six cents, some 40,000 investors lost everything, and nobody was criminally convicted."
 lang: en
 ---
-
 ## 1. A company that always lost money
 
 In 1989 David Walsh founded Bre-X Minerals in Calgary. The name came from Bresea, stitched from the first syllables of his sons Brett and Sean. The company listed on the Alberta Stock Exchange and then lost money, consistently.
@@ -62,4 +61,4 @@ The case produced Canada's securities rule NI 43-101, in force 1 February 2001: 
 
 ---
 
-**Sources and licenses**: for “Bre-X: Six Billion Canadian Dollars of Jungle”, factual sources are in the ledger S1–S4 below. Text and original schematics are CC BY-SA 4.0. The province map is an official Indonesian public-domain map; the reconstruction is not a historical photograph. Resource and price figures are as reported by the company or third parties at the time; the salting rests on the Strathcona report and subsequent investigations; the cause of de Guzman's death remains disputed and is presented here in parallel.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

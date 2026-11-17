@@ -3,7 +3,6 @@ title: "The Wards on the Hill"
 summary: "In 1858 Virginia began building a mental hospital at Weston, in what is now West Virginia. It was designed on the Kirkbride plan for 250 patients; by the 1950s it held more than 2,400. It closed in 1994 and reopened as a tourist site in 2008. The tours now sell ghosts. The records tell a different story."
 lang: en
 ---
-
 ## 1. The Hill, 1858
 
 In 1858 the Virginia General Assembly authorized a mental hospital at Weston, in what is now West Virginia.
@@ -68,12 +67,6 @@ The ghosts came later. The wards were real.
 
 *Original schematic: the 1858–2008 timeline, the Kirkbride plan and the overcrowding figures. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Wards on the Hill” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
-
-“The Wards on the Hill” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Many diagnoses are no longer used today: mania, depression, dementia, alcoholism. They are not categories of modern medicine but nineteenth-century descriptions.
@@ -101,4 +94,4 @@ Conservators require money, time, and craftsmanship. They are repairing and open
 
 ---
 
-**Sources and licenses**: for “The Wards on the Hill”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architectural history, the Civil War use, the admission records and the ghost stories; the ghost stories have no verifiable evidence. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The Black Dog in the Church"
 summary: "On 4 August 1577, a storm broke over Bungay in Suffolk. According to the legend, a huge black dog burst into the church, knocked people down, left two dead, and vanished. That afternoon, twelve miles away, the dog appeared in another church and left scorch marks on the north door."
 lang: en
 ---
-
 ## 1. The storm of 1577
 
 4 August 1577 was a Sunday. In the town of Bungay, Suffolk, people were attending service at St Mary’s Church when the sky turned dark, thunder drowned out the prayers, and hail hammered the windows. Suddenly the church door burst open.
@@ -36,17 +35,9 @@ The most common explanation is lightning. The storm was severe, and the church m
 
 The north door of Holy Trinity, Blythburgh, is still there. The scorch marks are still visible, and the church is a local landmark. A notice inside tells the story of the black dog of 1577. St Mary’s in Bungay is still standing too, and visitors can go inside. A dog ran through a church in less than a minute. People have told the story for more than four hundred years.
 
-The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Black Shuck” and S2 is “Wikipedia · Black dog (folklore)”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Black Shuck material is scattered across parish registers, local newspapers, and later folklore columns; no single archive holds a complete run, and the same story often appears in several counties under different names.
-
-## Limits of the record
-
-“The Black Dog in the Church” comes mainly from legend, oral tradition, or urban narrative in Bungay, Suffolk, England; the entry records how it is told without treating the story itself as established fact.
-
-“The Black Dog in the Church” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
 
 ## Archival note
 
@@ -60,4 +51,4 @@ Today, Bongas’s church remains open. Visitors can walk through the north door 
 
 ---
 
-**Sources and licenses**: for “The Black Dog in the Church”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1577 accounts, the physical marks in the churches, and the explanations offered for them; the scorch marks prove a fire, not a dog. The illustrations are scene reconstructions, not historical photographs.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

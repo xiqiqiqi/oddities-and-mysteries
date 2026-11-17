@@ -3,7 +3,6 @@ title: "The Writing from the Spring Outing"
 summary: "In the spring of 353, Wang Xizhi and forty-one friends drank and wrote poems beside a stream at the Orchid Pavilion. He wrote a 324-character preface while drunk. The original is said to have gone into a Tang emperor's tomb. What survives are Tang-dynasty copies."
 lang: en
 ---
-
 ## 1. The Spring of 353
 
 The ninth year of the Yonghe era, the third day of the third month. At the Orchid Pavilion in Shanyin, Kuaiji, a stream ran past a bamboo grove.
@@ -72,12 +71,6 @@ No one knows whether the original lies in Zhaoling. But the 324 characters survi
 
 *Original schematic: a timeline from the 353 gathering to the Tang copies and the 1965 debate. Not the original calligraphy. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Writing from the Spring Outing” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Writing from the Spring Outing” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 At the beginning of the article, write the time, place and people of the party. In the middle, write streams, wine glasses, and poems. Later, I write about extreme joy and sorrow, thinking about the short life, as the ancients said, "Death and life are also big things."
@@ -96,4 +89,4 @@ The words from that day are long gone. But the wind, wine and laughter that day 
 
 ---
 
-**Sources and licenses**: for “The Writing from the Spring Outing”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 353 gathering, the text, the fate of the original, the Tang copies and the authenticity debate; the original's fate belongs to records and legend, and everything visible today is a copy or rubbing. The illustration is a scene reconstruction, not the original calligraphy.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

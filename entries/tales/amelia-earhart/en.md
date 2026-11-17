@@ -3,7 +3,6 @@ title: "Amelia Earhart: The Last Leg That Never Landed"
 summary: "In 1937 Amelia Earhart and navigator Fred Noonan set out to fly around the world and disappeared on the final Pacific leg. Her earlier transatlantic and transpacific flights had made her one of aviation's most famous women; the cause of the loss remains unresolved."
 lang: en
 ---
-
 ## 1. A flying career
 
 Amelia Earhart was born in Atchison, Kansas, in 1897 and became a pilot in the 1920s. In 1928 she crossed the Atlantic as a passenger, becoming the first woman to fly across the ocean; in 1932 she flew solo from Newfoundland to Northern Ireland, completing a solo transatlantic flight. In 1935 she flew from Hawaii to California, proving a Pacific route. Her fame came not only from flying but from writing, lecturing, and promoting aviation education for women.
@@ -36,7 +35,7 @@ Purdue University's Earhart archive holds flight plans, correspondence, photogra
 
 Earhart became a symbol of women's aviation, adventure, and celebrity culture. Her disappearance entered books, films, songs, and conspiracy theories, with Nikumaroro, Howland, and Japanese camps becoming narrative locations. For researchers, the priority is to separate symbol from evidence: her flight records can be verified, her final hours cannot. Searches continue, but every new image or document needs the same tests: provenance, chain of custody, and reproducibility.
 
-The cover is an AI-assisted reconstruction of “Amelia Earhart: The Last Leg That Never Landed”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
+The cover is an AI-assisted reconstruction of “Amelia Earhart: The Last Leg That Never Landed”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded in the source ledger below.
 
 ## Archive location
 
@@ -48,4 +47,4 @@ The final location of Earhart and Noonan has not been confirmed. The crash-and-s
 
 ---
 
-**Sources and licenses**: for “Amelia Earhart: The Last Leg That Never Landed”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

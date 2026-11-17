@@ -3,7 +3,6 @@ title: "The Star That Kept Dimming"
 summary: "In 2015, amateur astronomers found something odd in the public data from the Kepler space telescope. A star was dimming at irregular intervals, sometimes by more than twenty percent. Someone suggested an alien megastructure, and the media ran with it. Later observations pointed to dust — though where the dust comes from is still not fully settled."
 lang: en
 ---
-
 ## 1. The people reading the data
 
 In 2009, the Kepler space telescope went into orbit. It stared at a patch of sky in Cygnus and measured the brightness of more than a hundred thousand stars, looking for the tiny dips caused by planets passing in front of them.
@@ -62,12 +61,6 @@ The case leaves a clear set of layers: the dimming is real and the data is publi
 
 A single star's light has kept this many people looking up for this long. That is rare in itself.
 
-## Limits of the record
-
-The core facts of “The Star That Kept Dimming” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Star That Kept Dimming” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Dust clouds can move around stars and have irregular shapes, causing irregular brightness changes when blocking starlight. The particle size, distribution and motion of the dust can explain why some bands are much darker and some are much darker.
@@ -76,4 +69,4 @@ But where does the dust come from? It could be the disintegration of a comet, it
 
 ---
 
-**Sources and licenses**: for “The Star That Kept Dimming”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the observations, the popular story, and the later research; the “alien megastructure” was a historical candidate hypothesis.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

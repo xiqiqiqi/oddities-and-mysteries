@@ -3,7 +3,6 @@ title: "The Girl in the Desert"
 summary: "In 1980, archaeologists found a female mummy at the Tieban River in the Lop Nur region of Xinjiang. She was about forty-five when she died, 1.57 metres tall, and lived around 3,800 years ago. The dry desert preserved her — dark brown hair, a high nose, a woolen hat, and leather boots. Japanese media called her the “Loulan Beauty”, and the name stuck."
 lang: en
 ---
-
 ## 1. The Tieban River, 1980
 
 In 1980, a team led by Mu Shunying of the Xinjiang Institute of Archaeology excavated at the Tieban River, at the northern end of Lop Nur.
@@ -62,12 +61,6 @@ Today she is on display at the Xinjiang Museum.
 
 “Loulan Beauty” has become a tourist label and a symbol of Xinjiang's ancient history. But for her, she was a middle-aged woman who died in the desert, was buried by sand for three thousand years, and was dug up by an archaeological team.
 
-## Limits of the record
-
-The core facts of “The Girl in the Desert” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Girl in the Desert” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 She lived before the ancient city of Loulan and was an earlier resident of Lop Nur. Her name was given by someone later.
@@ -83,4 +76,4 @@ This is earlier than the ancient city of Loulan. She is not from Loulan, but an 
 
 ---
 
-**Sources and licenses**: for “The Girl in the Desert”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, her appearance and clothing, the origin of the name, the population question, and the conditions of preservation; her specific ethnic affiliation is still debated and cannot simply be equated with “the people of Loulan”.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The Day Beijing Shook"
 summary: "On May 30, 1626, the Wanggongchang gunpowder depot in Beijing exploded, killing thousands. The official explanation was a gunpowder accident, but accounts of clothes blown off, trees uprooted, and a strange cloud kept the disaster in the archive of the inexplicable."
 lang: en
 ---
-
 ## 1. The sixth day of the fifth month
 
 May 30, 1626. The sixth day of the fifth lunar month, in the sixth year of the Tianqi reign. Around nine in the morning.
@@ -72,12 +71,6 @@ What unsettles people are the details in the records: the clothes, the trees, th
 
 The Wanggongchang disaster is documented mainly through Ming official memorials, local gazetteers, private notes, and later studies of seismology and gunpowder. The explosion of 30 May 1626 caused wide destruction, but 'nuclear blast' and 'meteor' claims are mostly twentieth-century additions. The original records differ on sound, fire, collapse direction, and casualties; official memorials also had relief and accountability contexts. This entry separates 'a disaster happened' from 'whether gunpowder, an earthquake, or something else caused it'.
 
-## Limits of the record
-
-The core facts of “The Day Beijing Shook” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
-
-“The Day Beijing Shook” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ---
 
-**Sources and licenses**: for “The Day Beijing Shook”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The Shot on the Porch"
 summary: "In 1796 David Bradford built an eight-room house in Louisiana and called it Laurel Grove. It later became the Myrtles Plantation, one of America's most famous haunted houses. The legends include ten murders, an enslaved woman named Chloe and a mirror that will not stay clean. The record contains one murder, when William Winter was shot on the porch in 1871."
 lang: en
 ---
-
 ## 1. 1796
 
 In 1796, in Spanish West Florida near St. Francisville, David Bradford bought six hundred acres and built an eight-room house. He called it Laurel Grove. He had fled Pennsylvania after taking the wrong side in the Whiskey Rebellion. In 1799 President John Adams pardoned him, and he brought his wife and five children south.
@@ -62,12 +61,6 @@ The ghosts were added later. The house was already heavy enough.
 
 *Original schematic: the 1796–1992 timeline, the 1871 shooting on the porch and the spread of the Chloe legend. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-“The Shot on the Porch” comes mainly from legend, oral tradition, or urban narrative in St. Francisville, Louisiana, USA; the entry records how it is told without treating the story itself as established fact.
-
-“The Shot on the Porch” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 In the 1790s, yellow fever was epidemic in Louisiana. Many people died, slaves and masters alike. The house and cemetery leave this history behind.
@@ -91,4 +84,4 @@ Ghost stories can be told, but history cannot be forgotten.
 
 ---
 
-**Sources and licenses**: for “The Shot on the Porch”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the plantation records, the yellow fever deaths, the 1871 murder and the Chloe legend; there is no documentary record of Chloe, and no verifiable evidence for the handprints. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

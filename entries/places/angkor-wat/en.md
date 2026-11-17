@@ -3,7 +3,6 @@ title: "The Temple in the Jungle"
 summary: "Outside Siem Reap in Cambodia stands a stone temple city ringed by a moat. It was built in the twelfth century, its five towers represent the mythical Mount Meru, and its walls are covered with reliefs. The capital was later abandoned, but the temple remained, with monks and local people living nearby. In the nineteenth century a French visitor carried its name back to Europe, and it became a symbol of the city “discovered” in the jungle."
 lang: en
 ---
-
 ## 1. Towers inside a moat
 
 Leave Siem Reap and head north, and the first thing you see is water.
@@ -66,12 +65,6 @@ The stone is weathering, the trees are growing, and the visitors keep coming. Co
 
 A temple built for gods and kings has become the symbol of a nation.
 
-## Limits of the record
-
-The core facts of “The Temple in the Jungle” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Temple in the Jungle” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Angkor is Cambodia's most visited monument. Tourism revenue helps fund conservation, but the same influx puts pressure on stone, reliefs, and the surrounding forest. Conservators have restored and strengthened unstable structures, copied and recorded reliefs exposed to weathering, and restricted access to vulnerable areas.
@@ -84,4 +77,4 @@ A temple, a city, a forest. The story of Angkor is still being discovered.
 
 ---
 
-**Sources and licenses**: for “The Temple in the Jungle”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the construction record, the reliefs, the urban water system, and the “discovery” narrative; estimates of Angkor's population and the causes of its decline vary.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

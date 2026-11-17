@@ -3,7 +3,6 @@ title: "The Gold-Covered Chest"
 summary: "The Ark of the Covenant was a wooden chest covered in gold, holding the stone tablets of the Ten Commandments. It stood in the innermost room of the Temple in Jerusalem, which only the high priest entered once a year. In 586 BCE the Babylonians burned the Temple, and the Ark disappeared. Ethiopia says it is in Aksum."
 lang: en
 ---
-
 ## 1. The chest
 
 Exodus gives the dimensions: two and a half cubits long, one and a half wide, one and a half high. In modern units, roughly 1.1 metres long and 65 centimetres wide and high.
@@ -66,12 +65,6 @@ The guardian monk is still in Aksum. The Holy of Holies in Jerusalem is only sto
 
 *Original schematic: the construction of the Ark, its capture by the Philistines, the destruction of the Temple and the Ethiopian tradition. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Gold-Covered Chest” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
-
-“The Gold-Covered Chest” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Its meaning is not in the wood and gold, but in the contract it represents.
@@ -84,4 +77,4 @@ The box can disappear, the story cannot. As long as there are people who believe
 
 ---
 
-**Sources and licenses**: for “The Gold-Covered Chest”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the biblical description, the historical record and the Ethiopian tradition; there is no verifiable Ark, and the Aksum claim cannot be independently examined. The illustration is a scene reconstruction, not a photograph of the object.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

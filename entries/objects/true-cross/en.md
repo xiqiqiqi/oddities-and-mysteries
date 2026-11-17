@@ -3,7 +3,6 @@ title: "Splinters of the Cross"
 summary: "Around 326 CE Helena, the mother of Constantine, travelled to Jerusalem. Tradition says she dug up three pieces of wood at Golgotha, and one of them was identified as the cross of Jesus. Since then the wood has been cut into fragments and sent to churches across Europe. Today there are enough claimed pieces of the True Cross to fill a ship."
 lang: en
 ---
-
 ## 1. Helena
 
 Helena was the mother of the Roman emperor Constantine.
@@ -66,12 +65,6 @@ For historians, it is a story about relics, power and piety. One piece of wood w
 
 *Original schematic: Helena's discovery, the distribution of the cross and the spread of fragments. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “Splinters of the Cross” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
-
-“Splinters of the Cross” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 But fragments of sacred relics are often small, and sampling would destroy the artifacts. Furthermore, the wood may have been treated by later generations, and surface coatings and preservation materials may affect the results. Carbon dating gives the age of the wood but does not prove which tree it came from.
@@ -90,4 +83,4 @@ The question of the True Cross is not a scientific question. It belongs to faith
 
 ---
 
-**Sources and licenses**: for “Splinters of the Cross”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the tradition of Helena's discovery, the distribution of fragments and Calvin's criticism; no fragment can be independently proved to come from the cross of Jesus. The illustration is a scene reconstruction, not a photograph of the object.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

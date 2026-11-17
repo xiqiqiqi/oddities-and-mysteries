@@ -3,7 +3,6 @@ title: "The Stones That Walk"
 summary: "At the Racetrack Playa in Death Valley, stones weighing tens or even hundreds of kilograms leave long trails across a dry lakebed. No one pushes them, and almost no one sees them move. In 2014, researchers finally filmed the answer — a thin layer of winter ice and a little wind."
 lang: en
 ---
-
 ## 1. Trails on the lakebed
 
 Death Valley National Park, California. The Racetrack Playa.
@@ -74,12 +73,6 @@ Visitors can drive to the area on designated roads, but they must not drive onto
 
 The stones are still there. Most of the time they do not move. In the right few days of winter, they travel a short distance, slowly.
 
-## Limits of the record
-
-The core facts of “The Stones That Walk” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Stones That Walk” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The conditions for stone movement are very narrow: it needs to rain first to form shallow water; it needs to freeze at night; it needs to melt during the day; and it needs wind. Researchers waited a long time for a complete record.
@@ -88,4 +81,4 @@ Previous observers saw only the trajectory, not the movement. The trajectory is 
 
 ---
 
-**Sources and licenses**: for “The Stones That Walk”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The movement mechanism at the Racetrack has direct observational support; this article separates earlier guesses from the 2014 observations.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

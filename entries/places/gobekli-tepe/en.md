@@ -3,7 +3,6 @@ title: A Temple 7,000 Years Older Than the Pyramids
 summary: On a barren hill in southeastern Turkey, archaeologists uncovered a set of T-shaped megaliths carved with animals. They were built around 9500 BCE, seven thousand years before the pyramids and before farming villages. Who built them, and why they were buried, is still unknown.
 lang: en
 ---
-
 ## 1. Stones on a barren hill
 
 Southeastern Turkey, outside the city of Şanlıurfa. There is an unremarkable hill.
@@ -86,4 +85,4 @@ Standing on the boardwalk, you see a T-shaped pillar, its surface weathered whit
 
 ---
 
-**Sources and licenses**: for “A Temple 7,000 Years Older Than the Pyramids”, the factual sources are listed in the source ledger S1–S5 at the bottom of this entry. Text and reconstruction illustrations are licensed under CC BY-SA 4.0. Reconstruction illustrations are not historical photographs. The purpose and identity of the builders of Göbekli Tepe remain debated; this article separates confirmed archaeological facts from interpretive hypotheses.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

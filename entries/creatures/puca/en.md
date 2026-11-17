@@ -3,7 +3,6 @@ title: The Black Horse
 summary: On an Irish night a black horse waits at the roadside. It lets you climb on, then runs. You cannot hold the reins or get down. At dawn you are lying in a ditch and the horse is gone. This is the púca, a shape-shifting trickster of Irish folklore. It does not kill you; it loses you. It may also, somewhere you cannot remember, have saved you from worse.
 lang: en
 ---
-
 ## 1. The Night Road
 
 A black horse stands at the roadside on an Irish night.
@@ -90,4 +89,4 @@ The púca has not disappeared. It has changed shape again: from a black horse on
 
 ---
 
-**Sources and licenses**: for “The Black Horse”, sources are listed in the ledger S1–S5 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart Irish folklore, etymology, local variants and modern popular culture; the púca is a folk creature with no physical evidence. The illustrations are a historical print, a reconstruction and a schematic, not site photographs.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

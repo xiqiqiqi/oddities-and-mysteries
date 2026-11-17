@@ -3,7 +3,6 @@ title: The Tomb That Was Never Looted
 summary: In 1987, police in northern Peru caught a group of tomb raiders. Archaeologists followed their tunnel down and found an unlooted Moche royal tomb. The dead man wore a gold mask, and around him lay gold, silver, copper, and turquoise ornaments, along with sacrificed attendants, a dog, and two llamas.
 lang: en
 ---
-
 ## 1. The looters of 1987
 
 In February 1987, police in northern Peru stopped a car.
@@ -78,4 +77,4 @@ The mask still sits in the central case. The gold is not bright; its colour is d
 The tomb also made clear that Moche power was regional, not a single kingdom with one capital. That distinction still shapes how the period is studied.
 ---
 
-**Sources and licenses**: for “The Tomb That Was Never Looted”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, the tomb structure, the identity of the Lord, and the later excavations; estimates of his age and cause of death vary.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: The Serpent in the Lake
 summary: In Lake Seljord in Telemark, Norway, people have reported a long serpent since the eighteenth century. It is called “Selma”. In 1880, a local man and his mother said they cut it in two with an oar — the back half slid into the lake, and the front half stayed on the shore. Today the coat of arms of Seljord still shows a golden serpent.
 lang: en
 ---
-
 ## 1. Lake Seljord
 
 Lake Seljord is in Telemark, Norway. It is about fourteen kilometres long, and at its deepest point it reaches more than 150 metres.
@@ -82,4 +81,4 @@ The sign by the lake still shows a serpent. It is a symbol of local identity, no
 The lake is deep enough to keep a secret, and old enough to have kept one for two centuries. That is the whole story, and it is enough.
 ---
 
-**Sources and licenses**: for “The Serpent in the Lake”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the early sightings, the 1880 event, the lack of evidence, and the possible explanations; there is no photograph or specimen of Selma, and the serpent on the coat of arms is a symbol, not a record of a sighting.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

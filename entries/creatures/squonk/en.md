@@ -3,7 +3,6 @@ title: "The Creature That Cried Itself Away"
 summary: "Lumberjacks in northern Pennsylvania said the woods held the ugliest animal alive. It cried constantly and left a trail of tears. Cornered, it dissolved into a pool of tears and vanished. In 1910 a state forester put the story into a book."
 lang: en
 ---
-
 ## 1. Crying in the Woods
 
 The hemlock forests of northern Pennsylvania have long winters.
@@ -72,12 +71,6 @@ In a world where every monster wants to eat you, a creature that cries itself aw
 
 The Squonk is a literary and lumber-camp invention more than a field report; its archive is the published tall tale, the song, and the later children's book, not a record of a captured animal.
 
-## Limits of the record
-
-“The Creature That Cried Itself Away” comes mainly from legend, oral tradition, or urban narrative in Pennsylvania, United States; the entry records how it is told without treating the story itself as established fact.
-
-“The Creature That Cried Itself Away” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Skonk's story has no ending. It cries, it melts, it disappears. The next time someone walks into the woods, it will still be there. A monster that only disappears is the hardest to drive away completely.
@@ -90,4 +83,4 @@ Skonk's story was later written into a children's book. It stopped crying and tu
 
 ---
 
-**Sources and licenses**: for “The Creature That Cried Itself Away”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the lumberjack folklore, the 1910 written record and later popular culture; the Squonk is a folkloric creature with no physical evidence. The illustration is a scene reconstruction, not a photograph of a site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: The Wife of Jesus
 summary: In 2012 the Harvard professor Karen King presented an 8-centimetre papyrus fragment bearing the words "Jesus said to them, 'My wife...'". If genuine, it would be the first ancient text to say plainly that Jesus had a wife. Four years later a journalist traced the owner, and King conceded it was probably a forgery.
 lang: en
 ---
-
 ## 1. A Small Piece of Paper
 
 In September 2012 Karen King, a professor at Harvard Divinity School, presented a papyrus fragment at an academic conference in Rome.
@@ -83,4 +82,4 @@ The fragment also became a case study in how a single object can outrun the scho
 The story is still being written.
 ---
 
-**Sources and licenses**: for “The Wife of Jesus”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the fragment's text, its 2012 publication, the 2014 laboratory tests, the 2016 provenance investigation and the theological debate; the fragment's authenticity remains disputed, and most later reporting leans towards forgery. The illustration is a scene reconstruction, not a photograph of an artefact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

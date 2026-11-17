@@ -3,7 +3,6 @@ title: The Hairy One of the Huisne
 summary: "Near La Ferté-Bernard in the Sarthe, legend puts an ox-sized beast in the Huisne — green hair, venomous quills it could fire like arrows, a serpent's head, and one weak point, its tail. A young man killed it after it took his fiancée. The name Peluda is Spanish, borrowed by Borges; locally the creature is La Velue, the hairy one."
 lang: en
 ---
-
 ## 1. The River
 
 The Huisne runs south out of the Perche hills, crosses the Sarthe and bends around the old town of La Ferté-Bernard. The banks are low, the grass thick. In the Middle Ages there were mills along this stretch, washing places, and a stone bridge left from the Roman period.
@@ -76,4 +75,4 @@ Nobody sees the green-haired beast any more. The terracotta figure from the ditc
 
 ---
 
-**Sources and licenses**: for “The Hairy One of the Huisne”, sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the medieval local legend, the sixteenth-century "ewes" joke, the nineteenth-century rewrite and Borges's borrowed name; the legend has local histories and images behind it, the beast has no physical evidence. The reconstruction is not a historical photograph.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

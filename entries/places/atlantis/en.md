@@ -3,7 +3,6 @@ title: The Island That Sank
 summary: In the Timaeus and Critias, Plato tells of an island beyond the Pillars of Hercules, larger than Libya and Asia combined, that sank into the sea in a single day and night. For more than two thousand years people have looked for it. Archaeologists have not found it. Most classicists now read the story as an allegory.
 lang: en
 ---
-
 ## 1. Plato
 
 Atlantis first appears in two of Plato's dialogues, the Timaeus and the Critias.
@@ -128,4 +127,4 @@ Two thousand years later we are still answering it. We have only turned it into 
 
 ---
 
-**Sources and licenses**: for “The Island That Sank”, sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart Plato's text, the philosophical allegory, later hypotheses and the archaeological evidence; there is no confirmed site for Atlantis, and mainstream scholarship treats it as an allegory. The illustrations are historical maps, a satellite photograph, a reconstruction and a schematic, not archaeological photographs.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The Lighthouse That Sank"
 summary: "A lighthouse more than a hundred metres tall once stood at the entrance to Alexandria's harbour. A fire burned at the top at night, and a mirror was said to reflect the sun by day. It stood for over a thousand years before earthquakes brought it down and its stones fell into the sea. In the 1990s, divers found the remains on the harbour floor."
 lang: en
 ---
-
 ## 1. The door to the harbour
 
 In 331 BCE, Alexander founded a new city on the Egyptian coast.
@@ -64,12 +63,6 @@ The Antiquities Museum at the Bibliotheca Alexandrina has a collection of object
 
 A building made to guide ships ended up sinking into the harbour it once guarded.
 
-## Limits of the record
-
-The core facts of “The Lighthouse That Sank” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Lighthouse That Sank” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Some stones have inscriptions on them, and some have carvings. They cannot put the entire tower back together, but they can prove its existence.
@@ -86,4 +79,4 @@ The memory of a lighthouse is longer than its stones. The wind on the seaside, s
 
 ---
 
-**Sources and licenses**: for “The Lighthouse That Sank”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the construction record, the ancient accounts, the earthquake damage, and the underwater survey; the exact height and the mirror mechanism are described differently in the ancient sources.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

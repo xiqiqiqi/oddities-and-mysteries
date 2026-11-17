@@ -3,7 +3,6 @@ title: "The Horse in the Water"
 summary: "By a Scottish loch, a black horse sometimes stands at the water's edge. It is beautiful, its coat glossy, like a lost farm horse. But if you climb on its back, its skin sticks to you, and it walks into the water. This is the kelpie, the water horse of Scottish folklore. It is not a monster so much as a warning — stay away from deep water."
 lang: en
 ---
-
 ## 1. The horse by the water
 
 In Scottish folklore, a horse often stands by a loch.
@@ -66,12 +65,6 @@ In 2014, two huge horse-head sculptures called The Kelpies were built at Falkirk
 
 A story meant to warn children ended up as a tourist landmark. The horse is still there; it just no longer drags anyone into the water.
 
-## Limits of the record
-
-“The Horse in the Water” comes mainly from legend, oral tradition, or urban narrative in Scotland, United Kingdom; the entry records how it is told without treating the story itself as established fact.
-
-“The Horse in the Water” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The tales also remind us that folklore is not always one‑sided. It offers no protection, only a warning. If you heed the lesson, you survive; if you ignore it, the waters claim you. The rule is straightforward and brutally honest.
@@ -84,4 +77,4 @@ Poets have also rendered the legend in verse, likening the water‑side horse to
 
 ---
 
-**Sources and licenses**: for “The Horse in the Water”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the legendary forms, the story types, the counters, and the warning function; the kelpie is folklore, with no physical evidence, and The Kelpies at Falkirk is a modern public artwork completed in 2014.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

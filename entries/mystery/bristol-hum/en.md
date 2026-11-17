@@ -3,7 +3,6 @@ title: "The Bristol Hum"
 summary: "In the 1970s, some residents of Bristol heard a persistent low-frequency drone at night. It was not a truck, and it was not the refrigerator. They turned off the power and changed rooms; the sound remained. Investigations went on for years without producing an answer everyone accepted."
 lang: en
 ---
-
 ## 1. A sound at night
 
 Bristol, in southwest England.
@@ -70,12 +69,6 @@ The Bristol Hum endures not because it has a dramatic answer, but because it put
 
 The Bristol hum file is mostly a local-government and public-health paper trail: complaints, council responses, acoustic surveys, and the absence of a source that all investigators could agree on.
 
-## Limits of the record
-
-The core facts of “The Bristol Hum” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
-
-“The Bristol Hum” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Researchers will use microphones and spectrum analyzers to record sound pressure levels and frequencies at different locations. They also turn off suspicious devices, one at a time, to see if the sound goes away. If the buzzing noise disappears after turning off a certain machine, the source will be clear.
@@ -84,4 +77,4 @@ But investigations often fail because the sound is too weak or comes from too ma
 
 ---
 
-**Sources and licenses**: for “The Bristol Hum”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The specific source of the Bristol Hum remains disputed; this article separates recorded reports and investigations from interpretive hypotheses.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

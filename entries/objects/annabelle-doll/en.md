@@ -3,7 +3,6 @@ title: "Annabelle: The Résumé of a Cloth Doll"
 summary: "The real \"Annabelle\" is a mass-produced Raggedy Ann cloth doll: yarn hair, a triangle nose, a stitched smile. The Warrens said it was demonically possessed and locked it in a glass case; Hollywood gave it a porcelain face. In 2025 it \"went missing\" on social media — actually a tour marketing campaign. The paranormal claims rest, from start to finish, on the Warrens' word alone."
 lang: en
 ---
-
 ## 1. First, it is a cloth doll
 
 Look at the object. Red yarn hair, a triangle nose on a cloth face, a mouth that is one stitched curve, a floral dress, red-and-white striped legs. It is a Raggedy Ann — an American cloth doll mass-produced for decades, cheap, soft, everywhere. The hair is yarn, stitched strand by strand to a cloth scalp; the nose is a triangle of red fabric; the eyes are two black button-like discs. There is no mechanism, nothing that could "move by itself."
@@ -66,4 +65,4 @@ The case is still there, the bell is still there, the warning sign is still ther
 
 ---
 
-**Sources and licenses**: for “Annabelle: The Résumé of a Cloth Doll”, factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The three site photographs are credited Wikimedia Commons works (CC BY 4.0 / CC0), licenses in the ledger. The Warrens' paranormal claims have no third-party corroboration and are presented here as claims made, not as facts.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The Small Sun in the Storm"
 summary: "Ball lightning is not ordinary lightning. It is a floating sphere of light that can pass through a window, roll along a wall, and then vanish silently or explode. In 1838, Arago presented a survey to the French Academy. Today, there is still no universally accepted explanation."
 lang: en
 ---
-
 ## 1. The 1838 report
 
 In 1838, the French physicist François Arago presented a report to the French Academy of Sciences.
@@ -76,12 +75,6 @@ Not every unexplained light is ball lightning, of course. The atmosphere contain
 
 The ball-lightning record spans meteorology, plasma physics, and witness tradition. Laboratory experiments have produced short-lived plasma balls, and field reports contain many close sightings, but no complete chain links the two: there is no field ball lightning recorded simultaneously by instruments, and no model reproduces every reported feature. This entry separates 'a similar phenomenon can be made in the lab' from 'that ball in the sky was it'.
 
-## Limits of the record
-
-The core facts of “The Small Sun in the Storm” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
-
-“The Small Sun in the Storm” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ---
 
-**Sources and licenses**: for “The Small Sun in the Storm”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

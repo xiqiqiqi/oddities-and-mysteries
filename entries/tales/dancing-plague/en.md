@@ -3,7 +3,6 @@ title: "The City That Danced"
 summary: "In July 1518, a woman began dancing in the street in Strasbourg. Within days, dozens had joined her; within a month, the number may have reached several hundred. They danced for days and nights. Some collapsed. Some kept going. The city first hired musicians, then banned music, and finally sent the dancers on pilgrimage."
 lang: en
 ---
-
 ## 1. Strasbourg in July
 
 July 1518, Strasbourg. It was a free city then, with churches, guilds, markets, and narrow streets inside its walls.
@@ -60,19 +59,11 @@ Each explanation has supporters. None fully reconstructs the scene in 1518.
 
 What it leaves is not just a horror story but a window: when a group shares the same fear, the same belief, and the same physical language, what can happen?
 
-The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Dancing plague of 1518” and S2 is “Wikipedia · Strasbourg”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The dancing plague is documented mainly through the 1518 Strasbourg chronicles, city-council and church records, and later medical-historical and folklore scholarship. The chronicles record dates, numbers, and duration, but their explanations of why people danced are mostly theological or humoral. Later studies have proposed ergot poisoning, mass hysteria, and stress contagion; each model accounts for part of the record, none for all of it. This entry separates 'it was recorded' from 'it has been diagnosed' and does not treat any one explanation as settled.
 
 The dancing-plague archive is a chronicle archive: town records, sermons, and later medical commentary. The further the account is from 1518, the more detail it tends to add, which is the opposite of what a forensic record usually does.
-
-## Limits of the record
-
-The core facts of “The City That Danced” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
-
-“The City That Danced” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
 
 ## Archival note
 
@@ -91,4 +82,4 @@ No one knows why she started jumping, no one knows why they stopped. The city ca
 
 ---
 
-**Sources and licenses**: for “The City That Danced”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the chronicle accounts, the city's response, and modern explanations; both the death toll and the number of participants vary between sources.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

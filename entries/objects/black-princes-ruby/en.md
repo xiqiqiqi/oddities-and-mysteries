@@ -3,7 +3,6 @@ title: "The Ruby That Wasn't"
 summary: "A deep red stone of about 170 carats sits at the front of the British Imperial State Crown. For centuries it has been called the Black Prince's Ruby. It is not a ruby at all, but a spinel. A hole was drilled through it long ago, and a small ruby was later set into the hole."
 lang: en
 ---
-
 ## 1. The front of the crown
 
 A large red stone sits at the front of the British Imperial State Crown.
@@ -62,12 +61,6 @@ The display light falls on the front. The red stone looks dark, with a rim of go
 
 It is not a ruby. But it has seen a battle in 1367, another in 1415, a civil war, and a coronation. The name is wrong; the history is real.
 
-## Limits of the record
-
-The core facts of “The Ruby That Wasn't” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Ruby That Wasn't” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Legend has it that it was drilled and used for threading or fixing. The hole reduces the value of the gem and leaves a trace of history. Later inlays obscured it, but it can still be seen if you look closely.
@@ -86,4 +79,4 @@ Edward, the "Black Prince" acquired it during the Spanish campaign. He brought i
 
 ---
 
-**Sources and licenses**: for “The Ruby That Wasn't”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the stone's physical properties, its documented owners, and the legends attached to it; the claim that Henry V wore it at Agincourt is traditional rather than firmly documented.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The White Thing on the Mountain"
 summary: "In June 1994, herb pickers at the Hongqi Forest Farm in Wuchang, Heilongjiang, said there was a white object on the south slope of Phoenix Mountain. Worker Meng Zhaoguo and a relative went up to look and said they were driven back by an electric shock at 150 metres. On 9 June he led a group up and collapsed. On 16 July he said he had been taken inside the object and shown a comet hitting Jupiter. The investigation found no physical evidence. Psychologists said his memory may have filled in the gaps."
 lang: en
 ---
-
 ## 1. June 1994
 
 Hongqi Forest Farm, Wuchang, Heilongjiang. Phoenix Mountain rises to the south.
@@ -68,12 +67,6 @@ The south slope of Phoenix Mountain is still there. The white thing did not come
 
 *Original schematic: the June–July 1994 timeline, the south-slope sighting and the investigation. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The White Thing on the Mountain” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
-
-“The White Thing on the Mountain” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 No white object was found on the hillside, no wreckage, no photos, no samples. The "elastic things picked out from the skin" mentioned by Meng Zhaoguo have not been preserved either.
@@ -82,4 +75,4 @@ The only thing left were the red marks and scars on his body, and his own narrat
 
 ---
 
-**Sources and licenses**: for “The White Thing on the Mountain”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Meng's account, the witnesses' observations, the investigation and the psychological explanations; no physical evidence confirms an alien contact. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

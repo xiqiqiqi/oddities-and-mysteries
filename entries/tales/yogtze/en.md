@@ -3,7 +3,6 @@ title: "Six Letters"
 summary: "In October 1984 a German man, Günter Stoll, wrote six letters on a piece of paper — YOGTZE — and went out. Hours later he was found badly injured in his crashed car, and died that night. The case ran for forty years until police closed it in 2025 as a single-car accident. The six letters have never been explained."
 lang: en
 ---
-
 ## 1. 25 October 1984
 
 Günter Stoll was thirty-four and lived in Anzhausen, in the German state of North Rhine-Westphalia. He had worked as a food industry technician and was unemployed in 1984.
@@ -82,12 +81,6 @@ YOGTZE belongs to no language and has left no verifiable meaning. It is six lett
 
 What he understood that night, no one knows.
 
-## Limits of the record
-
-The core facts of “Six Letters” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“Six Letters” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ---
 
-**Sources and licenses**: for “Six Letters”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

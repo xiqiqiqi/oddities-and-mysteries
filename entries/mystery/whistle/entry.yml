@@ -32,7 +32,8 @@ sources:
     year: "2026"
     license: NOAA 网站使用条款
     license_en: "Website terms of use"
-    usage: 水听器阵列与深海声源背景；具体页面待补
+    usage: 水听器阵列与深海声源背景
+    usage_en: "Hydrophone array and deep-ocean sound-source background"
   - id: S3
     title: 场景复原插图与原创示意图
     title_en: "Scene reconstruction and original diagram"

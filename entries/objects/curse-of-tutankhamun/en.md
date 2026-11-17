@@ -3,7 +3,6 @@ title: "The Pharaoh's Curse"
 summary: "In November 1922 Howard Carter opened the tomb of Tutankhamun. Five months later his sponsor, Lord Carnarvon, died of an infection. The newspapers called it the curse of the pharaoh. The inscription about death coming on swift wings was never in the tomb."
 lang: en
 ---
-
 ## 1. November 1922
 
 The Valley of the Kings lies on the west bank at Luxor, a dry limestone valley where pharaohs cut their tombs into the rock, hoping to escape robbers.
@@ -70,12 +69,6 @@ The curse became part of popular culture. Films, novels and souvenirs use it. Th
 
 *Original schematic: the discovery in 1922, Carnarvon's death in 1923, and the newspaper stories about the curse. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-“The Pharaoh's Curse” comes mainly from legend, oral tradition, or urban narrative in Valley of the Kings, Luxor, Egypt; the entry records how it is told without treating the story itself as established fact.
-
-“The Pharaoh's Curse” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The people on the list died over a wide span of time and had different causes of death. Some people die from disease, some die from accidents, some die from old age. Put them together and they become a "curse chain".
@@ -94,4 +87,4 @@ Egyptologists were also involved in the spread. Carter and Carnarvon's team need
 
 ---
 
-**Sources and licenses**: for “The Pharaoh's Curse”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, Carnarvon's death, the newspaper coverage and the list of deaths; the “death shall come on swift wings” inscription does not exist in the tomb, Carnarvon died of an infection, and there is no evidence for a curse. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

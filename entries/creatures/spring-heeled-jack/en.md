@@ -3,7 +3,6 @@ title: "Spring-Heeled Jack"
 summary: "In the London fog of 1837, a figure appeared who could jump. He wore a strange helmet, had red eyes and claw-like hands, and could leap from the ground to a rooftop. The newspapers called him Spring-Heeled Jack. No one caught him, and no one proved who he was."
 lang: en
 ---
-
 ## 1. A jump in the fog
 
 London, 1837.
@@ -58,8 +57,6 @@ No body, no capture, no reliable photograph. What remains is a stack of newspape
 
 He may have been one man. He may have been several. He may have been a story told too many times.
 
-The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Spring-heeled Jack” and S2 is “Wikipedia · Penny dreadful”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Editorial note
 
 This entry treats Spring-heeled Jack as a media event before it treats him as a creature. The core question is not whether a man with springs existed, but how a set of newspaper claims became a durable urban legend. Reports are dated where the source dates them, left undated where the record is vague, and never upgraded from 'a witness said' to 'it happened'. The same standard applies to the later stage, film, and internet versions: they are part of the story's afterlife, not evidence for the original events.
@@ -70,12 +67,6 @@ The Spring-heeled Jack story survives mainly in nineteenth-century newspaper col
 
 The Spring-heeled Jack file is further complicated by the way later memoirs reuse the same handful of newspaper items; a sentence that looks like a new witness is often a paraphrase of an earlier report.
 
-## Limits of the record
-
-“Spring-Heeled Jack” comes mainly from legend, oral tradition, or urban narrative in London and elsewhere in Britain; the entry records how it is told without treating the story itself as established fact.
-
-“Spring-Heeled Jack” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ---
 
-**Sources and licenses**: for “Spring-Heeled Jack”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

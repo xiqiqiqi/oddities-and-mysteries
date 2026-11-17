@@ -3,7 +3,6 @@ title: "The Red Water Under the Glacier"
 summary: "In 1911, a geologist saw a patch of rust-coloured ice at the end of Taylor Glacier in the McMurdo Dry Valleys. Red water was seeping out of the ice and staining the white surface. At the time, some thought it was red algae. Later research gave a stranger answer — it was ancient, iron-rich brine."
 lang: en
 ---
-
 ## 1. 1911
 
 The McMurdo Dry Valleys are among the least Antarctic-looking places on the continent. Snow rarely falls, the valleys are bare, and the rocks are polished by wind.
@@ -64,14 +63,6 @@ Blood Falls is one of the most recognisable landmarks in the Dry Valleys. Its re
 
 Beneath ice with no sunlight, iron, salt, and water maintain a small world. It flows slowly, and it has been flowing for a very long time.
 
-## Limits of the record
-
-The core facts of “The Red Water Under the Glacier” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
-
-“The Red Water Under the Glacier” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
-## Archival note
-
 ---
 
-**Sources and licenses**: for “The Red Water Under the Glacier”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1911 observation, later chemical analysis, and microbiological research; “Blood Falls” is a stain formed by seepage, not a waterfall in the usual sense.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

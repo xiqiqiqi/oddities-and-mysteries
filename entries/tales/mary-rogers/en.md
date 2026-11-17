@@ -3,7 +3,6 @@ title: "The Girl in the Cigar Shop"
 summary: "In July 1841 a New York cigar girl, Mary Rogers, disappeared. Three days later her body was pulled from the Hudson River. The papers put her face on the front page, Edgar Allan Poe turned her into fiction, and the case was never solved."
 lang: en
 ---
-
 ## 1. Behind the counter
 
 A few steps from Broadway, on Liberty Street, there was a cigar shop run by a man named John Anderson.
@@ -74,12 +73,6 @@ The case was never officially closed.
 
 Mary Rogers's name survived in a story by Poe. The cause of her death survived in the newspapers of 1841. Both outlived her.
 
-## Limits of the record
-
-The core facts of “The Girl in the Cigar Shop” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
-
-“The Girl in the Cigar Shop” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The case was not solved. The newspaper's sales increased because of this story.
@@ -108,4 +101,4 @@ Mary's name remains in the book. The case is not closed, but the book is still b
 
 ---
 
-**Sources and licenses**: for “The Girl in the Cigar Shop”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the disappearance, the discovery of the body, the press coverage, Payne's death, and Loss's deathbed account; no one was ever convicted, Loss's account does not match the autopsy in every detail, and the death of Mary Rogers has no legal conclusion. The illustration is a scene reconstruction, not a historical photograph.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

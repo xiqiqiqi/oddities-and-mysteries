@@ -3,7 +3,6 @@ title: "The Alien Autopsy Tape"
 summary: "In 1995, a black-and-white film was shown on television. It appeared to show people in protective suits dissecting an alien body, and it was presented as a genuine record of the 1947 Roswell incident. Ten years later, the man who released it admitted that the alien was fake and the footage had been shot much later."
 lang: en
 ---
-
 ## 1. The film of 1995
 
 May 1995, London.
@@ -74,12 +73,6 @@ The 'alien autopsy' is not an archive but a history of television production. Th
 
 The alien-autopsy file is a television archive: broadcast masters, ratings coverage, and later interviews with the producers. There is no medical record, no chain of custody, and no original film element.
 
-## Limits of the record
-
-“The Alien Autopsy Tape” is strongly evidenced as a fabrication; the entry traces how it was made and spread in 1995, and why it still finds believers.
-
-“The Alien Autopsy Tape” is currently labelled “hoax”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The show's ratings are high. Many people believe that it is true.
@@ -91,4 +84,4 @@ The affair left a mark on television culture: audiences learned that a convincin
 
 ---
 
-**Sources and licenses**: for “The Alien Autopsy Tape”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the contents of the film, Santilli's claims, the flaws, and the admission; the 1995 footage was admitted by its distributor to be a reconstruction, and the alleged “original film” has never been independently verified.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

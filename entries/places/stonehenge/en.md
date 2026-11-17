@@ -3,7 +3,6 @@ title: "Stonehenge: Stones, Bones, and the Turning Year"
 summary: "Stonehenge stands on Salisbury Plain in Wiltshire, England. It is not a stone circle built in one go but a place repeatedly rebuilt, extended, and abandoned over more than three thousand years. Stones, trilithons, ditches, avenues, and burials together form a prehistoric landscape."
 lang: en
 ---
-
 ## 1. The stone setting
 
 The site stands on Salisbury Plain in Wiltshire, England, at roughly 51°10'N, 1°49'W. It is not an isolated stone circle but a whole landscape of ditches, banks, pits, avenues, and burials. The ring of sarsens, the trilithons, and the surrounding earthwork that visitors see today are the result of different phases layered on top of one another; over more than three thousand years the place was repeatedly rebuilt, extended, and abandoned. In 1986 it was inscribed as a World Heritage Site together with its surrounding landscape, and in 2013 a new visitor centre opened west of the stones. Treating Stonehenge as a single finished 'work' is the first obstacle to understanding it.
@@ -36,7 +35,7 @@ Building on this scale took many hands: transport, shaping, raising, and repeate
 
 The roads around Stonehenge have long been a problem. The A303 runs close to the monument, and traffic and noise affect the landscape; a tunnel scheme has been discussed for years, with supporters stressing transport and landscape and opponents fearing damage to buried remains. The public is still allowed into the stone circle at specific times around midwinter and midsummer, but ordinary visits follow an outer path. Conservation, visitor access, and road demand remain in tension.
 
-The cover is an AI-assisted reconstruction of “Stonehenge: Stones, Bones, and the Turning Year”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
+The cover is an AI-assisted reconstruction of “Stonehenge: Stones, Bones, and the Turning Year”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded in the source ledger below.
 
 ## Archive location
 
@@ -48,4 +47,4 @@ Three questions about Stonehenge still lack agreed answers: how the bluestones w
 
 ---
 
-**Sources and licenses**: for “Stonehenge: Stones, Bones, and the Turning Year”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

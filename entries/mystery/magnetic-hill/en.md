@@ -3,7 +3,6 @@ title: "The Hill That Pulls Cars Uphill"
 summary: "In Moncton, Canada, there is a road that looks like it slopes upward. Park at the marker, put the car in neutral, and it slowly rolls backward, as if pulled toward the top. Visitors call it Magnetic Hill. There is no magnetism. The terrain is fooling your eyes."
 lang: en
 ---
-
 ## 1. A road that looks uphill
 
 Moncton is a small city in New Brunswick, Canada.
@@ -68,12 +67,6 @@ It is not an unsolved mystery. It is more like a public visual experiment: which
 
 If you go to test it yourself, bring three things: a spirit level, a ball, and a blindfold. The level measures the slope, the ball shows which way “uphill” water runs, and the blindfold removes the tilted references in the landscape. Put the three together and the illusion falls apart.
 
-## Limits of the record
-
-The core facts of “The Hill That Pulls Cars Uphill” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
-
-“The Hill That Pulls Cars Uphill” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 There are signs on the roadside that say "Experience Gravity Abnormality", and some even sell certificates and souvenirs. Tourists lined up to stop the car, watch it "walk on its own", and then take photos. No one really believed there was magnetite there, but everyone was willing to play it once.
@@ -82,4 +75,4 @@ Physics has not disappeared, it has just been packaged into games. An optical il
 
 ---
 
-**Sources and licenses**: for “The Hill That Pulls Cars Uphill”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the visitor experience, the visual explanation, and the name “magnetic”; there is no detectable magnetic anomaly at the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

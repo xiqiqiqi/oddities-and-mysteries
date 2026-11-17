@@ -3,7 +3,6 @@ title: The Clearing in the Woods
 summary: Three kilometres west of Cluj-Napoca, a 250-hectare oak forest holds a circular clearing where almost nothing grows. The trees grow bent. Some say a disc flew over the wood; some say people who walk in do not come out. Legend, photographs and the tourist trade are hard to separate.
 lang: en
 ---
-
 ## 1. The Forest at the Edge of Town
 
 Cluj-Napoca is a city in north-western Romania. Three kilometres west, the city ends and an oak forest begins.
@@ -84,4 +83,4 @@ Some places do not need an answer. They need a storyteller and a flashlight.
 
 ---
 
-**Sources and licenses**: for “The Clearing in the Woods”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the geography and tree forms, the local legends, the photograph controversy and the tourist trade; the bent trees and the clearing are real, while the saucer and disappearance stories have no verifiable evidence. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

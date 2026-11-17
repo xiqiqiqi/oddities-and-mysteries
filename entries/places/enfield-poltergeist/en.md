@@ -3,7 +3,6 @@ title: "The House That Spoke"
 summary: "In August 1977, in Enfield, north London, furniture in a family home began to move. Eleven-year-old Janet was thrown into the air, and a gravelly male voice spoke through her. Investigators from the Society for Psychical Research moved in, took photographs and made recordings. The children later admitted that some of it was faked."
 lang: en
 ---
-
 ## 1. 284 Green Street
 
 Enfield is in north London. Green Street is an ordinary residential street.
@@ -80,12 +79,6 @@ An ordinary house, an eleven-year-old girl, the voice of a dead old man. Believe
 
 The Enfield case is documented mainly through the 1977 local press, police call-outs, child-protection case material, and later sociological interviews on family stress and child performance. There are witnesses to sounds and moving objects, but no independently recorded laboratory conditions; the girls' accounts changed across interviews. This entry separates 'something unexplained happened in the house' from 'a ghost did it', and does not treat a later retraction or change of story as proof of wholesale invention.
 
-## Limits of the record
-
-The core facts of “The House That Spoke” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
-
-“The House That Spoke” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Adolescent girls may make sounds and move objects unintentionally. The family's fear and the media's attention made the incident bigger and bigger.
@@ -94,4 +87,4 @@ There is no evidence to prove that ghosts exist, and there is no evidence to pro
 
 ---
 
-**Sources and licenses**: for “The House That Spoke”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the family's account, the investigators' records, the sceptical view and the film adaptation; the Enfield case has no agreed conclusion, some phenomena were shown to be faked, and others remain unexplained. The illustration is a scene reconstruction, not a photograph of the house.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

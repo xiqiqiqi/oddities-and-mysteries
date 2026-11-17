@@ -3,7 +3,6 @@ title: The Balloon Across the Atlantic
 summary: On 13 April 1844, the New York Sun published a report that a balloon called the Victoria had crossed the Atlantic in 75 hours with eight passengers. New Yorkers crowded the streets to buy the paper. Two days later the Sun admitted it was invented. The man who wrote it was Edgar Allan Poe.
 lang: en
 ---
-
 ## 1. The morning of 1844
 
 13 April 1844 was a Saturday.
@@ -84,4 +83,4 @@ New York in 1844 had no photographs, no live broadcasts and no fact-checking. It
 The hoax also helped invent the modern byline, or at least the modern distrust of one.
 ---
 
-**Sources and licenses**: for “The Balloon Across the Atlantic”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1844 report, Poe's involvement, the public reaction, and the real crossing records; the Sun admitted the report was false two days later.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

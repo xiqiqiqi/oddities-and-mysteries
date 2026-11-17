@@ -3,7 +3,6 @@ title: "The Benin Bronzes: Palace, Punitive Expedition, and Return"
 summary: "Palace workshops in the kingdom of Benin made bronze and brass plaques, ancestor heads, and ritual objects for the oba, recording kingship, military success, and sacrifice. After the British punitive expedition of 1897, large numbers were taken to Europe. Their display and return remain unresolved questions for museums today."
 lang: en
 ---
-
 ## 1. A palace workshop
 
 The kingdom of Benin was centred on what is now Benin City in Nigeria and lasted from around the thirteenth century to the end of the nineteenth. Palace workshops made bronze and brass objects for the oba: relief plaques on palace walls, ancestor heads, ritual figures and animals, ivory and coral ornaments. These were not simply 'art objects'; they recorded kingship, military success, sacrifice, and foreign trade, and were placed at specific points in palaces, altars, and ceremonies.
@@ -36,7 +35,7 @@ Most of these objects are brass (a copper-zinc alloy) rather than strict 'bronze
 
 Returned objects need new conditions for conservation, research, and display. Nigeria plans a museum in Benin City and the reinstallation of some works in palaces and sites; electricity, climate control, security, and staff training remain practical issues. Return is not an endpoint: it changes ownership and the right to narrate. The next questions are who has the authority to interpret these objects, and whether audiences can see them where they were made.
 
-The cover is an AI-assisted reconstruction of “The Benin Bronzes: Palace, Punitive Expedition, and Return”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
+The cover is an AI-assisted reconstruction of “The Benin Bronzes: Palace, Punitive Expedition, and Return”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded in the source ledger below.
 
 ## Archive location
 
@@ -48,4 +47,4 @@ The Benin archive has two layers, 'origin' and 'present': the British Museum, th
 
 ---
 
-**Sources and licenses**: for “The Benin Bronzes: Palace, Punitive Expedition, and Return”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

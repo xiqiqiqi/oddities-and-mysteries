@@ -3,7 +3,6 @@ title: "Litvinenko: Polonium in a Teapot"
 summary: "On 1 November 2006 Alexander Litvinenko, a defected former FSB officer living in London, drank tea with two former colleagues in the Pine Bar of the Millennium Hotel. He fell ill the same day and died twenty-two days later of polonium-210 — the first recorded lethal polonium poisoning. A teapot in the hotel gave an off-the-charts reading. A British inquiry concluded the killers \"probably\" acted under FSB direction with Putin's approval; Russia refused extradition. In 2021 the European Court of Human Rights held Russia responsible."
 lang: en
 ---
-
 ## 1. A man who knew too much
 
 Alexander Litvinenko, born in Voronezh in 1962, came up through the Soviet Interior Troops, then KGB military counter-intelligence, and after the USSR's collapse worked organised crime for the Federal Security Service (FSB). He had seen the inside of the system: protection money, "roofs" (krysha), police and gangs moving from competition into cooperation.
@@ -60,4 +59,4 @@ The case also changed how poisoning is investigated. The trail of polonium was i
 The case remains a warning about the limits of state secrecy, and about how far a state will go to hide them.
 ---
 
-**Sources and licenses**: for “Litvinenko: Polonium in a Teapot”, factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The portrait, hotel frontage and grave photographs are credited Wikimedia Commons works, licenses in the ledger. The inquiry's wording is "probably," and this article keeps that qualifier; both suspects deny involvement and Russia refuses extradition, presented here in parallel.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

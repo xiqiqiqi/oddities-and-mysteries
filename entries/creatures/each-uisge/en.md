@@ -3,7 +3,6 @@ title: The Horse in the Loch
 summary: At dusk in the Scottish Highlands a fine horse stands at the water's edge. You mount it; it runs for the loch; your hands stick to its back. This is the each-uisge, the water horse, which the folklorist Katharine Briggs called perhaps the fiercest and most dangerous of all the water horses. It lives in deep lochs and sea lochs, not in the little streams the kelpie haunts.
 lang: en
 ---
-
 ## 1. The Horse by the Water
 
 Before dark, on a Highland loch. A horse stands at the edge, coat shining, unafraid.
@@ -102,4 +101,4 @@ At dusk, if a horse is standing still by the water and is not afraid of you, it 
 
 ---
 
-**Sources and licenses**: for “The Horse in the Loch”, sources are listed in the ledger S1–S6 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the Scottish and Irish folklore records, the place-name legends and modern tourist telling; the water horse is a folkloric creature with no physical evidence. The reconstruction is not a historical photograph, and Draper's painting is a kelpie, not an each-uisge.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

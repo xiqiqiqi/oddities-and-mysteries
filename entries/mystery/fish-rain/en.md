@@ -3,7 +3,6 @@ title: "When Fish Fall from the Sky"
 summary: "After the rain stops, fish are lying on the ground. This is not a metaphor; it is a recorded natural phenomenon. It has happened in Yoro, Honduras, in Lajamanu, Australia, and in India and Sri Lanka. The fish do not grow in clouds. They are lifted by waterspouts and dropped downwind."
 lang: en
 ---
-
 ## 1. After the rain
 
 The storm has passed, but water is still running down the street.
@@ -62,12 +61,6 @@ Fish rain is uncommon, but it is a reminder that the atmosphere and water can mo
 
 If you see a fish on the ground after a storm, do not rush to invent a story. Take a photo, note the place and time, and check whether there were waterspout reports nearby. It may really have fallen from the sky.
 
-## Limits of the record
-
-The core facts of “When Fish Fall from the Sky” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“When Fish Fall from the Sky” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Some are scams: people put the fish on the ground, take pictures, and say it fell from the sky. Some are mistaken: floods wash up fish, or birds drop fish on the ground. Others are hearsay: one person hears it from another, the place and time has changed.
@@ -76,4 +69,4 @@ Confirming a fish shower requires the scene, photos, witnesses, fish species and
 
 ---
 
-**Sources and licenses**: for “When Fish Fall from the Sky”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The mechanism of fish rain is broadly understood, but individual cases vary in credibility; this article separates verified phenomena, local legend, and unconfirmed reports.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

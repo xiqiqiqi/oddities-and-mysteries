@@ -3,7 +3,6 @@ title: "The Bloop from the Deep"
 summary: "In 1997, NOAA hydrophones in the South Pacific recorded an ultra-low-frequency sound. It was loud, deep, and about a minute long, strong enough to be picked up thousands of kilometres away. Some called it a deep-sea monster; others linked it to Cthulhu. Later, researchers offered a less romantic answer — an iceberg breaking apart."
 lang: en
 ---
-
 ## 1. Hydrophones in 1997
 
 In 1997, the US National Oceanic and Atmospheric Administration (NOAA) had a set of hydrophones deployed in the equatorial Pacific.
@@ -76,12 +75,6 @@ They are like three brothers: one low, one slowly descending, one whistle-like. 
 
 The Bloop record comes from the 1997 Pacific hydrophone array, NOAA's public statements, and later spectral analyses. The signal was short, low-frequency, and heard on more than one array; researchers later compared it to iceberg calving and ice seismicity. The original waveform, array coordinates, and processing parameters were not all released, limiting independent recomputation. This entry separates 'a sound was recorded' from 'we know what made it'.
 
-## Limits of the record
-
-The core facts of “The Bloop from the Deep” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Bloop from the Deep” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Large whales emit low-frequency calls, some of which can be heard hundreds of kilometers away. Whale songs have complex structures, but at a distance, processed by hydrophones, all that may remain is a low pulse.
@@ -90,4 +83,4 @@ The difference between a Bloop and a whale song is the repetition. While whale s
 
 ---
 
-**Sources and licenses**: for “The Bloop from the Deep”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The icequake explanation for Bloop is supported by research; this article separates the recording, the popular story, and the later identification.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "Lakes at the Bottom of the Sea"
 summary: "In the deep ocean, some places look like another world — there are shorelines, ripples, and a layered surface. It is not a hallucination. It is a brine pool, extremely salty water that is denser than the sea around it and settles into depressions on the seafloor like a lake."
 lang: en
 ---
-
 ## 1. A lake under the sea
 
 A submersible descends to about two thousand metres. Outside, the view is usually flat or gently rolling seafloor.
@@ -62,12 +61,6 @@ The discovery of brine pools changed the way people imagined the seafloor. It is
 
 They occur in the Gulf of Mexico, the Red Sea, the Mediterranean, and elsewhere, in different sizes. Each is a closed chemical world, and what happens beneath the interface can only be seen with submersibles and sensors.
 
-## Limits of the record
-
-The core facts of “Lakes at the Bottom of the Sea” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
-
-“Lakes at the Bottom of the Sea” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 In the 2010s, researchers discovered multiple brine lakes on the Mediterranean seafloor, some hundreds of meters deep and very large. They were formed millions of years ago when the Mediterranean Sea dried up and salt deposits were deposited, which were later dissolved by sea water.
@@ -76,4 +69,4 @@ These brine pools are like time capsules, preserving the chemical information of
 
 ---
 
-**Sources and licenses**: for “Lakes at the Bottom of the Sea”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates confirmed physical and biological features from local studies of particular deeps; “lake” is a description of shape, not a freshwater lake.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

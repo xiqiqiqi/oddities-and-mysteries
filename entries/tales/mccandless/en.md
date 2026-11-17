@@ -3,7 +3,6 @@ title: "The Bus in the Wild"
 summary: "In April 1992 Christopher McCandless walked into the Alaskan wilderness and moved into an abandoned bus. He stayed there for 113 days, living on squirrels, birds, roots and seeds. In August he died inside it. On 6 September hunters found his body in the bus."
 lang: en
 ---
-
 ## 1. Graduation
 
 Christopher McCandless was born in California in 1968.
@@ -80,12 +79,6 @@ Some call him brave, some call him foolish, some call him a young man ruined by 
 
 *Original schematic: five stages from graduation to the discovery of the body, Bus 142 and the debate over the cause of death. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Bus in the Wild” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Bus in the Wild” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Some people come for pilgrimage and some come to take photos. Later, the bus was removed.
@@ -100,4 +93,4 @@ It was parked on a trail, near a river.
 
 ---
 
-**Sources and licenses**: for “The Bus in the Wild”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the known biography, the diary, the official cause of death and the debate over the cause; starvation is the official conclusion, and the ODAP hypothesis is still discussed. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

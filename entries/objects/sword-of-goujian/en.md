@@ -3,7 +3,6 @@ title: "Still Sharp After 2,000 Years"
 summary: "In 1965, a Chu tomb in Jiangling, Hubei, yielded a bronze sword. Eight characters on the blade identify it as the personal sword of King Goujian of Yue. After more than two thousand years underground, the edge was still sharp, the pattern clear, and the guard still set with blue glass."
 lang: en
 ---
-
 ## 1. The tomb of 1965
 
 In 1965, archaeologists excavated a Warring States tomb at Wangshan in Jiangling, Hubei.
@@ -72,12 +71,6 @@ The Sword of Goujian is one of the most popular objects in the Hubei Provincial 
 
 It sits in a climate-controlled case. Under the lights, the dark pattern on the blade shifts in tone. More than two thousand years later, it still looks like a weapon just drawn from its sheath.
 
-## Limits of the record
-
-The core facts of “Still Sharp After 2,000 Years” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
-
-“Still Sharp After 2,000 Years” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 They used bronze, tin and lead to cast them according to the proportions at that time, and then made diamond-shaped dark patterns and surface treatments. The replica can be similar in appearance, but it is difficult to achieve exactly the same metal structure.
@@ -96,4 +89,4 @@ When the archaeological team opened the box, the sword was almost complete. Ther
 
 ---
 
-**Sources and licenses**: for “Still Sharp After 2,000 Years”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation record, the inscription, the reasons for its preservation, and the speculation about how it reached Chu; “never rusted” is an exaggeration, and the blade shows normal bronze corrosion.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

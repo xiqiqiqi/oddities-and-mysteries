@@ -3,7 +3,6 @@ title: "The Crystal Skull Hoax"
 summary: "In a museum case sits a skull carved from a single piece of rock crystal. It has been described as a Maya or Aztec relic, complete with curses, prophecies, and hidden powers. But when researchers put it under a microscope, they found tool marks that only a nineteenth-century European workshop would leave."
 lang: en
 ---
-
 ## 1. The skull in the case
 
 A crystal skull is roughly the size of a human skull, or a little smaller. It is made of clear or translucent quartz, polished smooth, with carved eye sockets, cheekbones, and teeth.
@@ -58,14 +57,6 @@ It is too good to look at: transparent, symmetrical, face-like, and bright under
 
 The museum label says “nineteenth century, Europe.” The exhibition poster still shows the glowing skull.
 
-The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Crystal skull” and S2 is “Wikipedia · Lubaantun”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
-## Limits of the record
-
-“The Crystal Skull Hoax” is strongly evidenced as a fabrication; the entry traces how it was made and spread in made in the 19th century; presented as ancient in the 20th, and why it still finds believers.
-
-“The Crystal Skull Hoax” is currently labelled “hoax”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 They spent hundreds of hours using copper wheels, sand and water to create a skull that may look similar to ancient ones. This shows that ancient craftsmen could theoretically do it, but there is no evidence that they actually did it.
@@ -84,4 +75,4 @@ The Mayans had jade, obsidian, and sand with which to polish stone. However, the
 
 ---
 
-**Sources and licenses**: for “The Crystal Skull Hoax”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the collecting story, the folklore, and the scientific examination; the reported discovery of the Mitchell-Hedges skull is disputed and is not treated here as established fact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

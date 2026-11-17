@@ -3,7 +3,6 @@ title: "The Light in the Woods"
 summary: "Near Paulding in Michigan's Upper Peninsula, an old railroad grade runs through the forest. After dark, people standing at the roadside see a white light in the trees, dimming and drifting. Local legend says it is the lantern of a decapitated railroad worker. In 2010 a group of students traced it to car headlights on a highway several kilometres away."
 lang: en
 ---
-
 ## 1. Paulding
 
 Paulding is a small town in Michigan's Upper Peninsula, surrounded by forest, swamp and a few highways.
@@ -66,12 +65,6 @@ The light usually appears. It comes from a highway several kilometres away, prod
 
 *Original schematic: the viewing point, the old railroad grade and US-45, with the path of the headlights. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Light in the Woods” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
-
-“The Light in the Woods” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 There are signs on the roadside, sighting maps on websites, and people in bars talking about it. Even as the headlight explanation was brought up again and again, the story stayed alive. Because what the story provides is not an answer, but a place to go at night: you can drive there, turn off the engine, and wait for a light.
@@ -79,4 +72,4 @@ Paul Ding's Light is a typical example of the "misidentification" type of archiv
 
 ---
 
-**Sources and licenses**: for “The Light in the Woods”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the location, the legend, the 2010 investigation and the headlight explanation; the Paulding Light can be reproduced with car headlights, but some witnesses do not accept the explanation. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

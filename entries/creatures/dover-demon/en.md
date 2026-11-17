@@ -3,7 +3,6 @@ title: "The Dover Demon"
 summary: "Over two nights in April 1977, three teenagers in Dover, Massachusetts saw the same thing: a watermelon-shaped head, spindly limbs, glowing eyes. Each drew a sketch; plotted on a map, the sightings form a straight line more than two miles long. Police called it probably a school-vacation hoax. No photograph, no footprint — only three drawings."
 lang: en
 ---
-
 ## 1. The stone wall on Farm Street
 
 Night, 21 April 1977. Farm Street, Dover, Massachusetts. Seventeen-year-old Bill Bartlett is driving with two friends.
@@ -80,4 +79,4 @@ No photograph, no specimen, no footprint. The stone wall on Farm Street is still
 
 ---
 
-**Sources and licenses**: for “The Dover Demon”, factual sources are in the ledger S1–S6 below. Text and original schematics are CC BY-SA 4.0. The illustration, locator map and snowy-owl photograph are credited Wikimedia Commons works, licenses in the ledger; the reconstruction is not a photograph of a sighting. The Dover Demon has no photographic or physical evidence; misidentified animals, hoax and cultural influence are all possible explanations, and this article does not choose between them for the reader.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

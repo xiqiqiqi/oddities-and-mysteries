@@ -3,7 +3,6 @@ title: "Antarctica on the Map"
 summary: "In 1513 the Ottoman admiral Piri Reis drew a world map. In 1929 a fragment was found at Topkapı Palace. Some said it showed Antarctica without ice, proof that ancient people had charted the continent. Mainstream cartographers say the landmass is a stretched and rotated South America."
 lang: en
 ---
-
 ## 1. 1513
 
 In 1513 Piri Reis was an Ottoman naval officer and a cartographer.
@@ -62,12 +61,6 @@ Some people still say the southern landmass is Antarctica. It is more likely Sou
 
 *Original schematic: the area covered by the surviving fragment, Hapgood's Antarctica hypothesis and the mainstream rebuttal. Not a photograph of the artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “Antarctica on the Map” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
-
-“Antarctica on the Map” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 It is not often on display because the parchment is sensitive to light. The digitized version can be viewed online.
@@ -88,4 +81,4 @@ The map cannot speak. It simply drew the coastline, leaving on the parchment bot
 
 ---
 
-**Sources and licenses**: for “Antarctica on the Map”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1513 drawing, the map's contents, the 1929 discovery, Hapgood's hypothesis and the mainstream rebuttal; the map is a genuine artefact, and the "ice-free Antarctica" claim is not supported by mainstream cartography. The illustration is a scene reconstruction, not a photograph of the artefact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

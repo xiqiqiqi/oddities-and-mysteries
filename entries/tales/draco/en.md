@@ -3,7 +3,6 @@ title: Suffocated by Cloaks
 summary: In 621 BCE Draco gave Athens its first written law code. The laws were posted on wooden tablets and prescribed death for almost every offence, down to stealing a cabbage. Two centuries later, in a theatre on Aegina, he was said to have been buried under the hats and cloaks thrown at him by an admiring audience, and suffocated. The story comes from an encyclopedia written a thousand years after him. The adjective he left behind is still in use.
 lang: en
 ---
-
 ## 1. 621 BCE
 
 Athens had no written law. The laws were spoken by aristocrats and interpreted by them. When a commoner and a noble quarrelled, the answer usually came from the noble.
@@ -86,4 +85,4 @@ The stone of 409 BCE is still there. It has the homicide law, exile, the right o
 
 ---
 
-**Sources and licenses**: for “Suffocated by Cloaks”, sources are listed in the ledger S1–S5 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the legislation of 621 BCE, the statutes, the re-inscription of 409 BCE, Solon's reform and the death story in the Suda; the death story rests on late testimony and cannot be verified, and Draco's existence is itself disputed. The engraving and the frieze photograph are historical and site images; the schematic is not.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

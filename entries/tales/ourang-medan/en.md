@@ -3,7 +3,6 @@ title: "The Last Signal"
 summary: "In 1947, ships in the Strait of Malacca picked up a Morse code message. It came from a Dutch freighter called the Ourang Medan. The message said the captain and officers were dead, and probably the whole crew. The last words were “I die.” When a rescue ship arrived, the crew were indeed all dead, their faces frozen in fear. Then the ship caught fire."
 lang: en
 ---
-
 ## 1. The signal
 
 June 1947, the Strait of Malacca.
@@ -70,12 +69,6 @@ No one has found its wreck, and no one has found its registration. The story is 
 
 It is a reminder that a story repeated often enough begins to look like fact. But check the register, and it may be nothing more than a name.
 
-## Limits of the record
-
-The core facts of “The Last Signal” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
-
-“The Last Signal” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Some said it was pirates who killed him; some said it was poison gas; some said it was fire. There is no autopsy report.
@@ -102,4 +95,4 @@ They saw the ship drifting, bodies on the deck, and bodies in the cabins. No one
 
 ---
 
-**Sources and licenses**: for “The Last Signal”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the signal story, the rescue narrative, the missing records, and the possible explanations; there is no reliable registration or wreck record for the Ourang Medan, and the truth of the story remains in doubt.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

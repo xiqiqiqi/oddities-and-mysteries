@@ -3,7 +3,6 @@ title: "The War With One Shot"
 summary: "In 1784, the Austrian emperor wanted to open the Scheldt estuary to shipping. The Dutch refused. An Austrian ship sailed into the estuary, and a Dutch warship fired one shot. The shot hit a kettle on board. The “war” never fired a second shot, but it left a name — the Kettle War."
 lang: en
 ---
-
 ## 1. A locked river
 
 The Scheldt runs from northern France through Belgium and reaches the sea in the southwest of the Netherlands.
@@ -66,12 +65,6 @@ The episode reappeared in cartoons, prints, and popular histories. The kettle be
 
 It does not belong in the great-battles chapter of military history. It belongs in a footnote about how diplomacy avoids wars. Both sides got an acceptable result. The price was a kettle.
 
-## Limits of the record
-
-The core facts of “The War With One Shot” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
-
-“The War With One Shot” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Boundaries were drawn and conflicts ended. The kettle became a symbol: a war without bloodshed.
@@ -109,4 +102,4 @@ A kettle in exchange for a boundary. History is so light sometimes.
 
 ---
 
-**Sources and licenses**: for “The War With One Shot”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the documented diplomatic and military course from the widely repeated kettle detail; the exact manner in which the kettle was hit comes from later accounts.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

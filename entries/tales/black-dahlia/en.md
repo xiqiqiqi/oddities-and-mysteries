@@ -3,7 +3,6 @@ title: "The Black Dahlia"
 summary: "On 15 January 1947, a woman's body was found in a vacant lot on South Norton Avenue in Los Angeles. She was Elizabeth Short, twenty-two years old. The newspapers called her the Black Dahlia. The LAPD investigated hundreds of suspects, and no one was ever convicted."
 lang: en
 ---
-
 ## 1. January 1947
 
 Elizabeth Short was born in Medford, Massachusetts, in 1924, one of five children.
@@ -66,12 +65,6 @@ Elizabeth Short was twenty-two when she died. She wanted to be an actress. What 
 
 *Original schematic: the timeline of January 1947, the newspaper coverage and the main suspects. Not a photograph of the scene. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Black Dahlia” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
-
-“The Black Dahlia” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Short's life was reduced to a morality tale by newspapers. Her death was written as a performance. The case was not solved, but the name remained.
@@ -96,4 +89,4 @@ She was last seen in a Hollywood hotel before her death.
 
 ---
 
-**Sources and licenses**: for “The Black Dahlia”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the confirmed timeline, the newspaper coverage and the various suspect theories; the case remains unsolved, and no accusation has been confirmed in court. The illustration is a scene reconstruction, not a photograph of the scene.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: The Wall That Fits Too Well
 summary: On a hillside above Cusco, Peru, the Inca raised three zigzag walls from enormous polygonal stones. There is no mortar between them, yet the blocks fit so tightly that people say a knife blade cannot be inserted. Six hundred years later the walls remain, but how they were built is still debated.
 lang: en
 ---
-
 ## 1. Above Cusco
 
 Cusco was the old capital of the Inca Empire, more than three thousand metres above sea level and surrounded by mountains.
@@ -75,4 +74,4 @@ The site also shows how archaeology and tourism can pull in different directions
 The stones have outlasted every explanation offered for them. So far, yes.
 ---
 
-**Sources and licenses**: for “The Wall That Fits Too Well”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the physical site, Inca stoneworking, and hypotheses about transport; “a knife blade cannot fit” is a popular saying, not a precise measurement.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

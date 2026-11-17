@@ -31,11 +31,11 @@ sources:
     license: "© Ohio State University; citation only"
     usage: "大耳朵望远镜、巡天记录与 Wow 信号档案"
   - id: S2
-    title: "The Wow Signal"
-    publisher: "North American Astrophysical Observatory (NAAPO)"
-    url: "https://www.naapo.org/"
+    title: "Big Ear Radio Observatory · FAQ"
+    publisher: "Big Ear Memorial Website (NAAPO)"
+    url: "https://www.bigear.org/faq.htm"
     year: "2026"
-    license: "© NAAPO; citation only"
+    license: "© Big Ear Memorial Website / NAAPO; citation only"
     usage: "信号记录、设备背景与后续搜索资料"
   - id: S3
     title: "场景复原插图与原创示意图"

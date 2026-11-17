@@ -3,7 +3,6 @@ title: "Petra: A Caravan Capital in the Canyon"
 summary: "Petra was not a secret city hidden in a gorge but a capital that used the gorge itself as infrastructure. The Siq controls movement, while channels and pipes cut into the rock divert flash floods into cisterns; the façade of al-Khazneh is only the most famous face of that system."
 lang: en
 ---
-
 ## 1. Through the Siq
 
 Entering Petra usually means walking through a narrow gorge called the Siq. Its walls rise tens of metres, the floor is only a few metres wide, and sunlight reaches the bottom only briefly around noon. At the end, the façade of al-Khazneh appears suddenly on the rock wall. The entrance is not decoration but part of the city's defence and water system: the narrow passage controls movement, while channels and terracotta pipes on the walls direct flash floods into cisterns. Petra was not a 'secret city hidden in a valley' but a capital that used the gorge itself as infrastructure.
@@ -36,7 +35,7 @@ A major earthquake in 363 CE damaged much of Petra, and the city declined therea
 
 Petra was inscribed as a World Heritage Site in 1985. Today it faces rock weathering, salt erosion, flash floods, earthquake risk, and heavy visitation. Paths, steps, and tomb chambers are repeatedly trampled, and some areas have had to restrict access. Relations between local communities and site managers are also complex: tourism income, relocation, grazing rights, and heritage protection often conflict. Conservation is not a matter of sealing the site off but of finding a sustainable balance between rock stability, flood management, and local livelihoods.
 
-The cover is an AI-assisted reconstruction of “Petra: A Caravan Capital in the Canyon”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
+The cover is an AI-assisted reconstruction of “Petra: A Caravan Capital in the Canyon”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded in the source ledger below.
 
 ## Archive location
 
@@ -48,4 +47,4 @@ Many buildings at Petra carry no inscriptions, so their dates must be inferred f
 
 ---
 
-**Sources and licenses**: for “Petra: A Caravan Capital in the Canyon”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

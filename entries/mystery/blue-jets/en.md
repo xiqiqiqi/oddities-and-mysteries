@@ -3,7 +3,6 @@ title: "Blue Lightning Above the Clouds"
 summary: "In 1994, researchers working from high-altitude aircraft and the space shuttle clearly recorded a blue cone of light shooting upward from the top of a thundercloud. It lasted only a few hundred milliseconds, yet reached more than forty kilometres up. It did not strike the ground. It went toward space."
 lang: en
 ---
-
 ## 1. The 1994 records
 
 In the 1990s, researchers began pointing low-light cameras at the tops of thunderclouds. They already knew that something was happening there that ordinary lightning could not explain.
@@ -66,12 +65,6 @@ They do not change the weather, they do not reach the ground, and they do not hi
 
 Blue-jet observations sit between aviation reports, satellite instruments, and atmospheric physics; the same event can appear as a pilot's description, a camera frame, and a model, and none of these is complete on its own.
 
-## Limits of the record
-
-The core facts of “Blue Lightning Above the Clouds” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
-
-“Blue Lightning Above the Clouds” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Ordinary planes cannot fly there, satellite transit time is limited, and ground cameras will be blocked by clouds and rain. Capturing it requires a low-light camera, a telephoto lens, precise timing and a bit of luck.
@@ -80,4 +73,4 @@ That's why there are so few photos of it. It’s not that it doesn’t exist, bu
 
 ---
 
-**Sources and licenses**: for “Blue Lightning Above the Clouds”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates confirmed observational features from the formation mechanism that is still being studied.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

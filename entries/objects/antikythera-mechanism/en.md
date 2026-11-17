@@ -3,7 +3,6 @@ title: "The Antikythera Mechanism: A Clockwork Cosmos from a Shipwreck"
 summary: "Recovered in 1901 from a shipwreck near Antikythera, a corroded assembly of bronze gears and dials modelled the movements of the sun, moon, and planets. It dates to around the second century BCE. No surviving text says who built this clockwork cosmos, or why."
 lang: en
 ---
-
 ## 1. A wreck, a crate, a geared object
 
 In 1900 Greek sponge divers found an ancient shipwreck near the island of Antikythera; in 1901 the recovered cargo included bronze and marble statues, glassware, coins, and an unremarkable wooden crate. Inside were severely corroded bronze gears and dials, later named the Antikythera Mechanism. The wreck itself sank around the first century BCE, and its cargo came from the eastern Mediterranean; there is no direct evidence for the device's place of origin, though it is usually linked to craft traditions of Rhodes, Corinth, or Syracuse.
@@ -36,7 +35,7 @@ In 1902 the archaeologist Valerios Stais noticed the gears; in 1959 the historia
 
 The mechanism is held in the National Archaeological Museum in Athens; the original is rarely displayed for long because of corrosion and fragility. Research teams have built interactive replicas and digital models to explain how the gears turn; these are interpretive tools, not the original. Open questions include whether it was unique or part of a series, the original appearance of the frame and pointers, how far the planetary display went, and why it sank with a cargo of statues. Later surveys of the wreck found more cargo and hull structure, but the device's 'birthplace' remains blank.
 
-The cover is an AI-assisted reconstruction of “The Antikythera Mechanism: A Clockwork Cosmos from a Shipwreck”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
+The cover is an AI-assisted reconstruction of “The Antikythera Mechanism: A Clockwork Cosmos from a Shipwreck”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded in the source ledger below.
 
 ## Archive location
 
@@ -48,4 +47,4 @@ The Antikythera Mechanism left no direct text naming its maker, place of use, or
 
 ---
 
-**Sources and licenses**: for “The Antikythera Mechanism: A Clockwork Cosmos from a Shipwreck”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

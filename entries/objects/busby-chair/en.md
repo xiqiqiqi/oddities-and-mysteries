@@ -3,7 +3,6 @@ title: The Chair That Hangs
 summary: In 1702 Thomas Busby was hanged for murdering his father-in-law, and his tarred body was put in an iron cage at a crossroads. Legend says he cursed the oak chair his victim had sat in. In 1978 the chair went to Thirsk Museum, which hung it out of reach. A furniture historian later dated it to after 1840 — nearly a century and a half too late for the curse.
 lang: en
 ---
-
 ## 1. The Chair on the Ceiling
 
 Thirsk Museum occupies a narrow two-storey building on Kirkgate. In one of its rooms an oak chair hangs in mid-air, four legs pointing down, higher than a person's head. A rope keeps visitors back. The label hangs on the wall beside it.
@@ -86,4 +85,4 @@ A man was hanged at a crossroads; that is true. A post stood there and later rot
 
 ---
 
-**Sources and licenses**: for “The Chair That Hangs”, sources are listed in the ledger S1–S7 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the 1702 murder and execution, the nineteenth-century shaping of the legend, the twentieth-century death stories and the museum's handling of the chair after 1978; the murder and execution are documented, the curse is not. The reconstruction is not a photograph of the artefact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

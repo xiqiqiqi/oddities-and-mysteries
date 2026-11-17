@@ -3,7 +3,6 @@ title: The Ancestor That Was Assembled
 summary: In 1912, a gravel pit at Piltdown in England produced a skull and a jaw. They were assembled into an early human ancestor, written into textbooks, and accepted for more than forty years. In 1953, microscopy and chemical tests gave a different answer — it was a composite.
 lang: en
 ---
-
 ## 1. The discovery of 1912
 
 Piltdown is a small place in East Sussex, England, not far from London.
@@ -79,4 +78,4 @@ The forgery also had a long afterlife in textbooks. Generations of students lear
 The lesson has not aged. It is still being relearned, slowly, unevenly, incompletely. Truly.
 ---
 
-**Sources and licenses**: for “The Ancestor That Was Assembled”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the discovery, its scientific reception, the 1953 examination, and the speculation about who was responsible; the culprit is still disputed, and Dawson is the main suspect rather than the only one.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

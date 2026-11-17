@@ -3,7 +3,6 @@ title: "Kuchisake-onna: One Question, Two Answers"
 summary: "In the summer of 1979 Japanese newspapers and weeklies wrote a masked woman into the news: she asks \"Am I pretty?\" Answer no and you die; answer yes and she removes the mask, revealing a mouth slit ear to ear, and asks again. Schoolchildren were escorted home in groups by parent-teacher associations. Her \"origin\" is claimed both from an Edo picture-book and from Gifu in 1978; yokai authors file her as a yokai, folklorists as an urban legend. The question is more stable than any answer."
 lang: en
 ---
-
 ## 1. The summer of 1979
 
 The modern Kuchisake-onna story originates in 1978, most acceptedly from Gifu Prefecture; but what made it a national phenomenon was the summer of 1979: the Gifu Nichi Nichi Shinbun on 26 January, Shukan Asahi on 23 March, and Shukan Shincho on 5 April reported it in turn, and the rumour spread across the country.
@@ -64,4 +63,4 @@ Comparing it to other legends sharpens the point: Bloody Mary's curse forces a n
 
 ---
 
-**Sources and licenses**: for “Kuchisake-onna: One Question, Two Answers”, factual sources are in the ledger S1–S4 below. Text and original schematics are CC BY-SA 4.0. The picture-book image is a credited Wikimedia Commons scan (CC BY-SA 4.0), source in the ledger; its identification as Kuchisake-onna is disputed and noted here. Kuchisake-onna is an urban-legend / folklore figure, not a verified being; the two origin datings are presented in parallel.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

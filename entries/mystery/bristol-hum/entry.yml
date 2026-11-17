@@ -26,13 +26,14 @@ sources:
     license: CC BY-SA 4.0
     usage: 目击报告、调查经过、类似现象
   - id: S2
-    title: "BBC · Bristol Hum coverage"
-    publisher: BBC
-    url: https://www.bbc.co.uk/
+    title: "How the Hum Works"
+    publisher: HowStuffWorks
+    url: https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/the-hum.htm
     year: "2026"
-    license: BBC 网站使用条款
+    license: HowStuffWorks 网站使用条款
     license_en: "Website terms of use"
-    usage: 当地报道与背景核对；具体文章待补
+    usage: 布里斯托嗡鸣的报道、研究者与类似现象
+    usage_en: "Reporting, researchers and comparable hum cases"
   - id: S3
     title: 场景复原插图与原创示意图
     title_en: "Scene reconstruction and original diagram"

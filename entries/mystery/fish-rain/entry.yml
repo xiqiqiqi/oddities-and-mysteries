@@ -26,13 +26,14 @@ sources:
     license: CC BY-SA 4.0
     usage: 历史记录、约罗鱼雨、机制
   - id: S2
-    title: "BBC · Fish rain coverage"
-    publisher: BBC
-    url: https://www.bbc.co.uk/
+    title: "Why fish fall from the sky"
+    publisher: BBC Wildlife Magazine
+    url: https://www.discoverwildlife.com/animal-facts/fish/fish-rain
     year: "2026"
     license: BBC 网站使用条款
     license_en: "Website terms of use"
-    usage: 新闻背景；具体文章待补
+    usage: 鱼雨案例、水龙卷与鸟类解释
+    usage_en: "Fish-rain cases, waterspouts and bird explanations"
   - id: S3
     title: 场景复原插图与原创示意图
     title_en: "Scene reconstruction and original diagram"

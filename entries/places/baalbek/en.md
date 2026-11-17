@@ -3,7 +3,6 @@ title: The Stones Under the Temple
 summary: An 1836 travel book advises sleeping before visiting Baalbek. Its author counted nine standing columns and put the quarry block at 1,135 tons. Within a decade the first cameras arrived; the photographs that followed record the stones staying put while the columns fell, and a quarry that never emptied.
 lang: en
 ---
-
 ## 1. Sleep first
 
 One September afternoon in the 1830s, a party of Americans pitched their tents beside a spring southwest of Baalbek. The spring is Rās al-ʿAyn; the locals called it Rosalyn. It was some fifty feet across, and its water split into two branches beside the camp. They had just crossed the Anti-Lebanon range, a day of dry ridges "deserted by the very insects."
@@ -136,4 +135,4 @@ In 1906 John Singer Sargent painted the ruins in watercolour, honey and pale vio
 
 ---
 
-**Sources and licenses**: for “The Stones Under the Temple”, factual sources are in the ledger S1–S18 below. Text and original graphics are CC BY-SA 4.0. Met images are CC0 / public domain; Commons images are credited per item in the ledger; the 1900 card is held by SMU with no known copyright restrictions. The reconstruction is not a historical photograph. All weights are estimates; the transport method is unsettled; alien and giant claims have no archaeological evidence. Jones quotations are from his 1836 book (public domain).
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

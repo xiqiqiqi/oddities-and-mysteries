@@ -3,7 +3,6 @@ title: "Washington on Radar"
 summary: "On two weekends in July 1952, radar at Washington National Airport picked up a group of slow-moving targets. Jets took off and the targets vanished; the jets left and they came back. The newspapers called the chase the “Washington Merry-Go-Round.”"
 lang: en
 ---
-
 ## 1. That summer
 
 Washington, July 1952. The Cold War was on, and the papers carried flying-saucer stories almost every day.
@@ -49,15 +48,8 @@ In January 1953 the CIA convened a panel chaired by the physicist Howard Roberts
 The report was later declassified. It did not say every sighting was false, but it changed how the government handled such cases: less explanation, less publicity, and an effort to let the subject cool down.
 
 ## 7. What remains
+
 The Washington case left no physical object. What survives is a paper trail: radar scope logs, radio transcripts, weather records, and the pilots' written statements. The files are held in U.S. military and civil-aviation archives, and not all of them are digitised. That is the material this entry can check; the rest of the story is later retelling.
-
-The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · 1952 Washington, D.C. UFO incident” and S2 is “Wikipedia · Robertson Panel”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
-## Limits of the record
-
-The core facts of “Washington on Radar” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
-
-“Washington on Radar” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
 
 ## Archival note
 
@@ -73,4 +65,4 @@ A light spot may be an airplane, a truck, a temperature inversion layer, or a no
 
 ---
 
-**Sources and licenses**: for “Washington on Radar”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the radar records, the pilots' sightings, and the later official explanation in separate layers rather than treating any one of them as the whole answer.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

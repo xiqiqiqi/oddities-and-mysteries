@@ -3,7 +3,6 @@ title: "The Nine Cities of Troy"
 summary: "At Hisarlik in northwestern Turkey there is a mound. It looks like an ordinary hill, but inside it are nine cities. From about 3000 BCE to the Roman period, people built, destroyed, and rebuilt on the same spot. In 1873, Heinrich Schliemann found a hoard of gold there and announced that he had found Homer's Troy."
 lang: en
 ---
-
 ## 1. A mound
 
 Hisarlik is in Çanakkale Province, Turkey, near the Dardanelles.
@@ -64,12 +63,6 @@ Nine cities are stacked on top of one another: a Roman theatre at the top, a sma
 
 Troy's archive is a layered excavation archive, from Schliemann's trenches to modern stratigraphic work; the Homeric story and the mound are two different records, and the entry does not fuse them.
 
-## Limits of the record
-
-The core facts of “The Nine Cities of Troy” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Nine Cities of Troy” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 It is a mound, dozens of meters high, with a nine-story city underneath. Each level belongs to a different era, from the Early Bronze Age to the Roman era. The earliest settlement was around 3000 BC.
@@ -88,4 +81,4 @@ Whether the "Trojan War" actually happened or not is uncertain. The ruins are da
 
 ---
 
-**Sources and licenses**: for “The Nine Cities of Troy”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the layers, Schliemann's excavation, Homer's epics, and the treasure's later history; whether Troy VIIa is Homer's Troy remains a scholarly debate, and there is no archaeological evidence for the wooden horse.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

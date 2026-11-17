@@ -3,7 +3,6 @@ title: The Ship with No Crew
 summary: In December 1872, an American sailing ship was found in the Atlantic with her sails set, her cargo intact, and no one aboard. The lifeboat was gone. A century and a half later, no one knows where the crew went.
 lang: en
 ---
-
 ## 1. A ship on the water
 
 December 5, 1872. The Atlantic, west of the Azores.
@@ -92,4 +91,4 @@ Comparing the records, researchers find the name, tonnage and route broadly cons
 
 ---
 
-**Sources and licenses**: for “The Ship with No Crew”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the Gibraltar inquiry, the crew list, the cargo manifest, and the later novel and newspaper retellings; it does not treat Conan Doyle’s fiction as history.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

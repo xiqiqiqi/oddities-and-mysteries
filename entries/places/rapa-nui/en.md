@@ -3,7 +3,6 @@ title: "Rapa Nui: Stone Ancestors and an Island's Ledger"
 summary: "Easter Island lies some 3,500 kilometres from mainland Chile. Nearly a thousand moai have been recorded there, and they are not uniform 'heads': some are only heads, some include bodies, some wear red pukao topknots, distributed between the quarry, ahu platforms, and slopes."
 lang: en
 ---
-
 ## 1. An island of stone figures
 
 Easter Island lies in the south-eastern Pacific, about 163 square kilometres in area and some 3,500 kilometres from mainland Chile, making it one of the most remote inhabited islands on Earth. Nearly a thousand moai have been recorded, most carved from volcanic tuff and concentrated around the Rano Raraku quarry; some were erected on stone platforms called ahu, while others remain half-buried on the slope. The figures are not uniform 'heads': some show only a face, some include a body, and some wear a red pukao topknot.
@@ -36,7 +35,7 @@ In 1722 the Dutch navigator Roggeveen's ships reached the island, and Europeans 
 
 Rapa Nui was inscribed as a World Heritage Site in 1995, with the national park covering much of the island. Today it faces tourism pressure, invasive species, coastal erosion, and limited water; site protection is intertwined with the Rapa Nui community's claims to land, employment, and self-government. Since 2018, islanders and Chilean authorities have repeatedly asked the British Museum to return Hoa Hakananai'a, a debate that touches colonial acquisition, legal title, and the idea of a 'universal museum'. Whether the figure belongs to all humanity and whether islanders can see their ancestor on their own land are questions that need answering together.
 
-The cover is an AI-assisted reconstruction of “Rapa Nui: Stone Ancestors and an Island's Ledger”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
+The cover is an AI-assisted reconstruction of “Rapa Nui: Stone Ancestors and an Island's Ledger”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded in the source ledger below.
 
 ## Archive location
 
@@ -48,4 +47,4 @@ The chronology, population size, and ecological history of Rapa Nui remain debat
 
 ---
 
-**Sources and licenses**: for “Rapa Nui: Stone Ancestors and an Island's Ledger”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

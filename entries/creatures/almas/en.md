@@ -3,7 +3,6 @@ title: "The Wild Man of the Snow Line"
 summary: "In the mountains and steppes of Central Asia, people tell of a wild man called the Almas. Herders say it is covered in hair, walks upright, comes out at night, and avoids people. Soviet researchers went looking for it several times. What they found were footprints, rumours, and stories."
 lang: en
 ---
-
 ## 1. A legend in the mountains
 
 The Almas story is widely distributed.
@@ -62,17 +61,9 @@ There is no clear photograph, no verified specimen, and no skeleton accepted by 
 
 The mountains are still there. So are the stories. What lies below the snow line has no answer yet.
 
-The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Almas (cryptozoology)” and S2 is “Wikipedia · Boris Porshnev”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 The Almas material consists mainly of nineteenth- and twentieth-century Central Asian travel accounts, local ethnography, and Soviet-era survey reports. Witnesses were mostly herders and hunters; their descriptions focus on height, hair, foot shape, and avoidance of people. There are no clear photographs, bones, or independently examinable physical remains. Soviet scholars once linked the Almas to a surviving Neanderthal population, but the hypothesis lacks genetic evidence. This entry separates 'a wild man in oral tradition' from 'an unidentified species'.
-
-## Limits of the record
-
-“The Wild Man of the Snow Line” comes mainly from legend, oral tradition, or urban narrative in Central Asia, including Kazakhstan and Mongolia; the entry records how it is told without treating the story itself as established fact.
-
-“The Wild Man of the Snow Line” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
 
 ## Archival note
 
@@ -82,4 +73,4 @@ This dispersion is the crux of the Almas puzzle: sightings span from the Caucasu
 
 ---
 
-**Sources and licenses**: for “The Wild Man of the Snow Line”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the oral descriptions, the documented expeditions, and the explanations; no specimen exists.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

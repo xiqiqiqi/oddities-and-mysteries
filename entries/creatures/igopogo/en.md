@@ -3,7 +3,6 @@ title: The Hump on the Lake
 summary: Lake Simcoe, north of Toronto, has had sea-serpent newspaper reports since the 1860s. In July 1963 a family at Jackson's Point saw something in the water, and the local paper ran the headline "Igopogo Looms its Ugly Head". It is also called Kempenfelt Kelly and Beaverton Bessie. Some say it is a long-necked lake monster; others say it is a large sturgeon.
 lang: en
 ---
-
 ## 1. The Lake
 
 Lake Simcoe lies north of Toronto, in southern Ontario, and covers about 722 square kilometres.
@@ -88,4 +87,4 @@ That does not stop Igopogo from existing. It is no longer an animal waiting to b
 The lake keeps its own record, written in ripples rather than ink, and nobody has learned to read it.
 ---
 
-**Sources and licenses**: for “The Hump on the Lake”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the newspaper record, the witnesses' descriptions and explanations such as the sturgeon; no specimen or clear photograph confirms the creature. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

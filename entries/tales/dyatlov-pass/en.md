@@ -3,7 +3,6 @@ title: "The Tent Cut From Inside"
 summary: "In February 1959, nine experienced ski hikers disappeared in the Ural Mountains. When searchers found their tent, it had been cut open from the inside. Shoes, food, and coats were still there. The people had walked into a night of twenty or thirty degrees below zero, some of them barefoot."
 lang: en
 ---
-
 ## 1. February 1959
 
 At the end of January 1959, a group of nine set out from a village in the northern Ural Mountains.
@@ -58,14 +57,6 @@ Dyatlov Pass is now a marked route, and hikers still pass through every year. A 
 
 The case is discussed not only because of the deaths but because the scene left such an improbable combination: a tent cut from inside, barefoot people, bodies without coats, severe internal injuries, and a night with no witnesses.
 
-The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Dyatlov Pass incident” and S2 is “Wikipedia · Kholat Syakhl”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
-## Limits of the record
-
-The core facts of “The Tent Cut From Inside” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
-
-“The Tent Cut From Inside” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Some people froze to death and some were injured. One player had a cracked skull, one had broken ribs, and one had a missing tongue.
@@ -88,4 +79,4 @@ The team members' clothing, shoes and food are left in the tent.
 
 ---
 
-**Sources and licenses**: for “The Tent Cut From Inside”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the recorded scene, the forensic findings, and the various explanations; details such as the missing tongue are conditions of the remains, not direct evidence of homicide.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

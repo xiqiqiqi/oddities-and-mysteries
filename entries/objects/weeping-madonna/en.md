@@ -3,7 +3,6 @@ title: The Madonna Who Wept
 summary: In August 1953 a small plaster relief of the Virgin Mary began to weep in a house in Syracuse, Sicily. The tears ran for four days. A commission took samples, and the samples proved to be human tears; after the sample was taken, the image stopped. Forty-two years later a 43 cm statue in Civitavecchia began to bleed. A bishop saw it, the blood was male, and the owner refused a DNA test. What the Church approved in Syracuse was devotion, not the origin of the tears.
 lang: en
 ---
-
 ## 1. The Room on Via Orti di San Giorgio
 
 At the end of August 1953, in Syracuse, Sicily, a young couple lived at Via degli Orti di San Giorgio 11. Angelo Iannuso and his wife Antonina Lucia Giusto were expecting their first child, and the pregnancy had not gone smoothly. On the wall beside the bed hung a small plaster relief of the Virgin of the Immaculate Heart. There may have been candles beneath it.
@@ -74,4 +73,4 @@ The tears collected over four days were analysed and found to be human. Where th
 
 ---
 
-**Sources and licenses**: for “The Madonna Who Wept”, sources are listed in the ledger S1–S7 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the Syracuse case, the Civitavecchia dispute, the Church's procedure and the exposed hoaxes; the Syracuse tears have a laboratory record but no settled origin, and most other cases were rejected. The photographs are of the sanctuary and the image on display; the schematic is not a historical photograph.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

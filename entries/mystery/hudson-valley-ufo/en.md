@@ -3,7 +3,6 @@ title: The V in the Sky
 summary: "Between March 1983 and the summer of 1984, hundreds of people in the Hudson Valley reported a V-shaped object the size of a football field, flying low and silent along the roads, outlined in white, red and green lights. State police traced the lights to Stormville Airport: five or six Cessna 152s flying in night formation. The pilots found the whole thing funny."
 lang: en
 ---
-
 ## 1. March 1983
 
 Westchester County, New York, March 1983. On a road at night, a driver stopped the car and looked up.
@@ -82,4 +81,4 @@ The pilot who said he was getting a big kick out of it probably never imagined t
 
 ---
 
-**Sources and licenses**: for “The V in the Sky”, sources are listed in the ledger S1–S5 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the witnesses' descriptions, the power-plant guards' account and the police and FAA investigation; the case has a clear aircraft explanation, though some witnesses rejected it. The airport and aircraft photographs are site photographs; the schematic is not.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

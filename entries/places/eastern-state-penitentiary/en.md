@@ -3,7 +3,6 @@ title: "The Prison of One Man"
 summary: "In 1829 a castle-like prison opened north of Philadelphia. Each inmate lived alone, in silence, with a Bible. Its warders believed solitude would produce repentance. Dickens visited and called it worse than physical torture. Closed in 1971, it is now a ruin overgrown with weeds."
 lang: en
 ---
-
 ## 1. A Castle
 
 October 1829, north of Philadelphia. A grey stone building opened under the name Eastern State Penitentiary.
@@ -70,12 +69,6 @@ A building can do nothing but stand there and still make people uneasy. Eastern 
 
 *Original schematic: the radial cellblock plan, the separate system and the 1829–1971 timeline. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Prison of One Man” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Prison of One Man” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Long-term solitary confinement, they say, is not repentance but torture. People lose language, memory and social skills. Prison should re-enter society, not turn people into shadows.
@@ -98,4 +91,4 @@ The roof leaked, the walls peeled off, and the iron doors rusted. The beauty of 
 
 ---
 
-**Sources and licenses**: for “The Prison of One Man”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architecture and the system, the famous inmates, the closure and museum period, and the ghost stories; the solitary confinement and prison history are documented, while the ghost stories have no verifiable evidence. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

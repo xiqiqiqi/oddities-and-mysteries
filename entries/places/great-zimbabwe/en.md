@@ -3,7 +3,6 @@ title: "The City of Stone"
 summary: "In southern Zimbabwe stands a city of stone. Its walls are built of granite blocks without mortar, and the highest rise more than ten metres. It was built between the eleventh and fifteenth centuries as the capital of the Shona, and it is one of the largest ancient stone structures in sub-Saharan Africa. In the colonial era, Europeans refused to believe Africans had built it and invented foreign founders."
 lang: en
 ---
-
 ## 1. The city of stone
 
 Great Zimbabwe lies near Masvingo in southern Zimbabwe.
@@ -66,12 +65,6 @@ The Great Zimbabwe record spans archaeology, architectural history, and colonial
 
 Great Zimbabwe's archive is split between the stone evidence and the paper trail of who was allowed to interpret it; the entry follows the stone first and the colonial argument second.
 
-## Limits of the record
-
-The core facts of “The City of Stone” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The City of Stone” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 It tells the history, trade and architecture of the Shona people. The museum has pottery, goldware and tools.
@@ -88,4 +81,4 @@ Stone City is still there, and so are the stories.
 
 ---
 
-**Sources and licenses**: for “The City of Stone”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the architecture, the builders, the trade, the colonial interpretation, and the decline; the function of some walls and buildings is still debated.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

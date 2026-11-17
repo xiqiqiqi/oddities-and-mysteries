@@ -3,7 +3,6 @@ title: "The Triangle's Ledger"
 summary: "On 16 October 1972 a Cessna 310 flew from Anchorage to Juneau with House Majority Leader Hale Boggs and Congressman Nick Begich aboard. It never arrived. Later stories said the Alaska Triangle had swallowed twenty thousand people. The real number is 1,334 unsolved missing-person cases in Alaska since 1948. The triangle is drawn by people. The disappearances are real."
 lang: en
 ---
-
 ## 1. 16 October 1972
 
 Anchorage, 9.09 a.m. A twin-engine Cessna 310 took off for Juneau.
@@ -66,12 +65,6 @@ But the real ledger has 1,334 names. They did not disappear inside a triangle. T
 
 *Original schematic: the triangle, the 1972 Cessna 310 route and the missing-person statistics. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Triangle's Ledger” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
-
-“The Triangle's Ledger” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The reasons are environment, transportation and population distribution, not "supernatural". People in remote areas are more likely to get lost, injured or killed in the wild.
@@ -110,4 +103,4 @@ It is a story of wilderness, transportation and risk.
 
 ---
 
-**Sources and licenses**: for “The Triangle's Ledger”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the 1972 case, the triangle legend, the official statistics and the ordinary explanations; the claim of twenty thousand disappearances is not supported by the data. The illustration is a scene reconstruction, not a photograph of a site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

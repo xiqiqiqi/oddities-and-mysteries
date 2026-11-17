@@ -3,7 +3,6 @@ title: "The War That Wounded One Man"
 summary: "In 1835, Ohio and the Michigan Territory nearly went to war over a strip of swamp around Toledo. Both sides called out militia and shots were fired, but almost nobody was hurt. The only blood came from a deputy sheriff stabbed in the thigh with a penknife. In the end, Congress gave Toledo to Ohio and the Upper Peninsula to Michigan."
 lang: en
 ---
-
 ## 1. A line drawn from bad maps
 
 In 1787, the U.S. Congress passed the Northwest Ordinance, which set out how new states would be carved from the land between the Great Lakes. The boundary, it said, would run from the southern tip of Lake Michigan east to Lake Erie.
@@ -60,12 +59,6 @@ It runs through fields, woods, and roads, with no fence and no guard post. Drive
 
 The name “Toledo War” came later. Toledo was not incorporated until 1837, and the conflict was closer to a border dispute that dragged on for a year. But the name stuck, along with the deputy sheriff who was stabbed with a penknife.
 
-## Limits of the record
-
-The core facts of “The War That Wounded One Man” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
-
-“The War That Wounded One Man” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The Upper Peninsula has copper, iron, forests and lakeshores. Michigan accepted the compensation.
@@ -96,4 +89,4 @@ Michigan gets the Upper Peninsula and Ohio gets the Toledo Strip.
 
 ---
 
-**Sources and licenses**: for “The War That Wounded One Man”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the boundary dispute, the militia standoff, the stabbing, and the congressional compromise; “war” is the conventional name, and no deaths were recorded.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

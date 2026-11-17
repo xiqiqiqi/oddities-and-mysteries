@@ -3,7 +3,6 @@ title: "Inside the Earth"
 summary: "In 1692 Halley proposed that the Earth was made of concentric shells. In 1818 Symmes asked the government to send a ship to the North Pole to find the entrance. In the nineteenth century Teed argued that we live on the inside of the sphere. Seismic waves, gravity and satellites say otherwise. The idea never quite disappeared."
 lang: en
 ---
-
 ## 1. Halley
 
 In 1692 the English astronomer Edmond Halley presented a paper to the Royal Society.
@@ -68,12 +67,6 @@ Halley, Symmes and Teed were not frauds. They drew wrong conclusions from the ev
 
 *Original schematic: Halley's concentric shells, Symmes's polar openings, Teed's concave Earth and the seismic evidence. Not a photograph of a site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-“Inside the Earth” comes mainly from legend, oral tradition, or urban narrative in Worldwide; the entry records how it is told without treating the story itself as established fact.
-
-“Inside the Earth” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Seismic waves, gravity, and magnetic fields give a consistent picture of a solid earth. If the planet were hollow, seismic waves would change speed at the shell boundary, gravity would differ from the measured field, and satellite orbits would not match the observed mass distribution.
@@ -82,4 +75,4 @@ That is why the hollow-earth idea survives as literature and conspiracy lore rat
 
 ---
 
-**Sources and licenses**: for “Inside the Earth”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the historical hypotheses of Halley, Symmes and Teed, the Byrd legend and the scientific evidence; the hollow Earth has been ruled out by seismology, gravity and satellite observation. The illustration is a scene reconstruction, not a photograph of a site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

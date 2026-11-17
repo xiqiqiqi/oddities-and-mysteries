@@ -3,7 +3,6 @@ title: It's Not an Aircraft
 summary: On 21 October 1978, a twenty-year-old Australian pilot, Frederick Valentich, reported an aircraft following him over Bass Strait. He said “It's not an aircraft”, then came a metallic scraping sound, and the radio went silent. Neither he nor his plane has ever been found.
 lang: en
 ---
-
 ## 1. A night flight
 
 On Saturday, 21 October 1978, a Cessna 182L took off from Moorabbin Airport near Melbourne. Its registration was VH-DSJ. The pilot was Frederick Valentich, twenty years old. His filed route crossed Bass Strait to King Island: 125 nautical miles, about an hour.
@@ -82,4 +81,4 @@ The search found some oil traces at sea, but no airframe, no seats, no luggage, 
 
 ---
 
-**Sources and licenses**: for “It's Not an Aircraft”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY‑SA 4.0. This article separates the tower recording, the official investigation, aviation-history research, and popular speculation; it does not present any one explanation as proven.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

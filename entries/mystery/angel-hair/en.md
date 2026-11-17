@@ -3,7 +3,6 @@ title: "The White Threads That Fell from the Sky"
 summary: "In October 1954, reports from Florence, Italy, described an object in the sky and, soon afterward, white threads falling to the ground. The threads were light, like cobweb on the hand, and within a short time they dried, broke, and disappeared. Some called it “angel hair.” Others said it was simply spider silk."
 lang: en
 ---
-
 ## 1. Florence, 1954
 
 27 October 1954, Florence.
@@ -64,14 +63,6 @@ The Florence case of 1954 remains in the fortean files: a description, a few pho
 
 It may have been spider silk. It may have been something else. Without a sample, there is no final answer.
 
-The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Angel hair (folklore)” and S2 is “Wikipedia · Spider silk”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
-## Limits of the record
-
-The core facts of “The White Threads That Fell from the Sky” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
-
-“The White Threads That Fell from the Sky” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Newspapers need stories, readers need surprise, and witnesses need explanations. A white thing appears in the sky and will soon be put into the frame of the "flying saucer". The same goes for angel hair: it was originally a natural phenomenon, but it was regarded as "a trace left by an aircraft."
@@ -80,4 +71,4 @@ Today, scientists prefer to call it "spider balloon flight." The name isn't as n
 
 ---
 
-**Sources and licenses**: for “The White Threads That Fell from the Sky”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article keeps the sightings, the material descriptions, and the common explanations separate; it does not claim a verified link between the object and the threads.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

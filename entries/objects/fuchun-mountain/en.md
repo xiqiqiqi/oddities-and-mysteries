@@ -3,7 +3,6 @@ title: "The Painting Cut in Two"
 summary: "In the Yuan dynasty, Huang Gongwang painted Dwelling in the Fuchun Mountains, a handscroll about seven and a half metres long. In the early Qing, a collector tried to have it burned with him as he died. It was rescued, but the fire had split it in two. The first part is in Hangzhou, the second in Taipei. In 2011 they were shown together for the first time."
 lang: en
 ---
-
 ## 1. A long scroll
 
 Dwelling in the Fuchun Mountains is a work by the Yuan-dynasty painter Huang Gongwang.
@@ -64,12 +63,6 @@ Remaining Mountain in Hangzhou is not often displayed, and the Master Wuyong Scr
 
 A painting was cut by fire and then preserved by two different people. It was not restored to its original state, but it survived.
 
-## Limits of the record
-
-The core facts of “The Painting Cut in Two” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Painting Cut in Two” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The inscription and postscript are the impressions, research and praise written by later people. They circulate with the painting and become part of the work. Some inscriptions and postscripts are very long, while others are only a few lines.
@@ -88,4 +81,4 @@ The length of "Dwelling in the Fuchun Mountains" is just right for this kind of 
 
 ---
 
-**Sources and licenses**: for “The Painting Cut in Two”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Huang Gongwang's work, Wu Hongyu's fire, the two collections, and the 2011 reunion; the original length, the dimensions of the two halves, and their locations are recorded in the sources, and the section lost in the fire cannot be recovered.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The Rosetta Stone: Three Scripts and a Key"
 summary: "Found near Rashid (Rosetta) in 1799, a broken basalt slab carries the same decree in Egyptian hieroglyphs, demotic script, and Greek. The parallel texts became the key that opened the decipherment of Egyptian hieroglyphs."
 lang: en
 ---
-
 ## 1. A stone found in a fort
 
 In 1799, during Napoleon's Egyptian campaign, French soldiers building fortifications near Rashid (Rosetta) in the Nile Delta found a slab of black basalt while dismantling an old wall. It was taken to Cairo, then shipped to London as a prize after the French surrender to the British in 1801, and displayed in the British Museum from 1802. The stone is about 112 centimetres high and 76 centimetres wide, with both top and bottom missing. It is not a complete stele but a fragment of a decree stone.
@@ -36,7 +35,7 @@ The stone was a war trophy of Napoleon's expedition and was later taken by Brita
 
 Today the stone's text has been fully translated, while scholars still study the decree's administrative details, the stone's manufacture, and the provenance of the fragment. CT and 3D scanning make the internal structure and surface cuts clearer, and replicas let more visitors see it. 'Rosetta Stone' has also become a general metaphor for anything that provides a key comparison and opens an unknown field. The metaphor is convenient but tends to obscure the fact that the stone supplied only a limited parallel text; actual decipherment depended on generations of papyrus, inscription, and grammar research.
 
-The cover is an AI-assisted reconstruction of “The Rosetta Stone: Three Scripts and a Key”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded row by row in research/image-audit.csv.
+The cover is an AI-assisted reconstruction of “The Rosetta Stone: Three Scripts and a Key”, not a site photograph; the two inline figures are original diagrams, not survey drawings. Image types and licences are recorded in the source ledger below.
 
 ## Archive location
 
@@ -48,4 +47,4 @@ The discovery, transfer, and early decipherment of the stone are well documented
 
 ---
 
-**Sources and licenses**: for “The Rosetta Stone: Three Scripts and a Key”, the factual claims above are traced to S1 and S2 in the source ledger; S3 covers the AI-assisted cover and the two original diagrams. Text and original diagrams are licensed CC BY-SA 4.0. This entry separates the documented record from reconstruction and marks remaining uncertainty under 'Limits of the record'. Where the archive is silent, the text says so rather than filling the gap with narrative. Dates and figures follow the cited pages; interpretations are identified as interpretations, and no hypothesis is presented as a settled fact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The Circles in the Grass"
 summary: "From the air, the grassland at the edge of the Namib Desert looks as if someone punched rows of circular holes into it. The centre of each circle is bare; the rim is ringed by taller grass. Some say termites made them. Others say the grass is competing for water. Both explanations have support, and neither has settled the question."
 lang: en
 ---
-
 ## 1. From the air
 
 The Namib Desert runs along the coast of Namibia. Moving inland from the dunes, the sand gradually gives way to dry grassland and scattered trees.
@@ -60,17 +59,9 @@ Fairy circles remain one of the most striking features of the Namib. They do not
 
 A circle looks simple. Explaining it means understanding termites, grass, water, and soil at the same time.
 
-The factual trail in this entry runs mainly through S1–S4: S1 is “Wikipedia · Fairy circle” and S2 is “Wikipedia · Namib”. Dates, places, and names in the text follow the lowest common denominator of those sources; image credits and licences are listed at the foot of the entry.
-
 ## Archive location
 
 Fairy-circle research is split between long-term field plots, aerial photography, and mathematical models; the archive is strong on pattern and weak on the identity of the organism that makes it.
-
-## Limits of the record
-
-The core facts of “The Circles in the Grass” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
-
-“The Circles in the Grass” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
 
 ## Archival note
 
@@ -80,4 +71,4 @@ The name of the Fairy Circle comes from legend. The answers given by science are
 
 ---
 
-**Sources and licenses**: for “The Circles in the Grass”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article presents the termite hypothesis and the vegetation self-organisation hypothesis side by side, without treating either as the only answer.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

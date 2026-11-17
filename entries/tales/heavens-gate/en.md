@@ -3,7 +3,6 @@ title: "The Ship Behind the Comet"
 summary: "In March 1997, in a rented mansion in Rancho Santa Fe, California, 39 people in black clothes and Nike shoes took poison in shifts. They believed they would board a spacecraft hidden behind Comet Hale-Bopp. It remains one of the most notorious cult deaths in American history."
 lang: en
 ---
-
 ## 1. A House
 
 On 26 March 1997, police in Rancho Santa Fe, California, found 39 bodies in a rented mansion.
@@ -76,12 +75,6 @@ What those 39 people believed in did not return. Their story remains as a remind
 
 *Original schematic: the timeline from the 1970s to 1997 and the relation between the comet and the group's beliefs. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Ship Behind the Comet” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Ship Behind the Comet” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 They believed that a spacecraft would arrive behind the comet, that the comet was the door, and that leaving the earth was the only way to survive its transformation. The door did not open.
@@ -92,4 +85,4 @@ The teachings mixed Christianity, UFO culture, and New Age ideas: the earth was 
 
 ---
 
-**Sources and licenses**: for “The Ship Behind the Comet”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the group's history, its beliefs, the 1997 deaths and the aftermath; the death toll, dates and location are a matter of public record, while the beliefs are the group's faith, not facts. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

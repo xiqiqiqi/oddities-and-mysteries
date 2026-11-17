@@ -3,7 +3,6 @@ title: "The Dolls in the Trees"
 summary: "In the canals of Xochimilco, south of Mexico City, there is a small island covered with broken dolls. Its keeper, Julián Santana Barrera, said he was appeasing the spirit of a drowned girl. In 2001 he was found drowned in the canal beside the island."
 lang: en
 ---
-
 ## 1. The canals
 
 South of Mexico City there is a network of waterways called Xochimilco.
@@ -70,12 +69,6 @@ Was the girl real? There is no record, no name, no body report. No second person
 
 A man lived alone on a small island for fifty years, collected hundreds of dolls, and died in the same water. That is enough by itself. The ghost story grew afterwards.
 
-## Limits of the record
-
-“The Dolls in the Trees” comes mainly from legend, oral tradition, or urban narrative in Xochimilco, Mexico City, Mexico; the entry records how it is told without treating the story itself as established fact.
-
-“The Dolls in the Trees” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 A man lives on an island and fills trees with dolls. He had no idea the dolls would be turned into attractions or that they would be made into horror films.
@@ -107,4 +100,4 @@ Why he died, no one knows. Some say commemoration, some say exorcism, some say j
 
 ---
 
-**Sources and licenses**: for “The Dolls in the Trees”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the canals and the island, Santana's life, the story of the girl, the dolls, and his death; there is no verifiable record of the girl's identity or drowning, and Santana's death is recorded as drowning. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

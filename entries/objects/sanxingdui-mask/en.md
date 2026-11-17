@@ -3,7 +3,6 @@ title: "The Mask with Bulging Eyes"
 summary: "In 1986, a bronze mask came out of a sacrificial pit at Sanxingdui in Guanghan, Sichuan. It is 66 centimetres high and 138 centimetres wide. Its eyes are like two cylinders projecting 16 centimetres forward, and its ears are as large as wings. It is called the “mask with protruding eyes”, and some people say it looks alien. It is not alien; it is a god or ancestor imagined by the ancient Shu people."
 lang: en
 ---
-
 ## 1. The pit of 1986
 
 1986, Guanghan, Sichuan, Sanxingdui.
@@ -66,12 +65,6 @@ It is one of the most famous objects from the site and the source of the “alie
 
 It is not an alien. It is a god imagined by people three thousand years ago.
 
-## Limits of the record
-
-The core facts of “The Mask with Bulging Eyes” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Mask with Bulging Eyes” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Conservation personnel should control the humidity, remove soil and salt from the surface, and treat it with corrosion inhibitors. The gold mask is more fragile, the gold foil is easy to fall off, and cannot be touched casually.
@@ -90,4 +83,4 @@ Gold masks, sun bird gold ornaments and jade articles were also unearthed in Jin
 
 ---
 
-**Sources and licenses**: for “The Mask with Bulging Eyes”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation, the dimensions, the interpretation of the face, the site's context, and the casting technique; the link between the “protruding eyes” and Cancong is one interpretation, not a settled conclusion.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

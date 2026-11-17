@@ -3,7 +3,6 @@ title: "A Three-Century Curse"
 summary: "It weighs only 45.52 carats, yet it has passed through kings, queens, bankers, and socialites. Some say it carries a curse. Others say that is just a story. The real history of the Hope Diamond is stranger than the curse."
 lang: en
 ---
-
 ## 1. The blue stone in the glass case
 
 Washington, D.C. The Smithsonian National Museum of Natural History.
@@ -68,12 +67,6 @@ In the other, it is a rare blue diamond that passed through war, theft, resale, 
 
 The two versions are not entirely incompatible. The stone is real. The misfortunes were real. The question is whether we are willing to fill the gap between them with a good story.
 
-## Limits of the record
-
-“A Three-Century Curse” comes mainly from legend, oral tradition, or urban narrative in India → France → Britain → United States; the entry records how it is told without treating the story itself as established fact.
-
-“A Three-Century Curse” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ---
 
-**Sources and licenses**: for “A Three-Century Curse”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

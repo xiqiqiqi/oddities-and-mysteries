@@ -3,7 +3,6 @@ title: "The Jade in the Stone"
 summary: "A man in Chu found a stone that he insisted contained jade. He presented it to two kings, was called a fraud both times, and lost both feet. A third king had the stone cut open and found the jade inside. The object became the He Shi Bi — and, by legend, the imperial seal of China."
 lang: en
 ---
-
 ## 1. Jingshan
 
 Jingshan lies in western Hubei, a low range of hills that produces stone.
@@ -88,16 +87,10 @@ One stone became a symbol of the state because one man kept insisting there was 
 
 *Original schematic: Bian He's presentation of the jade, the return of the jade to Zhao, and the later legend of the imperial seal. Not a photograph of the object. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Jade in the Stone” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
-
-“The Jade in the Stone” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Lin Xiangru's bravery and resourcefulness allowed He Shibi to return to Zhao. But the authenticity of this story is disputed by historians. It could be a diplomatic story, it didn't necessarily happen.
 
 ---
 
-**Sources and licenses**: for “The Jade in the Stone”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the Han Feizi story of the presentation, the Records of the Grand Historian account of the return to Zhao, and the later legend of the imperial seal; the He Shi Bi itself has not survived, and the claim that the seal was made from it is a widespread tradition, not something stated clearly in the earliest sources. The illustration is a scene reconstruction, not a photograph of the object.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

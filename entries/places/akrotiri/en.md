@@ -3,7 +3,6 @@ title: "The Town Under the Ash"
 summary: "Around 1600 BCE a volcano buried the Bronze Age town of Akrotiri on Santorini. Streets, three-storey houses, frescoes and pottery were sealed under ash. The excavators found almost no human remains. The people seem to have left before the eruption."
 lang: en
 ---
-
 ## 1. Santorini
 
 Santorini lies in the Aegean, a crescent-shaped volcanic island.
@@ -84,12 +83,6 @@ The volcano is still there. The Santorini caldera is active, and its last erupti
 
 The Akrotiri record has three parts: excavation reports from the Greek Archaeological Society and the French School at Athens, which supply architecture, frescoes, pottery, and stratigraphy; volcanological and chronological studies, which debate the date of the eruption and the ash layers; and site-management conservation records, which show which frescoes and structures were moved to museums and which remain in place. These parts operate on different time scales and cannot substitute for one another. This entry separates the fact that the site was buried in ash from the still-debated question of the eruption year.
 
-## Limits of the record
-
-The core facts of “The Town Under the Ash” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Town Under the Ash” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ---
 
-**Sources and licenses**: for “The Town Under the Ash”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

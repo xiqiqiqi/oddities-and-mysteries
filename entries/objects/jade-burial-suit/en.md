@@ -3,7 +3,6 @@ title: "The Jade Suit Sewn with Gold"
 summary: "In 1968, a construction crew in Mancheng, Hebei, broke into a large Han dynasty tomb. Inside was a burial suit made of more than two thousand jade plaques and about a kilogram of gold wire. It wrapped the dead from head to foot like a suit of jade armour. The ancients believed jade could preserve the body."
 lang: en
 ---
-
 ## 1. Mancheng, 1968
 
 In 1968, a construction crew digging an air-raid shelter in Mancheng, Hebei, hit a hard stone wall.
@@ -66,12 +65,6 @@ They sit in climate-controlled cases. Light comes from the side, and the jade pl
 
 A garment made for “immortality” failed to preserve the body, but it preserved the craftsmanship and beliefs of the Han dynasty in remarkable detail.
 
-## Limits of the record
-
-The core facts of “The Jade Suit Sewn with Gold” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
-
-“The Jade Suit Sewn with Gold” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The archaeological team collected the scattered jade pieces and put them together according to their shapes and numbers. The gold thread is a later imitation, not the original.
@@ -91,4 +84,4 @@ This is the whole secret of jade clothing: it cannot make people immortal, it ca
 
 ---
 
-**Sources and licenses**: for “The Jade Suit Sewn with Gold”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the excavation record, the jade-suit system, burial beliefs, and the later ban; the suits did not prevent the bodies from decaying.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

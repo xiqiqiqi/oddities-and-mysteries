@@ -3,7 +3,6 @@ title: The Bronze Masks
 summary: In 1929 a farmer near Guanghan, Sichuan, dug up a pit of jade. In 1986 two sacrificial pits yielded bronze masks with bulging eyes and huge ears, a bronze tree 3.96 metres tall, a life-size bronze figure and a gold staff. The kingdom left no writing, only these faces looking at us.
 lang: en
 ---
-
 ## 1. 1929
 
 Spring 1929, Guanghan, Sichuan. A farmer, Yan Daocheng, was digging an irrigation ditch near his yard when his tool struck something hard. He uncovered a pit of jade and stone.
@@ -98,4 +97,4 @@ We do not know at what.
 
 ---
 
-**Sources and licenses**: for “The Bronze Masks”, sources are listed in the ledger S1–S7 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the 1929 discovery, the 1986 and 2021 pits, the Shu culture and the "alien" claim; the site and the objects rest on archaeology, the alien claim has no evidence. The illustrations are a reconstruction, site photographs and a schematic, not conservation images.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

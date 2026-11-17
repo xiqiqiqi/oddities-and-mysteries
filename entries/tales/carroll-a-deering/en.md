@@ -3,7 +3,6 @@ title: "The Ship With No Crew"
 summary: "In January 1921, a five-masted schooner ran aground on Diamond Shoals off North Carolina. When the Coast Guard boarded her, there was no one aboard — the lifeboats and navigation instruments were gone, and a meal was still in the galley. The eleven crew members were never found."
 lang: en
 ---
-
 ## 1. A ship on Diamond Shoals
 
 On 31 January 1921, off Cape Hatteras, North Carolina.
@@ -66,39 +65,14 @@ Books and articles about the case keep appearing. The theories multiply; the evi
 
 When the ship was towed off the shoal, the lifeboats, the instruments, and the eleven men were all missing. What remained was a meal in the galley and a cat with six toes.
 
-## Limits of the record
-
-The core facts of “The Ship With No Crew” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
-
-“The Ship With No Crew” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
-The things on the boat are still there, but the people are gone. The wind on the Bund has blown the story for a hundred years.
+The Deering archive is not simply a story about a missing ship. Coast Guard reports record the grounding, the condition of the hull and the missing lifeboat; shipping-company records trace the voyage north from Barbados with a cargo of coal; later investigations left conflicting testimony. Together they show a ship that lost control in a storm and a crew that chose to leave — but not why they never came ashore.
 
-The ship was towed back to port and the story was left on the surface. The man is gone, but the cat is still there.
-In 1921, the five-masted schooner Carroll A. Deering was discovered on the Outer Banks of North Carolina. The ship's lifeboat was missing and ten crew members were missing. The ship was towed back to port, but no one could explain why the crew left.
+The details left aboard — a meal in the galley, a six-toed cat, an intact wheel — were repeated and amplified in later tellings. What can be confirmed is that the ship could not be refloated and was blown up on 4 March 1921; neither the wreck nor the crew was ever accounted for.
 
-The cargo on board was timber. There was no damage to the hull and the anchor was still there. The crew's belongings were left in the cabin.
-
-When the ship was found, the sails were lowered and the steering wheel was intact. No storms were recorded at sea.
-
-No one sent a distress signal before the crew disappeared. Their names are not in the port records.
-
-No one knows the answer.
-
-None of the ten people on board left any last words. Search boats searched for ten days and found nothing.
-
-The ship's name comes from its first owner. That was a wealthy businessman. After the ship was towed back to port, it was used as an exhibition. Later, it was demolished.
-
-The families of the crew have been waiting for many years. No result.
-
-No one explained why the ship didn't sink.
-
-The boat was later dismantled into timber and only the photos remain.
-
-The story of the ship has no ending.
+Today the Deering survives in maritime history, legend, and popular culture. It endures not because a hidden truth has been found, but because every checkable object points to the same blank: the people left, the ship remained, and the reason was never recorded.
 
 ---
 
-**Sources and licenses**: for “The Ship With No Crew”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the voyage record, the condition of the ship, and the various theories; the fate of the crew is unresolved, and mutiny, piracy, and smuggling remain hypotheses.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

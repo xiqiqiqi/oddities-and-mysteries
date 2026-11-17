@@ -3,7 +3,6 @@ title: "The Tracks in the Swamp"
 summary: "In 1963 two air traffic controllers in Louisiana's Honey Island Swamp saw a seven-foot grey figure. In 1974 they produced plaster casts of four-toed, webbed tracks and said they had found a wild boar with its throat torn open. A 1978 television episode made the story national. There is no body and no clear photograph, only casts, a reel of Super 8 film and a lot of people who are not sure."
 lang: en
 ---
-
 ## 1. Honey Island
 
 Honey Island Swamp lies near Slidell, Louisiana, between the East and West Pearl Rivers. It covers about seventy thousand acres.
@@ -70,12 +69,6 @@ Sixty years on, the clearest evidence is still a few plaster casts and one old r
 
 The Honey Island material consists of local newspaper features, hunter interviews, and later tourism copy; no specimen, track cast, or photograph has been independently verified.
 
-## Limits of the record
-
-“The Tracks in the Swamp” comes mainly from legend, oral tradition, or urban narrative in Slidell, Louisiana, USA; the entry records how it is told without treating the story itself as established fact.
-
-“The Tracks in the Swamp” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 The myth was popularized in the 1950s by hunter Ford, who filmed the creature and left a letter. Television programs later re‑created the footage with costume and concluded it was a misidentification. The farm on Honey Island fell into neglect. The swamp persists, and the story endures.
@@ -84,4 +77,4 @@ Honey Island Swamp was eventually designated a natural preserve. No specimen of 
 
 ---
 
-**Sources and licenses**: for “The Tracks in the Swamp”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the witnesses' descriptions, the tracks and film, and the sceptics' explanations; no body or clear photograph confirms the creature. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

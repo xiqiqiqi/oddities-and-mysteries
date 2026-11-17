@@ -3,7 +3,6 @@ title: "The Endless Rows of Stone"
 summary: "At Carnac in Brittany, France, more than three thousand standing stones are arranged in long rows that cross fields and scrub for kilometres. They were erected in the Neolithic, long before the pyramids. Who raised them, and why, is still unresolved."
 lang: en
 ---
-
 ## 1. The stones of Brittany
 
 Carnac is a small town on the south coast of Brittany, close to the Atlantic. It rains often, the wind is strong, and the fields are divided by low stone walls and scrub.
@@ -68,12 +67,6 @@ The rows are still there, one after another. They do not need a legend to stand:
 
 The Carnac record begins with nineteenth-century antiquarianism, passes through the French national monuments listing, twentieth-century excavation and restoration, and the recent World Heritage nomination. The rows, dolmens, tumuli, and enclosures are placed within the ritual landscape of Neolithic Brittany; the legend of Saint Cornely offers another explanation. This entry separates the archaeological fact that the stones were built from the still-discussed question of why they were built.
 
-## Limits of the record
-
-The core facts of “The Endless Rows of Stone” are corroborated by at least two independent records among its 4 sources; details that remain unverified are marked in the text.
-
-“The Endless Rows of Stone” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 Saint Cornely turned soldiers into stone to hide from his pursuers. This legend explains why the stone formations are lined up.
@@ -92,4 +85,4 @@ They will still stand for a long time.
 
 ---
 
-**Sources and licenses**: for “The Endless Rows of Stone”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the stones themselves, the dating, and the hypotheses about their purpose; the stories of Saint Cornely and Merlin are later legends, not archaeological conclusions.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

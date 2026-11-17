@@ -3,7 +3,6 @@ title: "The Whistle from the Deep"
 summary: "In 1997, NOAA hydrophones recorded a sound like a whistle. It was not a whale song or a ship; it sounded like someone whistling far away in the deep. It was called Whistle. Like Bloop and Slow Down, it was later identified as an icequake."
 lang: en
 ---
-
 ## 1. Like a whistle
 
 In 1997, NOAA hydrophones in the Pacific recorded a sound.
@@ -66,13 +65,7 @@ It is still a sound from the deep. The speaker has simply changed from “monste
 
 ## Archive location
 
-The whistle archive is unusually thin: a few newspaper items, a family story, and later compilations. No early recording or independent witness statement survives, so the entry keeps the sound and the explanation in separate columns.
-
-## Limits of the record
-
-The core facts of “The Whistle from the Deep” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Whistle from the Deep” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
+The Whistle record comes mainly from NOAA PMEL’s public notes, the 1997 hydrophone-array recording entry, and later reviews linking the signal to icequakes. The raw waveform, array coordinates and processing parameters are not fully public, which limits independent recalculation.
 
 ## Archival note
 
@@ -82,4 +75,4 @@ The ocean is huge and there are very few hydrophones. What we hear is only a sma
 
 ---
 
-**Sources and licenses**: for “The Whistle from the Deep”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. The icequake explanation for Whistle is supported by research; this article separates the recording, the auditory impression, and the later identification.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

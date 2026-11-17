@@ -3,7 +3,6 @@ title: "The Jewel in the Box"
 summary: "The sword is at Atsuta Shrine, the mirror at Ise, and the jewel in Tokyo's Imperial Palace. Known as Yasakani no Magatama, it is never shown in public, and no one opens its box. Myth says it was hung outside a cave; in 1185 it sank with a child emperor and was fished out again. No one alive knows its shape."
 lang: en
 ---
-
 ## 1. A Room in the Palace
 
 On 1 May 2019, Emperor Naruhito acceded to the throne.
@@ -70,12 +69,6 @@ On that day in 2019, the box was carried down a corridor and set down. The cerem
 
 *Original schematic: the three regalia, the 1185 battle of Dan-no-ura and the box in the palace. Not a photograph of an artefact. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Jewel in the Box” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 3 sources side by side.
-
-“The Jewel in the Box” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 But "symbol" is not the same as "legal document". Neither the Meiji Constitution nor the post-war imperial model listed the three artifacts as necessary conditions for ascending to the throne. They were more of a ritual confirmation that the new emperor was inheriting not just power but a set of objects passed down from mythology.
@@ -94,4 +87,4 @@ This closure allows the artifact to retain its mythical status. If they were pla
 
 ---
 
-**Sources and licenses**: for “The Jewel in the Box”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates Shinto myth, imperial ceremony and the present state of the object; the jewel's actual form is not on public record. The illustration is a scene reconstruction, not a photograph of an artefact.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

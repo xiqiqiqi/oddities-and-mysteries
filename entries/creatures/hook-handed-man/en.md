@@ -3,7 +3,6 @@ title: The Hook on the Door
 summary: A young couple park on a lonely road at night; the radio warns of an escapee with a steel hook for a hand. The girl wants to leave, the boy drives her home, and at her door they find a bloody hook hanging from the handle. The story spread among American teenagers in the 1950s, was printed in an advice column in 1960, and has never gone away.
 lang: en
 ---
-
 ## 1. The Door
 
 The story ends beside a parked car.
@@ -84,4 +83,4 @@ And when the story ends, what does the listener do? Check the door.
 
 ---
 
-**Sources and licenses**: for “The Hook on the Door”, sources are listed in the ledger S1–S3 at the foot of this entry. Text and original diagrams are CC BY-SA 4.0. The article keeps apart the story versions, the 1950s setting, the Texarkana case of 1946 and the film adaptations; no real case supports the hook man, and Mikkelson's suggestion is only a possibility. The reconstruction is not a historical photograph.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

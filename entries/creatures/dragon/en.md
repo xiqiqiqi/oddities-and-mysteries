@@ -3,7 +3,6 @@ title: "Two Kinds of Dragon"
 summary: "The Chinese dragon has no wings, lives in water, controls the rain and stands for the emperor. The European dragon has wings, breathes fire, hoards gold and is the monster a knight must kill. Both are called “dragon”, but they are hardly the same creature."
 lang: en
 ---
-
 ## 1. Two kinds of dragon
 
 If you say “long” in Chinese, you think of a serpentine creature without wings, flying through the clouds.
@@ -72,16 +71,10 @@ In recent years some people have proposed translating the Chinese dragon as “l
 
 *Original schematic: the features of the Chinese dragon and the Western dragon compared. Not a photograph of an object. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-“Two Kinds of Dragon” comes mainly from legend, oral tradition, or urban narrative in China / Europe; the entry records how it is told without treating the story itself as established fact.
-
-“Two Kinds of Dragon” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 “Dragon” comes from Greek *drakon*, meaning “serpent” or “guardian.” In Greek mythology, dragons guard treasure or springs; in the Bible, the dragon becomes a metaphor for Satan. The image evolves, its orientation shifting: Western dragons increasingly resemble lizards, emphasising wings and fire.
 
 ---
 
-**Sources and licenses**: for “Two Kinds of Dragon”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the Chinese dragon, the Western dragon, fossils and real animals; dragons are mythical creatures with no biological evidence, and “dragon bones” are fossils, not the remains of dragons. The illustration is a scene reconstruction, not a photograph of an object.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

@@ -3,7 +3,6 @@ title: "The Hotel on Main Street"
 summary: "In 1924 a fourteen-storey marble hotel opened in downtown Los Angeles. It declined into cheap rooms. The Black Dahlia was last seen here, the Night Stalker stayed here, and Elisa Lam died in a rooftop water tank. In 2021 it became housing for homeless residents."
 lang: en
 ---
-
 ## 1. 1924
 
 December 1924, Main Street, downtown Los Angeles. The Cecil Hotel opened.
@@ -66,12 +65,6 @@ The Black Dahlia, the Night Stalker and Elisa Lam are all genuinely connected to
 
 *Original schematic: the 1924–2021 timeline, the Main Street location and the associated cases. Not a photograph of the site. XIQIQI Editorial, CC BY-SA 4.0.*
 
-## Limits of the record
-
-The core facts of “The Hotel on Main Street” are corroborated by at least two independent records among its 3 sources; details that remain unverified are marked in the text.
-
-“The Hotel on Main Street” is currently labelled “verified”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
 
 It no longer accepts tourists and is no longer a "haunted house" attraction. The new owners plan to convert the rooms into residences while retaining some of the historic elements.
@@ -95,4 +88,4 @@ People like to write about it as "The Most Haunted Hotel in America." This label
 
 ---
 
-**Sources and licenses**: for “The Hotel on Main Street”, the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the building and its management, the documented cases, the Elisa Lam death and the ghost stories; the hotel and the cases are documented, while the paranormal claims have no verifiable evidence. The illustration is a scene reconstruction, not a photograph of the site.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

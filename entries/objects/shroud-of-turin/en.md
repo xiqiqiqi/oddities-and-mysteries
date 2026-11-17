@@ -3,7 +3,6 @@ title: "The Face on the Shroud"
 summary: "In Turin Cathedral there is a linen cloth more than four metres long, carrying the front and back image of a bearded man with wounds from whipping, nails and something like a crown of thorns. In 1898 a photographic negative made the face suddenly clear. In 1988 three laboratories dated the cloth to between 1260 and 1390. The argument has not stopped since."
 lang: en
 ---
-
 ## 1. A piece of cloth
 
 The cloth is 4.4 metres long and 1.1 metres wide. Linen, herringbone weave, yellowed with age.
@@ -80,12 +79,6 @@ The Church has not declared the shroud authentic, and has not declared it a fake
 
 One cloth, one face, one date. Put the three together and they still do not add up to an answer everyone accepts.
 
-## Limits of the record
-
-The core facts of “The Face on the Shroud” are broadly supported, but the cause, scale, or details remain contested; the entry keeps competing explanations among its 4 sources side by side.
-
-“The Face on the Shroud” is currently labelled “disputed”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ---
 
-**Sources and licenses**: for “The Face on the Shroud”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.

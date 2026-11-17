@@ -3,7 +3,6 @@ title: "The Woman in the Mirror"
 summary: "Turn off the lights, light a candle, stand before a mirror and say \"Bloody Mary\" three times. It is one of the most famous sleepover games in the English-speaking world. Something does appear in the mirror, but it is your brain, not a ghost."
 lang: en
 ---
-
 ## 1. The Bathroom
 
 Lights off. One candle. Stand in front of the mirror.
@@ -62,14 +61,12 @@ The real Bloody Mary was a queen in history. The one in the mirror was made by s
 
 The Bloody Mary material is mostly oral and commercial: school playgrounds, film and television, and Halloween products. There is no primary archive of the ritual itself, so the entry treats the versions as evidence of how the story is told, not of what happens in a mirror.
 
-## Limits of the record
-
-“The Woman in the Mirror” comes mainly from legend, oral tradition, or urban narrative in Worldwide; the entry records how it is told without treating the story itself as established fact.
-
-“The Woman in the Mirror” is currently labelled “folklore”; that label describes the present state of the evidence for this entry, not a final verdict on the subject.
-
 ## Archival note
+
+The story makes her a colonial woman executed for witchcraft, or a woman who died before a mirror after being disfigured. Different versions give her different crimes, different eras, and even different spellings.
+
+The folklorist Janet Langlois published a paper on the ritual in 1978. She traced the spread of the Mary Worth story through summer camps and schools and found no fixed historical prototype. The name became popular first; the story supplied a background later.
 
 ---
 
-**Sources and licenses**: for “The Woman in the Mirror”, the factual sources are listed in the source ledger S1–S4 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the ritual versions, the historical figures, the folklore record and the psychological explanation; the mirror game has no supernatural evidence, and the distortions can be explained by the Troxler effect and the brain's filling-in. The illustration is a scene reconstruction, not a photograph of a ritual.
+**Sources and licenses**: Text and original diagrams are licensed CC BY-SA 4.0; third-party image and source licences are listed in the source ledger below.
