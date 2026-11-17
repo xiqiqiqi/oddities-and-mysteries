@@ -64,6 +64,8 @@ What stays with me about Slow Down is not what it “might be,” but what it �
 
 On a spectrogram, it is a clean downhill line. You do not need to hear it to see that it is going down. That shape is how researchers separated it from animal calls, ship noise, and earthquake signals.
 
+A smooth descent looks more like a physical process: a bubble contracting, a piece of ice cracking, or a body of water changing shape. Animal calls rarely slide downward so neatly.
+
 Sounds have shapes. We usually listen with our ears, not our eyes.
 
 ---

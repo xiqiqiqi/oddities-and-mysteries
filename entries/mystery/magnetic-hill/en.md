@@ -66,6 +66,8 @@ Visitors queue to drive to the marker and experience a few seconds of “anti-gr
 
 It is not an unsolved mystery. It is more like a public visual experiment: which do you trust, your eyes or your inner ear?
 
+If you go to test it yourself, bring three things: a spirit level, a ball, and a blindfold. The level measures the slope, the ball shows which way “uphill” water runs, and the blindfold removes the tilted references in the landscape. Put the three together and the illusion falls apart.
+
 ---
 
 **Sources and licenses**: the factual sources are listed in the source ledger S1–S3 at the bottom of this entry. Text and original diagrams are licensed under CC BY-SA 4.0. This article separates the visitor experience, the visual explanation, and the name “magnetic”; there is no detectable magnetic anomaly at the site.

@@ -22,7 +22,7 @@
 | 12 | creatures | honey-island-swamp-monster | 沼泽里的脚印 | The Tracks in the Swamp | 1129 | 726 | 7/7 | 5 | 2 | pass |
 | 13 | creatures | hook-handed-man | 车门上的钩子 | The Hook on the Door | 1801 | 1078 | 8/8 | 5 | 3 | pass |
 | 14 | creatures | igopogo | 湖面的驼峰 | The Hump on the Lake | 1819 | 1035 | 8/8 | 5 | 3 | pass |
-| 15 | creatures | kelpie | 水里的马 | The Horse in the Water | 1078 | 816 | 6/6 | 5 | 3 | pass |
+| 15 | creatures | kelpie | 水里的马 | The Horse in the Water | 1110 | 843 | 6/6 | 5 | 3 | pass |
 | 16 | creatures | kuchisake-onna | 裂口女：一个问题的两种答案 | Kuchisake-onna: One Question, Two Answers | 1812 | 1129 | 7/7 | 5 | 4 | pass |
 | 17 | creatures | leviathan | 海里的巨兽 | The Beast in the Sea | 1839 | 1027 | 8/8 | 5 | 2 | pass |
 | 18 | creatures | loch-ness | 湖面下的长颈 | The Neck Beneath the Loch | 1599 | 1083 | 6/6 | 5 | 3 | pass |
@@ -54,19 +54,19 @@
 | 44 | mystery | hessdalen-lights | 山谷里的光 | The Lights in the Valley | 1264 | 801 | 6/6 | 5 | 2 | pass |
 | 45 | mystery | hudson-valley-ufo | V 形的天空 | The V in the Sky | 1816 | 1295 | 7/7 | 5 | 4 | pass |
 | 46 | mystery | litvinenko | 利特维年科：一把茶壶里的钋 | Litvinenko: Polonium in a Teapot | 1935 | 1050 | 6/6 | 5 | 4 | pass |
-| 47 | mystery | magnetic-hill | 车自己上坡 | The Hill That Pulls Cars Uphill | 975 | 675 | 6/6 | 5 | 3 | pass |
+| 47 | mystery | magnetic-hill | 车自己上坡 | The Hill That Pulls Cars Uphill | 1049 | 725 | 6/6 | 5 | 3 | pass |
 | 48 | mystery | min-min-lights | 跟着车走的光 | The Light That Followed the Car | 1106 | 771 | 6/6 | 5 | 3 | pass |
 | 49 | mystery | paulding-light | 树林里的灯 | The Light in the Woods | 1113 | 788 | 6/6 | 5 | 3 | pass |
 | 50 | mystery | phoenix-lights | 凤凰城那一夜 | The Night Over Phoenix | 1140 | 757 | 6/6 | 5 | 2 | pass |
 | 51 | mystery | phoenix-mountain-ufo | 山上的白东西 | The White Thing on the Mountain | 1094 | 789 | 6/6 | 5 | 2 | pass |
 | 52 | mystery | sailing-stones | 石头自己走了 | The Stones That Walk | 1180 | 842 | 6/6 | 5 | 2 | pass |
 | 53 | mystery | shag-harbour | 掉进海里的光 | The Light That Fell into the Sea | 998 | 713 | 7/7 | 5 | 2 | pass |
-| 54 | mystery | slow-down | 慢慢下沉的声音 | The Sound That Slowed Down | 967 | 655 | 6/6 | 5 | 2 | pass |
+| 54 | mystery | slow-down | 慢慢下沉的声音 | The Sound That Slowed Down | 1017 | 686 | 6/6 | 5 | 2 | pass |
 | 55 | mystery | tabbys-star | 那颗星变暗了 | The Star That Kept Dimming | 1111 | 715 | 6/6 | 5 | 2 | pass |
 | 56 | mystery | tunguska-1908 | 那天早上，天空裂开了 | That Morning, the Sky Split Open | 1787 | 1118 | 6/6 | 5 | 8 | pass |
 | 57 | mystery | us-uap-report | 没有结论的报告 | The Report Without a Conclusion | 1805 | 1167 | 7/7 | 5 | 5 | pass |
 | 58 | mystery | varginha-ufo | 墙边的生物 | The Creature by the Wall | 1830 | 1260 | 8/8 | 5 | 4 | pass |
-| 59 | mystery | wanggongchang-1626 | 天启六年，北京爆炸 | The Day Beijing Shook | 1266 | 855 | 6/6 | 5 | 2 | pass |
+| 59 | mystery | wanggongchang-1626 | 天启六年，北京爆炸 | The Day Beijing Shook | 1294 | 880 | 6/6 | 5 | 2 | pass |
 | 60 | mystery | washington-merry-go-round | 雷达上的华盛顿 | Washington on Radar | 1014 | 666 | 7/7 | 5 | 2 | pass |
 | 61 | mystery | whistle | 海底的口哨 | The Whistle from the Deep | 934 | 664 | 6/6 | 5 | 2 | pass |
 | 62 | objects | annabelle-doll | 安娜贝尔：一只布娃娃的履历 | Annabelle: The Résumé of a Cloth Doll | 1941 | 1334 | 6/6 | 5 | 5 | pass |

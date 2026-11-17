@@ -62,7 +62,7 @@ In Scotland the two are often mixed together, but they are not the same. One is 
 
 Today the kelpie is a cultural symbol.
 
-In 2014, two huge horse-head sculptures called The Kelpies were built at Falkirk in Scotland. They are thirty metres high, made of steel, stand beside the canal, and light up at night.
+In 2014, two huge horse-head sculptures called The Kelpies were built at Falkirk in Scotland. They are thirty metres high, made of steel, stand beside the canal, and light up at night. They were designed by Andy Scott, who turned the horse heads into abstract geometry: from a distance they look like two towers; up close they become horses.
 
 A story meant to warn children ended up as a tourist landmark. The horse is still there; it just no longer drags anyone into the water.
 

@@ -50,7 +50,7 @@ People asked these questions in the Ming dynasty. They still do.
 
 Modern writers have proposed several explanations.
 
-The first is a gunpowder explosion. It is the safest and best fits the site. The question is whether the amount stored could produce the observed damage.
+The first is a gunpowder explosion. It is the safest and best fits the site. The question is whether the amount stored could produce the observed damage. Some estimates put it at the equivalent of several thousand tons of TNT; others are much lower. The inventory and the yield are both disputed.
 
 The second is an earthquake. Beijing lies near seismic zones. An earthquake could have started a fire in the depot and could explain collapsed buildings. But it does not explain why the blast centre was so concentrated.
 
