@@ -45,6 +45,7 @@ sources:
   - id: S4
     title: "NOAA Ocean Explorer · Expedition to the Deep Slope: May 31 Log"
     publisher: "NOAA Ocean Explorer（Stanford University 存档镜像）"
+    publisher_en: "NOAA Ocean Explorer (Stanford University archive)"
     url: http://large.stanford.edu/publications/coal/references/roberts3/
     year: "2006"
     license: "美国政府公开资料；Stanford 页面存档"
